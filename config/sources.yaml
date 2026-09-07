@@ -1,5 +1,6 @@
 # News feeds used by the monitor.
 sources:
+  # Geopolitico — broad geopolitical, defence and Greek-interest watch.
   - name: NATO News
     url: https://www.nato.int/cps/en/natohq/news_rss.htm
     modes: [geopolitico]
@@ -8,7 +9,82 @@ sources:
   - name: Defense News
     url: https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml
     modes: [geopolitico]
+    source_weight: 1.10
+
+  - name: Breaking Defense Watch
+    url: https://news.google.com/rss/search?q=site%3Abreakingdefense.com+Greece+OR+Turkey+OR+Israel+OR+India+OR+NATO&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.10
+
+  - name: Janes Watch
+    url: https://news.google.com/rss/search?q=site%3Ajanes.com+Greece+OR+Turkey+OR+Cyprus+OR+Israel+OR+India+OR+Pakistan&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.15
+
+  - name: The War Zone Watch
+    url: https://news.google.com/rss/search?q=site%3Atwz.com+Greece+OR+Turkey+OR+Israel+OR+Eastern+Mediterranean+OR+drone+OR+F-35&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.10
+
+  - name: RUSI Watch
+    url: https://news.google.com/rss/search?q=site%3Arusi.org+Turkey+OR+Greece+OR+Israel+OR+India+OR+Pakistan+OR+China&hl=en&gl=GB&ceid=GB%3Aen
+    modes: [geopolitico]
+    source_weight: 1.10
+
+  - name: ISW Watch
+    url: https://news.google.com/rss/search?q=site%3Aunderstandingwar.org+Turkey+OR+Syria+OR+Iran+OR+Israel+OR+Russia&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.10
+
+  - name: Greece Turkey Aegean Watch
+    url: https://news.google.com/rss/search?q=Greece+Turkey+Aegean+Eastern+Mediterranean+NAVTEX+defence&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.20
+
+  - name: Cyprus Eastern Mediterranean Watch
+    url: https://news.google.com/rss/search?q=Cyprus+Eastern+Mediterranean+Turkey+Greece+Israel+energy+defence&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.15
+
+  - name: Greece India Strategic Watch
+    url: https://news.google.com/rss/search?q=Greece+India+defence+OR+defense+OR+IMEC+OR+trade+OR+AI+OR+industry+OR+education+OR+infrastructure&hl=en&gl=IN&ceid=IN%3Aen
+    modes: [geopolitico]
+    source_weight: 1.20
+
+  - name: Greece Israel Strategic Watch
+    url: https://news.google.com/rss/search?q=Greece+Israel+defence+OR+defense+OR+energy+OR+cyber+OR+drone+OR+IMEC+OR+EastMed+OR+interconnector&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.20
+
+  - name: Greece Cyprus Israel Watch
+    url: https://news.google.com/rss/search?q=Greece+Cyprus+Israel+3%2B1+EastMed+Great+Sea+Interconnector+defence+energy&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.20
+
+  - name: Pakistan Security Watch
+    url: https://news.google.com/rss/search?q=Pakistan+terrorism+OR+counterterrorism+OR+TTP+OR+Balochistan+OR+ISI+OR+missile+OR+nuclear&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.10
+
+  - name: Pakistan Turkey Watch
+    url: https://news.google.com/rss/search?q=Pakistan+Turkey+defence+OR+military+OR+drone+OR+technology+OR+navy+OR+air+force&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.15
+
+  - name: Pakistan Greece Migration Watch
+    url: https://news.google.com/rss/search?q=Pakistan+Greece+Pakistani+migration+OR+smuggling+OR+arrest+OR+deportation&hl=en&gl=GR&ceid=GR%3Aen
+    modes: [geopolitico]
+    source_weight: 1.10
+
+  - name: China Strategic Watch
+    url: https://news.google.com/rss/search?q=China+espionage+OR+AI+OR+Taiwan+OR+human+rights+OR+Uyghur+OR+US+competition&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
     source_weight: 1.05
+
+  - name: F35 Drone Navy Watch
+    url: https://news.google.com/rss/search?q=F-35+OR+drone+warfare+OR+naval+warfare+OR+Black+Sea+NATO+Turkey+Greece&hl=en&gl=US&ceid=US%3Aen
+    modes: [geopolitico]
+    source_weight: 1.10
 
   # Pontos Voice — Turkish regional press / Pontus heritage watch.
   - name: 61Saat Trabzon
