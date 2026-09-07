@@ -1,179 +1,63 @@
 # News feeds used by the monitor.
 sources:
   # Geopolitico — broad geopolitical, defence and Greek-interest watch.
-  - name: NATO News
-    url: https://www.nato.int/cps/en/natohq/news_rss.htm
-    modes: [geopolitico]
-    source_weight: 1.15
-  - name: Defense News
-    url: https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml
-    modes: [geopolitico]
-    source_weight: 1.10
-  - name: Breaking Defense Watch
-    url: https://news.google.com/rss/search?q=site%3Abreakingdefense.com+Greece+OR+Turkey+OR+Israel+OR+India+OR+NATO&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.10
-  - name: Janes Watch
-    url: https://news.google.com/rss/search?q=site%3Ajanes.com+Greece+OR+Turkey+OR+Cyprus+OR+Israel+OR+India+OR+Pakistan&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.15
-  - name: The War Zone Watch
-    url: https://news.google.com/rss/search?q=site%3Atwz.com+Greece+OR+Turkey+OR+Israel+OR+Eastern+Mediterranean+OR+drone+OR+F-35&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.10
-  - name: RUSI Watch
-    url: https://news.google.com/rss/search?q=site%3Arusi.org+Turkey+OR+Greece+OR+Israel+OR+India+OR+Pakistan+OR+China&hl=en&gl=GB&ceid=GB%3Aen
-    modes: [geopolitico]
-    source_weight: 1.10
-  - name: ISW Watch
-    url: https://news.google.com/rss/search?q=site%3Aunderstandingwar.org+Turkey+OR+Syria+OR+Iran+OR+Israel+OR+Russia&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.15
+  - {name: NATO News, url: "https://www.nato.int/cps/en/natohq/news_rss.htm", modes: [geopolitico], source_weight: 1.15}
+  - {name: Defense News, url: "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", modes: [geopolitico], source_weight: 1.10}
+  - {name: Breaking Defense Watch, url: "https://news.google.com/rss/search?q=site%3Abreakingdefense.com+Greece+OR+Turkey+OR+Israel+OR+India+OR+NATO&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.10}
+  - {name: Janes Watch, url: "https://news.google.com/rss/search?q=site%3Ajanes.com+Greece+OR+Turkey+OR+Cyprus+OR+Israel+OR+India+OR+Pakistan&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.15}
+  - {name: The War Zone Watch, url: "https://news.google.com/rss/search?q=site%3Atwz.com+Greece+OR+Turkey+OR+Israel+OR+Eastern+Mediterranean+OR+drone+OR+F-35&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.10}
+  - {name: RUSI Watch, url: "https://news.google.com/rss/search?q=site%3Arusi.org+Turkey+OR+Greece+OR+Israel+OR+India+OR+Pakistan+OR+China&hl=en&gl=GB&ceid=GB%3Aen", modes: [geopolitico], source_weight: 1.15}
+  - {name: ISW Watch, url: "https://news.google.com/rss/search?q=site%3Aunderstandingwar.org+Turkey+OR+Syria+OR+Iran+OR+Israel+OR+Russia&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.15}
 
-  # Think tanks / analysis sources previously used in editorial work.
-  - name: Middle East Forum Watch
-    url: https://news.google.com/rss/search?q=site%3Ameforum.org+Turkey+OR+Greece+OR+Cyprus+OR+Israel+OR+Syria+OR+Iran+OR+Pakistan&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.20
-  - name: Hudson Institute Watch
-    url: https://news.google.com/rss/search?q=site%3Ahudson.org+Turkey+OR+Greece+OR+Israel+OR+India+OR+China+OR+NATO&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.15
-  - name: RIEAS Watch
-    url: https://news.google.com/rss/search?q=site%3Arieas.gr+Turkey+OR+Greece+OR+Cyprus+OR+Israel+OR+Eastern+Mediterranean+OR+intelligence&hl=en&gl=GR&ceid=GR%3Aen
-    modes: [geopolitico]
-    source_weight: 1.20
-  - name: Yetkin Report Watch
-    url: https://news.google.com/rss/search?q=site%3Ayetkinreport.com+Greece+OR+Turkey+OR+Cyprus+OR+NATO+OR+Syria+OR+energy&hl=en&gl=TR&ceid=TR%3Aen
-    modes: [geopolitico]
-    source_weight: 1.10
-  - name: DefenceXP India Watch
-    url: https://news.google.com/rss/search?q=site%3Adefencexp.com+Greece+OR+Turkey+OR+Armenia+OR+Pakistan+OR+India+defence&hl=en&gl=IN&ceid=IN%3Aen
-    modes: [geopolitico]
-    source_weight: 1.15
-  - name: Line of State Shay Gal Watch
-    url: https://news.google.com/rss/search?q=%22Shay+Gal%22+Greece+OR+Cyprus+OR+Turkey+OR+Israel+OR+India+OR+NATO&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.15
-  - name: SouthFront Watch
-    url: https://news.google.com/rss/search?q=site%3Asouthfront.press+Syria+OR+Turkey+OR+Iraq+OR+Israel+OR+Black+Sea&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 0.90
+  # Think tanks / analysis.
+  - {name: Middle East Forum Watch, url: "https://news.google.com/rss/search?q=site%3Ameforum.org+Turkey+OR+Greece+OR+Cyprus+OR+Israel+OR+Syria+OR+Iran+OR+Pakistan&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: Hudson Institute Watch, url: "https://news.google.com/rss/search?q=site%3Ahudson.org+Turkey+OR+Greece+OR+Israel+OR+India+OR+China+OR+NATO&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.15}
+  - {name: RIEAS Watch, url: "https://news.google.com/rss/search?q=site%3Arieas.gr+Turkey+OR+Greece+OR+Cyprus+OR+Israel+OR+Eastern+Mediterranean+OR+intelligence&hl=en&gl=GR&ceid=GR%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: The National Interest Watch, url: "https://news.google.com/rss/search?q=site%3Anationalinterest.org+Turkey+OR+Greece+OR+Israel+OR+India+OR+Pakistan+OR+China+OR+Russia+OR+NATO&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.10}
+  - {name: Observer Research Foundation ORF, url: "https://news.google.com/rss/search?q=site%3Aorfonline.org+Greece+OR+Turkey+OR+India+OR+IMEC+OR+Israel+OR+Pakistan+OR+China+OR+Mediterranean&hl=en&gl=IN&ceid=IN%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: European Centre for Law and Justice ECLJ, url: "https://news.google.com/rss/search?q=site%3Aeclj.org+Turkey+OR+Greece+OR+Cyprus+OR+Armenia+OR+religious+freedom+OR+human+rights&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.10}
+  - {name: Foreign Policy Research Institute FPRI, url: "https://news.google.com/rss/search?q=site%3Afpri.org+Turkey+OR+Greece+OR+Black+Sea+OR+Russia+OR+Ukraine+OR+NATO+OR+Middle+East&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: Nordic Monitor, url: "https://news.google.com/rss/search?q=site%3Anordicmonitor.com+Turkey+OR+Erdogan+OR+MIT+OR+Greece+OR+NATO+OR+Islamist&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.15}
+  - {name: EU Institute for Security Studies EUISS, url: "https://news.google.com/rss/search?q=site%3Aiss.europa.eu+Turkey+OR+Greece+OR+Mediterranean+OR+Russia+OR+China+OR+Middle+East+OR+defence&hl=en&gl=GB&ceid=GB%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: CSIS Watch, url: "https://news.google.com/rss/search?q=site%3Acsis.org+Turkey+OR+Greece+OR+Israel+OR+India+OR+Pakistan+OR+China+OR+NATO+OR+Middle+East&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: Belgrade Centre for Security Policy BCSP, url: "https://news.google.com/rss/search?q=site%3Abezbednost.org+Turkey+OR+Greece+OR+Serbia+OR+Kosovo+OR+Balkans+OR+NATO+OR+Russia&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.10}
+  - {name: Council on Foreign Relations CFR, url: "https://news.google.com/rss/search?q=site%3Acfr.org+Turkey+OR+Greece+OR+Israel+OR+India+OR+Pakistan+OR+China+OR+Russia+OR+Middle+East&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: Foundation for Defense of Democracies FDD, url: "https://news.google.com/rss/search?q=site%3Afdd.org+Turkey+OR+Greece+OR+Israel+OR+Iran+OR+Syria+OR+Hamas+OR+Hezbollah+OR+Pakistan&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: Yetkin Report Watch, url: "https://news.google.com/rss/search?q=site%3Ayetkinreport.com+Greece+OR+Turkey+OR+Cyprus+OR+NATO+OR+Syria+OR+energy&hl=en&gl=TR&ceid=TR%3Aen", modes: [geopolitico], source_weight: 1.10}
+  - {name: DefenceXP India Watch, url: "https://news.google.com/rss/search?q=site%3Adefencexp.com+Greece+OR+Turkey+OR+Armenia+OR+Pakistan+OR+India+defence&hl=en&gl=IN&ceid=IN%3Aen", modes: [geopolitico], source_weight: 1.15}
+  - {name: Line of State Shay Gal Watch, url: "https://news.google.com/rss/search?q=%22Shay+Gal%22+Greece+OR+Cyprus+OR+Turkey+OR+Israel+OR+India+OR+NATO&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.15}
+  - {name: SouthFront Watch, url: "https://news.google.com/rss/search?q=site%3Asouthfront.press+Syria+OR+Turkey+OR+Iraq+OR+Israel+OR+Black+Sea&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 0.90}
 
   # Strategic topic watches.
-  - name: Greece Turkey Aegean Watch
-    url: https://news.google.com/rss/search?q=Greece+Turkey+Aegean+Eastern+Mediterranean+NAVTEX+defence&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.20
-  - name: Cyprus Eastern Mediterranean Watch
-    url: https://news.google.com/rss/search?q=Cyprus+Eastern+Mediterranean+Turkey+Greece+Israel+energy+defence&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.15
-  - name: Greece India Strategic Watch
-    url: https://news.google.com/rss/search?q=Greece+India+defence+OR+defense+OR+IMEC+OR+trade+OR+AI+OR+industry+OR+education+OR+infrastructure&hl=en&gl=IN&ceid=IN%3Aen
-    modes: [geopolitico]
-    source_weight: 1.20
-  - name: Greece Israel Strategic Watch
-    url: https://news.google.com/rss/search?q=Greece+Israel+defence+OR+defense+OR+energy+OR+cyber+OR+drone+OR+IMEC+OR+EastMed+OR+interconnector&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.20
-  - name: Greece Cyprus Israel Watch
-    url: https://news.google.com/rss/search?q=Greece+Cyprus+Israel+3%2B1+EastMed+Great+Sea+Interconnector+defence+energy&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.20
-  - name: Pakistan Security Watch
-    url: https://news.google.com/rss/search?q=Pakistan+terrorism+OR+counterterrorism+OR+TTP+OR+Balochistan+OR+ISI+OR+missile+OR+nuclear&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.10
-  - name: Pakistan Turkey Watch
-    url: https://news.google.com/rss/search?q=Pakistan+Turkey+defence+OR+military+OR+drone+OR+technology+OR+navy+OR+air+force&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.15
-  - name: Pakistan Greece Migration Watch
-    url: https://news.google.com/rss/search?q=Pakistan+Greece+Pakistani+migration+OR+smuggling+OR+arrest+OR+deportation&hl=en&gl=GR&ceid=GR%3Aen
-    modes: [geopolitico]
-    source_weight: 1.10
-  - name: China Strategic Watch
-    url: https://news.google.com/rss/search?q=China+espionage+OR+AI+OR+Taiwan+OR+human+rights+OR+Uyghur+OR+US+competition&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.05
-  - name: F35 Drone Navy Watch
-    url: https://news.google.com/rss/search?q=F-35+OR+drone+warfare+OR+naval+warfare+OR+Black+Sea+NATO+Turkey+Greece&hl=en&gl=US&ceid=US%3Aen
-    modes: [geopolitico]
-    source_weight: 1.10
+  - {name: Greece Turkey Aegean Watch, url: "https://news.google.com/rss/search?q=Greece+Turkey+Aegean+Eastern+Mediterranean+NAVTEX+defence&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: Cyprus Eastern Mediterranean Watch, url: "https://news.google.com/rss/search?q=Cyprus+Eastern+Mediterranean+Turkey+Greece+Israel+energy+defence&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.15}
+  - {name: Greece India Strategic Watch, url: "https://news.google.com/rss/search?q=Greece+India+defence+OR+defense+OR+IMEC+OR+trade+OR+AI+OR+industry+OR+education+OR+infrastructure&hl=en&gl=IN&ceid=IN%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: Greece Israel Strategic Watch, url: "https://news.google.com/rss/search?q=Greece+Israel+defence+OR+defense+OR+energy+OR+cyber+OR+drone+OR+IMEC+OR+EastMed+OR+interconnector&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: Greece Cyprus Israel Watch, url: "https://news.google.com/rss/search?q=Greece+Cyprus+Israel+3%2B1+EastMed+Great+Sea+Interconnector+defence+energy&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.20}
+  - {name: Pakistan Security Watch, url: "https://news.google.com/rss/search?q=Pakistan+terrorism+OR+counterterrorism+OR+TTP+OR+Balochistan+OR+ISI+OR+missile+OR+nuclear&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.10}
+  - {name: Pakistan Turkey Watch, url: "https://news.google.com/rss/search?q=Pakistan+Turkey+defence+OR+military+OR+drone+OR+technology+OR+navy+OR+air+force&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.15}
+  - {name: Pakistan Greece Migration Watch, url: "https://news.google.com/rss/search?q=Pakistan+Greece+Pakistani+migration+OR+smuggling+OR+arrest+OR+deportation&hl=en&gl=GR&ceid=GR%3Aen", modes: [geopolitico], source_weight: 1.10}
+  - {name: China Strategic Watch, url: "https://news.google.com/rss/search?q=China+espionage+OR+AI+OR+Taiwan+OR+human+rights+OR+Uyghur+OR+US+competition&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.05}
+  - {name: F35 Drone Navy Watch, url: "https://news.google.com/rss/search?q=F-35+OR+drone+warfare+OR+naval+warfare+OR+Black+Sea+NATO+Turkey+Greece&hl=en&gl=US&ceid=US%3Aen", modes: [geopolitico], source_weight: 1.10}
 
-  # Pontos Voice — Turkish regional press / Pontus heritage watch.
-  - name: 61Saat Trabzon
-    url: https://www.61saat.com/rss
-    modes: [pontos_voice]
-    source_weight: 1.15
-  - name: Sayfa61 Trabzon
-    url: https://news.google.com/rss/search?q=site%3Asayfa61.com&hl=tr&gl=TR&ceid=TR%3Atr
-    modes: [pontos_voice]
-    source_weight: 1.10
-  - name: Haber61 Trabzon
-    url: https://news.google.com/rss/search?q=site%3Ahaber61.net&hl=tr&gl=TR&ceid=TR%3Atr
-    modes: [pontos_voice]
-    source_weight: 1.10
-  - name: Gumushane.gen.tr
-    url: https://news.google.com/rss/search?q=site%3Agumushane.gen.tr&hl=tr&gl=TR&ceid=TR%3Atr
-    modes: [pontos_voice]
-    source_weight: 1.05
-  - name: Ordu Yorum
-    url: https://news.google.com/rss/search?q=site%3Aorduyorum.com&hl=tr&gl=TR&ceid=TR%3Atr
-    modes: [pontos_voice]
-    source_weight: 1.00
+  # Pontos Voice.
+  - {name: 61Saat Trabzon, url: "https://www.61saat.com/rss", modes: [pontos_voice], source_weight: 1.15}
+  - {name: Sayfa61 Trabzon, url: "https://news.google.com/rss/search?q=site%3Asayfa61.com&hl=tr&gl=TR&ceid=TR%3Atr", modes: [pontos_voice], source_weight: 1.10}
+  - {name: Haber61 Trabzon, url: "https://news.google.com/rss/search?q=site%3Ahaber61.net&hl=tr&gl=TR&ceid=TR%3Atr", modes: [pontos_voice], source_weight: 1.10}
+  - {name: Gumushane.gen.tr, url: "https://news.google.com/rss/search?q=site%3Agumushane.gen.tr&hl=tr&gl=TR&ceid=TR%3Atr", modes: [pontos_voice], source_weight: 1.05}
+  - {name: Ordu Yorum, url: "https://news.google.com/rss/search?q=site%3Aorduyorum.com&hl=tr&gl=TR&ceid=TR%3Atr", modes: [pontos_voice], source_weight: 1.00}
 
-  # Sportdog — football news and transfer watch.
-  - name: BBC Sport Football
-    url: https://feeds.bbci.co.uk/sport/football/rss.xml
-    modes: [sportdog]
-    source_weight: 1.00
-  - name: UEFA
-    url: https://www.uefa.com/rssfeed/news/rss.xml
-    modes: [sportdog]
-    source_weight: 1.05
-  - name: Greek Transfer News
-    url: https://news.google.com/rss/search?q=%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE+%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+OR+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C%CF%82+OR+%CE%91%CE%95%CE%9A+OR+%CE%A0%CE%91%CE%9F%CE%9A+OR+%CE%86%CF%81%CE%B7%CF%82&hl=el&gl=GR&ceid=GR%3Ael
-    modes: [sportdog]
-    source_weight: 1.15
-  - name: Olympiacos Transfer Watch
-    url: https://news.google.com/rss/search?q=Olympiacos+transfer+OR+%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
-    modes: [sportdog]
-    source_weight: 1.15
-  - name: Panathinaikos Transfer Watch
-    url: https://news.google.com/rss/search?q=Panathinaikos+transfer+OR+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C%CF%82+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
-    modes: [sportdog]
-    source_weight: 1.15
-  - name: AEK Transfer Watch
-    url: https://news.google.com/rss/search?q=AEK+transfer+OR+%CE%91%CE%95%CE%9A+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
-    modes: [sportdog]
-    source_weight: 1.15
-  - name: PAOK Transfer Watch
-    url: https://news.google.com/rss/search?q=PAOK+transfer+OR+%CE%A0%CE%91%CE%9F%CE%9A+OR+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
-    modes: [sportdog]
-    source_weight: 1.15
-  - name: Aris Transfer Watch
-    url: https://news.google.com/rss/search?q=Aris+transfer+OR+%CE%86%CF%81%CE%B7%CF%82+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
-    modes: [sportdog]
-    source_weight: 1.10
-  - name: Fabrizio Romano Watch
-    url: https://news.google.com/rss/search?q=%22Fabrizio+Romano%22+transfer&hl=en&gl=US&ceid=US%3Aen
-    modes: [sportdog]
-    source_weight: 1.15
-  - name: David Ornstein Watch
-    url: https://news.google.com/rss/search?q=%22David+Ornstein%22+transfer&hl=en&gl=GB&ceid=GB%3Aen
-    modes: [sportdog]
-    source_weight: 1.15
-  - name: Gianluca Di Marzio Watch
-    url: https://news.google.com/rss/search?q=%22Gianluca+Di+Marzio%22+transfer&hl=en&gl=GB&ceid=GB%3Aen
-    modes: [sportdog]
-    source_weight: 1.10
-  - name: Transfermarkt News Watch
-    url: https://news.google.com/rss/search?q=site%3Atransfermarkt.com+transfer&hl=en&gl=GB&ceid=GB%3Aen
-    modes: [sportdog]
-    source_weight: 1.05
-  - name: Football Italia Transfers
-    url: https://news.google.com/rss/search?q=site%3Afootball-italia.net+transfer&hl=en&gl=GB&ceid=GB%3Aen
-    modes: [sportdog]
-    source_weight: 1.05
+  # Sportdog.
+  - {name: BBC Sport Football, url: "https://feeds.bbci.co.uk/sport/football/rss.xml", modes: [sportdog], source_weight: 1.00}
+  - {name: UEFA, url: "https://www.uefa.com/rssfeed/news/rss.xml", modes: [sportdog], source_weight: 1.05}
+  - {name: Greek Transfer News, url: "https://news.google.com/rss/search?q=%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE+%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+OR+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C%CF%82+OR+%CE%91%CE%95%CE%9A+OR+%CE%A0%CE%91%CE%9F%CE%9A+OR+%CE%86%CF%81%CE%B7%CF%82&hl=el&gl=GR&ceid=GR%3Ael", modes: [sportdog], source_weight: 1.15}
+  - {name: Olympiacos Transfer Watch, url: "https://news.google.com/rss/search?q=Olympiacos+transfer+OR+%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael", modes: [sportdog], source_weight: 1.15}
+  - {name: Panathinaikos Transfer Watch, url: "https://news.google.com/rss/search?q=Panathinaikos+transfer+OR+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C%CF%82+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael", modes: [sportdog], source_weight: 1.15}
+  - {name: AEK Transfer Watch, url: "https://news.google.com/rss/search?q=AEK+transfer+OR+%CE%91%CE%95%CE%9A+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael", modes: [sportdog], source_weight: 1.15}
+  - {name: PAOK Transfer Watch, url: "https://news.google.com/rss/search?q=PAOK+transfer+OR+%CE%A0%CE%91%CE%9F%CE%9A+OR+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael", modes: [sportdog], source_weight: 1.15}
+  - {name: Aris Transfer Watch, url: "https://news.google.com/rss/search?q=Aris+transfer+OR+%CE%86%CF%81%CE%B7%CF%82+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael", modes: [sportdog], source_weight: 1.10}
+  - {name: Fabrizio Romano Watch, url: "https://news.google.com/rss/search?q=%22Fabrizio+Romano%22+transfer&hl=en&gl=US&ceid=US%3Aen", modes: [sportdog], source_weight: 1.15}
+  - {name: David Ornstein Watch, url: "https://news.google.com/rss/search?q=%22David+Ornstein%22+transfer&hl=en&gl=GB&ceid=GB%3Aen", modes: [sportdog], source_weight: 1.15}
+  - {name: Gianluca Di Marzio Watch, url: "https://news.google.com/rss/search?q=%22Gianluca+Di+Marzio%22+transfer&hl=en&gl=GB&ceid=GB%3Aen", modes: [sportdog], source_weight: 1.10}
+  - {name: Transfermarkt News Watch, url: "https://news.google.com/rss/search?q=site%3Atransfermarkt.com+transfer&hl=en&gl=GB&ceid=GB%3Aen", modes: [sportdog], source_weight: 1.05}
+  - {name: Football Italia Transfers, url: "https://news.google.com/rss/search?q=site%3Afootball-italia.net+transfer&hl=en&gl=GB&ceid=GB%3Aen", modes: [sportdog], source_weight: 1.05}
