@@ -1,4 +1,4 @@
-const state={items:[],generatedAt:null};
+const state={items:[],generatedAt:null,transferSources:[]};
 const labels={geopolitico:'Geopolitico',pontos_voice:'Pontos Voice',sportdog:'Sportdog'};
 
 async function loadNews(){
@@ -8,6 +8,16 @@ async function loadNews(){
   state.items=data.items||[];
   state.generatedAt=data.generated_at||null;
   render();
+}
+
+async function loadTransferSources(){
+  try{
+    const res=await fetch('data/transfer_sources.json',{cache:'no-store'});
+    if(!res.ok) return;
+    const data=await res.json();
+    state.transferSources=data.sources||[];
+    renderTransferSources();
+  }catch(_err){}
 }
 
 function topScore(item,mode){
@@ -26,11 +36,31 @@ function fmtDate(value){
   return new Date(value).toLocaleString('el-GR',{dateStyle:'short',timeStyle:'short'});
 }
 
+function renderTransferSources(){
+  const mode=document.querySelector('#mode').value;
+  const panel=document.querySelector('#transferPanel');
+  panel.hidden=mode!=='sportdog';
+  if(panel.hidden) return;
+  const q=(document.querySelector('#transferSearch')?.value||'').trim().toLowerCase();
+  const sources=state.transferSources.filter(source=>{
+    const haystack=`${source.name} ${source.handle} ${source.focus} ${source.tier}`.toLowerCase();
+    return !q||haystack.includes(q);
+  });
+  document.querySelector('#transferSources').innerHTML=sources.map(source=>`<article class="source-card">
+    <div class="source-top"><strong>${escapeHtml(source.name)}</strong><span class="tier">Tier ${escapeHtml(source.tier)}</span></div>
+    <div class="handle">@${escapeHtml(source.handle)}</div>
+    <p>${escapeHtml(source.focus)}</p>
+    <a class="open-x" href="${source.url}" target="_blank" rel="noopener noreferrer">Open on X</a>
+  </article>`).join('')||'<div class="empty">No matching transfer sources.</div>';
+}
+
 function render(){
   const mode=document.querySelector('#mode').value;
   const minScore=Number(document.querySelector('#minScore').value);
   const search=document.querySelector('#search').value.trim().toLowerCase();
   const sort=document.querySelector('#sort').value;
+
+  renderTransferSources();
 
   let items=state.items.filter(item=>{
     const score=topScore(item,mode);
@@ -58,7 +88,7 @@ function render(){
   feed.innerHTML=items.map(item=>{
     const score=topScore(item,mode);
     const modes=Object.entries(item.scores||{}).map(([key,value])=>`<span class="badge">${labels[key]||key}: ${value}</span>`).join('');
-    const matched=[...new Set(Object.values(item.matched_keywords||{}).flat())].slice(0,8).map(k=>`<span class="badge">${k}</span>`).join('');
+    const matched=[...new Set(Object.values(item.matched_keywords||{}).flat())].slice(0,8).map(k=>`<span class="badge">${escapeHtml(k)}</span>`).join('');
     return `<article class="card">
       <div class="card-head">
         <div>
@@ -79,7 +109,8 @@ function escapeHtml(value){
 
 document.querySelectorAll('#mode,#minScore,#sort').forEach(el=>el.addEventListener('change',render));
 document.querySelector('#search').addEventListener('input',render);
+document.querySelector('#transferSearch').addEventListener('input',renderTransferSources);
 
-loadNews().catch(err=>{
+Promise.all([loadNews(),loadTransferSources()]).catch(err=>{
   document.querySelector('#feed').innerHTML=`<div class="empty">${escapeHtml(err.message)}</div>`;
 });
