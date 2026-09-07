@@ -1,0 +1,13 @@
+modes:
+  geopolitico:
+    label: Geopolitico
+    description: Geopolitics, defence, diplomacy, intelligence, energy and Eastern Mediterranean news.
+    threshold: 35
+  pontos_voice:
+    label: Pontos Voice
+    description: Pontic Hellenism, genocide recognition, diaspora, culture, history and Black Sea news.
+    threshold: 30
+  sportdog:
+    label: Sportdog
+    description: Greek football, transfers, scouting, Super League and European competition news.
+    threshold: 30
