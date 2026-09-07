@@ -8,6 +8,14 @@ geopolitico:
     India Greece: 40
     Greek Indian: 35
     Indo Greek: 35
+    Israel: 25
+    Israeli: 20
+    Greece Israel: 40
+    Israel Greece: 40
+    Greek Israeli: 35
+    Hellenic Israeli: 35
+    Cyprus Israel: 30
+    Greece Cyprus Israel: 40
     Aegean: 25
     Ege: 25
     Cyprus: 25
@@ -17,6 +25,20 @@ geopolitico:
     MIT: 20
     Dendias: 20
     Mitsotakis: 20
+    Netanyahu: 20
+    Israel Katz: 20
+    IDF: 18
+    SIBAT: 20
+    Rafael: 20
+    Elbit: 20
+    IAI: 20
+    Israel Aerospace Industries: 20
+    David's Sling: 25
+    SPYDER: 25
+    BARAK MX: 25
+    Drone Dome: 25
+    PULS: 25
+    Achilles Shield: 30
     Modi: 20
     Jaishankar: 20
     Rajnath Singh: 20
@@ -25,8 +47,12 @@ geopolitico:
     Eastern Mediterranean: 20
     IMEC: 35
     India Middle East Europe Economic Corridor: 35
-    Israel: 15
+    EastMed: 25
+    Great Sea Interconnector: 25
+    GSI: 20
     Syria: 15
+    Iran: 15
+    Hezbollah: 15
     S-400: 15
     F-35: 15
     BrahMos: 25
@@ -42,23 +68,42 @@ geopolitico:
     military cooperation: 15
     strategic partnership: 15
     strategic cooperation: 15
+    trilateral cooperation: 15
+    3+1: 15
     joint exercise: 12
     military exercise: 12
+    interoperability: 12
     training: 8
     military training: 12
+    air force training: 12
+    Kalamata: 10
     armament: 12
     procurement: 12
     weapons: 8
+    missile defence: 15
+    missile defense: 15
+    air defence: 15
+    air defense: 15
+    anti drone: 12
+    UAV: 10
+    drone: 10
+    cybersecurity: 12
+    cyber: 10
     artificial intelligence: 12
     AI cooperation: 12
     technology: 8
+    defence technology: 15
+    defense technology: 15
     innovation: 8
+    research: 8
+    R&D: 10
     education: 10
     university: 8
-    research: 8
     industry: 10
     defence industry: 15
     defense industry: 15
+    joint production: 15
+    technology transfer: 15
     infrastructure: 10
     ports: 10
     shipping: 10
@@ -69,7 +114,11 @@ geopolitico:
     economic cooperation: 15
     connectivity: 12
     corridor: 8
-    energy: 8
+    energy: 12
+    natural gas: 10
+    electricity interconnector: 15
+    energy security: 15
+    Eastern Mediterranean security: 15
 
 pontos_voice:
   high:
