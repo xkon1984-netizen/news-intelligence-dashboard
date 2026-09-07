@@ -2,7 +2,7 @@ const state={items:[],generatedAt:null};
 const labels={geopolitico:'Geopolitico',pontos_voice:'Pontos Voice',sportdog:'Sportdog'};
 
 async function loadNews(){
-  const res=await fetch('../data/news.json',{cache:'no-store'});
+  const res=await fetch('data/news.json',{cache:'no-store'});
   if(!res.ok) throw new Error('news.json not found');
   const data=await res.json();
   state.items=data.items||[];
