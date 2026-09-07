@@ -1,0 +1,36 @@
+name: News Monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect news
+        run: python scripts/collect.py
+
+      - name: Commit refreshed feed
+        run: |
+          git config user.name "news-monitor-bot"
+          git config user.email "news-monitor-bot@users.noreply.github.com"
+          git add data/news.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh news feed"
+          git push
