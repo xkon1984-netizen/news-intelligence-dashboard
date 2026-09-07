@@ -10,6 +10,11 @@ sources:
     modes: [geopolitico]
     source_weight: 1.05
 
+  - name: 61Saat Trabzon
+    url: https://www.61saat.com/rss
+    modes: [pontos_voice]
+    source_weight: 1.15
+
   - name: BBC Sport Football
     url: https://feeds.bbci.co.uk/sport/football/rss.xml
     modes: [sportdog]
