@@ -1,0 +1,45 @@
+sources:
+  - name: Greek Press Pontic Watch
+    url: https://news.google.com/rss/search?q=%CE%A0%CF%8C%CE%BD%CF%84%CE%BF%CF%82+OR+%CE%A0%CF%8C%CE%BD%CF%84%CE%B9%CE%BF%CE%B9+OR+%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+OR+%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CE%BA%CE%AE+OR+%CE%A3%CE%BF%CF%85%CE%BC%CE%B5%CE%BB%CE%AC+OR+%CE%A4%CF%81%CE%B1%CF%80%CE%B5%CE%B6%CE%BF%CF%8D%CE%BD%CF%84%CE%B1&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [pontos_voice]
+    source_weight: 1.15
+
+  - name: Greek Press Pontic Genocide Watch
+    url: https://news.google.com/rss/search?q=%CE%93%CE%B5%CE%BD%CE%BF%CE%BA%CF%84%CE%BF%CE%BD%CE%AF%CE%B1+%CF%84%CF%89%CE%BD+%CE%A0%CE%BF%CE%BD%CF%84%CE%AF%CF%89%CE%BD+OR+%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CE%BA%CE%AE+%CE%B3%CE%B5%CE%BD%CE%BF%CE%BA%CF%84%CE%BF%CE%BD%CE%AF%CE%B1&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [pontos_voice]
+    source_weight: 1.20
+
+  - name: Greek Press Pontic Culture Watch
+    url: https://news.google.com/rss/search?q=%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CE%BA%CE%AE+%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE+OR+%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CE%BA%CE%AE+%CE%BB%CF%8D%CF%81%CE%B1+OR+%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+%CF%87%CE%BF%CF%81%CF%8C%CF%82+OR+%CE%88%CE%BD%CF%89%CF%83%CE%B7+%CE%A0%CE%BF%CE%BD%CF%84%CE%AF%CF%89%CE%BD+OR+%CF%83%CF%8D%CE%BB%CE%BB%CE%BF%CE%B3%CE%BF%CF%82+%CE%A0%CE%BF%CE%BD%CF%84%CE%AF%CF%89%CE%BD&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [pontos_voice]
+    source_weight: 1.10
+
+  - name: Greek Press Pontic Heritage Watch
+    url: https://news.google.com/rss/search?q=%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%B1+%CE%A3%CE%BF%CF%85%CE%BC%CE%B5%CE%BB%CE%AC+OR+%CE%A4%CF%81%CE%B1%CF%80%CE%B5%CE%B6%CE%BF%CF%8D%CE%BD%CF%84%CE%B1+OR+%CE%91%CE%B3%CE%AF%CE%B1+%CE%A3%CE%BF%CF%86%CE%AF%CE%B1+%CE%A4%CF%81%CE%B1%CF%80%CE%B5%CE%B6%CE%BF%CF%8D%CE%BD%CF%84%CE%B1%CF%82+OR+%CE%9C%CE%BF%CE%BD%CE%AE+%CE%92%CE%B1%CE%B6%CE%B5%CE%BB%CF%8E%CE%BD%CE%BF%CF%82+OR+%CE%9C%CE%BF%CE%BD%CE%AE+%CE%A0%CE%B5%CF%81%CE%B9%CF%83%CF%84%CE%B5%CF%81%CE%B5%CF%8E%CF%84%CE%B1&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [pontos_voice]
+    source_weight: 1.15
+
+  - name: Efxinos Pontos Watch
+    url: https://news.google.com/rss/search?q=site%3Aefxinospontos.gr&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [pontos_voice]
+    source_weight: 1.20
+
+  - name: Pontos News Watch
+    url: https://news.google.com/rss/search?q=site%3Apontosnews.gr&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [pontos_voice]
+    source_weight: 1.20
+
+  - name: Kathimerini Pontic Watch
+    url: https://news.google.com/rss/search?q=site%3Akathimerini.gr+%CE%A0%CF%8C%CE%BD%CF%84%CE%BF%CF%82+OR+%CE%A0%CF%8C%CE%BD%CF%84%CE%B9%CE%BF%CE%B9+OR+%CE%A3%CE%BF%CF%85%CE%BC%CE%B5%CE%BB%CE%AC&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [pontos_voice]
+    source_weight: 1.10
+
+  - name: ERT Pontic Watch
+    url: https://news.google.com/rss/search?q=site%3Aertnews.gr+%CE%A0%CF%8C%CE%BD%CF%84%CE%BF%CF%82+OR+%CE%A0%CF%8C%CE%BD%CF%84%CE%B9%CE%BF%CE%B9+OR+%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CE%BA%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [pontos_voice]
+    source_weight: 1.10
+
+  - name: ANA MPA Pontic Watch
+    url: https://news.google.com/rss/search?q=site%3Aamna.gr+%CE%A0%CF%8C%CE%BD%CF%84%CE%BF%CF%82+OR+%CE%A0%CF%8C%CE%BD%CF%84%CE%B9%CE%BF%CE%B9+OR+%CE%A3%CE%BF%CF%85%CE%BC%CE%B5%CE%BB%CE%AC&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [pontos_voice]
+    source_weight: 1.10
