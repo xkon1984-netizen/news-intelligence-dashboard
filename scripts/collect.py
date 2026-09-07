@@ -68,12 +68,19 @@ def collect_source(source: dict, keywords: dict, modes: dict):
 
 
 def main():
-    source_cfg = load_yaml(ROOT / "config" / "sources.yaml")
+    source_cfg = load_yaml(ROOT / "config" / "sources.yaml") or {"sources": []}
+    greek_sources_path = ROOT / "config" / "pontos_greek_sources.yaml"
+    if greek_sources_path.exists():
+        greek_sources = load_yaml(greek_sources_path) or {}
+        source_cfg.setdefault("sources", []).extend(greek_sources.get("sources", []))
+
     keywords = load_yaml(ROOT / "config" / "keywords.yaml")
-    pontos_extra_path = ROOT / "config" / "pontos_turkey_keywords.yaml"
-    if pontos_extra_path.exists():
-        pontos_extra = load_yaml(pontos_extra_path) or {}
-        keywords["pontos_voice"] = merge_rules(keywords.get("pontos_voice", {}), pontos_extra)
+    for extra_name in ("pontos_turkey_keywords.yaml", "pontos_greek_keywords.yaml"):
+        extra_path = ROOT / "config" / extra_name
+        if extra_path.exists():
+            pontos_extra = load_yaml(extra_path) or {}
+            keywords["pontos_voice"] = merge_rules(keywords.get("pontos_voice", {}), pontos_extra)
+
     modes = load_yaml(ROOT / "config" / "modes.yaml").get("modes", {})
 
     items = []
