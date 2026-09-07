@@ -36,6 +36,7 @@ sources:
     modes: [pontos_voice]
     source_weight: 1.00
 
+  # Sportdog — football news and transfer watch.
   - name: BBC Sport Football
     url: https://feeds.bbci.co.uk/sport/football/rss.xml
     modes: [sportdog]
@@ -43,5 +44,60 @@ sources:
 
   - name: UEFA
     url: https://www.uefa.com/rssfeed/news/rss.xml
+    modes: [sportdog]
+    source_weight: 1.05
+
+  - name: Greek Transfer News
+    url: https://news.google.com/rss/search?q=%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE+%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+OR+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C%CF%82+OR+%CE%91%CE%95%CE%9A+OR+%CE%A0%CE%91%CE%9F%CE%9A+OR+%CE%86%CF%81%CE%B7%CF%82&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [sportdog]
+    source_weight: 1.15
+
+  - name: Olympiacos Transfer Watch
+    url: https://news.google.com/rss/search?q=Olympiacos+transfer+OR+%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CF%8C%CF%82+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [sportdog]
+    source_weight: 1.15
+
+  - name: Panathinaikos Transfer Watch
+    url: https://news.google.com/rss/search?q=Panathinaikos+transfer+OR+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C%CF%82+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [sportdog]
+    source_weight: 1.15
+
+  - name: AEK Transfer Watch
+    url: https://news.google.com/rss/search?q=AEK+transfer+OR+%CE%91%CE%95%CE%9A+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [sportdog]
+    source_weight: 1.15
+
+  - name: PAOK Transfer Watch
+    url: https://news.google.com/rss/search?q=PAOK+transfer+OR+%CE%A0%CE%91%CE%9F%CE%9A+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [sportdog]
+    source_weight: 1.15
+
+  - name: Aris Transfer Watch
+    url: https://news.google.com/rss/search?q=Aris+transfer+OR+%CE%86%CF%81%CE%B7%CF%82+%CE%BC%CE%B5%CF%84%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE&hl=el&gl=GR&ceid=GR%3Ael
+    modes: [sportdog]
+    source_weight: 1.10
+
+  - name: Fabrizio Romano Watch
+    url: https://news.google.com/rss/search?q=%22Fabrizio+Romano%22+transfer&hl=en&gl=US&ceid=US%3Aen
+    modes: [sportdog]
+    source_weight: 1.15
+
+  - name: David Ornstein Watch
+    url: https://news.google.com/rss/search?q=%22David+Ornstein%22+transfer&hl=en&gl=GB&ceid=GB%3Aen
+    modes: [sportdog]
+    source_weight: 1.15
+
+  - name: Gianluca Di Marzio Watch
+    url: https://news.google.com/rss/search?q=%22Gianluca+Di+Marzio%22+transfer&hl=en&gl=GB&ceid=GB%3Aen
+    modes: [sportdog]
+    source_weight: 1.10
+
+  - name: Transfermarkt News Watch
+    url: https://news.google.com/rss/search?q=site%3Atransfermarkt.com+transfer&hl=en&gl=GB&ceid=GB%3Aen
+    modes: [sportdog]
+    source_weight: 1.05
+
+  - name: Football Italia Transfers
+    url: https://news.google.com/rss/search?q=site%3Afootball-italia.net+transfer&hl=en&gl=GB&ceid=GB%3Aen
     modes: [sportdog]
     source_weight: 1.05
