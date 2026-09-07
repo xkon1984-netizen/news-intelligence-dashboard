@@ -1,4 +1,4 @@
-# Starter feeds. We will validate and expand these incrementally.
+# News feeds used by the monitor.
 sources:
   - name: NATO News
     url: https://www.nato.int/cps/en/natohq/news_rss.htm
@@ -10,10 +10,31 @@ sources:
     modes: [geopolitico]
     source_weight: 1.05
 
+  # Pontos Voice — Turkish regional press / Pontus heritage watch.
   - name: 61Saat Trabzon
     url: https://www.61saat.com/rss
     modes: [pontos_voice]
     source_weight: 1.15
+
+  - name: Sayfa61 Trabzon
+    url: https://news.google.com/rss/search?q=site%3Asayfa61.com&hl=tr&gl=TR&ceid=TR%3Atr
+    modes: [pontos_voice]
+    source_weight: 1.10
+
+  - name: Haber61 Trabzon
+    url: https://news.google.com/rss/search?q=site%3Ahaber61.net&hl=tr&gl=TR&ceid=TR%3Atr
+    modes: [pontos_voice]
+    source_weight: 1.10
+
+  - name: Gumushane.gen.tr
+    url: https://news.google.com/rss/search?q=site%3Agumushane.gen.tr&hl=tr&gl=TR&ceid=TR%3Atr
+    modes: [pontos_voice]
+    source_weight: 1.05
+
+  - name: Ordu Yorum
+    url: https://news.google.com/rss/search?q=site%3Aorduyorum.com&hl=tr&gl=TR&ceid=TR%3Atr
+    modes: [pontos_voice]
+    source_weight: 1.00
 
   - name: BBC Sport Football
     url: https://feeds.bbci.co.uk/sport/football/rss.xml
