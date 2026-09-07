@@ -1,0 +1,64 @@
+sportdog_transfer_watch:
+  tier_1:
+    - name: Fabrizio Romano
+      handle: FabrizioRomano
+      focus: Global transfer market
+      weight: 1.20
+    - name: David Ornstein
+      handle: David_Ornstein
+      focus: Premier League and major European deals
+      weight: 1.20
+    - name: Gianluca Di Marzio
+      handle: DiMarzio
+      focus: Italy and European transfers
+      weight: 1.15
+    - name: Florian Plettenberg
+      handle: Plettigoal
+      focus: Germany, Bayern and European transfers
+      weight: 1.15
+    - name: Matteo Moretto
+      handle: MatteMoretto
+      focus: Spain, Italy and European transfers
+      weight: 1.15
+  tier_2:
+    - name: Sacha Tavolieri
+      handle: sachatavolieri
+      focus: Belgium, France and European transfers
+      weight: 1.10
+    - name: Nicolò Schira
+      handle: NicoSchira
+      focus: Italy and international transfer market
+      weight: 1.05
+    - name: Ben Jacobs
+      handle: JacobsBen
+      focus: Premier League, Saudi Arabia and international transfers
+      weight: 1.05
+    - name: Fabrice Hawkins
+      handle: FabriceHawkins
+      focus: France and European transfers
+      weight: 1.10
+    - name: Santi Aouna
+      handle: Santi_J_FM
+      focus: France and international transfers
+      weight: 1.10
+  regional_specialists:
+    - name: Yağız Sabuncuoğlu
+      handle: yagosabuncuoglu
+      focus: Turkey and transfers involving Turkish clubs
+      weight: 1.10
+    - name: Ertan Süzgün
+      handle: ertansuzgun
+      focus: Turkey transfer market
+      weight: 1.05
+    - name: Ekrem Konur
+      handle: Ekremkonur
+      focus: International and Turkish transfer market
+      weight: 0.95
+    - name: Fırat Günayer
+      handle: firatgunayer
+      focus: Turkish football and transfer reporting
+      weight: 0.95
+    - name: Sercan Dikme
+      handle: sercan_dikme
+      focus: Turkish football and transfer reporting
+      weight: 0.95
