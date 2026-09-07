@@ -2,6 +2,32 @@ geopolitico:
   high:
     Greece: 25
     Yunanistan: 25
+    India: 25
+    Bharat: 25
+    Greece India: 40
+    India Greece: 40
+    Greek Indian: 35
+    Indo Greek: 35
+    Israel: 25
+    Israeli: 20
+    Greece Israel: 40
+    Israel Greece: 40
+    Greek Israeli: 35
+    Hellenic Israeli: 35
+    Cyprus Israel: 30
+    Greece Cyprus Israel: 40
+    Pakistan: 25
+    Pakistani: 20
+    Greece Pakistan: 40
+    Pakistan Greece: 40
+    Pakistani Greece: 35
+    Pakistan Turkey: 35
+    Turkey Pakistan: 35
+    Pakistan defence: 35
+    Pakistan defense: 35
+    Pakistan terrorism: 40
+    Pakistan migrant smuggling: 40
+    Pakistani nationals Greece: 40
     Aegean: 25
     Ege: 25
     Cyprus: 25
@@ -10,22 +36,147 @@ geopolitico:
     Fidan: 20
     MIT: 20
     Dendias: 20
+    Mitsotakis: 20
+    Netanyahu: 20
+    Israel Katz: 20
+    IDF: 18
+    SIBAT: 20
+    Rafael: 20
+    Elbit: 20
+    IAI: 20
+    Israel Aerospace Industries: 20
+    David's Sling: 25
+    SPYDER: 25
+    BARAK MX: 25
+    Drone Dome: 25
+    PULS: 25
+    Achilles Shield: 30
+    Modi: 20
+    Jaishankar: 20
+    Rajnath Singh: 20
+    Islamabad: 15
+    Rawalpindi: 15
+    Pakistan Army: 25
+    Pakistan Air Force: 25
+    Pakistan Navy: 25
+    ISI: 25
+    Inter Services Intelligence: 25
+    TTP: 25
+    Tehrik i Taliban Pakistan: 25
+    Balochistan: 15
     NAVTEX: 20
     East Mediterranean: 20
     Eastern Mediterranean: 20
-    Israel: 15
+    IMEC: 35
+    India Middle East Europe Economic Corridor: 35
+    EastMed: 25
+    Great Sea Interconnector: 25
+    GSI: 20
     Syria: 15
+    Iran: 15
+    Hezbollah: 15
     S-400: 15
     F-35: 15
+    BrahMos: 25
   medium:
     Turkey: 10
     Turkiye: 10
     Erdogan: 10
     NATO: 10
+    terrorism: 15
+    terror attack: 15
+    counterterrorism: 15
+    extremism: 12
+    radicalisation: 12
+    radicalization: 12
+    militant group: 12
+    militant network: 12
+    security operation: 10
+    arrest: 8
+    arrests: 8
+    organised crime: 10
+    organized crime: 10
+    migrant smuggling: 15
+    human smuggling: 15
+    trafficking: 12
+    irregular migration: 15
+    illegal migration: 12
+    migration route: 10
+    border crossing: 10
+    deportation: 10
+    readmission: 10
+    asylum: 8
+    residence permit: 8
+    Pakistani community: 10
+    Pakistani association: 10
+    Pakistani organisation: 10
+    Pakistani organization: 10
+    Pakistani protest: 10
+    Pakistani demonstration: 10
+    Pakistani mosque: 10
+    Pakistani nationals: 10
     defence: 10
     defense: 10
-    intelligence: 10
-    energy: 8
+    defence cooperation: 15
+    defense cooperation: 15
+    military cooperation: 15
+    strategic partnership: 15
+    strategic cooperation: 15
+    trilateral cooperation: 15
+    3+1: 15
+    joint exercise: 12
+    military exercise: 12
+    interoperability: 12
+    training: 8
+    military training: 12
+    air force training: 12
+    Kalamata: 10
+    armament: 12
+    procurement: 12
+    weapons: 8
+    missile programme: 12
+    missile program: 12
+    nuclear programme: 15
+    nuclear program: 15
+    missile defence: 15
+    missile defense: 15
+    air defence: 15
+    air defense: 15
+    anti drone: 12
+    UAV: 10
+    drone: 10
+    cybersecurity: 12
+    cyber: 10
+    artificial intelligence: 12
+    AI cooperation: 12
+    technology: 8
+    defence technology: 15
+    defense technology: 15
+    innovation: 8
+    research: 8
+    R&D: 10
+    education: 10
+    university: 8
+    industry: 10
+    defence industry: 15
+    defense industry: 15
+    joint production: 15
+    technology transfer: 15
+    infrastructure: 10
+    ports: 10
+    shipping: 10
+    trade: 12
+    bilateral trade: 15
+    investment: 12
+    economy: 10
+    economic cooperation: 15
+    connectivity: 12
+    corridor: 8
+    energy: 12
+    natural gas: 10
+    electricity interconnector: 15
+    energy security: 15
+    Eastern Mediterranean security: 15
 
 pontos_voice:
   high:
