@@ -1,0 +1,21 @@
+# Starter feeds. We will validate and expand these incrementally.
+sources:
+  - name: NATO News
+    url: https://www.nato.int/cps/en/natohq/news_rss.htm
+    modes: [geopolitico]
+    source_weight: 1.15
+
+  - name: Defense News
+    url: https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml
+    modes: [geopolitico]
+    source_weight: 1.05
+
+  - name: BBC Sport Football
+    url: https://feeds.bbci.co.uk/sport/football/rss.xml
+    modes: [sportdog]
+    source_weight: 1.00
+
+  - name: UEFA
+    url: https://www.uefa.com/rssfeed/news/rss.xml
+    modes: [sportdog]
+    source_weight: 1.05
