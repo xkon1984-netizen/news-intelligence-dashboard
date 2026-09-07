@@ -16,6 +16,18 @@ geopolitico:
     Hellenic Israeli: 35
     Cyprus Israel: 30
     Greece Cyprus Israel: 40
+    Pakistan: 25
+    Pakistani: 20
+    Greece Pakistan: 40
+    Pakistan Greece: 40
+    Pakistani Greece: 35
+    Pakistan Turkey: 35
+    Turkey Pakistan: 35
+    Pakistan defence: 35
+    Pakistan defense: 35
+    Pakistan terrorism: 40
+    Pakistan migrant smuggling: 40
+    Pakistani nationals Greece: 40
     Aegean: 25
     Ege: 25
     Cyprus: 25
@@ -42,6 +54,16 @@ geopolitico:
     Modi: 20
     Jaishankar: 20
     Rajnath Singh: 20
+    Islamabad: 15
+    Rawalpindi: 15
+    Pakistan Army: 25
+    Pakistan Air Force: 25
+    Pakistan Navy: 25
+    ISI: 25
+    Inter Services Intelligence: 25
+    TTP: 25
+    Tehrik i Taliban Pakistan: 25
+    Balochistan: 15
     NAVTEX: 20
     East Mediterranean: 20
     Eastern Mediterranean: 20
@@ -61,6 +83,38 @@ geopolitico:
     Turkiye: 10
     Erdogan: 10
     NATO: 10
+    terrorism: 15
+    terror attack: 15
+    counterterrorism: 15
+    extremism: 12
+    radicalisation: 12
+    radicalization: 12
+    militant group: 12
+    militant network: 12
+    security operation: 10
+    arrest: 8
+    arrests: 8
+    organised crime: 10
+    organized crime: 10
+    migrant smuggling: 15
+    human smuggling: 15
+    trafficking: 12
+    irregular migration: 15
+    illegal migration: 12
+    migration route: 10
+    border crossing: 10
+    deportation: 10
+    readmission: 10
+    asylum: 8
+    residence permit: 8
+    Pakistani community: 10
+    Pakistani association: 10
+    Pakistani organisation: 10
+    Pakistani organization: 10
+    Pakistani protest: 10
+    Pakistani demonstration: 10
+    Pakistani mosque: 10
+    Pakistani nationals: 10
     defence: 10
     defense: 10
     defence cooperation: 15
@@ -80,6 +134,10 @@ geopolitico:
     armament: 12
     procurement: 12
     weapons: 8
+    missile programme: 12
+    missile program: 12
+    nuclear programme: 15
+    nuclear program: 15
     missile defence: 15
     missile defense: 15
     air defence: 15
