@@ -3,10 +3,22 @@ name: News Monitor
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '7,22,37,52 * * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'config/**'
+      - 'scripts/**'
+      - 'requirements.txt'
+      - '.github/workflows/news-monitor.yml'
 
 permissions:
   contents: write
+
+concurrency:
+  group: news-monitor
+  cancel-in-progress: true
 
 jobs:
   collect:
@@ -31,6 +43,33 @@ jobs:
           git config user.name "news-monitor-bot"
           git config user.email "news-monitor-bot@users.noreply.github.com"
           git add data/news.json
-          git diff --cached --quiet && exit 0
-          git commit -m "Refresh news feed"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh news feed"
+            git push
+          fi
+
+      - name: Build dashboard
+        run: |
+          mkdir -p _site/data
+          cp dashboard/index.html _site/index.html
+          cp dashboard/style.css _site/style.css
+          cp dashboard/app.js _site/app.js
+          cp data/news.json _site/data/news.json
+          if [ -f dashboard/data/transfer_sources.json ]; then
+            cp dashboard/data/transfer_sources.json _site/data/transfer_sources.json
+          fi
+          touch _site/.nojekyll
+
+      - name: Publish refreshed dashboard
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd _site
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b gh-pages
+          git add .
+          git commit -m "Publish refreshed dashboard"
+          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force origin gh-pages
