@@ -14,6 +14,14 @@ def load_yaml(path: Path):
         return yaml.safe_load(handle)
 
 
+def merge_rules(base: dict, extra: dict) -> dict:
+    merged = {"high": {}, "medium": {}}
+    for group in ("high", "medium"):
+        merged[group].update(base.get(group, {}))
+        merged[group].update(extra.get(group, {}))
+    return merged
+
+
 def score_text(text: str, rules: dict):
     lowered = text.casefold()
     score = 0
@@ -62,6 +70,10 @@ def collect_source(source: dict, keywords: dict, modes: dict):
 def main():
     source_cfg = load_yaml(ROOT / "config" / "sources.yaml")
     keywords = load_yaml(ROOT / "config" / "keywords.yaml")
+    pontos_extra_path = ROOT / "config" / "pontos_turkey_keywords.yaml"
+    if pontos_extra_path.exists():
+        pontos_extra = load_yaml(pontos_extra_path) or {}
+        keywords["pontos_voice"] = merge_rules(keywords.get("pontos_voice", {}), pontos_extra)
     modes = load_yaml(ROOT / "config" / "modes.yaml").get("modes", {})
 
     items = []
