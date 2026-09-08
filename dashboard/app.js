@@ -107,7 +107,12 @@ function escapeHtml(value){
   return String(value).replace(/[&<>'"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch]));
 }
 
-document.querySelectorAll('#mode,#minScore,#sort').forEach(el=>el.addEventListener('change',render));
+document.querySelector('#mode').addEventListener('change',()=>{
+  const mode=document.querySelector('#mode').value;
+  if(mode==='geopolitico') document.querySelector('#sort').value='latest';
+  render();
+});
+document.querySelectorAll('#minScore,#sort').forEach(el=>el.addEventListener('change',render));
 document.querySelector('#search').addEventListener('input',render);
 document.querySelector('#transferSearch').addEventListener('input',renderTransferSources);
 
