@@ -1,4 +1,5 @@
 import json
+import re
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -23,13 +24,21 @@ def merge_rules(base: dict, extra: dict) -> dict:
     return merged
 
 
+def keyword_matches(text: str, keyword: str) -> bool:
+    # Short acronyms such as TTP, GSI, MIT, ISI, UAV must match as standalone
+    # tokens. Plain substring matching caused false positives inside URLs/words.
+    if keyword.isupper() and keyword.isalnum() and len(keyword) <= 5:
+        pattern = rf"(?<!\w){re.escape(keyword)}(?!\w)"
+        return re.search(pattern, text, flags=re.IGNORECASE | re.UNICODE) is not None
+    return keyword.casefold() in text.casefold()
+
+
 def score_text(text: str, rules: dict):
-    lowered = text.casefold()
     score = 0
     matched = []
     for group in ("high", "medium"):
         for keyword, points in rules.get(group, {}).items():
-            if keyword.casefold() in lowered:
+            if keyword_matches(text, keyword):
                 score += int(points)
                 matched.append(keyword)
     return min(score, 100), matched
@@ -74,9 +83,13 @@ def collect_source(source: dict, keywords: dict, modes: dict):
             if published_dt < now - timedelta(days=int(max_age_days)):
                 continue
 
+        text = f"{title} {summary}"
+        required_any = source.get("required_any", [])
+        if required_any and not any(keyword_matches(text, kw) for kw in required_any):
+            continue
+
         scores = {}
         matches = {}
-        text = f"{title} {summary}"
         for mode in source.get("modes", []):
             raw_score, matched = score_text(text, keywords.get(mode, {}))
             weighted = min(100, round(raw_score * float(source.get("source_weight", 1))))
@@ -134,7 +147,7 @@ def main():
     for source in source_cfg.get("sources", []):
         items.extend(collect_source(source, keywords, modes))
 
-    # Freshness is the primary ordering rule. Score is only a tie-breaker.
+    # Primary ordering is always chronological. Score is only a tie-breaker.
     items.sort(
         key=lambda item: (item.get("published_ts", 0), max(item["scores"].values())),
         reverse=True,
