@@ -101,7 +101,11 @@ def collect_source(source: dict, keywords: dict, modes: dict):
 def main():
     source_cfg = load_yaml(ROOT / "config" / "sources.yaml") or {"sources": []}
 
-    for extra_sources_name in ("pontos_greek_sources.yaml", "sportdog_sources.yaml"):
+    for extra_sources_name in (
+        "pontos_greek_sources.yaml",
+        "sportdog_sources.yaml",
+        "geopolitico_turkey_sources.yaml",
+    ):
         extra_sources_path = ROOT / "config" / extra_sources_name
         if extra_sources_path.exists():
             extra_sources = load_yaml(extra_sources_path) or {}
@@ -118,6 +122,11 @@ def main():
     if sportdog_extra_path.exists():
         sportdog_extra = load_yaml(sportdog_extra_path) or {}
         keywords["sportdog"] = merge_rules(keywords.get("sportdog", {}), sportdog_extra)
+
+    geopolitico_turkey_keywords = ROOT / "config" / "geopolitico_turkey_keywords.yaml"
+    if geopolitico_turkey_keywords.exists():
+        turkey_extra = load_yaml(geopolitico_turkey_keywords) or {}
+        keywords["geopolitico"] = merge_rules(keywords.get("geopolitico", {}), turkey_extra)
 
     modes = load_yaml(ROOT / "config" / "modes.yaml").get("modes", {})
 
