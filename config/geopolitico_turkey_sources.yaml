@@ -1,0 +1,90 @@
+sources:
+  - name: Turkey Greece Breaking Watch
+    url: "https://news.google.com/rss/search?q=(Yunanistan+OR+Mi%C3%A7otakis+OR+Dendias)+(T%C3%BCrkiye+OR+T%C3%BCrk+OR+Ege+OR+Do%C4%9Fu+Akdeniz+OR+K%C4%B1br%C4%B1s)+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.25
+    max_age_days: 2
+
+  - name: Aegean Turkey Watch
+    url: "https://news.google.com/rss/search?q=(Ege+OR+adalar+OR+karasular%C4%B1+OR+hava+sahas%C4%B1+OR+FIR+OR+NAVTEX+OR+MEB+OR+k%C4%B1ta+sahanl%C4%B1%C4%9F%C4%B1)+Yunanistan+when%3A1d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.25
+    max_age_days: 2
+
+  - name: Eastern Mediterranean Turkey Watch
+    url: "https://news.google.com/rss/search?q=(Do%C4%9Fu+Akdeniz+OR+K%C4%B1br%C4%B1s+OR+MEB+OR+sondaj+OR+deniz+yetki+alanlar%C4%B1)+(Yunanistan+OR+Rum+OR+%C4%B0srail)+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.20
+    max_age_days: 3
+
+  - name: Anadolu Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Aaa.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.15
+    max_age_days: 3
+
+  - name: TRT Haber Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Atrthaber.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.10
+    max_age_days: 3
+
+  - name: CNN Turk Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Acnnturk.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.10
+    max_age_days: 3
+
+  - name: Hurriyet Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Ahurriyet.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.10
+    max_age_days: 3
+
+  - name: Milliyet Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Amilliyet.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.10
+    max_age_days: 3
+
+  - name: Sabah Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Asabah.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.10
+    max_age_days: 3
+
+  - name: Yeni Safak Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Ayenisafak.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.05
+    max_age_days: 3
+
+  - name: Sozcu Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Asozcu.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.05
+    max_age_days: 3
+
+  - name: Cumhuriyet Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Acumhuriyet.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.05
+    max_age_days: 3
+
+  - name: NTV Turkey Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Antv.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.05
+    max_age_days: 3
+
+  - name: Haber7 Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Ahaber7.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 1.00
+    max_age_days: 3
+
+  - name: Yeni Akit Greece Watch
+    url: "https://news.google.com/rss/search?q=site%3Ayeniakit.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+    modes: [geopolitico]
+    source_weight: 0.95
+    max_age_days: 3
