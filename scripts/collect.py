@@ -134,8 +134,9 @@ def main():
     for source in source_cfg.get("sources", []):
         items.extend(collect_source(source, keywords, modes))
 
+    # Freshness is the primary ordering rule. Score is only a tie-breaker.
     items.sort(
-        key=lambda item: (max(item["scores"].values()), item.get("published_ts", 0)),
+        key=lambda item: (item.get("published_ts", 0), max(item["scores"].values())),
         reverse=True,
     )
 
