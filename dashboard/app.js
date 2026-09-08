@@ -31,6 +31,11 @@ function scoreClass(score){
   return 'low';
 }
 
+function dateValue(value){
+  const ts=new Date(value).getTime();
+  return Number.isFinite(ts)?ts:0;
+}
+
 function fmtDate(value){
   if(!value) return 'Unknown time';
   return new Date(value).toLocaleString('el-GR',{dateStyle:'short',timeStyle:'short'});
@@ -58,7 +63,6 @@ function render(){
   const mode=document.querySelector('#mode').value;
   const minScore=Number(document.querySelector('#minScore').value);
   const search=document.querySelector('#search').value.trim().toLowerCase();
-  const sort=document.querySelector('#sort').value;
 
   renderTransferSources();
 
@@ -71,10 +75,8 @@ function render(){
     return !search || haystack.includes(search);
   });
 
-  items.sort((a,b)=>{
-    if(sort==='latest') return new Date(b.published)-new Date(a.published);
-    return topScore(b,mode)-topScore(a,mode) || new Date(b.published)-new Date(a.published);
-  });
+  // Always show the newest stories first. Score never affects ordering.
+  items.sort((a,b)=>dateValue(b.published)-dateValue(a.published));
 
   document.querySelector('#count').textContent=`${items.length} items`;
   document.querySelector('#updated').textContent=state.generatedAt?`Updated: ${fmtDate(state.generatedAt)}`:'Not updated yet';
@@ -107,12 +109,8 @@ function escapeHtml(value){
   return String(value).replace(/[&<>'"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch]));
 }
 
-document.querySelector('#mode').addEventListener('change',()=>{
-  const mode=document.querySelector('#mode').value;
-  if(mode==='geopolitico') document.querySelector('#sort').value='latest';
-  render();
-});
-document.querySelectorAll('#minScore,#sort').forEach(el=>el.addEventListener('change',render));
+document.querySelector('#mode').addEventListener('change',render);
+document.querySelector('#minScore').addEventListener('change',render);
 document.querySelector('#search').addEventListener('input',render);
 document.querySelector('#transferSearch').addEventListener('input',renderTransferSources);
 
