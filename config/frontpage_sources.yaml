@@ -1,0 +1,18 @@
+frontpages:
+  - name: Frontpages.gr Political
+    url: https://www.frontpages.gr/politikes-efimerides
+    modes: [geopolitico]
+    source_weight: 1.15
+    label: Political front pages
+
+  - name: Naftemporiki Front Pages
+    url: https://www.naftemporiki.gr/frontpages/
+    modes: [geopolitico]
+    source_weight: 1.10
+    label: Daily Greek front pages
+
+  - name: Frontpages.gr Sports
+    url: https://www.frontpages.gr/athlitikes-efimerides
+    modes: [sportdog]
+    source_weight: 1.10
+    label: Sports front pages
