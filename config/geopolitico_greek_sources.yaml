@@ -1,0 +1,40 @@
+sources:
+  # Broad Greek national-issues discovery. These run in parallel with the
+  # existing international and Turkish layers; nothing is removed.
+  - name: Greek National Issues Breaking Watch
+    url: "https://news.google.com/rss/search?q=(%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%BF%CF%84%CE%BF%CF%85%CF%81%CE%BA%CE%B9%CE%BA%CE%AC+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE+%CE%9C%CE%B5%CF%83%CF%8C%CE%B3%CE%B5%CE%B9%CE%BF%CF%82+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+NAVTEX+OR+%CE%91%CE%9F%CE%96+OR+%CF%85%CF%86%CE%B1%CE%BB%CE%BF%CE%BA%CF%81%CE%B7%CF%80%CE%AF%CE%B4%CE%B1+OR+%CF%87%CF%89%CF%81%CE%B9%CE%BA%CE%AC+%CF%8D%CE%B4%CE%B1%CF%84%CE%B1)+when%3A1d&hl=el&gl=GR&ceid=GR%3Ael"
+    modes: [geopolitico]
+    source_weight: 1.15
+    max_age_days: 2
+    required_any: ["Ελλάδα", "Ελλην", "Τουρκ", "Αιγαίο", "Κύπρ", "Ανατολική Μεσόγειο", "NAVTEX", "ΑΟΖ", "υφαλοκρηπίδα", "χωρικά ύδατα", "Δένδια", "Γεραπετρίτη", "Ερντογάν", "Φιντάν"]
+
+  - name: Greek Defence Security Watch
+    url: "https://news.google.com/rss/search?q=(%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1+OR+%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82)+(%CE%AC%CE%BC%CF%85%CE%BD%CE%B1+OR+%CE%95%CE%BD%CE%BF%CF%80%CE%BB%CE%B5%CF%82+%CE%94%CF%85%CE%BD%CE%AC%CE%BC%CE%B5%CE%B9%CF%82+OR+%CE%B5%CE%BE%CE%BF%CF%80%CE%BB%CE%B9%CF%83%CE%BC%CE%BF%CE%AF+OR+%CF%86%CF%81%CE%B5%CE%B3%CE%AC%CF%84%CE%B5%CF%82+OR+Rafale+OR+F-35+OR+%CE%B1%CE%B5%CF%81%CE%AC%CE%BC%CF%85%CE%BD%CE%B1+OR+drone+OR+%CE%95%CE%A5%CE%A0)+when%3A1d&hl=el&gl=GR&ceid=GR%3Ael"
+    modes: [geopolitico]
+    source_weight: 1.15
+    max_age_days: 2
+
+  - name: Greek Cyprus Watch
+    url: "https://news.google.com/rss/search?q=(%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%9A%CF%85%CF%80%CF%81%CE%B9%CE%B1%CE%BA%CF%8C+OR+%CE%BA%CE%B1%CF%84%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1+OR+%CF%88%CE%B5%CF%85%CE%B4%CE%BF%CE%BA%CF%81%CE%AC%CF%84%CE%BF%CF%82+OR+%CE%91%CE%BC%CE%BC%CF%8C%CF%87%CF%89%CF%83%CF%84%CE%BF%CF%82)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael"
+    modes: [geopolitico]
+    source_weight: 1.15
+    max_age_days: 3
+
+  # Mainstream and non-mainstream Greek outlets. Domain-specific feeds keep
+  # source diversity while relevance is still decided by the common scorer.
+  - {name: Kathimerini National Watch, url: "https://news.google.com/rss/search?q=site%3Akathimerini.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.15, max_age_days: 3}
+  - {name: To Vima National Watch, url: "https://news.google.com/rss/search?q=site%3Atovima.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 3}
+  - {name: Ta Nea National Watch, url: "https://news.google.com/rss/search?q=site%3Atanea.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 3}
+  - {name: Naftemporiki National Watch, url: "https://news.google.com/rss/search?q=site%3Anaftemporiki.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.15, max_age_days: 3}
+  - {name: Proto Thema National Watch, url: "https://news.google.com/rss/search?q=site%3Aprotothema.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 3}
+  - {name: Capital National Watch, url: "https://news.google.com/rss/search?q=site%3Acapital.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 3}
+  - {name: Liberal National Watch, url: "https://news.google.com/rss/search?q=site%3Aliberal.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 3}
+  - {name: Newsbreak National Watch, url: "https://news.google.com/rss/search?q=site%3Anewsbreak.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.00, max_age_days: 3}
+  - {name: Militaire National Watch, url: "https://news.google.com/rss/search?q=site%3Amilitaire.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1+OR+%CE%95%CE%94)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 3}
+  - {name: Defence Point National Watch, url: "https://news.google.com/rss/search?q=site%3Adefence-point.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 3}
+  - {name: Defence Review National Watch, url: "https://news.google.com/rss/search?q=site%3Adefencereview.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 3}
+  - {name: Doureios National Watch, url: "https://news.google.com/rss/search?q=site%3Adoureios.com+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 3}
+  - {name: Geostratigika National Watch, url: "https://news.google.com/rss/search?q=site%3Ageostratigika.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 0.95, max_age_days: 3}
+  - {name: SLpress National Watch, url: "https://news.google.com/rss/search?q=site%3Aslpress.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 3}
+  - {name: Hellas Journal National Watch, url: "https://news.google.com/rss/search?q=site%3Ahellasjournal.com+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 3}
+  - {name: Pentapostagma National Watch, url: "https://news.google.com/rss/search?q=site%3Apentapostagma.gr+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1)+when%3A2d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 0.95, max_age_days: 3}
