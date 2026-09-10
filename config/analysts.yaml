@@ -1,0 +1,88 @@
+analysts:
+  # Greece
+  - name: Σάββας Καλεντερίδης
+    country: Greece
+    locale: el-GR
+    aliases: ["Σάββας Καλεντερίδης", "Σαββας Καλεντεριδης", "Savvas Kalenteridis", "Savvas K. Kalenteridis"]
+  - name: Ιωάννης Μπαλτζώης
+    country: Greece
+    locale: el-GR
+    aliases: ["Ιωάννης Μπαλτζώης", "Ιωαννης Μπαλτζωης", "Ιωάννης Μπλατζώης", "Ioannis Baltzois", "John Baltzois"]
+  - name: Παντελής Σαββίδης
+    country: Greece
+    locale: el-GR
+    aliases: ["Παντελής Σαββίδης", "Παντελης Σαββιδης", "Pantelis Savvidis"]
+  - name: Γιάννης Εγκολφόπουλος
+    country: Greece
+    locale: el-GR
+    aliases: ["Γιάννης Εγκολφόπουλος", "Ιωάννης Εγκολφόπουλος", "Γιαννης Εγκολφοπουλος", "Giannis Engolfopoulos", "Ioannis Engolfopoulos"]
+  - name: Βασίλειος Μαρτζούκος
+    country: Greece
+    locale: el-GR
+    aliases: ["Βασίλειος Μαρτζούκος", "Βασιλειος Μαρτζουκος", "Vasileios Martzoukos", "Vassilis Martzoukos"]
+  - name: Γιώργος Φίλης
+    country: Greece
+    locale: el-GR
+    aliases: ["Γιώργος Φίλης", "Γιωργος Φιλης", "Giorgos Filis", "George Filis"]
+  - name: Γιώργος Αδαλής
+    country: Greece
+    locale: el-GR
+    aliases: ["Γιώργος Αδαλής", "Γιωργος Αδαλης", "Giorgos Adalis", "George Adalis"]
+  - name: Σταύρος Λυγερός
+    country: Greece
+    locale: el-GR
+    aliases: ["Σταύρος Λυγερός", "Σταυρος Λυγερος", "Stavros Lygeros"]
+  - name: Κωνσταντίνος Γρίβας
+    country: Greece
+    locale: el-GR
+    aliases: ["Κωνσταντίνος Γρίβας", "Κωνσταντινος Γριβας", "Konstantinos Grivas", "Constantine Grivas"]
+
+  # Cyprus
+  - name: Γιάννος Χαραλαμπίδης
+    country: Cyprus
+    locale: el-GR
+    aliases: ["Γιάννος Χαραλαμπίδης", "Γιαννος Χαραλαμπιδης", "Yiannos Charalambides", "Giannos Charalambides"]
+  - name: Χρήστος Ιακώβου
+    country: Cyprus
+    locale: el-GR
+    aliases: ["Χρήστος Ιακώβου", "Χρηστος Ιακωβου", "Christos Iacovou", "Christos Iakovou"]
+
+  # Turkey
+  - name: Namık Tan
+    country: Turkey
+    locale: tr-TR
+    aliases: ["Namık Tan", "Namik Tan"]
+  - name: Cem Gürdeniz
+    country: Turkey
+    locale: tr-TR
+    aliases: ["Cem Gürdeniz", "Cem Gurdeniz"]
+  - name: Cihat Yaycı
+    country: Turkey
+    locale: tr-TR
+    aliases: ["Cihat Yaycı", "Cıhat Yaycı", "Cihat Yayci", "Cihat Yayci"]
+  - name: Özay Şendir
+    country: Turkey
+    locale: tr-TR
+    aliases: ["Özay Şendir", "Ozay Sendir"]
+  - name: İbrahim Karagül
+    country: Turkey
+    locale: tr-TR
+    aliases: ["İbrahim Karagül", "Ibrahim Karagul"]
+  - name: Abdulkadir Selvi
+    country: Turkey
+    locale: tr-TR
+    aliases: ["Abdulkadir Selvi"]
+  - name: Hakan Çelik
+    country: Turkey
+    locale: tr-TR
+    aliases: ["Hakan Çelik", "Hakan Celik"]
+
+  # United States
+  - name: Michael Rubin
+    country: United States
+    locale: en-US
+    aliases: ["Michael Rubin"]
+  - name: Diliman Abdulkader
+    country: United States
+    locale: en-US
+    aliases: ["Diliman Abdulkader"]
