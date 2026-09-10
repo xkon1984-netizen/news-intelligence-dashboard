@@ -11,6 +11,27 @@ frontpages:
     source_weight: 1.10
     label: Daily Greek front pages
 
+  - name: Turkish Front Pages - Mynet
+    url: https://haber.mynet.com/gazeteler
+    modes: [geopolitico]
+    source_weight: 1.20
+    label: Turkish national front pages
+    required_any: ["Yunanistan", "Kıbrıs", "Kibris", "Ege", "Doğu Akdeniz", "Dogu Akdeniz", "Atina", "Miçotakis", "Mitsotakis", "Dendias", "12 mil", "adalar", "silahlandır", "NAVTEX", "MEB", "kıta sahanlığı", "karasuları"]
+
+  - name: Turkish Front Pages - Haber7
+    url: https://www.haber7.com/gazete-mansetleri
+    modes: [geopolitico]
+    source_weight: 1.20
+    label: Turkish newspaper headlines and front pages
+    required_any: ["Yunanistan", "Kıbrıs", "Kibris", "Ege", "Doğu Akdeniz", "Dogu Akdeniz", "Atina", "Miçotakis", "Mitsotakis", "Dendias", "12 mil", "adalar", "silahlandır", "NAVTEX", "MEB", "kıta sahanlığı", "karasuları"]
+
+  - name: Turkish Front Pages - HaberGazete
+    url: https://www.habergazete.net/gazeteler/
+    modes: [geopolitico]
+    source_weight: 1.10
+    label: Turkish daily front pages
+    required_any: ["Yunanistan", "Kıbrıs", "Kibris", "Ege", "Doğu Akdeniz", "Dogu Akdeniz", "Atina", "Miçotakis", "Mitsotakis", "Dendias", "12 mil", "adalar", "silahlandır", "NAVTEX", "MEB", "kıta sahanlığı", "karasuları"]
+
   - name: Frontpages.gr Sports
     url: https://www.frontpages.gr/athlitikes-efimerides
     modes: [sportdog]
