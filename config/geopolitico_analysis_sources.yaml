@@ -4,3 +4,9 @@ sources:
     modes: [geopolitico]
     source_weight: 1.20
     max_age_days: 8
+
+  - name: OSINT613 Watch
+    url: "https://news.google.com/rss/search?q=site%3Aosint613.com+(Israel+OR+Iran+OR+Turkey+OR+Greece+OR+Cyprus+OR+Syria+OR+Lebanon+OR+Gaza+OR+Hezbollah+OR+Hamas+OR+IDF+OR+Middle+East+OR+drone+OR+missile+OR+intelligence+OR+security)+when%3A3d&hl=en&gl=US&ceid=US%3Aen"
+    modes: [geopolitico]
+    source_weight: 1.10
+    max_age_days: 4
