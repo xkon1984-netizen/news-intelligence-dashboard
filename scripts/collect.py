@@ -3,9 +3,12 @@ import re
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from urllib.parse import urljoin
 
 import feedparser
+import requests
 import yaml
+from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
@@ -109,6 +112,66 @@ def collect_source(source: dict, keywords: dict, modes: dict):
     return results
 
 
+def collect_frontpage_source(source: dict, keywords: dict, modes: dict):
+    results = []
+    try:
+        response = requests.get(
+            source["url"],
+            timeout=20,
+            headers={"User-Agent": "Mozilla/5.0 NewsIntelligenceDashboard/1.0"},
+        )
+        response.raise_for_status()
+    except Exception as exc:
+        print(f"Front page fetch failed for {source['name']}: {exc}")
+        return results
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    now = datetime.now(timezone.utc)
+    published_raw = now.isoformat()
+    required_any = source.get("required_any", [])
+    seen = set()
+
+    for node in soup.select("a, h1, h2, h3, h4, figcaption"):
+        text = " ".join(node.stripped_strings).strip()
+        if len(text) < 8 or len(text) > 300:
+            continue
+        normalized = re.sub(r"\s+", " ", text.casefold())
+        if normalized in seen:
+            continue
+        seen.add(normalized)
+
+        if required_any and not any(keyword_matches(text, kw) for kw in required_any):
+            continue
+
+        scores = {}
+        matches = {}
+        for mode in source.get("modes", []):
+            raw_score, matched = score_text(text, keywords.get(mode, {}))
+            weighted = min(100, round(raw_score * float(source.get("source_weight", 1))))
+            threshold = int(modes.get(mode, {}).get("threshold", 0))
+            if weighted >= threshold:
+                scores[mode] = weighted
+                matches[mode] = matched
+
+        if not scores:
+            continue
+
+        href = node.get("href") if node.name == "a" else None
+        item_url = urljoin(source["url"], href) if href else source["url"]
+        results.append({
+            "title": f"[ΠΡΩΤΟΣΕΛΙΔΟ] {text}",
+            "url": item_url,
+            "source": source["name"],
+            "published": published_raw,
+            "published_ts": now.timestamp(),
+            "scores": scores,
+            "matched_keywords": matches,
+            "content_type": "frontpage",
+        })
+
+    return results[:40]
+
+
 def main():
     source_cfg = load_yaml(ROOT / "config" / "sources.yaml") or {"sources": []}
 
@@ -145,6 +208,12 @@ def main():
     items = []
     for source in source_cfg.get("sources", []):
         items.extend(collect_source(source, keywords, modes))
+
+    frontpage_path = ROOT / "config" / "frontpage_sources.yaml"
+    if frontpage_path.exists():
+        frontpage_cfg = load_yaml(frontpage_path) or {}
+        for source in frontpage_cfg.get("frontpages", []):
+            items.extend(collect_frontpage_source(source, keywords, modes))
 
     items.sort(
         key=lambda item: (item.get("published_ts", 0), max(item["scores"].values())),
