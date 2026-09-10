@@ -63,6 +63,7 @@ function render(){
   const mode=document.querySelector('#mode').value;
   const minScore=Number(document.querySelector('#minScore').value);
   const search=document.querySelector('#search').value.trim().toLowerCase();
+  const contentType=document.querySelector('#contentType').value;
 
   renderTransferSources();
 
@@ -70,12 +71,14 @@ function render(){
     const score=topScore(item,mode);
     if(score<minScore) return false;
     if(mode!=='all' && !item.scores?.[mode]) return false;
+    if(contentType==='analyst' && item.content_type!=='analyst') return false;
+    if(contentType==='frontpage' && item.content_type!=='frontpage') return false;
+    if(contentType==='news' && item.content_type) return false;
     const keywords=Object.values(item.matched_keywords||{}).flat().join(' ');
-    const haystack=`${item.title||''} ${item.source||''} ${keywords}`.toLowerCase();
+    const haystack=`${item.title||''} ${item.source||''} ${item.analyst||''} ${item.analyst_country||''} ${keywords}`.toLowerCase();
     return !search || haystack.includes(search);
   });
 
-  // Always show the newest stories first. Score never affects ordering.
   items.sort((a,b)=>dateValue(b.published)-dateValue(a.published));
 
   document.querySelector('#count').textContent=`${items.length} items`;
@@ -111,6 +114,7 @@ function escapeHtml(value){
 
 document.querySelector('#mode').addEventListener('change',render);
 document.querySelector('#minScore').addEventListener('change',render);
+document.querySelector('#contentType').addEventListener('change',render);
 document.querySelector('#search').addEventListener('input',render);
 document.querySelector('#transferSearch').addEventListener('input',renderTransferSources);
 
