@@ -1,0 +1,6 @@
+sources:
+  - name: The Cipher Brief Watch
+    url: "https://news.google.com/rss/search?q=site%3Athecipherbrief.com+(Turkey+OR+Greece+OR+Cyprus+OR+Israel+OR+Iran+OR+Syria+OR+Russia+OR+Ukraine+OR+China+OR+India+OR+Pakistan+OR+NATO+OR+intelligence+OR+espionage+OR+cyber+OR+defense+OR+security)+when%3A7d&hl=en&gl=US&ceid=US%3Aen"
+    modes: [geopolitico]
+    source_weight: 1.20
+    max_age_days: 8
