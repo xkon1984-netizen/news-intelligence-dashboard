@@ -25,8 +25,6 @@ def merge_rules(base: dict, extra: dict) -> dict:
 
 
 def keyword_matches(text: str, keyword: str) -> bool:
-    # Short acronyms such as TTP, GSI, MIT, ISI, UAV must match as standalone
-    # tokens. Plain substring matching caused false positives inside URLs/words.
     if keyword.isupper() and keyword.isalnum() and len(keyword) <= 5:
         pattern = rf"(?<!\w){re.escape(keyword)}(?!\w)"
         return re.search(pattern, text, flags=re.IGNORECASE | re.UNICODE) is not None
@@ -118,6 +116,7 @@ def main():
         "pontos_greek_sources.yaml",
         "sportdog_sources.yaml",
         "geopolitico_turkey_sources.yaml",
+        "geopolitico_greek_sources.yaml",
     ):
         extra_sources_path = ROOT / "config" / extra_sources_name
         if extra_sources_path.exists():
@@ -147,7 +146,6 @@ def main():
     for source in source_cfg.get("sources", []):
         items.extend(collect_source(source, keywords, modes))
 
-    # Primary ordering is always chronological. Score is only a tie-breaker.
     items.sort(
         key=lambda item: (item.get("published_ts", 0), max(item["scores"].values())),
         reverse=True,
