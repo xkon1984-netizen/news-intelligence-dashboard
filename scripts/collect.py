@@ -168,7 +168,6 @@ def match_analyst(text: str, analysts):
 
 
 def collect_analyst_news(analysts):
-    """Find analyst appearances in websites, TV/radio sites and indexed video pages."""
     results = []
     now = datetime.now(timezone.utc)
     for locale, group in analyst_groups(analysts):
@@ -189,31 +188,18 @@ def collect_analyst_news(analysts):
             analyst, alias = match_analyst(f"{title} {summary}", group)
             if not analyst:
                 continue
-            results.append({
-                "title": f"[ANALYST WATCH] {analyst['name']} — {title}",
-                "url": link,
-                "source": f"Analysts Watch · {analyst['country']}",
-                "published": published_raw,
-                "published_ts": published_dt.timestamp() if published_dt else 0,
-                "scores": {"geopolitico": 75},
-                "matched_keywords": {"geopolitico": [analyst["name"], alias]},
-                "content_type": "analyst",
-                "analyst": analyst["name"],
-                "analyst_country": analyst["country"],
-            })
+            results.append({"title": f"[ANALYST WATCH] {analyst['name']} — {title}", "url": link, "source": f"Analysts Watch · {analyst['country']}", "published": published_raw, "published_ts": published_dt.timestamp() if published_dt else 0, "scores": {"geopolitico": 75}, "matched_keywords": {"geopolitico": [analyst["name"], alias]}, "content_type": "analyst", "analyst": analyst["name"], "analyst_country": analyst["country"]})
     return results
 
 
 def extract_yt_initial_data(html: str):
-    markers = ["var ytInitialData = ", "ytInitialData = "]
-    for marker in markers:
+    for marker in ["var ytInitialData = ", "ytInitialData = "]:
         start = html.find(marker)
         if start == -1:
             continue
         start += len(marker)
-        decoder = json.JSONDecoder()
         try:
-            data, _ = decoder.raw_decode(html[start:])
+            data, _ = json.JSONDecoder().raw_decode(html[start:])
             return data
         except Exception:
             pass
@@ -240,28 +226,66 @@ def text_from_runs(value):
 
 
 def relative_time_to_datetime(value: str, now):
-    text = value.casefold()
-    patterns = [
-        (r"(\d+)\s+minute", "minutes"),
-        (r"(\d+)\s+hour", "hours"),
-        (r"(\d+)\s+day", "days"),
-        (r"(\d+)\s+week", "weeks"),
+    """Parse YouTube relative upload age. Return None when age is unknown/old.
+
+    Critical: never treat an unparsed age such as '3 months ago' as 'now'.
+    """
+    text = (value or "").casefold().strip()
+    if not text:
+        return None
+
+    # English
+    english = [
+        (r"(\d+)\s+(?:second|seconds)\s+ago", "seconds"),
+        (r"(\d+)\s+(?:minute|minutes)\s+ago", "minutes"),
+        (r"(\d+)\s+(?:hour|hours)\s+ago", "hours"),
+        (r"(\d+)\s+(?:day|days)\s+ago", "days"),
+        (r"(\d+)\s+(?:week|weeks)\s+ago", "weeks"),
     ]
-    for pattern, unit in patterns:
+    # Greek variants commonly returned by YouTube.
+    greek = [
+        (r"πριν\s+από\s+(\d+)\s+δευτερ", "seconds"),
+        (r"πριν\s+από\s+(\d+)\s+λεπτ", "minutes"),
+        (r"πριν\s+από\s+(\d+)\s+ώρ", "hours"),
+        (r"πριν\s+από\s+(\d+)\s+ημέρ", "days"),
+        (r"πριν\s+από\s+(\d+)\s+εβδομ", "weeks"),
+        (r"πριν\s+(\d+)\s+δευτερ", "seconds"),
+        (r"πριν\s+(\d+)\s+λεπτ", "minutes"),
+        (r"πριν\s+(\d+)\s+ώρ", "hours"),
+        (r"πριν\s+(\d+)\s+ημέρ", "days"),
+        (r"πριν\s+(\d+)\s+εβδομ", "weeks"),
+    ]
+    # Turkish variants.
+    turkish = [
+        (r"(\d+)\s+saniye\s+önce", "seconds"),
+        (r"(\d+)\s+dakika\s+önce", "minutes"),
+        (r"(\d+)\s+saat\s+önce", "hours"),
+        (r"(\d+)\s+gün\s+önce", "days"),
+        (r"(\d+)\s+hafta\s+önce", "weeks"),
+    ]
+    for pattern, unit in english + greek + turkish:
         match = re.search(pattern, text)
         if match:
             return now - timedelta(**{unit: int(match.group(1))})
-    if "yesterday" in text:
+
+    if "yesterday" in text or "χθες" in text or "dün" in text:
         return now - timedelta(days=1)
-    return now
+
+    # Explicitly reject month/year ages instead of accidentally dating them as now.
+    old_markers = ["month", "months", "year", "years", "μήνα", "μήνες", "μην", "έτος", "χρόν", "ay önce", "yıl önce"]
+    if any(marker in text for marker in old_markers):
+        return None
+    return None
 
 
 def collect_analyst_youtube(analysts):
-    """Search recent public YouTube results without using the paid YouTube API."""
+    """Search YouTube and keep only videos whose displayed age is <= 72 hours."""
     results = []
     now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=72)
     for analyst in analysts:
         query = quote_plus(analyst["name"])
+        # YouTube's upload-date filter helps discovery, but our own timestamp gate is authoritative.
         url = f"https://www.youtube.com/results?search_query={query}&sp=CAI%253D&hl=en"
         try:
             response = requests.get(url, timeout=20, headers={"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"})
@@ -284,20 +308,10 @@ def collect_analyst_youtube(analysts):
             if not any(keyword_matches(full_text, alias) for alias in analyst.get("aliases", [analyst["name"]])):
                 continue
             published_dt = relative_time_to_datetime(published_text, now)
-            if published_dt < now - timedelta(days=4):
+            # Unknown date is rejected; old videos can never masquerade as fresh.
+            if published_dt is None or published_dt < cutoff:
                 continue
-            results.append({
-                "title": f"[ANALYST WATCH · YOUTUBE] {analyst['name']} — {title}",
-                "url": f"https://www.youtube.com/watch?v={video_id}",
-                "source": f"YouTube · {owner or analyst['name']}",
-                "published": published_dt.isoformat(),
-                "published_ts": published_dt.timestamp(),
-                "scores": {"geopolitico": 80},
-                "matched_keywords": {"geopolitico": [analyst["name"], "YouTube"]},
-                "content_type": "analyst",
-                "analyst": analyst["name"],
-                "analyst_country": analyst["country"],
-            })
+            results.append({"title": f"[ANALYST WATCH · YOUTUBE] {analyst['name']} — {title}", "url": f"https://www.youtube.com/watch?v={video_id}", "source": f"YouTube · {owner or analyst['name']}", "published": published_dt.isoformat(), "published_ts": published_dt.timestamp(), "scores": {"geopolitico": 80}, "matched_keywords": {"geopolitico": [analyst["name"], "YouTube"]}, "content_type": "analyst", "analyst": analyst["name"], "analyst_country": analyst["country"]})
             added += 1
             if added >= 5:
                 break
@@ -318,13 +332,7 @@ def dedupe_items(items):
 
 def main():
     source_cfg = load_yaml(ROOT / "config" / "sources.yaml") or {"sources": []}
-    for extra_sources_name in (
-        "pontos_greek_sources.yaml",
-        "sportdog_sources.yaml",
-        "geopolitico_turkey_sources.yaml",
-        "geopolitico_greek_sources.yaml",
-        "geopolitico_analysis_sources.yaml",
-    ):
+    for extra_sources_name in ("pontos_greek_sources.yaml", "sportdog_sources.yaml", "geopolitico_turkey_sources.yaml", "geopolitico_greek_sources.yaml", "geopolitico_analysis_sources.yaml"):
         extra_sources_path = ROOT / "config" / extra_sources_name
         if extra_sources_path.exists():
             extra_sources = load_yaml(extra_sources_path) or {}
