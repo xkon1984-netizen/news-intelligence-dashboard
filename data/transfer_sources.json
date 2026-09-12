@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-09-07",
+  "note": "Curated public X profiles for manual journalistic monitoring. No X API is used.",
+  "sources": [
+    {"name":"Fabrizio Romano","handle":"FabrizioRomano","tier":1,"focus":"Global transfer market","weight":1.20,"url":"https://x.com/FabrizioRomano"},
+    {"name":"David Ornstein","handle":"David_Ornstein","tier":1,"focus":"Premier League and major European deals","weight":1.20,"url":"https://x.com/David_Ornstein"},
+    {"name":"Gianluca Di Marzio","handle":"DiMarzio","tier":1,"focus":"Italy and European transfers","weight":1.15,"url":"https://x.com/DiMarzio"},
+    {"name":"Florian Plettenberg","handle":"Plettigoal","tier":1,"focus":"Germany, Bayern and European transfers","weight":1.15,"url":"https://x.com/Plettigoal"},
+    {"name":"Matteo Moretto","handle":"MatteMoretto","tier":1,"focus":"Spain, Italy and European transfers","weight":1.15,"url":"https://x.com/MatteMoretto"},
+    {"name":"Sacha Tavolieri","handle":"sachatavolieri","tier":2,"focus":"Belgium, France and European transfers","weight":1.10,"url":"https://x.com/sachatavolieri"},
+    {"name":"Nicolò Schira","handle":"NicoSchira","tier":2,"focus":"Italy and international transfer market","weight":1.05,"url":"https://x.com/NicoSchira"},
+    {"name":"Ben Jacobs","handle":"JacobsBen","tier":2,"focus":"Premier League, Saudi Arabia and international transfers","weight":1.05,"url":"https://x.com/JacobsBen"},
+    {"name":"Fabrice Hawkins","handle":"FabriceHawkins","tier":2,"focus":"France and European transfers","weight":1.10,"url":"https://x.com/FabriceHawkins"},
+    {"name":"Santi Aouna","handle":"Santi_J_FM","tier":2,"focus":"France and international transfers","weight":1.10,"url":"https://x.com/Santi_J_FM"},
+    {"name":"Yağız Sabuncuoğlu","handle":"yagosabuncuoglu","tier":"Regional","focus":"Turkey and transfers involving Turkish clubs","weight":1.10,"url":"https://x.com/yagosabuncuoglu"},
+    {"name":"Ertan Süzgün","handle":"ertansuzgun","tier":"Regional","focus":"Turkey transfer market","weight":1.05,"url":"https://x.com/ertansuzgun"},
+    {"name":"Ekrem Konur","handle":"Ekremkonur","tier":"Regional","focus":"International and Turkish transfer market","weight":0.95,"url":"https://x.com/Ekremkonur"},
+    {"name":"Fırat Günayer","handle":"firatgunayer","tier":"Regional","focus":"Turkish football and transfer reporting","weight":0.95,"url":"https://x.com/firatgunayer"},
+    {"name":"Sercan Dikme","handle":"sercan_dikme","tier":"Regional","focus":"Turkish football and transfer reporting","weight":0.95,"url":"https://x.com/sercan_dikme"}
+  ]
+}
