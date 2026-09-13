@@ -1,0 +1,47 @@
+sources:
+  # Aegean Islands Watch — local/regional press plus broad discovery.
+  # Topics: migration, defence/security, infrastructure, health, social and political issues.
+  - name: Aegean Islands Local Watch
+    url: "https://news.google.com/rss/search?q=(%CE%9B%CE%AE%CE%BC%CE%BD%CE%BF%CF%82+OR+%CE%9B%CE%AD%CF%83%CE%B2%CE%BF%CF%82+OR+%CE%86%CE%B3%CE%B9%CE%BF%CF%82+%CE%95%CF%85%CF%83%CF%84%CF%81%CE%AC%CF%84%CE%B9%CE%BF%CF%82+OR+%CE%A8%CE%B1%CF%81%CE%AC+OR+%CE%A7%CE%AF%CE%BF%CF%82+OR+%CE%A3%CE%AC%CE%BC%CE%BF%CF%82+OR+%CE%9A%CF%89%CF%82+OR+%CE%A1%CF%8C%CE%B4%CE%BF%CF%82+OR+%CE%9A%CE%B1%CF%83%CF%84%CE%B5%CE%BB%CF%8C%CF%81%CE%B9%CE%B6%CE%BF+OR+%CE%9A%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82+OR+%CE%9A%CE%AC%CF%83%CE%BF%CF%82+OR+%CE%93%CE%B1%CF%8D%CE%B4%CE%BF%CF%82)+(%CE%BC%CE%B5%CF%84%CE%B1%CE%BD%CE%B1%CF%83%CF%84%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CF%8C+OR+%CE%BC%CE%B5%CF%84%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B5%CF%82+OR+%CE%AC%CE%BC%CF%85%CE%BD%CE%B1+OR+%CF%83%CF%84%CF%81%CE%B1%CF%84%CF%8C%CF%82+OR+%CE%9B%CE%B9%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C+OR+%CF%85%CF%80%CE%BF%CE%B4%CE%BF%CE%BC%CE%AD%CF%82+OR+%CE%BD%CE%BF%CF%83%CE%BF%CE%BA%CE%BF%CE%BC%CE%B5%CE%AF%CE%BF+OR+%CF%85%CE%B3%CE%B5%CE%AF%CE%B1+OR+%CE%B3%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CE%AF+OR+%CE%B1%CE%BA%CF%84%CE%BF%CF%80%CE%BB%CE%BF%CE%90%CE%B1+OR+%CE%BD%CE%B5%CF%81%CF%8C+OR+%CF%81%CE%B5%CF%8D%CE%BC%CE%B1+OR+%CE%B4%CE%AE%CE%BC%CE%BF%CF%82+OR+%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1+OR+%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CE%AE)+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael"
+    modes: [geopolitico]
+    source_weight: 1.15
+    max_age_days: 4
+
+  - name: North Aegean Security Migration Watch
+    url: "https://news.google.com/rss/search?q=(%CE%9B%CE%AE%CE%BC%CE%BD%CE%BF%CF%82+OR+%CE%9B%CE%AD%CF%83%CE%B2%CE%BF%CF%82+OR+%CE%86%CE%B3%CE%B9%CE%BF%CF%82+%CE%95%CF%85%CF%83%CF%84%CF%81%CE%AC%CF%84%CE%B9%CE%BF%CF%82+OR+%CE%A8%CE%B1%CF%81%CE%AC+OR+%CE%A7%CE%AF%CE%BF%CF%82+OR+%CE%A3%CE%AC%CE%BC%CE%BF%CF%82)+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CF%80%CE%B1%CF%81%CE%B1%CE%B2%CE%AF%CE%B1%CF%83%CE%B7+OR+drone+OR+NAVTEX+OR+%CE%BC%CE%B5%CF%84%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B5%CF%82+OR+%CE%B4%CE%B9%CE%B1%CE%BA%CE%B9%CE%BD%CE%B7%CF%84%CE%AD%CF%82+OR+%CE%9B%CE%B9%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C)+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael"
+    modes: [geopolitico]
+    source_weight: 1.20
+    max_age_days: 4
+
+  - name: Dodecanese Security Migration Watch
+    url: "https://news.google.com/rss/search?q=(%CE%9A%CF%89%CF%82+OR+%CE%A1%CF%8C%CE%B4%CE%BF%CF%82+OR+%CE%9A%CE%B1%CF%83%CF%84%CE%B5%CE%BB%CF%8C%CF%81%CE%B9%CE%B6%CE%BF+OR+%CE%9C%CE%B5%CE%B3%CE%AF%CF%83%CF%84%CE%B7+OR+%CE%9A%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82+OR+%CE%9A%CE%AC%CF%83%CE%BF%CF%82)+(%CE%A4%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%B1+OR+%CE%91%CE%B9%CE%B3%CE%B1%CE%AF%CE%BF+OR+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE+%CE%9C%CE%B5%CF%83%CF%8C%CE%B3%CE%B5%CE%B9%CE%BF%CF%82+OR+%CE%91%CE%9F%CE%96+OR+NAVTEX+OR+%CE%BC%CE%B5%CF%84%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B5%CF%82+OR+%CE%B4%CE%B9%CE%B1%CE%BA%CE%B9%CE%BD%CE%B7%CF%84%CE%AD%CF%82+OR+%CE%9B%CE%B9%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C)+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael"
+    modes: [geopolitico]
+    source_weight: 1.20
+    max_age_days: 4
+
+  - name: Gavdos South Border Watch
+    url: "https://news.google.com/rss/search?q=(%CE%93%CE%B1%CF%8D%CE%B4%CE%BF%CF%82+OR+%CE%BD%CF%8C%CF%84%CE%B9%CE%B1+%CE%9A%CF%81%CE%AE%CF%84%CE%B7)+(%CE%BC%CE%B5%CF%84%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B5%CF%82+OR+%CE%9B%CE%B9%CE%B2%CF%8D%CE%B7+OR+%CE%9B%CE%B9%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C+OR+%CE%B4%CE%B9%CE%AC%CF%83%CF%89%CF%83%CE%B7+OR+%CE%B4%CE%B9%CE%B1%CE%BA%CE%B9%CE%BD%CE%B7%CF%84%CE%AD%CF%82+OR+%CF%85%CF%80%CE%BF%CE%B4%CE%BF%CE%BC%CE%AD%CF%82+OR+%CF%85%CE%B3%CE%B5%CE%AF%CE%B1)+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael"
+    modes: [geopolitico]
+    source_weight: 1.20
+    max_age_days: 4
+
+  # Local/regional sites discovered for island reporting.
+  - {name: Chios News Island Watch, url: "https://news.google.com/rss/search?q=site%3Achiosnews.com+(%CE%A7%CE%AF%CE%BF%CF%82+OR+%CE%A8%CE%B1%CF%81%CE%AC)+when%3A4d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 5}
+  - {name: Chiospen Island Watch, url: "https://news.google.com/rss/search?q=site%3Achiospen.gr+(%CE%A7%CE%AF%CE%BF%CF%82+OR+%CE%A8%CE%B1%CF%81%CE%AC)+when%3A4d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 5}
+  - {name: Samos Today Island Watch, url: "https://news.google.com/rss/search?q=site%3Asamostoday.gr+%CE%A3%CE%AC%CE%BC%CE%BF%CF%82+when%3A4d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 5}
+  - {name: Samos24 Island Watch, url: "https://news.google.com/rss/search?q=site%3Asamos24.gr+%CE%A3%CE%AC%CE%BC%CE%BF%CF%82+when%3A4d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 5}
+  - {name: Sky Rodos Island Watch, url: "https://news.google.com/rss/search?q=site%3Askyrodos.gr+(%CE%A1%CF%8C%CE%B4%CE%BF%CF%82+OR+%CE%9A%CF%89%CF%82+OR+%CE%9A%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82+OR+%CE%9A%CE%AC%CF%83%CE%BF%CF%82+OR+%CE%9A%CE%B1%CF%83%CF%84%CE%B5%CE%BB%CF%8C%CF%81%CE%B9%CE%B6%CE%BF)+when%3A4d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 5}
+
+  # Per-island discovery ensures small local outlets indexed by Google News are not missed.
+  - {name: Lemnos Local Press, url: "https://news.google.com/rss/search?q=%CE%9B%CE%AE%CE%BC%CE%BD%CE%BF%CF%82+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 4}
+  - {name: Lesvos Local Press, url: "https://news.google.com/rss/search?q=%CE%9B%CE%AD%CF%83%CE%B2%CE%BF%CF%82+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 4}
+  - {name: Agios Efstratios Local Press, url: "https://news.google.com/rss/search?q=%22%CE%86%CE%B3%CE%B9%CE%BF%CF%82+%CE%95%CF%85%CF%83%CF%84%CF%81%CE%AC%CF%84%CE%B9%CE%BF%CF%82%22+when%3A5d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 6}
+  - {name: Psara Local Press, url: "https://news.google.com/rss/search?q=%CE%A8%CE%B1%CF%81%CE%AC+when%3A5d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 6}
+  - {name: Chios Local Press, url: "https://news.google.com/rss/search?q=%CE%A7%CE%AF%CE%BF%CF%82+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 4}
+  - {name: Samos Local Press, url: "https://news.google.com/rss/search?q=%CE%A3%CE%AC%CE%BC%CE%BF%CF%82+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 4}
+  - {name: Kos Local Press, url: "https://news.google.com/rss/search?q=%CE%9A%CF%89%CF%82+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 4}
+  - {name: Rhodes Local Press, url: "https://news.google.com/rss/search?q=%CE%A1%CF%8C%CE%B4%CE%BF%CF%82+when%3A3d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.05, max_age_days: 4}
+  - {name: Kastellorizo Local Press, url: "https://news.google.com/rss/search?q=(%CE%9A%CE%B1%CF%83%CF%84%CE%B5%CE%BB%CF%8C%CF%81%CE%B9%CE%B6%CE%BF+OR+%CE%9C%CE%B5%CE%B3%CE%AF%CF%83%CF%84%CE%B7)+when%3A5d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.15, max_age_days: 6}
+  - {name: Karpathos Local Press, url: "https://news.google.com/rss/search?q=%CE%9A%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82+when%3A5d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 6}
+  - {name: Kasos Local Press, url: "https://news.google.com/rss/search?q=%CE%9A%CE%AC%CF%83%CE%BF%CF%82+when%3A5d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.10, max_age_days: 6}
+  - {name: Gavdos Local Press, url: "https://news.google.com/rss/search?q=%CE%93%CE%B1%CF%8D%CE%B4%CE%BF%CF%82+when%3A5d&hl=el&gl=GR&ceid=GR%3Ael", modes: [geopolitico], source_weight: 1.15, max_age_days: 6}
