@@ -11,6 +11,56 @@ sources:
     source_weight: 1.10
     max_age_days: 4
 
+  # Israeli Media Analysis Watch — Israeli reporting, commentary and analysis
+  # on Greece, Turkey, Cyprus, Eastern Mediterranean and IMEC.
+  - name: Jerusalem Post Greece Turkey Cyprus IMEC Analysis
+    url: "https://news.google.com/rss/search?q=site%3Ajpost.com+(Greece+OR+Greek+OR+Turkey+OR+Turkish+OR+Cyprus+OR+IMEC+OR+%22Eastern+Mediterranean%22+OR+%22India-Middle+East-Europe%22)+when%3A7d&hl=en&gl=IL&ceid=IL%3Aen"
+    modes: [geopolitico]
+    source_weight: 1.25
+    max_age_days: 8
+    required_any: ["Greece", "Greek", "Turkey", "Turkish", "Cyprus", "IMEC", "Eastern Mediterranean", "India-Middle East-Europe"]
+
+  - name: Israel Hayom Greece Turkey Cyprus IMEC Analysis
+    url: "https://news.google.com/rss/search?q=site%3Aisraelhayom.com+(Greece+OR+Greek+OR+Turkey+OR+Turkish+OR+Cyprus+OR+IMEC+OR+%22Eastern+Mediterranean%22+OR+%22India-Middle+East-Europe%22)+when%3A7d&hl=en&gl=IL&ceid=IL%3Aen"
+    modes: [geopolitico]
+    source_weight: 1.25
+    max_age_days: 8
+    required_any: ["Greece", "Greek", "Turkey", "Turkish", "Cyprus", "IMEC", "Eastern Mediterranean", "India-Middle East-Europe"]
+
+  - name: Ynet Greece Turkey Cyprus IMEC Watch
+    url: "https://news.google.com/rss/search?q=(site%3Aynetnews.com+OR+site%3Aynet.co.il)+(Greece+OR+Greek+OR+Turkey+OR+Turkish+OR+Cyprus+OR+IMEC+OR+%22Eastern+Mediterranean%22)+when%3A7d&hl=en&gl=IL&ceid=IL%3Aen"
+    modes: [geopolitico]
+    source_weight: 1.20
+    max_age_days: 8
+    required_any: ["Greece", "Greek", "Turkey", "Turkish", "Cyprus", "IMEC", "Eastern Mediterranean"]
+
+  - name: i24NEWS Greece Turkey Cyprus IMEC Watch
+    url: "https://news.google.com/rss/search?q=site%3Ai24news.tv+(Greece+OR+Greek+OR+Turkey+OR+Turkish+OR+Cyprus+OR+IMEC+OR+%22Eastern+Mediterranean%22)+when%3A7d&hl=en&gl=IL&ceid=IL%3Aen"
+    modes: [geopolitico]
+    source_weight: 1.20
+    max_age_days: 8
+    required_any: ["Greece", "Greek", "Turkey", "Turkish", "Cyprus", "IMEC", "Eastern Mediterranean"]
+
+  - name: Globes Israel Greece Turkey Cyprus IMEC Watch
+    url: "https://news.google.com/rss/search?q=site%3Aglobes.co.il+(Greece+OR+Turkey+OR+Cyprus+OR+IMEC+OR+%22Eastern+Mediterranean%22+OR+defense+OR+energy)+when%3A7d&hl=en&gl=IL&ceid=IL%3Aen"
+    modes: [geopolitico]
+    source_weight: 1.20
+    max_age_days: 8
+    required_any: ["Greece", "Greek", "Turkey", "Turkish", "Cyprus", "IMEC", "Eastern Mediterranean"]
+
+  - name: Times of Israel Greece Turkey Cyprus IMEC Watch
+    url: "https://news.google.com/rss/search?q=site%3Atimesofisrael.com+(Greece+OR+Greek+OR+Turkey+OR+Turkish+OR+Cyprus+OR+IMEC+OR+%22Eastern+Mediterranean%22)+when%3A7d&hl=en&gl=IL&ceid=IL%3Aen"
+    modes: [geopolitico]
+    source_weight: 1.20
+    max_age_days: 8
+    required_any: ["Greece", "Greek", "Turkey", "Turkish", "Cyprus", "IMEC", "Eastern Mediterranean"]
+
+  - name: Maariv Greece Turkey Cyprus IMEC Watch
+    url: "https://news.google.com/rss/search?q=site%3Amaariv.co.il+(%D7%99%D7%95%D7%95%D7%9F+OR+%D7%98%D7%95%D7%A8%D7%A7%D7%99%D7%94+OR+%D7%A7%D7%A4%D7%A8%D7%99%D7%A1%D7%99%D7%9F+OR+IMEC+OR+Greece+OR+Turkey+OR+Cyprus)+when%3A7d&hl=iw&gl=IL&ceid=IL%3Ahe"
+    modes: [geopolitico]
+    source_weight: 1.15
+    max_age_days: 8
+
   # Aegean Islands Watch. Broad queries deliberately include local outlets,
   # not only national media. Relevance is still controlled by Geopolitico scoring.
   - name: Aegean Islands Local Issues Watch
