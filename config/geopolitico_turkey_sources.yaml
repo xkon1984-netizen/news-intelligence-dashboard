@@ -20,86 +20,52 @@ sources:
     max_age_days: 3
     required_any: [Yunanistan, Atina, Kıbrıs, Doğu Akdeniz, MEB, deniz yetki alanları, Rum, İsrail]
 
-  - name: Anadolu Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Aaa.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
-    modes: [geopolitico]
-    source_weight: 1.15
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
+  - {name: Anadolu Greece Watch, url: "https://news.google.com/rss/search?q=site%3Aaa.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.15, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: TRT Haber Greece Watch, url: "https://news.google.com/rss/search?q=site%3Atrthaber.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.10, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: CNN Turk Greece Watch, url: "https://news.google.com/rss/search?q=site%3Acnnturk.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.10, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: Hurriyet Greece Watch, url: "https://news.google.com/rss/search?q=site%3Ahurriyet.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.10, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: Milliyet Greece Watch, url: "https://news.google.com/rss/search?q=site%3Amilliyet.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.10, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: Sabah Greece Watch, url: "https://news.google.com/rss/search?q=site%3Asabah.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.10, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: Yeni Safak Greece Watch, url: "https://news.google.com/rss/search?q=site%3Ayenisafak.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.05, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: Sozcu Greece Watch, url: "https://news.google.com/rss/search?q=site%3Asozcu.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.05, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: Cumhuriyet Greece Watch, url: "https://news.google.com/rss/search?q=site%3Acumhuriyet.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.05, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: NTV Turkey Greece Watch, url: "https://news.google.com/rss/search?q=site%3Antv.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.05, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: Haber7 Greece Watch, url: "https://news.google.com/rss/search?q=site%3Ahaber7.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 1.00, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
+  - {name: Yeni Akit Greece Watch, url: "https://news.google.com/rss/search?q=site%3Ayeniakit.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr", modes: [geopolitico], source_weight: 0.95, max_age_days: 3, required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]}
 
-  - name: TRT Haber Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Atrthaber.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+  # Israeli media + think-tank layer. Kept here because this file is already loaded by Geopolitico.
+  - name: Walla Israel Greece Turkey Cyprus IMEC Watch
+    url: "https://news.google.com/rss/search?q=site%3Awalla.co.il+(Greece+OR+Turkey+OR+Cyprus+OR+IMEC+OR+%D7%99%D7%95%D7%95%D7%9F+OR+%D7%98%D7%95%D7%A8%D7%A7%D7%99%D7%94+OR+%D7%A7%D7%A4%D7%A8%D7%99%D7%A1%D7%99%D7%9F)+when%3A7d&hl=iw&gl=IL&ceid=IL%3Ahe"
     modes: [geopolitico]
-    source_weight: 1.10
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
+    source_weight: 1.20
+    max_age_days: 8
 
-  - name: CNN Turk Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Acnnturk.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+  - name: INSS Eastern Mediterranean IMEC Watch
+    url: "https://news.google.com/rss/search?q=site%3Ainss.org.il+(Greece+OR+Turkey+OR+Cyprus+OR+IMEC+OR+%22Eastern+Mediterranean%22)+when%3A14d&hl=en&gl=IL&ceid=IL%3Aen"
     modes: [geopolitico]
-    source_weight: 1.10
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
+    source_weight: 1.30
+    max_age_days: 15
 
-  - name: Hurriyet Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Ahurriyet.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+  - name: JISS Eastern Mediterranean IMEC Watch
+    url: "https://news.google.com/rss/search?q=site%3Ajiss.org.il+(Greece+OR+Turkey+OR+Cyprus+OR+IMEC+OR+%22Eastern+Mediterranean%22)+when%3A14d&hl=en&gl=IL&ceid=IL%3Aen"
     modes: [geopolitico]
-    source_weight: 1.10
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
+    source_weight: 1.30
+    max_age_days: 15
 
-  - name: Milliyet Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Amilliyet.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+  - name: BESA Center Eastern Mediterranean Watch
+    url: "https://news.google.com/rss/search?q=site%3Abesacenter.org+(Greece+OR+Turkey+OR+Cyprus+OR+IMEC+OR+%22Eastern+Mediterranean%22)+when%3A14d&hl=en&gl=IL&ceid=IL%3Aen"
     modes: [geopolitico]
-    source_weight: 1.10
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
+    source_weight: 1.25
+    max_age_days: 15
 
-  - name: Sabah Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Asabah.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+  - name: Mitvim Eastern Mediterranean Watch
+    url: "https://news.google.com/rss/search?q=site%3Amitvim.org.il+(Greece+OR+Turkey+OR+Cyprus+OR+IMEC+OR+Mediterranean)+when%3A14d&hl=en&gl=IL&ceid=IL%3Aen"
     modes: [geopolitico]
-    source_weight: 1.10
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
+    source_weight: 1.20
+    max_age_days: 15
 
-  - name: Yeni Safak Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Ayenisafak.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
+  - name: Alma Research Israel Regional Security Watch
+    url: "https://news.google.com/rss/search?q=site%3Aisrael-alma.org+(Turkey+OR+Greece+OR+Cyprus+OR+Mediterranean+OR+Syria+OR+Iran)+when%3A14d&hl=en&gl=IL&ceid=IL%3Aen"
     modes: [geopolitico]
-    source_weight: 1.05
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
-
-  - name: Sozcu Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Asozcu.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
-    modes: [geopolitico]
-    source_weight: 1.05
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
-
-  - name: Cumhuriyet Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Acumhuriyet.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
-    modes: [geopolitico]
-    source_weight: 1.05
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
-
-  - name: NTV Turkey Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Antv.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
-    modes: [geopolitico]
-    source_weight: 1.05
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
-
-  - name: Haber7 Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Ahaber7.com+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
-    modes: [geopolitico]
-    source_weight: 1.00
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
-
-  - name: Yeni Akit Greece Watch
-    url: "https://news.google.com/rss/search?q=site%3Ayeniakit.com.tr+Yunanistan+when%3A2d&hl=tr&gl=TR&ceid=TR%3Atr"
-    modes: [geopolitico]
-    source_weight: 0.95
-    max_age_days: 3
-    required_any: [Yunanistan, Atina, Miçotakis, Dendias, Ege, Kıbrıs]
+    source_weight: 1.20
+    max_age_days: 15
