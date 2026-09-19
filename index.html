@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>News Intelligence Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <h1>News Intelligence Dashboard</h1>
+      <p>Geopolitico · Pontos Voice · Sportdog</p>
+    </header>
+
+    <section class="controls">
+      <select id="mode">
+        <option value="all">All modes</option>
+        <option value="geopolitico">Geopolitico</option>
+        <option value="pontos_voice">Pontos Voice</option>
+        <option value="sportdog">Sportdog</option>
+      </select>
+
+      <select id="minScore">
+        <option value="0">All scores</option>
+        <option value="50">50+</option>
+        <option value="70">70+</option>
+        <option value="80">80+</option>
+        <option value="90">90+</option>
+      </select>
+
+      <input id="search" type="search" placeholder="Search title, source, analyst or keyword">
+
+      <select id="contentType">
+        <option value="news" selected>News only</option>
+        <option value="analyst">Analysts Watch</option>
+        <option value="frontpage">Front pages</option>
+        <option value="all">All content</option>
+      </select>
+    </section>
+
+    <section class="status">
+      <span id="count">0 items</span>
+      <span id="updated">Not updated yet</span>
+    </section>
+
+    <section id="feed" class="feed"></section>
+
+    <section id="transferPanel" class="transfer-panel" hidden>
+      <div class="section-head">
+        <div>
+          <h2>Transfer Sources</h2>
+          <p>Curated transfer reporters · manual monitoring · no X API or paid credits</p>
+        </div>
+        <input id="transferSearch" type="search" placeholder="Search reporter or market">
+      </div>
+      <div id="transferSources" class="source-grid"></div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
