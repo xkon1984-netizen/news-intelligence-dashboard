@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:24:53.006463+00:00",
+  "generated_at": "2026-09-25T15:48:19.656562+00:00",
   "counts": {
     "sportdog": 8,
     "geopolitico": 8,
@@ -89,9 +89,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "53f29ab9701781c20a046d5e",
+        "external_id": "ddcee91bf70f469a80361283",
         "mode": "sportdog",
-        "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - Soccernet.ng",
+        "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - soccernet.ng",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F6YWZtd1ZjMGJjMDFMMnZDZU50Q252SGlTejYyWFV2VEN6NkNqNF85NlNJaW80a1JxTGpGTEJYNUV1MmZtWHJwZkc5bjBpZ2lBYUxfZU01NlpHLTlNTmJrUXo0MkI1eW54eS12dml0cmlCcmNKR2lkZWxKSFBpbQ?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 25 Sep 2026 06:00:00 GMT",
@@ -259,6 +259,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "412675cfa34299a0ce43a094",
+        "mode": "geopolitico",
+        "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 25 Sep 2026 15:28:00 GMT",
+        "base_score": 94,
+        "candidate_score": 109,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Kibris",
+          "Miçotakis",
+          "Kıbrıs"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "7fdfe65dbd51f4091dd8fc25",
         "mode": "geopolitico",
         "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
@@ -295,24 +312,6 @@
           "Turkey"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "674aa713496da9f336b6e012",
-        "mode": "geopolitico",
-        "title": "Yunanistan’da muhalefet partisi, Miçotakis-Netanyahu görüşmesini \"utanç verici\" olarak nitelendirdi - Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd3BPaDdmbHB0Snh3MUhZbndyTm84Q0lGOUFvd2luSUQ0VlBETGhyMFFKRS0yZmtmRWJCeEpDMVMyMGkyUm1YSDhTenZJNHNKMy1ZbENMUGVSQkpQdWxjbjNHMzFuemxheVpDczJ6ZnBMTjBMaWI2dkhiQUpNcEhwTm1sOTlmLVFoWFBhQ0pLdTN2YjZBc09zVzhJRGNTcm1LS0wzYWlFYVhQdkpYZzBNVXFpYUhwc29hMkNFaFdOeTNMV18wdzYtbGRqejl0eGNU?oc=5",
-        "source": "Anadolu Greece Watch",
-        "published": "Fri, 25 Sep 2026 08:36:10 GMT",
-        "base_score": 95,
-        "candidate_score": 105,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Netanyahu",
-          "Miçotakis",
-          "görüşme"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -330,6 +329,22 @@
           "ποντιακή",
           "ποντιακή λύρα",
           "λύρα"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "4b52bcc0c5a4072140b212de",
+        "mode": "pontos_voice",
+        "title": "Τραπεζούντα: Η χολέρα κορυφώνεται – 352 νεκροί ως τον Δεκέμβριο - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzVueU9aUUJ3TWdVZ0dwN3dRVEtDb2hOZVMxM2xhMFZyMzd6LTVoSlZIbjd1amVKbVVaVkNKaVJkMFo4dzVLSEZKSWFXWHBwSnMyRVk5QUE3dUNnY3QxQi1lTEFDb0V0RS1tekdjUEtWLWZlMGtpUndodlVSSl82TTR2ZXhaQi1DMElyaEZxNUtzVmVNMVhMUmRlWHVRdExUV3JRcll3?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Fri, 25 Sep 2026 15:24:48 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Pontos",
+          "Τραπεζούντα"
         ],
         "content_type": "news"
       },
@@ -363,22 +378,6 @@
         "matched_keywords": [
           "Pontos",
           "Πόντιοι"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "6938aff231c0d8a59a7e8dd8",
-        "mode": "pontos_voice",
-        "title": "19ο συναπάντημα στην Ελευσίνα: Ο Πόντος συναντήθηκε ξανά στην πλατεία Γενοκτονίας - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWRXQ184cDlRZUFWUTViZWFvZW5HY2dmb0lheENoRTZtcXNXV21UbjZwa3hESXRjcVRyeUV2MEZKMTlzZzdhdGJlUEtZV0dPN0puSmlYUVpQMDQ1VkkzZnJxeFZnZkdRU1dfRHJnaG5YZ0p2QVYzMjh1QVhjODNZa1N1eDJHUzJvVXRkR0xzN1lGdVlzTkUwbER1ak13X2ZZOVNqckNWMzRodHQ0ZHhV?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Thu, 24 Sep 2026 17:59:57 GMT",
-        "base_score": 75,
-        "candidate_score": 78,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "Πόντος"
         ],
         "content_type": "news"
       },
@@ -503,9 +502,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "53f29ab9701781c20a046d5e",
+      "external_id": "ddcee91bf70f469a80361283",
       "mode": "sportdog",
-      "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - Soccernet.ng",
+      "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - soccernet.ng",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F6YWZtd1ZjMGJjMDFMMnZDZU50Q252SGlTejYyWFV2VEN6NkNqNF85NlNJaW80a1JxTGpGTEJYNUV1MmZtWHJwZkc5bjBpZ2lBYUxfZU01NlpHLTlNTmJrUXo0MkI1eW54eS12dml0cmlCcmNKR2lkZWxKSFBpbQ?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 25 Sep 2026 06:00:00 GMT",
@@ -671,6 +670,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "412675cfa34299a0ce43a094",
+      "mode": "geopolitico",
+      "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 25 Sep 2026 15:28:00 GMT",
+      "base_score": 94,
+      "candidate_score": 109,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Kibris",
+        "Miçotakis",
+        "Kıbrıs"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "7fdfe65dbd51f4091dd8fc25",
       "mode": "geopolitico",
       "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
@@ -709,24 +725,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "674aa713496da9f336b6e012",
-      "mode": "geopolitico",
-      "title": "Yunanistan’da muhalefet partisi, Miçotakis-Netanyahu görüşmesini \"utanç verici\" olarak nitelendirdi - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd3BPaDdmbHB0Snh3MUhZbndyTm84Q0lGOUFvd2luSUQ0VlBETGhyMFFKRS0yZmtmRWJCeEpDMVMyMGkyUm1YSDhTenZJNHNKMy1ZbENMUGVSQkpQdWxjbjNHMzFuemxheVpDczJ6ZnBMTjBMaWI2dkhiQUpNcEhwTm1sOTlmLVFoWFBhQ0pLdTN2YjZBc09zVzhJRGNTcm1LS0wzYWlFYVhQdkpYZzBNVXFpYUhwc29hMkNFaFdOeTNMV18wdzYtbGRqejl0eGNU?oc=5",
-      "source": "Anadolu Greece Watch",
-      "published": "Fri, 25 Sep 2026 08:36:10 GMT",
-      "base_score": 95,
-      "candidate_score": 105,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Netanyahu",
-        "Miçotakis",
-        "görüşme"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "ebe90f1640ea2410bbcce06c",
       "mode": "pontos_voice",
       "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
@@ -740,6 +738,22 @@
         "ποντιακή",
         "ποντιακή λύρα",
         "λύρα"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "4b52bcc0c5a4072140b212de",
+      "mode": "pontos_voice",
+      "title": "Τραπεζούντα: Η χολέρα κορυφώνεται – 352 νεκροί ως τον Δεκέμβριο - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzVueU9aUUJ3TWdVZ0dwN3dRVEtDb2hOZVMxM2xhMFZyMzd6LTVoSlZIbjd1amVKbVVaVkNKaVJkMFo4dzVLSEZKSWFXWHBwSnMyRVk5QUE3dUNnY3QxQi1lTEFDb0V0RS1tekdjUEtWLWZlMGtpUndodlVSSl82TTR2ZXhaQi1DMElyaEZxNUtzVmVNMVhMUmRlWHVRdExUV3JRcll3?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Fri, 25 Sep 2026 15:24:48 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Pontos",
+        "Τραπεζούντα"
       ],
       "content_type": "news"
     },
@@ -773,22 +787,6 @@
       "matched_keywords": [
         "Pontos",
         "Πόντιοι"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "6938aff231c0d8a59a7e8dd8",
-      "mode": "pontos_voice",
-      "title": "19ο συναπάντημα στην Ελευσίνα: Ο Πόντος συναντήθηκε ξανά στην πλατεία Γενοκτονίας - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWRXQ184cDlRZUFWUTViZWFvZW5HY2dmb0lheENoRTZtcXNXV21UbjZwa3hESXRjcVRyeUV2MEZKMTlzZzdhdGJlUEtZV0dPN0puSmlYUVpQMDQ1VkkzZnJxeFZnZkdRU1dfRHJnaG5YZ0p2QVYzMjh1QVhjODNZa1N1eDJHUzJvVXRkR0xzN1lGdVlzTkUwbER1ak13X2ZZOVNqckNWMzRodHQ0ZHhV?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Thu, 24 Sep 2026 17:59:57 GMT",
-      "base_score": 75,
-      "candidate_score": 78,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Πόντος"
       ],
       "content_type": "news"
     },
