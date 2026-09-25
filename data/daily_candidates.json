@@ -1,33 +1,12 @@
 {
-  "generated_at": "2026-09-25T17:22:18.958668+00:00",
+  "generated_at": "2026-09-25T17:37:46.848923+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "bb3689de044277182678666d",
-        "mode": "sportdog",
-        "title": "Olympiacos Eyeing OFI Goalkeeper as Panathinaikos Complicates Move - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDJUM1hIWWxNMWdyWTQtQXdPSEl4bGRjR3FTdXJuWlFSeEhOQmVYeWRJWHg2SnJtbzZBajdvRjFMNjJyX0hWaVZTdGVZcFhSdjlIQnhjOS12OWVWSjhWTU9oMUt3RW5DS201NWdfLXdzV0h4MEF4dGkwSC1GTWVXODBvbnk1OTBScWRfWnJIWU5wRjlRZ2d2MHY5NWhUVXBWSE40MndfMkREZHh5V1NXMzFUZXd1S09zbjJzcTRqckM?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 25 Sep 2026 06:23:34 GMT",
-        "base_score": 70,
-        "candidate_score": 92,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "Panathinaikos",
-          "goalkeeper"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
       {
         "external_id": "0c1cd3c2a6f6188085feec8d",
         "mode": "sportdog",
@@ -50,6 +29,66 @@
         "needs_second_source": false
       },
       {
+        "external_id": "b5e210dbafea8c42d7835fa8",
+        "mode": "sportdog",
+        "title": "Panathinaikos - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+        "base_score": 56,
+        "candidate_score": 86,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
+        "external_id": "2833a85658564e3d2a645f15",
+        "mode": "sportdog",
+        "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Thu, 24 Sep 2026 10:09:14 GMT",
+        "base_score": 58,
+        "candidate_score": 78,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "812841d084dcfa455bde37aa",
+        "mode": "sportdog",
+        "title": "How to get Shakhtar Donetsk vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmdnMVRSWm14VnFqNkw5TUdTWDVsSFQ2MzZleEtUbmh2enMzbW9rb3YweWlpSmNScjNIN19sbFk4WkVWX3BROXA0d1JhaEJYSDNnZUpPSkNpQlB2alZhREJwU2FqaTExTEZDU3lEbHE2aVVVR2x3aktfUU9jMU5KdWY1UHpmRmJpc084aWR2c2dCTGdGaGROR2RsamwxRUg5RkgtN1ZfZ3g?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Fri, 25 Sep 2026 17:23:36 GMT",
+        "base_score": 50,
+        "candidate_score": 73,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "1dbf3bf511cc4f1fd7e459f9",
         "mode": "sportdog",
         "title": "LIVE/FREE:Panathinaikos V Paris LIVE STREA.Ms ON 24th. September. 2026 - czechinvest.gov.cz",
@@ -70,9 +109,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "52c9d3ef40caafc6c88d4671",
+        "external_id": "8b1454c1e9fb00648304b3d1",
         "mode": "sportdog",
-        "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - Diario AS",
+        "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - en.as.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkR3d29vNnRBZFJ6V2NXVnJFZjM3aEFRWVFPbTJQY3NGa1YzQldPbHhaOU0yVWF4b2E2cFJSSzhVaFpFTFRRNGlqZ1JGZVYyY2ZKdjFONjhoa3N4WVJkZnZMaExQN1pFQnhBSnlDQnRHV0pJbVIxVzhpY3c1YmNsZjkyQ0k4SlRmVTRZX0dwdzhVTXliZmlrdnNXbkw1TXhxOGZXOXNtUWtaai15NnlGeWQ3Mk01bGcyaXpVS25JQQ?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Fri, 25 Sep 2026 00:13:35 GMT",
@@ -90,9 +129,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "5c54176e4288349550be4aa7",
+        "external_id": "c81ceca6a289e73a14974520",
         "mode": "sportdog",
-        "title": "PAOK Women vs Hapoel Jerusalem Women: live info and stats | Previa Champions League Femenina 2026/2027 - Diario AS",
+        "title": "PAOK Women vs Hapoel Jerusalem Women: live info and stats | Previa Champions League Femenina 2026/2027 - en.as.com",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1psSm9zRThFNEFLdUcwMURjVWY4cjlaRkYzNHJhbGNVZHpRYnlCRjNkdktvTmlORXcwUjd2SnItZmtaZS1TcDM0ekRiT2xXRC0yblRQdmVqaU56cWNxVG51NGtyYTFvczM0QWxLZkxPV2xvTm5pZWNHcFdrTTJLWXlJc25MSnR6X0phS3VpM1JiU3pNbm1ZX3RaTUoyempiakh1ZTMtQmJBQ0pMQlowLVRYMHFHVDFkNVFBczUyOVFyY1dVQ3Zrckh1VTZkZ1U?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Thu, 24 Sep 2026 06:25:53 GMT",
@@ -110,9 +149,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "53f29ab9701781c20a046d5e",
+        "external_id": "ddcee91bf70f469a80361283",
         "mode": "sportdog",
-        "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - Soccernet.ng",
+        "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - soccernet.ng",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F6YWZtd1ZjMGJjMDFMMnZDZU50Q252SGlTejYyWFV2VEN6NkNqNF85NlNJaW80a1JxTGpGTEJYNUV1MmZtWHJwZkc5bjBpZ2lBYUxfZU01NlpHLTlNTmJrUXo0MkI1eW54eS12dml0cmlCcmNKR2lkZWxKSFBpbQ?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 25 Sep 2026 06:00:00 GMT",
@@ -422,27 +461,6 @@
   },
   "items": [
     {
-      "external_id": "bb3689de044277182678666d",
-      "mode": "sportdog",
-      "title": "Olympiacos Eyeing OFI Goalkeeper as Panathinaikos Complicates Move - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDJUM1hIWWxNMWdyWTQtQXdPSEl4bGRjR3FTdXJuWlFSeEhOQmVYeWRJWHg2SnJtbzZBajdvRjFMNjJyX0hWaVZTdGVZcFhSdjlIQnhjOS12OWVWSjhWTU9oMUt3RW5DS201NWdfLXdzV0h4MEF4dGkwSC1GTWVXODBvbnk1OTBScWRfWnJIWU5wRjlRZ2d2MHY5NWhUVXBWSE40MndfMkREZHh5V1NXMzFUZXd1S09zbjJzcTRqckM?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 25 Sep 2026 06:23:34 GMT",
-      "base_score": 70,
-      "candidate_score": 92,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "Panathinaikos",
-        "goalkeeper"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
       "external_id": "0c1cd3c2a6f6188085feec8d",
       "mode": "sportdog",
       "title": "Olympiacos Eyeing OFI Goalkeeper as Panathinaikos Complicates Move - Yahoo Sports",
@@ -462,6 +480,66 @@
       "team": "Olympiacos",
       "readiness": "READY",
       "needs_second_source": false
+    },
+    {
+      "external_id": "b5e210dbafea8c42d7835fa8",
+      "mode": "sportdog",
+      "title": "Panathinaikos - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+      "base_score": 56,
+      "candidate_score": 86,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
+      "external_id": "2833a85658564e3d2a645f15",
+      "mode": "sportdog",
+      "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Thu, 24 Sep 2026 10:09:14 GMT",
+      "base_score": 58,
+      "candidate_score": 78,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "812841d084dcfa455bde37aa",
+      "mode": "sportdog",
+      "title": "How to get Shakhtar Donetsk vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmdnMVRSWm14VnFqNkw5TUdTWDVsSFQ2MzZleEtUbmh2enMzbW9rb3YweWlpSmNScjNIN19sbFk4WkVWX3BROXA0d1JhaEJYSDNnZUpPSkNpQlB2alZhREJwU2FqaTExTEZDU3lEbHE2aVVVR2x3aktfUU9jMU5KdWY1UHpmRmJpc084aWR2c2dCTGdGaGROR2RsamwxRUg5RkgtN1ZfZ3g?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Fri, 25 Sep 2026 17:23:36 GMT",
+      "base_score": 50,
+      "candidate_score": 73,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "1dbf3bf511cc4f1fd7e459f9",
@@ -484,9 +562,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "52c9d3ef40caafc6c88d4671",
+      "external_id": "8b1454c1e9fb00648304b3d1",
       "mode": "sportdog",
-      "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - Diario AS",
+      "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - en.as.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkR3d29vNnRBZFJ6V2NXVnJFZjM3aEFRWVFPbTJQY3NGa1YzQldPbHhaOU0yVWF4b2E2cFJSSzhVaFpFTFRRNGlqZ1JGZVYyY2ZKdjFONjhoa3N4WVJkZnZMaExQN1pFQnhBSnlDQnRHV0pJbVIxVzhpY3c1YmNsZjkyQ0k4SlRmVTRZX0dwdzhVTXliZmlrdnNXbkw1TXhxOGZXOXNtUWtaai15NnlGeWQ3Mk01bGcyaXpVS25JQQ?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Fri, 25 Sep 2026 00:13:35 GMT",
@@ -504,9 +582,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "5c54176e4288349550be4aa7",
+      "external_id": "c81ceca6a289e73a14974520",
       "mode": "sportdog",
-      "title": "PAOK Women vs Hapoel Jerusalem Women: live info and stats | Previa Champions League Femenina 2026/2027 - Diario AS",
+      "title": "PAOK Women vs Hapoel Jerusalem Women: live info and stats | Previa Champions League Femenina 2026/2027 - en.as.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1psSm9zRThFNEFLdUcwMURjVWY4cjlaRkYzNHJhbGNVZHpRYnlCRjNkdktvTmlORXcwUjd2SnItZmtaZS1TcDM0ekRiT2xXRC0yblRQdmVqaU56cWNxVG51NGtyYTFvczM0QWxLZkxPV2xvTm5pZWNHcFdrTTJLWXlJc25MSnR6X0phS3VpM1JiU3pNbm1ZX3RaTUoyempiakh1ZTMtQmJBQ0pMQlowLVRYMHFHVDFkNVFBczUyOVFyY1dVQ3Zrckh1VTZkZ1U?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Thu, 24 Sep 2026 06:25:53 GMT",
@@ -524,9 +602,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "53f29ab9701781c20a046d5e",
+      "external_id": "ddcee91bf70f469a80361283",
       "mode": "sportdog",
-      "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - Soccernet.ng",
+      "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - soccernet.ng",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F6YWZtd1ZjMGJjMDFMMnZDZU50Q252SGlTejYyWFV2VEN6NkNqNF85NlNJaW80a1JxTGpGTEJYNUV1MmZtWHJwZkc5bjBpZ2lBYUxfZU01NlpHLTlNTmJrUXo0MkI1eW54eS12dml0cmlCcmNKR2lkZWxKSFBpbQ?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 25 Sep 2026 06:00:00 GMT",
