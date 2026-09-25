@@ -1,0 +1,28 @@
+sports_desk:
+  editorial_types:
+    transfer_report:
+      label: Transfer Report
+      keywords: ["transfer","transfers","μεταγραφή","μεταγραφές","agreement","deal","loan","δανεισμός","πρόταση","στόχαστρο","linked","talks","medical","υπέγραψε","υπογράφει","option to buy","οψιόν αγοράς"]
+    scouting:
+      label: Scouting
+      keywords: ["scouting","prospect","talent","wonderkid","στόχος","εξετάζει","παρακολουθεί","linked with","ενδιαφέρεται"]
+    injury:
+      label: Injury
+      keywords: ["injury","injured","τραυματισμός","τραυματίστηκε","εκτός","rehab","surgery","operation"]
+    team_news:
+      label: Team News
+      keywords: ["training","προπόνηση","squad","αποστολή","lineup","ενδεκάδα","contract","renewal","ανανέωση","coach","προπονητής"]
+    match_analysis:
+      label: Match / Analysis
+      keywords: ["match","game","fixture","result","won","lost","draw","αγώνας","ματς","νίκη","ήττα","ισοπαλία","goal","γκολ"]
+  readiness:
+    ready_score: 85
+    verify_score: 60
+    second_source_required_below: 85
+  team_aliases:
+    AEK: ["ΑΕΚ","AEK","AEK Athens"]
+    Olympiacos: ["Ολυμπιακός","Olympiacos"]
+    Panathinaikos: ["Παναθηναϊκός","Panathinaikos"]
+    PAOK: ["ΠΑΟΚ","PAOK"]
+    Aris: ["Άρης","Aris","Aris Thessaloniki"]
+    OFI: ["ΟΦΗ","OFI"]
