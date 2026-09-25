@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:27:33.842144+00:00",
+  "generated_at": "2026-09-25T18:51:53.481698+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -226,20 +226,21 @@
     ],
     "geopolitico": [
       {
-        "external_id": "a36b324b94397a0cf0497e87",
+        "external_id": "aef9320425d5c03939ba2807",
         "mode": "geopolitico",
-        "title": "'A terrorist country is asking me that question': EAM Jaishankar hits back at Pakistani journalist at UN - The New Indian Express",
+        "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Fri, 25 Sep 2026 16:11:50 GMT",
-        "base_score": 99,
-        "candidate_score": 114,
+        "base_score": 100,
+        "candidate_score": 115,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
           "Pakistan",
           "Pakistani",
-          "Jaishankar"
+          "Jaishankar",
+          "terrorism"
         ],
         "content_type": "news"
       },
@@ -251,7 +252,7 @@
         "source": "Greece Israel Strategic Watch",
         "published": "Fri, 25 Sep 2026 10:35:29 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -259,23 +260,6 @@
           "Cyprus",
           "Turkey",
           "Ankara"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "412675cfa34299a0ce43a094",
-        "mode": "geopolitico",
-        "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 25 Sep 2026 15:28:00 GMT",
-        "base_score": 94,
-        "candidate_score": 109,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Kibris",
-          "Miçotakis",
-          "Kıbrıs"
         ],
         "content_type": "news"
       },
@@ -371,6 +355,23 @@
           "ada"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "412675cfa34299a0ce43a094",
+        "mode": "geopolitico",
+        "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 25 Sep 2026 15:28:00 GMT",
+        "base_score": 94,
+        "candidate_score": 104,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Kibris",
+          "Miçotakis",
+          "Kıbrıs"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -442,24 +443,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "19f0d3f4436bf22ac78a8a4a",
-        "mode": "pontos_voice",
-        "title": "Saadet Partisi Trabzon İl Başkanı Ahmet Muratoğlu: “Türkiye Avrupa’nın çöplüğü değildir!”",
-        "url": "https://www.61saat.com/saadet-partisi-trabzon-il-baskani-ahmet-muratoglu-turkiye-avrupanin-coplugu-degildir",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 25 Sep 2026 17:07:00 +0300",
-        "base_score": 53,
-        "candidate_score": 63,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "tepki",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "302d94b2d148604221fa090b",
         "mode": "pontos_voice",
         "title": "Trabzonlu çocuklar Karadeniz’in geleceği için Ordu’da buluştu - Haber61",
@@ -467,13 +450,30 @@
         "source": "Haber61 Trabzon",
         "published": "Fri, 25 Sep 2026 10:39:28 GMT",
         "base_score": 53,
-        "candidate_score": 63,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "Ordu",
           "Trabzon",
           "Karadeniz"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "7f7a8d0ea6281308bbb01923",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor PFDK’ya sevk edildi! Ertuğrul Doğan da listede - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkZyeGcxLU5oZ19zY21HeHE2S05aZmRzX1dObUpiQWVKVWdqbDZ3Y2RfRzFsNHFhMk5kT0d6R2hhQUx4ZGJkTUV5eHhmVlNUZWdjNGpIUDBUb016WXdBMG1yM1ZncUFGUzM0dE4xeElZbVpxeHAyZzZXVk5NRW14Mi1sT19wVjVmdDlFeXZtalBPNHVRWENFaHlDcTJkZVNiWHc?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 25 Sep 2026 16:57:32 GMT",
+        "base_score": 42,
+        "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "dil"
         ],
         "content_type": "news"
       }
@@ -697,20 +697,21 @@
       "needs_second_source": true
     },
     {
-      "external_id": "a36b324b94397a0cf0497e87",
+      "external_id": "aef9320425d5c03939ba2807",
       "mode": "geopolitico",
-      "title": "'A terrorist country is asking me that question': EAM Jaishankar hits back at Pakistani journalist at UN - The New Indian Express",
+      "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Fri, 25 Sep 2026 16:11:50 GMT",
-      "base_score": 99,
-      "candidate_score": 114,
+      "base_score": 100,
+      "candidate_score": 115,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
         "Pakistan",
         "Pakistani",
-        "Jaishankar"
+        "Jaishankar",
+        "terrorism"
       ],
       "content_type": "news"
     },
@@ -722,7 +723,7 @@
       "source": "Greece Israel Strategic Watch",
       "published": "Fri, 25 Sep 2026 10:35:29 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -730,23 +731,6 @@
         "Cyprus",
         "Turkey",
         "Ankara"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "412675cfa34299a0ce43a094",
-      "mode": "geopolitico",
-      "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 25 Sep 2026 15:28:00 GMT",
-      "base_score": 94,
-      "candidate_score": 109,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Kibris",
-        "Miçotakis",
-        "Kıbrıs"
       ],
       "content_type": "news"
     },
@@ -844,6 +828,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "412675cfa34299a0ce43a094",
+      "mode": "geopolitico",
+      "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 25 Sep 2026 15:28:00 GMT",
+      "base_score": 94,
+      "candidate_score": 104,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Kibris",
+        "Miçotakis",
+        "Kıbrıs"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "be360c4774c9eebc4157a55a",
       "mode": "pontos_voice",
       "title": "«Ζεφύρεια 2026»: Οι μικροί χορευτές της «Τραπεζούντας» τίμησαν με κότσαρι και ομάλ' την Παναγία Γρηγορούσα - pontosnews.gr",
@@ -911,24 +912,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "19f0d3f4436bf22ac78a8a4a",
-      "mode": "pontos_voice",
-      "title": "Saadet Partisi Trabzon İl Başkanı Ahmet Muratoğlu: “Türkiye Avrupa’nın çöplüğü değildir!”",
-      "url": "https://www.61saat.com/saadet-partisi-trabzon-il-baskani-ahmet-muratoglu-turkiye-avrupanin-coplugu-degildir",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 25 Sep 2026 17:07:00 +0300",
-      "base_score": 53,
-      "candidate_score": 63,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "tepki",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "302d94b2d148604221fa090b",
       "mode": "pontos_voice",
       "title": "Trabzonlu çocuklar Karadeniz’in geleceği için Ordu’da buluştu - Haber61",
@@ -936,13 +919,30 @@
       "source": "Haber61 Trabzon",
       "published": "Fri, 25 Sep 2026 10:39:28 GMT",
       "base_score": 53,
-      "candidate_score": 63,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "Ordu",
         "Trabzon",
         "Karadeniz"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "7f7a8d0ea6281308bbb01923",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor PFDK’ya sevk edildi! Ertuğrul Doğan da listede - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkZyeGcxLU5oZ19zY21HeHE2S05aZmRzX1dObUpiQWVKVWdqbDZ3Y2RfRzFsNHFhMk5kT0d6R2hhQUx4ZGJkTUV5eHhmVlNUZWdjNGpIUDBUb016WXdBMG1yM1ZncUFGUzM0dE4xeElZbVpxeHAyZzZXVk5NRW14Mi1sT19wVjVmdDlFeXZtalBPNHVRWENFaHlDcTJkZVNiWHc?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 25 Sep 2026 16:57:32 GMT",
+      "base_score": 42,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "dil"
       ],
       "content_type": "news"
     }
