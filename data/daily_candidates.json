@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T22:06:32.344875+00:00",
+  "generated_at": "2026-09-25T22:23:53.711900+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -29,14 +29,14 @@
         "needs_second_source": false
       },
       {
-        "external_id": "2e33e21c52512e63853a7bc9",
+        "external_id": "b5e210dbafea8c42d7835fa8",
         "mode": "sportdog",
-        "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - transferfeed.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
-        "source": "TransferFeed Greek Super League",
-        "published": "Thu, 24 Sep 2026 10:09:14 GMT",
-        "base_score": 58,
-        "candidate_score": 78,
+        "title": "Panathinaikos - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+        "base_score": 56,
+        "candidate_score": 82,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -65,26 +65,6 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "7d27662ca5c3c958901926e0",
-        "mode": "sportdog",
-        "title": "Stade Rennais FC vs Olympiacos FC (Nov 05, 2026) - Europa League Live Score, Result, Stats - GiveMeSport",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVBvQ1VJd0JIMEZiUG15RnFkdGVkNXdEOTlPaUdwUnFyd0ZndElSQ2wtTlVybTk3MDg1SWhlMmFDeWhxbndfUTN5OEp4WXNCenBxLW1pYy0wUk1fQTJoV0VydURqUmdIOUJQcWI4SFpSYl9LcnN2Q085cEQ5TEViZHdIcDBUSFg4aUMxdGF6OFRPbk1R?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 25 Sep 2026 16:28:42 GMT",
-        "base_score": 50,
-        "candidate_score": 68,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "Europa League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -126,6 +106,25 @@
         "editorial_type": "Team News",
         "team": "PAOK",
         "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "5bdf8c3b7c4bad71f638b3ee",
+        "mode": "sportdog",
+        "title": "Dorsey, Vezenkov lead Olympiacos past Baskonia - TalkBasket.net",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTllUeDdjMldmaFp2N2s0V1lnNkl6S2lIaXF4WS1GeEEwWGpBeTAtVWJIWVZRMWxsd19sdkdwLWctaWxoWGVjclh5a29nTWhXUks2T0wwZFVBUVpta2FZcHgwaXp6bUUxZjZhZTBzSUluQ1hYS2I2MDBnakxrTGJHa0RnTUI0UdIBjgFBVV95cUxQMHgwalJRRnVuWlNZckRJRlFjQ3hFRU1QdFhnLVAwa0ZGLUdjNnlvX1FLbE9HSHh6WndDalpEa2x1bkF5M3FLSm1jalc1TXRtLTVDb2dSTnhmQUtIRmpiczk4YWtlUkkzVWVWQ0laSmJCUTJwWU4xRWQxWDVGSC1GMmh3M0kwZWh1VEtaT2Zn?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 06:22:56 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -186,25 +185,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "72eb056a540b7f3496c0d947",
-        "mode": "sportdog",
-        "title": "Panathinaikos record best EuroLeague start in 15 years - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUphWm5nc1dlSlBlVVF0dEpnd09KSjJWZ1lQN3BkRkVPZURqV1hpVl8zTFlSN0t0azQwMkxzVHcwM3V6QWtHV1dJU1pHNFAzVGk0ZXFtanVTN2JZY0I2dl9BZ0FLQmNWdWoyTHNJZkE0MEVBNlV6a0dXVGpMODl6akM3QUtWbkI1eDRKVFRBaHptN3VlTHg3NWxVeXk?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 24 Sep 2026 21:18:50 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "6e452a2f17a9c941e52471f1",
         "mode": "sportdog",
         "title": "LIVE/FREE:Olympiacos Piraeus BC V Baskonia Vitoria LIVE STREA.Ms ON 24th. September. 2026 - czechinvest.gov.cz",
@@ -226,31 +206,12 @@
     ],
     "geopolitico": [
       {
-        "external_id": "aef9320425d5c03939ba2807",
-        "mode": "geopolitico",
-        "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Fri, 25 Sep 2026 19:14:55 GMT",
-        "base_score": 100,
-        "candidate_score": 115,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Pakistani",
-          "Jaishankar",
-          "terrorism"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "6733c5d2562f382275fabb0f",
         "mode": "geopolitico",
         "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
         "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-        "published": "Fri, 25 Sep 2026 20:21:45 GMT",
+        "published": "Fri, 25 Sep 2026 20:22:09 GMT",
         "base_score": 96,
         "candidate_score": 111,
         "priority": "URGENT",
@@ -259,6 +220,25 @@
           "Pakistan",
           "Pakistani",
           "defense"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "aef9320425d5c03939ba2807",
+        "mode": "geopolitico",
+        "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Fri, 25 Sep 2026 19:14:55 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Pakistani",
+          "Jaishankar",
+          "terrorism"
         ],
         "content_type": "news"
       },
@@ -500,14 +480,14 @@
       "needs_second_source": false
     },
     {
-      "external_id": "2e33e21c52512e63853a7bc9",
+      "external_id": "b5e210dbafea8c42d7835fa8",
       "mode": "sportdog",
-      "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - transferfeed.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
-      "source": "TransferFeed Greek Super League",
-      "published": "Thu, 24 Sep 2026 10:09:14 GMT",
-      "base_score": 58,
-      "candidate_score": 78,
+      "title": "Panathinaikos - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+      "base_score": 56,
+      "candidate_score": 82,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -536,26 +516,6 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "7d27662ca5c3c958901926e0",
-      "mode": "sportdog",
-      "title": "Stade Rennais FC vs Olympiacos FC (Nov 05, 2026) - Europa League Live Score, Result, Stats - GiveMeSport",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVBvQ1VJd0JIMEZiUG15RnFkdGVkNXdEOTlPaUdwUnFyd0ZndElSQ2wtTlVybTk3MDg1SWhlMmFDeWhxbndfUTN5OEp4WXNCenBxLW1pYy0wUk1fQTJoV0VydURqUmdIOUJQcWI4SFpSYl9LcnN2Q085cEQ5TEViZHdIcDBUSFg4aUMxdGF6OFRPbk1R?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 25 Sep 2026 16:28:42 GMT",
-      "base_score": 50,
-      "candidate_score": 68,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "Europa League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -597,6 +557,25 @@
       "editorial_type": "Team News",
       "team": "PAOK",
       "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "5bdf8c3b7c4bad71f638b3ee",
+      "mode": "sportdog",
+      "title": "Dorsey, Vezenkov lead Olympiacos past Baskonia - TalkBasket.net",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTllUeDdjMldmaFp2N2s0V1lnNkl6S2lIaXF4WS1GeEEwWGpBeTAtVWJIWVZRMWxsd19sdkdwLWctaWxoWGVjclh5a29nTWhXUks2T0wwZFVBUVpta2FZcHgwaXp6bUUxZjZhZTBzSUluQ1hYS2I2MDBnakxrTGJHa0RnTUI0UdIBjgFBVV95cUxQMHgwalJRRnVuWlNZckRJRlFjQ3hFRU1QdFhnLVAwa0ZGLUdjNnlvX1FLbE9HSHh6WndDalpEa2x1bkF5M3FLSm1jalc1TXRtLTVDb2dSTnhmQUtIRmpiczk4YWtlUkkzVWVWQ0laSmJCUTJwWU4xRWQxWDVGSC1GMmh3M0kwZWh1VEtaT2Zn?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 06:22:56 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -657,25 +636,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "72eb056a540b7f3496c0d947",
-      "mode": "sportdog",
-      "title": "Panathinaikos record best EuroLeague start in 15 years - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUphWm5nc1dlSlBlVVF0dEpnd09KSjJWZ1lQN3BkRkVPZURqV1hpVl8zTFlSN0t0azQwMkxzVHcwM3V6QWtHV1dJU1pHNFAzVGk0ZXFtanVTN2JZY0I2dl9BZ0FLQmNWdWoyTHNJZkE0MEVBNlV6a0dXVGpMODl6akM3QUtWbkI1eDRKVFRBaHptN3VlTHg3NWxVeXk?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 24 Sep 2026 21:18:50 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "6e452a2f17a9c941e52471f1",
       "mode": "sportdog",
       "title": "LIVE/FREE:Olympiacos Piraeus BC V Baskonia Vitoria LIVE STREA.Ms ON 24th. September. 2026 - czechinvest.gov.cz",
@@ -695,31 +655,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "aef9320425d5c03939ba2807",
-      "mode": "geopolitico",
-      "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Fri, 25 Sep 2026 19:14:55 GMT",
-      "base_score": 100,
-      "candidate_score": 115,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Pakistani",
-        "Jaishankar",
-        "terrorism"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "6733c5d2562f382275fabb0f",
       "mode": "geopolitico",
       "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
       "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-      "published": "Fri, 25 Sep 2026 20:21:45 GMT",
+      "published": "Fri, 25 Sep 2026 20:22:09 GMT",
       "base_score": 96,
       "candidate_score": 111,
       "priority": "URGENT",
@@ -728,6 +669,25 @@
         "Pakistan",
         "Pakistani",
         "defense"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "aef9320425d5c03939ba2807",
+      "mode": "geopolitico",
+      "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Fri, 25 Sep 2026 19:14:55 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Pakistani",
+        "Jaishankar",
+        "terrorism"
       ],
       "content_type": "news"
     },
