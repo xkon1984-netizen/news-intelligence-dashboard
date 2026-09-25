@@ -1,29 +1,12 @@
 {
-  "generated_at": "2026-09-25T08:06:11.750887+00:00",
+  "generated_at": "2026-09-25T08:16:52.006000+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "bb3689de044277182678666d",
-        "mode": "sportdog",
-        "title": "Olympiacos Eyeing OFI Goalkeeper as Panathinaikos Complicates Move - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDJUM1hIWWxNMWdyWTQtQXdPSEl4bGRjR3FTdXJuWlFSeEhOQmVYeWRJWHg2SnJtbzZBajdvRjFMNjJyX0hWaVZTdGVZcFhSdjlIQnhjOS12OWVWSjhWTU9oMUt3RW5DS201NWdfLXdzV0h4MEF4dGkwSC1GTWVXODBvbnk1OTBScWRfWnJIWU5wRjlRZ2d2MHY5NWhUVXBWSE40MndfMkREZHh5V1NXMzFUZXd1S09zbjJzcTRqckM?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 25 Sep 2026 06:23:34 GMT",
-        "base_score": 70,
-        "candidate_score": 101,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Olympiacos",
-          "Panathinaikos",
-          "goalkeeper"
-        ],
-        "content_type": "news"
-      },
       {
         "external_id": "0c1cd3c2a6f6188085feec8d",
         "mode": "sportdog",
@@ -81,7 +64,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Fri, 25 Sep 2026 00:13:35 GMT",
         "base_score": 50,
-        "candidate_score": 68,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -206,6 +189,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "f690a0bc4ce98e67b7a591bf",
+        "mode": "geopolitico",
+        "title": "Yunanistan’da muhalefet partisi, Miçotakis-Netanyahu görüşmesini \"utanç verici\" olarak nitelendirdi - TRT Haber",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSnFtUnFxTGJZVnhSdW1MRFI0am9FalBYMkpLOWQwZFNxbHFqVTNzdGVXRlFfTGxocVhZajVrRWg0Z1BNanZMT25GWVRfOXNqYTZvcUtiUnZOdXFMcUVJeDhyVGFWWWFHYzBjcXMyWk41alBPRkh0U21qc3lNZ0s0UlFPekJkanBRM2k1a1ZIak1JX19FejNMMER5aEg0dWJIYXhOT09rWHIyM0tlVW1USDZPdDBWMVRrelpqRFdiQUVoUXVkT1dzVkZEbDNKSU90YTR1YlMzSUsxbzZs?oc=5",
+        "source": "TRT Haber Greece Watch",
+        "published": "Fri, 25 Sep 2026 08:02:00 GMT",
+        "base_score": 91,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Netanyahu",
+          "Miçotakis",
+          "görüşme"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "27da46bf558d44cd8ad87c05",
         "mode": "geopolitico",
         "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik Gazetesi",
@@ -281,9 +282,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "e5a628aa3309ca2932ed9c47",
+        "external_id": "9f6d735bef8f9165a425ad4e",
         "mode": "geopolitico",
-        "title": "Greece and Israel strengthen defence and energy ties during UN talks - greekherald.com.au",
+        "title": "Greece and Israel strengthen defence and energy ties during UN talks - The Greek Herald",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVRVTFlzMXNwZURjWlB4REZCVHFOQzJhOUIyUkxud2ZrZEN4ZHotYU9tV09iZWVnWkEtNkNDNW9WM3YyWHhjc0VjVG5NZDdVbDgwT2s5UXJXdkVXRlpSMC0yZUpfNGlyYzBYMzdvVmpMZkhLS1RySzVzaHNlXzlqYVZ1bkZERGhxQTNTQ3pwOWNkOENfVlB3ZWdYT1UxSW5xNUJ3?oc=5",
         "source": "Greece Israel Strategic Watch",
         "published": "Fri, 25 Sep 2026 01:28:56 GMT",
@@ -295,23 +296,6 @@
           "Israel",
           "defence",
           "energy"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "634dc2d1cd1009afeb08d401",
-        "mode": "geopolitico",
-        "title": "MSB: Doğu Akdeniz’deki deniz yetki alanlarımızdaki hak ve menfaatler korunuyor - hibya.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVdvN2xmWDFOQnZFQS0zbTMyQkFBZXZUNjJWTEJ6ZmVzeWVaR2V3R0FZY3FrXy1iODhHYlR3c2U2aGVFbkF0QVd3Q1pwdzNUaFVrWkVsWUlMNVhiZGZkSU9QSVQ1RkxKVnJFSk1ZWS1wZWIwUUJwcVJRcjNnd29UTXA2MEsySGI0VV9PblV1QlpPamIwNDdMZ21abHZjM0pHMHlEdg?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Thu, 24 Sep 2026 07:59:32 GMT",
-        "base_score": 92,
-        "candidate_score": 95,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "deniz yetki alanları",
-          "MSB"
         ],
         "content_type": "news"
       }
@@ -384,6 +368,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "32bfbce65cf62615ee677c1e",
+        "mode": "pontos_voice",
+        "title": "Rektör Çuvalcı açıkladı: KTÜ’den Trabzon’a yeni yatırım sinyali",
+        "url": "https://www.61saat.com/rektor-cuvalci-acikladi-ktuden-trabzona-yeni-yatirim-sinyali",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 25 Sep 2026 09:55:00 +0300",
+        "base_score": 53,
+        "candidate_score": 68,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Of",
+          "Trabzon",
+          "Karadeniz"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "e98cbd2bf959567c05237e80",
         "mode": "pontos_voice",
         "title": "Öğrencilerin rakipsiz oluşu, Trabzon’a Hyperloop Merkezi kazandırıyor…Yeni teknoloji bile geliştirdiler",
@@ -400,45 +402,10 @@
           "dil"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "93a4ee862255df7a012fa30b",
-        "mode": "pontos_voice",
-        "title": "Van Dijk, Salah'ın verdiği güveni anlattı!",
-        "url": "https://www.61saat.com/van-dijk-salahin-verdigi-guveni-anlatti",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 25 Sep 2026 10:49:00 +0300",
-        "base_score": 49,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "açıklama",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
       }
     ]
   },
   "items": [
-    {
-      "external_id": "bb3689de044277182678666d",
-      "mode": "sportdog",
-      "title": "Olympiacos Eyeing OFI Goalkeeper as Panathinaikos Complicates Move - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDJUM1hIWWxNMWdyWTQtQXdPSEl4bGRjR3FTdXJuWlFSeEhOQmVYeWRJWHg2SnJtbzZBajdvRjFMNjJyX0hWaVZTdGVZcFhSdjlIQnhjOS12OWVWSjhWTU9oMUt3RW5DS201NWdfLXdzV0h4MEF4dGkwSC1GTWVXODBvbnk1OTBScWRfWnJIWU5wRjlRZ2d2MHY5NWhUVXBWSE40MndfMkREZHh5V1NXMzFUZXd1S09zbjJzcTRqckM?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 25 Sep 2026 06:23:34 GMT",
-      "base_score": 70,
-      "candidate_score": 101,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Olympiacos",
-        "Panathinaikos",
-        "goalkeeper"
-      ],
-      "content_type": "news"
-    },
     {
       "external_id": "0c1cd3c2a6f6188085feec8d",
       "mode": "sportdog",
@@ -496,7 +463,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Fri, 25 Sep 2026 00:13:35 GMT",
       "base_score": 50,
-      "candidate_score": 68,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -619,6 +586,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "f690a0bc4ce98e67b7a591bf",
+      "mode": "geopolitico",
+      "title": "Yunanistan’da muhalefet partisi, Miçotakis-Netanyahu görüşmesini \"utanç verici\" olarak nitelendirdi - TRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSnFtUnFxTGJZVnhSdW1MRFI0am9FalBYMkpLOWQwZFNxbHFqVTNzdGVXRlFfTGxocVhZajVrRWg0Z1BNanZMT25GWVRfOXNqYTZvcUtiUnZOdXFMcUVJeDhyVGFWWWFHYzBjcXMyWk41alBPRkh0U21qc3lNZ0s0UlFPekJkanBRM2k1a1ZIak1JX19FejNMMER5aEg0dWJIYXhOT09rWHIyM0tlVW1USDZPdDBWMVRrelpqRFdiQUVoUXVkT1dzVkZEbDNKSU90YTR1YlMzSUsxbzZs?oc=5",
+      "source": "TRT Haber Greece Watch",
+      "published": "Fri, 25 Sep 2026 08:02:00 GMT",
+      "base_score": 91,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Netanyahu",
+        "Miçotakis",
+        "görüşme"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "27da46bf558d44cd8ad87c05",
       "mode": "geopolitico",
       "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik Gazetesi",
@@ -694,9 +679,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "e5a628aa3309ca2932ed9c47",
+      "external_id": "9f6d735bef8f9165a425ad4e",
       "mode": "geopolitico",
-      "title": "Greece and Israel strengthen defence and energy ties during UN talks - greekherald.com.au",
+      "title": "Greece and Israel strengthen defence and energy ties during UN talks - The Greek Herald",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVRVTFlzMXNwZURjWlB4REZCVHFOQzJhOUIyUkxud2ZrZEN4ZHotYU9tV09iZWVnWkEtNkNDNW9WM3YyWHhjc0VjVG5NZDdVbDgwT2s5UXJXdkVXRlpSMC0yZUpfNGlyYzBYMzdvVmpMZkhLS1RySzVzaHNlXzlqYVZ1bkZERGhxQTNTQ3pwOWNkOENfVlB3ZWdYT1UxSW5xNUJ3?oc=5",
       "source": "Greece Israel Strategic Watch",
       "published": "Fri, 25 Sep 2026 01:28:56 GMT",
@@ -708,23 +693,6 @@
         "Israel",
         "defence",
         "energy"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "634dc2d1cd1009afeb08d401",
-      "mode": "geopolitico",
-      "title": "MSB: Doğu Akdeniz’deki deniz yetki alanlarımızdaki hak ve menfaatler korunuyor - hibya.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVdvN2xmWDFOQnZFQS0zbTMyQkFBZXZUNjJWTEJ6ZmVzeWVaR2V3R0FZY3FrXy1iODhHYlR3c2U2aGVFbkF0QVd3Q1pwdzNUaFVrWkVsWUlMNVhiZGZkSU9QSVQ1RkxKVnJFSk1ZWS1wZWIwUUJwcVJRcjNnd29UTXA2MEsySGI0VV9PblV1QlpPamIwNDdMZ21abHZjM0pHMHlEdg?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Thu, 24 Sep 2026 07:59:32 GMT",
-      "base_score": 92,
-      "candidate_score": 95,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Doğu Akdeniz",
-        "deniz yetki alanları",
-        "MSB"
       ],
       "content_type": "news"
     },
@@ -795,6 +763,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "32bfbce65cf62615ee677c1e",
+      "mode": "pontos_voice",
+      "title": "Rektör Çuvalcı açıkladı: KTÜ’den Trabzon’a yeni yatırım sinyali",
+      "url": "https://www.61saat.com/rektor-cuvalci-acikladi-ktuden-trabzona-yeni-yatirim-sinyali",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 25 Sep 2026 09:55:00 +0300",
+      "base_score": 53,
+      "candidate_score": 68,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Of",
+        "Trabzon",
+        "Karadeniz"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "e98cbd2bf959567c05237e80",
       "mode": "pontos_voice",
       "title": "Öğrencilerin rakipsiz oluşu, Trabzon’a Hyperloop Merkezi kazandırıyor…Yeni teknoloji bile geliştirdiler",
@@ -807,24 +793,6 @@
       "matched_keywords": [
         "Trabzon",
         "Of",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "93a4ee862255df7a012fa30b",
-      "mode": "pontos_voice",
-      "title": "Van Dijk, Salah'ın verdiği güveni anlattı!",
-      "url": "https://www.61saat.com/van-dijk-salahin-verdigi-guveni-anlatti",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 25 Sep 2026 10:49:00 +0300",
-      "base_score": 49,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "açıklama",
         "Trabzon",
         "dil"
       ],
