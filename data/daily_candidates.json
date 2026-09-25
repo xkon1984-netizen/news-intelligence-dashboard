@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:22:50.177806+00:00",
+  "generated_at": "2026-09-25T21:38:30.650296+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -29,9 +29,29 @@
         "needs_second_source": false
       },
       {
-        "external_id": "2e33e21c52512e63853a7bc9",
+        "external_id": "b5e210dbafea8c42d7835fa8",
         "mode": "sportdog",
-        "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - transferfeed.com",
+        "title": "Panathinaikos - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+        "base_score": 56,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "2833a85658564e3d2a645f15",
+        "mode": "sportdog",
+        "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - TransferFeed",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
         "source": "TransferFeed Greek Super League",
         "published": "Thu, 24 Sep 2026 10:09:14 GMT",
@@ -186,25 +206,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "72eb056a540b7f3496c0d947",
-        "mode": "sportdog",
-        "title": "Panathinaikos record best EuroLeague start in 15 years - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUphWm5nc1dlSlBlVVF0dEpnd09KSjJWZ1lQN3BkRkVPZURqV1hpVl8zTFlSN0t0azQwMkxzVHcwM3V6QWtHV1dJU1pHNFAzVGk0ZXFtanVTN2JZY0I2dl9BZ0FLQmNWdWoyTHNJZkE0MEVBNlV6a0dXVGpMODl6akM3QUtWbkI1eDRKVFRBaHptN3VlTHg3NWxVeXk?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 24 Sep 2026 21:18:50 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "6e452a2f17a9c941e52471f1",
         "mode": "sportdog",
         "title": "LIVE/FREE:Olympiacos Piraeus BC V Baskonia Vitoria LIVE STREA.Ms ON 24th. September. 2026 - czechinvest.gov.cz",
@@ -241,6 +242,24 @@
           "Pakistani",
           "Jaishankar",
           "terrorism"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "6733c5d2562f382275fabb0f",
+        "mode": "geopolitico",
+        "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Fri, 25 Sep 2026 20:21:45 GMT",
+        "base_score": 96,
+        "candidate_score": 111,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Israel",
+          "Pakistan",
+          "Pakistani",
+          "defense"
         ],
         "content_type": "news"
       },
@@ -350,26 +369,6 @@
           "Kibris",
           "Miçotakis",
           "Kıbrıs"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "7fdfe65dbd51f4091dd8fc25",
-        "mode": "geopolitico",
-        "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSU5va2dwOEVnWUE1ZkFJZ2s4TWd0NV9NaTd6RHhMQVhjbzlOcEFRUEptS3NwckFnbV96aGd0VE5iTWNvbjB6QlZ2MmpCdTNqUV9La25ISktEQ2JvLV9QeC14TGtxbDNfdUhOQ29NdmZEZHNTYlJja0tpR2F2amstUmNsQ2UzU0s4bExqZXRtUjdlUXUxV21INDFueUxtMTBhWE5NOTdkRTVaOWZ0d2EtdjZuT0FKYnEzeURlODR4SkJlNjQ?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Fri, 25 Sep 2026 01:50:00 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Ege",
-          "karasuları",
-          "12 mil",
-          "Girit",
-          "ada"
         ],
         "content_type": "news"
       }
@@ -502,9 +501,29 @@
       "needs_second_source": false
     },
     {
-      "external_id": "2e33e21c52512e63853a7bc9",
+      "external_id": "b5e210dbafea8c42d7835fa8",
       "mode": "sportdog",
-      "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - transferfeed.com",
+      "title": "Panathinaikos - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+      "base_score": 56,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "2833a85658564e3d2a645f15",
+      "mode": "sportdog",
+      "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - TransferFeed",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
       "source": "TransferFeed Greek Super League",
       "published": "Thu, 24 Sep 2026 10:09:14 GMT",
@@ -659,25 +678,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "72eb056a540b7f3496c0d947",
-      "mode": "sportdog",
-      "title": "Panathinaikos record best EuroLeague start in 15 years - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUphWm5nc1dlSlBlVVF0dEpnd09KSjJWZ1lQN3BkRkVPZURqV1hpVl8zTFlSN0t0azQwMkxzVHcwM3V6QWtHV1dJU1pHNFAzVGk0ZXFtanVTN2JZY0I2dl9BZ0FLQmNWdWoyTHNJZkE0MEVBNlV6a0dXVGpMODl6akM3QUtWbkI1eDRKVFRBaHptN3VlTHg3NWxVeXk?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 24 Sep 2026 21:18:50 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "6e452a2f17a9c941e52471f1",
       "mode": "sportdog",
       "title": "LIVE/FREE:Olympiacos Piraeus BC V Baskonia Vitoria LIVE STREA.Ms ON 24th. September. 2026 - czechinvest.gov.cz",
@@ -712,6 +712,24 @@
         "Pakistani",
         "Jaishankar",
         "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "6733c5d2562f382275fabb0f",
+      "mode": "geopolitico",
+      "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Fri, 25 Sep 2026 20:21:45 GMT",
+      "base_score": 96,
+      "candidate_score": 111,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Israel",
+        "Pakistan",
+        "Pakistani",
+        "defense"
       ],
       "content_type": "news"
     },
@@ -821,26 +839,6 @@
         "Kibris",
         "Miçotakis",
         "Kıbrıs"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "7fdfe65dbd51f4091dd8fc25",
-      "mode": "geopolitico",
-      "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSU5va2dwOEVnWUE1ZkFJZ2s4TWd0NV9NaTd6RHhMQVhjbzlOcEFRUEptS3NwckFnbV96aGd0VE5iTWNvbjB6QlZ2MmpCdTNqUV9La25ISktEQ2JvLV9QeC14TGtxbDNfdUhOQ29NdmZEZHNTYlJja0tpR2F2amstUmNsQ2UzU0s4bExqZXRtUjdlUXUxV21INDFueUxtMTBhWE5NOTdkRTVaOWZ0d2EtdjZuT0FKYnEzeURlODR4SkJlNjQ?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Fri, 25 Sep 2026 01:50:00 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Ege",
-        "karasuları",
-        "12 mil",
-        "Girit",
-        "ada"
       ],
       "content_type": "news"
     },
