@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T17:37:46.848923+00:00",
+  "generated_at": "2026-09-25T17:52:54.671860+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -47,26 +47,6 @@
         "team": "Panathinaikos",
         "readiness": "READY",
         "needs_second_source": false
-      },
-      {
-        "external_id": "2833a85658564e3d2a645f15",
-        "mode": "sportdog",
-        "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - TransferFeed",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
-        "source": "TransferFeed Greek Super League",
-        "published": "Thu, 24 Sep 2026 10:09:14 GMT",
-        "base_score": 58,
-        "candidate_score": 78,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
       },
       {
         "external_id": "812841d084dcfa455bde37aa",
@@ -208,9 +188,9 @@
     ],
     "geopolitico": [
       {
-        "external_id": "a36b324b94397a0cf0497e87",
+        "external_id": "e55348dde75dc2be219db063",
         "mode": "geopolitico",
-        "title": "'A terrorist country is asking me that question': EAM Jaishankar hits back at Pakistani journalist at UN - The New Indian Express",
+        "title": "'A terrorist country is asking me that question': EAM Jaishankar hits back at Pakistani journalist at UN - newindianexpress.com",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Fri, 25 Sep 2026 16:11:50 GMT",
@@ -263,25 +243,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "b13269db6531ffabf617f67b",
-        "mode": "geopolitico",
-        "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki: “Utanç verici” - CNN Türk",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0JyZi1HZmtnWHkyRC15Q0JuTE5FamNSYnlzWjgwZUc3YWFlRExCYXhGVlc2Nmc1bFMwQldXQmVBRDVmaENtNUFhamhsX1BzejEyYlJVR0x2eWhJUkZiR2luNHRubnRDWWxWNUl5dVFSWmVvR3EyeVBKN0VDeWtSU1RxUE92bXZPYzBpcm9YZDU5eGRFTVJiYXBsQlFIY1BNem16QldjOUZHdEdUWnMxVERUUTM?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 25 Sep 2026 09:43:00 GMT",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Netanyahu",
-          "Miçotakis",
-          "görüşme",
-          "tepki"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "412675cfa34299a0ce43a094",
         "mode": "geopolitico",
         "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
@@ -295,6 +256,25 @@
           "Kibris",
           "Miçotakis",
           "Kıbrıs"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "b13269db6531ffabf617f67b",
+        "mode": "geopolitico",
+        "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki: “Utanç verici” - CNN Türk",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0JyZi1HZmtnWHkyRC15Q0JuTE5FamNSYnlzWjgwZUc3YWFlRExCYXhGVlc2Nmc1bFMwQldXQmVBRDVmaENtNUFhamhsX1BzejEyYlJVR0x2eWhJUkZiR2luNHRubnRDWWxWNUl5dVFSWmVvR3EyeVBKN0VDeWtSU1RxUE92bXZPYzBpcm9YZDU5eGRFTVJiYXBsQlFIY1BNem16QldjOUZHdEdUWnMxVERUUTM?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 25 Sep 2026 09:43:00 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Netanyahu",
+          "Miçotakis",
+          "görüşme",
+          "tepki"
         ],
         "content_type": "news"
       },
@@ -502,26 +482,6 @@
       "needs_second_source": false
     },
     {
-      "external_id": "2833a85658564e3d2a645f15",
-      "mode": "sportdog",
-      "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - TransferFeed",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
-      "source": "TransferFeed Greek Super League",
-      "published": "Thu, 24 Sep 2026 10:09:14 GMT",
-      "base_score": 58,
-      "candidate_score": 78,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "812841d084dcfa455bde37aa",
       "mode": "sportdog",
       "title": "How to get Shakhtar Donetsk vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
@@ -659,9 +619,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "a36b324b94397a0cf0497e87",
+      "external_id": "e55348dde75dc2be219db063",
       "mode": "geopolitico",
-      "title": "'A terrorist country is asking me that question': EAM Jaishankar hits back at Pakistani journalist at UN - The New Indian Express",
+      "title": "'A terrorist country is asking me that question': EAM Jaishankar hits back at Pakistani journalist at UN - newindianexpress.com",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Fri, 25 Sep 2026 16:11:50 GMT",
@@ -714,25 +674,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "b13269db6531ffabf617f67b",
-      "mode": "geopolitico",
-      "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki: “Utanç verici” - CNN Türk",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0JyZi1HZmtnWHkyRC15Q0JuTE5FamNSYnlzWjgwZUc3YWFlRExCYXhGVlc2Nmc1bFMwQldXQmVBRDVmaENtNUFhamhsX1BzejEyYlJVR0x2eWhJUkZiR2luNHRubnRDWWxWNUl5dVFSWmVvR3EyeVBKN0VDeWtSU1RxUE92bXZPYzBpcm9YZDU5eGRFTVJiYXBsQlFIY1BNem16QldjOUZHdEdUWnMxVERUUTM?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 25 Sep 2026 09:43:00 GMT",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Netanyahu",
-        "Miçotakis",
-        "görüşme",
-        "tepki"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "412675cfa34299a0ce43a094",
       "mode": "geopolitico",
       "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
@@ -746,6 +687,25 @@
         "Kibris",
         "Miçotakis",
         "Kıbrıs"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "b13269db6531ffabf617f67b",
+      "mode": "geopolitico",
+      "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki: “Utanç verici” - CNN Türk",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0JyZi1HZmtnWHkyRC15Q0JuTE5FamNSYnlzWjgwZUc3YWFlRExCYXhGVlc2Nmc1bFMwQldXQmVBRDVmaENtNUFhamhsX1BzejEyYlJVR0x2eWhJUkZiR2luNHRubnRDWWxWNUl5dVFSWmVvR3EyeVBKN0VDeWtSU1RxUE92bXZPYzBpcm9YZDU5eGRFTVJiYXBsQlFIY1BNem16QldjOUZHdEdUWnMxVERUUTM?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 25 Sep 2026 09:43:00 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Netanyahu",
+        "Miçotakis",
+        "görüşme",
+        "tepki"
       ],
       "content_type": "news"
     },
