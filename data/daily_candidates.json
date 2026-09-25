@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T16:50:38.204111+00:00",
+  "generated_at": "2026-09-25T17:01:47.555983+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -25,6 +25,26 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
+        "external_id": "b5e210dbafea8c42d7835fa8",
+        "mode": "sportdog",
+        "title": "Panathinaikos - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+        "base_score": 56,
+        "candidate_score": 86,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
         "readiness": "READY",
         "needs_second_source": false
       },
@@ -108,6 +128,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "f3b6759e93ef78b635225b1e",
+        "mode": "sportdog",
+        "title": "Zeljko Obradovic reveals the status of injured Panathinaikos players - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG15aGg1VzRsMEZ3eHhWQ2VJYVdoalRka0h6aTFJeU5XRHgwMC1UMmRJb1lJVG85YXhuam1Bc0NnNnJVNEloalVYaTZSdmhWYUlUVzBnNVhuSlR1M2J6QTQ2Tnc5UWRHYUhuRXdDeXhOTlZnRjNOMi1fa1Y4VHY2ZzBKSjYyWURzR1FvckdWZHhDamxHUmpWWTh1NW5KUGs3eFJMSlpwcWxMMzhI?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 05:48:00 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Injury",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "b4caefe216ee1667b6649ef7",
         "mode": "sportdog",
         "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
@@ -123,25 +162,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "4302fa862bd6e0f23c0be3f2",
-        "mode": "sportdog",
-        "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMi1wNDF6cUQ4QkRqdHhCemlsSDdBVy02Qy1RVm5YZm1JU3JwT29mOUJhRTVvRndoWjBXcklEVV9sOFh0OEhNUEdBNWFZQldmUFpBWkdRMFZweGNOS3VhQXRZMjVtTzk0by1Obl9ZUnEyS1Y4bkZCZ0w4SUVjbFl2azV1X01kcVZwVkYzbzJJSlBxQjc0Yzl6ajAyNG8zMWRIVEF4VzVjeEhiOWV5MWpYQ0hHU1ExSm5jUGpvOXlR?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 24 Sep 2026 19:15:58 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -241,23 +261,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "3eaa9f93038fa14b72f81022",
-        "mode": "geopolitico",
-        "title": "The New Global Arms Race Is Technological: What the US China AI Competition Means for Developing Countries - Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEVvMTQ3Y21jN1UtSmZ3bk55b2FZbVFDTlRiR2VrZ01tMnpMajUzY2JpSUZYZ1RDYVdaMTRjdjNqR2JjV0lhNl9XWk5NcXJTcHVyT0x5WWpMSERoZ0ZRWmVPN0psWFhZcVBFUjM1ZUJ4ajZpT3JJOUo2MGhHSlNHTURKanA4YzE3MGVfUXNXbkVMZlVCNEVF0gGWAUFVX3lxTFA1QUUxWmVMZHlwRmFpVkN6RDBVWkZjc1hiX0x6ZmV0bS1TazI0OV8ya2NUUGx4anEya29aRm8tMzhxZ2s4bjNodGNIWFRiOWxSQlo1TTc2NmtKX0Ywc3IxYXh6ZThDMGRFSm1YRl9QZEs4U1ZYdG5YUEtNcUFjUVlsN1ZUbGN4VFFRS2V6d3NpZUVsc1dDZw?oc=5",
-        "source": "China Strategic Watch",
-        "published": "Fri, 25 Sep 2026 08:59:40 GMT",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "China",
-          "China AI",
-          "US China"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "412675cfa34299a0ce43a094",
         "mode": "geopolitico",
         "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
@@ -271,6 +274,23 @@
           "Kibris",
           "Miçotakis",
           "Kıbrıs"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "3eaa9f93038fa14b72f81022",
+        "mode": "geopolitico",
+        "title": "The New Global Arms Race Is Technological: What the US China AI Competition Means for Developing Countries - Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEVvMTQ3Y21jN1UtSmZ3bk55b2FZbVFDTlRiR2VrZ01tMnpMajUzY2JpSUZYZ1RDYVdaMTRjdjNqR2JjV0lhNl9XWk5NcXJTcHVyT0x5WWpMSERoZ0ZRWmVPN0psWFhZcVBFUjM1ZUJ4ajZpT3JJOUo2MGhHSlNHTURKanA4YzE3MGVfUXNXbkVMZlVCNEVF0gGWAUFVX3lxTFA1QUUxWmVMZHlwRmFpVkN6RDBVWkZjc1hiX0x6ZmV0bS1TazI0OV8ya2NUUGx4anEya29aRm8tMzhxZ2s4bjNodGNIWFRiOWxSQlo1TTc2NmtKX0Ywc3IxYXh6ZThDMGRFSm1YRl9QZEs4U1ZYdG5YUEtNcUFjUVlsN1ZUbGN4VFFRS2V6d3NpZUVsc1dDZw?oc=5",
+        "source": "China Strategic Watch",
+        "published": "Fri, 25 Sep 2026 08:59:40 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "China",
+          "China AI",
+          "US China"
         ],
         "content_type": "news"
       },
@@ -442,6 +462,26 @@
       "needs_second_source": false
     },
     {
+      "external_id": "b5e210dbafea8c42d7835fa8",
+      "mode": "sportdog",
+      "title": "Panathinaikos - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+      "base_score": 56,
+      "candidate_score": 86,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "1dbf3bf511cc4f1fd7e459f9",
       "mode": "sportdog",
       "title": "LIVE/FREE:Panathinaikos V Paris LIVE STREA.Ms ON 24th. September. 2026 - czechinvest.gov.cz",
@@ -521,6 +561,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "f3b6759e93ef78b635225b1e",
+      "mode": "sportdog",
+      "title": "Zeljko Obradovic reveals the status of injured Panathinaikos players - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG15aGg1VzRsMEZ3eHhWQ2VJYVdoalRka0h6aTFJeU5XRHgwMC1UMmRJb1lJVG85YXhuam1Bc0NnNnJVNEloalVYaTZSdmhWYUlUVzBnNVhuSlR1M2J6QTQ2Tnc5UWRHYUhuRXdDeXhOTlZnRjNOMi1fa1Y4VHY2ZzBKSjYyWURzR1FvckdWZHhDamxHUmpWWTh1NW5KUGs3eFJMSlpwcWxMMzhI?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 05:48:00 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Injury",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "b4caefe216ee1667b6649ef7",
       "mode": "sportdog",
       "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
@@ -536,25 +595,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "4302fa862bd6e0f23c0be3f2",
-      "mode": "sportdog",
-      "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMi1wNDF6cUQ4QkRqdHhCemlsSDdBVy02Qy1RVm5YZm1JU3JwT29mOUJhRTVvRndoWjBXcklEVV9sOFh0OEhNUEdBNWFZQldmUFpBWkdRMFZweGNOS3VhQXRZMjVtTzk0by1Obl9ZUnEyS1Y4bkZCZ0w4SUVjbFl2azV1X01kcVZwVkYzbzJJSlBxQjc0Yzl6ajAyNG8zMWRIVEF4VzVjeEhiOWV5MWpYQ0hHU1ExSm5jUGpvOXlR?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 24 Sep 2026 19:15:58 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -652,23 +692,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "3eaa9f93038fa14b72f81022",
-      "mode": "geopolitico",
-      "title": "The New Global Arms Race Is Technological: What the US China AI Competition Means for Developing Countries - Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEVvMTQ3Y21jN1UtSmZ3bk55b2FZbVFDTlRiR2VrZ01tMnpMajUzY2JpSUZYZ1RDYVdaMTRjdjNqR2JjV0lhNl9XWk5NcXJTcHVyT0x5WWpMSERoZ0ZRWmVPN0psWFhZcVBFUjM1ZUJ4ajZpT3JJOUo2MGhHSlNHTURKanA4YzE3MGVfUXNXbkVMZlVCNEVF0gGWAUFVX3lxTFA1QUUxWmVMZHlwRmFpVkN6RDBVWkZjc1hiX0x6ZmV0bS1TazI0OV8ya2NUUGx4anEya29aRm8tMzhxZ2s4bjNodGNIWFRiOWxSQlo1TTc2NmtKX0Ywc3IxYXh6ZThDMGRFSm1YRl9QZEs4U1ZYdG5YUEtNcUFjUVlsN1ZUbGN4VFFRS2V6d3NpZUVsc1dDZw?oc=5",
-      "source": "China Strategic Watch",
-      "published": "Fri, 25 Sep 2026 08:59:40 GMT",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "China",
-        "China AI",
-        "US China"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "412675cfa34299a0ce43a094",
       "mode": "geopolitico",
       "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
@@ -682,6 +705,23 @@
         "Kibris",
         "Miçotakis",
         "Kıbrıs"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "3eaa9f93038fa14b72f81022",
+      "mode": "geopolitico",
+      "title": "The New Global Arms Race Is Technological: What the US China AI Competition Means for Developing Countries - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEVvMTQ3Y21jN1UtSmZ3bk55b2FZbVFDTlRiR2VrZ01tMnpMajUzY2JpSUZYZ1RDYVdaMTRjdjNqR2JjV0lhNl9XWk5NcXJTcHVyT0x5WWpMSERoZ0ZRWmVPN0psWFhZcVBFUjM1ZUJ4ajZpT3JJOUo2MGhHSlNHTURKanA4YzE3MGVfUXNXbkVMZlVCNEVF0gGWAUFVX3lxTFA1QUUxWmVMZHlwRmFpVkN6RDBVWkZjc1hiX0x6ZmV0bS1TazI0OV8ya2NUUGx4anEya29aRm8tMzhxZ2s4bjNodGNIWFRiOWxSQlo1TTc2NmtKX0Ywc3IxYXh6ZThDMGRFSm1YRl9QZEs4U1ZYdG5YUEtNcUFjUVlsN1ZUbGN4VFFRS2V6d3NpZUVsc1dDZw?oc=5",
+      "source": "China Strategic Watch",
+      "published": "Fri, 25 Sep 2026 08:59:40 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "China",
+        "China AI",
+        "US China"
       ],
       "content_type": "news"
     },
