@@ -81,6 +81,25 @@ def candidate_score(item, mode, now):
     return min(score, 130), published_dt
 
 
+def classify_sportdog(title, matched_keywords):
+    cfg_path = ROOT / "config" / "sportdog_editorial.yaml"
+    cfg = load_yaml(cfg_path).get("sports_desk", {}) if cfg_path.exists() else {}
+    text = f"{title} {' '.join(matched_keywords)}".casefold()
+    best_type = "Team News"
+    best_hits = 0
+    for key, meta in cfg.get("editorial_types", {}).items():
+        hits = sum(1 for kw in meta.get("keywords", []) if kw.casefold() in text)
+        if hits > best_hits:
+            best_hits = hits
+            best_type = meta.get("label", key)
+    team = ""
+    for label, aliases in cfg.get("team_aliases", {}).items():
+        if any(alias.casefold() in text for alias in aliases):
+            team = label
+            break
+    return best_type, team, cfg.get("readiness", {})
+
+
 def build_mode(items, mode, now):
     max_age = MODE_MAX_AGE_HOURS[mode]
     ranked = []
@@ -106,7 +125,7 @@ def build_mode(items, mode, now):
 
         matched = item.get("matched_keywords", {}).get(mode, [])
         priority = "URGENT" if final_score >= 95 else ("High" if final_score >= 70 else "Normal")
-        output.append({
+        record = {
             "external_id": external_id(mode, item.get("url", ""), item.get("title", "")),
             "mode": mode,
             "title": item.get("title", ""),
@@ -118,7 +137,16 @@ def build_mode(items, mode, now):
             "priority": priority,
             "matched_keywords": matched,
             "content_type": item.get("content_type", "news"),
-        })
+        }
+        if mode == "sportdog":
+            editorial_type, team, readiness = classify_sportdog(record["title"], matched)
+            ready_score = int(readiness.get("ready_score", 85))
+            verify_score = int(readiness.get("verify_score", 60))
+            record["editorial_type"] = editorial_type
+            record["team"] = team
+            record["readiness"] = "READY" if final_score >= ready_score else ("VERIFY" if final_score >= verify_score else "WATCH")
+            record["needs_second_source"] = final_score < int(readiness.get("second_source_required_below", ready_score))
+        output.append(record)
         if len(output) >= MODE_LIMITS[mode]:
             break
     return output
