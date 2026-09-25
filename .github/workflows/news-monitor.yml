@@ -41,11 +41,14 @@ jobs:
       - name: Build daily story candidates
         run: python scripts/build_candidates.py
 
+      - name: Watch managed-site publications
+        run: python scripts/publisher_watch.py
+
       - name: Commit refreshed feed
         run: |
           git config user.name "news-monitor-bot"
           git config user.email "news-monitor-bot@users.noreply.github.com"
-          git add data/news.json data/daily_candidates.json
+          git add data/news.json data/daily_candidates.json data/published_watch.json
           if ! git diff --cached --quiet; then
             git commit -m "Refresh news feed"
             git push
@@ -59,6 +62,7 @@ jobs:
           cp dashboard/app.js _site/app.js
           cp data/news.json _site/data/news.json
           cp data/daily_candidates.json _site/data/daily_candidates.json
+          cp data/published_watch.json _site/data/published_watch.json
           if [ -f dashboard/data/transfer_sources.json ]; then
             cp dashboard/data/transfer_sources.json _site/data/transfer_sources.json
           fi
