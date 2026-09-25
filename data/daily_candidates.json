@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T16:00:12.761513+00:00",
+  "generated_at": "2026-09-25T16:24:50.661586+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -89,9 +89,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "53f29ab9701781c20a046d5e",
+        "external_id": "ddcee91bf70f469a80361283",
         "mode": "sportdog",
-        "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - Soccernet.ng",
+        "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - soccernet.ng",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F6YWZtd1ZjMGJjMDFMMnZDZU50Q252SGlTejYyWFV2VEN6NkNqNF85NlNJaW80a1JxTGpGTEJYNUV1MmZtWHJwZkc5bjBpZ2lBYUxfZU01NlpHLTlNTmJrUXo0MkI1eW54eS12dml0cmlCcmNKR2lkZWxKSFBpbQ?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 25 Sep 2026 06:00:00 GMT",
@@ -123,25 +123,6 @@
         "content_type": "news",
         "editorial_type": "Injury",
         "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "b4caefe216ee1667b6649ef7",
-        "mode": "sportdog",
-        "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 24 Sep 2026 22:47:58 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -185,6 +166,24 @@
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "a36b324b94397a0cf0497e87",
+        "mode": "geopolitico",
+        "title": "'A terrorist country is asking me that question': EAM Jaishankar hits back at Pakistani journalist at UN - The New Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Fri, 25 Sep 2026 16:11:50 GMT",
+        "base_score": 99,
+        "candidate_score": 114,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Pakistani",
+          "Jaishankar"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "a8f4a307660205a82d14c028",
         "mode": "geopolitico",
@@ -259,25 +258,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "e27296cf20263f2af0143044",
-        "mode": "geopolitico",
-        "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki! - Sabah",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVdIBpwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVQ?oc=5",
-        "source": "Sabah Greece Watch",
-        "published": "Fri, 25 Sep 2026 08:17:51 GMT",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Netanyahu",
-          "Miçotakis",
-          "görüşme",
-          "tepki"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "412675cfa34299a0ce43a094",
         "mode": "geopolitico",
         "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
@@ -295,9 +275,28 @@
         "content_type": "news"
       },
       {
-        "external_id": "ce1bf3708da3096b69a0451d",
+        "external_id": "e27296cf20263f2af0143044",
         "mode": "geopolitico",
-        "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - egealternatif.com",
+        "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki! - Sabah",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVdIBpwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVQ?oc=5",
+        "source": "Sabah Greece Watch",
+        "published": "Fri, 25 Sep 2026 08:17:51 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Netanyahu",
+          "Miçotakis",
+          "görüşme",
+          "tepki"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "7fdfe65dbd51f4091dd8fc25",
+        "mode": "geopolitico",
+        "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSU5va2dwOEVnWUE1ZkFJZ2s4TWd0NV9NaTd6RHhMQVhjbzlOcEFRUEptS3NwckFnbV96aGd0VE5iTWNvbjB6QlZ2MmpCdTNqUV9La25ISktEQ2JvLV9QeC14TGtxbDNfdUhOQ29NdmZEZHNTYlJja0tpR2F2amstUmNsQ2UzU0s4bExqZXRtUjdlUXUxV21INDFueUxtMTBhWE5NOTdkRTVaOWZ0d2EtdjZuT0FKYnEzeURlODR4SkJlNjQ?oc=5",
         "source": "Eastern Mediterranean Turkey Watch",
         "published": "Fri, 25 Sep 2026 01:50:00 GMT",
@@ -311,24 +310,6 @@
           "12 mil",
           "Girit",
           "ada"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "e0d6034044226c594fdc0da2",
-        "mode": "geopolitico",
-        "title": "Will Iran Join a Saudi-Pakistan-Turkey Pact: What Would It Mean for the Houthis? - blogs.timesofisrael.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTAyTXRkdjZUYWlnajVsRVpmY1hqVVZHd29jMllxeUdrUm9IWVZQTy1YMktsWDFRYXNWNXlGQ2RLd1Y0bkl5bExPR08wSGJjUzRSbUlsV3lVX3A4RHZBam90dF9sTlhMYXNmeFpJNkJ4VG5Tc29faVFXbjM0SUpsQzlCLUxnRTRRN180djZVZExKMVF6SUE5TlpLdUlQZE0yekZiT0dQaXpGc1RpeTRTQw?oc=5",
-        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-        "published": "Fri, 25 Sep 2026 14:41:00 GMT",
-        "base_score": 90,
-        "candidate_score": 105,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Israel",
-          "Pakistan",
-          "Iran",
-          "Turkey"
         ],
         "content_type": "news"
       }
@@ -521,9 +502,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "53f29ab9701781c20a046d5e",
+      "external_id": "ddcee91bf70f469a80361283",
       "mode": "sportdog",
-      "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - Soccernet.ng",
+      "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - soccernet.ng",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F6YWZtd1ZjMGJjMDFMMnZDZU50Q252SGlTejYyWFV2VEN6NkNqNF85NlNJaW80a1JxTGpGTEJYNUV1MmZtWHJwZkc5bjBpZ2lBYUxfZU01NlpHLTlNTmJrUXo0MkI1eW54eS12dml0cmlCcmNKR2lkZWxKSFBpbQ?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 25 Sep 2026 06:00:00 GMT",
@@ -555,25 +536,6 @@
       "content_type": "news",
       "editorial_type": "Injury",
       "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "b4caefe216ee1667b6649ef7",
-      "mode": "sportdog",
-      "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 24 Sep 2026 22:47:58 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -614,6 +576,24 @@
       "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "a36b324b94397a0cf0497e87",
+      "mode": "geopolitico",
+      "title": "'A terrorist country is asking me that question': EAM Jaishankar hits back at Pakistani journalist at UN - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHB4RXdtWEI5X012SFNsZG15YUNnZHBiOG95T1M0bDZLNzFtRlhEME1SeWt6NHJKS3Zna0pJRzVOREtJdFJlUnNhNlhRQS1QWnp2dWd4cUZyakotWG9hZkU0S0dELTF6TzBieFFnTFMtekNWY3ZxUW5NT2E3QVYtTWdmc1VfTFp2bW1xQUJKR1dzOEFtcERkTnN4MXc1MzVVTHQ0ei1HWWFSYllyQUZwaGNiY1RpR3B0UXRMUXlIUlJpaDRjcGc2aFpYamdReU15TlFDZTh6OVlPNjQwaEhCNzUwd0t4dlXSAfQBQVVfeXFMT3BxME9PSEk4ZmxpZVdjT0p2cm9zVXN2dWNRZW1vTW5yQVk4N0x0aUYyY2dndE5VQjBpTUpzOVF3UU9UcGh3ZDE4RWNzWlExSHM1alNocDZkbS1laF8yejhKaGtmWGR0T1gxclh6MXVmaE1RRVhVQjM5ZUlneDFKbTRycXFneWRHdnEzMDFJcm1HZlRQelZKTElCamI5d3RPNjgzclhsSUUwZFVJbGVKTDQ3UWlkV09EaHVrc1g4RkkyWElJYi1BRHhZVE9oaG1VejhPUWlIVGQ5OUROTTZrTW1XSUlTNUowTzAycWQ1NVc1YTctSg?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Fri, 25 Sep 2026 16:11:50 GMT",
+      "base_score": 99,
+      "candidate_score": 114,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Pakistani",
+        "Jaishankar"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "a8f4a307660205a82d14c028",
@@ -689,25 +669,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "e27296cf20263f2af0143044",
-      "mode": "geopolitico",
-      "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki! - Sabah",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVdIBpwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVQ?oc=5",
-      "source": "Sabah Greece Watch",
-      "published": "Fri, 25 Sep 2026 08:17:51 GMT",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Netanyahu",
-        "Miçotakis",
-        "görüşme",
-        "tepki"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "412675cfa34299a0ce43a094",
       "mode": "geopolitico",
       "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
@@ -725,9 +686,28 @@
       "content_type": "news"
     },
     {
-      "external_id": "ce1bf3708da3096b69a0451d",
+      "external_id": "e27296cf20263f2af0143044",
       "mode": "geopolitico",
-      "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - egealternatif.com",
+      "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki! - Sabah",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVdIBpwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVQ?oc=5",
+      "source": "Sabah Greece Watch",
+      "published": "Fri, 25 Sep 2026 08:17:51 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Netanyahu",
+        "Miçotakis",
+        "görüşme",
+        "tepki"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "7fdfe65dbd51f4091dd8fc25",
+      "mode": "geopolitico",
+      "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSU5va2dwOEVnWUE1ZkFJZ2s4TWd0NV9NaTd6RHhMQVhjbzlOcEFRUEptS3NwckFnbV96aGd0VE5iTWNvbjB6QlZ2MmpCdTNqUV9La25ISktEQ2JvLV9QeC14TGtxbDNfdUhOQ29NdmZEZHNTYlJja0tpR2F2amstUmNsQ2UzU0s4bExqZXRtUjdlUXUxV21INDFueUxtMTBhWE5NOTdkRTVaOWZ0d2EtdjZuT0FKYnEzeURlODR4SkJlNjQ?oc=5",
       "source": "Eastern Mediterranean Turkey Watch",
       "published": "Fri, 25 Sep 2026 01:50:00 GMT",
@@ -741,24 +721,6 @@
         "12 mil",
         "Girit",
         "ada"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "e0d6034044226c594fdc0da2",
-      "mode": "geopolitico",
-      "title": "Will Iran Join a Saudi-Pakistan-Turkey Pact: What Would It Mean for the Houthis? - blogs.timesofisrael.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTAyTXRkdjZUYWlnajVsRVpmY1hqVVZHd29jMllxeUdrUm9IWVZQTy1YMktsWDFRYXNWNXlGQ2RLd1Y0bkl5bExPR08wSGJjUzRSbUlsV3lVX3A4RHZBam90dF9sTlhMYXNmeFpJNkJ4VG5Tc29faVFXbjM0SUpsQzlCLUxnRTRRN180djZVZExKMVF6SUE5TlpLdUlQZE0yekZiT0dQaXpGc1RpeTRTQw?oc=5",
-      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-      "published": "Fri, 25 Sep 2026 14:41:00 GMT",
-      "base_score": 90,
-      "candidate_score": 105,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Israel",
-        "Pakistan",
-        "Iran",
-        "Turkey"
       ],
       "content_type": "news"
     },
