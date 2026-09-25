@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:21:21.349717+00:00",
+  "generated_at": "2026-09-25T20:36:55.751568+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -56,8 +56,8 @@
         "source": "AEK Rumour Watch",
         "published": "Fri, 25 Sep 2026 17:29:00 GMT",
         "base_score": 50,
-        "candidate_score": 73,
-        "priority": "High",
+        "candidate_score": 68,
+        "priority": "Normal",
         "matched_keywords": [
           "AEK",
           "Champions League"
@@ -109,9 +109,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "8b1454c1e9fb00648304b3d1",
+        "external_id": "52c9d3ef40caafc6c88d4671",
         "mode": "sportdog",
-        "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - en.as.com",
+        "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - Diario AS",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkR3d29vNnRBZFJ6V2NXVnJFZjM3aEFRWVFPbTJQY3NGa1YzQldPbHhaOU0yVWF4b2E2cFJSSzhVaFpFTFRRNGlqZ1JGZVYyY2ZKdjFONjhoa3N4WVJkZnZMaExQN1pFQnhBSnlDQnRHV0pJbVIxVzhpY3c1YmNsZjkyQ0k4SlRmVTRZX0dwdzhVTXliZmlrdnNXbkw1TXhxOGZXOXNtUWtaai15NnlGeWQ3Mk01bGcyaXpVS25JQQ?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Fri, 25 Sep 2026 00:13:35 GMT",
@@ -226,6 +226,24 @@
     ],
     "geopolitico": [
       {
+        "external_id": "6733c5d2562f382275fabb0f",
+        "mode": "geopolitico",
+        "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Fri, 25 Sep 2026 20:21:14 GMT",
+        "base_score": 96,
+        "candidate_score": 111,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Israel",
+          "Pakistan",
+          "Pakistani",
+          "defense"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "aef9320425d5c03939ba2807",
         "mode": "geopolitico",
         "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
@@ -301,9 +319,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "8811a7e809454f3ec66785e7",
+        "external_id": "82c2a11102b489e207aa3a75",
         "mode": "geopolitico",
-        "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - TRHaber",
+        "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - trhaber.com.tr",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThKdm9ZVXJ4ZUFNWDlYSkJTLXZVeWNvWkVxVDlWaEpJYl96UlJ1RGVRZF9NWVdCNXM3WVJxQ01zRW00YTN4dzZwOE5EUmVURGJad2NZSktwQVNPWV9TX2lfSklaSnJrb09FMW1WQkxrb2RpQzdMSEduc2wwakRwX2taZVVwbmhLQ1F1VVhINDFzdkRSdFMzcUl5RU90Qko3bTRGQUMwamZScUtNWjNsaE1ISWd3bkZ6anQzelFscmJNa2d1WXJ5R0Vjaw?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 25 Sep 2026 09:08:08 GMT",
@@ -351,23 +369,6 @@
           "Miçotakis",
           "görüşme",
           "tepki"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "412675cfa34299a0ce43a094",
-        "mode": "geopolitico",
-        "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 25 Sep 2026 15:28:00 GMT",
-        "base_score": 94,
-        "candidate_score": 104,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Kibris",
-          "Miçotakis",
-          "Kıbrıs"
         ],
         "content_type": "news"
       }
@@ -527,8 +528,8 @@
       "source": "AEK Rumour Watch",
       "published": "Fri, 25 Sep 2026 17:29:00 GMT",
       "base_score": 50,
-      "candidate_score": 73,
-      "priority": "High",
+      "candidate_score": 68,
+      "priority": "Normal",
       "matched_keywords": [
         "AEK",
         "Champions League"
@@ -580,9 +581,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "8b1454c1e9fb00648304b3d1",
+      "external_id": "52c9d3ef40caafc6c88d4671",
       "mode": "sportdog",
-      "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - en.as.com",
+      "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkR3d29vNnRBZFJ6V2NXVnJFZjM3aEFRWVFPbTJQY3NGa1YzQldPbHhaOU0yVWF4b2E2cFJSSzhVaFpFTFRRNGlqZ1JGZVYyY2ZKdjFONjhoa3N4WVJkZnZMaExQN1pFQnhBSnlDQnRHV0pJbVIxVzhpY3c1YmNsZjkyQ0k4SlRmVTRZX0dwdzhVTXliZmlrdnNXbkw1TXhxOGZXOXNtUWtaai15NnlGeWQ3Mk01bGcyaXpVS25JQQ?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Fri, 25 Sep 2026 00:13:35 GMT",
@@ -695,6 +696,24 @@
       "needs_second_source": true
     },
     {
+      "external_id": "6733c5d2562f382275fabb0f",
+      "mode": "geopolitico",
+      "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Fri, 25 Sep 2026 20:21:14 GMT",
+      "base_score": 96,
+      "candidate_score": 111,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Israel",
+        "Pakistan",
+        "Pakistani",
+        "defense"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "aef9320425d5c03939ba2807",
       "mode": "geopolitico",
       "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
@@ -770,9 +789,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "8811a7e809454f3ec66785e7",
+      "external_id": "82c2a11102b489e207aa3a75",
       "mode": "geopolitico",
-      "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - TRHaber",
+      "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - trhaber.com.tr",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThKdm9ZVXJ4ZUFNWDlYSkJTLXZVeWNvWkVxVDlWaEpJYl96UlJ1RGVRZF9NWVdCNXM3WVJxQ01zRW00YTN4dzZwOE5EUmVURGJad2NZSktwQVNPWV9TX2lfSklaSnJrb09FMW1WQkxrb2RpQzdMSEduc2wwakRwX2taZVVwbmhLQ1F1VVhINDFzdkRSdFMzcUl5RU90Qko3bTRGQUMwamZScUtNWjNsaE1ISWd3bkZ6anQzelFscmJNa2d1WXJ5R0Vjaw?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 25 Sep 2026 09:08:08 GMT",
@@ -820,23 +839,6 @@
         "Miçotakis",
         "görüşme",
         "tepki"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "412675cfa34299a0ce43a094",
-      "mode": "geopolitico",
-      "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 25 Sep 2026 15:28:00 GMT",
-      "base_score": 94,
-      "candidate_score": 104,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Kibris",
-        "Miçotakis",
-        "Kıbrıs"
       ],
       "content_type": "news"
     },
