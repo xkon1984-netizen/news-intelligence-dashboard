@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:33:48.380194+00:00",
+  "generated_at": "2026-09-25T19:47:28.949637+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -27,6 +27,26 @@
         "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
+      },
+      {
+        "external_id": "b5e210dbafea8c42d7835fa8",
+        "mode": "sportdog",
+        "title": "Panathinaikos - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+        "base_score": 56,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "2833a85658564e3d2a645f15",
@@ -182,25 +202,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "4302fa862bd6e0f23c0be3f2",
-        "mode": "sportdog",
-        "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMi1wNDF6cUQ4QkRqdHhCemlsSDdBVy02Qy1RVm5YZm1JU3JwT29mOUJhRTVvRndoWjBXcklEVV9sOFh0OEhNUEdBNWFZQldmUFpBWkdRMFZweGNOS3VhQXRZMjVtTzk0by1Obl9ZUnEyS1Y4bkZCZ0w4SUVjbFl2azV1X01kcVZwVkYzbzJJSlBxQjc0Yzl6ajAyNG8zMWRIVEF4VzVjeEhiOWV5MWpYQ0hHU1ExSm5jUGpvOXlR?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 24 Sep 2026 19:15:58 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -383,7 +384,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 25 Sep 2026 16:35:39 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -500,6 +501,26 @@
       "team": "Olympiacos",
       "readiness": "READY",
       "needs_second_source": false
+    },
+    {
+      "external_id": "b5e210dbafea8c42d7835fa8",
+      "mode": "sportdog",
+      "title": "Panathinaikos - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 10:43:39 GMT",
+      "base_score": 56,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "2833a85658564e3d2a645f15",
@@ -655,25 +676,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "4302fa862bd6e0f23c0be3f2",
-      "mode": "sportdog",
-      "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMi1wNDF6cUQ4QkRqdHhCemlsSDdBVy02Qy1RVm5YZm1JU3JwT29mOUJhRTVvRndoWjBXcklEVV9sOFh0OEhNUEdBNWFZQldmUFpBWkdRMFZweGNOS3VhQXRZMjVtTzk0by1Obl9ZUnEyS1Y4bkZCZ0w4SUVjbFl2azV1X01kcVZwVkYzbzJJSlBxQjc0Yzl6ajAyNG8zMWRIVEF4VzVjeEhiOWV5MWpYQ0hHU1ExSm5jUGpvOXlR?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 24 Sep 2026 19:15:58 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -852,7 +854,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 25 Sep 2026 16:35:39 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
