@@ -1,0 +1,19 @@
+publishers:
+  - name: Geopolitico
+    mode: geopolitico
+    type: wordpress
+    base_url: "https://geopolitico.gr"
+    wp_api: "https://geopolitico.gr/wp-json/wp/v2/posts"
+    max_items: 40
+  - name: Pontos Voice
+    mode: pontos_voice
+    type: wordpress
+    base_url: "https://pontosvoice.com"
+    wp_api: "https://pontosvoice.com/wp-json/wp/v2/posts"
+    max_items: 40
+  - name: Sportdog
+    mode: sportdog
+    type: listing
+    base_url: "https://www.sportdog.gr"
+    listing_url: "https://www.sportdog.gr/latest"
+    max_items: 60
