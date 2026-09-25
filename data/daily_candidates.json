@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T19:20:32.413225+00:00",
+  "generated_at": "2026-09-25T19:33:48.380194+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -29,29 +29,9 @@
         "needs_second_source": false
       },
       {
-        "external_id": "b5e210dbafea8c42d7835fa8",
+        "external_id": "2833a85658564e3d2a645f15",
         "mode": "sportdog",
-        "title": "Panathinaikos - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 25 Sep 2026 10:43:39 GMT",
-        "base_score": 56,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "2e33e21c52512e63853a7bc9",
-        "mode": "sportdog",
-        "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - transferfeed.com",
+        "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - TransferFeed",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
         "source": "TransferFeed Greek Super League",
         "published": "Thu, 24 Sep 2026 10:09:14 GMT",
@@ -69,9 +49,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "eaf421e8012d2c7106c41da6",
+        "external_id": "b52069d68d2bb2f05e8329de",
         "mode": "sportdog",
-        "title": "How to get Shakhtar Donetsk vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - goal.com",
+        "title": "How to get Shakhtar Donetsk vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmIxYTVUd0NubmI2by1sMHkyWjhLMEZLOHBQSjR4c3puLXFaWmhzX0tVeDgyRHZuSEhYXzcxTUFPY3Z1bGFQaWtGTmM4TmxYSXU2ZVhVRnhYWTBOYkJSUC1yQ1lYeEJBNWFwODZtbXlMVktEVEI5TGhEdDd2ZkpwOHdlaVF4Wm5xZ0tEMHBlQlVDc2JwQlpaTjhvVDQtMnFUakIwS3ZlR1g?oc=5",
         "source": "AEK Rumour Watch",
         "published": "Fri, 25 Sep 2026 17:29:00 GMT",
@@ -96,8 +76,8 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 25 Sep 2026 16:28:42 GMT",
         "base_score": 50,
-        "candidate_score": 73,
-        "priority": "High",
+        "candidate_score": 68,
+        "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
           "Europa League"
@@ -182,6 +162,44 @@
         ],
         "content_type": "news",
         "editorial_type": "Injury",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "b4caefe216ee1667b6649ef7",
+        "mode": "sportdog",
+        "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 24 Sep 2026 22:47:58 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "4302fa862bd6e0f23c0be3f2",
+        "mode": "sportdog",
+        "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMi1wNDF6cUQ4QkRqdHhCemlsSDdBVy02Qy1RVm5YZm1JU3JwT29mOUJhRTVvRndoWjBXcklEVV9sOFh0OEhNUEdBNWFZQldmUFpBWkdRMFZweGNOS3VhQXRZMjVtTzk0by1Obl9ZUnEyS1Y4bkZCZ0w4SUVjbFl2azV1X01kcVZwVkYzbzJJSlBxQjc0Yzl6ajAyNG8zMWRIVEF4VzVjeEhiOWV5MWpYQ0hHU1ExSm5jUGpvOXlR?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 24 Sep 2026 19:15:58 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
@@ -484,29 +502,9 @@
       "needs_second_source": false
     },
     {
-      "external_id": "b5e210dbafea8c42d7835fa8",
+      "external_id": "2833a85658564e3d2a645f15",
       "mode": "sportdog",
-      "title": "Panathinaikos - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 25 Sep 2026 10:43:39 GMT",
-      "base_score": 56,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "2e33e21c52512e63853a7bc9",
-      "mode": "sportdog",
-      "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - transferfeed.com",
+      "title": "Andrews Tetteh Transfer from Panathinaikos to SV Werder Bremen - TransferFeed",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXRmNkdxZ3hxRDFWLUNleFpNRTZZQXo3TnhmeTUzQlNlbWVra3UtUll5QW9zeU0zT0Q4cm9GV2RLdk45cW1DVGt5bE9DRnpZMmE1Rk0tZXVkNU81SzlEUnZLUUVwU3JpQThSN19sSEZpdldmcWNCVnpHOTRENlhhTzVMeGFoTDdTQ05CcmlJRFBmbmZu?oc=5",
       "source": "TransferFeed Greek Super League",
       "published": "Thu, 24 Sep 2026 10:09:14 GMT",
@@ -524,9 +522,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "eaf421e8012d2c7106c41da6",
+      "external_id": "b52069d68d2bb2f05e8329de",
       "mode": "sportdog",
-      "title": "How to get Shakhtar Donetsk vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - goal.com",
+      "title": "How to get Shakhtar Donetsk vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmIxYTVUd0NubmI2by1sMHkyWjhLMEZLOHBQSjR4c3puLXFaWmhzX0tVeDgyRHZuSEhYXzcxTUFPY3Z1bGFQaWtGTmM4TmxYSXU2ZVhVRnhYWTBOYkJSUC1yQ1lYeEJBNWFwODZtbXlMVktEVEI5TGhEdDd2ZkpwOHdlaVF4Wm5xZ0tEMHBlQlVDc2JwQlpaTjhvVDQtMnFUakIwS3ZlR1g?oc=5",
       "source": "AEK Rumour Watch",
       "published": "Fri, 25 Sep 2026 17:29:00 GMT",
@@ -551,8 +549,8 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 25 Sep 2026 16:28:42 GMT",
       "base_score": 50,
-      "candidate_score": 73,
-      "priority": "High",
+      "candidate_score": 68,
+      "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
         "Europa League"
@@ -637,6 +635,44 @@
       ],
       "content_type": "news",
       "editorial_type": "Injury",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "b4caefe216ee1667b6649ef7",
+      "mode": "sportdog",
+      "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 24 Sep 2026 22:47:58 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "4302fa862bd6e0f23c0be3f2",
+      "mode": "sportdog",
+      "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMi1wNDF6cUQ4QkRqdHhCemlsSDdBVy02Qy1RVm5YZm1JU3JwT29mOUJhRTVvRndoWjBXcklEVV9sOFh0OEhNUEdBNWFZQldmUFpBWkdRMFZweGNOS3VhQXRZMjVtTzk0by1Obl9ZUnEyS1Y4bkZCZ0w4SUVjbFl2azV1X01kcVZwVkYzbzJJSlBxQjc0Yzl6ajAyNG8zMWRIVEF4VzVjeEhiOWV5MWpYQ0hHU1ExSm5jUGpvOXlR?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 24 Sep 2026 19:15:58 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
       "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
