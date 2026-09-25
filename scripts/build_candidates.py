@@ -4,6 +4,8 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+import yaml
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 
@@ -18,6 +20,11 @@ MODE_MAX_AGE_HOURS = {
     "geopolitico": 30,
     "pontos_voice": 48,
 }
+
+def load_yaml(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f) or {}
+
 
 SPORT_PRIORITY_TERMS = {
     "transfer": 12, "transfers": 12, "μεταγραφή": 14, "μεταγραφές": 14,
