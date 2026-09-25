@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T14:05:34.645663+00:00",
+  "generated_at": "2026-09-25T14:25:23.603181+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,8 +15,8 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 25 Sep 2026 06:23:34 GMT",
         "base_score": 70,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "Olympiacos",
           "Panathinaikos",
@@ -108,6 +108,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "b4caefe216ee1667b6649ef7",
+        "mode": "sportdog",
+        "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 24 Sep 2026 22:47:58 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "4302fa862bd6e0f23c0be3f2",
         "mode": "sportdog",
         "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
@@ -167,9 +186,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "82c2a11102b489e207aa3a75",
+        "external_id": "8811a7e809454f3ec66785e7",
         "mode": "geopolitico",
-        "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - trhaber.com.tr",
+        "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - TRHaber",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThKdm9ZVXJ4ZUFNWDlYSkJTLXZVeWNvWkVxVDlWaEpJYl96UlJ1RGVRZF9NWVdCNXM3WVJxQ01zRW00YTN4dzZwOE5EUmVURGJad2NZSktwQVNPWV9TX2lfSklaSnJrb09FMW1WQkxrb2RpQzdMSEduc2wwakRwX2taZVVwbmhLQ1F1VVhINDFzdkRSdFMzcUl5RU90Qko3bTRGQUMwamZScUtNWjNsaE1ISWd3bkZ6anQzelFscmJNa2d1WXJ5R0Vjaw?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 25 Sep 2026 09:08:08 GMT",
@@ -241,9 +260,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "27da46bf558d44cd8ad87c05",
+        "external_id": "bb70ae6ca44f39fd9236ce2c",
         "mode": "geopolitico",
-        "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik Gazetesi",
+        "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDlJbDBPa2kyTTVDUUhPVnlUdjV5djRsMGZLUWEwZ0ItYVk2SVNPdnBYWVhTRlpudXZjOXctNVpwYzA3V1ZDZDM5ZnZUTEhTaWF2OWM4SFpGTldFWWNPd3MzNWxQR1dHdkN3Z1BUNXpYeS1GWUpyVlNyQVQ3Y2hSTkg3Tl9zOE9mdGN0TUhpMnkxdjlsVWwtN00wN1BDUkZibi11ME1hUXZ3ZUZubkFGZm11MU9GbGczSlJlYnU0WTMtMEU2WGlmWU1Sc2pQczBUZlBn?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 24 Sep 2026 20:33:35 GMT",
@@ -365,6 +384,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "19f0d3f4436bf22ac78a8a4a",
+        "mode": "pontos_voice",
+        "title": "Saadet Partisi Trabzon İl Başkanı Ahmet Muratoğlu: “Türkiye Avrupa’nın çöplüğü değildir!”",
+        "url": "https://www.61saat.com/saadet-partisi-trabzon-il-baskani-ahmet-muratoglu-turkiye-avrupanin-coplugu-degildir",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 25 Sep 2026 17:07:00 +0300",
+        "base_score": 53,
+        "candidate_score": 68,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "tepki",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "302d94b2d148604221fa090b",
         "mode": "pontos_voice",
         "title": "Trabzonlu çocuklar Karadeniz’in geleceği için Ordu’da buluştu - Haber61",
@@ -381,23 +418,6 @@
           "Karadeniz"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "b4a65a93e3a4fceaf95c95ab",
-        "mode": "pontos_voice",
-        "title": "Toprak altında kalmıştı! Son yolculuğuna uğurlandı",
-        "url": "https://www.61saat.com/toprak-altinda-kalmisti-son-yolculuguna-ugurlandi",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 25 Sep 2026 15:18:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
       }
     ]
   },
@@ -410,8 +430,8 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 25 Sep 2026 06:23:34 GMT",
       "base_score": 70,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "Olympiacos",
         "Panathinaikos",
@@ -503,6 +523,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "b4caefe216ee1667b6649ef7",
+      "mode": "sportdog",
+      "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 24 Sep 2026 22:47:58 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "4302fa862bd6e0f23c0be3f2",
       "mode": "sportdog",
       "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
@@ -560,9 +599,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "82c2a11102b489e207aa3a75",
+      "external_id": "8811a7e809454f3ec66785e7",
       "mode": "geopolitico",
-      "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - trhaber.com.tr",
+      "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - TRHaber",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThKdm9ZVXJ4ZUFNWDlYSkJTLXZVeWNvWkVxVDlWaEpJYl96UlJ1RGVRZF9NWVdCNXM3WVJxQ01zRW00YTN4dzZwOE5EUmVURGJad2NZSktwQVNPWV9TX2lfSklaSnJrb09FMW1WQkxrb2RpQzdMSEduc2wwakRwX2taZVVwbmhLQ1F1VVhINDFzdkRSdFMzcUl5RU90Qko3bTRGQUMwamZScUtNWjNsaE1ISWd3bkZ6anQzelFscmJNa2d1WXJ5R0Vjaw?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 25 Sep 2026 09:08:08 GMT",
@@ -634,9 +673,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "27da46bf558d44cd8ad87c05",
+      "external_id": "bb70ae6ca44f39fd9236ce2c",
       "mode": "geopolitico",
-      "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik Gazetesi",
+      "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDlJbDBPa2kyTTVDUUhPVnlUdjV5djRsMGZLUWEwZ0ItYVk2SVNPdnBYWVhTRlpudXZjOXctNVpwYzA3V1ZDZDM5ZnZUTEhTaWF2OWM4SFpGTldFWWNPd3MzNWxQR1dHdkN3Z1BUNXpYeS1GWUpyVlNyQVQ3Y2hSTkg3Tl9zOE9mdGN0TUhpMnkxdjlsVWwtN00wN1BDUkZibi11ME1hUXZ3ZUZubkFGZm11MU9GbGczSlJlYnU0WTMtMEU2WGlmWU1Sc2pQczBUZlBn?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 24 Sep 2026 20:33:35 GMT",
@@ -756,6 +795,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "19f0d3f4436bf22ac78a8a4a",
+      "mode": "pontos_voice",
+      "title": "Saadet Partisi Trabzon İl Başkanı Ahmet Muratoğlu: “Türkiye Avrupa’nın çöplüğü değildir!”",
+      "url": "https://www.61saat.com/saadet-partisi-trabzon-il-baskani-ahmet-muratoglu-turkiye-avrupanin-coplugu-degildir",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 25 Sep 2026 17:07:00 +0300",
+      "base_score": 53,
+      "candidate_score": 68,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "tepki",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "302d94b2d148604221fa090b",
       "mode": "pontos_voice",
       "title": "Trabzonlu çocuklar Karadeniz’in geleceği için Ordu’da buluştu - Haber61",
@@ -770,23 +827,6 @@
         "Ordu",
         "Trabzon",
         "Karadeniz"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "b4a65a93e3a4fceaf95c95ab",
-      "mode": "pontos_voice",
-      "title": "Toprak altında kalmıştı! Son yolculuğuna uğurlandı",
-      "url": "https://www.61saat.com/toprak-altinda-kalmisti-son-yolculuguna-ugurlandi",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 25 Sep 2026 15:18:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "dil"
       ],
       "content_type": "news"
     }
