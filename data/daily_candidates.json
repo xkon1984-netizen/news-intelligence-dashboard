@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T14:25:23.603181+00:00",
+  "generated_at": "2026-09-25T14:50:53.463920+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -108,25 +108,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "b4caefe216ee1667b6649ef7",
-        "mode": "sportdog",
-        "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 24 Sep 2026 22:47:58 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "4302fa862bd6e0f23c0be3f2",
         "mode": "sportdog",
         "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
@@ -186,9 +167,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "8811a7e809454f3ec66785e7",
+        "external_id": "82c2a11102b489e207aa3a75",
         "mode": "geopolitico",
-        "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - TRHaber",
+        "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - trhaber.com.tr",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThKdm9ZVXJ4ZUFNWDlYSkJTLXZVeWNvWkVxVDlWaEpJYl96UlJ1RGVRZF9NWVdCNXM3WVJxQ01zRW00YTN4dzZwOE5EUmVURGJad2NZSktwQVNPWV9TX2lfSklaSnJrb09FMW1WQkxrb2RpQzdMSEduc2wwakRwX2taZVVwbmhLQ1F1VVhINDFzdkRSdFMzcUl5RU90Qko3bTRGQUMwamZScUtNWjNsaE1ISWd3bkZ6anQzelFscmJNa2d1WXJ5R0Vjaw?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 25 Sep 2026 09:08:08 GMT",
@@ -260,21 +241,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "bb70ae6ca44f39fd9236ce2c",
+        "external_id": "e0d6034044226c594fdc0da2",
         "mode": "geopolitico",
-        "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDlJbDBPa2kyTTVDUUhPVnlUdjV5djRsMGZLUWEwZ0ItYVk2SVNPdnBYWVhTRlpudXZjOXctNVpwYzA3V1ZDZDM5ZnZUTEhTaWF2OWM4SFpGTldFWWNPd3MzNWxQR1dHdkN3Z1BUNXpYeS1GWUpyVlNyQVQ3Y2hSTkg3Tl9zOE9mdGN0TUhpMnkxdjlsVWwtN00wN1BDUkZibi11ME1hUXZ3ZUZubkFGZm11MU9GbGczSlJlYnU0WTMtMEU2WGlmWU1Sc2pQczBUZlBn?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 24 Sep 2026 20:33:35 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
+        "title": "Will Iran Join a Saudi-Pakistan-Turkey Pact: What Would It Mean for the Houthis? - blogs.timesofisrael.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTAyTXRkdjZUYWlnajVsRVpmY1hqVVZHd29jMllxeUdrUm9IWVZQTy1YMktsWDFRYXNWNXlGQ2RLd1Y0bkl5bExPR08wSGJjUzRSbUlsV3lVX3A4RHZBam90dF9sTlhMYXNmeFpJNkJ4VG5Tc29faVFXbjM0SUpsQzlCLUxnRTRRN180djZVZExKMVF6SUE5TlpLdUlQZE0yekZiT0dQaXpGc1RpeTRTQw?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Fri, 25 Sep 2026 14:41:00 GMT",
+        "base_score": 90,
+        "candidate_score": 105,
         "priority": "URGENT",
         "matched_keywords": [
-          "Yunanistan",
-          "Netanyahu",
-          "Miçotakis",
-          "savunma",
-          "enerji"
+          "Israel",
+          "Pakistan",
+          "Iran",
+          "Turkey"
         ],
         "content_type": "news"
       },
@@ -297,21 +277,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "148ebc82073b4b5cea32bfc7",
+        "external_id": "bce1a70dc000e07aff1e696c",
         "mode": "geopolitico",
-        "title": "Turkey warns Greece-Cyprus-Israel power cable needs Ankara's approval - Al-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRndiN1RoSUJPMUtoNHQ1SzVMMGVoemhwa1dMLWVCOXBpc0dZWG9raW9jby1oSGpWVUtCUWZ3TTFfU0g0QkhMcVR3RDhweW15d0dQamtkTEhjQWg4Z18xU3hGc0xBVWZzVWt6VFl4TU5jajJ4eldfTlgyaDdxRDZQaHQxdjFmQkc3aG1BQ29tOHc0dWFJVENmanQtbFpDRXd6NUxRbzZUeXNaR1ZUMmpkUlVmTQ?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Thu, 24 Sep 2026 18:10:17 GMT",
-        "base_score": 100,
+        "title": "‘A terrorist country is asking me’: Jaishankar hits back at Pakistani reporter’s terrorism question... - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeTNoSllMSEZPMk1WS0l3SWo3VlNWNnNNbkQ3ejg4WE41TF83eV82d1daY2VhOUFlOGpoMzVUS1hiSzVkSV9GMnY3VUY1aXhTX00xYlFmUEZ5bzFkOUJMNF9YaEhYWmNSTDF0cUx0Xzlvd3VjUWFZTHhuXzAwZ1FMZkxqODFvQjFReVlZcmc4bnhxdEw3TS1uc2E4VXV1RGVrWkpDd2xvbGZ6T2tQbjZzcUFGaS1LaDdDbDF6OXFHUnZvbVJkdFFHdU9rc212MFJGUkdHLUVCX2Nfc3FiUUpkRlNVcFVMQkl1T3RuYl9jX0RQTG1UNjVN0gH8AUFVX3lxTE4yUlMxRXFieXk5dEFEU2staUV2UmozdVJNbENqZF9zVDFUaEVDMjlPWDRvRTJZZVlVQ2VkNVdVMm1nSlIzZGJrU2Jkbm5JT2ctYldsUEpLanZiSEFVbkZwRWdOcFljZTdSWUdGNkN2alhJcXAtekZvSmVHZlY1YXdGMkRET0ZUQ2pOTGxhQV9BNTBqTzI1N3dqQTljbG5aR0sybHJJeF9BNU13RkhJTEZLUlJ3eThOTW9TT1VJS2ZnSDkwS05OaDBBMkhmeUNCODhUak1sd3liQXBtX2UxSGloSE43a0FSblR6cHNuM2tQOXFqc3VCLWVVWWprQg?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Fri, 25 Sep 2026 14:42:18 GMT",
+        "base_score": 88,
         "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Cyprus",
-          "Turkey",
-          "Ankara"
+          "Pakistan",
+          "Pakistani",
+          "Jaishankar",
+          "terrorism"
         ],
         "content_type": "news"
       }
@@ -523,25 +502,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "b4caefe216ee1667b6649ef7",
-      "mode": "sportdog",
-      "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 24 Sep 2026 22:47:58 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "4302fa862bd6e0f23c0be3f2",
       "mode": "sportdog",
       "title": "Seven Nights at Home: Panathinaikos’ Opportunity and the Hidden Pressure of Its Schedule - skweek.com",
@@ -599,9 +559,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "8811a7e809454f3ec66785e7",
+      "external_id": "82c2a11102b489e207aa3a75",
       "mode": "geopolitico",
-      "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - TRHaber",
+      "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - trhaber.com.tr",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThKdm9ZVXJ4ZUFNWDlYSkJTLXZVeWNvWkVxVDlWaEpJYl96UlJ1RGVRZF9NWVdCNXM3WVJxQ01zRW00YTN4dzZwOE5EUmVURGJad2NZSktwQVNPWV9TX2lfSklaSnJrb09FMW1WQkxrb2RpQzdMSEduc2wwakRwX2taZVVwbmhLQ1F1VVhINDFzdkRSdFMzcUl5RU90Qko3bTRGQUMwamZScUtNWjNsaE1ISWd3bkZ6anQzelFscmJNa2d1WXJ5R0Vjaw?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 25 Sep 2026 09:08:08 GMT",
@@ -673,21 +633,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "bb70ae6ca44f39fd9236ce2c",
+      "external_id": "e0d6034044226c594fdc0da2",
       "mode": "geopolitico",
-      "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDlJbDBPa2kyTTVDUUhPVnlUdjV5djRsMGZLUWEwZ0ItYVk2SVNPdnBYWVhTRlpudXZjOXctNVpwYzA3V1ZDZDM5ZnZUTEhTaWF2OWM4SFpGTldFWWNPd3MzNWxQR1dHdkN3Z1BUNXpYeS1GWUpyVlNyQVQ3Y2hSTkg3Tl9zOE9mdGN0TUhpMnkxdjlsVWwtN00wN1BDUkZibi11ME1hUXZ3ZUZubkFGZm11MU9GbGczSlJlYnU0WTMtMEU2WGlmWU1Sc2pQczBUZlBn?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 24 Sep 2026 20:33:35 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
+      "title": "Will Iran Join a Saudi-Pakistan-Turkey Pact: What Would It Mean for the Houthis? - blogs.timesofisrael.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTAyTXRkdjZUYWlnajVsRVpmY1hqVVZHd29jMllxeUdrUm9IWVZQTy1YMktsWDFRYXNWNXlGQ2RLd1Y0bkl5bExPR08wSGJjUzRSbUlsV3lVX3A4RHZBam90dF9sTlhMYXNmeFpJNkJ4VG5Tc29faVFXbjM0SUpsQzlCLUxnRTRRN180djZVZExKMVF6SUE5TlpLdUlQZE0yekZiT0dQaXpGc1RpeTRTQw?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Fri, 25 Sep 2026 14:41:00 GMT",
+      "base_score": 90,
+      "candidate_score": 105,
       "priority": "URGENT",
       "matched_keywords": [
-        "Yunanistan",
-        "Netanyahu",
-        "Miçotakis",
-        "savunma",
-        "enerji"
+        "Israel",
+        "Pakistan",
+        "Iran",
+        "Turkey"
       ],
       "content_type": "news"
     },
@@ -710,21 +669,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "148ebc82073b4b5cea32bfc7",
+      "external_id": "bce1a70dc000e07aff1e696c",
       "mode": "geopolitico",
-      "title": "Turkey warns Greece-Cyprus-Israel power cable needs Ankara's approval - Al-Monitor",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRndiN1RoSUJPMUtoNHQ1SzVMMGVoemhwa1dMLWVCOXBpc0dZWG9raW9jby1oSGpWVUtCUWZ3TTFfU0g0QkhMcVR3RDhweW15d0dQamtkTEhjQWg4Z18xU3hGc0xBVWZzVWt6VFl4TU5jajJ4eldfTlgyaDdxRDZQaHQxdjFmQkc3aG1BQ29tOHc0dWFJVENmanQtbFpDRXd6NUxRbzZUeXNaR1ZUMmpkUlVmTQ?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Thu, 24 Sep 2026 18:10:17 GMT",
-      "base_score": 100,
+      "title": "‘A terrorist country is asking me’: Jaishankar hits back at Pakistani reporter’s terrorism question... - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeTNoSllMSEZPMk1WS0l3SWo3VlNWNnNNbkQ3ejg4WE41TF83eV82d1daY2VhOUFlOGpoMzVUS1hiSzVkSV9GMnY3VUY1aXhTX00xYlFmUEZ5bzFkOUJMNF9YaEhYWmNSTDF0cUx0Xzlvd3VjUWFZTHhuXzAwZ1FMZkxqODFvQjFReVlZcmc4bnhxdEw3TS1uc2E4VXV1RGVrWkpDd2xvbGZ6T2tQbjZzcUFGaS1LaDdDbDF6OXFHUnZvbVJkdFFHdU9rc212MFJGUkdHLUVCX2Nfc3FiUUpkRlNVcFVMQkl1T3RuYl9jX0RQTG1UNjVN0gH8AUFVX3lxTE4yUlMxRXFieXk5dEFEU2staUV2UmozdVJNbENqZF9zVDFUaEVDMjlPWDRvRTJZZVlVQ2VkNVdVMm1nSlIzZGJrU2Jkbm5JT2ctYldsUEpLanZiSEFVbkZwRWdOcFljZTdSWUdGNkN2alhJcXAtekZvSmVHZlY1YXdGMkRET0ZUQ2pOTGxhQV9BNTBqTzI1N3dqQTljbG5aR0sybHJJeF9BNU13RkhJTEZLUlJ3eThOTW9TT1VJS2ZnSDkwS05OaDBBMkhmeUNCODhUak1sd3liQXBtX2UxSGloSE43a0FSblR6cHNuM2tQOXFqc3VCLWVVWWprQg?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Fri, 25 Sep 2026 14:42:18 GMT",
+      "base_score": 88,
       "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Cyprus",
-        "Turkey",
-        "Ankara"
+        "Pakistan",
+        "Pakistani",
+        "Jaishankar",
+        "terrorism"
       ],
       "content_type": "news"
     },
