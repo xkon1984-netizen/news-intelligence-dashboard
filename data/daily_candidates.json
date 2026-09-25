@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T08:16:52.006000+00:00",
+  "generated_at": "2026-09-25T10:28:15.651002+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,14 +15,18 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 25 Sep 2026 05:59:00 GMT",
         "base_score": 70,
-        "candidate_score": 101,
+        "candidate_score": 96,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
           "Panathinaikos",
           "goalkeeper"
         ],
-        "content_type": "news"
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
       },
       {
         "external_id": "1dbf3bf511cc4f1fd7e459f9",
@@ -32,34 +36,22 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 24 Sep 2026 15:48:45 GMT",
         "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
           "Aris"
         ],
-        "content_type": "news"
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
-        "external_id": "488fd71e5b2cadd71eff8f18",
+        "external_id": "8b1454c1e9fb00648304b3d1",
         "mode": "sportdog",
-        "title": "Olympiacos Linked With Former Bayern Munich Left-Back - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTF1NXA3YnBVUE1nNjFYb3JrWFRHZUs3ZXV6MGVHN1NHaUx5Ujhjc2ZiQ05iZzVPN1EwSmZ1eV9KYkpDVWZ4NlBnWll4TWt5R1UyZG5YRkFjRGFJMU1qNlRJWEZFNG1KWE1xUDRPbExxRWtMeHMtUkZYOGh4elJFcEtXSmlCaTU1ank1cXI5Z0VwX0pqRnZPYW5aZmFOdjcwMXEydHQzTVJCazNmMVVn?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 23 Sep 2026 20:28:57 GMT",
-        "base_score": 62,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "linked with"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "52c9d3ef40caafc6c88d4671",
-        "mode": "sportdog",
-        "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - Diario AS",
+        "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - en.as.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkR3d29vNnRBZFJ6V2NXVnJFZjM3aEFRWVFPbTJQY3NGa1YzQldPbHhaOU0yVWF4b2E2cFJSSzhVaFpFTFRRNGlqZ1JGZVYyY2ZKdjFONjhoa3N4WVJkZnZMaExQN1pFQnhBSnlDQnRHV0pJbVIxVzhpY3c1YmNsZjkyQ0k4SlRmVTRZX0dwdzhVTXliZmlrdnNXbkw1TXhxOGZXOXNtUWtaai15NnlGeWQ3Mk01bGcyaXpVS25JQQ?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Fri, 25 Sep 2026 00:13:35 GMT",
@@ -70,28 +62,16 @@
           "PAOK",
           "Europa League"
         ],
-        "content_type": "news"
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
-        "external_id": "8cd4327c3080d3f5e67d8af7",
+        "external_id": "c81ceca6a289e73a14974520",
         "mode": "sportdog",
-        "title": "Goals per 90 - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzYzbVpFakQ5dTU0ZEF3SmpzTXVOUzMyU2prblc0b1pnM2hVN0F2aVcwVjRLX1JnVVltODlkVEwzWU9NYTlDSENTVWV0U1oyaTY0NjJoSUlTYm9zcnZyb1l3T3F4VHdjcUo1UjNTR2gxclNuN1BoVmpLUmU1UENtQlBlQzAyMEEzZEphTEk1Wk5JT3JhTTRWYzd1RGg0UnhoRmd6ZnhPclBpWkp0ZXc?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 23 Sep 2026 21:58:44 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "Super League"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "5c54176e4288349550be4aa7",
-        "mode": "sportdog",
-        "title": "PAOK Women vs Hapoel Jerusalem Women: live info and stats | Previa Champions League Femenina 2026/2027 - Diario AS",
+        "title": "PAOK Women vs Hapoel Jerusalem Women: live info and stats | Previa Champions League Femenina 2026/2027 - en.as.com",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1psSm9zRThFNEFLdUcwMURjVWY4cjlaRkYzNHJhbGNVZHpRYnlCRjNkdktvTmlORXcwUjd2SnItZmtaZS1TcDM0ekRiT2xXRC0yblRQdmVqaU56cWNxVG51NGtyYTFvczM0QWxLZkxPV2xvTm5pZWNHcFdrTTJLWXlJc25MSnR6X0phS3VpM1JiU3pNbm1ZX3RaTUoyempiakh1ZTMtQmJBQ0pMQlowLVRYMHFHVDFkNVFBczUyOVFyY1dVQ3Zrckh1VTZkZ1U?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Thu, 24 Sep 2026 06:25:53 GMT",
@@ -102,7 +82,11 @@
           "PAOK",
           "Champions League"
         ],
-        "content_type": "news"
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "53f29ab9701781c20a046d5e",
@@ -112,12 +96,16 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 25 Sep 2026 06:00:00 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
         ],
-        "content_type": "news"
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       },
       {
         "external_id": "4302fa862bd6e0f23c0be3f2",
@@ -132,7 +120,11 @@
         "matched_keywords": [
           "Panathinaikos"
         ],
-        "content_type": "news"
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       },
       {
         "external_id": "6e452a2f17a9c941e52471f1",
@@ -142,49 +134,125 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 24 Sep 2026 15:48:45 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
         ],
-        "content_type": "news"
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
       {
-        "external_id": "7fdfe65dbd51f4091dd8fc25",
+        "external_id": "b13269db6531ffabf617f67b",
         "mode": "geopolitico",
-        "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSU5va2dwOEVnWUE1ZkFJZ2s4TWd0NV9NaTd6RHhMQVhjbzlOcEFRUEptS3NwckFnbV96aGd0VE5iTWNvbjB6QlZ2MmpCdTNqUV9La25ISktEQ2JvLV9QeC14TGtxbDNfdUhOQ29NdmZEZHNTYlJja0tpR2F2amstUmNsQ2UzU0s4bExqZXRtUjdlUXUxV21INDFueUxtMTBhWE5NOTdkRTVaOWZ0d2EtdjZuT0FKYnEzeURlODR4SkJlNjQ?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Fri, 25 Sep 2026 01:50:00 GMT",
+        "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki: “Utanç verici” - CNN Türk",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0JyZi1HZmtnWHkyRC15Q0JuTE5FamNSYnlzWjgwZUc3YWFlRExCYXhGVlc2Nmc1bFMwQldXQmVBRDVmaENtNUFhamhsX1BzejEyYlJVR0x2eWhJUkZiR2luNHRubnRDWWxWNUl5dVFSWmVvR3EyeVBKN0VDeWtSU1RxUE92bXZPYzBpcm9YZDU5eGRFTVJiYXBsQlFIY1BNem16QldjOUZHdEdUWnMxVERUUTM?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 25 Sep 2026 09:43:59 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 115,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
-          "Ege",
-          "karasuları",
-          "12 mil",
-          "Girit",
-          "ada"
+          "Netanyahu",
+          "Miçotakis",
+          "görüşme",
+          "tepki"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "3252750014f74f76a2c37c19",
+        "external_id": "f2b4d19f5dcd044bc5fd9671",
         "mode": "geopolitico",
-        "title": "Guterres ile Miçotakis New York’ta Kıbrıs sorununu görüştü - kibrisgercek.com",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM05pdTN1UnFzY2FmbENFam1ZRFlCX3BuZ3hfc1hRZGtmQXRKMU8yTXo2Njk1X2xkcWxPSE80MEE0LTE4MU5lQ3JRc1dwWU82V1pHT0h2dnRRNTBGVUMzLTZOY0lLdy04Rlk4c1hHZmFhWVMtWGw0TndxeTF6ejV6bFB6WUpwclRtTVRmOG5tUQ?oc=5",
+        "title": "Miçotakis-Netanyahu görüşmesi Yunanistan'ı karıştırdı - Manşet Haber",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbFU2eWdRT085OUJGbHhuX3NUeF9BUGJ0Q3JyY2JFZXRkNkhCSzlhSXBwc0FIQmxDS0ZHQ2ZHX0lrN1NFdl9MdzZTRnFJS3lUZ0hfalBhSlgzOVVBWHBjUjlOYnNKclBzaVp3eEUwSDN0cXgxM3JTa2pmbmtXOEFrWlg4MkphaEpXWl9R?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 25 Sep 2026 06:28:00 GMT",
-        "base_score": 94,
-        "candidate_score": 109,
+        "published": "Fri, 25 Sep 2026 09:40:00 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
         "priority": "URGENT",
         "matched_keywords": [
-          "Kibris",
+          "Yunanistan",
+          "Netanyahu",
           "Miçotakis",
-          "Kıbrıs"
+          "görüşme"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "8811a7e809454f3ec66785e7",
+        "mode": "geopolitico",
+        "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - TRHaber",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThKdm9ZVXJ4ZUFNWDlYSkJTLXZVeWNvWkVxVDlWaEpJYl96UlJ1RGVRZF9NWVdCNXM3WVJxQ01zRW00YTN4dzZwOE5EUmVURGJad2NZSktwQVNPWV9TX2lfSklaSnJrb09FMW1WQkxrb2RpQzdMSEduc2wwakRwX2taZVVwbmhLQ1F1VVhINDFzdkRSdFMzcUl5RU90Qko3bTRGQUMwamZScUtNWjNsaE1ISWd3bkZ6anQzelFscmJNa2d1WXJ5R0Vjaw?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 25 Sep 2026 09:08:08 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Türkiye Yunanistan",
+          "Atina",
+          "Erdoğan"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "3eaa9f93038fa14b72f81022",
+        "mode": "geopolitico",
+        "title": "The New Global Arms Race Is Technological: What the US China AI Competition Means for Developing Countries - Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEVvMTQ3Y21jN1UtSmZ3bk55b2FZbVFDTlRiR2VrZ01tMnpMajUzY2JpSUZYZ1RDYVdaMTRjdjNqR2JjV0lhNl9XWk5NcXJTcHVyT0x5WWpMSERoZ0ZRWmVPN0psWFhZcVBFUjM1ZUJ4ajZpT3JJOUo2MGhHSlNHTURKanA4YzE3MGVfUXNXbkVMZlVCNEVF0gGWAUFVX3lxTFA1QUUxWmVMZHlwRmFpVkN6RDBVWkZjc1hiX0x6ZmV0bS1TazI0OV8ya2NUUGx4anEya29aRm8tMzhxZ2s4bjNodGNIWFRiOWxSQlo1TTc2NmtKX0Ywc3IxYXh6ZThDMGRFSm1YRl9QZEs4U1ZYdG5YUEtNcUFjUVlsN1ZUbGN4VFFRS2V6d3NpZUVsc1dDZw?oc=5",
+        "source": "China Strategic Watch",
+        "published": "Fri, 25 Sep 2026 08:59:40 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "China",
+          "China AI",
+          "US China"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e27296cf20263f2af0143044",
+        "mode": "geopolitico",
+        "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki! - Sabah",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVdIBpwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVQ?oc=5",
+        "source": "Sabah Greece Watch",
+        "published": "Fri, 25 Sep 2026 08:17:51 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Netanyahu",
+          "Miçotakis",
+          "görüşme",
+          "tepki"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "674aa713496da9f336b6e012",
+        "mode": "geopolitico",
+        "title": "Yunanistan’da muhalefet partisi, Miçotakis-Netanyahu görüşmesini \"utanç verici\" olarak nitelendirdi - Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd3BPaDdmbHB0Snh3MUhZbndyTm84Q0lGOUFvd2luSUQ0VlBETGhyMFFKRS0yZmtmRWJCeEpDMVMyMGkyUm1YSDhTenZJNHNKMy1ZbENMUGVSQkpQdWxjbjNHMzFuemxheVpDczJ6ZnBMTjBMaWI2dkhiQUpNcEhwTm1sOTlmLVFoWFBhQ0pLdTN2YjZBc09zVzhJRGNTcm1LS0wzYWlFYVhQdkpYZzBNVXFpYUhwc29hMkNFaFdOeTNMV18wdzYtbGRqejl0eGNU?oc=5",
+        "source": "Anadolu Greece Watch",
+        "published": "Fri, 25 Sep 2026 08:36:10 GMT",
+        "base_score": 95,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Netanyahu",
+          "Miçotakis",
+          "görüşme"
         ],
         "content_type": "news"
       },
@@ -207,25 +275,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "27da46bf558d44cd8ad87c05",
-        "mode": "geopolitico",
-        "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDlJbDBPa2kyTTVDUUhPVnlUdjV5djRsMGZLUWEwZ0ItYVk2SVNPdnBYWVhTRlpudXZjOXctNVpwYzA3V1ZDZDM5ZnZUTEhTaWF2OWM4SFpGTldFWWNPd3MzNWxQR1dHdkN3Z1BUNXpYeS1GWUpyVlNyQVQ3Y2hSTkg3Tl9zOE9mdGN0TUhpMnkxdjlsVWwtN00wN1BDUkZibi11ME1hUXZ3ZUZubkFGZm11MU9GbGczSlJlYnU0WTMtMEU2WGlmWU1Sc2pQczBUZlBn?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 24 Sep 2026 20:33:35 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Netanyahu",
-          "Miçotakis",
-          "savunma",
-          "enerji"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "148ebc82073b4b5cea32bfc7",
         "mode": "geopolitico",
         "title": "Turkey warns Greece-Cyprus-Israel power cable needs Ankara's approval - Al-Monitor",
@@ -243,78 +292,23 @@
           "Ankara"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "f382beb6dd112523418f9fd2",
-        "mode": "geopolitico",
-        "title": "Güney Kıbrıs, Yunanistan ve Mısır’dan Doğu Akdeniz’de ortak savunma kararı - kibrisgercek.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFJFSzJpS080SDZDdlcxejAyZDMzOWJKWThqVHczWXBabzgycGZNU2RzRnFYd2Y2NjVjelo4VV81cUZ0M3pGSTNmckoxQTBDUzFzMS1KYjltN0w3eXVibVdwdHROZWxwSHFRTlhvaEtqT1dQT1YtVlQwZWxUZ1VpQTU1ajFIM3NHTWJvak1TR0l4cmU0OGdTbnhRV3Z4Nm1GS0E?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 24 Sep 2026 13:18:00 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kibris",
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "savunma"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "3795da828e18005c9f389bd0",
-        "mode": "geopolitico",
-        "title": "Yunanistan merkezli Greek City Times: 'Türkiye, Ege Denizi'nde 5 bölge ve 6 hava yolu için NOTAM yayımladı' - TRHaber",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZzRwc0dJRlpCZEt2N2N4VG50dTlXSEN3c3FaU0tCMUh3Z19YbjVHTUJlWldFRGpMc3h0UkRRYWZNRkhfMzBJc2hLZG5EZE1RR0hhdXZBN3paWHo0N3h3ZXV1N2h5UzBmOG9pVnRZSHpvcHA0Y1M5WFBPNzRQcms3ZnhLZXNXQ25NYlY3NWd4SkNsMWJpNWlRVllLbHVOQ0hQVlB6dFRkMDJBSG9pRzNLcWFvR1UyLW1kdG1Jem1YX3JZcXlIYlh1T2ZWc2c1YTg1a3lqQ095cmc1cmRPemVPU1NKOA?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Thu, 24 Sep 2026 12:39:16 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Ege",
-          "Ege Denizi",
-          "NOTAM"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "9f6d735bef8f9165a425ad4e",
-        "mode": "geopolitico",
-        "title": "Greece and Israel strengthen defence and energy ties during UN talks - The Greek Herald",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVRVTFlzMXNwZURjWlB4REZCVHFOQzJhOUIyUkxud2ZrZEN4ZHotYU9tV09iZWVnWkEtNkNDNW9WM3YyWHhjc0VjVG5NZDdVbDgwT2s5UXJXdkVXRlpSMC0yZUpfNGlyYzBYMzdvVmpMZkhLS1RySzVzaHNlXzlqYVZ1bkZERGhxQTNTQ3pwOWNkOENfVlB3ZWdYT1UxSW5xNUJ3?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Fri, 25 Sep 2026 01:28:56 GMT",
-        "base_score": 86,
-        "candidate_score": 96,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "defence",
-          "energy"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
       {
-        "external_id": "b3e59abf3487a10f6b9b0db0",
+        "external_id": "ebe90f1640ea2410bbcce06c",
         "mode": "pontos_voice",
-        "title": "Εύξεινος Πόντος: Ρωσική επίθεση σε εμπορικό πλοίο στην Οδησσό με έναν νεκρό – Σοβαρές ζημιές στις υποδομές του λιμανιού - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3hEUmhzSzNaNkRmRVRlMVNKQUJBMXU1cXZhSDZDOUdSWkY0SzhMLURRZGl2TmhMWFZ1MFJNdFk0ckRkcjZhSmJCRGZLZ2s4b2w3YkJVOVFVWmFiX3RJQlBYUFc5U3V4a0hkemZmWm9uQnhod2Q3NkZ1WTNtQmNicHJBX0dGcWhaT21UZHg0N19oNkNrTmh6RzIteWhwdmFpU2owazJxVUw?oc=5",
+        "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1Q3d3otcXNCbHRkUkZJNW9xYXdIeGltbkdjQTV0UjhRX3B2Sk1ZOW9LcnIwaldZejRKMUdFdlY4M19rQ3RHRTNtZFZWWllfM2hNUkl0LW1QamNpNGptTngzQkN1TXhEamdoSDNlUkQxb1dab2J5M3hlc3pqeHc0N05HbWRFUFBUTlRmV2RVVmRKSy1NZk9tMjRmR0lNeVZEM2k1aWpNSU0zSjFqZ2FuY1duWmoyLXVrelVOQ2trTmZSUFdjZVVEd3A0SUpGMXlPbFHSAdcBQVVfeXFMTXZDbTJSZkhORHhRbmQyTWlQeHJ5bjQxSWlLS3A3SmItODJpdW1wV3VEeXhITUZjeWNITjNvNUNCdU83VTZSZ1k5cmVfMFdmbVZrLUlOam9IcGswRDZlNDVMck0zRnBVdzRsTnN3Rk1SdG1nbGE0YUF3TmJtREZhTHZTelZmUU9BWldSbEx1cnVKZ0VjblFfUG96SUdjRE51S21ZQzdCNlV1akZfbklhY2VxM2JPQlU3bExGQ1VCN2pPTVNrOWh6NzhnZHp4RkRqTE1zWnRsMk0?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Wed, 23 Sep 2026 09:49:11 GMT",
-        "base_score": 92,
-        "candidate_score": 92,
-        "priority": "High",
+        "published": "Fri, 25 Sep 2026 05:58:00 GMT",
+        "base_score": 86,
+        "candidate_score": 96,
+        "priority": "URGENT",
         "matched_keywords": [
-          "Pontos",
-          "Πόντος",
-          "Εύξεινος Πόντος"
+          "ποντιακή",
+          "ποντιακή λύρα",
+          "λύρα"
         ],
         "content_type": "news"
       },
@@ -326,7 +320,7 @@
         "source": "Pontos News Watch",
         "published": "Thu, 24 Sep 2026 15:43:04 GMT",
         "base_score": 79,
-        "candidate_score": 85,
+        "candidate_score": 82,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -368,38 +362,36 @@
         "content_type": "news"
       },
       {
-        "external_id": "32bfbce65cf62615ee677c1e",
+        "external_id": "4e7f208501fd33818abbf330",
         "mode": "pontos_voice",
-        "title": "Rektör Çuvalcı açıkladı: KTÜ’den Trabzon’a yeni yatırım sinyali",
-        "url": "https://www.61saat.com/rektor-cuvalci-acikladi-ktuden-trabzona-yeni-yatirim-sinyali",
+        "title": "Beyaz Liste’den \"Trabzon turizmi kazansın\" çağrısı",
+        "url": "https://www.61saat.com/beyaz-listeden-trabzon-turizmi-kazansin-cagrisi",
         "source": "61Saat Trabzon",
-        "published": "Fri, 25 Sep 2026 09:55:00 +0300",
-        "base_score": 53,
-        "candidate_score": 68,
-        "priority": "Normal",
+        "published": "Fri, 25 Sep 2026 11:16:00 +0300",
+        "base_score": 57,
+        "candidate_score": 72,
+        "priority": "High",
         "matched_keywords": [
           "Trabzon",
-          "Of",
-          "Trabzon",
-          "Karadeniz"
+          "Rumlar",
+          "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "e98cbd2bf959567c05237e80",
+        "external_id": "f8ed6df23fc2be4a0b662a34",
         "mode": "pontos_voice",
-        "title": "Öğrencilerin rakipsiz oluşu, Trabzon’a Hyperloop Merkezi kazandırıyor…Yeni teknoloji bile geliştirdiler",
-        "url": "https://www.61saat.com/ogrencilerin-rakipsiz-olusu-trabzona-hyperloop-merkezi-kazandiriyoryeni-teknoloji-bile-gelistirdiler",
+        "title": "Trabzonspor Basketbol takımı yeni sezon formalarını tanıttı",
+        "url": "https://www.61saat.com/trabzonspor-basketbol-takimi-yeni-sezon-formalarini-tanitti",
         "source": "61Saat Trabzon",
-        "published": "Fri, 25 Sep 2026 10:33:00 +0300",
-        "base_score": 51,
-        "candidate_score": 66,
+        "published": "Fri, 25 Sep 2026 12:04:00 +0300",
+        "base_score": 46,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
-          "Trabzon",
-          "dil"
+          "anıt",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -414,14 +406,18 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 25 Sep 2026 05:59:00 GMT",
       "base_score": 70,
-      "candidate_score": 101,
+      "candidate_score": 96,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
         "Panathinaikos",
         "goalkeeper"
       ],
-      "content_type": "news"
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
     },
     {
       "external_id": "1dbf3bf511cc4f1fd7e459f9",
@@ -431,34 +427,22 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 24 Sep 2026 15:48:45 GMT",
       "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
         "Aris"
       ],
-      "content_type": "news"
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
-      "external_id": "488fd71e5b2cadd71eff8f18",
+      "external_id": "8b1454c1e9fb00648304b3d1",
       "mode": "sportdog",
-      "title": "Olympiacos Linked With Former Bayern Munich Left-Back - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTF1NXA3YnBVUE1nNjFYb3JrWFRHZUs3ZXV6MGVHN1NHaUx5Ujhjc2ZiQ05iZzVPN1EwSmZ1eV9KYkpDVWZ4NlBnWll4TWt5R1UyZG5YRkFjRGFJMU1qNlRJWEZFNG1KWE1xUDRPbExxRWtMeHMtUkZYOGh4elJFcEtXSmlCaTU1ank1cXI5Z0VwX0pqRnZPYW5aZmFOdjcwMXEydHQzTVJCazNmMVVn?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 23 Sep 2026 20:28:57 GMT",
-      "base_score": 62,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "linked with"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "52c9d3ef40caafc6c88d4671",
-      "mode": "sportdog",
-      "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - Diario AS",
+      "title": "PAOK vs Dinamo Kiev: live info and stats | Europa League Previa 2026/2027 - en.as.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkR3d29vNnRBZFJ6V2NXVnJFZjM3aEFRWVFPbTJQY3NGa1YzQldPbHhaOU0yVWF4b2E2cFJSSzhVaFpFTFRRNGlqZ1JGZVYyY2ZKdjFONjhoa3N4WVJkZnZMaExQN1pFQnhBSnlDQnRHV0pJbVIxVzhpY3c1YmNsZjkyQ0k4SlRmVTRZX0dwdzhVTXliZmlrdnNXbkw1TXhxOGZXOXNtUWtaai15NnlGeWQ3Mk01bGcyaXpVS25JQQ?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Fri, 25 Sep 2026 00:13:35 GMT",
@@ -469,28 +453,16 @@
         "PAOK",
         "Europa League"
       ],
-      "content_type": "news"
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
-      "external_id": "8cd4327c3080d3f5e67d8af7",
+      "external_id": "c81ceca6a289e73a14974520",
       "mode": "sportdog",
-      "title": "Goals per 90 - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzYzbVpFakQ5dTU0ZEF3SmpzTXVOUzMyU2prblc0b1pnM2hVN0F2aVcwVjRLX1JnVVltODlkVEwzWU9NYTlDSENTVWV0U1oyaTY0NjJoSUlTYm9zcnZyb1l3T3F4VHdjcUo1UjNTR2gxclNuN1BoVmpLUmU1UENtQlBlQzAyMEEzZEphTEk1Wk5JT3JhTTRWYzd1RGg0UnhoRmd6ZnhPclBpWkp0ZXc?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 23 Sep 2026 21:58:44 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "Super League"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "5c54176e4288349550be4aa7",
-      "mode": "sportdog",
-      "title": "PAOK Women vs Hapoel Jerusalem Women: live info and stats | Previa Champions League Femenina 2026/2027 - Diario AS",
+      "title": "PAOK Women vs Hapoel Jerusalem Women: live info and stats | Previa Champions League Femenina 2026/2027 - en.as.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1psSm9zRThFNEFLdUcwMURjVWY4cjlaRkYzNHJhbGNVZHpRYnlCRjNkdktvTmlORXcwUjd2SnItZmtaZS1TcDM0ekRiT2xXRC0yblRQdmVqaU56cWNxVG51NGtyYTFvczM0QWxLZkxPV2xvTm5pZWNHcFdrTTJLWXlJc25MSnR6X0phS3VpM1JiU3pNbm1ZX3RaTUoyempiakh1ZTMtQmJBQ0pMQlowLVRYMHFHVDFkNVFBczUyOVFyY1dVQ3Zrckh1VTZkZ1U?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Thu, 24 Sep 2026 06:25:53 GMT",
@@ -501,7 +473,11 @@
         "PAOK",
         "Champions League"
       ],
-      "content_type": "news"
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "53f29ab9701781c20a046d5e",
@@ -511,12 +487,16 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 25 Sep 2026 06:00:00 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
       ],
-      "content_type": "news"
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
     },
     {
       "external_id": "4302fa862bd6e0f23c0be3f2",
@@ -531,7 +511,11 @@
       "matched_keywords": [
         "Panathinaikos"
       ],
-      "content_type": "news"
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
     },
     {
       "external_id": "6e452a2f17a9c941e52471f1",
@@ -541,47 +525,123 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 24 Sep 2026 15:48:45 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
       ],
-      "content_type": "news"
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
     },
     {
-      "external_id": "7fdfe65dbd51f4091dd8fc25",
+      "external_id": "b13269db6531ffabf617f67b",
       "mode": "geopolitico",
-      "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSU5va2dwOEVnWUE1ZkFJZ2s4TWd0NV9NaTd6RHhMQVhjbzlOcEFRUEptS3NwckFnbV96aGd0VE5iTWNvbjB6QlZ2MmpCdTNqUV9La25ISktEQ2JvLV9QeC14TGtxbDNfdUhOQ29NdmZEZHNTYlJja0tpR2F2amstUmNsQ2UzU0s4bExqZXRtUjdlUXUxV21INDFueUxtMTBhWE5NOTdkRTVaOWZ0d2EtdjZuT0FKYnEzeURlODR4SkJlNjQ?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Fri, 25 Sep 2026 01:50:00 GMT",
+      "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki: “Utanç verici” - CNN Türk",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0JyZi1HZmtnWHkyRC15Q0JuTE5FamNSYnlzWjgwZUc3YWFlRExCYXhGVlc2Nmc1bFMwQldXQmVBRDVmaENtNUFhamhsX1BzejEyYlJVR0x2eWhJUkZiR2luNHRubnRDWWxWNUl5dVFSWmVvR3EyeVBKN0VDeWtSU1RxUE92bXZPYzBpcm9YZDU5eGRFTVJiYXBsQlFIY1BNem16QldjOUZHdEdUWnMxVERUUTM?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 25 Sep 2026 09:43:59 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 115,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
-        "Ege",
-        "karasuları",
-        "12 mil",
-        "Girit",
-        "ada"
+        "Netanyahu",
+        "Miçotakis",
+        "görüşme",
+        "tepki"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "3252750014f74f76a2c37c19",
+      "external_id": "f2b4d19f5dcd044bc5fd9671",
       "mode": "geopolitico",
-      "title": "Guterres ile Miçotakis New York’ta Kıbrıs sorununu görüştü - kibrisgercek.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM05pdTN1UnFzY2FmbENFam1ZRFlCX3BuZ3hfc1hRZGtmQXRKMU8yTXo2Njk1X2xkcWxPSE80MEE0LTE4MU5lQ3JRc1dwWU82V1pHT0h2dnRRNTBGVUMzLTZOY0lLdy04Rlk4c1hHZmFhWVMtWGw0TndxeTF6ejV6bFB6WUpwclRtTVRmOG5tUQ?oc=5",
+      "title": "Miçotakis-Netanyahu görüşmesi Yunanistan'ı karıştırdı - Manşet Haber",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbFU2eWdRT085OUJGbHhuX3NUeF9BUGJ0Q3JyY2JFZXRkNkhCSzlhSXBwc0FIQmxDS0ZHQ2ZHX0lrN1NFdl9MdzZTRnFJS3lUZ0hfalBhSlgzOVVBWHBjUjlOYnNKclBzaVp3eEUwSDN0cXgxM3JTa2pmbmtXOEFrWlg4MkphaEpXWl9R?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 25 Sep 2026 06:28:00 GMT",
-      "base_score": 94,
-      "candidate_score": 109,
+      "published": "Fri, 25 Sep 2026 09:40:00 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
       "priority": "URGENT",
       "matched_keywords": [
-        "Kibris",
+        "Yunanistan",
+        "Netanyahu",
         "Miçotakis",
-        "Kıbrıs"
+        "görüşme"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "8811a7e809454f3ec66785e7",
+      "mode": "geopolitico",
+      "title": "Atina basını Erdoğan'ın sözlerini manşete taşıdı: Türkiye Yunanistan'ın düşmanı değil - TRHaber",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThKdm9ZVXJ4ZUFNWDlYSkJTLXZVeWNvWkVxVDlWaEpJYl96UlJ1RGVRZF9NWVdCNXM3WVJxQ01zRW00YTN4dzZwOE5EUmVURGJad2NZSktwQVNPWV9TX2lfSklaSnJrb09FMW1WQkxrb2RpQzdMSEduc2wwakRwX2taZVVwbmhLQ1F1VVhINDFzdkRSdFMzcUl5RU90Qko3bTRGQUMwamZScUtNWjNsaE1ISWd3bkZ6anQzelFscmJNa2d1WXJ5R0Vjaw?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 25 Sep 2026 09:08:08 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Türkiye Yunanistan",
+        "Atina",
+        "Erdoğan"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "3eaa9f93038fa14b72f81022",
+      "mode": "geopolitico",
+      "title": "The New Global Arms Race Is Technological: What the US China AI Competition Means for Developing Countries - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEVvMTQ3Y21jN1UtSmZ3bk55b2FZbVFDTlRiR2VrZ01tMnpMajUzY2JpSUZYZ1RDYVdaMTRjdjNqR2JjV0lhNl9XWk5NcXJTcHVyT0x5WWpMSERoZ0ZRWmVPN0psWFhZcVBFUjM1ZUJ4ajZpT3JJOUo2MGhHSlNHTURKanA4YzE3MGVfUXNXbkVMZlVCNEVF0gGWAUFVX3lxTFA1QUUxWmVMZHlwRmFpVkN6RDBVWkZjc1hiX0x6ZmV0bS1TazI0OV8ya2NUUGx4anEya29aRm8tMzhxZ2s4bjNodGNIWFRiOWxSQlo1TTc2NmtKX0Ywc3IxYXh6ZThDMGRFSm1YRl9QZEs4U1ZYdG5YUEtNcUFjUVlsN1ZUbGN4VFFRS2V6d3NpZUVsc1dDZw?oc=5",
+      "source": "China Strategic Watch",
+      "published": "Fri, 25 Sep 2026 08:59:40 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "China",
+        "China AI",
+        "US China"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e27296cf20263f2af0143044",
+      "mode": "geopolitico",
+      "title": "Yunanistan’da muhalefetten Miçotakis-Netanyahu görüşmesine tepki! - Sabah",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVdIBpwFBVV95cUxOUHZxMTNmT1EzM2QyemFWU053bDlKMjRkQXVidHJGR3pwNk5kdnI4S2xJUFJ6NnJaYm5kSlk0a1BDbmxYOUloNV9xNEswOWNyM2dSaHdFeVpJamlPZXNrSFBPZVRiNDFIM1pTdU01WjZhS1JqTFBpMHRaVjRBOEcwck9adlU4UDB3ZC1TNEVEWTN1cUp2Zko2R0ZoUGVrbkl3VkwxSEFXVQ?oc=5",
+      "source": "Sabah Greece Watch",
+      "published": "Fri, 25 Sep 2026 08:17:51 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Netanyahu",
+        "Miçotakis",
+        "görüşme",
+        "tepki"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "674aa713496da9f336b6e012",
+      "mode": "geopolitico",
+      "title": "Yunanistan’da muhalefet partisi, Miçotakis-Netanyahu görüşmesini \"utanç verici\" olarak nitelendirdi - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd3BPaDdmbHB0Snh3MUhZbndyTm84Q0lGOUFvd2luSUQ0VlBETGhyMFFKRS0yZmtmRWJCeEpDMVMyMGkyUm1YSDhTenZJNHNKMy1ZbENMUGVSQkpQdWxjbjNHMzFuemxheVpDczJ6ZnBMTjBMaWI2dkhiQUpNcEhwTm1sOTlmLVFoWFBhQ0pLdTN2YjZBc09zVzhJRGNTcm1LS0wzYWlFYVhQdkpYZzBNVXFpYUhwc29hMkNFaFdOeTNMV18wdzYtbGRqejl0eGNU?oc=5",
+      "source": "Anadolu Greece Watch",
+      "published": "Fri, 25 Sep 2026 08:36:10 GMT",
+      "base_score": 95,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Netanyahu",
+        "Miçotakis",
+        "görüşme"
       ],
       "content_type": "news"
     },
@@ -600,25 +660,6 @@
         "Netanyahu",
         "Miçotakis",
         "görüşme"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "27da46bf558d44cd8ad87c05",
-      "mode": "geopolitico",
-      "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDlJbDBPa2kyTTVDUUhPVnlUdjV5djRsMGZLUWEwZ0ItYVk2SVNPdnBYWVhTRlpudXZjOXctNVpwYzA3V1ZDZDM5ZnZUTEhTaWF2OWM4SFpGTldFWWNPd3MzNWxQR1dHdkN3Z1BUNXpYeS1GWUpyVlNyQVQ3Y2hSTkg3Tl9zOE9mdGN0TUhpMnkxdjlsVWwtN00wN1BDUkZibi11ME1hUXZ3ZUZubkFGZm11MU9GbGczSlJlYnU0WTMtMEU2WGlmWU1Sc2pQczBUZlBn?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 24 Sep 2026 20:33:35 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Netanyahu",
-        "Miçotakis",
-        "savunma",
-        "enerji"
       ],
       "content_type": "news"
     },
@@ -642,74 +683,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "f382beb6dd112523418f9fd2",
-      "mode": "geopolitico",
-      "title": "Güney Kıbrıs, Yunanistan ve Mısır’dan Doğu Akdeniz’de ortak savunma kararı - kibrisgercek.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFJFSzJpS080SDZDdlcxejAyZDMzOWJKWThqVHczWXBabzgycGZNU2RzRnFYd2Y2NjVjelo4VV81cUZ0M3pGSTNmckoxQTBDUzFzMS1KYjltN0w3eXVibVdwdHROZWxwSHFRTlhvaEtqT1dQT1YtVlQwZWxUZ1VpQTU1ajFIM3NHTWJvak1TR0l4cmU0OGdTbnhRV3Z4Nm1GS0E?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 24 Sep 2026 13:18:00 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kibris",
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "savunma"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "3795da828e18005c9f389bd0",
-      "mode": "geopolitico",
-      "title": "Yunanistan merkezli Greek City Times: 'Türkiye, Ege Denizi'nde 5 bölge ve 6 hava yolu için NOTAM yayımladı' - TRHaber",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZzRwc0dJRlpCZEt2N2N4VG50dTlXSEN3c3FaU0tCMUh3Z19YbjVHTUJlWldFRGpMc3h0UkRRYWZNRkhfMzBJc2hLZG5EZE1RR0hhdXZBN3paWHo0N3h3ZXV1N2h5UzBmOG9pVnRZSHpvcHA0Y1M5WFBPNzRQcms3ZnhLZXNXQ25NYlY3NWd4SkNsMWJpNWlRVllLbHVOQ0hQVlB6dFRkMDJBSG9pRzNLcWFvR1UyLW1kdG1Jem1YX3JZcXlIYlh1T2ZWc2c1YTg1a3lqQ095cmc1cmRPemVPU1NKOA?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Thu, 24 Sep 2026 12:39:16 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Ege",
-        "Ege Denizi",
-        "NOTAM"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "9f6d735bef8f9165a425ad4e",
-      "mode": "geopolitico",
-      "title": "Greece and Israel strengthen defence and energy ties during UN talks - The Greek Herald",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVRVTFlzMXNwZURjWlB4REZCVHFOQzJhOUIyUkxud2ZrZEN4ZHotYU9tV09iZWVnWkEtNkNDNW9WM3YyWHhjc0VjVG5NZDdVbDgwT2s5UXJXdkVXRlpSMC0yZUpfNGlyYzBYMzdvVmpMZkhLS1RySzVzaHNlXzlqYVZ1bkZERGhxQTNTQ3pwOWNkOENfVlB3ZWdYT1UxSW5xNUJ3?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Fri, 25 Sep 2026 01:28:56 GMT",
+      "external_id": "ebe90f1640ea2410bbcce06c",
+      "mode": "pontos_voice",
+      "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1Q3d3otcXNCbHRkUkZJNW9xYXdIeGltbkdjQTV0UjhRX3B2Sk1ZOW9LcnIwaldZejRKMUdFdlY4M19rQ3RHRTNtZFZWWllfM2hNUkl0LW1QamNpNGptTngzQkN1TXhEamdoSDNlUkQxb1dab2J5M3hlc3pqeHc0N05HbWRFUFBUTlRmV2RVVmRKSy1NZk9tMjRmR0lNeVZEM2k1aWpNSU0zSjFqZ2FuY1duWmoyLXVrelVOQ2trTmZSUFdjZVVEd3A0SUpGMXlPbFHSAdcBQVVfeXFMTXZDbTJSZkhORHhRbmQyTWlQeHJ5bjQxSWlLS3A3SmItODJpdW1wV3VEeXhITUZjeWNITjNvNUNCdU83VTZSZ1k5cmVfMFdmbVZrLUlOam9IcGswRDZlNDVMck0zRnBVdzRsTnN3Rk1SdG1nbGE0YUF3TmJtREZhTHZTelZmUU9BWldSbEx1cnVKZ0VjblFfUG96SUdjRE51S21ZQzdCNlV1akZfbklhY2VxM2JPQlU3bExGQ1VCN2pPTVNrOWh6NzhnZHp4RkRqTE1zWnRsMk0?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Fri, 25 Sep 2026 05:58:00 GMT",
       "base_score": 86,
       "candidate_score": 96,
       "priority": "URGENT",
       "matched_keywords": [
-        "Greece",
-        "Israel",
-        "defence",
-        "energy"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "b3e59abf3487a10f6b9b0db0",
-      "mode": "pontos_voice",
-      "title": "Εύξεινος Πόντος: Ρωσική επίθεση σε εμπορικό πλοίο στην Οδησσό με έναν νεκρό – Σοβαρές ζημιές στις υποδομές του λιμανιού - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3hEUmhzSzNaNkRmRVRlMVNKQUJBMXU1cXZhSDZDOUdSWkY0SzhMLURRZGl2TmhMWFZ1MFJNdFk0ckRkcjZhSmJCRGZLZ2s4b2w3YkJVOVFVWmFiX3RJQlBYUFc5U3V4a0hkemZmWm9uQnhod2Q3NkZ1WTNtQmNicHJBX0dGcWhaT21UZHg0N19oNkNrTmh6RzIteWhwdmFpU2owazJxVUw?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 23 Sep 2026 09:49:11 GMT",
-      "base_score": 92,
-      "candidate_score": 92,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Πόντος",
-        "Εύξεινος Πόντος"
+        "ποντιακή",
+        "ποντιακή λύρα",
+        "λύρα"
       ],
       "content_type": "news"
     },
@@ -721,7 +707,7 @@
       "source": "Pontos News Watch",
       "published": "Thu, 24 Sep 2026 15:43:04 GMT",
       "base_score": 79,
-      "candidate_score": 85,
+      "candidate_score": 82,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -763,38 +749,36 @@
       "content_type": "news"
     },
     {
-      "external_id": "32bfbce65cf62615ee677c1e",
+      "external_id": "4e7f208501fd33818abbf330",
       "mode": "pontos_voice",
-      "title": "Rektör Çuvalcı açıkladı: KTÜ’den Trabzon’a yeni yatırım sinyali",
-      "url": "https://www.61saat.com/rektor-cuvalci-acikladi-ktuden-trabzona-yeni-yatirim-sinyali",
+      "title": "Beyaz Liste’den \"Trabzon turizmi kazansın\" çağrısı",
+      "url": "https://www.61saat.com/beyaz-listeden-trabzon-turizmi-kazansin-cagrisi",
       "source": "61Saat Trabzon",
-      "published": "Fri, 25 Sep 2026 09:55:00 +0300",
-      "base_score": 53,
-      "candidate_score": 68,
-      "priority": "Normal",
+      "published": "Fri, 25 Sep 2026 11:16:00 +0300",
+      "base_score": 57,
+      "candidate_score": 72,
+      "priority": "High",
       "matched_keywords": [
         "Trabzon",
-        "Of",
-        "Trabzon",
-        "Karadeniz"
+        "Rumlar",
+        "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "e98cbd2bf959567c05237e80",
+      "external_id": "f8ed6df23fc2be4a0b662a34",
       "mode": "pontos_voice",
-      "title": "Öğrencilerin rakipsiz oluşu, Trabzon’a Hyperloop Merkezi kazandırıyor…Yeni teknoloji bile geliştirdiler",
-      "url": "https://www.61saat.com/ogrencilerin-rakipsiz-olusu-trabzona-hyperloop-merkezi-kazandiriyoryeni-teknoloji-bile-gelistirdiler",
+      "title": "Trabzonspor Basketbol takımı yeni sezon formalarını tanıttı",
+      "url": "https://www.61saat.com/trabzonspor-basketbol-takimi-yeni-sezon-formalarini-tanitti",
       "source": "61Saat Trabzon",
-      "published": "Fri, 25 Sep 2026 10:33:00 +0300",
-      "base_score": 51,
-      "candidate_score": 66,
+      "published": "Fri, 25 Sep 2026 12:04:00 +0300",
+      "base_score": 46,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
-        "Trabzon",
-        "dil"
+        "anıt",
+        "Trabzon"
       ],
       "content_type": "news"
     }
