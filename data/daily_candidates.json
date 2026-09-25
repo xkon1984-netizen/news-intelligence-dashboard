@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T12:53:11.054093+00:00",
+  "generated_at": "2026-09-25T13:09:12.612897+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -104,6 +104,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "b4caefe216ee1667b6649ef7",
+        "mode": "sportdog",
+        "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 24 Sep 2026 22:47:58 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -221,11 +240,11 @@
         "content_type": "news"
       },
       {
-        "external_id": "7fdfe65dbd51f4091dd8fc25",
+        "external_id": "ce1bf3708da3096b69a0451d",
         "mode": "geopolitico",
-        "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
+        "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - egealternatif.com",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSU5va2dwOEVnWUE1ZkFJZ2s4TWd0NV9NaTd6RHhMQVhjbzlOcEFRUEptS3NwckFnbV96aGd0VE5iTWNvbjB6QlZ2MmpCdTNqUV9La25ISktEQ2JvLV9QeC14TGtxbDNfdUhOQ29NdmZEZHNTYlJja0tpR2F2amstUmNsQ2UzU0s4bExqZXRtUjdlUXUxV21INDFueUxtMTBhWE5NOTdkRTVaOWZ0d2EtdjZuT0FKYnEzeURlODR4SkJlNjQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
+        "source": "Eastern Mediterranean Turkey Watch",
         "published": "Fri, 25 Sep 2026 01:50:00 GMT",
         "base_score": 100,
         "candidate_score": 106,
@@ -241,20 +260,21 @@
         "content_type": "news"
       },
       {
-        "external_id": "ea1266664f4da1417ab88907",
+        "external_id": "27da46bf558d44cd8ad87c05",
         "mode": "geopolitico",
-        "title": "A UK company, a Greek owner and Netanyahu's former lawyer: Who really owns Serbia's Israeli drone venture? - Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWRRT1hHMlAzUElRVUFKeDl0TWJtMjg1TC1TSGZKVWthSFd2LUdiVm9OUVh2VWs5cU1lbU9nOEVfUVVjbXdTUGVUZWg0ZEd0VGczdVUwNEJ5Ymhqc2tsVlNiTkRYRHJFZFBhQjN5OXZVQlZXenB4RlljQTJBMjF2MWxiSlRWUjQ3ZDNLdm9mTWZtUlJlUk9sa2tVclBpZzlyWkZXejlpeDJncmxKMEFFZkkweEFKNTl3Nm1v?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Fri, 25 Sep 2026 10:04:38 GMT",
-        "base_score": 90,
-        "candidate_score": 105,
+        "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik Gazetesi",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDlJbDBPa2kyTTVDUUhPVnlUdjV5djRsMGZLUWEwZ0ItYVk2SVNPdnBYWVhTRlpudXZjOXctNVpwYzA3V1ZDZDM5ZnZUTEhTaWF2OWM4SFpGTldFWWNPd3MzNWxQR1dHdkN3Z1BUNXpYeS1GWUpyVlNyQVQ3Y2hSTkg3Tl9zOE9mdGN0TUhpMnkxdjlsVWwtN00wN1BDUkZibi11ME1hUXZ3ZUZubkFGZm11MU9GbGczSlJlYnU0WTMtMEU2WGlmWU1Sc2pQczBUZlBn?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 24 Sep 2026 20:33:35 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
-          "Israel",
-          "Israeli",
+          "Yunanistan",
           "Netanyahu",
-          "drone"
+          "Miçotakis",
+          "savunma",
+          "enerji"
         ],
         "content_type": "news"
       },
@@ -382,19 +402,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "4e7f208501fd33818abbf330",
+        "external_id": "b4a65a93e3a4fceaf95c95ab",
         "mode": "pontos_voice",
-        "title": "Beyaz Liste’den \"Trabzon turizmi kazansın\" çağrısı",
-        "url": "https://www.61saat.com/beyaz-listeden-trabzon-turizmi-kazansin-cagrisi",
+        "title": "Toprak altında kalmıştı! Son yolculuğuna uğurlandı",
+        "url": "https://www.61saat.com/toprak-altinda-kalmisti-son-yolculuguna-ugurlandi",
         "source": "61Saat Trabzon",
-        "published": "Fri, 25 Sep 2026 11:16:00 +0300",
-        "base_score": 57,
-        "candidate_score": 67,
+        "published": "Fri, 25 Sep 2026 15:18:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Rumlar",
-          "Trabzon"
+          "Trabzon",
+          "dil"
         ],
         "content_type": "news"
       }
@@ -498,6 +518,25 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "b4caefe216ee1667b6649ef7",
+      "mode": "sportdog",
+      "title": "Ajax 1-0 Olympiacos (Jul 18, 2026) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjZSWjBWQ2lOYkZSMmt3Ml9GWWFlbkVqVjhEbDMyeGhXaVdRMmtMN2s5d2pHbjBmSXpmWXk3LTVxczVjMXJFTTZCR3psY05tTVBwZmxyZnJ4Q3NZTVZ6OUlYQ0ZfUmNZNHotVThrbkxsb2xCaFkzWUJoVFdaeEFzWnF6eFA?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 24 Sep 2026 22:47:58 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -613,11 +652,11 @@
       "content_type": "news"
     },
     {
-      "external_id": "7fdfe65dbd51f4091dd8fc25",
+      "external_id": "ce1bf3708da3096b69a0451d",
       "mode": "geopolitico",
-      "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - Ege Alternatif",
+      "title": "Yunanistan, Girit Adası'nda karasularını 12 mile çıkarma planlarını gündeme getirdi - egealternatif.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSU5va2dwOEVnWUE1ZkFJZ2s4TWd0NV9NaTd6RHhMQVhjbzlOcEFRUEptS3NwckFnbV96aGd0VE5iTWNvbjB6QlZ2MmpCdTNqUV9La25ISktEQ2JvLV9QeC14TGtxbDNfdUhOQ29NdmZEZHNTYlJja0tpR2F2amstUmNsQ2UzU0s4bExqZXRtUjdlUXUxV21INDFueUxtMTBhWE5NOTdkRTVaOWZ0d2EtdjZuT0FKYnEzeURlODR4SkJlNjQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
+      "source": "Eastern Mediterranean Turkey Watch",
       "published": "Fri, 25 Sep 2026 01:50:00 GMT",
       "base_score": 100,
       "candidate_score": 106,
@@ -633,20 +672,21 @@
       "content_type": "news"
     },
     {
-      "external_id": "ea1266664f4da1417ab88907",
+      "external_id": "27da46bf558d44cd8ad87c05",
       "mode": "geopolitico",
-      "title": "A UK company, a Greek owner and Netanyahu's former lawyer: Who really owns Serbia's Israeli drone venture? - Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWRRT1hHMlAzUElRVUFKeDl0TWJtMjg1TC1TSGZKVWthSFd2LUdiVm9OUVh2VWs5cU1lbU9nOEVfUVVjbXdTUGVUZWg0ZEd0VGczdVUwNEJ5Ymhqc2tsVlNiTkRYRHJFZFBhQjN5OXZVQlZXenB4RlljQTJBMjF2MWxiSlRWUjQ3ZDNLdm9mTWZtUlJlUk9sa2tVclBpZzlyWkZXejlpeDJncmxKMEFFZkkweEFKNTl3Nm1v?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Fri, 25 Sep 2026 10:04:38 GMT",
-      "base_score": 90,
-      "candidate_score": 105,
+      "title": "Netanyahu ve Miçotakis BM'de neden görüştü? İsrail-Yunanistan hattında enerji ve savunma gündemi - Yeni Birlik Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDlJbDBPa2kyTTVDUUhPVnlUdjV5djRsMGZLUWEwZ0ItYVk2SVNPdnBYWVhTRlpudXZjOXctNVpwYzA3V1ZDZDM5ZnZUTEhTaWF2OWM4SFpGTldFWWNPd3MzNWxQR1dHdkN3Z1BUNXpYeS1GWUpyVlNyQVQ3Y2hSTkg3Tl9zOE9mdGN0TUhpMnkxdjlsVWwtN00wN1BDUkZibi11ME1hUXZ3ZUZubkFGZm11MU9GbGczSlJlYnU0WTMtMEU2WGlmWU1Sc2pQczBUZlBn?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 24 Sep 2026 20:33:35 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
-        "Israel",
-        "Israeli",
+        "Yunanistan",
         "Netanyahu",
-        "drone"
+        "Miçotakis",
+        "savunma",
+        "enerji"
       ],
       "content_type": "news"
     },
@@ -772,19 +812,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "4e7f208501fd33818abbf330",
+      "external_id": "b4a65a93e3a4fceaf95c95ab",
       "mode": "pontos_voice",
-      "title": "Beyaz Liste’den \"Trabzon turizmi kazansın\" çağrısı",
-      "url": "https://www.61saat.com/beyaz-listeden-trabzon-turizmi-kazansin-cagrisi",
+      "title": "Toprak altında kalmıştı! Son yolculuğuna uğurlandı",
+      "url": "https://www.61saat.com/toprak-altinda-kalmisti-son-yolculuguna-ugurlandi",
       "source": "61Saat Trabzon",
-      "published": "Fri, 25 Sep 2026 11:16:00 +0300",
-      "base_score": 57,
-      "candidate_score": 67,
+      "published": "Fri, 25 Sep 2026 15:18:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Rumlar",
-        "Trabzon"
+        "Trabzon",
+        "dil"
       ],
       "content_type": "news"
     }
