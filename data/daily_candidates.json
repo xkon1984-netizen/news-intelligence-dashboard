@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T23:20:33.838944+00:00",
+  "generated_at": "2026-09-25T23:33:33.996666+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -27,26 +27,6 @@
         "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
-      },
-      {
-        "external_id": "b5e210dbafea8c42d7835fa8",
-        "mode": "sportdog",
-        "title": "Panathinaikos - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 25 Sep 2026 10:43:39 GMT",
-        "base_score": 56,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
       },
       {
         "external_id": "b52069d68d2bb2f05e8329de",
@@ -109,9 +89,28 @@
         "needs_second_source": true
       },
       {
-        "external_id": "53f29ab9701781c20a046d5e",
+        "external_id": "5bdf8c3b7c4bad71f638b3ee",
         "mode": "sportdog",
-        "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - Soccernet.ng",
+        "title": "Dorsey, Vezenkov lead Olympiacos past Baskonia - TalkBasket.net",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTllUeDdjMldmaFp2N2s0V1lnNkl6S2lIaXF4WS1GeEEwWGpBeTAtVWJIWVZRMWxsd19sdkdwLWctaWxoWGVjclh5a29nTWhXUks2T0wwZFVBUVpta2FZcHgwaXp6bUUxZjZhZTBzSUluQ1hYS2I2MDBnakxrTGJHa0RnTUI0UdIBjgFBVV95cUxQMHgwalJRRnVuWlNZckRJRlFjQ3hFRU1QdFhnLVAwa0ZGLUdjNnlvX1FLbE9HSHh6WndDalpEa2x1bkF5M3FLSm1jalc1TXRtLTVDb2dSTnhmQUtIRmpiczk4YWtlUkkzVWVWQ0laSmJCUTJwWU4xRWQxWDVGSC1GMmh3M0kwZWh1VEtaT2Zn?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 06:22:56 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "ddcee91bf70f469a80361283",
+        "mode": "sportdog",
+        "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - soccernet.ng",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F6YWZtd1ZjMGJjMDFMMnZDZU50Q252SGlTejYyWFV2VEN6NkNqNF85NlNJaW80a1JxTGpGTEJYNUV1MmZtWHJwZkc5bjBpZ2lBYUxfZU01NlpHLTlNTmJrUXo0MkI1eW54eS12dml0cmlCcmNKR2lkZWxKSFBpbQ?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 25 Sep 2026 06:00:00 GMT",
@@ -166,6 +165,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "72eb056a540b7f3496c0d947",
+        "mode": "sportdog",
+        "title": "Panathinaikos record best EuroLeague start in 15 years - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUphWm5nc1dlSlBlVVF0dEpnd09KSjJWZ1lQN3BkRkVPZURqV1hpVl8zTFlSN0t0azQwMkxzVHcwM3V6QWtHV1dJU1pHNFAzVGk0ZXFtanVTN2JZY0I2dl9BZ0FLQmNWdWoyTHNJZkE0MEVBNlV6a0dXVGpMODl6akM3QUtWbkI1eDRKVFRBaHptN3VlTHg3NWxVeXk?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 24 Sep 2026 21:18:50 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "6e452a2f17a9c941e52471f1",
         "mode": "sportdog",
         "title": "LIVE/FREE:Olympiacos Piraeus BC V Baskonia Vitoria LIVE STREA.Ms ON 24th. September. 2026 - czechinvest.gov.cz",
@@ -187,24 +205,6 @@
     ],
     "geopolitico": [
       {
-        "external_id": "6733c5d2562f382275fabb0f",
-        "mode": "geopolitico",
-        "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
-        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-        "published": "Fri, 25 Sep 2026 20:22:09 GMT",
-        "base_score": 96,
-        "candidate_score": 111,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Israel",
-          "Pakistan",
-          "Pakistani",
-          "defense"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "aef9320425d5c03939ba2807",
         "mode": "geopolitico",
         "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
@@ -220,6 +220,24 @@
           "Pakistani",
           "Jaishankar",
           "terrorism"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "6733c5d2562f382275fabb0f",
+        "mode": "geopolitico",
+        "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Fri, 25 Sep 2026 20:22:09 GMT",
+        "base_score": 96,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Israel",
+          "Pakistan",
+          "Pakistani",
+          "defense"
         ],
         "content_type": "news"
       },
@@ -316,19 +334,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "412675cfa34299a0ce43a094",
+        "external_id": "b4a61e81f216473d04a5717f",
         "mode": "geopolitico",
-        "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 25 Sep 2026 15:28:00 GMT",
-        "base_score": 94,
-        "candidate_score": 104,
+        "title": "India’s Jaishankar rebuts Pakistan allegation at UN as India signs cybercrime treaty - Diya TV",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHJub29FZ1pwbmp2czVCQnpNTjhLNzF4dTEwV3o4RzBjRVN4UnVKY29wSl95YVJWV052UlVXUjAydHhIZjJDcGhxQ1hWZEd1VHh1bDA0TmxRU1V0c084UW41UjFJVWwzZTY3dUVZeFFieXltWVFSUWdsNUtxNFZoSTV0SjBhNGlDWV85RWx3ODEtZzhJVmNzN3JwM3FWSnByd1RRV1Y2R2k5QQ?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Fri, 25 Sep 2026 21:42:00 GMT",
+        "base_score": 88,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
-          "Kibris",
-          "Miçotakis",
-          "Kıbrıs"
+          "India",
+          "Pakistan",
+          "Jaishankar",
+          "cyber"
         ],
         "content_type": "news"
       }
@@ -369,6 +388,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "a555e2d6e8c13bea10690cc7",
+        "mode": "pontos_voice",
+        "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkNtMlJmSE5EeFFuZDJNaVB4cnluNDFJaUtLcDdKYi04Mml1bXBXdUR5eEhNRmN5Y0hOM281Q0J1TzdVNlJnWTlyZV8wV2ZtVmstSU5qb0hwazBENmU0NUxyTTNGcFV3NGxOc3dGTVJ0bWdsYTRhQXdOYm1ERmFMdlN6VmZRT0FaV1JsTHVydUpnRWNuUV9Qb3pJR2NETnVLbVlDN0I2VXVqRl9uSWFjZXEzYk9CVTdsTEZDVUI3ak9NU2s5aHo3OGdkenhGRGpMTXNadGwyTdIB1wFBVV95cUxNdkNtMlJmSE5EeFFuZDJNaVB4cnluNDFJaUtLcDdKYi04Mml1bXBXdUR5eEhNRmN5Y0hOM281Q0J1TzdVNlJnWTlyZV8wV2ZtVmstSU5qb0hwazBENmU0NUxyTTNGcFV3NGxOc3dGTVJ0bWdsYTRhQXdOYm1ERmFMdlN6VmZRT0FaV1JsTHVydUpnRWNuUV9Qb3pJR2NETnVLbVlDN0I2VXVqRl9uSWFjZXEzYk9CVTdsTEZDVUI3ak9NU2s5aHo3OGdkenhGRGpMTXNadGwyTQ?oc=5",
+        "source": "ERT Pontic Watch",
+        "published": "Fri, 25 Sep 2026 08:35:03 GMT",
+        "base_score": 82,
+        "candidate_score": 88,
+        "priority": "High",
+        "matched_keywords": [
+          "ποντιακή",
+          "ποντιακή λύρα",
+          "λύρα"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "4b52bcc0c5a4072140b212de",
         "mode": "pontos_voice",
         "title": "Τραπεζούντα: Η χολέρα κορυφώνεται – 352 νεκροί ως τον Δεκέμβριο - pontosnews.gr",
@@ -376,7 +412,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 25 Sep 2026 15:24:48 GMT",
         "base_score": 75,
-        "candidate_score": 85,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -418,23 +454,6 @@
           "dil"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "ca67f398f3cd7eca8b6998b1",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor’dan A Milli Takım’a 3 oyuncu",
-        "url": "https://www.61saat.com/trabzonspordan-a-milli-takima-3-oyuncu",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 25 Sep 2026 21:15:00 +0300",
-        "base_score": 44,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
       }
     ]
   },
@@ -459,26 +478,6 @@
       "team": "Olympiacos",
       "readiness": "READY",
       "needs_second_source": false
-    },
-    {
-      "external_id": "b5e210dbafea8c42d7835fa8",
-      "mode": "sportdog",
-      "title": "Panathinaikos - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzhCeld4dnh3bzFkNDhMYzJHa3U0VUhmUmJPWXFtS01BVXpOTGVfLVpWSi1PTnVvcWs4RXJEV1c2ckFhbEdpOS1ySHdGZjZ3R21mNkRSOTdyVl9Mc0N0Q3l3NnRQMFZiS19GeHdzR0llbVhGZ2M5RFZuYUZONzl5SllFZUNmWXNKQm1PQ1Bzd1FFamVpS1dSRkFEY1VFNFpiMGhNb2NyeE5EZw?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 25 Sep 2026 10:43:39 GMT",
-      "base_score": 56,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
     },
     {
       "external_id": "b52069d68d2bb2f05e8329de",
@@ -541,9 +540,28 @@
       "needs_second_source": true
     },
     {
-      "external_id": "53f29ab9701781c20a046d5e",
+      "external_id": "5bdf8c3b7c4bad71f638b3ee",
       "mode": "sportdog",
-      "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - Soccernet.ng",
+      "title": "Dorsey, Vezenkov lead Olympiacos past Baskonia - TalkBasket.net",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTllUeDdjMldmaFp2N2s0V1lnNkl6S2lIaXF4WS1GeEEwWGpBeTAtVWJIWVZRMWxsd19sdkdwLWctaWxoWGVjclh5a29nTWhXUks2T0wwZFVBUVpta2FZcHgwaXp6bUUxZjZhZTBzSUluQ1hYS2I2MDBnakxrTGJHa0RnTUI0UdIBjgFBVV95cUxQMHgwalJRRnVuWlNZckRJRlFjQ3hFRU1QdFhnLVAwa0ZGLUdjNnlvX1FLbE9HSHh6WndDalpEa2x1bkF5M3FLSm1jalc1TXRtLTVDb2dSTnhmQUtIRmpiczk4YWtlUkkzVWVWQ0laSmJCUTJwWU4xRWQxWDVGSC1GMmh3M0kwZWh1VEtaT2Zn?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 06:22:56 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "ddcee91bf70f469a80361283",
+      "mode": "sportdog",
+      "title": "Super Eagles accept Cyriel Dessers request as Panathinaikos star makes surprise Nigeria decision - soccernet.ng",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F6YWZtd1ZjMGJjMDFMMnZDZU50Q252SGlTejYyWFV2VEN6NkNqNF85NlNJaW80a1JxTGpGTEJYNUV1MmZtWHJwZkc5bjBpZ2lBYUxfZU01NlpHLTlNTmJrUXo0MkI1eW54eS12dml0cmlCcmNKR2lkZWxKSFBpbQ?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 25 Sep 2026 06:00:00 GMT",
@@ -598,6 +616,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "72eb056a540b7f3496c0d947",
+      "mode": "sportdog",
+      "title": "Panathinaikos record best EuroLeague start in 15 years - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUphWm5nc1dlSlBlVVF0dEpnd09KSjJWZ1lQN3BkRkVPZURqV1hpVl8zTFlSN0t0azQwMkxzVHcwM3V6QWtHV1dJU1pHNFAzVGk0ZXFtanVTN2JZY0I2dl9BZ0FLQmNWdWoyTHNJZkE0MEVBNlV6a0dXVGpMODl6akM3QUtWbkI1eDRKVFRBaHptN3VlTHg3NWxVeXk?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 24 Sep 2026 21:18:50 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "6e452a2f17a9c941e52471f1",
       "mode": "sportdog",
       "title": "LIVE/FREE:Olympiacos Piraeus BC V Baskonia Vitoria LIVE STREA.Ms ON 24th. September. 2026 - czechinvest.gov.cz",
@@ -617,24 +654,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "6733c5d2562f382275fabb0f",
-      "mode": "geopolitico",
-      "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
-      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-      "published": "Fri, 25 Sep 2026 20:22:09 GMT",
-      "base_score": 96,
-      "candidate_score": 111,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Israel",
-        "Pakistan",
-        "Pakistani",
-        "defense"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "aef9320425d5c03939ba2807",
       "mode": "geopolitico",
       "title": "'Terrorist country is asking me': EAM Jaishankar hits back at Pakistani journalist's terrorism question at UN - The New Indian Express",
@@ -650,6 +669,24 @@
         "Pakistani",
         "Jaishankar",
         "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "6733c5d2562f382275fabb0f",
+      "mode": "geopolitico",
+      "title": "Pakistani, Saudi and Turkish military chiefs vow to actualize defense deal during meeting in Riyadh - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEFXcHpyTXk1NnJFV2pSQTZRYVNWaTd2d19na0FHQjFCNVo1WmRSd0xHbGd4bkxfano3VHlQcFppUlBURm40WWRrY05SQ1l5X0pqMjU3ZlN2T3dmeWZ6TG5Ma0ltdzdfMmc2dktuN1QxN3dYUzlNV2VqOTNBSTg0T21NZ19MODRlMk1KVXQyeUpyR1JxYjkxamE1SHRlRXpfSmlZTmdFME1qOGJxNzJKc19FVDJJd214NjQ0c1V5NlNWVlhORWl1SnZ0UGE3VV9YWmdxVno1MUM2ZS13?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Fri, 25 Sep 2026 20:22:09 GMT",
+      "base_score": 96,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Israel",
+        "Pakistan",
+        "Pakistani",
+        "defense"
       ],
       "content_type": "news"
     },
@@ -746,19 +783,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "412675cfa34299a0ce43a094",
+      "external_id": "b4a61e81f216473d04a5717f",
       "mode": "geopolitico",
-      "title": "Miçotakis’ten Türkiye ve Kıbrıs mesajı: Yan yana yaşamak kaderimiz - kibrisgercek.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVRPVUR6bE5CLWhXMlVjd3NKdmViWVYyODFrcjdfT1VwUi1raDhTRjAtaHVINzNJSVVNZTR1aHpzYjlnb1ZjLWFLSVl5WHdqcEhGb2xBN2QyU0lwT1ZhTlJ6N3BhcEVoek9iUkxQV0Z5NTZXdmloYTRjVGE1ZnI3Y3UwR05fV3AtOFVrVG1wamgwNnMydTROdw?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 25 Sep 2026 15:28:00 GMT",
-      "base_score": 94,
-      "candidate_score": 104,
+      "title": "India’s Jaishankar rebuts Pakistan allegation at UN as India signs cybercrime treaty - Diya TV",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHJub29FZ1pwbmp2czVCQnpNTjhLNzF4dTEwV3o4RzBjRVN4UnVKY29wSl95YVJWV052UlVXUjAydHhIZjJDcGhxQ1hWZEd1VHh1bDA0TmxRU1V0c084UW41UjFJVWwzZTY3dUVZeFFieXltWVFSUWdsNUtxNFZoSTV0SjBhNGlDWV85RWx3ODEtZzhJVmNzN3JwM3FWSnByd1RRV1Y2R2k5QQ?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Fri, 25 Sep 2026 21:42:00 GMT",
+      "base_score": 88,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
-        "Kibris",
-        "Miçotakis",
-        "Kıbrıs"
+        "India",
+        "Pakistan",
+        "Jaishankar",
+        "cyber"
       ],
       "content_type": "news"
     },
@@ -797,6 +835,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "a555e2d6e8c13bea10690cc7",
+      "mode": "pontos_voice",
+      "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkNtMlJmSE5EeFFuZDJNaVB4cnluNDFJaUtLcDdKYi04Mml1bXBXdUR5eEhNRmN5Y0hOM281Q0J1TzdVNlJnWTlyZV8wV2ZtVmstSU5qb0hwazBENmU0NUxyTTNGcFV3NGxOc3dGTVJ0bWdsYTRhQXdOYm1ERmFMdlN6VmZRT0FaV1JsTHVydUpnRWNuUV9Qb3pJR2NETnVLbVlDN0I2VXVqRl9uSWFjZXEzYk9CVTdsTEZDVUI3ak9NU2s5aHo3OGdkenhGRGpMTXNadGwyTdIB1wFBVV95cUxNdkNtMlJmSE5EeFFuZDJNaVB4cnluNDFJaUtLcDdKYi04Mml1bXBXdUR5eEhNRmN5Y0hOM281Q0J1TzdVNlJnWTlyZV8wV2ZtVmstSU5qb0hwazBENmU0NUxyTTNGcFV3NGxOc3dGTVJ0bWdsYTRhQXdOYm1ERmFMdlN6VmZRT0FaV1JsTHVydUpnRWNuUV9Qb3pJR2NETnVLbVlDN0I2VXVqRl9uSWFjZXEzYk9CVTdsTEZDVUI3ak9NU2s5aHo3OGdkenhGRGpMTXNadGwyTQ?oc=5",
+      "source": "ERT Pontic Watch",
+      "published": "Fri, 25 Sep 2026 08:35:03 GMT",
+      "base_score": 82,
+      "candidate_score": 88,
+      "priority": "High",
+      "matched_keywords": [
+        "ποντιακή",
+        "ποντιακή λύρα",
+        "λύρα"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "4b52bcc0c5a4072140b212de",
       "mode": "pontos_voice",
       "title": "Τραπεζούντα: Η χολέρα κορυφώνεται – 352 νεκροί ως τον Δεκέμβριο - pontosnews.gr",
@@ -804,7 +859,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 25 Sep 2026 15:24:48 GMT",
       "base_score": 75,
-      "candidate_score": 85,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -842,23 +897,6 @@
       "matched_keywords": [
         "Trabzon",
         "açıklama",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "ca67f398f3cd7eca8b6998b1",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor’dan A Milli Takım’a 3 oyuncu",
-      "url": "https://www.61saat.com/trabzonspordan-a-milli-takima-3-oyuncu",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 25 Sep 2026 21:15:00 +0300",
-      "base_score": 44,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
         "Trabzon",
         "dil"
       ],
