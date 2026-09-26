@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T00:52:01.405197+00:00",
+  "generated_at": "2026-09-26T01:04:20.747716+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -126,6 +126,25 @@
         "editorial_type": "Team News",
         "team": "PAOK",
         "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "5bdf8c3b7c4bad71f638b3ee",
+        "mode": "sportdog",
+        "title": "Dorsey, Vezenkov lead Olympiacos past Baskonia - TalkBasket.net",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTllUeDdjMldmaFp2N2s0V1lnNkl6S2lIaXF4WS1GeEEwWGpBeTAtVWJIWVZRMWxsd19sdkdwLWctaWxoWGVjclh5a29nTWhXUks2T0wwZFVBUVpta2FZcHgwaXp6bUUxZjZhZTBzSUluQ1hYS2I2MDBnakxrTGJHa0RnTUI0UdIBjgFBVV95cUxQMHgwalJRRnVuWlNZckRJRlFjQ3hFRU1QdFhnLVAwa0ZGLUdjNnlvX1FLbE9HSHh6WndDalpEa2x1bkF5M3FLSm1jalc1TXRtLTVDb2dSTnhmQUtIRmpiczk4YWtlUkkzVWVWQ0laSmJCUTJwWU4xRWQxWDVGSC1GMmh3M0kwZWh1VEtaT2Zn?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 06:22:56 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -562,6 +581,25 @@
       "editorial_type": "Team News",
       "team": "PAOK",
       "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "5bdf8c3b7c4bad71f638b3ee",
+      "mode": "sportdog",
+      "title": "Dorsey, Vezenkov lead Olympiacos past Baskonia - TalkBasket.net",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTllUeDdjMldmaFp2N2s0V1lnNkl6S2lIaXF4WS1GeEEwWGpBeTAtVWJIWVZRMWxsd19sdkdwLWctaWxoWGVjclh5a29nTWhXUks2T0wwZFVBUVpta2FZcHgwaXp6bUUxZjZhZTBzSUluQ1hYS2I2MDBnakxrTGJHa0RnTUI0UdIBjgFBVV95cUxQMHgwalJRRnVuWlNZckRJRlFjQ3hFRU1QdFhnLVAwa0ZGLUdjNnlvX1FLbE9HSHh6WndDalpEa2x1bkF5M3FLSm1jalc1TXRtLTVDb2dSTnhmQUtIRmpiczk4YWtlUkkzVWVWQ0laSmJCUTJwWU4xRWQxWDVGSC1GMmh3M0kwZWh1VEtaT2Zn?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 06:22:56 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
