@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-09-26T19:03:32.531658+00:00",
+  "generated_at": "2026-09-26T19:19:50.747766+00:00",
   "counts": {
-    "sportdog": 3,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "9cfe2602376f3732eed26887",
+        "mode": "sportdog",
+        "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - sports.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTE15ZXpTcmhfR1dCMEVyWXNsaTZLUGRUQzhEaFYtbDFRSFhNa0ZDdDFLZE10eWYteDFDRWFiRjN4OEphTjRYdWFLUXpERGNULU05djFiTmZOS0JxVzkweTBKT2l2aG9sUGhTWWh6QW1EOGhTR0NhZmFqT2pQb056a1JJY3VfRnM?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sat, 26 Sep 2026 18:34:59 GMT",
+        "base_score": 62,
+        "candidate_score": 93,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
       {
         "external_id": "a24e9cb1d4ccc4933f2e5782",
         "mode": "sportdog",
@@ -28,6 +48,26 @@
         "needs_second_source": false
       },
       {
+        "external_id": "733e9548c973a07b415bd8c3",
+        "mode": "sportdog",
+        "title": "PAOK Komotinis - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sat, 26 Sep 2026 11:07:32 GMT",
+        "base_score": 56,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "b5e210dbafea8c42d7835fa8",
         "mode": "sportdog",
         "title": "Panathinaikos - Transfermarkt",
@@ -43,6 +83,26 @@
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6eb3dca34e7bc0c23e563d82",
+        "mode": "sportdog",
+        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sat, 26 Sep 2026 05:57:40 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
         "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -70,9 +130,9 @@
     ],
     "geopolitico": [
       {
-        "external_id": "b79bad079cdfa8be6bcd4ec4",
+        "external_id": "fb0e92f10a8fa30c52007618",
         "mode": "geopolitico",
-        "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - ahaber.com.tr",
+        "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - A Haber",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT09tUkpqaVRhNVdQV3NUdER2OHlXNzRjM0ZEcVM3MW9pZVdnUkJELVZYaDYxUmxhbV8yRF9fNklRcjBNM3lkZVdrSmVPd0h2VmJyQzNISUxnd19nMGh4a1VDaFNrcUs4TEFpaVZBQTN0ai1GdU04YW9sNE5jMTB1MWJVMlp1UEp4Q1lPUjNuMDRuSGFPU3NrZ1RxRnNVbGpnR2ZTQk10YkVYcXdqek1OSGxYTU1pVWs?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 26 Sep 2026 14:55:36 GMT",
@@ -88,9 +148,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "b11e2ab80fbc055af6a78363",
+        "external_id": "9b82908718e8ebc3c2ed6d6e",
         "mode": "geopolitico",
-        "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - ahaber.com.tr",
+        "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - A Haber",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWlYNDFkTVdTcHhPTm5TR0lfVTVFNlRvOXZlUGpUakRvQ3dPLThvM3k4TzVSMVhVeFg5Q0NLSXY4WUJHZEZtZUdQM0plQTNEYVpnMXRlVUN6UDYxMkhUdHVENmxuMDJ5T0hoQklrdGJBWjNITXNtSno3ZF9MVml0cDNDSGMxUjBSRDRWSVlrdy10Y2RpNE1wTWNGVnB3WjcwdXNKbmRFLVZSYlk2QkZDZ3RIODk?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 26 Sep 2026 14:10:24 GMT",
@@ -106,9 +166,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "828f104a257e2cd7012ec2c1",
+        "external_id": "faefe9aaf82d9060de5224dd",
         "mode": "geopolitico",
-        "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - ahaber.com.tr",
+        "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - A Haber",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVREUzQza19VWEJ4bHI5b3huRmZPdXNQMDJfVmJnaGFnZlNBOFUtNEJfczVWUVRiTTgyN3JOYm5NNkxUZTVhdGx6XzRPbkZMaWtOdDc2Z1JYWVVwWGQ2X1BUejAtTHZSX3dHMnRZUXFxWVpUVnotNHNtaXluYlM5M0JWNkVmaGxLOGhNRjdnOVlTWnF4ZS1UUVVXd3F4UVFSR3FqbHdxZ0V2OEdtR2FmZWVR?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 26 Sep 2026 14:10:24 GMT",
@@ -161,9 +221,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "454056e301aadd2000e3aec9",
+        "external_id": "2e05748792cc54380438b3af",
         "mode": "geopolitico",
-        "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - The New Indian Express",
+        "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - newindianexpress.com",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmNNREV2ZG56QnJ5QnFTYm02WUMwanFXTllwRVNodXhHTlQxQ0lQYkdEN3loWUdtVDI0LW9IZF9BNDlFbVZrbXFUSDFGSGNwVjBZOVRnQWNfR0VrZnVTcW13ZHdzMElpVDUyOGhldDRVMnoxTGJJc01qWGlEWVhkbDFxamN4R2Q0bFl2a2pMQ3lhVUxBZkU0TzhQRmlDQS1KbW1FR1NuV3ZqclhhTk45azBPdVllU1RJdVF2NE54dGpUOWkxLUl1bjNfeFRZTGs0VExhdTh6RlN0OU54ck9VaVVma9IB8AFBVV95cUxNWk5NdUc2MHFrX1JnckV0WDkyQWgwTndueERmWFNQa2hNQkNlSHRIQnlSZzc2aDRwTW1XcEpUZU00eXd4Z0h0TmtCMnBLV3FWTEp0YjFuS2Vhd19rbVhJMzdMSGZKSjhSeXFxcVVxb2ppZmJtY3VoR2FjSC10NE1XanhKRVQzMm96eGJ4LW1nQ3lhUkw3SUF0ZEtuMXRfUlQ5Yk9rOGhZbjNRaG51SXVxdndGTHNaWURkOUx6bXlmX01IaVhvUlMyem1jdkMtUXhMUUI0Y2Zfd3lpd3AzZllBT2xuV29UUEM0cjRiUXRydzg?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sat, 26 Sep 2026 18:21:40 GMT",
@@ -324,6 +384,26 @@
   },
   "items": [
     {
+      "external_id": "9cfe2602376f3732eed26887",
+      "mode": "sportdog",
+      "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTE15ZXpTcmhfR1dCMEVyWXNsaTZLUGRUQzhEaFYtbDFRSFhNa0ZDdDFLZE10eWYteDFDRWFiRjN4OEphTjRYdWFLUXpERGNULU05djFiTmZOS0JxVzkweTBKT2l2aG9sUGhTWWh6QW1EOGhTR0NhZmFqT2pQb056a1JJY3VfRnM?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sat, 26 Sep 2026 18:34:59 GMT",
+      "base_score": 62,
+      "candidate_score": 93,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "a24e9cb1d4ccc4933f2e5782",
       "mode": "sportdog",
       "title": "(!+!Streams!TV!+!)) Olympiacos BC vs AEK BC Basketball 𝗟𝗶𝘃𝗲 𝗦𝘁𝗿𝗲𝗮𝗺 𝗙𝗿𝗲𝗲 𝗼𝗻 𝗧𝗩 Today - czechinvest.gov.cz",
@@ -344,6 +424,26 @@
       "needs_second_source": false
     },
     {
+      "external_id": "733e9548c973a07b415bd8c3",
+      "mode": "sportdog",
+      "title": "PAOK Komotinis - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sat, 26 Sep 2026 11:07:32 GMT",
+      "base_score": 56,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "b5e210dbafea8c42d7835fa8",
       "mode": "sportdog",
       "title": "Panathinaikos - Transfermarkt",
@@ -359,6 +459,26 @@
       ],
       "content_type": "news",
       "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6eb3dca34e7bc0c23e563d82",
+      "mode": "sportdog",
+      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sat, 26 Sep 2026 05:57:40 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
       "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -384,9 +504,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "b79bad079cdfa8be6bcd4ec4",
+      "external_id": "fb0e92f10a8fa30c52007618",
       "mode": "geopolitico",
-      "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - ahaber.com.tr",
+      "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - A Haber",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT09tUkpqaVRhNVdQV3NUdER2OHlXNzRjM0ZEcVM3MW9pZVdnUkJELVZYaDYxUmxhbV8yRF9fNklRcjBNM3lkZVdrSmVPd0h2VmJyQzNISUxnd19nMGh4a1VDaFNrcUs4TEFpaVZBQTN0ai1GdU04YW9sNE5jMTB1MWJVMlp1UEp4Q1lPUjNuMDRuSGFPU3NrZ1RxRnNVbGpnR2ZTQk10YkVYcXdqek1OSGxYTU1pVWs?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 26 Sep 2026 14:55:36 GMT",
@@ -402,9 +522,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "b11e2ab80fbc055af6a78363",
+      "external_id": "9b82908718e8ebc3c2ed6d6e",
       "mode": "geopolitico",
-      "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - ahaber.com.tr",
+      "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - A Haber",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWlYNDFkTVdTcHhPTm5TR0lfVTVFNlRvOXZlUGpUakRvQ3dPLThvM3k4TzVSMVhVeFg5Q0NLSXY4WUJHZEZtZUdQM0plQTNEYVpnMXRlVUN6UDYxMkhUdHVENmxuMDJ5T0hoQklrdGJBWjNITXNtSno3ZF9MVml0cDNDSGMxUjBSRDRWSVlrdy10Y2RpNE1wTWNGVnB3WjcwdXNKbmRFLVZSYlk2QkZDZ3RIODk?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 26 Sep 2026 14:10:24 GMT",
@@ -420,9 +540,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "828f104a257e2cd7012ec2c1",
+      "external_id": "faefe9aaf82d9060de5224dd",
       "mode": "geopolitico",
-      "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - ahaber.com.tr",
+      "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - A Haber",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVREUzQza19VWEJ4bHI5b3huRmZPdXNQMDJfVmJnaGFnZlNBOFUtNEJfczVWUVRiTTgyN3JOYm5NNkxUZTVhdGx6XzRPbkZMaWtOdDc2Z1JYWVVwWGQ2X1BUejAtTHZSX3dHMnRZUXFxWVpUVnotNHNtaXluYlM5M0JWNkVmaGxLOGhNRjdnOVlTWnF4ZS1UUVVXd3F4UVFSR3FqbHdxZ0V2OEdtR2FmZWVR?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 26 Sep 2026 14:10:24 GMT",
@@ -475,9 +595,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "454056e301aadd2000e3aec9",
+      "external_id": "2e05748792cc54380438b3af",
       "mode": "geopolitico",
-      "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - The New Indian Express",
+      "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - newindianexpress.com",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmNNREV2ZG56QnJ5QnFTYm02WUMwanFXTllwRVNodXhHTlQxQ0lQYkdEN3loWUdtVDI0LW9IZF9BNDlFbVZrbXFUSDFGSGNwVjBZOVRnQWNfR0VrZnVTcW13ZHdzMElpVDUyOGhldDRVMnoxTGJJc01qWGlEWVhkbDFxamN4R2Q0bFl2a2pMQ3lhVUxBZkU0TzhQRmlDQS1KbW1FR1NuV3ZqclhhTk45azBPdVllU1RJdVF2NE54dGpUOWkxLUl1bjNfeFRZTGs0VExhdTh6RlN0OU54ck9VaVVma9IB8AFBVV95cUxNWk5NdUc2MHFrX1JnckV0WDkyQWgwTndueERmWFNQa2hNQkNlSHRIQnlSZzc2aDRwTW1XcEpUZU00eXd4Z0h0TmtCMnBLV3FWTEp0YjFuS2Vhd19rbVhJMzdMSGZKSjhSeXFxcVVxb2ppZmJtY3VoR2FjSC10NE1XanhKRVQzMm96eGJ4LW1nQ3lhUkw3SUF0ZEtuMXRfUlQ5Yk9rOGhZbjNRaG51SXVxdndGTHNaWURkOUx6bXlmX01IaVhvUlMyem1jdkMtUXhMUUI0Y2Zfd3lpd3AzZllBT2xuV29UUEM0cjRiUXRydzg?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sat, 26 Sep 2026 18:21:40 GMT",
