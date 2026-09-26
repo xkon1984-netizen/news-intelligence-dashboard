@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T17:20:39.845076+00:00",
+  "generated_at": "2026-09-26T17:35:14.564366+00:00",
   "counts": {
     "sportdog": 7,
     "geopolitico": 8,
@@ -69,26 +69,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "6eb3dca34e7bc0c23e563d82",
-        "mode": "sportdog",
-        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 26 Sep 2026 05:57:40 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "954d194c7f8b6db1d33b5418",
         "mode": "sportdog",
         "title": "Panathinaikos’ French trio leads win over Paris - TalkBasket.net",
@@ -146,13 +126,32 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
+      },
+      {
+        "external_id": "f3b6759e93ef78b635225b1e",
+        "mode": "sportdog",
+        "title": "Zeljko Obradovic reveals the status of injured Panathinaikos players - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG15aGg1VzRsMEZ3eHhWQ2VJYVdoalRka0h6aTFJeU5XRHgwMC1UMmRJb1lJVG85YXhuam1Bc0NnNnJVNEloalVYaTZSdmhWYUlUVzBnNVhuSlR1M2J6QTQ2Tnc5UWRHYUhuRXdDeXhOTlZnRjNOMi1fa1Y4VHY2ZzBKSjYyWURzR1FvckdWZHhDamxHUmpWWTh1NW5KUGs3eFJMSlpwcWxMMzhI?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 25 Sep 2026 05:48:00 GMT",
+        "base_score": 31,
+        "candidate_score": 39,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Injury",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
       {
-        "external_id": "fb0e92f10a8fa30c52007618",
+        "external_id": "b79bad079cdfa8be6bcd4ec4",
         "mode": "geopolitico",
-        "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - A Haber",
+        "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - ahaber.com.tr",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT09tUkpqaVRhNVdQV3NUdER2OHlXNzRjM0ZEcVM3MW9pZVdnUkJELVZYaDYxUmxhbV8yRF9fNklRcjBNM3lkZVdrSmVPd0h2VmJyQzNISUxnd19nMGh4a1VDaFNrcUs4TEFpaVZBQTN0ai1GdU04YW9sNE5jMTB1MWJVMlp1UEp4Q1lPUjNuMDRuSGFPU3NrZ1RxRnNVbGpnR2ZTQk10YkVYcXdqek1OSGxYTU1pVWs?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 26 Sep 2026 14:55:36 GMT",
@@ -168,9 +167,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "faefe9aaf82d9060de5224dd",
+        "external_id": "828f104a257e2cd7012ec2c1",
         "mode": "geopolitico",
-        "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - A Haber",
+        "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - ahaber.com.tr",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVREUzQza19VWEJ4bHI5b3huRmZPdXNQMDJfVmJnaGFnZlNBOFUtNEJfczVWUVRiTTgyN3JOYm5NNkxUZTVhdGx6XzRPbkZMaWtOdDc2Z1JYWVVwWGQ2X1BUejAtTHZSX3dHMnRZUXFxWVpUVnotNHNtaXluYlM5M0JWNkVmaGxLOGhNRjdnOVlTWnF4ZS1UUVVXd3F4UVFSR3FqbHdxZ0V2OEdtR2FmZWVR?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 26 Sep 2026 14:10:24 GMT",
@@ -205,6 +204,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "0d2050605e6dd839219bd4aa",
+        "mode": "geopolitico",
+        "title": "﻿Netanyahu ile 'dostluk' Yunanistan'ı karıştırdı! Miçotakis'i topa tuttular: Türkiye ne yapıyor biz ne yapıyoruz - STAR - Haberler",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHRRcFFUN180V1JvM3BKRER0S2FSN3A1RmFsSmpudlYtMFNnTHJvZnJVQkZreFp1Qy1aQTVieTFYWUVCczRtT3BKOTdBVjZkUlZKWFRMUmhMajNCQnFGbUNQQUVzeDBGNXh0NTU4ekdnOHJqNGRPTlBTcmo2NUliSjZyTjlEdWhIMmh0NDRlRE9RN2VUbElHakJHcXpXTUVwMnhDSGlNMUx5U0RGSUMtc1g2LTFRRmEwODI1VVU0SUg3NFlwT0dXc3NsbnJOMjJ00gHTAUFVX3lxTE4xTE9tLXJBZ3BhbDU2dXZWYWp2c0NxbGE3NlZVeXg1bWJJcXlEcEJMNmxaNUFRTTZRRUNRSnhuSU5SRjJsbm52MHZtWjJ4TDRPbGxZMEZpNm1SX29hMUlBYTBYcTdoSlRfcUZKMDdDMHgyQ2o0bGhnYmNjSVVuSENIYkVGMmplMFNral9pX0JHd0hMcjlDbEZIY1ZieWFmME03V2tCdlYzMmRzbW4yWUx0T1Itd21rUnNFZ3hsYVRPQmE4SzNvclhfS3E1UG1DZGJiMk0?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sat, 26 Sep 2026 17:17:00 GMT",
+        "base_score": 94,
+        "candidate_score": 109,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Netanyahu",
+          "Miçotakis"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "5bb2928d007dbe77550da416",
         "mode": "geopolitico",
         "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - Anadolu Ajansı",
@@ -216,25 +232,6 @@
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
-          "Netanyahu",
-          "Miçotakis",
-          "görüşme",
-          "tepki"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "d89f8fe8e2aa106d2c0867bd",
-        "mode": "geopolitico",
-        "title": "Yunan muhalefetinden Miçotakis'e Netanyahu görüşmesi tepkisi - Ege Alternatif",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXplNkUxa013dUw0eEMtTmdzQlNOWXF0ZFMzbzcyb1VPd1l5Szh2bThzSWMtX3JhaXpTZ3E4RzNYYURFYkUxVVZxcHhFMDV4OXpfM292VEhUc09CNHZLZ2RVVzRTTlVKT253Z2VfT2t0eXJkaUdvQ2tyR3FJbkZ2cGVqOV9pM0l6NUoyOW1qRUVTbkJ3Smtrd0xOWEhuclAxc2M5akVn?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 26 Sep 2026 00:13:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Ege",
           "Netanyahu",
           "Miçotakis",
           "görüşme",
@@ -279,9 +276,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "9046b20fbb3fa1a64b2a3358",
+        "external_id": "7df034c4688f23c10d8b0b19",
         "mode": "geopolitico",
-        "title": "India vs Pakistan at UNGA: Diplomats trade charges over terrorism, Kashmir & Indus water treaty - The Economic Times",
+        "title": "India vs Pakistan at UNGA: Diplomats trade charges over terrorism, Kashmir & Indus water treaty - economictimes.com",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd0xXbDU3bUVjRktWVGJqcWczclBGeXpUZng1alpwMEoycEFBdWlVdTZIX3FyRFZjeDVIVnQ3VldGVjdlTGN3dWZVcGJMdmczNzZYU2MwR1l4QkJwVkFqeHJ3dy0wUHk4bTVwQWltblZlTVVNbTY0a2t1d3R2eVNtNGY5VkNGWl9yX3BBcm1yX2k3UzFBeVJDOGQzWGpPZC1kYlR6dmtPXzY0NVphSzJ1bV9sYmE2bzdYZUtKQnRTb1ZKdnBJdzVPSHJGNHJ0YUNHSDZrSDY1X2xlT2RKcDRKZGhHb3lLUnd4ZEHSAe8BQVVfeXFMT0lOdGxxX3BhSm5MYUhRLTFPclM0b29pM0FfNzBhRUg3SWdQaWxkZG9NaFpqMFM4OS1hQmRpOUppVGVTWWJLMV9CYzN1ZHNZSWwxYnBtNUdOcFJpM2ZiSHBad1RHOHByN2taN0NSTUxQd0VCTnpOcXBwUWliUmdPeVpmYy1NcnlqQVY3dzZsMzk3dDdtTElJb0l6LXNPS1FJOHpMY2RMemIyMzZxYjVVWDJESlJOZHJsY0FOZWJ1aEdhM2FZRjJrVzN0OFdhOFFCM1hPT25lR2tyTUVlZE5BVXpoWU55N3JWMUdXLW03Z0U?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sat, 26 Sep 2026 12:18:17 GMT",
@@ -466,26 +463,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "6eb3dca34e7bc0c23e563d82",
-      "mode": "sportdog",
-      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 26 Sep 2026 05:57:40 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "954d194c7f8b6db1d33b5418",
       "mode": "sportdog",
       "title": "Panathinaikos’ French trio leads win over Paris - TalkBasket.net",
@@ -545,9 +522,28 @@
       "needs_second_source": true
     },
     {
-      "external_id": "fb0e92f10a8fa30c52007618",
+      "external_id": "f3b6759e93ef78b635225b1e",
+      "mode": "sportdog",
+      "title": "Zeljko Obradovic reveals the status of injured Panathinaikos players - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG15aGg1VzRsMEZ3eHhWQ2VJYVdoalRka0h6aTFJeU5XRHgwMC1UMmRJb1lJVG85YXhuam1Bc0NnNnJVNEloalVYaTZSdmhWYUlUVzBnNVhuSlR1M2J6QTQ2Tnc5UWRHYUhuRXdDeXhOTlZnRjNOMi1fa1Y4VHY2ZzBKSjYyWURzR1FvckdWZHhDamxHUmpWWTh1NW5KUGs3eFJMSlpwcWxMMzhI?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 25 Sep 2026 05:48:00 GMT",
+      "base_score": 31,
+      "candidate_score": 39,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Injury",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "b79bad079cdfa8be6bcd4ec4",
       "mode": "geopolitico",
-      "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - A Haber",
+      "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - ahaber.com.tr",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT09tUkpqaVRhNVdQV3NUdER2OHlXNzRjM0ZEcVM3MW9pZVdnUkJELVZYaDYxUmxhbV8yRF9fNklRcjBNM3lkZVdrSmVPd0h2VmJyQzNISUxnd19nMGh4a1VDaFNrcUs4TEFpaVZBQTN0ai1GdU04YW9sNE5jMTB1MWJVMlp1UEp4Q1lPUjNuMDRuSGFPU3NrZ1RxRnNVbGpnR2ZTQk10YkVYcXdqek1OSGxYTU1pVWs?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 26 Sep 2026 14:55:36 GMT",
@@ -563,9 +559,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "faefe9aaf82d9060de5224dd",
+      "external_id": "828f104a257e2cd7012ec2c1",
       "mode": "geopolitico",
-      "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - A Haber",
+      "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - ahaber.com.tr",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVREUzQza19VWEJ4bHI5b3huRmZPdXNQMDJfVmJnaGFnZlNBOFUtNEJfczVWUVRiTTgyN3JOYm5NNkxUZTVhdGx6XzRPbkZMaWtOdDc2Z1JYWVVwWGQ2X1BUejAtTHZSX3dHMnRZUXFxWVpUVnotNHNtaXluYlM5M0JWNkVmaGxLOGhNRjdnOVlTWnF4ZS1UUVVXd3F4UVFSR3FqbHdxZ0V2OEdtR2FmZWVR?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 26 Sep 2026 14:10:24 GMT",
@@ -600,6 +596,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "0d2050605e6dd839219bd4aa",
+      "mode": "geopolitico",
+      "title": "﻿Netanyahu ile 'dostluk' Yunanistan'ı karıştırdı! Miçotakis'i topa tuttular: Türkiye ne yapıyor biz ne yapıyoruz - STAR - Haberler",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHRRcFFUN180V1JvM3BKRER0S2FSN3A1RmFsSmpudlYtMFNnTHJvZnJVQkZreFp1Qy1aQTVieTFYWUVCczRtT3BKOTdBVjZkUlZKWFRMUmhMajNCQnFGbUNQQUVzeDBGNXh0NTU4ekdnOHJqNGRPTlBTcmo2NUliSjZyTjlEdWhIMmh0NDRlRE9RN2VUbElHakJHcXpXTUVwMnhDSGlNMUx5U0RGSUMtc1g2LTFRRmEwODI1VVU0SUg3NFlwT0dXc3NsbnJOMjJ00gHTAUFVX3lxTE4xTE9tLXJBZ3BhbDU2dXZWYWp2c0NxbGE3NlZVeXg1bWJJcXlEcEJMNmxaNUFRTTZRRUNRSnhuSU5SRjJsbm52MHZtWjJ4TDRPbGxZMEZpNm1SX29hMUlBYTBYcTdoSlRfcUZKMDdDMHgyQ2o0bGhnYmNjSVVuSENIYkVGMmplMFNral9pX0JHd0hMcjlDbEZIY1ZieWFmME03V2tCdlYzMmRzbW4yWUx0T1Itd21rUnNFZ3hsYVRPQmE4SzNvclhfS3E1UG1DZGJiMk0?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sat, 26 Sep 2026 17:17:00 GMT",
+      "base_score": 94,
+      "candidate_score": 109,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Netanyahu",
+        "Miçotakis"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "5bb2928d007dbe77550da416",
       "mode": "geopolitico",
       "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - Anadolu Ajansı",
@@ -611,25 +624,6 @@
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
-        "Netanyahu",
-        "Miçotakis",
-        "görüşme",
-        "tepki"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "d89f8fe8e2aa106d2c0867bd",
-      "mode": "geopolitico",
-      "title": "Yunan muhalefetinden Miçotakis'e Netanyahu görüşmesi tepkisi - Ege Alternatif",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXplNkUxa013dUw0eEMtTmdzQlNOWXF0ZFMzbzcyb1VPd1l5Szh2bThzSWMtX3JhaXpTZ3E4RzNYYURFYkUxVVZxcHhFMDV4OXpfM292VEhUc09CNHZLZ2RVVzRTTlVKT253Z2VfT2t0eXJkaUdvQ2tyR3FJbkZ2cGVqOV9pM0l6NUoyOW1qRUVTbkJ3Smtrd0xOWEhuclAxc2M5akVn?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 26 Sep 2026 00:13:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Ege",
         "Netanyahu",
         "Miçotakis",
         "görüşme",
@@ -674,9 +668,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "9046b20fbb3fa1a64b2a3358",
+      "external_id": "7df034c4688f23c10d8b0b19",
       "mode": "geopolitico",
-      "title": "India vs Pakistan at UNGA: Diplomats trade charges over terrorism, Kashmir & Indus water treaty - The Economic Times",
+      "title": "India vs Pakistan at UNGA: Diplomats trade charges over terrorism, Kashmir & Indus water treaty - economictimes.com",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd0xXbDU3bUVjRktWVGJqcWczclBGeXpUZng1alpwMEoycEFBdWlVdTZIX3FyRFZjeDVIVnQ3VldGVjdlTGN3dWZVcGJMdmczNzZYU2MwR1l4QkJwVkFqeHJ3dy0wUHk4bTVwQWltblZlTVVNbTY0a2t1d3R2eVNtNGY5VkNGWl9yX3BBcm1yX2k3UzFBeVJDOGQzWGpPZC1kYlR6dmtPXzY0NVphSzJ1bV9sYmE2bzdYZUtKQnRTb1ZKdnBJdzVPSHJGNHJ0YUNHSDZrSDY1X2xlT2RKcDRKZGhHb3lLUnd4ZEHSAe8BQVVfeXFMT0lOdGxxX3BhSm5MYUhRLTFPclM0b29pM0FfNzBhRUg3SWdQaWxkZG9NaFpqMFM4OS1hQmRpOUppVGVTWWJLMV9CYzN1ZHNZSWwxYnBtNUdOcFJpM2ZiSHBad1RHOHByN2taN0NSTUxQd0VCTnpOcXBwUWliUmdPeVpmYy1NcnlqQVY3dzZsMzk3dDdtTElJb0l6LXNPS1FJOHpMY2RMemIyMzZxYjVVWDJESlJOZHJsY0FOZWJ1aEdhM2FZRjJrVzN0OFdhOFFCM1hPT25lR2tyTUVlZE5BVXpoWU55N3JWMUdXLW03Z0U?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sat, 26 Sep 2026 12:18:17 GMT",
