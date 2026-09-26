@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-26T19:32:45.598977+00:00",
+  "generated_at": "2026-09-26T19:45:33.122455+00:00",
   "counts": {
-    "sportdog": 4,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "9cfe2602376f3732eed26887",
+        "external_id": "d4bb4f695723dadadac3e782",
         "mode": "sportdog",
-        "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - sports.yahoo.com",
+        "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTE15ZXpTcmhfR1dCMEVyWXNsaTZLUGRUQzhEaFYtbDFRSFhNa0ZDdDFLZE10eWYteDFDRWFiRjN4OEphTjRYdWFLUXpERGNULU05djFiTmZOS0JxVzkweTBKT2l2aG9sUGhTWWh6QW1EOGhTR0NhZmFqT2pQb056a1JJY3VfRnM?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Sat, 26 Sep 2026 18:34:59 GMT",
@@ -63,6 +63,26 @@
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6eb3dca34e7bc0c23e563d82",
+        "mode": "sportdog",
+        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sat, 26 Sep 2026 05:57:40 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
         "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -144,25 +164,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "e09eed8b326a4077fe73bd61",
-        "mode": "geopolitico",
-        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
-        "source": "TRT Haber Greece Watch",
-        "published": "Sat, 26 Sep 2026 11:39:00 GMT",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Netanyahu",
-          "Miçotakis",
-          "görüşme",
-          "tepki"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "5cd1b5eba69248ae650f8f5a",
         "mode": "geopolitico",
         "title": "‘Serial practitioner of terrorism’: Jaishankar tears into Pakistan at UN after Shehbaz Sharif raises Kashmir - The Indian Express",
@@ -181,9 +182,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "2e05748792cc54380438b3af",
+        "external_id": "454056e301aadd2000e3aec9",
         "mode": "geopolitico",
-        "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - newindianexpress.com",
+        "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - The New Indian Express",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmNNREV2ZG56QnJ5QnFTYm02WUMwanFXTllwRVNodXhHTlQxQ0lQYkdEN3loWUdtVDI0LW9IZF9BNDlFbVZrbXFUSDFGSGNwVjBZOVRnQWNfR0VrZnVTcW13ZHdzMElpVDUyOGhldDRVMnoxTGJJc01qWGlEWVhkbDFxamN4R2Q0bFl2a2pMQ3lhVUxBZkU0TzhQRmlDQS1KbW1FR1NuV3ZqclhhTk45azBPdVllU1RJdVF2NE54dGpUOWkxLUl1bjNfeFRZTGs0VExhdTh6RlN0OU54ck9VaVVma9IB8AFBVV95cUxNWk5NdUc2MHFrX1JnckV0WDkyQWgwTndueERmWFNQa2hNQkNlSHRIQnlSZzc2aDRwTW1XcEpUZU00eXd4Z0h0TmtCMnBLV3FWTEp0YjFuS2Vhd19rbVhJMzdMSGZKSjhSeXFxcVVxb2ppZmJtY3VoR2FjSC10NE1XanhKRVQzMm96eGJ4LW1nQ3lhUkw3SUF0ZEtuMXRfUlQ5Yk9rOGhZbjNRaG51SXVxdndGTHNaWURkOUx6bXlmX01IaVhvUlMyem1jdkMtUXhMUUI0Y2Zfd3lpd3AzZllBT2xuV29UUEM0cjRiUXRydzg?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sat, 26 Sep 2026 18:21:40 GMT",
@@ -213,6 +214,25 @@
           "Pakistan",
           "Jaishankar",
           "terrorism"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e09eed8b326a4077fe73bd61",
+        "mode": "geopolitico",
+        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
+        "source": "TRT Haber Greece Watch",
+        "published": "Sat, 26 Sep 2026 11:39:00 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Netanyahu",
+          "Miçotakis",
+          "görüşme",
+          "tepki"
         ],
         "content_type": "news"
       },
@@ -344,9 +364,9 @@
   },
   "items": [
     {
-      "external_id": "9cfe2602376f3732eed26887",
+      "external_id": "d4bb4f695723dadadac3e782",
       "mode": "sportdog",
-      "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - sports.yahoo.com",
+      "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTE15ZXpTcmhfR1dCMEVyWXNsaTZLUGRUQzhEaFYtbDFRSFhNa0ZDdDFLZE10eWYteDFDRWFiRjN4OEphTjRYdWFLUXpERGNULU05djFiTmZOS0JxVzkweTBKT2l2aG9sUGhTWWh6QW1EOGhTR0NhZmFqT2pQb056a1JJY3VfRnM?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Sat, 26 Sep 2026 18:34:59 GMT",
@@ -399,6 +419,26 @@
       ],
       "content_type": "news",
       "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6eb3dca34e7bc0c23e563d82",
+      "mode": "sportdog",
+      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sat, 26 Sep 2026 05:57:40 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
       "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -478,25 +518,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "e09eed8b326a4077fe73bd61",
-      "mode": "geopolitico",
-      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
-      "source": "TRT Haber Greece Watch",
-      "published": "Sat, 26 Sep 2026 11:39:00 GMT",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Netanyahu",
-        "Miçotakis",
-        "görüşme",
-        "tepki"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "5cd1b5eba69248ae650f8f5a",
       "mode": "geopolitico",
       "title": "‘Serial practitioner of terrorism’: Jaishankar tears into Pakistan at UN after Shehbaz Sharif raises Kashmir - The Indian Express",
@@ -515,9 +536,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "2e05748792cc54380438b3af",
+      "external_id": "454056e301aadd2000e3aec9",
       "mode": "geopolitico",
-      "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - newindianexpress.com",
+      "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - The New Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmNNREV2ZG56QnJ5QnFTYm02WUMwanFXTllwRVNodXhHTlQxQ0lQYkdEN3loWUdtVDI0LW9IZF9BNDlFbVZrbXFUSDFGSGNwVjBZOVRnQWNfR0VrZnVTcW13ZHdzMElpVDUyOGhldDRVMnoxTGJJc01qWGlEWVhkbDFxamN4R2Q0bFl2a2pMQ3lhVUxBZkU0TzhQRmlDQS1KbW1FR1NuV3ZqclhhTk45azBPdVllU1RJdVF2NE54dGpUOWkxLUl1bjNfeFRZTGs0VExhdTh6RlN0OU54ck9VaVVma9IB8AFBVV95cUxNWk5NdUc2MHFrX1JnckV0WDkyQWgwTndueERmWFNQa2hNQkNlSHRIQnlSZzc2aDRwTW1XcEpUZU00eXd4Z0h0TmtCMnBLV3FWTEp0YjFuS2Vhd19rbVhJMzdMSGZKSjhSeXFxcVVxb2ppZmJtY3VoR2FjSC10NE1XanhKRVQzMm96eGJ4LW1nQ3lhUkw3SUF0ZEtuMXRfUlQ5Yk9rOGhZbjNRaG51SXVxdndGTHNaWURkOUx6bXlmX01IaVhvUlMyem1jdkMtUXhMUUI0Y2Zfd3lpd3AzZllBT2xuV29UUEM0cjRiUXRydzg?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sat, 26 Sep 2026 18:21:40 GMT",
@@ -547,6 +568,25 @@
         "Pakistan",
         "Jaishankar",
         "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e09eed8b326a4077fe73bd61",
+      "mode": "geopolitico",
+      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
+      "source": "TRT Haber Greece Watch",
+      "published": "Sat, 26 Sep 2026 11:39:00 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Netanyahu",
+        "Miçotakis",
+        "görüşme",
+        "tepki"
       ],
       "content_type": "news"
     },
