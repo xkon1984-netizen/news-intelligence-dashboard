@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T17:00:03.211440+00:00",
+  "generated_at": "2026-09-26T17:20:39.845076+00:00",
   "counts": {
     "sportdog": 7,
     "geopolitico": 8,
@@ -28,12 +28,12 @@
         "needs_second_source": false
       },
       {
-        "external_id": "0c1cd3c2a6f6188085feec8d",
+        "external_id": "bb3689de044277182678666d",
         "mode": "sportdog",
-        "title": "Olympiacos Eyeing OFI Goalkeeper as Panathinaikos Complicates Move - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONU55bkVkY3pEUjI5UzhIMmgzVWxwMU9TRC1VZkpuZkU5bS0wYlViUWtHdGRiczZFazNSb015R3ZocEpZSmp2a3laVDloMUs0VmpEeVJkQk5wNmw4TXh1eVBseEozaFlFV3lQNkZMQ0d4X1VmZFB3OC1NMm43V2NRVEhwV2NvRWNfNGtlaTAwbU5hNTh6UzR5Rk5mcw?oc=5",
+        "title": "Olympiacos Eyeing OFI Goalkeeper as Panathinaikos Complicates Move - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDJUM1hIWWxNMWdyWTQtQXdPSEl4bGRjR3FTdXJuWlFSeEhOQmVYeWRJWHg2SnJtbzZBajdvRjFMNjJyX0hWaVZTdGVZcFhSdjlIQnhjOS12OWVWSjhWTU9oMUt3RW5DS201NWdfLXdzV0h4MEF4dGkwSC1GTWVXODBvbnk1OTBScWRfWnJIWU5wRjlRZ2d2MHY5NWhUVXBWSE40MndfMkREZHh5V1NXMzFUZXd1S09zbjJzcTRqckM?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 25 Sep 2026 05:59:00 GMT",
+        "published": "Fri, 25 Sep 2026 06:23:34 GMT",
         "base_score": 70,
         "candidate_score": 86,
         "priority": "High",
@@ -64,6 +64,26 @@
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6eb3dca34e7bc0c23e563d82",
+        "mode": "sportdog",
+        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sat, 26 Sep 2026 05:57:40 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
         "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -126,25 +146,6 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "f3b6759e93ef78b635225b1e",
-        "mode": "sportdog",
-        "title": "Zeljko Obradovic reveals the status of injured Panathinaikos players - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG15aGg1VzRsMEZ3eHhWQ2VJYVdoalRka0h6aTFJeU5XRHgwMC1UMmRJb1lJVG85YXhuam1Bc0NnNnJVNEloalVYaTZSdmhWYUlUVzBnNVhuSlR1M2J6QTQ2Tnc5UWRHYUhuRXdDeXhOTlZnRjNOMi1fa1Y4VHY2ZzBKSjYyWURzR1FvckdWZHhDamxHUmpWWTh1NW5KUGs3eFJMSlpwcWxMMzhI?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 25 Sep 2026 05:48:00 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Injury",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -174,7 +175,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 26 Sep 2026 14:10:24 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Miçotakis",
@@ -204,9 +205,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "ac88a80ca7e67176f2e978ad",
+        "external_id": "5bb2928d007dbe77550da416",
         "mode": "geopolitico",
-        "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - aa.com.tr",
+        "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - Anadolu Ajansı",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM0N0WmZkMFhhdWdpZERyelFZUlE3amwzNnAxSEh3bmZZSHlMQXRfQkZKSVpubXZNeHJhN3hJejM4TUN3dU1oU2xhYW5wdWcyZkFFZnkzbl9kTzM0eE5TZ2VGekhHbzcyaWhFTWRRU0k1dlY3bTloaUJYVUlDRVdwTkIzRlAzT3VTRVFYWjlWeTZIaDRIa3ljNlpHNjFHd2NLWmIwNkJzNnZMcHVJc1B5YlRPVW1DVHRENC1WTzZIR1VIcVNOLWxvaWh6V3hzUHc?oc=5",
         "source": "Anadolu Greece Watch",
         "published": "Sat, 26 Sep 2026 08:10:54 GMT",
@@ -278,20 +279,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "b13820d62b7d3104cd21e15e",
+        "external_id": "9046b20fbb3fa1a64b2a3358",
         "mode": "geopolitico",
-        "title": "#WATCH | 🚨 “A terrorist country is asking me that question.” External Affairs Minister S Jaishankar hit back at a Pakistani reporter's question on terrorism during a press conference on the sidelines of the 81st UNGA A Pakistani reporter interrupted and tried to r - LinkedIn",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObnJGcGZmVXZWcEtRbkNkQkdPb0dHVkFaQlRibENtdU1lTG1PckliLXdDVHBDc0xodExMdmxTQ2hBTmktWXRfVTZ0TklKeFFkUFdnV2VnSDk1eVFDMi16WFgxNkVvTjVzQmU4S3FJLXFGLTVoMW9mS2lKSVQ1UWFNY1F1X1BIT2hPYTVNZjE4dmN4QmRUdWdQZnZuTjdZb2NNSlE?oc=5",
+        "title": "India vs Pakistan at UNGA: Diplomats trade charges over terrorism, Kashmir & Indus water treaty - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd0xXbDU3bUVjRktWVGJqcWczclBGeXpUZng1alpwMEoycEFBdWlVdTZIX3FyRFZjeDVIVnQ3VldGVjdlTGN3dWZVcGJMdmczNzZYU2MwR1l4QkJwVkFqeHJ3dy0wUHk4bTVwQWltblZlTVVNbTY0a2t1d3R2eVNtNGY5VkNGWl9yX3BBcm1yX2k3UzFBeVJDOGQzWGpPZC1kYlR6dmtPXzY0NVphSzJ1bV9sYmE2bzdYZUtKQnRTb1ZKdnBJdzVPSHJGNHJ0YUNHSDZrSDY1X2xlT2RKcDRKZGhHb3lLUnd4ZEHSAe8BQVVfeXFMT0lOdGxxX3BhSm5MYUhRLTFPclM0b29pM0FfNzBhRUg3SWdQaWxkZG9NaFpqMFM4OS1hQmRpOUppVGVTWWJLMV9CYzN1ZHNZSWwxYnBtNUdOcFJpM2ZiSHBad1RHOHByN2taN0NSTUxQd0VCTnpOcXBwUWliUmdPeVpmYy1NcnlqQVY3dzZsMzk3dDdtTElJb0l6LXNPS1FJOHpMY2RMemIyMzZxYjVVWDJESlJOZHJsY0FOZWJ1aEdhM2FZRjJrVzN0OFdhOFFCM1hPT25lR2tyTUVlZE5BVXpoWU55N3JWMUdXLW03Z0U?oc=5",
         "source": "Pakistan Security Watch",
-        "published": "Sat, 26 Sep 2026 05:01:38 GMT",
-        "base_score": 88,
-        "candidate_score": 94,
-        "priority": "High",
+        "published": "Sat, 26 Sep 2026 12:18:17 GMT",
+        "base_score": 85,
+        "candidate_score": 95,
+        "priority": "URGENT",
         "matched_keywords": [
+          "India",
           "Pakistan",
-          "Pakistani",
-          "Jaishankar",
-          "terrorism"
+          "terrorism",
+          "trade"
         ],
         "content_type": "news"
       }
@@ -332,6 +333,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "aa483dfa60f4b736a6e4676c",
+        "mode": "pontos_voice",
+        "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε νέο τοπόσημο – Στις 4 Οκτωβρίου τα επίσημα αποκαλυπτήρια - XanthiPost.gr",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPVnptbkJSLUh4ZEQxQXlpdXl1MFhpYkhhU3lwb0JCb2x5RHpHd2g1Q2NfWjlPZndxaC1rS1gwTjB2Y2t0RURxRlQ4OGdXQnJSZURHZW11NE00VFEzV3d1dkJldVNFaDlSVUprVUpQUVBMUXM2bFhhVzNQUlhvUmlGWDR0Y2dlZklTS1NqMkdXWGViM0VTUUQzckxVZnAxQVgyMW9LM3RfTFFDUy1SbDhfSllyQlp5bVJQUkZ4R1RQMHA4WThOWDVoRkJNVFhnczBMU0dZd01IRTIyRktYVXRFbVdwNVlmMVh3U1VabXluT2l1angybUdPbGNiaWRBRGJGVkdqb3VTR1l6b0RqRXdEbHV3bENta3JzTTJEOENma2NfZTBSeGsyR3hxaWRQRlIzMTJGZWs4N3IzQ1B4RDM1dFBnOUQybklKVjBTTlZGWXg?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 26 Sep 2026 08:40:00 GMT",
+        "base_score": 86,
+        "candidate_score": 92,
+        "priority": "High",
+        "matched_keywords": [
+          "ποντιακή",
+          "ποντιακή λύρα",
+          "λύρα"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "ec44f7f9c762315bc9fc568f",
         "mode": "pontos_voice",
         "title": "Trabzon’da manastır yolu krizi! Taşlarla kapatıp tabela astılar",
@@ -339,30 +357,13 @@
         "source": "61Saat Trabzon",
         "published": "Sat, 26 Sep 2026 17:06:00 +0300",
         "base_score": 80,
-        "candidate_score": 95,
-        "priority": "URGENT",
+        "candidate_score": 90,
+        "priority": "High",
         "matched_keywords": [
           "Trabzon",
           "manastır",
           "manastır",
           "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "ebe90f1640ea2410bbcce06c",
-        "mode": "pontos_voice",
-        "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1Q3d3otcXNCbHRkUkZJNW9xYXdIeGltbkdjQTV0UjhRX3B2Sk1ZOW9LcnIwaldZejRKMUdFdlY4M19rQ3RHRTNtZFZWWllfM2hNUkl0LW1QamNpNGptTngzQkN1TXhEamdoSDNlUkQxb1dab2J5M3hlc3pqeHc0N05HbWRFUFBUTlRmV2RVVmRKSy1NZk9tMjRmR0lNeVZEM2k1aWpNSU0zSjFqZ2FuY1duWmoyLXVrelVOQ2trTmZSUFdjZVVEd3A0SUpGMXlPbFHSAdcBQVVfeXFMTXZDbTJSZkhORHhRbmQyTWlQeHJ5bjQxSWlLS3A3SmItODJpdW1wV3VEeXhITUZjeWNITjNvNUNCdU83VTZSZ1k5cmVfMFdmbVZrLUlOam9IcGswRDZlNDVMck0zRnBVdzRsTnN3Rk1SdG1nbGE0YUF3TmJtREZhTHZTelZmUU9BWldSbEx1cnVKZ0VjblFfUG96SUdjRE51S21ZQzdCNlV1akZfbklhY2VxM2JPQlU3bExGQ1VCN2pPTVNrOWh6NzhnZHp4RkRqTE1zWnRsMk0?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Fri, 25 Sep 2026 05:58:00 GMT",
-        "base_score": 86,
-        "candidate_score": 86,
-        "priority": "High",
-        "matched_keywords": [
-          "ποντιακή",
-          "ποντιακή λύρα",
-          "λύρα"
         ],
         "content_type": "news"
       },
@@ -424,12 +425,12 @@
       "needs_second_source": false
     },
     {
-      "external_id": "0c1cd3c2a6f6188085feec8d",
+      "external_id": "bb3689de044277182678666d",
       "mode": "sportdog",
-      "title": "Olympiacos Eyeing OFI Goalkeeper as Panathinaikos Complicates Move - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONU55bkVkY3pEUjI5UzhIMmgzVWxwMU9TRC1VZkpuZkU5bS0wYlViUWtHdGRiczZFazNSb015R3ZocEpZSmp2a3laVDloMUs0VmpEeVJkQk5wNmw4TXh1eVBseEozaFlFV3lQNkZMQ0d4X1VmZFB3OC1NMm43V2NRVEhwV2NvRWNfNGtlaTAwbU5hNTh6UzR5Rk5mcw?oc=5",
+      "title": "Olympiacos Eyeing OFI Goalkeeper as Panathinaikos Complicates Move - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDJUM1hIWWxNMWdyWTQtQXdPSEl4bGRjR3FTdXJuWlFSeEhOQmVYeWRJWHg2SnJtbzZBajdvRjFMNjJyX0hWaVZTdGVZcFhSdjlIQnhjOS12OWVWSjhWTU9oMUt3RW5DS201NWdfLXdzV0h4MEF4dGkwSC1GTWVXODBvbnk1OTBScWRfWnJIWU5wRjlRZ2d2MHY5NWhUVXBWSE40MndfMkREZHh5V1NXMzFUZXd1S09zbjJzcTRqckM?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 25 Sep 2026 05:59:00 GMT",
+      "published": "Fri, 25 Sep 2026 06:23:34 GMT",
       "base_score": 70,
       "candidate_score": 86,
       "priority": "High",
@@ -460,6 +461,26 @@
       ],
       "content_type": "news",
       "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6eb3dca34e7bc0c23e563d82",
+      "mode": "sportdog",
+      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sat, 26 Sep 2026 05:57:40 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
       "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -524,25 +545,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f3b6759e93ef78b635225b1e",
-      "mode": "sportdog",
-      "title": "Zeljko Obradovic reveals the status of injured Panathinaikos players - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG15aGg1VzRsMEZ3eHhWQ2VJYVdoalRka0h6aTFJeU5XRHgwMC1UMmRJb1lJVG85YXhuam1Bc0NnNnJVNEloalVYaTZSdmhWYUlUVzBnNVhuSlR1M2J6QTQ2Tnc5UWRHYUhuRXdDeXhOTlZnRjNOMi1fa1Y4VHY2ZzBKSjYyWURzR1FvckdWZHhDamxHUmpWWTh1NW5KUGs3eFJMSlpwcWxMMzhI?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 25 Sep 2026 05:48:00 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Injury",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "fb0e92f10a8fa30c52007618",
       "mode": "geopolitico",
       "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - A Haber",
@@ -568,7 +570,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 26 Sep 2026 14:10:24 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Miçotakis",
@@ -598,9 +600,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "ac88a80ca7e67176f2e978ad",
+      "external_id": "5bb2928d007dbe77550da416",
       "mode": "geopolitico",
-      "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - aa.com.tr",
+      "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM0N0WmZkMFhhdWdpZERyelFZUlE3amwzNnAxSEh3bmZZSHlMQXRfQkZKSVpubXZNeHJhN3hJejM4TUN3dU1oU2xhYW5wdWcyZkFFZnkzbl9kTzM0eE5TZ2VGekhHbzcyaWhFTWRRU0k1dlY3bTloaUJYVUlDRVdwTkIzRlAzT3VTRVFYWjlWeTZIaDRIa3ljNlpHNjFHd2NLWmIwNkJzNnZMcHVJc1B5YlRPVW1DVHRENC1WTzZIR1VIcVNOLWxvaWh6V3hzUHc?oc=5",
       "source": "Anadolu Greece Watch",
       "published": "Sat, 26 Sep 2026 08:10:54 GMT",
@@ -672,20 +674,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "b13820d62b7d3104cd21e15e",
+      "external_id": "9046b20fbb3fa1a64b2a3358",
       "mode": "geopolitico",
-      "title": "#WATCH | 🚨 “A terrorist country is asking me that question.” External Affairs Minister S Jaishankar hit back at a Pakistani reporter's question on terrorism during a press conference on the sidelines of the 81st UNGA A Pakistani reporter interrupted and tried to r - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObnJGcGZmVXZWcEtRbkNkQkdPb0dHVkFaQlRibENtdU1lTG1PckliLXdDVHBDc0xodExMdmxTQ2hBTmktWXRfVTZ0TklKeFFkUFdnV2VnSDk1eVFDMi16WFgxNkVvTjVzQmU4S3FJLXFGLTVoMW9mS2lKSVQ1UWFNY1F1X1BIT2hPYTVNZjE4dmN4QmRUdWdQZnZuTjdZb2NNSlE?oc=5",
+      "title": "India vs Pakistan at UNGA: Diplomats trade charges over terrorism, Kashmir & Indus water treaty - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd0xXbDU3bUVjRktWVGJqcWczclBGeXpUZng1alpwMEoycEFBdWlVdTZIX3FyRFZjeDVIVnQ3VldGVjdlTGN3dWZVcGJMdmczNzZYU2MwR1l4QkJwVkFqeHJ3dy0wUHk4bTVwQWltblZlTVVNbTY0a2t1d3R2eVNtNGY5VkNGWl9yX3BBcm1yX2k3UzFBeVJDOGQzWGpPZC1kYlR6dmtPXzY0NVphSzJ1bV9sYmE2bzdYZUtKQnRTb1ZKdnBJdzVPSHJGNHJ0YUNHSDZrSDY1X2xlT2RKcDRKZGhHb3lLUnd4ZEHSAe8BQVVfeXFMT0lOdGxxX3BhSm5MYUhRLTFPclM0b29pM0FfNzBhRUg3SWdQaWxkZG9NaFpqMFM4OS1hQmRpOUppVGVTWWJLMV9CYzN1ZHNZSWwxYnBtNUdOcFJpM2ZiSHBad1RHOHByN2taN0NSTUxQd0VCTnpOcXBwUWliUmdPeVpmYy1NcnlqQVY3dzZsMzk3dDdtTElJb0l6LXNPS1FJOHpMY2RMemIyMzZxYjVVWDJESlJOZHJsY0FOZWJ1aEdhM2FZRjJrVzN0OFdhOFFCM1hPT25lR2tyTUVlZE5BVXpoWU55N3JWMUdXLW03Z0U?oc=5",
       "source": "Pakistan Security Watch",
-      "published": "Sat, 26 Sep 2026 05:01:38 GMT",
-      "base_score": 88,
-      "candidate_score": 94,
-      "priority": "High",
+      "published": "Sat, 26 Sep 2026 12:18:17 GMT",
+      "base_score": 85,
+      "candidate_score": 95,
+      "priority": "URGENT",
       "matched_keywords": [
+        "India",
         "Pakistan",
-        "Pakistani",
-        "Jaishankar",
-        "terrorism"
+        "terrorism",
+        "trade"
       ],
       "content_type": "news"
     },
@@ -724,6 +726,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "aa483dfa60f4b736a6e4676c",
+      "mode": "pontos_voice",
+      "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε νέο τοπόσημο – Στις 4 Οκτωβρίου τα επίσημα αποκαλυπτήρια - XanthiPost.gr",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPVnptbkJSLUh4ZEQxQXlpdXl1MFhpYkhhU3lwb0JCb2x5RHpHd2g1Q2NfWjlPZndxaC1rS1gwTjB2Y2t0RURxRlQ4OGdXQnJSZURHZW11NE00VFEzV3d1dkJldVNFaDlSVUprVUpQUVBMUXM2bFhhVzNQUlhvUmlGWDR0Y2dlZklTS1NqMkdXWGViM0VTUUQzckxVZnAxQVgyMW9LM3RfTFFDUy1SbDhfSllyQlp5bVJQUkZ4R1RQMHA4WThOWDVoRkJNVFhnczBMU0dZd01IRTIyRktYVXRFbVdwNVlmMVh3U1VabXluT2l1angybUdPbGNiaWRBRGJGVkdqb3VTR1l6b0RqRXdEbHV3bENta3JzTTJEOENma2NfZTBSeGsyR3hxaWRQRlIzMTJGZWs4N3IzQ1B4RDM1dFBnOUQybklKVjBTTlZGWXg?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 26 Sep 2026 08:40:00 GMT",
+      "base_score": 86,
+      "candidate_score": 92,
+      "priority": "High",
+      "matched_keywords": [
+        "ποντιακή",
+        "ποντιακή λύρα",
+        "λύρα"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "ec44f7f9c762315bc9fc568f",
       "mode": "pontos_voice",
       "title": "Trabzon’da manastır yolu krizi! Taşlarla kapatıp tabela astılar",
@@ -731,30 +750,13 @@
       "source": "61Saat Trabzon",
       "published": "Sat, 26 Sep 2026 17:06:00 +0300",
       "base_score": 80,
-      "candidate_score": 95,
-      "priority": "URGENT",
+      "candidate_score": 90,
+      "priority": "High",
       "matched_keywords": [
         "Trabzon",
         "manastır",
         "manastır",
         "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "ebe90f1640ea2410bbcce06c",
-      "mode": "pontos_voice",
-      "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1Q3d3otcXNCbHRkUkZJNW9xYXdIeGltbkdjQTV0UjhRX3B2Sk1ZOW9LcnIwaldZejRKMUdFdlY4M19rQ3RHRTNtZFZWWllfM2hNUkl0LW1QamNpNGptTngzQkN1TXhEamdoSDNlUkQxb1dab2J5M3hlc3pqeHc0N05HbWRFUFBUTlRmV2RVVmRKSy1NZk9tMjRmR0lNeVZEM2k1aWpNSU0zSjFqZ2FuY1duWmoyLXVrelVOQ2trTmZSUFdjZVVEd3A0SUpGMXlPbFHSAdcBQVVfeXFMTXZDbTJSZkhORHhRbmQyTWlQeHJ5bjQxSWlLS3A3SmItODJpdW1wV3VEeXhITUZjeWNITjNvNUNCdU83VTZSZ1k5cmVfMFdmbVZrLUlOam9IcGswRDZlNDVMck0zRnBVdzRsTnN3Rk1SdG1nbGE0YUF3TmJtREZhTHZTelZmUU9BWldSbEx1cnVKZ0VjblFfUG96SUdjRE51S21ZQzdCNlV1akZfbklhY2VxM2JPQlU3bExGQ1VCN2pPTVNrOWh6NzhnZHp4RkRqTE1zWnRsMk0?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Fri, 25 Sep 2026 05:58:00 GMT",
-      "base_score": 86,
-      "candidate_score": 86,
-      "priority": "High",
-      "matched_keywords": [
-        "ποντιακή",
-        "ποντιακή λύρα",
-        "λύρα"
       ],
       "content_type": "news"
     },
