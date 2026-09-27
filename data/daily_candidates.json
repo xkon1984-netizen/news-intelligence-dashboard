@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:47:38.383351+00:00",
+  "generated_at": "2026-09-27T17:59:53.676586+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -108,26 +108,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "6eb3dca34e7bc0c23e563d82",
-        "mode": "sportdog",
-        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 26 Sep 2026 05:57:40 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "6ae6f878754f9e2b3e3a044c",
         "mode": "sportdog",
         "title": "Panserraikos - Olympiacos Piraeus B - Flashscore.com",
@@ -162,6 +142,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6cc2e9bd8ba975a30d04f1a3",
+        "mode": "sportdog",
+        "title": "Iraklis Panathinaikos 08 November 2026 Live Score and Match Summary - Yeni Şafak English",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3dVcDdnTm14RUdyOXhnV01xTWZkRC1OVEYwQVBxenFENVBDa3V2NUZmZFcxaElfdFZfbW5oM0pudmRScU1QdE1CbVZ3NjBUS0dKRzQzcXo4X180SFo4OVFRQkxTOG1IN1RlXzJXS3RTS2RRX0JaSkg4LUJobExmU2lsRGZTZDBv?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 27 Sep 2026 08:57:52 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -225,9 +224,9 @@
     ],
     "geopolitico": [
       {
-        "external_id": "c0852713d538ed07bd4b6cec",
+        "external_id": "76522d13d70f4ee332915f3f",
         "mode": "geopolitico",
-        "title": "Pakistan army says 73 terrorists killed in 96-hour operations across Balochistan - India Today",
+        "title": "Pakistan army says 73 terrorists killed in 96-hour operations across Balochistan - indiatoday.in",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTjJRSzloNlNVd1B2YXJfeGdFNzNqY0NqRTcyS1RJUVhzR0lha3pVc203YUFpaF9GSG0xb0lXXzNfbHZROFVDUVBTbklqZmxYOEU2dWxiaGs3WUpRXzlpejhVQWtGNmJhSlZZWUtseFlvXzZIOEVuSTRiTjVSdHVwWkdVdlFnbFJqdlotbzMyMHZxaXp1ZzlUTlNYYlFEaGNqT21aQm4tMlNKVy0wQ3NFSmlMOVFCS1MyNXBsVWVSVnFPVzN0YkY2OU1KSDBwRldCTGNfOEVR0gHbAUFVX3lxTE1Ka0k1aS1wMUZCQi1RSHl4ZXpZQlZGNXVkblE4eUhWZmpZMmVTWFZBN2JtT3VMWHZ3SFlFcGZydExVZGxyaURnZTJ5bGFhcEp2MWE2TERNZm1RY0hHMlRiTm5UMUxWOEtqTnNpOHB1MS1MWnRUWlJZOFlILXZGSHhVem1sa0UzZElhODljSmM3Q3hqUW1xbXRVN3l0MDE1TGtNR08yLXFMOFQ0M2M2N25VLUtva28waHZSd1AwMjZPR2tnMC14NTVsT3M0eTA1T1gtNkJJa0dhSDJxSQ?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sun, 27 Sep 2026 13:18:33 GMT",
@@ -299,9 +298,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "073ce157014a4df4c86252cb",
+        "external_id": "36ac6ff08e4632569509d4f8",
         "mode": "geopolitico",
-        "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - thehindu.com",
+        "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - The Hindu",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ItRmY1NXRkWDRYdEdpTjkwRXkxQUM4WjJ6YkY2a2Z6c3ltc3hsMlNKblF4c0tDcGlzcjFEU1Jvdm13Q2V4SzBXNVVPN25RdGc0SHE5WV9GbXd2UU1BQUtPU0RHSm5DX0F3cFpMSEJkYjFZWHctSGhRZFNTZ0NiN25HM2ttbVRDb3fSAZABQVVfeXFMTUt0UWVISlR4ak5yb01IazNLQnFBeUZTS2dvY0NwWUwtSjByMS14RmRIbjJ5czhhaGVZOHh3X2NueV9ZUG5SUDVRXzliY3dkdjRjVlcxSDR0NXVRakVnR29oTWZsSmpCejZlT0tUUXhPQjVBUlZ0QlpnMkxhUmludVNWMG1SdWZrbUxJTW9COTFO?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sun, 27 Sep 2026 01:50:06 GMT",
@@ -576,26 +575,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "6eb3dca34e7bc0c23e563d82",
-      "mode": "sportdog",
-      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 26 Sep 2026 05:57:40 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "6ae6f878754f9e2b3e3a044c",
       "mode": "sportdog",
       "title": "Panserraikos - Olympiacos Piraeus B - Flashscore.com",
@@ -630,6 +609,25 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6cc2e9bd8ba975a30d04f1a3",
+      "mode": "sportdog",
+      "title": "Iraklis Panathinaikos 08 November 2026 Live Score and Match Summary - Yeni Şafak English",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3dVcDdnTm14RUdyOXhnV01xTWZkRC1OVEYwQVBxenFENVBDa3V2NUZmZFcxaElfdFZfbW5oM0pudmRScU1QdE1CbVZ3NjBUS0dKRzQzcXo4X180SFo4OVFRQkxTOG1IN1RlXzJXS3RTS2RRX0JaSkg4LUJobExmU2lsRGZTZDBv?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 27 Sep 2026 08:57:52 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -691,9 +689,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "c0852713d538ed07bd4b6cec",
+      "external_id": "76522d13d70f4ee332915f3f",
       "mode": "geopolitico",
-      "title": "Pakistan army says 73 terrorists killed in 96-hour operations across Balochistan - India Today",
+      "title": "Pakistan army says 73 terrorists killed in 96-hour operations across Balochistan - indiatoday.in",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTjJRSzloNlNVd1B2YXJfeGdFNzNqY0NqRTcyS1RJUVhzR0lha3pVc203YUFpaF9GSG0xb0lXXzNfbHZROFVDUVBTbklqZmxYOEU2dWxiaGs3WUpRXzlpejhVQWtGNmJhSlZZWUtseFlvXzZIOEVuSTRiTjVSdHVwWkdVdlFnbFJqdlotbzMyMHZxaXp1ZzlUTlNYYlFEaGNqT21aQm4tMlNKVy0wQ3NFSmlMOVFCS1MyNXBsVWVSVnFPVzN0YkY2OU1KSDBwRldCTGNfOEVR0gHbAUFVX3lxTE1Ka0k1aS1wMUZCQi1RSHl4ZXpZQlZGNXVkblE4eUhWZmpZMmVTWFZBN2JtT3VMWHZ3SFlFcGZydExVZGxyaURnZTJ5bGFhcEp2MWE2TERNZm1RY0hHMlRiTm5UMUxWOEtqTnNpOHB1MS1MWnRUWlJZOFlILXZGSHhVem1sa0UzZElhODljSmM3Q3hqUW1xbXRVN3l0MDE1TGtNR08yLXFMOFQ0M2M2N25VLUtva28waHZSd1AwMjZPR2tnMC14NTVsT3M0eTA1T1gtNkJJa0dhSDJxSQ?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sun, 27 Sep 2026 13:18:33 GMT",
@@ -765,9 +763,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "073ce157014a4df4c86252cb",
+      "external_id": "36ac6ff08e4632569509d4f8",
       "mode": "geopolitico",
-      "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - thehindu.com",
+      "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - The Hindu",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ItRmY1NXRkWDRYdEdpTjkwRXkxQUM4WjJ6YkY2a2Z6c3ltc3hsMlNKblF4c0tDcGlzcjFEU1Jvdm13Q2V4SzBXNVVPN25RdGc0SHE5WV9GbXd2UU1BQUtPU0RHSm5DX0F3cFpMSEJkYjFZWHctSGhRZFNTZ0NiN25HM2ttbVRDb3fSAZABQVVfeXFMTUt0UWVISlR4ak5yb01IazNLQnFBeUZTS2dvY0NwWUwtSjByMS14RmRIbjJ5czhhaGVZOHh3X2NueV9ZUG5SUDVRXzliY3dkdjRjVlcxSDR0NXVRakVnR29oTWZsSmpCejZlT0tUUXhPQjVBUlZ0QlpnMkxhUmludVNWMG1SdWZrbUxJTW9COTFO?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sun, 27 Sep 2026 01:50:06 GMT",
