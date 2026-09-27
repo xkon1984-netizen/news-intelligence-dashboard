@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-27T10:50:15.816367+00:00",
+  "generated_at": "2026-09-27T11:01:53.971929+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "7cade9e982944c4f691cea5d",
+        "external_id": "1b1e2802d1c04f2a7f94e8df",
         "mode": "sportdog",
-        "title": "PAOK finalizing a deal with Donatas Motiejunas - Eurohoops",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHZ4cFc5VlpoUDFIaXFyN1JSVVNyVHpaQjc4VVFyeWU4SGE5bTc0Q29UMldVYUdlLTI4Mk1nbmg1UWRjN2xQNnQ2b0J2di1qLUhZS2s4SHZ0OGdDakUtd2xRQllkSnA4aFYzckJSNUt2c2Fzc0V0aHc1UGJ0TFpQYnRsQ1dBb1Zody1jb0xrNExVOUh5Y2Q3d3ZTNGo?oc=5",
+        "title": "PAOK finalizing a deal with Donatas Motiejunas - eurohoops.net",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVYZVg0dVd2aE9OR1V0V3hkUUpHNVVaTDJtc2lRMGRBWU95TXdmemlDQjA5V0FUZTc3QVJKZ1lxX0UyUDc0RHAtQ1g3akdsZzdvWTFPQ0locXpFX19NREVPZUVsN3Joam9YcEZYeHdlekNoVVQ0b2kzZlNzd1BqYndXUUZNMVdyTlhQSHM0N3BRb1lsa3FV?oc=5",
         "source": "PAOK Rumour Watch",
-        "published": "Sun, 27 Sep 2026 08:58:22 GMT",
+        "published": "Sun, 27 Sep 2026 08:26:00 GMT",
         "base_score": 56,
         "candidate_score": 89,
         "priority": "High",
@@ -44,6 +44,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "a24e9cb1d4ccc4933f2e5782",
+        "mode": "sportdog",
+        "title": "(!+!Streams!TV!+!)) Olympiacos BC vs AEK BC Basketball 𝗟𝗶𝘃𝗲 𝗦𝘁𝗿𝗲𝗮𝗺 𝗙𝗿𝗲𝗲 𝗼𝗻 𝗧𝗩 Today - czechinvest.gov.cz",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNzJlTERFT2UtSEtid1o2UFpkQ0xSNy1EZGp0NldzMEJ0c1lXY2FVSmlZQWtFdFRMbWhsX3RCVXBJc0tsNHM0RjJLV20xRkR5Vkc3MVRfVzE2NXJPRGpfUVRzdXEwVUhvZk9pWUdJMzlWM2dDVnp2bXpGcnZ0c0diQVhQQmVJZWhJSllPQmpaTWhUQm9nWXl2MFVuXy1JVGZDeHhRN2dNNy00bFBTWlg3ZUVXNjdMbmNEQ2dVZmE1Zy1HUTB3OVFZaGJFR2hVSlJzeXpWOTZyeEtWdzJlemk0VFVCQmFURWMwNVZJV0E5c1RaYzFrOC1HaThtVmxneU9NOWN4Qngtdy1VQ3ExeVBvV0RzQQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sat, 26 Sep 2026 13:32:17 GMT",
+        "base_score": 62,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -108,6 +128,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "6ae6f878754f9e2b3e3a044c",
+        "mode": "sportdog",
+        "title": "Panserraikos - Olympiacos Piraeus B - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU20tZ2ZNVFlWT3pKN2ZoYlZmRkVqaHNEZUxXOWFrbUxSa1lRRkROSXJ3eVZYWUxrZ2owenBxN0VDelMwVl9hTjZLTVVPMW41cjBSeTltdHlHTHJ0YTB0bjAxb1dub1p1OGlQaGxZcUh1UWpMMVlTczRJS0tDSVZfc3lvc1V4dTNPWUxydUZpejRzbE4wYThZ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 27 Sep 2026 06:13:42 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "32e392d1b0e531d4276a9d5e",
         "mode": "sportdog",
         "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - BasketNews.com",
@@ -127,9 +166,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "b637da0875d88fb37093f773",
+        "external_id": "5e6c00f9f56a159be4c56b3e",
         "mode": "sportdog",
-        "title": "Kifisia Olympiacos 31 October 2026 Live Score and Match Summary - Yeni Şafak English",
+        "title": "Kifisia Olympiacos 31 October 2026 Live Score and Match Summary - en.yenisafak.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFRyWVBCb19selcwMGYyME5FeWdtLVFhUkpJaGttalVkRFI4TmtJY2ZaeWhITGt3WmJWUzdtUXVwUUVtM09ndnA4MjVtOU1WeWFWS0NURHNGeWstTWFfdVBGWG10UUlTZnFNdXdqNGtBcFEwT2pfU1A1aEx5cXFkYkZxY04?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Sun, 27 Sep 2026 01:28:10 GMT",
@@ -333,9 +372,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "aa483dfa60f4b736a6e4676c",
+        "external_id": "9c3eec2d1788d01d22f42dca",
         "mode": "pontos_voice",
-        "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε νέο τοπόσημο – Στις 4 Οκτωβρίου τα επίσημα αποκαλυπτήρια - XanthiPost.gr",
+        "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε νέο τοπόσημο – Στις 4 Οκτωβρίου τα επίσημα αποκαλυπτήρια - xanthipost.gr",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPVnptbkJSLUh4ZEQxQXlpdXl1MFhpYkhhU3lwb0JCb2x5RHpHd2g1Q2NfWjlPZndxaC1rS1gwTjB2Y2t0RURxRlQ4OGdXQnJSZURHZW11NE00VFEzV3d1dkJldVNFaDlSVUprVUpQUVBMUXM2bFhhVzNQUlhvUmlGWDR0Y2dlZklTS1NqMkdXWGViM0VTUUQzckxVZnAxQVgyMW9LM3RfTFFDUy1SbDhfSllyQlp5bVJQUkZ4R1RQMHA4WThOWDVoRkJNVFhnczBMU0dZd01IRTIyRktYVXRFbVdwNVlmMVh3U1VabXluT2l1angybUdPbGNiaWRBRGJGVkdqb3VTR1l6b0RqRXdEbHV3bENta3JzTTJEOENma2NfZTBSeGsyR3hxaWRQRlIzMTJGZWs4N3IzQ1B4RDM1dFBnOUQybklKVjBTTlZGWXg?oc=5",
         "source": "Greek Press Pontic Watch",
         "published": "Sat, 26 Sep 2026 08:40:00 GMT",
@@ -405,12 +444,12 @@
   },
   "items": [
     {
-      "external_id": "7cade9e982944c4f691cea5d",
+      "external_id": "1b1e2802d1c04f2a7f94e8df",
       "mode": "sportdog",
-      "title": "PAOK finalizing a deal with Donatas Motiejunas - Eurohoops",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHZ4cFc5VlpoUDFIaXFyN1JSVVNyVHpaQjc4VVFyeWU4SGE5bTc0Q29UMldVYUdlLTI4Mk1nbmg1UWRjN2xQNnQ2b0J2di1qLUhZS2s4SHZ0OGdDakUtd2xRQllkSnA4aFYzckJSNUt2c2Fzc0V0aHc1UGJ0TFpQYnRsQ1dBb1Zody1jb0xrNExVOUh5Y2Q3d3ZTNGo?oc=5",
+      "title": "PAOK finalizing a deal with Donatas Motiejunas - eurohoops.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVYZVg0dVd2aE9OR1V0V3hkUUpHNVVaTDJtc2lRMGRBWU95TXdmemlDQjA5V0FUZTc3QVJKZ1lxX0UyUDc0RHAtQ1g3akdsZzdvWTFPQ0locXpFX19NREVPZUVsN3Joam9YcEZYeHdlekNoVVQ0b2kzZlNzd1BqYndXUUZNMVdyTlhQSHM0N3BRb1lsa3FV?oc=5",
       "source": "PAOK Rumour Watch",
-      "published": "Sun, 27 Sep 2026 08:58:22 GMT",
+      "published": "Sun, 27 Sep 2026 08:26:00 GMT",
       "base_score": 56,
       "candidate_score": 89,
       "priority": "High",
@@ -441,6 +480,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "a24e9cb1d4ccc4933f2e5782",
+      "mode": "sportdog",
+      "title": "(!+!Streams!TV!+!)) Olympiacos BC vs AEK BC Basketball 𝗟𝗶𝘃𝗲 𝗦𝘁𝗿𝗲𝗮𝗺 𝗙𝗿𝗲𝗲 𝗼𝗻 𝗧𝗩 Today - czechinvest.gov.cz",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNzJlTERFT2UtSEtid1o2UFpkQ0xSNy1EZGp0NldzMEJ0c1lXY2FVSmlZQWtFdFRMbWhsX3RCVXBJc0tsNHM0RjJLV20xRkR5Vkc3MVRfVzE2NXJPRGpfUVRzdXEwVUhvZk9pWUdJMzlWM2dDVnp2bXpGcnZ0c0diQVhQQmVJZWhJSllPQmpaTWhUQm9nWXl2MFVuXy1JVGZDeHhRN2dNNy00bFBTWlg3ZUVXNjdMbmNEQ2dVZmE1Zy1HUTB3OVFZaGJFR2hVSlJzeXpWOTZyeEtWdzJlemk0VFVCQmFURWMwNVZJV0E5c1RaYzFrOC1HaThtVmxneU9NOWN4Qngtdy1VQ3ExeVBvV0RzQQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sat, 26 Sep 2026 13:32:17 GMT",
+      "base_score": 62,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -505,6 +564,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "6ae6f878754f9e2b3e3a044c",
+      "mode": "sportdog",
+      "title": "Panserraikos - Olympiacos Piraeus B - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU20tZ2ZNVFlWT3pKN2ZoYlZmRkVqaHNEZUxXOWFrbUxSa1lRRkROSXJ3eVZYWUxrZ2owenBxN0VDelMwVl9hTjZLTVVPMW41cjBSeTltdHlHTHJ0YTB0bjAxb1dub1p1OGlQaGxZcUh1UWpMMVlTczRJS0tDSVZfc3lvc1V4dTNPWUxydUZpejRzbE4wYThZ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 27 Sep 2026 06:13:42 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "32e392d1b0e531d4276a9d5e",
       "mode": "sportdog",
       "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - BasketNews.com",
@@ -524,9 +602,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "b637da0875d88fb37093f773",
+      "external_id": "5e6c00f9f56a159be4c56b3e",
       "mode": "sportdog",
-      "title": "Kifisia Olympiacos 31 October 2026 Live Score and Match Summary - Yeni Şafak English",
+      "title": "Kifisia Olympiacos 31 October 2026 Live Score and Match Summary - en.yenisafak.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFRyWVBCb19selcwMGYyME5FeWdtLVFhUkpJaGttalVkRFI4TmtJY2ZaeWhITGt3WmJWUzdtUXVwUUVtM09ndnA4MjVtOU1WeWFWS0NURHNGeWstTWFfdVBGWG10UUlTZnFNdXdqNGtBcFEwT2pfU1A1aEx5cXFkYkZxY04?oc=5",
       "source": "Olympiacos Rumour Watch",
       "published": "Sun, 27 Sep 2026 01:28:10 GMT",
@@ -726,9 +804,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "aa483dfa60f4b736a6e4676c",
+      "external_id": "9c3eec2d1788d01d22f42dca",
       "mode": "pontos_voice",
-      "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε νέο τοπόσημο – Στις 4 Οκτωβρίου τα επίσημα αποκαλυπτήρια - XanthiPost.gr",
+      "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε νέο τοπόσημο – Στις 4 Οκτωβρίου τα επίσημα αποκαλυπτήρια - xanthipost.gr",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPVnptbkJSLUh4ZEQxQXlpdXl1MFhpYkhhU3lwb0JCb2x5RHpHd2g1Q2NfWjlPZndxaC1rS1gwTjB2Y2t0RURxRlQ4OGdXQnJSZURHZW11NE00VFEzV3d1dkJldVNFaDlSVUprVUpQUVBMUXM2bFhhVzNQUlhvUmlGWDR0Y2dlZklTS1NqMkdXWGViM0VTUUQzckxVZnAxQVgyMW9LM3RfTFFDUy1SbDhfSllyQlp5bVJQUkZ4R1RQMHA4WThOWDVoRkJNVFhnczBMU0dZd01IRTIyRktYVXRFbVdwNVlmMVh3U1VabXluT2l1angybUdPbGNiaWRBRGJGVkdqb3VTR1l6b0RqRXdEbHV3bENta3JzTTJEOENma2NfZTBSeGsyR3hxaWRQRlIzMTJGZWs4N3IzQ1B4RDM1dFBnOUQybklKVjBTTlZGWXg?oc=5",
       "source": "Greek Press Pontic Watch",
       "published": "Sat, 26 Sep 2026 08:40:00 GMT",
