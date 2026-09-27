@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:59:57.005132+00:00",
+  "generated_at": "2026-09-27T05:21:04.380974+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -55,7 +55,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sat, 26 Sep 2026 11:07:32 GMT",
         "base_score": 56,
-        "candidate_score": 82,
+        "candidate_score": 79,
         "priority": "High",
         "matched_keywords": [
           "PAOK",
@@ -75,8 +75,8 @@
         "source": "AEK Rumour Watch",
         "published": "Sun, 27 Sep 2026 02:03:56 GMT",
         "base_score": 50,
-        "candidate_score": 73,
-        "priority": "High",
+        "candidate_score": 68,
+        "priority": "Normal",
         "matched_keywords": [
           "AEK",
           "Champions League"
@@ -84,26 +84,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "6eb3dca34e7bc0c23e563d82",
-        "mode": "sportdog",
-        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 26 Sep 2026 05:57:40 GMT",
-        "base_score": 56,
-        "candidate_score": 67,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -126,27 +106,28 @@
         "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
+      },
+      {
+        "external_id": "b637da0875d88fb37093f773",
+        "mode": "sportdog",
+        "title": "Kifisia Olympiacos 31 October 2026 Live Score and Match Summary - Yeni Şafak English",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFRyWVBCb19selcwMGYyME5FeWdtLVFhUkpJaGttalVkRFI4TmtJY2ZaeWhITGt3WmJWUzdtUXVwUUVtM09ndnA4MjVtOU1WeWFWS0NURHNGeWstTWFfdVBGWG10UUlTZnFNdXdqNGtBcFEwT2pfU1A1aEx5cXFkYkZxY04?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 27 Sep 2026 01:28:10 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
-      {
-        "external_id": "9c9a8eaed3f4497db36af61d",
-        "mode": "geopolitico",
-        "title": "‘Serial practitioner of terrorism’: Jaishankar targets Pakistan at UNGA - connectedtoindia.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTkzcXRzVXVjb1kwOThfWWxjS2ZxaURFSVZvS25WQ2pPTXRmQXRDVGRhM0RYSW51RE00NDRGUWRySk1zdGYwMkt1NngteHlIQURHMEpWSEVhZHNMOS1ZaWgtZWV6b1ZJRS02ZDlPTjNndE42UHVObGhqWlZHamtzcnNTZW5xYjgxOHlaV2pXOW9KTTVaVXpqcllNM2FSX3FiSnVnRA?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sun, 27 Sep 2026 02:08:00 GMT",
-        "base_score": 94,
-        "candidate_score": 109,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Jaishankar",
-          "terrorism"
-        ],
-        "content_type": "news"
-      },
       {
         "external_id": "fb0e92f10a8fa30c52007618",
         "mode": "geopolitico",
@@ -221,6 +202,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "9c9a8eaed3f4497db36af61d",
+        "mode": "geopolitico",
+        "title": "‘Serial practitioner of terrorism’: Jaishankar targets Pakistan at UNGA - connectedtoindia.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTkzcXRzVXVjb1kwOThfWWxjS2ZxaURFSVZvS25WQ2pPTXRmQXRDVGRhM0RYSW51RE00NDRGUWRySk1zdGYwMkt1NngteHlIQURHMEpWSEVhZHNMOS1ZaWgtZWV6b1ZJRS02ZDlPTjNndE42UHVObGhqWlZHamtzcnNTZW5xYjgxOHlaV2pXOW9KTTVaVXpqcllNM2FSX3FiSnVnRA?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 27 Sep 2026 02:08:00 GMT",
+        "base_score": 94,
+        "candidate_score": 104,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Jaishankar",
+          "terrorism"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "df5f44e6c0f26e002af65324",
         "mode": "geopolitico",
         "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - Anadolu Ajansı",
@@ -236,24 +235,6 @@
           "Miçotakis",
           "görüşme",
           "tepki"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "454056e301aadd2000e3aec9",
-        "mode": "geopolitico",
-        "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmNNREV2ZG56QnJ5QnFTYm02WUMwanFXTllwRVNodXhHTlQxQ0lQYkdEN3loWUdtVDI0LW9IZF9BNDlFbVZrbXFUSDFGSGNwVjBZOVRnQWNfR0VrZnVTcW13ZHdzMElpVDUyOGhldDRVMnoxTGJJc01qWGlEWVhkbDFxamN4R2Q0bFl2a2pMQ3lhVUxBZkU0TzhQRmlDQS1KbW1FR1NuV3ZqclhhTk45azBPdVllU1RJdVF2NE54dGpUOWkxLUl1bjNfeFRZTGs0VExhdTh6RlN0OU54ck9VaVVma9IB8AFBVV95cUxNWk5NdUc2MHFrX1JnckV0WDkyQWgwTndueERmWFNQa2hNQkNlSHRIQnlSZzc2aDRwTW1XcEpUZU00eXd4Z0h0TmtCMnBLV3FWTEp0YjFuS2Vhd19rbVhJMzdMSGZKSjhSeXFxcVVxb2ppZmJtY3VoR2FjSC10NE1XanhKRVQzMm96eGJ4LW1nQ3lhUkw3SUF0ZEtuMXRfUlQ5Yk9rOGhZbjNRaG51SXVxdndGTHNaWURkOUx6bXlmX01IaVhvUlMyem1jdkMtUXhMUUI0Y2Zfd3lpd3AzZllBT2xuV29UUEM0cjRiUXRydzg?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sat, 26 Sep 2026 18:21:40 GMT",
-        "base_score": 94,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Jaishankar",
-          "terrorism"
         ],
         "content_type": "news"
       },
@@ -274,9 +255,46 @@
           "terrorism"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "a34e453508b179b30ce98df6",
+        "mode": "geopolitico",
+        "title": "'Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA | India News - Hindustan Times",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUxRMkd4QXBLU1VHZHVLTXAtTkpJRmxDWXlaN1Vsd3paaEtKREE2eXdCZDJBSDRENXRObW5EQVJtc2wwSDBQN2p0aTdFUklDdzN5YlpWY3RHay15SDlHbnRfY1h0NkFtNVpDQmtDV09jdVRRSXZzbnBCOXJSRGtNOEdKU0dkY2hzeWR0bEU2YnZVdmRWb2lWeWRfMHo5TDdpTW1TUi1QU1JMMVBoZ1FZd1RXei1vWGJvR2NnM1IyOVJYYUdGSE5WTGtQYnpvQzYxM0hzckNJS2JmTUR6NkZwZWVXdkFSS2R0aWdjaVNR0gHzAUFVX3lxTE1qNnhoVHd4Y2xCZlpMNFlaRy02cE9ScEpzelNFUFZoczY0cnFyaDd3bGhIVWU0VXhYQTRJTG9ZSGpZb012TGZvb2FUcUpGbVRJcEFYMHQtVXN0MjNxczZHd2IyVmVycWlYRG1DS1JVUmpwZVZCaTU2NFpLRE1CdWROclZkdzZPUHdncmd5Q3JsY2pMNHBkaVJMaG11X25XVlYyNXVIRTZGakVPYnk5VkxaY251SC1EX0RQVFQ2VlFhYnZNUFRscVUyek4xZHhROFpKd1JZaGVJYUlBc010alIyOVozcVY3a3lNWEZQZDgxcURCRQ?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sat, 26 Sep 2026 17:40:26 GMT",
+        "base_score": 94,
+        "candidate_score": 100,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Jaishankar",
+          "terrorism"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "765cf6d45aa1aad2b77bec41",
+        "mode": "pontos_voice",
+        "title": "Παμποντιακή Ομοσπονδία Ελλάδος: 22 χρόνια, μία κοινή φωνή – Η διαδρομή πίσω από το Φεστιβάλ Ποντιακών Χορών - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWm45alRUdXpZMWVvenBrd2p1Tm1uRDlnWVZlcWxZY2QybnJhVVBrb04yODlaOU5fNDNLTWNSNFhMZ0VHTFFqV0J3WUk5aXBTS25ZdjluZnkzM3pxaW5USThKRkpDYUh5NEZXUk1rMm10MEpSaFBEUEw1cC1LdGNWTC01UjJaYUtjcnc3cUVoVTRWYXVoN1pFUllLanR5QQ?oc=5",
+        "source": "Pontos News Watch",
+        "published": "Sat, 26 Sep 2026 17:38:43 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακή",
+          "Παμποντιακή",
+          "Παμποντιακή Ομοσπονδία Ελλάδος",
+          "ομοσπονδία"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "3e0ba600f4ac521eea7babb5",
         "mode": "pontos_voice",
@@ -312,24 +330,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "ec44f7f9c762315bc9fc568f",
-        "mode": "pontos_voice",
-        "title": "Trabzon’da manastır yolu krizi! Taşlarla kapatıp tabela astılar",
-        "url": "https://www.61saat.com/trabzonda-manastir-yolu-krizi-taslarla-kapatip-tabela-astilar",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 26 Sep 2026 17:06:00 +0300",
-        "base_score": 80,
-        "candidate_score": 86,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "manastır",
-          "manastır",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "ebe90f1640ea2410bbcce06c",
         "mode": "pontos_voice",
         "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
@@ -347,6 +347,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "c762c114c3c14f72f778f782",
+        "mode": "pontos_voice",
+        "title": "Trabzon’da feci kaza! Virajı alamayan otomobil dereye devrildi",
+        "url": "https://www.61saat.com/trabzonda-feci-kaza-viraji-alamayan-otomobil-dereye-devrildi",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 27 Sep 2026 08:02:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "bb1ff2b7c77198e622861956",
         "mode": "pontos_voice",
         "title": "20ό Φεστιβάλ Ποντιακών Χορών: Στη Θεσσαλονίκη η ζωντανή μνήμη συνάντησε τη μοναδική παράδοση του Πόντου - pontosnews.gr",
@@ -359,23 +376,6 @@
         "matched_keywords": [
           "Pontos",
           "παράδοση"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "2a8607f265b0f46eb5af3200",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da \"100. Yılında Trabzon Ticaret Lisesi\" adlı kitap tanıtıldı",
-        "url": "https://www.61saat.com/trabzonda-100-yilinda-trabzon-ticaret-lisesi-adli-kitap-tanitildi",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 26 Sep 2026 21:21:00 +0300",
-        "base_score": 46,
-        "candidate_score": 52,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "anıt",
-          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -430,7 +430,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sat, 26 Sep 2026 11:07:32 GMT",
       "base_score": 56,
-      "candidate_score": 82,
+      "candidate_score": 79,
       "priority": "High",
       "matched_keywords": [
         "PAOK",
@@ -450,8 +450,8 @@
       "source": "AEK Rumour Watch",
       "published": "Sun, 27 Sep 2026 02:03:56 GMT",
       "base_score": 50,
-      "candidate_score": 73,
-      "priority": "High",
+      "candidate_score": 68,
+      "priority": "Normal",
       "matched_keywords": [
         "AEK",
         "Champions League"
@@ -459,26 +459,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "6eb3dca34e7bc0c23e563d82",
-      "mode": "sportdog",
-      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 26 Sep 2026 05:57:40 GMT",
-      "base_score": 56,
-      "candidate_score": 67,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -503,22 +483,23 @@
       "needs_second_source": true
     },
     {
-      "external_id": "9c9a8eaed3f4497db36af61d",
-      "mode": "geopolitico",
-      "title": "‘Serial practitioner of terrorism’: Jaishankar targets Pakistan at UNGA - connectedtoindia.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTkzcXRzVXVjb1kwOThfWWxjS2ZxaURFSVZvS25WQ2pPTXRmQXRDVGRhM0RYSW51RE00NDRGUWRySk1zdGYwMkt1NngteHlIQURHMEpWSEVhZHNMOS1ZaWgtZWV6b1ZJRS02ZDlPTjNndE42UHVObGhqWlZHamtzcnNTZW5xYjgxOHlaV2pXOW9KTTVaVXpqcllNM2FSX3FiSnVnRA?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sun, 27 Sep 2026 02:08:00 GMT",
-      "base_score": 94,
-      "candidate_score": 109,
-      "priority": "URGENT",
+      "external_id": "b637da0875d88fb37093f773",
+      "mode": "sportdog",
+      "title": "Kifisia Olympiacos 31 October 2026 Live Score and Match Summary - Yeni Şafak English",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFRyWVBCb19selcwMGYyME5FeWdtLVFhUkpJaGttalVkRFI4TmtJY2ZaeWhITGt3WmJWUzdtUXVwUUVtM09ndnA4MjVtOU1WeWFWS0NURHNGeWstTWFfdVBGWG10UUlTZnFNdXdqNGtBcFEwT2pfU1A1aEx5cXFkYkZxY04?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 27 Sep 2026 01:28:10 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
       "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Jaishankar",
-        "terrorism"
+        "Olympiacos"
       ],
-      "content_type": "news"
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
     },
     {
       "external_id": "fb0e92f10a8fa30c52007618",
@@ -594,6 +575,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "9c9a8eaed3f4497db36af61d",
+      "mode": "geopolitico",
+      "title": "‘Serial practitioner of terrorism’: Jaishankar targets Pakistan at UNGA - connectedtoindia.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTkzcXRzVXVjb1kwOThfWWxjS2ZxaURFSVZvS25WQ2pPTXRmQXRDVGRhM0RYSW51RE00NDRGUWRySk1zdGYwMkt1NngteHlIQURHMEpWSEVhZHNMOS1ZaWgtZWV6b1ZJRS02ZDlPTjNndE42UHVObGhqWlZHamtzcnNTZW5xYjgxOHlaV2pXOW9KTTVaVXpqcllNM2FSX3FiSnVnRA?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 27 Sep 2026 02:08:00 GMT",
+      "base_score": 94,
+      "candidate_score": 104,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Jaishankar",
+        "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "df5f44e6c0f26e002af65324",
       "mode": "geopolitico",
       "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - Anadolu Ajansı",
@@ -613,24 +612,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "454056e301aadd2000e3aec9",
-      "mode": "geopolitico",
-      "title": "Arguments by serial practitioner of terrorism will not stand: EAM Jaishankar slams Pakistan at UNGA - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmNNREV2ZG56QnJ5QnFTYm02WUMwanFXTllwRVNodXhHTlQxQ0lQYkdEN3loWUdtVDI0LW9IZF9BNDlFbVZrbXFUSDFGSGNwVjBZOVRnQWNfR0VrZnVTcW13ZHdzMElpVDUyOGhldDRVMnoxTGJJc01qWGlEWVhkbDFxamN4R2Q0bFl2a2pMQ3lhVUxBZkU0TzhQRmlDQS1KbW1FR1NuV3ZqclhhTk45azBPdVllU1RJdVF2NE54dGpUOWkxLUl1bjNfeFRZTGs0VExhdTh6RlN0OU54ck9VaVVma9IB8AFBVV95cUxNWk5NdUc2MHFrX1JnckV0WDkyQWgwTndueERmWFNQa2hNQkNlSHRIQnlSZzc2aDRwTW1XcEpUZU00eXd4Z0h0TmtCMnBLV3FWTEp0YjFuS2Vhd19rbVhJMzdMSGZKSjhSeXFxcVVxb2ppZmJtY3VoR2FjSC10NE1XanhKRVQzMm96eGJ4LW1nQ3lhUkw3SUF0ZEtuMXRfUlQ5Yk9rOGhZbjNRaG51SXVxdndGTHNaWURkOUx6bXlmX01IaVhvUlMyem1jdkMtUXhMUUI0Y2Zfd3lpd3AzZllBT2xuV29UUEM0cjRiUXRydzg?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sat, 26 Sep 2026 18:21:40 GMT",
-      "base_score": 94,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Jaishankar",
-        "terrorism"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "63e067ff58ff578d35e7d718",
       "mode": "geopolitico",
       "title": "'It's for perpetrator of terrorism to mend its ways': Jaishankar takes aim at Pakistan in UN speech - The Times of India",
@@ -645,6 +626,43 @@
         "Pakistan",
         "Jaishankar",
         "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "a34e453508b179b30ce98df6",
+      "mode": "geopolitico",
+      "title": "'Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA | India News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUxRMkd4QXBLU1VHZHVLTXAtTkpJRmxDWXlaN1Vsd3paaEtKREE2eXdCZDJBSDRENXRObW5EQVJtc2wwSDBQN2p0aTdFUklDdzN5YlpWY3RHay15SDlHbnRfY1h0NkFtNVpDQmtDV09jdVRRSXZzbnBCOXJSRGtNOEdKU0dkY2hzeWR0bEU2YnZVdmRWb2lWeWRfMHo5TDdpTW1TUi1QU1JMMVBoZ1FZd1RXei1vWGJvR2NnM1IyOVJYYUdGSE5WTGtQYnpvQzYxM0hzckNJS2JmTUR6NkZwZWVXdkFSS2R0aWdjaVNR0gHzAUFVX3lxTE1qNnhoVHd4Y2xCZlpMNFlaRy02cE9ScEpzelNFUFZoczY0cnFyaDd3bGhIVWU0VXhYQTRJTG9ZSGpZb012TGZvb2FUcUpGbVRJcEFYMHQtVXN0MjNxczZHd2IyVmVycWlYRG1DS1JVUmpwZVZCaTU2NFpLRE1CdWROclZkdzZPUHdncmd5Q3JsY2pMNHBkaVJMaG11X25XVlYyNXVIRTZGakVPYnk5VkxaY251SC1EX0RQVFQ2VlFhYnZNUFRscVUyek4xZHhROFpKd1JZaGVJYUlBc010alIyOVozcVY3a3lNWEZQZDgxcURCRQ?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sat, 26 Sep 2026 17:40:26 GMT",
+      "base_score": 94,
+      "candidate_score": 100,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Jaishankar",
+        "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "765cf6d45aa1aad2b77bec41",
+      "mode": "pontos_voice",
+      "title": "Παμποντιακή Ομοσπονδία Ελλάδος: 22 χρόνια, μία κοινή φωνή – Η διαδρομή πίσω από το Φεστιβάλ Ποντιακών Χορών - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWm45alRUdXpZMWVvenBrd2p1Tm1uRDlnWVZlcWxZY2QybnJhVVBrb04yODlaOU5fNDNLTWNSNFhMZ0VHTFFqV0J3WUk5aXBTS25ZdjluZnkzM3pxaW5USThKRkpDYUh5NEZXUk1rMm10MEpSaFBEUEw1cC1LdGNWTC01UjJaYUtjcnc3cUVoVTRWYXVoN1pFUllLanR5QQ?oc=5",
+      "source": "Pontos News Watch",
+      "published": "Sat, 26 Sep 2026 17:38:43 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "ποντιακή",
+        "Παμποντιακή",
+        "Παμποντιακή Ομοσπονδία Ελλάδος",
+        "ομοσπονδία"
       ],
       "content_type": "news"
     },
@@ -683,24 +701,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "ec44f7f9c762315bc9fc568f",
-      "mode": "pontos_voice",
-      "title": "Trabzon’da manastır yolu krizi! Taşlarla kapatıp tabela astılar",
-      "url": "https://www.61saat.com/trabzonda-manastir-yolu-krizi-taslarla-kapatip-tabela-astilar",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 26 Sep 2026 17:06:00 +0300",
-      "base_score": 80,
-      "candidate_score": 86,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "manastır",
-        "manastır",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "ebe90f1640ea2410bbcce06c",
       "mode": "pontos_voice",
       "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
@@ -718,6 +718,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "c762c114c3c14f72f778f782",
+      "mode": "pontos_voice",
+      "title": "Trabzon’da feci kaza! Virajı alamayan otomobil dereye devrildi",
+      "url": "https://www.61saat.com/trabzonda-feci-kaza-viraji-alamayan-otomobil-dereye-devrildi",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 27 Sep 2026 08:02:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "bb1ff2b7c77198e622861956",
       "mode": "pontos_voice",
       "title": "20ό Φεστιβάλ Ποντιακών Χορών: Στη Θεσσαλονίκη η ζωντανή μνήμη συνάντησε τη μοναδική παράδοση του Πόντου - pontosnews.gr",
@@ -730,23 +747,6 @@
       "matched_keywords": [
         "Pontos",
         "παράδοση"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "2a8607f265b0f46eb5af3200",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da \"100. Yılında Trabzon Ticaret Lisesi\" adlı kitap tanıtıldı",
-      "url": "https://www.61saat.com/trabzonda-100-yilinda-trabzon-ticaret-lisesi-adli-kitap-tanitildi",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 26 Sep 2026 21:21:00 +0300",
-      "base_score": 46,
-      "candidate_score": 52,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "anıt",
-        "Trabzon"
       ],
       "content_type": "news"
     }
