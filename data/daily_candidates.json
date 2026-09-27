@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T15:01:28.838070+00:00",
+  "generated_at": "2026-09-27T15:21:42.190618+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -105,6 +105,25 @@
         "editorial_type": "Team News",
         "team": "Panathinaikos",
         "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "240fa43ff042939390c0b6d7",
+        "mode": "sportdog",
+        "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmFFX3FUVFExV1M3RkVvTnVob2U4REdzeTlXVVBxaGd1WVdrUVh0WGNNdVpUTkRhamNsalhoVjVVS285Z01WT1FENUxYdkRRUS1JcTh3OGIzczBfeUZuQjBDSHpFTmJRelVnOUhPVDhlZjBCd0lGc3U5UDY4LU1FTUhSbmcwc3FRY3c?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 27 Sep 2026 14:27:16 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -302,7 +321,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sun, 27 Sep 2026 07:03:00 GMT",
         "base_score": 81,
-        "candidate_score": 91,
+        "candidate_score": 87,
         "priority": "High",
         "matched_keywords": [
           "Yunanistan",
@@ -521,6 +540,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "240fa43ff042939390c0b6d7",
+      "mode": "sportdog",
+      "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmFFX3FUVFExV1M3RkVvTnVob2U4REdzeTlXVVBxaGd1WVdrUVh0WGNNdVpUTkRhamNsalhoVjVVS285Z01WT1FENUxYdkRRUS1JcTh3OGIzczBfeUZuQjBDSHpFTmJRelVnOUhPVDhlZjBCd0lGc3U5UDY4LU1FTUhSbmcwc3FRY3c?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 27 Sep 2026 14:27:16 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "2e9b8d21d5a011a6398e2d2f",
       "mode": "sportdog",
       "title": "Motiejunas Nearing PAOK Move After Red Star Season - piratasdelbasket",
@@ -713,7 +751,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sun, 27 Sep 2026 07:03:00 GMT",
       "base_score": 81,
-      "candidate_score": 91,
+      "candidate_score": 87,
       "priority": "High",
       "matched_keywords": [
         "Yunanistan",
