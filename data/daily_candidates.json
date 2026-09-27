@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:05:59.212606+00:00",
+  "generated_at": "2026-09-27T07:23:20.198573+00:00",
   "counts": {
     "sportdog": 5,
     "geopolitico": 8,
@@ -8,9 +8,9 @@
   "modes": {
     "sportdog": [
       {
-        "external_id": "d4bb4f695723dadadac3e782",
+        "external_id": "9cfe2602376f3732eed26887",
         "mode": "sportdog",
-        "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - Yahoo Sports",
+        "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTE15ZXpTcmhfR1dCMEVyWXNsaTZLUGRUQzhEaFYtbDFRSFhNa0ZDdDFLZE10eWYteDFDRWFiRjN4OEphTjRYdWFLUXpERGNULU05djFiTmZOS0JxVzkweTBKT2l2aG9sUGhTWWh6QW1EOGhTR0NhZmFqT2pQb056a1JJY3VfRnM?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Sat, 26 Sep 2026 18:34:59 GMT",
@@ -328,6 +328,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "9037b9038aa7a8f44975c09d",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da palamutta şiş dönemi!",
+        "url": "https://www.61saat.com/trabzonda-palamutta-sis-donemi",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 27 Sep 2026 09:49:00 +0300",
+        "base_score": 55,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "Karadeniz",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "f6566fc54140423dde65766b",
         "mode": "pontos_voice",
         "title": "Trabzon'da bir doktordan aldığı kağıtla yeteneği ortaya çıktı",
@@ -344,31 +362,14 @@
           "Trabzon"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "c431574ebbf06631d2a7667e",
-        "mode": "pontos_voice",
-        "title": "MHP Trabzon’da masa dönemi bitiyor! Hacısalihoğlu sahayı işaret etti - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHdEUGFlSmxEV2dfOEE2alZGV2xhb0gyVERadXN5NUxJazhkblV3NVlJTEYyYXZMOVlnX0owT2VmSGJjWFZTcVVnUVZrWFNDRDdadEF3U0hJdzZiNVc4WU5CSVBVZVdQcnRueXhVNjR6SE5mOUttbXJSRUF2MGV2NlBPQkJveURlS0FBSER5SVlsbllQaE9NRjJKUVR4OTRFRjNYODN2STZqQQ?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sun, 27 Sep 2026 05:19:47 GMT",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "MHP",
-          "Trabzon"
-        ],
-        "content_type": "news"
       }
     ]
   },
   "items": [
     {
-      "external_id": "d4bb4f695723dadadac3e782",
+      "external_id": "9cfe2602376f3732eed26887",
       "mode": "sportdog",
-      "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - Yahoo Sports",
+      "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTE15ZXpTcmhfR1dCMEVyWXNsaTZLUGRUQzhEaFYtbDFRSFhNa0ZDdDFLZE10eWYteDFDRWFiRjN4OEphTjRYdWFLUXpERGNULU05djFiTmZOS0JxVzkweTBKT2l2aG9sUGhTWWh6QW1EOGhTR0NhZmFqT2pQb056a1JJY3VfRnM?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Sat, 26 Sep 2026 18:34:59 GMT",
@@ -682,6 +683,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "9037b9038aa7a8f44975c09d",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da palamutta şiş dönemi!",
+      "url": "https://www.61saat.com/trabzonda-palamutta-sis-donemi",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 27 Sep 2026 09:49:00 +0300",
+      "base_score": 55,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "Karadeniz",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "f6566fc54140423dde65766b",
       "mode": "pontos_voice",
       "title": "Trabzon'da bir doktordan aldığı kağıtla yeteneği ortaya çıktı",
@@ -695,23 +714,6 @@
         "Trabzon",
         "Gümüşhane",
         "Of",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "c431574ebbf06631d2a7667e",
-      "mode": "pontos_voice",
-      "title": "MHP Trabzon’da masa dönemi bitiyor! Hacısalihoğlu sahayı işaret etti - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHdEUGFlSmxEV2dfOEE2alZGV2xhb0gyVERadXN5NUxJazhkblV3NVlJTEYyYXZMOVlnX0owT2VmSGJjWFZTcVVnUVZrWFNDRDdadEF3U0hJdzZiNVc4WU5CSVBVZVdQcnRueXhVNjR6SE5mOUttbXJSRUF2MGV2NlBPQkJveURlS0FBSER5SVlsbllQaE9NRjJKUVR4OTRFRjNYODN2STZqQQ?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sun, 27 Sep 2026 05:19:47 GMT",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "MHP",
         "Trabzon"
       ],
       "content_type": "news"
