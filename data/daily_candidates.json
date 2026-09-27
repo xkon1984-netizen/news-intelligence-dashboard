@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:20:41.871141+00:00",
+  "generated_at": "2026-09-27T23:34:45.933252+00:00",
   "counts": {
     "sportdog": 12,
     "geopolitico": 8,
@@ -88,26 +88,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "e835288bbbea3f51f734f76d",
-        "mode": "sportdog",
-        "title": "Olympiacos Sets Sights on Chivas’ Star Defender Diego Campillo After ‘La Hormiga’ González’s European Breakout - Soy Futbol",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdnRXOTBERXdXaXhzRHJKRUhaaG9sNzRxeUNNN082RnA0aDJZSHQ4OGZ3Nnk0RTA2Z24wVm9hU2NxcnNab3h4UUppMEdlWkRGbVlES0xuZ210c2Z3QVF0aUIxZ0FxSVRRLWxETVFpb2UyZGxuS2JuUlpMQ29oZnY1NldHa2dKT0ZKMzNTcEZjSTBmTGFicUg3cFRDVnJuT3dfTkdiRG1qOTcyeHJSSjFEempWemJnaFRtaXQ1V1phemhvekxrR2t6cFBMN3M2am80UTM2MG5nX0Jyd0ZBQktGZ2NOQ0FrNjd6dEt3aGYzbk5PNWFW?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 27 Sep 2026 20:25:10 GMT",
-        "base_score": 39,
-        "candidate_score": 62,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "defender"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "7bf4b29844fbe408c8ebdd28",
         "mode": "sportdog",
         "title": "(Today/Live)! AEK Athens FC v Levski Sofia Live Free UCL UEFA Champions League On TV August 18, 2026 - czechinvest.gov.cz",
@@ -125,6 +105,26 @@
         "editorial_type": "Team News",
         "team": "AEK",
         "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "e835288bbbea3f51f734f76d",
+        "mode": "sportdog",
+        "title": "Olympiacos Sets Sights on Chivas’ Star Defender Diego Campillo After ‘La Hormiga’ González’s European Breakout - Soy Futbol",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdnRXOTBERXdXaXhzRHJKRUhaaG9sNzRxeUNNN082RnA0aDJZSHQ4OGZ3Nnk0RTA2Z24wVm9hU2NxcnNab3h4UUppMEdlWkRGbVlES0xuZ210c2Z3QVF0aUIxZ0FxSVRRLWxETVFpb2UyZGxuS2JuUlpMQ29oZnY1NldHa2dKT0ZKMzNTcEZjSTBmTGFicUg3cFRDVnJuT3dfTkdiRG1qOTcyeHJSSjFEempWemJnaFRtaXQ1V1phemhvekxrR2t6cFBMN3M2am80UTM2MG5nX0Jyd0ZBQktGZ2NOQ0FrNjd6dEt3aGYzbk5PNWFW?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 27 Sep 2026 20:25:10 GMT",
+        "base_score": 39,
+        "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "defender"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -454,23 +454,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "7ec05c3726b5b4288dee3c4b",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor’un Nijeryalı yıldızı Nwaiwu’dan dikkat çeken Salah sözleri - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVZUdEtRM0VjMnktN0hKOFBjb1FmN0lTSUVSb2d3c2c3OFVnYkZpRVBRazBVQ0syNXhfamtxd2xnUW1qLVMzSjhrbUVpVmZETEFYUENycjhoQ3JsZFBXOF9IWTJGdko4VThUa040c2VESV95NzQwNGwxWGhzMVcwZHhZY0xBa3ZsYzlnTnpZNmE5dTNxd2dRR2EtbWZScnFkZGpqWnc4T3YteHB1ekNmNW1HWQ?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sun, 27 Sep 2026 20:34:10 GMT",
-        "base_score": 40,
-        "candidate_score": 55,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Of",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "170b3cf14a13f36c5e398e66",
         "mode": "pontos_voice",
         "title": "Araklı’nın YENİ Parti İlçe Başkanı belli oldu!",
@@ -484,6 +467,23 @@
           "Trabzon",
           "Trabzon",
           "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "8417da28fdbe09458931ec58",
+        "mode": "pontos_voice",
+        "title": "“Rock Solid Society” Gençlik Değişimi Trabzon’da Tamamlandı",
+        "url": "https://www.61saat.com/rock-solid-society-genclik-degisimi-trabzonda-tamamlandi",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 27 Sep 2026 16:16:00 +0300",
+        "base_score": 46,
+        "candidate_score": 52,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "Karadeniz"
         ],
         "content_type": "news"
       }
@@ -571,26 +571,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "e835288bbbea3f51f734f76d",
-      "mode": "sportdog",
-      "title": "Olympiacos Sets Sights on Chivas’ Star Defender Diego Campillo After ‘La Hormiga’ González’s European Breakout - Soy Futbol",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdnRXOTBERXdXaXhzRHJKRUhaaG9sNzRxeUNNN082RnA0aDJZSHQ4OGZ3Nnk0RTA2Z24wVm9hU2NxcnNab3h4UUppMEdlWkRGbVlES0xuZ210c2Z3QVF0aUIxZ0FxSVRRLWxETVFpb2UyZGxuS2JuUlpMQ29oZnY1NldHa2dKT0ZKMzNTcEZjSTBmTGFicUg3cFRDVnJuT3dfTkdiRG1qOTcyeHJSSjFEempWemJnaFRtaXQ1V1phemhvekxrR2t6cFBMN3M2am80UTM2MG5nX0Jyd0ZBQktGZ2NOQ0FrNjd6dEt3aGYzbk5PNWFW?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 27 Sep 2026 20:25:10 GMT",
-      "base_score": 39,
-      "candidate_score": 62,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "defender"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "7bf4b29844fbe408c8ebdd28",
       "mode": "sportdog",
       "title": "(Today/Live)! AEK Athens FC v Levski Sofia Live Free UCL UEFA Champions League On TV August 18, 2026 - czechinvest.gov.cz",
@@ -608,6 +588,26 @@
       "editorial_type": "Team News",
       "team": "AEK",
       "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "e835288bbbea3f51f734f76d",
+      "mode": "sportdog",
+      "title": "Olympiacos Sets Sights on Chivas’ Star Defender Diego Campillo After ‘La Hormiga’ González’s European Breakout - Soy Futbol",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdnRXOTBERXdXaXhzRHJKRUhaaG9sNzRxeUNNN082RnA0aDJZSHQ4OGZ3Nnk0RTA2Z24wVm9hU2NxcnNab3h4UUppMEdlWkRGbVlES0xuZ210c2Z3QVF0aUIxZ0FxSVRRLWxETVFpb2UyZGxuS2JuUlpMQ29oZnY1NldHa2dKT0ZKMzNTcEZjSTBmTGFicUg3cFRDVnJuT3dfTkdiRG1qOTcyeHJSSjFEempWemJnaFRtaXQ1V1phemhvekxrR2t6cFBMN3M2am80UTM2MG5nX0Jyd0ZBQktGZ2NOQ0FrNjd6dEt3aGYzbk5PNWFW?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 27 Sep 2026 20:25:10 GMT",
+      "base_score": 39,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "defender"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -933,23 +933,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "7ec05c3726b5b4288dee3c4b",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor’un Nijeryalı yıldızı Nwaiwu’dan dikkat çeken Salah sözleri - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVZUdEtRM0VjMnktN0hKOFBjb1FmN0lTSUVSb2d3c2c3OFVnYkZpRVBRazBVQ0syNXhfamtxd2xnUW1qLVMzSjhrbUVpVmZETEFYUENycjhoQ3JsZFBXOF9IWTJGdko4VThUa040c2VESV95NzQwNGwxWGhzMVcwZHhZY0xBa3ZsYzlnTnpZNmE5dTNxd2dRR2EtbWZScnFkZGpqWnc4T3YteHB1ekNmNW1HWQ?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sun, 27 Sep 2026 20:34:10 GMT",
-      "base_score": 40,
-      "candidate_score": 55,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Of",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "170b3cf14a13f36c5e398e66",
       "mode": "pontos_voice",
       "title": "Araklı’nın YENİ Parti İlçe Başkanı belli oldu!",
@@ -963,6 +946,23 @@
         "Trabzon",
         "Trabzon",
         "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "8417da28fdbe09458931ec58",
+      "mode": "pontos_voice",
+      "title": "“Rock Solid Society” Gençlik Değişimi Trabzon’da Tamamlandı",
+      "url": "https://www.61saat.com/rock-solid-society-genclik-degisimi-trabzonda-tamamlandi",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 27 Sep 2026 16:16:00 +0300",
+      "base_score": 46,
+      "candidate_score": 52,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "Karadeniz"
       ],
       "content_type": "news"
     }
