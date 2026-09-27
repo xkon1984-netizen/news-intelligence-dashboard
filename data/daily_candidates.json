@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T09:22:10.314189+00:00",
+  "generated_at": "2026-09-27T09:38:04.754108+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -68,9 +68,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "00a7972a91bd9f9e5b46331e",
+        "external_id": "6eb3dca34e7bc0c23e563d82",
         "mode": "sportdog",
-        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
+        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Sat, 26 Sep 2026 05:57:40 GMT",
@@ -105,25 +105,6 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "b637da0875d88fb37093f773",
-        "mode": "sportdog",
-        "title": "Kifisia Olympiacos 31 October 2026 Live Score and Match Summary - Yeni Şafak English",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFRyWVBCb19selcwMGYyME5FeWdtLVFhUkpJaGttalVkRFI4TmtJY2ZaeWhITGt3WmJWUzdtUXVwUUVtM09ndnA4MjVtOU1WeWFWS0NURHNGeWstTWFfdVBGWG10UUlTZnFNdXdqNGtBcFEwT2pfU1A1aEx5cXFkYkZxY04?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 27 Sep 2026 01:28:10 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -155,7 +136,7 @@
         "source": "Pakistan Security Watch",
         "published": "Sun, 27 Sep 2026 06:30:34 GMT",
         "base_score": 94,
-        "candidate_score": 109,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -184,6 +165,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "d0ea9a81385909144d7d5b73",
+        "mode": "geopolitico",
+        "title": "Ekim ayı Great Sea Interconnector konusunda belirleyici - Kıbrıs Postası",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOHd4TUtRYU1tVm4wWGM2Q2JOcHNpTVVvSVdubmFuWnN3UHRiR190MGRaWkNIQjVrNjBtbTZaYWlNd1pWcUd4dFI0Z1lNd1RoZVdORUotYzJMdDF4ZTlXbFhLY2lKbURsWDVEZGFrVzBneU1nSTRtRWdFTmVWcVhiZzBoWUlGNkxtWTFvX3M2RTVyNklxVXJHZjA2eHJvbURwcmtqMElGV2gtd0QwV0hR?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sun, 27 Sep 2026 09:24:00 GMT",
+        "base_score": 88,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Great Sea Interconnector",
+          "Kıbrıs",
+          "Great Sea Interconnector"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "fb0e92f10a8fa30c52007618",
         "mode": "geopolitico",
         "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - A Haber",
@@ -202,27 +200,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "faefe9aaf82d9060de5224dd",
+        "external_id": "e09eed8b326a4077fe73bd61",
         "mode": "geopolitico",
-        "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - A Haber",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVREUzQza19VWEJ4bHI5b3huRmZPdXNQMDJfVmJnaGFnZlNBOFUtNEJfczVWUVRiTTgyN3JOYm5NNkxUZTVhdGx6XzRPbkZMaWtOdDc2Z1JYWVVwWGQ2X1BUejAtTHZSX3dHMnRZUXFxWVpUVnotNHNtaXluYlM5M0JWNkVmaGxLOGhNRjdnOVlTWnF4ZS1UUVVXd3F4UVFSR3FqbHdxZ0V2OEdtR2FmZWVR?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 26 Sep 2026 14:10:24 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Miçotakis",
-          "Meis",
-          "Erdoğan",
-          "gerilim"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "13a0eab0683b40ea6dbd8f25",
-        "mode": "geopolitico",
-        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - trthaber.com",
+        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
         "source": "TRT Haber Greece Watch",
         "published": "Sat, 26 Sep 2026 11:39:00 GMT",
@@ -365,20 +345,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "f6566fc54140423dde65766b",
+        "external_id": "178a15eed2aade1d4b542b53",
         "mode": "pontos_voice",
-        "title": "Trabzon'da bir doktordan aldığı kağıtla yeteneği ortaya çıktı",
-        "url": "https://www.61saat.com/trabzonda-bir-doktordan-aldigi-kagitla-yetenegi-ortaya-cikti",
+        "title": "Büyükşehir’den gençlere çağrı! Karadeniz’i sen anlat yarışmasına başvurular sürüyor",
+        "url": "https://www.61saat.com/buyuksehirden-genclere-cagri-karadenizi-sen-anlat-yarismasina-basvurular-suruyor",
         "source": "61Saat Trabzon",
-        "published": "Sun, 27 Sep 2026 09:36:00 +0300",
+        "published": "Sun, 27 Sep 2026 12:24:00 +0300",
         "base_score": 53,
         "candidate_score": 68,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Gümüşhane",
-          "Of",
-          "Trabzon"
+          "Trabzon",
+          "Karadeniz",
+          "vali"
         ],
         "content_type": "news"
       }
@@ -446,9 +426,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "00a7972a91bd9f9e5b46331e",
+      "external_id": "6eb3dca34e7bc0c23e563d82",
       "mode": "sportdog",
-      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
+      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Sat, 26 Sep 2026 05:57:40 GMT",
@@ -485,25 +465,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "b637da0875d88fb37093f773",
-      "mode": "sportdog",
-      "title": "Kifisia Olympiacos 31 October 2026 Live Score and Match Summary - Yeni Şafak English",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFRyWVBCb19selcwMGYyME5FeWdtLVFhUkpJaGttalVkRFI4TmtJY2ZaeWhITGt3WmJWUzdtUXVwUUVtM09ndnA4MjVtOU1WeWFWS0NURHNGeWstTWFfdVBGWG10UUlTZnFNdXdqNGtBcFEwT2pfU1A1aEx5cXFkYkZxY04?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 27 Sep 2026 01:28:10 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "fb5e9141c7ec0ba5a34923d2",
       "mode": "geopolitico",
       "title": "Atina'da Netanyahu isyanı! Miçotakis'in görüşmesine sert tepki: Erdoğan ittifaklar kurarken, biz vagonu olduk - Yirmidort.tv",
@@ -531,7 +492,7 @@
       "source": "Pakistan Security Watch",
       "published": "Sun, 27 Sep 2026 06:30:34 GMT",
       "base_score": 94,
-      "candidate_score": 109,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -560,6 +521,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "d0ea9a81385909144d7d5b73",
+      "mode": "geopolitico",
+      "title": "Ekim ayı Great Sea Interconnector konusunda belirleyici - Kıbrıs Postası",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOHd4TUtRYU1tVm4wWGM2Q2JOcHNpTVVvSVdubmFuWnN3UHRiR190MGRaWkNIQjVrNjBtbTZaYWlNd1pWcUd4dFI0Z1lNd1RoZVdORUotYzJMdDF4ZTlXbFhLY2lKbURsWDVEZGFrVzBneU1nSTRtRWdFTmVWcVhiZzBoWUlGNkxtWTFvX3M2RTVyNklxVXJHZjA2eHJvbURwcmtqMElGV2gtd0QwV0hR?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sun, 27 Sep 2026 09:24:00 GMT",
+      "base_score": 88,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Great Sea Interconnector",
+        "Kıbrıs",
+        "Great Sea Interconnector"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "fb0e92f10a8fa30c52007618",
       "mode": "geopolitico",
       "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - A Haber",
@@ -578,27 +556,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "faefe9aaf82d9060de5224dd",
+      "external_id": "e09eed8b326a4077fe73bd61",
       "mode": "geopolitico",
-      "title": "Meis'te gerilim tırmandı: Erdoğan'dan Miçotakis'e mesaj - A Haber",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVREUzQza19VWEJ4bHI5b3huRmZPdXNQMDJfVmJnaGFnZlNBOFUtNEJfczVWUVRiTTgyN3JOYm5NNkxUZTVhdGx6XzRPbkZMaWtOdDc2Z1JYWVVwWGQ2X1BUejAtTHZSX3dHMnRZUXFxWVpUVnotNHNtaXluYlM5M0JWNkVmaGxLOGhNRjdnOVlTWnF4ZS1UUVVXd3F4UVFSR3FqbHdxZ0V2OEdtR2FmZWVR?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 26 Sep 2026 14:10:24 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Miçotakis",
-        "Meis",
-        "Erdoğan",
-        "gerilim"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "13a0eab0683b40ea6dbd8f25",
-      "mode": "geopolitico",
-      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - trthaber.com",
+      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
       "source": "TRT Haber Greece Watch",
       "published": "Sat, 26 Sep 2026 11:39:00 GMT",
@@ -739,20 +699,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "f6566fc54140423dde65766b",
+      "external_id": "178a15eed2aade1d4b542b53",
       "mode": "pontos_voice",
-      "title": "Trabzon'da bir doktordan aldığı kağıtla yeteneği ortaya çıktı",
-      "url": "https://www.61saat.com/trabzonda-bir-doktordan-aldigi-kagitla-yetenegi-ortaya-cikti",
+      "title": "Büyükşehir’den gençlere çağrı! Karadeniz’i sen anlat yarışmasına başvurular sürüyor",
+      "url": "https://www.61saat.com/buyuksehirden-genclere-cagri-karadenizi-sen-anlat-yarismasina-basvurular-suruyor",
       "source": "61Saat Trabzon",
-      "published": "Sun, 27 Sep 2026 09:36:00 +0300",
+      "published": "Sun, 27 Sep 2026 12:24:00 +0300",
       "base_score": 53,
       "candidate_score": 68,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Gümüşhane",
-        "Of",
-        "Trabzon"
+        "Trabzon",
+        "Karadeniz",
+        "vali"
       ],
       "content_type": "news"
     }
