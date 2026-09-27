@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:22:50.835732+00:00",
+  "generated_at": "2026-09-27T16:39:10.469836+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -7,26 +7,6 @@
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "9f6cb5fe5176f2d5c139b631",
-        "mode": "sportdog",
-        "title": "PAOK finalizing a deal with Donatas Motiejunas - Eurohoops",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVYZVg0dVd2aE9OR1V0V3hkUUpHNVVaTDJtc2lRMGRBWU95TXdmemlDQjA5V0FUZTc3QVJKZ1lxX0UyUDc0RHAtQ1g3akdsZzdvWTFPQ0locXpFX19NREVPZUVsN3Joam9YcEZYeHdlekNoVVQ0b2kzZlNzd1BqYndXUUZNMVdyTlhQSHM0N3BRb1lsa3FV?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sun, 27 Sep 2026 08:26:00 GMT",
-        "base_score": 56,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "PAOK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
       {
         "external_id": "d4bb4f695723dadadac3e782",
         "mode": "sportdog",
@@ -64,6 +44,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "9f6cb5fe5176f2d5c139b631",
+        "mode": "sportdog",
+        "title": "PAOK finalizing a deal with Donatas Motiejunas - Eurohoops",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVYZVg0dVd2aE9OR1V0V3hkUUpHNVVaTDJtc2lRMGRBWU95TXdmemlDQjA5V0FUZTc3QVJKZ1lxX0UyUDc0RHAtQ1g3akdsZzdvWTFPQ0locXpFX19NREVPZUVsN3Joam9YcEZYeHdlekNoVVQ0b2kzZlNzd1BqYndXUUZNMVdyTlhQSHM0N3BRb1lsa3FV?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 27 Sep 2026 08:26:00 GMT",
+        "base_score": 56,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -154,7 +154,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sun, 27 Sep 2026 08:30:35 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -478,26 +478,6 @@
   },
   "items": [
     {
-      "external_id": "9f6cb5fe5176f2d5c139b631",
-      "mode": "sportdog",
-      "title": "PAOK finalizing a deal with Donatas Motiejunas - Eurohoops",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVYZVg0dVd2aE9OR1V0V3hkUUpHNVVaTDJtc2lRMGRBWU95TXdmemlDQjA5V0FUZTc3QVJKZ1lxX0UyUDc0RHAtQ1g3akdsZzdvWTFPQ0locXpFX19NREVPZUVsN3Joam9YcEZYeHdlekNoVVQ0b2kzZlNzd1BqYndXUUZNMVdyTlhQSHM0N3BRb1lsa3FV?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sun, 27 Sep 2026 08:26:00 GMT",
-      "base_score": 56,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "PAOK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "d4bb4f695723dadadac3e782",
       "mode": "sportdog",
       "title": "Olympiacos Get Good News on Gustavo Sa, Leon Bailey Before Panathinaikos - Yahoo Sports",
@@ -534,6 +514,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "9f6cb5fe5176f2d5c139b631",
+      "mode": "sportdog",
+      "title": "PAOK finalizing a deal with Donatas Motiejunas - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVYZVg0dVd2aE9OR1V0V3hkUUpHNVVaTDJtc2lRMGRBWU95TXdmemlDQjA5V0FUZTc3QVJKZ1lxX0UyUDc0RHAtQ1g3akdsZzdvWTFPQ0locXpFX19NREVPZUVsN3Joam9YcEZYeHdlekNoVVQ0b2kzZlNzd1BqYndXUUZNMVdyTlhQSHM0N3BRb1lsa3FV?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 27 Sep 2026 08:26:00 GMT",
+      "base_score": 56,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -624,7 +624,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sun, 27 Sep 2026 08:30:35 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
