@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T05:36:14.606908+00:00",
+  "generated_at": "2026-09-27T05:49:46.428489+00:00",
   "counts": {
-    "sportdog": 4,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -86,6 +86,25 @@
         "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
+      },
+      {
+        "external_id": "32e392d1b0e531d4276a9d5e",
+        "mode": "sportdog",
+        "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXJzQVM0MGdtZ1c2QlktQnlybXczNW1GRHNvdDVCSzlFUk1pNjVHTHNBRFFCZHRVWjhwdU9Hc05HNU9uZmZ3cENLdE52c3ZyaUZLQUNseTNaRUI4bE52OWZTdWZZUS1tazNlT1RYNXNOWkZnZUk0dHlWbGpOcEpjNjVNd3hGX2kxMnpzZExveVFtYnNCZzlJNGRtOXA1aVZ5dmNVZmZ5cm1oeERNY1lQNUd3?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 27 Sep 2026 05:39:19 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -144,25 +163,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "e09eed8b326a4077fe73bd61",
-        "mode": "geopolitico",
-        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
-        "source": "TRT Haber Greece Watch",
-        "published": "Sat, 26 Sep 2026 11:39:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Netanyahu",
-          "Miçotakis",
-          "görüşme",
-          "tepki"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "9c9a8eaed3f4497db36af61d",
         "mode": "geopolitico",
         "title": "‘Serial practitioner of terrorism’: Jaishankar targets Pakistan at UNGA - connectedtoindia.com",
@@ -177,6 +177,25 @@
           "Pakistan",
           "Jaishankar",
           "terrorism"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e09eed8b326a4077fe73bd61",
+        "mode": "geopolitico",
+        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
+        "source": "TRT Haber Greece Watch",
+        "published": "Sat, 26 Sep 2026 11:39:00 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Netanyahu",
+          "Miçotakis",
+          "görüşme",
+          "tepki"
         ],
         "content_type": "news"
       },
@@ -200,24 +219,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "63e067ff58ff578d35e7d718",
-        "mode": "geopolitico",
-        "title": "'It's for perpetrator of terrorism to mend its ways': Jaishankar takes aim at Pakistan in UN speech - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWUl3dnVFNl9vUmp5MEVyNnRxSGluMTRsYmdNLWw1eERmRGgyaFdaYUd4d28wRVk3bU1qTVBMLU5xVnBwd1N6ZFd1ZkVaQmJscXFNNjN5N2V4bnJwWXVTcnU1Sm0xcTl0Rl9iRUN4b1QxQ1BrTGNNdUYtMnNpb3N4X3dxb3BvSFlmU0s1NnB0eDVJSjlTeTlLaXdBUHY2N1NvMlVucjZ0NmUyNHhLWWgyTUdtbDFnU1liS2FYR1BYcjRfQkxwWG9feE5qRG0yY2tYV1BOMFFjTkZVd1hNQUlOaklCOHlpbWEwdHBlVGtVckFhSm1lUEHSAfsBQVVfeXFMTmxlLThQRFRST0oyQ29ZUVB4ckNKY3VGSjNxd3NkZUIzaVRqNXA5bEp2SVA2bGhUQnE1TWxnSm1PZ0U0aUhhMC1YUWdqSVphSVVEZDg5TkMtTkZMODJiMUU3OFRUZ0twanRGelFGT25BWk1TOHNqd3dBNWJJaFBEZ2NZd0pPQWZINll0Yk1PRTVGR3NVNDdlRzVJZUFjSWVjRlFWVEtNR0ZYTmlNOUZYQy1lTkhiM1JwRUhtYzRGVjFXS0Zkeld0djFmN21tUDVQOVRIMHRreF9BVThhV1FwdzgzbG9neklWQUtxYVF1VF8ybm1FdG9NbjlLUjg?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sat, 26 Sep 2026 17:56:00 GMT",
-        "base_score": 94,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Jaishankar",
-          "terrorism"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "a34e453508b179b30ce98df6",
         "mode": "geopolitico",
         "title": "'Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA | India News - Hindustan Times",
@@ -234,9 +235,46 @@
           "terrorism"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "36ac6ff08e4632569509d4f8",
+        "mode": "geopolitico",
+        "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - The Hindu",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ItRmY1NXRkWDRYdEdpTjkwRXkxQUM4WjJ6YkY2a2Z6c3ltc3hsMlNKblF4c0tDcGlzcjFEU1Jvdm13Q2V4SzBXNVVPN25RdGc0SHE5WV9GbXd2UU1BQUtPU0RHSm5DX0F3cFpMSEJkYjFZWHctSGhRZFNTZ0NiN25HM2ttbVRDb3fSAZABQVVfeXFMTUt0UWVISlR4ak5yb01IazNLQnFBeUZTS2dvY0NwWUwtSjByMS14RmRIbjJ5czhhaGVZOHh3X2NueV9ZUG5SUDVRXzliY3dkdjRjVlcxSDR0NXVRakVnR29oTWZsSmpCejZlT0tUUXhPQjVBUlZ0QlpnMkxhUmludVNWMG1SdWZrbUxJTW9COTFO?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 27 Sep 2026 01:50:06 GMT",
+        "base_score": 82,
+        "candidate_score": 92,
+        "priority": "High",
+        "matched_keywords": [
+          "Pakistan",
+          "Jaishankar",
+          "Iran",
+          "terrorism"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "765cf6d45aa1aad2b77bec41",
+        "mode": "pontos_voice",
+        "title": "Παμποντιακή Ομοσπονδία Ελλάδος: 22 χρόνια, μία κοινή φωνή – Η διαδρομή πίσω από το Φεστιβάλ Ποντιακών Χορών - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWm45alRUdXpZMWVvenBrd2p1Tm1uRDlnWVZlcWxZY2QybnJhVVBrb04yODlaOU5fNDNLTWNSNFhMZ0VHTFFqV0J3WUk5aXBTS25ZdjluZnkzM3pxaW5USThKRkpDYUh5NEZXUk1rMm10MEpSaFBEUEw1cC1LdGNWTC01UjJaYUtjcnc3cUVoVTRWYXVoN1pFUllLanR5QQ?oc=5",
+        "source": "Pontos News Watch",
+        "published": "Sat, 26 Sep 2026 17:38:43 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακή",
+          "Παμποντιακή",
+          "Παμποντιακή Ομοσπονδία Ελλάδος",
+          "ομοσπονδία"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "3e0ba600f4ac521eea7babb5",
         "mode": "pontos_voice",
@@ -318,22 +356,6 @@
         "matched_keywords": [
           "Pontos",
           "παράδοση"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "75b994c66f6f53714eb3d0e9",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor yalnızca futboldan ibaret değil! Trabzon, Türk Tankı'nı bağrına bastı",
-        "url": "https://www.61saat.com/trabzonspor-yalnizca-futboldan-ibaret-degil-trabzon-turk-tankini-bagrina-basti",
-        "source": "61Saat Trabzon",
-        "published": "Sun, 27 Sep 2026 08:17:00 +0300",
-        "base_score": 34,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -421,6 +443,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "32e392d1b0e531d4276a9d5e",
+      "mode": "sportdog",
+      "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXJzQVM0MGdtZ1c2QlktQnlybXczNW1GRHNvdDVCSzlFUk1pNjVHTHNBRFFCZHRVWjhwdU9Hc05HNU9uZmZ3cENLdE52c3ZyaUZLQUNseTNaRUI4bE52OWZTdWZZUS1tazNlT1RYNXNOWkZnZUk0dHlWbGpOcEpjNjVNd3hGX2kxMnpzZExveVFtYnNCZzlJNGRtOXA1aVZ5dmNVZmZ5cm1oeERNY1lQNUd3?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 27 Sep 2026 05:39:19 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "fb0e92f10a8fa30c52007618",
       "mode": "geopolitico",
       "title": "Atina'nın Doğu Akdeniz'deki Meis provokasyonuna Ankara'dan net duruş: Türkiye'yi dışlayan hiçbir denklem yaşayamaz - A Haber",
@@ -475,25 +516,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "e09eed8b326a4077fe73bd61",
-      "mode": "geopolitico",
-      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
-      "source": "TRT Haber Greece Watch",
-      "published": "Sat, 26 Sep 2026 11:39:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Netanyahu",
-        "Miçotakis",
-        "görüşme",
-        "tepki"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "9c9a8eaed3f4497db36af61d",
       "mode": "geopolitico",
       "title": "‘Serial practitioner of terrorism’: Jaishankar targets Pakistan at UNGA - connectedtoindia.com",
@@ -508,6 +530,25 @@
         "Pakistan",
         "Jaishankar",
         "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e09eed8b326a4077fe73bd61",
+      "mode": "geopolitico",
+      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
+      "source": "TRT Haber Greece Watch",
+      "published": "Sat, 26 Sep 2026 11:39:00 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Netanyahu",
+        "Miçotakis",
+        "görüşme",
+        "tepki"
       ],
       "content_type": "news"
     },
@@ -531,24 +572,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "63e067ff58ff578d35e7d718",
-      "mode": "geopolitico",
-      "title": "'It's for perpetrator of terrorism to mend its ways': Jaishankar takes aim at Pakistan in UN speech - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWUl3dnVFNl9vUmp5MEVyNnRxSGluMTRsYmdNLWw1eERmRGgyaFdaYUd4d28wRVk3bU1qTVBMLU5xVnBwd1N6ZFd1ZkVaQmJscXFNNjN5N2V4bnJwWXVTcnU1Sm0xcTl0Rl9iRUN4b1QxQ1BrTGNNdUYtMnNpb3N4X3dxb3BvSFlmU0s1NnB0eDVJSjlTeTlLaXdBUHY2N1NvMlVucjZ0NmUyNHhLWWgyTUdtbDFnU1liS2FYR1BYcjRfQkxwWG9feE5qRG0yY2tYV1BOMFFjTkZVd1hNQUlOaklCOHlpbWEwdHBlVGtVckFhSm1lUEHSAfsBQVVfeXFMTmxlLThQRFRST0oyQ29ZUVB4ckNKY3VGSjNxd3NkZUIzaVRqNXA5bEp2SVA2bGhUQnE1TWxnSm1PZ0U0aUhhMC1YUWdqSVphSVVEZDg5TkMtTkZMODJiMUU3OFRUZ0twanRGelFGT25BWk1TOHNqd3dBNWJJaFBEZ2NZd0pPQWZINll0Yk1PRTVGR3NVNDdlRzVJZUFjSWVjRlFWVEtNR0ZYTmlNOUZYQy1lTkhiM1JwRUhtYzRGVjFXS0Zkeld0djFmN21tUDVQOVRIMHRreF9BVThhV1FwdzgzbG9neklWQUtxYVF1VF8ybm1FdG9NbjlLUjg?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sat, 26 Sep 2026 17:56:00 GMT",
-      "base_score": 94,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Jaishankar",
-        "terrorism"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "a34e453508b179b30ce98df6",
       "mode": "geopolitico",
       "title": "'Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA | India News - Hindustan Times",
@@ -563,6 +586,43 @@
         "Pakistan",
         "Jaishankar",
         "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "36ac6ff08e4632569509d4f8",
+      "mode": "geopolitico",
+      "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ItRmY1NXRkWDRYdEdpTjkwRXkxQUM4WjJ6YkY2a2Z6c3ltc3hsMlNKblF4c0tDcGlzcjFEU1Jvdm13Q2V4SzBXNVVPN25RdGc0SHE5WV9GbXd2UU1BQUtPU0RHSm5DX0F3cFpMSEJkYjFZWHctSGhRZFNTZ0NiN25HM2ttbVRDb3fSAZABQVVfeXFMTUt0UWVISlR4ak5yb01IazNLQnFBeUZTS2dvY0NwWUwtSjByMS14RmRIbjJ5czhhaGVZOHh3X2NueV9ZUG5SUDVRXzliY3dkdjRjVlcxSDR0NXVRakVnR29oTWZsSmpCejZlT0tUUXhPQjVBUlZ0QlpnMkxhUmludVNWMG1SdWZrbUxJTW9COTFO?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 27 Sep 2026 01:50:06 GMT",
+      "base_score": 82,
+      "candidate_score": 92,
+      "priority": "High",
+      "matched_keywords": [
+        "Pakistan",
+        "Jaishankar",
+        "Iran",
+        "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "765cf6d45aa1aad2b77bec41",
+      "mode": "pontos_voice",
+      "title": "Παμποντιακή Ομοσπονδία Ελλάδος: 22 χρόνια, μία κοινή φωνή – Η διαδρομή πίσω από το Φεστιβάλ Ποντιακών Χορών - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWm45alRUdXpZMWVvenBrd2p1Tm1uRDlnWVZlcWxZY2QybnJhVVBrb04yODlaOU5fNDNLTWNSNFhMZ0VHTFFqV0J3WUk5aXBTS25ZdjluZnkzM3pxaW5USThKRkpDYUh5NEZXUk1rMm10MEpSaFBEUEw1cC1LdGNWTC01UjJaYUtjcnc3cUVoVTRWYXVoN1pFUllLanR5QQ?oc=5",
+      "source": "Pontos News Watch",
+      "published": "Sat, 26 Sep 2026 17:38:43 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "ποντιακή",
+        "Παμποντιακή",
+        "Παμποντιακή Ομοσπονδία Ελλάδος",
+        "ομοσπονδία"
       ],
       "content_type": "news"
     },
@@ -647,22 +707,6 @@
       "matched_keywords": [
         "Pontos",
         "παράδοση"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "75b994c66f6f53714eb3d0e9",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor yalnızca futboldan ibaret değil! Trabzon, Türk Tankı'nı bağrına bastı",
-      "url": "https://www.61saat.com/trabzonspor-yalnizca-futboldan-ibaret-degil-trabzon-turk-tankini-bagrina-basti",
-      "source": "61Saat Trabzon",
-      "published": "Sun, 27 Sep 2026 08:17:00 +0300",
-      "base_score": 34,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon"
       ],
       "content_type": "news"
     }
