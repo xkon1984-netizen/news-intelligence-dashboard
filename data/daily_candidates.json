@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:21:53.369800+00:00",
+  "generated_at": "2026-09-27T11:36:40.324451+00:00",
   "counts": {
     "sportdog": 10,
     "geopolitico": 8,
@@ -15,7 +15,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sun, 27 Sep 2026 08:26:00 GMT",
         "base_score": 56,
-        "candidate_score": 89,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "PAOK",
@@ -24,8 +24,8 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "PAOK",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "d4bb4f695723dadadac3e782",
@@ -88,9 +88,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "00a7972a91bd9f9e5b46331e",
+        "external_id": "6eb3dca34e7bc0c23e563d82",
         "mode": "sportdog",
-        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
+        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Sat, 26 Sep 2026 05:57:40 GMT",
@@ -135,7 +135,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sun, 27 Sep 2026 08:30:35 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -470,7 +470,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sun, 27 Sep 2026 08:26:00 GMT",
       "base_score": 56,
-      "candidate_score": 89,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "PAOK",
@@ -479,8 +479,8 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "PAOK",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "d4bb4f695723dadadac3e782",
@@ -543,9 +543,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "00a7972a91bd9f9e5b46331e",
+      "external_id": "6eb3dca34e7bc0c23e563d82",
       "mode": "sportdog",
-      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
+      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Sat, 26 Sep 2026 05:57:40 GMT",
@@ -590,7 +590,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sun, 27 Sep 2026 08:30:35 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
