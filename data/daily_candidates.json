@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T05:49:46.428489+00:00",
+  "generated_at": "2026-09-27T06:01:44.958425+00:00",
   "counts": {
-    "sportdog": 5,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -84,6 +84,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6eb3dca34e7bc0c23e563d82",
+        "mode": "sportdog",
+        "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sat, 26 Sep 2026 05:57:40 GMT",
+        "base_score": 56,
+        "candidate_score": 67,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -181,9 +201,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "e09eed8b326a4077fe73bd61",
+        "external_id": "13a0eab0683b40ea6dbd8f25",
         "mode": "geopolitico",
-        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
+        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - trthaber.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
         "source": "TRT Haber Greece Watch",
         "published": "Sat, 26 Sep 2026 11:39:00 GMT",
@@ -219,6 +239,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "63e067ff58ff578d35e7d718",
+        "mode": "geopolitico",
+        "title": "'It's for perpetrator of terrorism to mend its ways': Jaishankar takes aim at Pakistan in UN speech - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWUl3dnVFNl9vUmp5MEVyNnRxSGluMTRsYmdNLWw1eERmRGgyaFdaYUd4d28wRVk3bU1qTVBMLU5xVnBwd1N6ZFd1ZkVaQmJscXFNNjN5N2V4bnJwWXVTcnU1Sm0xcTl0Rl9iRUN4b1QxQ1BrTGNNdUYtMnNpb3N4X3dxb3BvSFlmU0s1NnB0eDVJSjlTeTlLaXdBUHY2N1NvMlVucjZ0NmUyNHhLWWgyTUdtbDFnU1liS2FYR1BYcjRfQkxwWG9feE5qRG0yY2tYV1BOMFFjTkZVd1hNQUlOaklCOHlpbWEwdHBlVGtVckFhSm1lUEHSAfsBQVVfeXFMTmxlLThQRFRST0oyQ29ZUVB4ckNKY3VGSjNxd3NkZUIzaVRqNXA5bEp2SVA2bGhUQnE1TWxnSm1PZ0U0aUhhMC1YUWdqSVphSVVEZDg5TkMtTkZMODJiMUU3OFRUZ0twanRGelFGT25BWk1TOHNqd3dBNWJJaFBEZ2NZd0pPQWZINll0Yk1PRTVGR3NVNDdlRzVJZUFjSWVjRlFWVEtNR0ZYTmlNOUZYQy1lTkhiM1JwRUhtYzRGVjFXS0Zkeld0djFmN21tUDVQOVRIMHRreF9BVThhV1FwdzgzbG9neklWQUtxYVF1VF8ybm1FdG9NbjlLUjg?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sat, 26 Sep 2026 17:56:00 GMT",
+        "base_score": 94,
+        "candidate_score": 100,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Jaishankar",
+          "terrorism"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "a34e453508b179b30ce98df6",
         "mode": "geopolitico",
         "title": "'Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA | India News - Hindustan Times",
@@ -232,24 +270,6 @@
           "India",
           "Pakistan",
           "Jaishankar",
-          "terrorism"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "36ac6ff08e4632569509d4f8",
-        "mode": "geopolitico",
-        "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - The Hindu",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ItRmY1NXRkWDRYdEdpTjkwRXkxQUM4WjJ6YkY2a2Z6c3ltc3hsMlNKblF4c0tDcGlzcjFEU1Jvdm13Q2V4SzBXNVVPN25RdGc0SHE5WV9GbXd2UU1BQUtPU0RHSm5DX0F3cFpMSEJkYjFZWHctSGhRZFNTZ0NiN25HM2ttbVRDb3fSAZABQVVfeXFMTUt0UWVISlR4ak5yb01IazNLQnFBeUZTS2dvY0NwWUwtSjByMS14RmRIbjJ5czhhaGVZOHh3X2NueV9ZUG5SUDVRXzliY3dkdjRjVlcxSDR0NXVRakVnR29oTWZsSmpCejZlT0tUUXhPQjVBUlZ0QlpnMkxhUmludVNWMG1SdWZrbUxJTW9COTFO?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sun, 27 Sep 2026 01:50:06 GMT",
-        "base_score": 82,
-        "candidate_score": 92,
-        "priority": "High",
-        "matched_keywords": [
-          "Pakistan",
-          "Jaishankar",
-          "Iran",
           "terrorism"
         ],
         "content_type": "news"
@@ -310,26 +330,25 @@
         "content_type": "news"
       },
       {
-        "external_id": "ebe90f1640ea2410bbcce06c",
+        "external_id": "4b52bcc0c5a4072140b212de",
         "mode": "pontos_voice",
-        "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1Q3d3otcXNCbHRkUkZJNW9xYXdIeGltbkdjQTV0UjhRX3B2Sk1ZOW9LcnIwaldZejRKMUdFdlY4M19rQ3RHRTNtZFZWWllfM2hNUkl0LW1QamNpNGptTngzQkN1TXhEamdoSDNlUkQxb1dab2J5M3hlc3pqeHc0N05HbWRFUFBUTlRmV2RVVmRKSy1NZk9tMjRmR0lNeVZEM2k1aWpNSU0zSjFqZ2FuY1duWmoyLXVrelVOQ2trTmZSUFdjZVVEd3A0SUpGMXlPbFHSAdcBQVVfeXFMTXZDbTJSZkhORHhRbmQyTWlQeHJ5bjQxSWlLS3A3SmItODJpdW1wV3VEeXhITUZjeWNITjNvNUNCdU83VTZSZ1k5cmVfMFdmbVZrLUlOam9IcGswRDZlNDVMck0zRnBVdzRsTnN3Rk1SdG1nbGE0YUF3TmJtREZhTHZTelZmUU9BWldSbEx1cnVKZ0VjblFfUG96SUdjRE51S21ZQzdCNlV1akZfbklhY2VxM2JPQlU3bExGQ1VCN2pPTVNrOWh6NzhnZHp4RkRqTE1zWnRsMk0?oc=5",
+        "title": "Τραπεζούντα: Η χολέρα κορυφώνεται – 352 νεκροί ως τον Δεκέμβριο - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzVueU9aUUJ3TWdVZ0dwN3dRVEtDb2hOZVMxM2xhMFZyMzd6LTVoSlZIbjd1amVKbVVaVkNKaVJkMFo4dzVLSEZKSWFXWHBwSnMyRVk5QUE3dUNnY3QxQi1lTEFDb0V0RS1tekdjUEtWLWZlMGtpUndodlVSSl82TTR2ZXhaQi1DMElyaEZxNUtzVmVNMVhMUmRlWHVRdExUV3JRcll3?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Fri, 25 Sep 2026 05:58:00 GMT",
-        "base_score": 86,
-        "candidate_score": 86,
+        "published": "Fri, 25 Sep 2026 15:24:48 GMT",
+        "base_score": 75,
+        "candidate_score": 75,
         "priority": "High",
         "matched_keywords": [
-          "ποντιακή",
-          "ποντιακή λύρα",
-          "λύρα"
+          "Pontos",
+          "Τραπεζούντα"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "f14e6a4ed9cfe1475e7d1bae",
+        "external_id": "c431574ebbf06631d2a7667e",
         "mode": "pontos_voice",
-        "title": "MHP Trabzon’da masa dönemi bitiyor! Hacısalihoğlu sahayı işaret etti - haber61.net",
+        "title": "MHP Trabzon’da masa dönemi bitiyor! Hacısalihoğlu sahayı işaret etti - Haber61",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHdEUGFlSmxEV2dfOEE2alZGV2xhb0gyVERadXN5NUxJazhkblV3NVlJTEYyYXZMOVlnX0owT2VmSGJjWFZTcVVnUVZrWFNDRDdadEF3U0hJdzZiNVc4WU5CSVBVZVdQcnRueXhVNjR6SE5mOUttbXJSRUF2MGV2NlBPQkJveURlS0FBSER5SVlsbllQaE9NRjJKUVR4OTRFRjNYODN2STZqQQ?oc=5",
         "source": "Haber61 Trabzon",
         "published": "Sun, 27 Sep 2026 05:19:47 GMT",
@@ -344,18 +363,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "bb1ff2b7c77198e622861956",
+        "external_id": "7420314aff14cb646d4e3bd4",
         "mode": "pontos_voice",
-        "title": "20ό Φεστιβάλ Ποντιακών Χορών: Στη Θεσσαλονίκη η ζωντανή μνήμη συνάντησε τη μοναδική παράδοση του Πόντου - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHFDamx3dV9jTmJxTWktVno2MUFFd1pZZlZPNkx2Z25BSVdXQV9LWHpydHkwRGZQekRVNmM2U0ZIaFVlZG1TczVyNWNLQktuMXdJSkhjMXF3SVNLd2NxYlVHbWZGWWJVaTRUTTNTcFluUWNxOVNuRzcxU0ZQSE56NzVGUEp3OENfV183UFE1NjViSDhzTXQybFR5eTBpVVBLb29sZ1RGMVBHRUxwMVMtMklrWQ?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Sat, 26 Sep 2026 20:57:59 GMT",
-        "base_score": 46,
-        "candidate_score": 52,
+        "title": "Trabzonspor’da başladı milli takıma taşıdı! “Kramponlarını temizleyeceğim” - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3pobUVnVDZ6YThMMjZTRFVxN2s5THNzYms4X0JuQ243dEJETV9DSXJGZ18yc2JLbnEzbWtTNWpsN2U3QkVDeFpSaVBPS1BMRjdUX0pUS1BEVUxvTEdQN19DMktvMnpjMjFmTmEwMEpNREZEQTJtRW9lNmV5Y01xSmZVcXdTamRGNXh3TkF0RHRreF8wRkRQcUN0Q1hvOFc0Z2lKclpGMGdVSXZWam84VjZuT1Y?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Sun, 27 Sep 2026 05:52:56 GMT",
+        "base_score": 40,
+        "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
-          "Pontos",
-          "παράδοση"
+          "Trabzon",
+          "Of",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -439,6 +459,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6eb3dca34e7bc0c23e563d82",
+      "mode": "sportdog",
+      "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZtYU1zRkFCUDRtbDQtQzZNOXhjT2lrcXc0UGJ6NFlUbkxZX0RzUHBqTHpJUXMySHhoWllRQU40OHFTc01FbjFHUkRmNUNuT1ZINWNMWHYzOEtMWFlFZEtsMHBLbGR6eV9UT2hKY19vM3ZucjF3cTV5SmxIa1YzNUJZV25xYmtCaG43S29WYi1iZnVoek83XzFhZWdoSWRGc05fZ2Z3?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sat, 26 Sep 2026 05:57:40 GMT",
+      "base_score": 56,
+      "candidate_score": 67,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -534,9 +574,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "e09eed8b326a4077fe73bd61",
+      "external_id": "13a0eab0683b40ea6dbd8f25",
       "mode": "geopolitico",
-      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
+      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - trthaber.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
       "source": "TRT Haber Greece Watch",
       "published": "Sat, 26 Sep 2026 11:39:00 GMT",
@@ -572,6 +612,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "63e067ff58ff578d35e7d718",
+      "mode": "geopolitico",
+      "title": "'It's for perpetrator of terrorism to mend its ways': Jaishankar takes aim at Pakistan in UN speech - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWUl3dnVFNl9vUmp5MEVyNnRxSGluMTRsYmdNLWw1eERmRGgyaFdaYUd4d28wRVk3bU1qTVBMLU5xVnBwd1N6ZFd1ZkVaQmJscXFNNjN5N2V4bnJwWXVTcnU1Sm0xcTl0Rl9iRUN4b1QxQ1BrTGNNdUYtMnNpb3N4X3dxb3BvSFlmU0s1NnB0eDVJSjlTeTlLaXdBUHY2N1NvMlVucjZ0NmUyNHhLWWgyTUdtbDFnU1liS2FYR1BYcjRfQkxwWG9feE5qRG0yY2tYV1BOMFFjTkZVd1hNQUlOaklCOHlpbWEwdHBlVGtVckFhSm1lUEHSAfsBQVVfeXFMTmxlLThQRFRST0oyQ29ZUVB4ckNKY3VGSjNxd3NkZUIzaVRqNXA5bEp2SVA2bGhUQnE1TWxnSm1PZ0U0aUhhMC1YUWdqSVphSVVEZDg5TkMtTkZMODJiMUU3OFRUZ0twanRGelFGT25BWk1TOHNqd3dBNWJJaFBEZ2NZd0pPQWZINll0Yk1PRTVGR3NVNDdlRzVJZUFjSWVjRlFWVEtNR0ZYTmlNOUZYQy1lTkhiM1JwRUhtYzRGVjFXS0Zkeld0djFmN21tUDVQOVRIMHRreF9BVThhV1FwdzgzbG9neklWQUtxYVF1VF8ybm1FdG9NbjlLUjg?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sat, 26 Sep 2026 17:56:00 GMT",
+      "base_score": 94,
+      "candidate_score": 100,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Jaishankar",
+        "terrorism"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "a34e453508b179b30ce98df6",
       "mode": "geopolitico",
       "title": "'Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA | India News - Hindustan Times",
@@ -585,24 +643,6 @@
         "India",
         "Pakistan",
         "Jaishankar",
-        "terrorism"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "36ac6ff08e4632569509d4f8",
-      "mode": "geopolitico",
-      "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ItRmY1NXRkWDRYdEdpTjkwRXkxQUM4WjJ6YkY2a2Z6c3ltc3hsMlNKblF4c0tDcGlzcjFEU1Jvdm13Q2V4SzBXNVVPN25RdGc0SHE5WV9GbXd2UU1BQUtPU0RHSm5DX0F3cFpMSEJkYjFZWHctSGhRZFNTZ0NiN25HM2ttbVRDb3fSAZABQVVfeXFMTUt0UWVISlR4ak5yb01IazNLQnFBeUZTS2dvY0NwWUwtSjByMS14RmRIbjJ5czhhaGVZOHh3X2NueV9ZUG5SUDVRXzliY3dkdjRjVlcxSDR0NXVRakVnR29oTWZsSmpCejZlT0tUUXhPQjVBUlZ0QlpnMkxhUmludVNWMG1SdWZrbUxJTW9COTFO?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sun, 27 Sep 2026 01:50:06 GMT",
-      "base_score": 82,
-      "candidate_score": 92,
-      "priority": "High",
-      "matched_keywords": [
-        "Pakistan",
-        "Jaishankar",
-        "Iran",
         "terrorism"
       ],
       "content_type": "news"
@@ -661,26 +701,25 @@
       "content_type": "news"
     },
     {
-      "external_id": "ebe90f1640ea2410bbcce06c",
+      "external_id": "4b52bcc0c5a4072140b212de",
       "mode": "pontos_voice",
-      "title": "Λευκόπετρα Ξάνθης: Η ποντιακή λύρα έγινε τοπόσημο – Τον Οκτώβριο τα αποκαλυπτήρια - ertnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1Q3d3otcXNCbHRkUkZJNW9xYXdIeGltbkdjQTV0UjhRX3B2Sk1ZOW9LcnIwaldZejRKMUdFdlY4M19rQ3RHRTNtZFZWWllfM2hNUkl0LW1QamNpNGptTngzQkN1TXhEamdoSDNlUkQxb1dab2J5M3hlc3pqeHc0N05HbWRFUFBUTlRmV2RVVmRKSy1NZk9tMjRmR0lNeVZEM2k1aWpNSU0zSjFqZ2FuY1duWmoyLXVrelVOQ2trTmZSUFdjZVVEd3A0SUpGMXlPbFHSAdcBQVVfeXFMTXZDbTJSZkhORHhRbmQyTWlQeHJ5bjQxSWlLS3A3SmItODJpdW1wV3VEeXhITUZjeWNITjNvNUNCdU83VTZSZ1k5cmVfMFdmbVZrLUlOam9IcGswRDZlNDVMck0zRnBVdzRsTnN3Rk1SdG1nbGE0YUF3TmJtREZhTHZTelZmUU9BWldSbEx1cnVKZ0VjblFfUG96SUdjRE51S21ZQzdCNlV1akZfbklhY2VxM2JPQlU3bExGQ1VCN2pPTVNrOWh6NzhnZHp4RkRqTE1zWnRsMk0?oc=5",
+      "title": "Τραπεζούντα: Η χολέρα κορυφώνεται – 352 νεκροί ως τον Δεκέμβριο - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzVueU9aUUJ3TWdVZ0dwN3dRVEtDb2hOZVMxM2xhMFZyMzd6LTVoSlZIbjd1amVKbVVaVkNKaVJkMFo4dzVLSEZKSWFXWHBwSnMyRVk5QUE3dUNnY3QxQi1lTEFDb0V0RS1tekdjUEtWLWZlMGtpUndodlVSSl82TTR2ZXhaQi1DMElyaEZxNUtzVmVNMVhMUmRlWHVRdExUV3JRcll3?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Fri, 25 Sep 2026 05:58:00 GMT",
-      "base_score": 86,
-      "candidate_score": 86,
+      "published": "Fri, 25 Sep 2026 15:24:48 GMT",
+      "base_score": 75,
+      "candidate_score": 75,
       "priority": "High",
       "matched_keywords": [
-        "ποντιακή",
-        "ποντιακή λύρα",
-        "λύρα"
+        "Pontos",
+        "Τραπεζούντα"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "f14e6a4ed9cfe1475e7d1bae",
+      "external_id": "c431574ebbf06631d2a7667e",
       "mode": "pontos_voice",
-      "title": "MHP Trabzon’da masa dönemi bitiyor! Hacısalihoğlu sahayı işaret etti - haber61.net",
+      "title": "MHP Trabzon’da masa dönemi bitiyor! Hacısalihoğlu sahayı işaret etti - Haber61",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHdEUGFlSmxEV2dfOEE2alZGV2xhb0gyVERadXN5NUxJazhkblV3NVlJTEYyYXZMOVlnX0owT2VmSGJjWFZTcVVnUVZrWFNDRDdadEF3U0hJdzZiNVc4WU5CSVBVZVdQcnRueXhVNjR6SE5mOUttbXJSRUF2MGV2NlBPQkJveURlS0FBSER5SVlsbllQaE9NRjJKUVR4OTRFRjNYODN2STZqQQ?oc=5",
       "source": "Haber61 Trabzon",
       "published": "Sun, 27 Sep 2026 05:19:47 GMT",
@@ -695,18 +734,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "bb1ff2b7c77198e622861956",
+      "external_id": "7420314aff14cb646d4e3bd4",
       "mode": "pontos_voice",
-      "title": "20ό Φεστιβάλ Ποντιακών Χορών: Στη Θεσσαλονίκη η ζωντανή μνήμη συνάντησε τη μοναδική παράδοση του Πόντου - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHFDamx3dV9jTmJxTWktVno2MUFFd1pZZlZPNkx2Z25BSVdXQV9LWHpydHkwRGZQekRVNmM2U0ZIaFVlZG1TczVyNWNLQktuMXdJSkhjMXF3SVNLd2NxYlVHbWZGWWJVaTRUTTNTcFluUWNxOVNuRzcxU0ZQSE56NzVGUEp3OENfV183UFE1NjViSDhzTXQybFR5eTBpVVBLb29sZ1RGMVBHRUxwMVMtMklrWQ?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Sat, 26 Sep 2026 20:57:59 GMT",
-      "base_score": 46,
-      "candidate_score": 52,
+      "title": "Trabzonspor’da başladı milli takıma taşıdı! “Kramponlarını temizleyeceğim” - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3pobUVnVDZ6YThMMjZTRFVxN2s5THNzYms4X0JuQ243dEJETV9DSXJGZ18yc2JLbnEzbWtTNWpsN2U3QkVDeFpSaVBPS1BMRjdUX0pUS1BEVUxvTEdQN19DMktvMnpjMjFmTmEwMEpNREZEQTJtRW9lNmV5Y01xSmZVcXdTamRGNXh3TkF0RHRreF8wRkRQcUN0Q1hvOFc0Z2lKclpGMGdVSXZWam84VjZuT1Y?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Sun, 27 Sep 2026 05:52:56 GMT",
+      "base_score": 40,
+      "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
-        "Pontos",
-        "παράδοση"
+        "Trabzon",
+        "Of",
+        "Trabzon"
       ],
       "content_type": "news"
     }
