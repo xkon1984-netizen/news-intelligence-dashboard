@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T00:30:46.224013+00:00",
+  "generated_at": "2026-09-27T00:53:34.427352+00:00",
   "counts": {
-    "sportdog": 4,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -44,6 +44,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "733e9548c973a07b415bd8c3",
+        "mode": "sportdog",
+        "title": "PAOK Komotinis - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sat, 26 Sep 2026 11:07:32 GMT",
+        "base_score": 56,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -163,10 +183,10 @@
         "content_type": "news"
       },
       {
-        "external_id": "5bb2928d007dbe77550da416",
+        "external_id": "df5f44e6c0f26e002af65324",
         "mode": "geopolitico",
         "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM0N0WmZkMFhhdWdpZERyelFZUlE3amwzNnAxSEh3bmZZSHlMQXRfQkZKSVpubXZNeHJhN3hJejM4TUN3dU1oU2xhYW5wdWcyZkFFZnkzbl9kTzM0eE5TZ2VGekhHbzcyaWhFTWRRU0k1dlY3bTloaUJYVUlDRVdwTkIzRlAzT3VTRVFYWjlWeTZIaDRIa3ljNlpHNjFHd2NLWmIwNkJzNnZMcHVJc1B5YlRPVW1DVHRENC1WTzZIR1VIcVNOLWxvaWh6V3hzUHc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUxHWHlLakRSSjZaMDBtWldKZ1lyakVTMmNqcVlPaUwyb0RsUkx5eWpxdWlFY1FIc1ZmQkN6TTZCOFlKYlkxcUNVUUxObFBxUzlOZGtDZTBlZnNibmNabWdibGxXWlhBQnFLbEVYRHk0YXBacEluakxuZ0pkZ3Q0TGtWV294a0NlWVNma1NPU1NtbUlMTk5UNlNBbW9tZ1lOaEdyV1Bkbkc3R2V6d0dPVHlWMjZHdFhxUjU3c2ozSWs2c1RnQVhUcXpn?oc=5",
         "source": "Anadolu Greece Watch",
         "published": "Sat, 26 Sep 2026 08:10:54 GMT",
         "base_score": 100,
@@ -200,9 +220,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "12878cdbac2491005ed9f630",
+        "external_id": "c571203db236c7453ffaa50c",
         "mode": "geopolitico",
-        "title": "Jaishankar Slams Pakistan At UN: 'India Will Exercise Its Right To Defend Against Terrorism' - NDTV Profit",
+        "title": "Jaishankar Slams Pakistan At UN: 'India Will Exercise Its Right To Defend Against Terrorism' - ndtvprofit.com",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNREZfZ3pkWk5yUXN4WXVFbmxJWVZhVEVEbEM0bDlrVlNEUG5pMVl6b04zc2ltMjg2UFRSSUFhQlFsNS03NktpLW5CbHJ6WFh3SkV0WVlCUDYxc2lwUUpROU43NmkyUnlPXzBYRENaVHl0SXNLTWhrbE5PMmJZTzk5QzdDNEdIa1pNbTFIc3NQWUpQM3FhYkVyVEl4TzJVemU3V3M4dmxzU1ltcTladjU0WFdzVUZ5UGc1clBIQTdhbm5ldmN2MVpnSDFTWdIB0wFBVV95cUxOckhFZ3JSOHQzMFRrM0lKV3JiWFZ2dmNDWHZyNVdnRmlPLVJTdWZpcHE5bjljUUhudGdiZlV5aS1uZm1LTm1rUGRqM1ZRbTNaQVVKYWx4V2lVeGd6WU0zdmQ5dGpjMVdVek5ZSVZCWG9sSTRVRTRQOUgtLVVwNkd6SGVFQ0UxVjAyY3VEZzJrak1ybkhhRWI2ekxqel9KREpzTzdhOWdreE0zRXFMenhLdkV3blkwMFI4clZlc0FYQnZaR3k2bGNac2RtRzQxZ0E1a0ZB?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sat, 26 Sep 2026 18:15:54 GMT",
@@ -385,6 +405,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "733e9548c973a07b415bd8c3",
+      "mode": "sportdog",
+      "title": "PAOK Komotinis - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sat, 26 Sep 2026 11:07:32 GMT",
+      "base_score": 56,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "6eb3dca34e7bc0c23e563d82",
       "mode": "sportdog",
       "title": "Blocks per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
@@ -498,10 +538,10 @@
       "content_type": "news"
     },
     {
-      "external_id": "5bb2928d007dbe77550da416",
+      "external_id": "df5f44e6c0f26e002af65324",
       "mode": "geopolitico",
       "title": "Yunanistan'da muhalefetten, Başbakan Miçotakis'in İsrail Başbakanı Netanyahu ile görüşmesine tepki - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM0N0WmZkMFhhdWdpZERyelFZUlE3amwzNnAxSEh3bmZZSHlMQXRfQkZKSVpubXZNeHJhN3hJejM4TUN3dU1oU2xhYW5wdWcyZkFFZnkzbl9kTzM0eE5TZ2VGekhHbzcyaWhFTWRRU0k1dlY3bTloaUJYVUlDRVdwTkIzRlAzT3VTRVFYWjlWeTZIaDRIa3ljNlpHNjFHd2NLWmIwNkJzNnZMcHVJc1B5YlRPVW1DVHRENC1WTzZIR1VIcVNOLWxvaWh6V3hzUHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUxHWHlLakRSSjZaMDBtWldKZ1lyakVTMmNqcVlPaUwyb0RsUkx5eWpxdWlFY1FIc1ZmQkN6TTZCOFlKYlkxcUNVUUxObFBxUzlOZGtDZTBlZnNibmNabWdibGxXWlhBQnFLbEVYRHk0YXBacEluakxuZ0pkZ3Q0TGtWV294a0NlWVNma1NPU1NtbUlMTk5UNlNBbW9tZ1lOaEdyV1Bkbkc3R2V6d0dPVHlWMjZHdFhxUjU3c2ozSWs2c1RnQVhUcXpn?oc=5",
       "source": "Anadolu Greece Watch",
       "published": "Sat, 26 Sep 2026 08:10:54 GMT",
       "base_score": 100,
@@ -535,9 +575,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "12878cdbac2491005ed9f630",
+      "external_id": "c571203db236c7453ffaa50c",
       "mode": "geopolitico",
-      "title": "Jaishankar Slams Pakistan At UN: 'India Will Exercise Its Right To Defend Against Terrorism' - NDTV Profit",
+      "title": "Jaishankar Slams Pakistan At UN: 'India Will Exercise Its Right To Defend Against Terrorism' - ndtvprofit.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNREZfZ3pkWk5yUXN4WXVFbmxJWVZhVEVEbEM0bDlrVlNEUG5pMVl6b04zc2ltMjg2UFRSSUFhQlFsNS03NktpLW5CbHJ6WFh3SkV0WVlCUDYxc2lwUUpROU43NmkyUnlPXzBYRENaVHl0SXNLTWhrbE5PMmJZTzk5QzdDNEdIa1pNbTFIc3NQWUpQM3FhYkVyVEl4TzJVemU3V3M4dmxzU1ltcTladjU0WFdzVUZ5UGc1clBIQTdhbm5ldmN2MVpnSDFTWdIB0wFBVV95cUxOckhFZ3JSOHQzMFRrM0lKV3JiWFZ2dmNDWHZyNVdnRmlPLVJTdWZpcHE5bjljUUhudGdiZlV5aS1uZm1LTm1rUGRqM1ZRbTNaQVVKYWx4V2lVeGd6WU0zdmQ5dGpjMVdVek5ZSVZCWG9sSTRVRTRQOUgtLVVwNkd6SGVFQ0UxVjAyY3VEZzJrak1ybkhhRWI2ekxqel9KREpzTzdhOWdreE0zRXFMenhLdkV3blkwMFI4clZlc0FYQnZaR3k2bGNac2RtRzQxZ0E1a0ZB?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sat, 26 Sep 2026 18:15:54 GMT",
