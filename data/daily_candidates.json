@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T04:40:01.114191+00:00",
+  "generated_at": "2026-09-27T04:59:57.005132+00:00",
   "counts": {
-    "sportdog": 5,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -44,6 +44,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "733e9548c973a07b415bd8c3",
+        "mode": "sportdog",
+        "title": "PAOK Komotinis - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sat, 26 Sep 2026 11:07:32 GMT",
+        "base_score": 56,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -182,9 +202,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "13a0eab0683b40ea6dbd8f25",
+        "external_id": "e09eed8b326a4077fe73bd61",
         "mode": "geopolitico",
-        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - trthaber.com",
+        "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
         "source": "TRT Haber Greece Watch",
         "published": "Sat, 26 Sep 2026 11:39:00 GMT",
@@ -334,7 +354,7 @@
         "source": "Pontos News Watch",
         "published": "Sat, 26 Sep 2026 20:57:59 GMT",
         "base_score": 46,
-        "candidate_score": 56,
+        "candidate_score": 52,
         "priority": "Normal",
         "matched_keywords": [
           "Pontos",
@@ -399,6 +419,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "733e9548c973a07b415bd8c3",
+      "mode": "sportdog",
+      "title": "PAOK Komotinis - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sat, 26 Sep 2026 11:07:32 GMT",
+      "base_score": 56,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -535,9 +575,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "13a0eab0683b40ea6dbd8f25",
+      "external_id": "e09eed8b326a4077fe73bd61",
       "mode": "geopolitico",
-      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - trthaber.com",
+      "title": "Miçotakis-Netanyahu görüşmesine Yunanistan’dan büyük tepki: “Bundan daha büyük bir utanç olamaz” - TRT Haber",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDE5Z1Z6TWZfYTI0VFUyeW53a3JtN3ItZUgxYkJuYWNERS1uRS0tU3Yyb1lXN01jbmhDQVpmVjkzemlPNEdSNm1iTF9DenZLR29SYjVzSXV0NmxHZm5nQzRYNVZmZUxBRmhYclpuLUpRS0R3cURuY29MaE5acno5U2VONENLYmtCTFFiaWtZRVh3UFE1UHpPTVR5SlFWYS1kR0VXbkduUVRCWS1pRWsxOTBXZVJSc1g4eWdvQWxxcU0zVTlsYkF3aFhvMHI4SkprQnhBTlJ1cXY?oc=5",
       "source": "TRT Haber Greece Watch",
       "published": "Sat, 26 Sep 2026 11:39:00 GMT",
@@ -685,7 +725,7 @@
       "source": "Pontos News Watch",
       "published": "Sat, 26 Sep 2026 20:57:59 GMT",
       "base_score": 46,
-      "candidate_score": 56,
+      "candidate_score": 52,
       "priority": "Normal",
       "matched_keywords": [
         "Pontos",
