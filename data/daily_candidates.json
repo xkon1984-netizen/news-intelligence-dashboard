@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T00:53:34.427352+00:00",
+  "generated_at": "2026-09-27T01:06:40.432491+00:00",
   "counts": {
-    "sportdog": 5,
+    "sportdog": 4,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -44,26 +44,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "733e9548c973a07b415bd8c3",
-        "mode": "sportdog",
-        "title": "PAOK Komotinis - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sat, 26 Sep 2026 11:07:32 GMT",
-        "base_score": 56,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -220,9 +200,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "c571203db236c7453ffaa50c",
+        "external_id": "12878cdbac2491005ed9f630",
         "mode": "geopolitico",
-        "title": "Jaishankar Slams Pakistan At UN: 'India Will Exercise Its Right To Defend Against Terrorism' - ndtvprofit.com",
+        "title": "Jaishankar Slams Pakistan At UN: 'India Will Exercise Its Right To Defend Against Terrorism' - NDTV Profit",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNREZfZ3pkWk5yUXN4WXVFbmxJWVZhVEVEbEM0bDlrVlNEUG5pMVl6b04zc2ltMjg2UFRSSUFhQlFsNS03NktpLW5CbHJ6WFh3SkV0WVlCUDYxc2lwUUpROU43NmkyUnlPXzBYRENaVHl0SXNLTWhrbE5PMmJZTzk5QzdDNEdIa1pNbTFIc3NQWUpQM3FhYkVyVEl4TzJVemU3V3M4dmxzU1ltcTladjU0WFdzVUZ5UGc1clBIQTdhbm5ldmN2MVpnSDFTWdIB0wFBVV95cUxOckhFZ3JSOHQzMFRrM0lKV3JiWFZ2dmNDWHZyNVdnRmlPLVJTdWZpcHE5bjljUUhudGdiZlV5aS1uZm1LTm1rUGRqM1ZRbTNaQVVKYWx4V2lVeGd6WU0zdmQ5dGpjMVdVek5ZSVZCWG9sSTRVRTRQOUgtLVVwNkd6SGVFQ0UxVjAyY3VEZzJrak1ybkhhRWI2ekxqel9KREpzTzdhOWdreE0zRXFMenhLdkV3blkwMFI4clZlc0FYQnZaR3k2bGNac2RtRzQxZ0E1a0ZB?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sat, 26 Sep 2026 18:15:54 GMT",
@@ -346,18 +326,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "bb1ff2b7c77198e622861956",
+        "external_id": "2a8607f265b0f46eb5af3200",
         "mode": "pontos_voice",
-        "title": "20ό Φεστιβάλ Ποντιακών Χορών: Στη Θεσσαλονίκη η ζωντανή μνήμη συνάντησε τη μοναδική παράδοση του Πόντου - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHFDamx3dV9jTmJxTWktVno2MUFFd1pZZlZPNkx2Z25BSVdXQV9LWHpydHkwRGZQekRVNmM2U0ZIaFVlZG1TczVyNWNLQktuMXdJSkhjMXF3SVNLd2NxYlVHbWZGWWJVaTRUTTNTcFluUWNxOVNuRzcxU0ZQSE56NzVGUEp3OENfV183UFE1NjViSDhzTXQybFR5eTBpVVBLb29sZ1RGMVBHRUxwMVMtMklrWQ?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Sat, 26 Sep 2026 20:57:59 GMT",
+        "title": "Trabzon'da \"100. Yılında Trabzon Ticaret Lisesi\" adlı kitap tanıtıldı",
+        "url": "https://www.61saat.com/trabzonda-100-yilinda-trabzon-ticaret-lisesi-adli-kitap-tanitildi",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 26 Sep 2026 21:21:00 +0300",
         "base_score": 46,
         "candidate_score": 56,
         "priority": "Normal",
         "matched_keywords": [
-          "Pontos",
-          "παράδοση"
+          "Trabzon",
+          "anıt",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -401,26 +382,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "733e9548c973a07b415bd8c3",
-      "mode": "sportdog",
-      "title": "PAOK Komotinis - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sat, 26 Sep 2026 11:07:32 GMT",
-      "base_score": 56,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -575,9 +536,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "c571203db236c7453ffaa50c",
+      "external_id": "12878cdbac2491005ed9f630",
       "mode": "geopolitico",
-      "title": "Jaishankar Slams Pakistan At UN: 'India Will Exercise Its Right To Defend Against Terrorism' - ndtvprofit.com",
+      "title": "Jaishankar Slams Pakistan At UN: 'India Will Exercise Its Right To Defend Against Terrorism' - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNREZfZ3pkWk5yUXN4WXVFbmxJWVZhVEVEbEM0bDlrVlNEUG5pMVl6b04zc2ltMjg2UFRSSUFhQlFsNS03NktpLW5CbHJ6WFh3SkV0WVlCUDYxc2lwUUpROU43NmkyUnlPXzBYRENaVHl0SXNLTWhrbE5PMmJZTzk5QzdDNEdIa1pNbTFIc3NQWUpQM3FhYkVyVEl4TzJVemU3V3M4dmxzU1ltcTladjU0WFdzVUZ5UGc1clBIQTdhbm5ldmN2MVpnSDFTWdIB0wFBVV95cUxOckhFZ3JSOHQzMFRrM0lKV3JiWFZ2dmNDWHZyNVdnRmlPLVJTdWZpcHE5bjljUUhudGdiZlV5aS1uZm1LTm1rUGRqM1ZRbTNaQVVKYWx4V2lVeGd6WU0zdmQ5dGpjMVdVek5ZSVZCWG9sSTRVRTRQOUgtLVVwNkd6SGVFQ0UxVjAyY3VEZzJrak1ybkhhRWI2ekxqel9KREpzTzdhOWdreE0zRXFMenhLdkV3blkwMFI4clZlc0FYQnZaR3k2bGNac2RtRzQxZ0E1a0ZB?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sat, 26 Sep 2026 18:15:54 GMT",
@@ -699,18 +660,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "bb1ff2b7c77198e622861956",
+      "external_id": "2a8607f265b0f46eb5af3200",
       "mode": "pontos_voice",
-      "title": "20ό Φεστιβάλ Ποντιακών Χορών: Στη Θεσσαλονίκη η ζωντανή μνήμη συνάντησε τη μοναδική παράδοση του Πόντου - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHFDamx3dV9jTmJxTWktVno2MUFFd1pZZlZPNkx2Z25BSVdXQV9LWHpydHkwRGZQekRVNmM2U0ZIaFVlZG1TczVyNWNLQktuMXdJSkhjMXF3SVNLd2NxYlVHbWZGWWJVaTRUTTNTcFluUWNxOVNuRzcxU0ZQSE56NzVGUEp3OENfV183UFE1NjViSDhzTXQybFR5eTBpVVBLb29sZ1RGMVBHRUxwMVMtMklrWQ?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Sat, 26 Sep 2026 20:57:59 GMT",
+      "title": "Trabzon'da \"100. Yılında Trabzon Ticaret Lisesi\" adlı kitap tanıtıldı",
+      "url": "https://www.61saat.com/trabzonda-100-yilinda-trabzon-ticaret-lisesi-adli-kitap-tanitildi",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 26 Sep 2026 21:21:00 +0300",
       "base_score": 46,
       "candidate_score": 56,
       "priority": "Normal",
       "matched_keywords": [
-        "Pontos",
-        "παράδοση"
+        "Trabzon",
+        "anıt",
+        "Trabzon"
       ],
       "content_type": "news"
     }
