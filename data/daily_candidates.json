@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T23:00:00.018692+00:00",
+  "generated_at": "2026-09-27T23:20:41.871141+00:00",
   "counts": {
-    "sportdog": 13,
+    "sportdog": 12,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -84,26 +84,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "733e9548c973a07b415bd8c3",
-        "mode": "sportdog",
-        "title": "PAOK Komotinis - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sat, 26 Sep 2026 11:07:32 GMT",
-        "base_score": 56,
-        "candidate_score": 76,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -370,20 +350,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "36ac6ff08e4632569509d4f8",
+        "external_id": "1056e3f39d7e56625202eab1",
         "mode": "geopolitico",
-        "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - The Hindu",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ItRmY1NXRkWDRYdEdpTjkwRXkxQUM4WjJ6YkY2a2Z6c3ltc3hsMlNKblF4c0tDcGlzcjFEU1Jvdm13Q2V4SzBXNVVPN25RdGc0SHE5WV9GbXd2UU1BQUtPU0RHSm5DX0F3cFpMSEJkYjFZWHctSGhRZFNTZ0NiN25HM2ttbVRDb3fSAZABQVVfeXFMTUt0UWVISlR4ak5yb01IazNLQnFBeUZTS2dvY0NwWUwtSjByMS14RmRIbjJ5czhhaGVZOHh3X2NueV9ZUG5SUDVRXzliY3dkdjRjVlcxSDR0NXVRakVnR29oTWZsSmpCejZlT0tUUXhPQjVBUlZ0QlpnMkxhUmludVNWMG1SdWZrbUxJTW9COTFO?oc=5",
+        "title": "Pakistan Army Says 71 Militants Killed in Four Days of Operations in Balochistan - KabulNow",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQenhVd2lQWElvQ2xQLUstZF9ETnc3Y2Fna0VHOGU3aTFCOGd2MW5ROURkV0hVNWE5QmFLVE5zblcybjdUNUJ0NzJGem5DdWNicWZDZmZRR2lYMXJMMGZoVDdjenY1bHo5VzI4d1luUHl5ckRRMzhkWTBUdjlJWjhVRnRueWN6bkhSMjF2a2Z1RVNKdFRycU12WGgyQjNMZG84WklqZXRVZjZtOHlsR2Ew?oc=5",
         "source": "Pakistan Security Watch",
-        "published": "Sun, 27 Sep 2026 01:50:06 GMT",
-        "base_score": 82,
-        "candidate_score": 85,
+        "published": "Sun, 27 Sep 2026 16:49:31 GMT",
+        "base_score": 72,
+        "candidate_score": 82,
         "priority": "High",
         "matched_keywords": [
           "Pakistan",
-          "Jaishankar",
-          "Iran",
-          "terrorism"
+          "Pakistan Army",
+          "Balochistan"
         ],
         "content_type": "news"
       },
@@ -588,26 +567,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "733e9548c973a07b415bd8c3",
-      "mode": "sportdog",
-      "title": "PAOK Komotinis - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sat, 26 Sep 2026 11:07:32 GMT",
-      "base_score": 56,
-      "candidate_score": 76,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -872,20 +831,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "36ac6ff08e4632569509d4f8",
+      "external_id": "1056e3f39d7e56625202eab1",
       "mode": "geopolitico",
-      "title": "Morning Digest: At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty; Trump rejects Iran proposal for deal to reopen Hormuz; and more - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ItRmY1NXRkWDRYdEdpTjkwRXkxQUM4WjJ6YkY2a2Z6c3ltc3hsMlNKblF4c0tDcGlzcjFEU1Jvdm13Q2V4SzBXNVVPN25RdGc0SHE5WV9GbXd2UU1BQUtPU0RHSm5DX0F3cFpMSEJkYjFZWHctSGhRZFNTZ0NiN25HM2ttbVRDb3fSAZABQVVfeXFMTUt0UWVISlR4ak5yb01IazNLQnFBeUZTS2dvY0NwWUwtSjByMS14RmRIbjJ5czhhaGVZOHh3X2NueV9ZUG5SUDVRXzliY3dkdjRjVlcxSDR0NXVRakVnR29oTWZsSmpCejZlT0tUUXhPQjVBUlZ0QlpnMkxhUmludVNWMG1SdWZrbUxJTW9COTFO?oc=5",
+      "title": "Pakistan Army Says 71 Militants Killed in Four Days of Operations in Balochistan - KabulNow",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQenhVd2lQWElvQ2xQLUstZF9ETnc3Y2Fna0VHOGU3aTFCOGd2MW5ROURkV0hVNWE5QmFLVE5zblcybjdUNUJ0NzJGem5DdWNicWZDZmZRR2lYMXJMMGZoVDdjenY1bHo5VzI4d1luUHl5ckRRMzhkWTBUdjlJWjhVRnRueWN6bkhSMjF2a2Z1RVNKdFRycU12WGgyQjNMZG84WklqZXRVZjZtOHlsR2Ew?oc=5",
       "source": "Pakistan Security Watch",
-      "published": "Sun, 27 Sep 2026 01:50:06 GMT",
-      "base_score": 82,
-      "candidate_score": 85,
+      "published": "Sun, 27 Sep 2026 16:49:31 GMT",
+      "base_score": 72,
+      "candidate_score": 82,
       "priority": "High",
       "matched_keywords": [
         "Pakistan",
-        "Jaishankar",
-        "Iran",
-        "terrorism"
+        "Pakistan Army",
+        "Balochistan"
       ],
       "content_type": "news"
     },
