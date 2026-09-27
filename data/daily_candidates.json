@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T02:23:11.887030+00:00",
+  "generated_at": "2026-09-27T02:40:13.900107+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Sat, 26 Sep 2026 18:34:59 GMT",
         "base_score": 62,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -24,8 +24,8 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "a24e9cb1d4ccc4933f2e5782",
@@ -44,26 +44,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "733e9548c973a07b415bd8c3",
-        "mode": "sportdog",
-        "title": "PAOK Komotinis - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sat, 26 Sep 2026 11:07:32 GMT",
-        "base_score": 56,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -319,7 +299,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sat, 26 Sep 2026 08:40:00 GMT",
         "base_score": 86,
-        "candidate_score": 92,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "ποντιακή",
@@ -390,7 +370,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Sat, 26 Sep 2026 18:34:59 GMT",
       "base_score": 62,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -399,8 +379,8 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "a24e9cb1d4ccc4933f2e5782",
@@ -419,26 +399,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "733e9548c973a07b415bd8c3",
-      "mode": "sportdog",
-      "title": "PAOK Komotinis - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzE3cXVhbmZRVDZ6dWdFb3FSdU1TTkJQQjdXSXNQaUhzRjR1S3BDR3FZU0Y0YVdJYS1UZ0ZqdjQ4VS1NNE1QdFFDT3hOYjUxOEFBVWNTelNoZi1YTUVoRnVsbVFXU0kxVVJ1SURQQmhJSllRQ0E3MldrQmNUYnN4Z2dfYzJMQQ?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sat, 26 Sep 2026 11:07:32 GMT",
-      "base_score": 56,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -690,7 +650,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sat, 26 Sep 2026 08:40:00 GMT",
       "base_score": 86,
-      "candidate_score": 92,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "ποντιακή",
