@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:04:12.807241+00:00",
+  "generated_at": "2026-09-28T15:26:59.976670+00:00",
   "counts": {
     "sportdog": 13,
     "geopolitico": 8,
@@ -14,26 +14,6 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-        "base_score": 56,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "bab0c890efc8effe4bb03d5c",
-        "mode": "sportdog",
-        "title": "George Pappas returns to Olympiacos on one-year deal - basketballsphere.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOem1QYUJXUUtkaTBIS3RSNmxEdzB3SzczODVXdWlqNVhFVy1ucDE0N2p1ZG9pejZYWk9NTEVVUXlFRWRXd24yWUZxSjFvaU15alNZY0M4aVpOMUktOG1oTm1EeEhqcmNEM1FHMVluYXNNdmJIMlExdkE2d3J5Z3ZLcFd6SkFjZw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 28 Sep 2026 07:12:33 GMT",
         "base_score": 56,
         "candidate_score": 84,
         "priority": "High",
@@ -63,6 +43,26 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "bab0c890efc8effe4bb03d5c",
+        "mode": "sportdog",
+        "title": "George Pappas returns to Olympiacos on one-year deal - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOem1QYUJXUUtkaTBIS3RSNmxEdzB3SzczODVXdWlqNVhFVy1ucDE0N2p1ZG9pejZYWk9NTEVVUXlFRWRXd24yWUZxSjFvaU15alNZY0M4aVpOMUktOG1oTm1EeEhqcmNEM1FHMVluYXNNdmJIMlExdkE2d3J5Z3ZLcFd6SkFjZw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 28 Sep 2026 07:12:33 GMT",
+        "base_score": 56,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
         "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -299,9 +299,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "8b049a57f9884952b6727515",
+        "external_id": "c12f5f4529140d0a4cdc2134",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: Fon krizinde kelleler uçacak - bundle.app",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: Fon krizinde kelleler uçacak - Bundle",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDA0UDZkaVNmeGpoS1dCdVRpc3pQNkhNR2ZBc19JSXF6M2V2bU0zVFVqZFliellRY2ozeU9yNHZLMlZqNVlOWmRXZDVzU1JDNldWZXhPOFp2NmNtc052aktuajFhUmxBTlBnOGNfaFJzaUJqb19hcDN3UEhDUVg2dklzc1BwNGxSVDR4YVBZVDFkYTFYekZHakJ1Ylg5dnJaRzJtS1hOUDQxajRrRktCM08tOHhoUQ?oc=5",
         "source": "Analysts Watch · Turkey",
         "published": "Mon, 28 Sep 2026 13:08:31 GMT",
@@ -315,12 +315,12 @@
         "content_type": "analyst"
       },
       {
-        "external_id": "d0a68d6ea1c4564d865c46f1",
+        "external_id": "389efe9adaba6c068304a031",
         "mode": "geopolitico",
         "title": "Γεραπετρίτης για GSI, Navtex και Τουρκία : ««Ό,τι απαιτηθεί θα γίνει» - Sigmalive",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHl1YXJic0FyRTNCZ3RaZVhVQnUtXzYtQnU5ekdKN0hlV1UwZ1Y1SEY0UmVWZExlWTBwNEpTWHk4UE1ic1pneVZOWk9ycU9OQ1ZPT2tjVTktZXlDZl9nRzhUN2pXcktGNW9zWUpkdXk3Y2RTNDJzZ2kxOS1seUNKUWQ2Zk1TMU85eDBRVTF5SFhtMGhtRGFuN0RQNmlvYnhLRmZTQzh2SnVxZXJKblRxcw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWpBZFM2QWFQVDJMbDRkN2tBSjRQQWFMWGpqeU1DajBFN3NOZHROYms3ZWNZRVlQdl9HdS1ZX2N6a0JaY0NtZEZULUl4U1VlM3V4U3ZuVTZxUGxaSlNaeTZHZnZKQWJCLUNqMEFxU3QtNGdhUzNNeWJibmRaeHlNb25mQnlhTFd0QXpReXdIaU1oYW9wbF9GWm43b0E1N3VBYm9MaE5VaENMQkJ2?oc=5",
         "source": "Dodecanese Security Migration Watch",
-        "published": "Mon, 28 Sep 2026 10:11:04 GMT",
+        "published": "Mon, 28 Sep 2026 11:10:03 GMT",
         "base_score": 78,
         "candidate_score": 88,
         "priority": "High",
@@ -328,24 +328,6 @@
           "NAVTEX",
           "GSI",
           "GSI"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "aa1c78cb2741422bafa950d2",
-        "mode": "geopolitico",
-        "title": "Is the Iran-sanctions playbook coming for Israel? - Foundation for Defense of Democracies",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEVBbE1xTWRESkxkTFQyUGpGY1lLOWh1aHFsQ3ZYMEdKcFJndmZLM3pXRDNJdGY0aVJBVHFTTkVhV1VPR0tqUk91MlczV2pwWng0c0pmeHNiaUN2WXZ3dzdqV3VXcWx2Sm5KS3V2Q0Fka2p4SjFXMDlVbmpWYkZ1dndkMGRMb3RUeHNpOWdKQVRGcjlNeEVr?oc=5",
-        "source": "Foundation for Defense of Democracies FDD",
-        "published": "Mon, 28 Sep 2026 14:11:16 GMT",
-        "base_score": 72,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "Israel",
-          "Iran",
-          "sanctions",
-          "defense"
         ],
         "content_type": "news"
       },
@@ -382,9 +364,9 @@
         "content_type": "analyst"
       },
       {
-        "external_id": "072cb0b68d74f3c913aaeb51",
+        "external_id": "590980f5ad38298733e63455",
         "mode": "geopolitico",
-        "title": "Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı - kibristurk.com",
+        "title": "Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı - Kıbrıs Türk Haber",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2RFNHpSUFpFRTRPMEdVeXFwTkg2WTZzM2Z5WmNMVlVJY0ZxWGprR1g1V3VlN1MyS3NnU2l1dnk5eXlpVWkweGJycUoyQjhYVlFhQWhjNEdnd1lrV1BOZE1qYUhTektxYmp0V0F5bkZiOUt0cDIzLWhYOWpRc21jQXRtQk5jbjlUNUo1aGRtOVg?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 28 Sep 2026 10:35:00 GMT",
@@ -392,9 +374,26 @@
         "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
-          "Kibris",
           "Miçotakis",
+          "Kıbrıs",
           "Atina"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "7b3356fb6f1af09bfd7a4a72",
+        "mode": "geopolitico",
+        "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 27 Sep 2026 17:56:29 GMT",
+        "base_score": 77,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Jaishankar"
         ],
         "content_type": "news"
       }
@@ -489,17 +488,17 @@
         "content_type": "news"
       },
       {
-        "external_id": "419e84ad2d6bab417915ceee",
+        "external_id": "2d7adb93e3eadf84008e247a",
         "mode": "pontos_voice",
-        "title": "Ωραιόκαστρο: Οι Πόντιοι δίνουν… προίκα! Το έθιμο στον Μονόλοφο! - Thita News",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUdkQ2pzTnNLNHVpZFhOQjFScHhINTFlZ3kzckc0WDNMZUY4VGRRdV9tVGJqa3RDNWhqdENnZUFITUhfcUFkZTdDV2FTNXFpNGhrcjJrT2FTb0hnZGJnSUgtRTRYRVZEYzJlYzJKdmt2US1HdW54UHJQZG1TRDZjaFJ0cGZKcEdJbEU5X0ZPVQ?oc=5",
+        "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Mon, 28 Sep 2026 14:44:00 GMT",
+        "published": "Mon, 28 Sep 2026 15:18:40 GMT",
         "base_score": 40,
         "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
-          "Πόντιοι"
+          "Σουμελά"
         ],
         "content_type": "news"
       }
@@ -513,26 +512,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-      "base_score": 56,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "bab0c890efc8effe4bb03d5c",
-      "mode": "sportdog",
-      "title": "George Pappas returns to Olympiacos on one-year deal - basketballsphere.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOem1QYUJXUUtkaTBIS3RSNmxEdzB3SzczODVXdWlqNVhFVy1ucDE0N2p1ZG9pejZYWk9NTEVVUXlFRWRXd24yWUZxSjFvaU15alNZY0M4aVpOMUktOG1oTm1EeEhqcmNEM1FHMVluYXNNdmJIMlExdkE2d3J5Z3ZLcFd6SkFjZw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 28 Sep 2026 07:12:33 GMT",
       "base_score": 56,
       "candidate_score": 84,
       "priority": "High",
@@ -562,6 +541,26 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "bab0c890efc8effe4bb03d5c",
+      "mode": "sportdog",
+      "title": "George Pappas returns to Olympiacos on one-year deal - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOem1QYUJXUUtkaTBIS3RSNmxEdzB3SzczODVXdWlqNVhFVy1ucDE0N2p1ZG9pejZYWk9NTEVVUXlFRWRXd24yWUZxSjFvaU15alNZY0M4aVpOMUktOG1oTm1EeEhqcmNEM1FHMVluYXNNdmJIMlExdkE2d3J5Z3ZLcFd6SkFjZw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 28 Sep 2026 07:12:33 GMT",
+      "base_score": 56,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
       "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -796,9 +795,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "8b049a57f9884952b6727515",
+      "external_id": "c12f5f4529140d0a4cdc2134",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: Fon krizinde kelleler uçacak - bundle.app",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: Fon krizinde kelleler uçacak - Bundle",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDA0UDZkaVNmeGpoS1dCdVRpc3pQNkhNR2ZBc19JSXF6M2V2bU0zVFVqZFliellRY2ozeU9yNHZLMlZqNVlOWmRXZDVzU1JDNldWZXhPOFp2NmNtc052aktuajFhUmxBTlBnOGNfaFJzaUJqb19hcDN3UEhDUVg2dklzc1BwNGxSVDR4YVBZVDFkYTFYekZHakJ1Ylg5dnJaRzJtS1hOUDQxajRrRktCM08tOHhoUQ?oc=5",
       "source": "Analysts Watch · Turkey",
       "published": "Mon, 28 Sep 2026 13:08:31 GMT",
@@ -812,12 +811,12 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "d0a68d6ea1c4564d865c46f1",
+      "external_id": "389efe9adaba6c068304a031",
       "mode": "geopolitico",
       "title": "Γεραπετρίτης για GSI, Navtex και Τουρκία : ««Ό,τι απαιτηθεί θα γίνει» - Sigmalive",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHl1YXJic0FyRTNCZ3RaZVhVQnUtXzYtQnU5ekdKN0hlV1UwZ1Y1SEY0UmVWZExlWTBwNEpTWHk4UE1ic1pneVZOWk9ycU9OQ1ZPT2tjVTktZXlDZl9nRzhUN2pXcktGNW9zWUpkdXk3Y2RTNDJzZ2kxOS1seUNKUWQ2Zk1TMU85eDBRVTF5SFhtMGhtRGFuN0RQNmlvYnhLRmZTQzh2SnVxZXJKblRxcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWpBZFM2QWFQVDJMbDRkN2tBSjRQQWFMWGpqeU1DajBFN3NOZHROYms3ZWNZRVlQdl9HdS1ZX2N6a0JaY0NtZEZULUl4U1VlM3V4U3ZuVTZxUGxaSlNaeTZHZnZKQWJCLUNqMEFxU3QtNGdhUzNNeWJibmRaeHlNb25mQnlhTFd0QXpReXdIaU1oYW9wbF9GWm43b0E1N3VBYm9MaE5VaENMQkJ2?oc=5",
       "source": "Dodecanese Security Migration Watch",
-      "published": "Mon, 28 Sep 2026 10:11:04 GMT",
+      "published": "Mon, 28 Sep 2026 11:10:03 GMT",
       "base_score": 78,
       "candidate_score": 88,
       "priority": "High",
@@ -825,24 +824,6 @@
         "NAVTEX",
         "GSI",
         "GSI"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "aa1c78cb2741422bafa950d2",
-      "mode": "geopolitico",
-      "title": "Is the Iran-sanctions playbook coming for Israel? - Foundation for Defense of Democracies",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEVBbE1xTWRESkxkTFQyUGpGY1lLOWh1aHFsQ3ZYMEdKcFJndmZLM3pXRDNJdGY0aVJBVHFTTkVhV1VPR0tqUk91MlczV2pwWng0c0pmeHNiaUN2WXZ3dzdqV3VXcWx2Sm5KS3V2Q0Fka2p4SjFXMDlVbmpWYkZ1dndkMGRMb3RUeHNpOWdKQVRGcjlNeEVr?oc=5",
-      "source": "Foundation for Defense of Democracies FDD",
-      "published": "Mon, 28 Sep 2026 14:11:16 GMT",
-      "base_score": 72,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "Israel",
-        "Iran",
-        "sanctions",
-        "defense"
       ],
       "content_type": "news"
     },
@@ -879,9 +860,9 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "072cb0b68d74f3c913aaeb51",
+      "external_id": "590980f5ad38298733e63455",
       "mode": "geopolitico",
-      "title": "Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı - kibristurk.com",
+      "title": "Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı - Kıbrıs Türk Haber",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2RFNHpSUFpFRTRPMEdVeXFwTkg2WTZzM2Z5WmNMVlVJY0ZxWGprR1g1V3VlN1MyS3NnU2l1dnk5eXlpVWkweGJycUoyQjhYVlFhQWhjNEdnd1lrV1BOZE1qYUhTektxYmp0V0F5bkZiOUt0cDIzLWhYOWpRc21jQXRtQk5jbjlUNUo1aGRtOVg?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 28 Sep 2026 10:35:00 GMT",
@@ -889,9 +870,26 @@
       "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
-        "Kibris",
         "Miçotakis",
+        "Kıbrıs",
         "Atina"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "7b3356fb6f1af09bfd7a4a72",
+      "mode": "geopolitico",
+      "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 27 Sep 2026 17:56:29 GMT",
+      "base_score": 77,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Jaishankar"
       ],
       "content_type": "news"
     },
@@ -984,17 +982,17 @@
       "content_type": "news"
     },
     {
-      "external_id": "419e84ad2d6bab417915ceee",
+      "external_id": "2d7adb93e3eadf84008e247a",
       "mode": "pontos_voice",
-      "title": "Ωραιόκαστρο: Οι Πόντιοι δίνουν… προίκα! Το έθιμο στον Μονόλοφο! - Thita News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUdkQ2pzTnNLNHVpZFhOQjFScHhINTFlZ3kzckc0WDNMZUY4VGRRdV9tVGJqa3RDNWhqdENnZUFITUhfcUFkZTdDV2FTNXFpNGhrcjJrT2FTb0hnZGJnSUgtRTRYRVZEYzJlYzJKdmt2US1HdW54UHJQZG1TRDZjaFJ0cGZKcEdJbEU5X0ZPVQ?oc=5",
+      "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Mon, 28 Sep 2026 14:44:00 GMT",
+      "published": "Mon, 28 Sep 2026 15:18:40 GMT",
       "base_score": 40,
       "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
-        "Πόντιοι"
+        "Σουμελά"
       ],
       "content_type": "news"
     }
