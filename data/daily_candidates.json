@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T22:51:42.365580+00:00",
+  "generated_at": "2026-09-28T23:04:21.334661+00:00",
   "counts": {
     "sportdog": 9,
     "geopolitico": 8,
@@ -108,9 +108,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "080a03bda93df133e6d3de24",
+        "external_id": "bcc1935d353cf18145ed2fc5",
         "mode": "sportdog",
-        "title": "PAOK Transactions - uk.sports.yahoo.com",
+        "title": "PAOK Transactions - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nVFV2NmJkTlR6TFowRnBmMjBuRE9PX1ZpODJKMEo3M18yZl9vbkpMQnlXU1dtYllDWkRGNnhPbFpOcThvVjRJR25EMTlkUVFxRGp3eE5CR3hHbE1MV0pTQWxIOVVDS3dGVVBwV1Rn?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Mon, 28 Sep 2026 02:44:44 GMT",
@@ -327,19 +327,18 @@
     ],
     "pontos_voice": [
       {
-        "external_id": "9d874b1c9cb276014fba67bd",
+        "external_id": "836fb7a1ebf23721cac5758a",
         "mode": "pontos_voice",
-        "title": "Κρύα Βρύση: Τα παιδιά του Ηλία Κεμεντζίδη αποκάλυψαν το μνημείο του υπό τους ήχους της ποντιακής λύρας - eleftheria.gr",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTWtSM2Y5azVWMXlNOERnV1lXT3I3OTBPVUxIMFpfdlBUUFUwelROTTZ2bXJIalpNTVJtSlZxSWw4YjN1aGVlOTFKdGRyOVg4eTZKX2JXYW1VTVk4dmNQMEcxWnVtTWxaYTA1Q3hGU1NyZjhMTU03X3dDZm1qb2owRzZPeFQzWGl2b2txcEZ3MHE1OGF6cE5iVlBmSGgwdjJvYlhmNjJmbmF0OGdYTHhhdzJoeWluNHRGNjhoU3dCNHFzZFdfX2FJUnBIUHVRSVpKNVctYTJoTS0?oc=5",
+        "title": "Ο Πόντος «ζωντάνεψε» στη Θεσσαλονίκη: 2.100 χορευτές στο 20ό Φεστιβάλ Ποντιακών Χορών της ΠΟΕ - Livemedia.gr",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFeGFnMi10VHBSeG1LbzRHdkM0UFdSRzYzMHJjWEtUREZGU2o4TEFTSjFUb0JHckJzOXhaRm94NF9tRUxWVE9mM0R4WlZGYWVobmdqcE8yNXlQYXN2VHhBUjg2RUNtbTN0UnF4WEQ3MTN4bDQ?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Mon, 28 Sep 2026 20:00:50 GMT",
-        "base_score": 57,
-        "candidate_score": 72,
-        "priority": "High",
+        "published": "Mon, 28 Sep 2026 13:17:59 GMT",
+        "base_score": 63,
+        "candidate_score": 69,
+        "priority": "Normal",
         "matched_keywords": [
-          "ποντιακή",
-          "λύρα",
-          "μνημείο"
+          "Πόντος",
+          "ΠΟΕ"
         ],
         "content_type": "news"
       },
@@ -356,6 +355,23 @@
         "matched_keywords": [
           "Pontos",
           "ποντιακή"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "9d874b1c9cb276014fba67bd",
+        "mode": "pontos_voice",
+        "title": "Κρύα Βρύση: Τα παιδιά του Ηλία Κεμεντζίδη αποκάλυψαν το μνημείο του υπό τους ήχους της ποντιακής λύρας - eleftheria.gr",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTWtSM2Y5azVWMXlNOERnV1lXT3I3OTBPVUxIMFpfdlBUUFUwelROTTZ2bXJIalpNTVJtSlZxSWw4YjN1aGVlOTFKdGRyOVg4eTZKX2JXYW1VTVk4dmNQMEcxWnVtTWxaYTA1Q3hGU1NyZjhMTU03X3dDZm1qb2owRzZPeFQzWGl2b2txcEZ3MHE1OGF6cE5iVlBmSGgwdjJvYlhmNjJmbmF0OGdYTHhhdzJoeWluNHRGNjhoU3dCNHFzZFdfX2FJUnBIUHVRSVpKNVctYTJoTS0?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Mon, 28 Sep 2026 20:00:50 GMT",
+        "base_score": 57,
+        "candidate_score": 67,
+        "priority": "Normal",
+        "matched_keywords": [
+          "ποντιακή",
+          "λύρα",
+          "μνημείο"
         ],
         "content_type": "news"
       },
@@ -377,9 +393,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "ae780fe174c837c4a540a654",
+        "external_id": "a51f7e827379dc1ed29083fa",
         "mode": "pontos_voice",
-        "title": "Milli Takım’da İtalya Maçı kadrosu açıklandı! Trabzonsporlu iki oyuncu kadroda - haber61.net",
+        "title": "Milli Takım’da İtalya Maçı kadrosu açıklandı! Trabzonsporlu iki oyuncu kadroda - Haber61",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVhveUtQQm9ITkVpVlBUVzVBU0trUkFZMU9uOFpZeFB1R01VRUdHUFJCMzZVWF9KUktfZzNLdnNJS001dzRYRDdGYW4tVjREaXpkYnVoTUxUX3hmd3FkUTR4MTdsY1BXelZzQ2RNak9ZZGFVYlhSVXVYM3MtYWt2bGdkM3JOV3lpdldiQnFMbnRYVHlKUDZmYjBJVnNNeHdxVTRRSGhBaUFfY1otUmZ0V2x0ckpmRzNpNTZOQg?oc=5",
         "source": "Haber61 Trabzon",
         "published": "Mon, 28 Sep 2026 17:48:44 GMT",
@@ -394,9 +410,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "2683baa67077b71b8c072ddd",
+        "external_id": "c441c287af0cab9d3a51544b",
         "mode": "pontos_voice",
-        "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - haber61.net",
+        "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzhCY3BGTHo1WjN6LUxadXZyaWlEV2MwQklydm9scU90U1BxRmdwMUNkbkFoTUpMbEp0dER5eE5qZlpNZTlDbkQ2U00xZGpkRldtWkhnY1VsdVdmdHljdEJneW1mdTU4ejNFaWFVUE5fRVdkNUhyNjVHcHpKeko3azNHNnJsT3ZqOFVKYl9FdENic1ZOTndfekFfX2ptSllXX3c?oc=5",
         "source": "Haber61 Trabzon",
         "published": "Mon, 28 Sep 2026 15:49:27 GMT",
@@ -407,21 +423,6 @@
           "Trabzon",
           "Of",
           "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "2d7adb93e3eadf84008e247a",
-        "mode": "pontos_voice",
-        "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Mon, 28 Sep 2026 15:18:40 GMT",
-        "base_score": 40,
-        "candidate_score": 50,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Σουμελά"
         ],
         "content_type": "news"
       }
@@ -529,9 +530,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "080a03bda93df133e6d3de24",
+      "external_id": "bcc1935d353cf18145ed2fc5",
       "mode": "sportdog",
-      "title": "PAOK Transactions - uk.sports.yahoo.com",
+      "title": "PAOK Transactions - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nVFV2NmJkTlR6TFowRnBmMjBuRE9PX1ZpODJKMEo3M18yZl9vbkpMQnlXU1dtYllDWkRGNnhPbFpOcThvVjRJR25EMTlkUVFxRGp3eE5CR3hHbE1MV0pTQWxIOVVDS3dGVVBwV1Rn?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Mon, 28 Sep 2026 02:44:44 GMT",
@@ -744,19 +745,18 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "9d874b1c9cb276014fba67bd",
+      "external_id": "836fb7a1ebf23721cac5758a",
       "mode": "pontos_voice",
-      "title": "Κρύα Βρύση: Τα παιδιά του Ηλία Κεμεντζίδη αποκάλυψαν το μνημείο του υπό τους ήχους της ποντιακής λύρας - eleftheria.gr",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTWtSM2Y5azVWMXlNOERnV1lXT3I3OTBPVUxIMFpfdlBUUFUwelROTTZ2bXJIalpNTVJtSlZxSWw4YjN1aGVlOTFKdGRyOVg4eTZKX2JXYW1VTVk4dmNQMEcxWnVtTWxaYTA1Q3hGU1NyZjhMTU03X3dDZm1qb2owRzZPeFQzWGl2b2txcEZ3MHE1OGF6cE5iVlBmSGgwdjJvYlhmNjJmbmF0OGdYTHhhdzJoeWluNHRGNjhoU3dCNHFzZFdfX2FJUnBIUHVRSVpKNVctYTJoTS0?oc=5",
+      "title": "Ο Πόντος «ζωντάνεψε» στη Θεσσαλονίκη: 2.100 χορευτές στο 20ό Φεστιβάλ Ποντιακών Χορών της ΠΟΕ - Livemedia.gr",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFeGFnMi10VHBSeG1LbzRHdkM0UFdSRzYzMHJjWEtUREZGU2o4TEFTSjFUb0JHckJzOXhaRm94NF9tRUxWVE9mM0R4WlZGYWVobmdqcE8yNXlQYXN2VHhBUjg2RUNtbTN0UnF4WEQ3MTN4bDQ?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Mon, 28 Sep 2026 20:00:50 GMT",
-      "base_score": 57,
-      "candidate_score": 72,
-      "priority": "High",
+      "published": "Mon, 28 Sep 2026 13:17:59 GMT",
+      "base_score": 63,
+      "candidate_score": 69,
+      "priority": "Normal",
       "matched_keywords": [
-        "ποντιακή",
-        "λύρα",
-        "μνημείο"
+        "Πόντος",
+        "ΠΟΕ"
       ],
       "content_type": "news"
     },
@@ -773,6 +773,23 @@
       "matched_keywords": [
         "Pontos",
         "ποντιακή"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "9d874b1c9cb276014fba67bd",
+      "mode": "pontos_voice",
+      "title": "Κρύα Βρύση: Τα παιδιά του Ηλία Κεμεντζίδη αποκάλυψαν το μνημείο του υπό τους ήχους της ποντιακής λύρας - eleftheria.gr",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTWtSM2Y5azVWMXlNOERnV1lXT3I3OTBPVUxIMFpfdlBUUFUwelROTTZ2bXJIalpNTVJtSlZxSWw4YjN1aGVlOTFKdGRyOVg4eTZKX2JXYW1VTVk4dmNQMEcxWnVtTWxaYTA1Q3hGU1NyZjhMTU03X3dDZm1qb2owRzZPeFQzWGl2b2txcEZ3MHE1OGF6cE5iVlBmSGgwdjJvYlhmNjJmbmF0OGdYTHhhdzJoeWluNHRGNjhoU3dCNHFzZFdfX2FJUnBIUHVRSVpKNVctYTJoTS0?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Mon, 28 Sep 2026 20:00:50 GMT",
+      "base_score": 57,
+      "candidate_score": 67,
+      "priority": "Normal",
+      "matched_keywords": [
+        "ποντιακή",
+        "λύρα",
+        "μνημείο"
       ],
       "content_type": "news"
     },
@@ -794,9 +811,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "ae780fe174c837c4a540a654",
+      "external_id": "a51f7e827379dc1ed29083fa",
       "mode": "pontos_voice",
-      "title": "Milli Takım’da İtalya Maçı kadrosu açıklandı! Trabzonsporlu iki oyuncu kadroda - haber61.net",
+      "title": "Milli Takım’da İtalya Maçı kadrosu açıklandı! Trabzonsporlu iki oyuncu kadroda - Haber61",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVhveUtQQm9ITkVpVlBUVzVBU0trUkFZMU9uOFpZeFB1R01VRUdHUFJCMzZVWF9KUktfZzNLdnNJS001dzRYRDdGYW4tVjREaXpkYnVoTUxUX3hmd3FkUTR4MTdsY1BXelZzQ2RNak9ZZGFVYlhSVXVYM3MtYWt2bGdkM3JOV3lpdldiQnFMbnRYVHlKUDZmYjBJVnNNeHdxVTRRSGhBaUFfY1otUmZ0V2x0ckpmRzNpNTZOQg?oc=5",
       "source": "Haber61 Trabzon",
       "published": "Mon, 28 Sep 2026 17:48:44 GMT",
@@ -811,9 +828,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "2683baa67077b71b8c072ddd",
+      "external_id": "c441c287af0cab9d3a51544b",
       "mode": "pontos_voice",
-      "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - haber61.net",
+      "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzhCY3BGTHo1WjN6LUxadXZyaWlEV2MwQklydm9scU90U1BxRmdwMUNkbkFoTUpMbEp0dER5eE5qZlpNZTlDbkQ2U00xZGpkRldtWkhnY1VsdVdmdHljdEJneW1mdTU4ejNFaWFVUE5fRVdkNUhyNjVHcHpKeko3azNHNnJsT3ZqOFVKYl9FdENic1ZOTndfekFfX2ptSllXX3c?oc=5",
       "source": "Haber61 Trabzon",
       "published": "Mon, 28 Sep 2026 15:49:27 GMT",
@@ -824,21 +841,6 @@
         "Trabzon",
         "Of",
         "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "2d7adb93e3eadf84008e247a",
-      "mode": "pontos_voice",
-      "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Mon, 28 Sep 2026 15:18:40 GMT",
-      "base_score": 40,
-      "candidate_score": 50,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Σουμελά"
       ],
       "content_type": "news"
     }
