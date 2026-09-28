@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T17:50:13.850193+00:00",
+  "generated_at": "2026-09-28T18:02:18.960726+00:00",
   "counts": {
-    "sportdog": 12,
+    "sportdog": 13,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -44,6 +44,26 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "bb584489dd34f5bb366d37d3",
+        "mode": "sportdog",
+        "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Mon, 28 Sep 2026 07:21:58 GMT",
+        "base_score": 56,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -383,25 +403,6 @@
     ],
     "pontos_voice": [
       {
-        "external_id": "cb74d2c175ae7b6e94feaa50",
-        "mode": "pontos_voice",
-        "title": "MHP İl Başkanı Hacısalihoğlu, ‘Terörsüz Türkiye’ süreci ile ilgili konuştu!",
-        "url": "https://www.61saat.com/mhp-il-baskani-hacisalihoglu-terorsuz-turkiye-sureci-ile-ilgili-konustu",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 28 Sep 2026 14:50:00 +0300",
-        "base_score": 66,
-        "candidate_score": 76,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "milliyetçi",
-          "MHP",
-          "açıklama",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "d2a5a068e2e1538909f1689e",
         "mode": "pontos_voice",
         "title": "Ποντιακή βραδιά στο Schorndorf: Γλέντι με αγαπημένους καλλιτέχνες από την Ελλάδα - pontosnews.gr",
@@ -452,6 +453,40 @@
         "content_type": "news"
       },
       {
+        "external_id": "0e4a513a321e6bc749614e37",
+        "mode": "pontos_voice",
+        "title": "Trabzon Valisi Tahir Şahin’den minik Ela’ya özel kabul",
+        "url": "https://www.61saat.com/trabzon-valisi-tahir-sahinden-minik-elaya-ozel-kabul",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 28 Sep 2026 18:35:00 +0300",
+        "base_score": 41,
+        "candidate_score": 56,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "vali"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "a51f7e827379dc1ed29083fa",
+        "mode": "pontos_voice",
+        "title": "Milli Takım’da İtalya Maçı kadrosu açıklandı! Trabzonsporlu iki oyuncu kadroda - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVhveUtQQm9ITkVpVlBUVzVBU0trUkFZMU9uOFpZeFB1R01VRUdHUFJCMzZVWF9KUktfZzNLdnNJS001dzRYRDdGYW4tVjREaXpkYnVoTUxUX3hmd3FkUTR4MTdsY1BXelZzQ2RNak9ZZGFVYlhSVXVYM3MtYWt2bGdkM3JOV3lpdldiQnFMbnRYVHlKUDZmYjBJVnNNeHdxVTRRSGhBaUFfY1otUmZ0V2x0ckpmRzNpNTZOQg?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Mon, 28 Sep 2026 17:48:44 GMT",
+        "base_score": 40,
+        "candidate_score": 55,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Of",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "c441c287af0cab9d3a51544b",
         "mode": "pontos_voice",
         "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
@@ -465,21 +500,6 @@
           "Trabzon",
           "Of",
           "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "2d7adb93e3eadf84008e247a",
-        "mode": "pontos_voice",
-        "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Mon, 28 Sep 2026 15:18:40 GMT",
-        "base_score": 40,
-        "candidate_score": 55,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Σουμελά"
         ],
         "content_type": "news"
       }
@@ -523,6 +543,26 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "bb584489dd34f5bb366d37d3",
+      "mode": "sportdog",
+      "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Mon, 28 Sep 2026 07:21:58 GMT",
+      "base_score": 56,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -858,25 +898,6 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "cb74d2c175ae7b6e94feaa50",
-      "mode": "pontos_voice",
-      "title": "MHP İl Başkanı Hacısalihoğlu, ‘Terörsüz Türkiye’ süreci ile ilgili konuştu!",
-      "url": "https://www.61saat.com/mhp-il-baskani-hacisalihoglu-terorsuz-turkiye-sureci-ile-ilgili-konustu",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 28 Sep 2026 14:50:00 +0300",
-      "base_score": 66,
-      "candidate_score": 76,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "milliyetçi",
-        "MHP",
-        "açıklama",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "d2a5a068e2e1538909f1689e",
       "mode": "pontos_voice",
       "title": "Ποντιακή βραδιά στο Schorndorf: Γλέντι με αγαπημένους καλλιτέχνες από την Ελλάδα - pontosnews.gr",
@@ -927,6 +948,40 @@
       "content_type": "news"
     },
     {
+      "external_id": "0e4a513a321e6bc749614e37",
+      "mode": "pontos_voice",
+      "title": "Trabzon Valisi Tahir Şahin’den minik Ela’ya özel kabul",
+      "url": "https://www.61saat.com/trabzon-valisi-tahir-sahinden-minik-elaya-ozel-kabul",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 28 Sep 2026 18:35:00 +0300",
+      "base_score": 41,
+      "candidate_score": 56,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "vali"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "a51f7e827379dc1ed29083fa",
+      "mode": "pontos_voice",
+      "title": "Milli Takım’da İtalya Maçı kadrosu açıklandı! Trabzonsporlu iki oyuncu kadroda - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVhveUtQQm9ITkVpVlBUVzVBU0trUkFZMU9uOFpZeFB1R01VRUdHUFJCMzZVWF9KUktfZzNLdnNJS001dzRYRDdGYW4tVjREaXpkYnVoTUxUX3hmd3FkUTR4MTdsY1BXelZzQ2RNak9ZZGFVYlhSVXVYM3MtYWt2bGdkM3JOV3lpdldiQnFMbnRYVHlKUDZmYjBJVnNNeHdxVTRRSGhBaUFfY1otUmZ0V2x0ckpmRzNpNTZOQg?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Mon, 28 Sep 2026 17:48:44 GMT",
+      "base_score": 40,
+      "candidate_score": 55,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Of",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "c441c287af0cab9d3a51544b",
       "mode": "pontos_voice",
       "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
@@ -940,21 +995,6 @@
         "Trabzon",
         "Of",
         "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "2d7adb93e3eadf84008e247a",
-      "mode": "pontos_voice",
-      "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Mon, 28 Sep 2026 15:18:40 GMT",
-      "base_score": 40,
-      "candidate_score": 55,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Σουμελά"
       ],
       "content_type": "news"
     }
