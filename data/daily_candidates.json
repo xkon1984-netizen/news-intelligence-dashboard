@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T03:24:41.646406+00:00",
+  "generated_at": "2026-09-28T03:51:49.471414+00:00",
   "counts": {
-    "sportdog": 12,
+    "sportdog": 13,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -48,9 +48,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "1b1e2802d1c04f2a7f94e8df",
+        "external_id": "9f6cb5fe5176f2d5c139b631",
         "mode": "sportdog",
-        "title": "PAOK finalizing a deal with Donatas Motiejunas - eurohoops.net",
+        "title": "PAOK finalizing a deal with Donatas Motiejunas - Eurohoops",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVYZVg0dVd2aE9OR1V0V3hkUUpHNVVaTDJtc2lRMGRBWU95TXdmemlDQjA5V0FUZTc3QVJKZ1lxX0UyUDc0RHAtQ1g3akdsZzdvWTFPQ0locXpFX19NREVPZUVsN3Joam9YcEZYeHdlekNoVVQ0b2kzZlNzd1BqYndXUUZNMVdyTlhQSHM0N3BRb1lsa3FV?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Sun, 27 Sep 2026 08:26:00 GMT",
@@ -127,6 +127,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "9d97eaaf85e518c96b456a52",
+        "mode": "sportdog",
+        "title": "Olympiacos Kalamata 25 October 2026 Live Score and Match Summary - Yeni Şafak English",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWZCMS1PdjFOM2dYckc3YlRBMzlHc0ozbGhyQmsweEZ5cVFBczNjX285WjdhOE1OSkZSX3I4Uk5mNmJTYXNkZzVWMEZpeHY3TEhLSzRvcnVUblBjSk1WR2tJOTVMdmUtZG1SVHV0MG9ROFN3OElESTl5WUF4d3BQVmR6VnlXdw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 27 Sep 2026 16:37:55 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "fc2314a37429fca1b8ea8d72",
         "mode": "sportdog",
         "title": "PAOK closing in on Donatas Motiejunas signing - TalkBasket.net",
@@ -146,31 +165,31 @@
         "needs_second_source": true
       },
       {
-        "external_id": "240fa43ff042939390c0b6d7",
-        "mode": "sportdog",
-        "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmFFX3FUVFExV1M3RkVvTnVob2U4REdzeTlXVVBxaGd1WVdrUVh0WGNNdVpUTkRhamNsalhoVjVVS285Z01WT1FENUxYdkRRUS1JcTh3OGIzczBfeUZuQjBDSHpFTmJRelVnOUhPVDhlZjBCd0lGc3U5UDY4LU1FTUhSbmcwc3FRY3c?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 27 Sep 2026 14:27:16 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "6cc2e9bd8ba975a30d04f1a3",
         "mode": "sportdog",
         "title": "Iraklis Panathinaikos 08 November 2026 Live Score and Match Summary - Yeni Şafak English",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3dVcDdnTm14RUdyOXhnV01xTWZkRC1OVEYwQVBxenFENVBDa3V2NUZmZFcxaElfdFZfbW5oM0pudmRScU1QdE1CbVZ3NjBUS0dKRzQzcXo4X180SFo4OVFRQkxTOG1IN1RlXzJXS3RTS2RRX0JaSkg4LUJobExmU2lsRGZTZDBv?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Sun, 27 Sep 2026 08:57:52 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "9e2965c29c54f3e960ed362c",
+        "mode": "sportdog",
+        "title": "Panathinaikos Panetolikos 13 September 2026 Live Score and Match Summary - Yeni Şafak English",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUkyQ0o3QmZyVW15cjlxcHh0UllENWtpY1RfM0dia2pjT2dHci1RZEN5SzBzYUlRaWFCbVBEdk5FcWRnZUxUcFM4YnpxM3NFMGJBTmZ3WWZkZ3l1ZXVkMEQzYlV3NjVwdzNOdlZteFBxZXIxdk5Cdm1hZVZmdnpBOVFhdTB2WFNlVl9NUmtn?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 27 Sep 2026 08:54:42 GMT",
         "base_score": 31,
         "candidate_score": 42,
         "priority": "Normal",
@@ -315,9 +334,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "382a623779b89b9ef613099d",
+        "external_id": "15aa95d2ed8148343e1c2071",
         "mode": "geopolitico",
-        "title": "Yunanistan'da ortalık karıştı! Miçotakis’e büyük tepki: İsrail'İn uydusu olduk! - tv100.com",
+        "title": "Yunanistan'da ortalık karıştı! Miçotakis’e büyük tepki: İsrail'İn uydusu olduk! - tv100 Haber",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFVXalBUWm9wc2pGTU83bmU5S05yUmRNZmlob2dBNWlQUlJTV1NGbFN5czc3X2RYZjd0QlR3ME9xbjE1VXVxaG9TMmpidkNNNndtdUtJeEZNRXJyVy1SdTVlcTFsbVJ2N3FWZlRabE50R3pPZVc1YUxHUVlZSlh3NVNPdGlteXhTTl9BdGZPdGxRMVdnX3RldDdfdnNuMk1iLXoybm1pbDV2cjdORmZsOXR30gGyAUFVX3lxTE50VVdqUFRab3BzakZNTzduZTlLTnJSZE1maWhvZ0E1aVBSUlNXU0ZsU3lzNzdfZFhmN3RCVHcwT3FuMTVVdXFob1MyamJ2Q002d211S0l4Rk1FcnJXLVJ1NWVxMWxtUnY3cVZmVFpsTnRHek9lVzVhTEdRWVlKWHc1U090aW15eFNOX0F0Zk90bFExV2dfdGV0N192c24yTWItejJubWlsNXZyN05GZmw5dHc?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Sun, 27 Sep 2026 07:03:00 GMT",
@@ -349,9 +368,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "f64e7a7c54fed0cbba6f2bd2",
+        "external_id": "1056e3f39d7e56625202eab1",
         "mode": "geopolitico",
-        "title": "Pakistan Army Says 71 Militants Killed in Four Days of Operations in Balochistan - kabulnow.com",
+        "title": "Pakistan Army Says 71 Militants Killed in Four Days of Operations in Balochistan - KabulNow",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQenhVd2lQWElvQ2xQLUstZF9ETnc3Y2Fna0VHOGU3aTFCOGd2MW5ROURkV0hVNWE5QmFLVE5zblcybjdUNUJ0NzJGem5DdWNicWZDZmZRR2lYMXJMMGZoVDdjenY1bHo5VzI4d1luUHl5ckRRMzhkWTBUdjlJWjhVRnRueWN6bkhSMjF2a2Z1RVNKdFRycU12WGgyQjNMZG84WklqZXRVZjZtOHlsR2Ew?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sun, 27 Sep 2026 16:49:31 GMT",
@@ -530,9 +549,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "1b1e2802d1c04f2a7f94e8df",
+      "external_id": "9f6cb5fe5176f2d5c139b631",
       "mode": "sportdog",
-      "title": "PAOK finalizing a deal with Donatas Motiejunas - eurohoops.net",
+      "title": "PAOK finalizing a deal with Donatas Motiejunas - Eurohoops",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVYZVg0dVd2aE9OR1V0V3hkUUpHNVVaTDJtc2lRMGRBWU95TXdmemlDQjA5V0FUZTc3QVJKZ1lxX0UyUDc0RHAtQ1g3akdsZzdvWTFPQ0locXpFX19NREVPZUVsN3Joam9YcEZYeHdlekNoVVQ0b2kzZlNzd1BqYndXUUZNMVdyTlhQSHM0N3BRb1lsa3FV?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Sun, 27 Sep 2026 08:26:00 GMT",
@@ -609,6 +628,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "9d97eaaf85e518c96b456a52",
+      "mode": "sportdog",
+      "title": "Olympiacos Kalamata 25 October 2026 Live Score and Match Summary - Yeni Şafak English",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWZCMS1PdjFOM2dYckc3YlRBMzlHc0ozbGhyQmsweEZ5cVFBczNjX285WjdhOE1OSkZSX3I4Uk5mNmJTYXNkZzVWMEZpeHY3TEhLSzRvcnVUblBjSk1WR2tJOTVMdmUtZG1SVHV0MG9ROFN3OElESTl5WUF4d3BQVmR6VnlXdw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 27 Sep 2026 16:37:55 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "fc2314a37429fca1b8ea8d72",
       "mode": "sportdog",
       "title": "PAOK closing in on Donatas Motiejunas signing - TalkBasket.net",
@@ -628,31 +666,31 @@
       "needs_second_source": true
     },
     {
-      "external_id": "240fa43ff042939390c0b6d7",
-      "mode": "sportdog",
-      "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmFFX3FUVFExV1M3RkVvTnVob2U4REdzeTlXVVBxaGd1WVdrUVh0WGNNdVpUTkRhamNsalhoVjVVS285Z01WT1FENUxYdkRRUS1JcTh3OGIzczBfeUZuQjBDSHpFTmJRelVnOUhPVDhlZjBCd0lGc3U5UDY4LU1FTUhSbmcwc3FRY3c?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 27 Sep 2026 14:27:16 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "6cc2e9bd8ba975a30d04f1a3",
       "mode": "sportdog",
       "title": "Iraklis Panathinaikos 08 November 2026 Live Score and Match Summary - Yeni Şafak English",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3dVcDdnTm14RUdyOXhnV01xTWZkRC1OVEYwQVBxenFENVBDa3V2NUZmZFcxaElfdFZfbW5oM0pudmRScU1QdE1CbVZ3NjBUS0dKRzQzcXo4X180SFo4OVFRQkxTOG1IN1RlXzJXS3RTS2RRX0JaSkg4LUJobExmU2lsRGZTZDBv?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Sun, 27 Sep 2026 08:57:52 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "9e2965c29c54f3e960ed362c",
+      "mode": "sportdog",
+      "title": "Panathinaikos Panetolikos 13 September 2026 Live Score and Match Summary - Yeni Şafak English",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUkyQ0o3QmZyVW15cjlxcHh0UllENWtpY1RfM0dia2pjT2dHci1RZEN5SzBzYUlRaWFCbVBEdk5FcWRnZUxUcFM4YnpxM3NFMGJBTmZ3WWZkZ3l1ZXVkMEQzYlV3NjVwdzNOdlZteFBxZXIxdk5Cdm1hZVZmdnpBOVFhdTB2WFNlVl9NUmtn?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 27 Sep 2026 08:54:42 GMT",
       "base_score": 31,
       "candidate_score": 42,
       "priority": "Normal",
@@ -795,9 +833,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "382a623779b89b9ef613099d",
+      "external_id": "15aa95d2ed8148343e1c2071",
       "mode": "geopolitico",
-      "title": "Yunanistan'da ortalık karıştı! Miçotakis’e büyük tepki: İsrail'İn uydusu olduk! - tv100.com",
+      "title": "Yunanistan'da ortalık karıştı! Miçotakis’e büyük tepki: İsrail'İn uydusu olduk! - tv100 Haber",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFVXalBUWm9wc2pGTU83bmU5S05yUmRNZmlob2dBNWlQUlJTV1NGbFN5czc3X2RYZjd0QlR3ME9xbjE1VXVxaG9TMmpidkNNNndtdUtJeEZNRXJyVy1SdTVlcTFsbVJ2N3FWZlRabE50R3pPZVc1YUxHUVlZSlh3NVNPdGlteXhTTl9BdGZPdGxRMVdnX3RldDdfdnNuMk1iLXoybm1pbDV2cjdORmZsOXR30gGyAUFVX3lxTE50VVdqUFRab3BzakZNTzduZTlLTnJSZE1maWhvZ0E1aVBSUlNXU0ZsU3lzNzdfZFhmN3RCVHcwT3FuMTVVdXFob1MyamJ2Q002d211S0l4Rk1FcnJXLVJ1NWVxMWxtUnY3cVZmVFpsTnRHek9lVzVhTEdRWVlKWHc1U090aW15eFNOX0F0Zk90bFExV2dfdGV0N192c24yTWItejJubWlsNXZyN05GZmw5dHc?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Sun, 27 Sep 2026 07:03:00 GMT",
@@ -829,9 +867,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "f64e7a7c54fed0cbba6f2bd2",
+      "external_id": "1056e3f39d7e56625202eab1",
       "mode": "geopolitico",
-      "title": "Pakistan Army Says 71 Militants Killed in Four Days of Operations in Balochistan - kabulnow.com",
+      "title": "Pakistan Army Says 71 Militants Killed in Four Days of Operations in Balochistan - KabulNow",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQenhVd2lQWElvQ2xQLUstZF9ETnc3Y2Fna0VHOGU3aTFCOGd2MW5ROURkV0hVNWE5QmFLVE5zblcybjdUNUJ0NzJGem5DdWNicWZDZmZRR2lYMXJMMGZoVDdjenY1bHo5VzI4d1luUHl5ckRRMzhkWTBUdjlJWjhVRnRueWN6bkhSMjF2a2Z1RVNKdFRycU12WGgyQjNMZG84WklqZXRVZjZtOHlsR2Ew?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sun, 27 Sep 2026 16:49:31 GMT",
