@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T08:52:03.152000+00:00",
+  "generated_at": "2026-09-28T09:06:42.157055+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 13,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -108,6 +108,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "266e841717a7eb9351e72d01",
+        "mode": "sportdog",
+        "title": "PAOK Asteras Tripolis 01 November 2026 Live Score and Match Summary - Yeni Şafak English",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVROS1JJS0p3UGJRY1hDYlBxS1hsUlV5N0NFSXZjUE1WVVRzUnFKbV9VczEtSGRYMW41RFppQUpSdm9ZODdnbTBlU3NzcVFPOUFJVHZGSmlRVGtKeVFaZmZqMzRiOUZubzh5QTRRdC1Cdm0wM0NRZURCbXFsWjJJQ1NDdWFJV294?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 27 Sep 2026 20:37:43 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "fc2314a37429fca1b8ea8d72",
         "mode": "sportdog",
         "title": "PAOK closing in on Donatas Motiejunas signing - TalkBasket.net",
@@ -123,6 +142,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "e04438e28bd27b83cbe6b45f",
+        "mode": "sportdog",
+        "title": "Panathinaikos Kifisia 10 September 2026 Live Score and Match Summary - Yeni Şafak English",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjhRVFY0RG0xN25EUWtLaXloV3ByNWJYTl9pM2N1dEdxOEhwdDRUNlBJNDhUQUJzdk9yWjRGTWhYTnhlR3BfY3hQekR5Qmo4Uk1PVkFsNUNLb2dIam5PN2pLZFJOLWRvYVlvSEF5d2pfMkpoeGgyM3lQY3Q1NUpJcF9tTXZONU1y?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 27 Sep 2026 08:57:54 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -243,9 +281,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "cc16844ff500e175523dd055",
+        "external_id": "289cf10898a0aa2c86a869d9",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den fon soruşturması değerlendirmesi: 'Erdoğan bazı kelleleri uçurabilir' - Haber Sunum",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den fon soruşturması değerlendirmesi: 'Erdoğan bazı kelleleri uçurabilir' - habersunum.com",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUEVxc2NNbXFhY0tCc1JWaDNzNnVYVnJoV0ZjSGs1RWF3TUtrQjBZblFEbnd6WUVBOE1RTzJmZ3c1YURUdlc2V3dUSHRvV1VRNDlNYVpkaFpVeDlBcW5nMmhHdDRiM2JZcW5hT1ZSNkk4SEF1WmY3c0plZ285YmxtalpwRjJxc1ZzWWVCSExiNDh4dThNSE1CdFh6UVI5dldQc3FTNVVLQXZ3Y2ljWEI2NldlS1RjU01aNFV0cnZR?oc=5",
         "source": "Analysts Watch · Turkey",
         "published": "Mon, 28 Sep 2026 08:40:05 GMT",
@@ -343,9 +381,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "972b55cb645fcaeb9d328ea0",
+        "external_id": "7b3356fb6f1af09bfd7a4a72",
         "mode": "geopolitico",
-        "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - newsindiatimes.com",
+        "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sun, 27 Sep 2026 17:56:29 GMT",
@@ -381,23 +419,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "3e0ba600f4ac521eea7babb5",
-        "mode": "pontos_voice",
-        "title": "Αδελφότης Ποντίων Τορόντο «Παναγία Σουμελά»: Έκτακτη Γενική Συνέλευση στις 2 Οκτωβρίου - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR29QRXlBVjVkaUtmQzJuZnpINmRFckhDYWExQk94RHUyZkExUWN0d0RCRklrOXRMdExUU3g4TVZadTJBWTVsTWJqRjBtR3NwTVo3WW9YdWo1cVZZaGRUSVBUWmJpSTg4Zm0za2NyRG9nUm9SamUzMW9ZeTBESHAyQXRaT2JCSWFKajM2dExXdVAwdloxQjFId1JXR0JnYmtyQkg4cE85MUVicHctSzYxOW4yZlc5bGR0cFFTUUpTSzhlRnRqT1BRUmlHTDBKQQ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Sat, 26 Sep 2026 15:06:27 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "Παναγία Σουμελά",
-          "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "d2a5a068e2e1538909f1689e",
         "mode": "pontos_voice",
         "title": "Ποντιακή βραδιά στο Schorndorf: Γλέντι με αγαπημένους καλλιτέχνες από την Ελλάδα - pontosnews.gr",
@@ -426,6 +447,23 @@
         "matched_keywords": [
           "Pontos",
           "ποντιακός"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "0c1e021fe8f4ea0aeb61fa4c",
+        "mode": "pontos_voice",
+        "title": "Η ποντιακή παράδοση γέμισε το Παλατάκι - Pliroforiodotis.gr",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UMXZtQWUzOEtpdk9PMEoybW5XMlBvaUNGVF84XzRQWG5KQ0VpajR4V0xaV2NEUkRUWnNMRkhIMUttaTRzN3pINHhsQlp3R2ZPamgyMDBheTJDeVJSdHFadWVqeHlPajVmNUJVcHA2c3MzT1c0NGRPQTBn?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Mon, 28 Sep 2026 06:31:35 GMT",
+        "base_score": 51,
+        "candidate_score": 66,
+        "priority": "Normal",
+        "matched_keywords": [
+          "ποντιακή",
+          "Of",
+          "παράδοση"
         ],
         "content_type": "news"
       },
@@ -567,6 +605,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "266e841717a7eb9351e72d01",
+      "mode": "sportdog",
+      "title": "PAOK Asteras Tripolis 01 November 2026 Live Score and Match Summary - Yeni Şafak English",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVROS1JJS0p3UGJRY1hDYlBxS1hsUlV5N0NFSXZjUE1WVVRzUnFKbV9VczEtSGRYMW41RFppQUpSdm9ZODdnbTBlU3NzcVFPOUFJVHZGSmlRVGtKeVFaZmZqMzRiOUZubzh5QTRRdC1Cdm0wM0NRZURCbXFsWjJJQ1NDdWFJV294?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 27 Sep 2026 20:37:43 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "fc2314a37429fca1b8ea8d72",
       "mode": "sportdog",
       "title": "PAOK closing in on Donatas Motiejunas signing - TalkBasket.net",
@@ -582,6 +639,25 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "e04438e28bd27b83cbe6b45f",
+      "mode": "sportdog",
+      "title": "Panathinaikos Kifisia 10 September 2026 Live Score and Match Summary - Yeni Şafak English",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjhRVFY0RG0xN25EUWtLaXloV3ByNWJYTl9pM2N1dEdxOEhwdDRUNlBJNDhUQUJzdk9yWjRGTWhYTnhlR3BfY3hQekR5Qmo4Uk1PVkFsNUNLb2dIam5PN2pLZFJOLWRvYVlvSEF5d2pfMkpoeGgyM3lQY3Q1NUpJcF9tTXZONU1y?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 27 Sep 2026 08:57:54 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -700,9 +776,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "cc16844ff500e175523dd055",
+      "external_id": "289cf10898a0aa2c86a869d9",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den fon soruşturması değerlendirmesi: 'Erdoğan bazı kelleleri uçurabilir' - Haber Sunum",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den fon soruşturması değerlendirmesi: 'Erdoğan bazı kelleleri uçurabilir' - habersunum.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUEVxc2NNbXFhY0tCc1JWaDNzNnVYVnJoV0ZjSGs1RWF3TUtrQjBZblFEbnd6WUVBOE1RTzJmZ3c1YURUdlc2V3dUSHRvV1VRNDlNYVpkaFpVeDlBcW5nMmhHdDRiM2JZcW5hT1ZSNkk4SEF1WmY3c0plZ285YmxtalpwRjJxc1ZzWWVCSExiNDh4dThNSE1CdFh6UVI5dldQc3FTNVVLQXZ3Y2ljWEI2NldlS1RjU01aNFV0cnZR?oc=5",
       "source": "Analysts Watch · Turkey",
       "published": "Mon, 28 Sep 2026 08:40:05 GMT",
@@ -800,9 +876,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "972b55cb645fcaeb9d328ea0",
+      "external_id": "7b3356fb6f1af09bfd7a4a72",
       "mode": "geopolitico",
-      "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - newsindiatimes.com",
+      "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sun, 27 Sep 2026 17:56:29 GMT",
@@ -836,23 +912,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "3e0ba600f4ac521eea7babb5",
-      "mode": "pontos_voice",
-      "title": "Αδελφότης Ποντίων Τορόντο «Παναγία Σουμελά»: Έκτακτη Γενική Συνέλευση στις 2 Οκτωβρίου - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR29QRXlBVjVkaUtmQzJuZnpINmRFckhDYWExQk94RHUyZkExUWN0d0RCRklrOXRMdExUU3g4TVZadTJBWTVsTWJqRjBtR3NwTVo3WW9YdWo1cVZZaGRUSVBUWmJpSTg4Zm0za2NyRG9nUm9SamUzMW9ZeTBESHAyQXRaT2JCSWFKajM2dExXdVAwdloxQjFId1JXR0JnYmtyQkg4cE85MUVicHctSzYxOW4yZlc5bGR0cFFTUUpTSzhlRnRqT1BRUmlHTDBKQQ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Sat, 26 Sep 2026 15:06:27 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "Παναγία Σουμελά",
-        "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "d2a5a068e2e1538909f1689e",
       "mode": "pontos_voice",
       "title": "Ποντιακή βραδιά στο Schorndorf: Γλέντι με αγαπημένους καλλιτέχνες από την Ελλάδα - pontosnews.gr",
@@ -881,6 +940,23 @@
       "matched_keywords": [
         "Pontos",
         "ποντιακός"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "0c1e021fe8f4ea0aeb61fa4c",
+      "mode": "pontos_voice",
+      "title": "Η ποντιακή παράδοση γέμισε το Παλατάκι - Pliroforiodotis.gr",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UMXZtQWUzOEtpdk9PMEoybW5XMlBvaUNGVF84XzRQWG5KQ0VpajR4V0xaV2NEUkRUWnNMRkhIMUttaTRzN3pINHhsQlp3R2ZPamgyMDBheTJDeVJSdHFadWVqeHlPajVmNUJVcHA2c3MzT1c0NGRPQTBn?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Mon, 28 Sep 2026 06:31:35 GMT",
+      "base_score": 51,
+      "candidate_score": 66,
+      "priority": "Normal",
+      "matched_keywords": [
+        "ποντιακή",
+        "Of",
+        "παράδοση"
       ],
       "content_type": "news"
     },
