@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T09:29:12.535347+00:00",
+  "generated_at": "2026-09-28T09:51:53.036351+00:00",
   "counts": {
-    "sportdog": 13,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -55,7 +55,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 28 Sep 2026 06:43:00 GMT",
         "base_score": 56,
-        "candidate_score": 89,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -64,8 +64,8 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "feaef66c4941c801ba259dcd",
@@ -108,25 +108,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "266e841717a7eb9351e72d01",
-        "mode": "sportdog",
-        "title": "PAOK Asteras Tripolis 01 November 2026 Live Score and Match Summary - Yeni Şafak English",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVROS1JJS0p3UGJRY1hDYlBxS1hsUlV5N0NFSXZjUE1WVVRzUnFKbV9VczEtSGRYMW41RFppQUpSdm9ZODdnbTBlU3NzcVFPOUFJVHZGSmlRVGtKeVFaZmZqMzRiOUZubzh5QTRRdC1Cdm0wM0NRZURCbXFsWjJJQ1NDdWFJV294?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sun, 27 Sep 2026 20:37:43 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "fc2314a37429fca1b8ea8d72",
         "mode": "sportdog",
         "title": "PAOK closing in on Donatas Motiejunas signing - TalkBasket.net",
@@ -142,25 +123,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "e04438e28bd27b83cbe6b45f",
-        "mode": "sportdog",
-        "title": "Panathinaikos Kifisia 10 September 2026 Live Score and Match Summary - Yeni Şafak English",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjhRVFY0RG0xN25EUWtLaXloV3ByNWJYTl9pM2N1dEdxOEhwdDRUNlBJNDhUQUJzdk9yWjRGTWhYTnhlR3BfY3hQekR5Qmo4Uk1PVkFsNUNLb2dIam5PN2pLZFJOLWRvYVlvSEF5d2pfMkpoeGgyM3lQY3Q1NUpJcF9tTXZONU1y?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sun, 27 Sep 2026 08:57:54 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -270,7 +232,7 @@
         "source": "Greece Israel Strategic Watch",
         "published": "Mon, 28 Sep 2026 06:42:39 GMT",
         "base_score": 96,
-        "candidate_score": 111,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -297,9 +259,9 @@
         "content_type": "analyst"
       },
       {
-        "external_id": "8a8110be187d7a99507a0a73",
+        "external_id": "629c63a88ed82e0c68909f70",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: \"Sürpriz Tutuklamalar Olabilir, Cumhurbaşkanı Erdoğan Bazı Kelleleri Uçurabilir\" - onedio.com",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: \"Sürpriz Tutuklamalar Olabilir, Cumhurbaşkanı Erdoğan Bazı Kelleleri Uçurabilir\" - Onedio",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHV0RFo0SjAxVTlVeHFUbHctNlhFeFFtVlQtZFctNjRUUjY0dFRIZW8zQUhEeUFQR2lfanQxdjJXQTVwY2s1WGp0RmxtNmdRd0ZpbEVsMmdlTVJQZkZXUXg4SWpBcDdRaUhvZXF0VS14UkN3U0x5R1hNWWtnQTZFa21uVjZCNjlCWl9WRGVFMmtVZU5jcHp1MUFzTG9UaU1lbGNCZWNrcTVUVmM4QnhzVXRYRmJqeC1wNkhiWUJwd2pyZFh4U1E?oc=5",
         "source": "Analysts Watch · Turkey",
         "published": "Mon, 28 Sep 2026 08:25:14 GMT",
@@ -381,9 +343,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "972b55cb645fcaeb9d328ea0",
+        "external_id": "7b3356fb6f1af09bfd7a4a72",
         "mode": "geopolitico",
-        "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - newsindiatimes.com",
+        "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sun, 27 Sep 2026 17:56:29 GMT",
@@ -435,39 +397,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "02dcdd3affc30c134a51eb88",
-        "mode": "pontos_voice",
-        "title": "Ποντιακός Σύλλογος «Το Καΐστρι»: Σήμερα δεν ανταμώνουμε για βραβείο Γκίνες, αλλά για τους παππούδες μας! - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRktrdnhFQmZkWVJjeU9fbmF3ZlE5NlNsUElLRDYyMS1QcThRamdpYkJVdFVHb3k2WDBKOTF5NFF0aHo4c05DaThwM3BGMUxDUXlsWnNSS2NIdVRNdVNORUtzZy1tZ0NkajZ1ZjRCc0lRZUwxNjlDNEFrTk51aWJHVkIyeXFNYWg5N3pVR1F6MHRJdWZtQ3Q0Tzh2S1J3eGRvQm54RW9mZ3g4MnBBNW5QVzFBWHRxczB6d0ZkRzVDZ2FHdw?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Sat, 26 Sep 2026 09:47:28 GMT",
-        "base_score": 69,
-        "candidate_score": 69,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακός"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "0c1e021fe8f4ea0aeb61fa4c",
-        "mode": "pontos_voice",
-        "title": "Η ποντιακή παράδοση γέμισε το Παλατάκι - Pliroforiodotis.gr",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UMXZtQWUzOEtpdk9PMEoybW5XMlBvaUNGVF84XzRQWG5KQ0VpajR4V0xaV2NEUkRUWnNMRkhIMUttaTRzN3pINHhsQlp3R2ZPamgyMDBheTJDeVJSdHFadWVqeHlPajVmNUJVcHA2c3MzT1c0NGRPQTBn?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Mon, 28 Sep 2026 06:31:35 GMT",
-        "base_score": 51,
-        "candidate_score": 66,
-        "priority": "Normal",
-        "matched_keywords": [
-          "ποντιακή",
-          "Of",
-          "παράδοση"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "f914c5f168dbdd75e6a0b831",
         "mode": "pontos_voice",
         "title": "Trabzon'da trafik kilitlendi! Kuyruk, kilometrelerce uzadı",
@@ -485,6 +414,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "0c1e021fe8f4ea0aeb61fa4c",
+        "mode": "pontos_voice",
+        "title": "Η ποντιακή παράδοση γέμισε το Παλατάκι - Pliroforiodotis.gr",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UMXZtQWUzOEtpdk9PMEoybW5XMlBvaUNGVF84XzRQWG5KQ0VpajR4V0xaV2NEUkRUWnNMRkhIMUttaTRzN3pINHhsQlp3R2ZPamgyMDBheTJDeVJSdHFadWVqeHlPajVmNUJVcHA2c3MzT1c0NGRPQTBn?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Mon, 28 Sep 2026 06:31:35 GMT",
+        "base_score": 51,
+        "candidate_score": 61,
+        "priority": "Normal",
+        "matched_keywords": [
+          "ποντιακή",
+          "Of",
+          "παράδοση"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "74923aabbb38f50a53c783bb",
         "mode": "pontos_voice",
         "title": "Trabzon’un yaylaları sonbahar renklerine büründü",
@@ -497,6 +443,23 @@
         "matched_keywords": [
           "Trabzon",
           "Çaykara",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "306592697185ae1496cc7827",
+        "mode": "pontos_voice",
+        "title": "Eski Trabzonsporlu yıldızdan BTS tepkisi! “Öncelik futbola verilmeli” - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1JPRjlsV3UyTENsdWxyTUtUemtoTTZQVmFzbjBDZjJOSEtIb1VOa0FLMmpGOE5pYWdsSHNKSGJ0UHlYSWpOc3VKeWpQajNPc0o2MXA0VktkeGFKVkJTWlZWd3FNSk1nVG91cmdSYmx4eE9aNnZTbGRLRm1OWDRUYXp0YXBQdW5ORFJ2bFVfWngtcndoLVpDTUtES3ZHY001MTUyeEdpU0NKTTZhVnc?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Mon, 28 Sep 2026 07:56:18 GMT",
+        "base_score": 42,
+        "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "tepki",
           "Trabzon"
         ],
         "content_type": "news"
@@ -552,7 +515,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 28 Sep 2026 06:43:00 GMT",
       "base_score": 56,
-      "candidate_score": 89,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -561,8 +524,8 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "feaef66c4941c801ba259dcd",
@@ -605,25 +568,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "266e841717a7eb9351e72d01",
-      "mode": "sportdog",
-      "title": "PAOK Asteras Tripolis 01 November 2026 Live Score and Match Summary - Yeni Şafak English",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVROS1JJS0p3UGJRY1hDYlBxS1hsUlV5N0NFSXZjUE1WVVRzUnFKbV9VczEtSGRYMW41RFppQUpSdm9ZODdnbTBlU3NzcVFPOUFJVHZGSmlRVGtKeVFaZmZqMzRiOUZubzh5QTRRdC1Cdm0wM0NRZURCbXFsWjJJQ1NDdWFJV294?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sun, 27 Sep 2026 20:37:43 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "fc2314a37429fca1b8ea8d72",
       "mode": "sportdog",
       "title": "PAOK closing in on Donatas Motiejunas signing - TalkBasket.net",
@@ -639,25 +583,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "e04438e28bd27b83cbe6b45f",
-      "mode": "sportdog",
-      "title": "Panathinaikos Kifisia 10 September 2026 Live Score and Match Summary - Yeni Şafak English",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjhRVFY0RG0xN25EUWtLaXloV3ByNWJYTl9pM2N1dEdxOEhwdDRUNlBJNDhUQUJzdk9yWjRGTWhYTnhlR3BfY3hQekR5Qmo4Uk1PVkFsNUNLb2dIam5PN2pLZFJOLWRvYVlvSEF5d2pfMkpoeGgyM3lQY3Q1NUpJcF9tTXZONU1y?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sun, 27 Sep 2026 08:57:54 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -765,7 +690,7 @@
       "source": "Greece Israel Strategic Watch",
       "published": "Mon, 28 Sep 2026 06:42:39 GMT",
       "base_score": 96,
-      "candidate_score": 111,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -792,9 +717,9 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "8a8110be187d7a99507a0a73",
+      "external_id": "629c63a88ed82e0c68909f70",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: \"Sürpriz Tutuklamalar Olabilir, Cumhurbaşkanı Erdoğan Bazı Kelleleri Uçurabilir\" - onedio.com",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: \"Sürpriz Tutuklamalar Olabilir, Cumhurbaşkanı Erdoğan Bazı Kelleleri Uçurabilir\" - Onedio",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHV0RFo0SjAxVTlVeHFUbHctNlhFeFFtVlQtZFctNjRUUjY0dFRIZW8zQUhEeUFQR2lfanQxdjJXQTVwY2s1WGp0RmxtNmdRd0ZpbEVsMmdlTVJQZkZXUXg4SWpBcDdRaUhvZXF0VS14UkN3U0x5R1hNWWtnQTZFa21uVjZCNjlCWl9WRGVFMmtVZU5jcHp1MUFzTG9UaU1lbGNCZWNrcTVUVmM4QnhzVXRYRmJqeC1wNkhiWUJwd2pyZFh4U1E?oc=5",
       "source": "Analysts Watch · Turkey",
       "published": "Mon, 28 Sep 2026 08:25:14 GMT",
@@ -876,9 +801,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "972b55cb645fcaeb9d328ea0",
+      "external_id": "7b3356fb6f1af09bfd7a4a72",
       "mode": "geopolitico",
-      "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - newsindiatimes.com",
+      "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sun, 27 Sep 2026 17:56:29 GMT",
@@ -928,39 +853,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "02dcdd3affc30c134a51eb88",
-      "mode": "pontos_voice",
-      "title": "Ποντιακός Σύλλογος «Το Καΐστρι»: Σήμερα δεν ανταμώνουμε για βραβείο Γκίνες, αλλά για τους παππούδες μας! - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRktrdnhFQmZkWVJjeU9fbmF3ZlE5NlNsUElLRDYyMS1QcThRamdpYkJVdFVHb3k2WDBKOTF5NFF0aHo4c05DaThwM3BGMUxDUXlsWnNSS2NIdVRNdVNORUtzZy1tZ0NkajZ1ZjRCc0lRZUwxNjlDNEFrTk51aWJHVkIyeXFNYWg5N3pVR1F6MHRJdWZtQ3Q0Tzh2S1J3eGRvQm54RW9mZ3g4MnBBNW5QVzFBWHRxczB6d0ZkRzVDZ2FHdw?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Sat, 26 Sep 2026 09:47:28 GMT",
-      "base_score": 69,
-      "candidate_score": 69,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακός"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "0c1e021fe8f4ea0aeb61fa4c",
-      "mode": "pontos_voice",
-      "title": "Η ποντιακή παράδοση γέμισε το Παλατάκι - Pliroforiodotis.gr",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UMXZtQWUzOEtpdk9PMEoybW5XMlBvaUNGVF84XzRQWG5KQ0VpajR4V0xaV2NEUkRUWnNMRkhIMUttaTRzN3pINHhsQlp3R2ZPamgyMDBheTJDeVJSdHFadWVqeHlPajVmNUJVcHA2c3MzT1c0NGRPQTBn?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Mon, 28 Sep 2026 06:31:35 GMT",
-      "base_score": 51,
-      "candidate_score": 66,
-      "priority": "Normal",
-      "matched_keywords": [
-        "ποντιακή",
-        "Of",
-        "παράδοση"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "f914c5f168dbdd75e6a0b831",
       "mode": "pontos_voice",
       "title": "Trabzon'da trafik kilitlendi! Kuyruk, kilometrelerce uzadı",
@@ -978,6 +870,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "0c1e021fe8f4ea0aeb61fa4c",
+      "mode": "pontos_voice",
+      "title": "Η ποντιακή παράδοση γέμισε το Παλατάκι - Pliroforiodotis.gr",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UMXZtQWUzOEtpdk9PMEoybW5XMlBvaUNGVF84XzRQWG5KQ0VpajR4V0xaV2NEUkRUWnNMRkhIMUttaTRzN3pINHhsQlp3R2ZPamgyMDBheTJDeVJSdHFadWVqeHlPajVmNUJVcHA2c3MzT1c0NGRPQTBn?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Mon, 28 Sep 2026 06:31:35 GMT",
+      "base_score": 51,
+      "candidate_score": 61,
+      "priority": "Normal",
+      "matched_keywords": [
+        "ποντιακή",
+        "Of",
+        "παράδοση"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "74923aabbb38f50a53c783bb",
       "mode": "pontos_voice",
       "title": "Trabzon’un yaylaları sonbahar renklerine büründü",
@@ -990,6 +899,23 @@
       "matched_keywords": [
         "Trabzon",
         "Çaykara",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "306592697185ae1496cc7827",
+      "mode": "pontos_voice",
+      "title": "Eski Trabzonsporlu yıldızdan BTS tepkisi! “Öncelik futbola verilmeli” - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1JPRjlsV3UyTENsdWxyTUtUemtoTTZQVmFzbjBDZjJOSEtIb1VOa0FLMmpGOE5pYWdsSHNKSGJ0UHlYSWpOc3VKeWpQajNPc0o2MXA0VktkeGFKVkJTWlZWd3FNSk1nVG91cmdSYmx4eE9aNnZTbGRLRm1OWDRUYXp0YXBQdW5ORFJ2bFVfWngtcndoLVpDTUtES3ZHY001MTUyeEdpU0NKTTZhVnc?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Mon, 28 Sep 2026 07:56:18 GMT",
+      "base_score": 42,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "tepki",
         "Trabzon"
       ],
       "content_type": "news"
