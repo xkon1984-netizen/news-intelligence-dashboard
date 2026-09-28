@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:38:49.871985+00:00",
+  "generated_at": "2026-09-28T02:01:01.579234+00:00",
   "counts": {
     "sportdog": 12,
     "geopolitico": 8,
@@ -203,26 +203,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "3ae901c1fbd38e1605665928",
-        "mode": "sportdog",
-        "title": "Rafa Mir struggling for goals and minutes at Aris Thessaloniki - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVg1T2pBR3dfRFlCc0xUWUxfajAzeXl6el9UcFpLVHNLNUZSSS0yaXZpODNSLWdVbTFvaWI4VGMwc0tuR1FIMHd3cDNxa3RySmItay16c0hOT3BaQTVwQnVBRzctNW9YMkFOOXRxNGs5YV9yNENHYy1oS3lNMjFOUzRhcVhPMnd5VWE5aWhaX0tHNFVFTmZsVnlRNENGb0E2V1Z5ZGNn?oc=5",
-        "source": "Aris Rumour Watch",
-        "published": "Sun, 27 Sep 2026 17:58:46 GMT",
-        "base_score": 34,
-        "candidate_score": 44,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Aris",
-          "football"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Aris",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "12561dbbd1393e14acdbda5e",
         "mode": "sportdog",
         "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - basketnews.com",
@@ -238,6 +218,26 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "3ae901c1fbd38e1605665928",
+        "mode": "sportdog",
+        "title": "Rafa Mir struggling for goals and minutes at Aris Thessaloniki - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVg1T2pBR3dfRFlCc0xUWUxfajAzeXl6el9UcFpLVHNLNUZSSS0yaXZpODNSLWdVbTFvaWI4VGMwc0tuR1FIMHd3cDNxa3RySmItay16c0hOT3BaQTVwQnVBRzctNW9YMkFOOXRxNGs5YV9yNENHYy1oS3lNMjFOUzRhcVhPMnd5VWE5aWhaX0tHNFVFTmZsVnlRNENGb0E2V1Z5ZGNn?oc=5",
+        "source": "Aris Rumour Watch",
+        "published": "Sun, 27 Sep 2026 17:58:46 GMT",
+        "base_score": 34,
+        "candidate_score": 40,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Aris",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Aris",
         "readiness": "WATCH",
         "needs_second_source": true
       }
@@ -278,23 +278,6 @@
           "Pakistan",
           "Jaishankar",
           "terrorism"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "7b3356fb6f1af09bfd7a4a72",
-        "mode": "geopolitico",
-        "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sun, 27 Sep 2026 17:56:29 GMT",
-        "base_score": 77,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Jaishankar"
         ],
         "content_type": "news"
       },
@@ -345,6 +328,23 @@
           "Yunanistan",
           "Miçotakis",
           "tepki"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "7b3356fb6f1af09bfd7a4a72",
+        "mode": "geopolitico",
+        "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 27 Sep 2026 17:56:29 GMT",
+        "base_score": 77,
+        "candidate_score": 83,
+        "priority": "High",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Jaishankar"
         ],
         "content_type": "news"
       },
@@ -685,26 +685,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "3ae901c1fbd38e1605665928",
-      "mode": "sportdog",
-      "title": "Rafa Mir struggling for goals and minutes at Aris Thessaloniki - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVg1T2pBR3dfRFlCc0xUWUxfajAzeXl6el9UcFpLVHNLNUZSSS0yaXZpODNSLWdVbTFvaWI4VGMwc0tuR1FIMHd3cDNxa3RySmItay16c0hOT3BaQTVwQnVBRzctNW9YMkFOOXRxNGs5YV9yNENHYy1oS3lNMjFOUzRhcVhPMnd5VWE5aWhaX0tHNFVFTmZsVnlRNENGb0E2V1Z5ZGNn?oc=5",
-      "source": "Aris Rumour Watch",
-      "published": "Sun, 27 Sep 2026 17:58:46 GMT",
-      "base_score": 34,
-      "candidate_score": 44,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Aris",
-        "football"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Aris",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "12561dbbd1393e14acdbda5e",
       "mode": "sportdog",
       "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - basketnews.com",
@@ -720,6 +700,26 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "3ae901c1fbd38e1605665928",
+      "mode": "sportdog",
+      "title": "Rafa Mir struggling for goals and minutes at Aris Thessaloniki - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVg1T2pBR3dfRFlCc0xUWUxfajAzeXl6el9UcFpLVHNLNUZSSS0yaXZpODNSLWdVbTFvaWI4VGMwc0tuR1FIMHd3cDNxa3RySmItay16c0hOT3BaQTVwQnVBRzctNW9YMkFOOXRxNGs5YV9yNENHYy1oS3lNMjFOUzRhcVhPMnd5VWE5aWhaX0tHNFVFTmZsVnlRNENGb0E2V1Z5ZGNn?oc=5",
+      "source": "Aris Rumour Watch",
+      "published": "Sun, 27 Sep 2026 17:58:46 GMT",
+      "base_score": 34,
+      "candidate_score": 40,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Aris",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Aris",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -758,23 +758,6 @@
         "Pakistan",
         "Jaishankar",
         "terrorism"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "7b3356fb6f1af09bfd7a4a72",
-      "mode": "geopolitico",
-      "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sun, 27 Sep 2026 17:56:29 GMT",
-      "base_score": 77,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Jaishankar"
       ],
       "content_type": "news"
     },
@@ -825,6 +808,23 @@
         "Yunanistan",
         "Miçotakis",
         "tepki"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "7b3356fb6f1af09bfd7a4a72",
+      "mode": "geopolitico",
+      "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 27 Sep 2026 17:56:29 GMT",
+      "base_score": 77,
+      "candidate_score": 83,
+      "priority": "High",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Jaishankar"
       ],
       "content_type": "news"
     },
