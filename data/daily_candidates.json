@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:51:07.289877+00:00",
+  "generated_at": "2026-09-28T11:04:11.632730+00:00",
   "counts": {
     "sportdog": 13,
     "geopolitico": 8,
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 28 Sep 2026 08:01:47 GMT",
         "base_score": 56,
-        "candidate_score": 89,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -24,8 +24,8 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "bab0c890efc8effe4bb03d5c",
@@ -281,18 +281,18 @@
         "content_type": "news"
       },
       {
-        "external_id": "768f7312222f6ee1b79a1187",
+        "external_id": "ef99a5bde4877cda3e2eaabf",
         "mode": "geopolitico",
-        "title": "Türkiye faktörü GSI’ın rotasını değiştiriyor: Atina yeni güzergâhı değerlendiriyor - haberkibris.com",
+        "title": "Türkiye faktörü GSI’ın rotasını değiştiriyor: Atina yeni güzergâhı değerlendiriyor - Haber Kıbrıs",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQS0zU0VqR2ppZ2tNRHJvZExYOGxKaWdPY2d4cGREcEFXbl8xS1ZBeGVhWkhpMUsxZmZ5YlVrb2NjbXNpLURYOUgydFdmNGpOMmdNNmRTZ1NEQ2dqdmNjbEUzU2huUlBCcE5PeUFfRFpRVjdGemNycXdKSkxzVW9oTzdNLWhVdlZPVnNlWlZ2YXVSRUZBUlVFYzRZekZJWVVtTnVpVE5jWWFXdnRXTUVYLU1pMzZucVl0alVJaFF6YkxhZw?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Mon, 28 Sep 2026 10:04:10 GMT",
+        "published": "Mon, 28 Sep 2026 10:18:32 GMT",
         "base_score": 88,
         "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
-          "Kibris",
           "GSI",
+          "Kıbrıs",
           "Atina",
           "GSI"
         ],
@@ -314,6 +314,22 @@
           "GSI"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "b3885fc26c56b8faed3b3138",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den fon krizi yazısı: 'Erdoğan bazı kelleleri uçurabilir' - Evrensel.net",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjFLb3R3UkJHdGxkNFJyOVhRczE0ZTRDMUJJR2lJT3pQNlBfU2ZNQWdyVzgyODFyQnNmTEo2N05EZlBtamQwcGV5SzlaOHdtSWlhTTh6QUZkaDlYSW1xTXo5ODhXaTFwZGpKR0N0ak41LUlRek5HUUVMRWNJdExUOHVWRmQ0MTdLZ2gxMzcxTlFfcGdpV3JFOU5RZ0pndVZxU1Q4UXNOaHNXbWJYa3Zr?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Mon, 28 Sep 2026 10:45:00 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
       },
       {
         "external_id": "590980f5ad38298733e63455",
@@ -357,22 +373,6 @@
         "published": "Mon, 28 Sep 2026 08:25:14 GMT",
         "base_score": 75,
         "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "0d258e05dc10f40c8a2eb5d2",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken fon kulisi: 'Cumhurbaşkanı Erdoğan bazı kelleleri uçurabilir' - Şok Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWlUX0dmQldrd0c0YThvY0JOamJCUnpkcThNTTIwWVI3c0FKVU1KYkVHSFR3WkhZZTljWVItZ01ZNmFOOW8zamxSMTFkNzlxcTJwVDlTSnRwMEFKRDR5NWY3X2JGN1p2WmFLY3llbnBUdWE4dkVzRGVheTJMMHRCaXdTMlRFN0hfYkR6alRMRmw5UU1tU1NJZ3ppc0xtWDQ0WXhpLUExcXRCakRHSmM5VVFXT0J1bFBpaUtTWHFXUQ?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Mon, 28 Sep 2026 07:50:00 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Abdulkadir Selvi",
@@ -470,23 +470,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "306592697185ae1496cc7827",
-        "mode": "pontos_voice",
-        "title": "Eski Trabzonsporlu yıldızdan BTS tepkisi! “Öncelik futbola verilmeli” - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1JPRjlsV3UyTENsdWxyTUtUemtoTTZQVmFzbjBDZjJOSEtIb1VOa0FLMmpGOE5pYWdsSHNKSGJ0UHlYSWpOc3VKeWpQajNPc0o2MXA0VktkeGFKVkJTWlZWd3FNSk1nVG91cmdSYmx4eE9aNnZTbGRLRm1OWDRUYXp0YXBQdW5ORFJ2bFVfWngtcndoLVpDTUtES3ZHY001MTUyeEdpU0NKTTZhVnc?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Mon, 28 Sep 2026 07:56:18 GMT",
-        "base_score": 42,
-        "candidate_score": 57,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "tepki",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "d4c6888f6dc67dcc2d954b53",
         "mode": "pontos_voice",
         "title": "Trabzon'da dolmuşa zam yolda! İşte gündemdeki fiyatlar",
@@ -495,6 +478,23 @@
         "published": "Mon, 28 Sep 2026 13:11:00 +0300",
         "base_score": 41,
         "candidate_score": 56,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Of",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "292bba3fa9c9e43f1a912cc5",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor’un milli mesaisi ve yayla krizi Spor Gündemi’nde - CANLI YAYIN - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDcwYlNtRFBTM0t0Z1c3eTdoN3hQTkRpZUZDbTU4d2lOMS01UnBWRXRVeFFOS1ZhOFEzMGpPVGhZd3g3cVI0dXFvZ0xNRXRJTXkwWnA3UTVIS2lnVlp0aWZLV3ZQVF9BaUFaS0hRaG1ETURWMUp2azRWOXdHR19KUlJMSnAzSmhtU09OeHJodlQ0X0V5M3NIamt6ZER0clYyMkdocC16TG04cDdjNFdKamVESk8zY19oeHlrbFgwZTNhVEVB?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Mon, 28 Sep 2026 10:11:29 GMT",
+        "base_score": 40,
+        "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -514,7 +514,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 28 Sep 2026 08:01:47 GMT",
       "base_score": 56,
-      "candidate_score": 89,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -523,8 +523,8 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "bab0c890efc8effe4bb03d5c",
@@ -778,18 +778,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "768f7312222f6ee1b79a1187",
+      "external_id": "ef99a5bde4877cda3e2eaabf",
       "mode": "geopolitico",
-      "title": "Türkiye faktörü GSI’ın rotasını değiştiriyor: Atina yeni güzergâhı değerlendiriyor - haberkibris.com",
+      "title": "Türkiye faktörü GSI’ın rotasını değiştiriyor: Atina yeni güzergâhı değerlendiriyor - Haber Kıbrıs",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQS0zU0VqR2ppZ2tNRHJvZExYOGxKaWdPY2d4cGREcEFXbl8xS1ZBeGVhWkhpMUsxZmZ5YlVrb2NjbXNpLURYOUgydFdmNGpOMmdNNmRTZ1NEQ2dqdmNjbEUzU2huUlBCcE5PeUFfRFpRVjdGemNycXdKSkxzVW9oTzdNLWhVdlZPVnNlWlZ2YXVSRUZBUlVFYzRZekZJWVVtTnVpVE5jWWFXdnRXTUVYLU1pMzZucVl0alVJaFF6YkxhZw?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Mon, 28 Sep 2026 10:04:10 GMT",
+      "published": "Mon, 28 Sep 2026 10:18:32 GMT",
       "base_score": 88,
       "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
-        "Kibris",
         "GSI",
+        "Kıbrıs",
         "Atina",
         "GSI"
       ],
@@ -811,6 +811,22 @@
         "GSI"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "b3885fc26c56b8faed3b3138",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den fon krizi yazısı: 'Erdoğan bazı kelleleri uçurabilir' - Evrensel.net",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjFLb3R3UkJHdGxkNFJyOVhRczE0ZTRDMUJJR2lJT3pQNlBfU2ZNQWdyVzgyODFyQnNmTEo2N05EZlBtamQwcGV5SzlaOHdtSWlhTTh6QUZkaDlYSW1xTXo5ODhXaTFwZGpKR0N0ak41LUlRek5HUUVMRWNJdExUOHVWRmQ0MTdLZ2gxMzcxTlFfcGdpV3JFOU5RZ0pndVZxU1Q4UXNOaHNXbWJYa3Zr?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Mon, 28 Sep 2026 10:45:00 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
     },
     {
       "external_id": "590980f5ad38298733e63455",
@@ -854,22 +870,6 @@
       "published": "Mon, 28 Sep 2026 08:25:14 GMT",
       "base_score": 75,
       "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "0d258e05dc10f40c8a2eb5d2",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken fon kulisi: 'Cumhurbaşkanı Erdoğan bazı kelleleri uçurabilir' - Şok Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWlUX0dmQldrd0c0YThvY0JOamJCUnpkcThNTTIwWVI3c0FKVU1KYkVHSFR3WkhZZTljWVItZ01ZNmFOOW8zamxSMTFkNzlxcTJwVDlTSnRwMEFKRDR5NWY3X2JGN1p2WmFLY3llbnBUdWE4dkVzRGVheTJMMHRCaXdTMlRFN0hfYkR6alRMRmw5UU1tU1NJZ3ppc0xtWDQ0WXhpLUExcXRCakRHSmM5VVFXT0J1bFBpaUtTWHFXUQ?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Mon, 28 Sep 2026 07:50:00 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Abdulkadir Selvi",
@@ -965,23 +965,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "306592697185ae1496cc7827",
-      "mode": "pontos_voice",
-      "title": "Eski Trabzonsporlu yıldızdan BTS tepkisi! “Öncelik futbola verilmeli” - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1JPRjlsV3UyTENsdWxyTUtUemtoTTZQVmFzbjBDZjJOSEtIb1VOa0FLMmpGOE5pYWdsSHNKSGJ0UHlYSWpOc3VKeWpQajNPc0o2MXA0VktkeGFKVkJTWlZWd3FNSk1nVG91cmdSYmx4eE9aNnZTbGRLRm1OWDRUYXp0YXBQdW5ORFJ2bFVfWngtcndoLVpDTUtES3ZHY001MTUyeEdpU0NKTTZhVnc?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Mon, 28 Sep 2026 07:56:18 GMT",
-      "base_score": 42,
-      "candidate_score": 57,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "tepki",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "d4c6888f6dc67dcc2d954b53",
       "mode": "pontos_voice",
       "title": "Trabzon'da dolmuşa zam yolda! İşte gündemdeki fiyatlar",
@@ -990,6 +973,23 @@
       "published": "Mon, 28 Sep 2026 13:11:00 +0300",
       "base_score": 41,
       "candidate_score": 56,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Of",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "292bba3fa9c9e43f1a912cc5",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor’un milli mesaisi ve yayla krizi Spor Gündemi’nde - CANLI YAYIN - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDcwYlNtRFBTM0t0Z1c3eTdoN3hQTkRpZUZDbTU4d2lOMS01UnBWRXRVeFFOS1ZhOFEzMGpPVGhZd3g3cVI0dXFvZ0xNRXRJTXkwWnA3UTVIS2lnVlp0aWZLV3ZQVF9BaUFaS0hRaG1ETURWMUp2azRWOXdHR19KUlJMSnAzSmhtU09OeHJodlQ0X0V5M3NIamt6ZER0clYyMkdocC16TG04cDdjNFdKamVESk8zY19oeHlrbFgwZTNhVEVB?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Mon, 28 Sep 2026 10:11:29 GMT",
+      "base_score": 40,
+      "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
