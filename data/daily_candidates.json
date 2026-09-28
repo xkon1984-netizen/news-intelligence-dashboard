@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:52:38.958642+00:00",
+  "generated_at": "2026-09-28T16:08:25.094404+00:00",
   "counts": {
     "sportdog": 13,
     "geopolitico": 8,
@@ -8,29 +8,9 @@
   "modes": {
     "sportdog": [
       {
-        "external_id": "b4df7051f2d46323160d7600",
+        "external_id": "7c406bf59efb6b47fa7bda45",
         "mode": "sportdog",
-        "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-        "base_score": 56,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "feaef66c4941c801ba259dcd",
-        "mode": "sportdog",
-        "title": "Vezenkov leads Olympiacos past PAOK for Greek SuperCup title - BasketNews.com",
+        "title": "Vezenkov leads Olympiacos past PAOK for Greek SuperCup title - basketnews.com",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ1Q0ZzllQzEzM1ZGMEdVOVN0ejNDdjFRVTU1akM4MDJiVW9NVkZFdUR6ejBDSnFrNEFIbTNNcTJfUFBlcEVfeGI2X0xuLXU3QnJ1VmFDaUhYdXdXNVF4dFdORlNMdkMzMXdIdFY3S1NTVmxqb0pnQ00tbXFpdDQ1RXpCZHphazA5THZBMEJwSTczdXNfTjNxWkZhc3luT2xuRUE?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Sun, 27 Sep 2026 19:21:14 GMT",
@@ -43,6 +23,26 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "b4df7051f2d46323160d7600",
+        "mode": "sportdog",
+        "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 28 Sep 2026 08:01:47 GMT",
+        "base_score": 56,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
         "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -222,9 +222,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "32e392d1b0e531d4276a9d5e",
+        "external_id": "12561dbbd1393e14acdbda5e",
         "mode": "sportdog",
-        "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - BasketNews.com",
+        "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - basketnews.com",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXJzQVM0MGdtZ1c2QlktQnlybXczNW1GRHNvdDVCSzlFUk1pNjVHTHNBRFFCZHRVWjhwdU9Hc05HNU9uZmZ3cENLdE52c3ZyaUZLQUNseTNaRUI4bE52OWZTdWZZUS1tazNlT1RYNXNOWkZnZUk0dHlWbGpOcEpjNjVNd3hGX2kxMnpzZExveVFtYnNCZzlJNGRtOXA1aVZ5dmNVZmZ5cm1oeERNY1lQNUd3?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Sun, 27 Sep 2026 05:39:19 GMT",
@@ -332,6 +332,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "aa1c78cb2741422bafa950d2",
+        "mode": "geopolitico",
+        "title": "Is the Iran-sanctions playbook coming for Israel? - Foundation for Defense of Democracies",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEVBbE1xTWRESkxkTFQyUGpGY1lLOWh1aHFsQ3ZYMEdKcFJndmZLM3pXRDNJdGY0aVJBVHFTTkVhV1VPR0tqUk91MlczV2pwWng0c0pmeHNiaUN2WXZ3dzdqV3VXcWx2Sm5KS3V2Q0Fka2p4SjFXMDlVbmpWYkZ1dndkMGRMb3RUeHNpOWdKQVRGcjlNeEVr?oc=5",
+        "source": "Foundation for Defense of Democracies FDD",
+        "published": "Mon, 28 Sep 2026 14:11:16 GMT",
+        "base_score": 72,
+        "candidate_score": 87,
+        "priority": "High",
+        "matched_keywords": [
+          "Israel",
+          "Iran",
+          "sanctions",
+          "defense"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "84f0ca1c9f33e5fc981db85f",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den fon krizi için bomba iddia: \"Yeni tutuklamalar gelebilir\" - ankaranethaber.com",
@@ -364,9 +382,9 @@
         "content_type": "analyst"
       },
       {
-        "external_id": "072cb0b68d74f3c913aaeb51",
+        "external_id": "590980f5ad38298733e63455",
         "mode": "geopolitico",
-        "title": "Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı - kibristurk.com",
+        "title": "Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı - Kıbrıs Türk Haber",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2RFNHpSUFpFRTRPMEdVeXFwTkg2WTZzM2Z5WmNMVlVJY0ZxWGprR1g1V3VlN1MyS3NnU2l1dnk5eXlpVWkweGJycUoyQjhYVlFhQWhjNEdnd1lrV1BOZE1qYUhTektxYmp0V0F5bkZiOUt0cDIzLWhYOWpRc21jQXRtQk5jbjlUNUo1aGRtOVg?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 28 Sep 2026 10:35:00 GMT",
@@ -374,26 +392,9 @@
         "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
-          "Kibris",
           "Miçotakis",
+          "Kıbrıs",
           "Atina"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "7b3356fb6f1af09bfd7a4a72",
-        "mode": "geopolitico",
-        "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sun, 27 Sep 2026 17:56:29 GMT",
-        "base_score": 77,
-        "candidate_score": 80,
-        "priority": "High",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Jaishankar"
         ],
         "content_type": "news"
       }
@@ -488,17 +489,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "2d7adb93e3eadf84008e247a",
+        "external_id": "c441c287af0cab9d3a51544b",
         "mode": "pontos_voice",
-        "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Mon, 28 Sep 2026 15:18:40 GMT",
+        "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzhCY3BGTHo1WjN6LUxadXZyaWlEV2MwQklydm9scU90U1BxRmdwMUNkbkFoTUpMbEp0dER5eE5qZlpNZTlDbkQ2U00xZGpkRldtWkhnY1VsdVdmdHljdEJneW1mdTU4ejNFaWFVUE5fRVdkNUhyNjVHcHpKeko3azNHNnJsT3ZqOFVKYl9FdENic1ZOTndfekFfX2ptSllXX3c?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Mon, 28 Sep 2026 15:49:27 GMT",
         "base_score": 40,
         "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
-          "Σουμελά"
+          "Trabzon",
+          "Of",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -506,29 +509,9 @@
   },
   "items": [
     {
-      "external_id": "b4df7051f2d46323160d7600",
+      "external_id": "7c406bf59efb6b47fa7bda45",
       "mode": "sportdog",
-      "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-      "base_score": 56,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "feaef66c4941c801ba259dcd",
-      "mode": "sportdog",
-      "title": "Vezenkov leads Olympiacos past PAOK for Greek SuperCup title - BasketNews.com",
+      "title": "Vezenkov leads Olympiacos past PAOK for Greek SuperCup title - basketnews.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ1Q0ZzllQzEzM1ZGMEdVOVN0ejNDdjFRVTU1akM4MDJiVW9NVkZFdUR6ejBDSnFrNEFIbTNNcTJfUFBlcEVfeGI2X0xuLXU3QnJ1VmFDaUhYdXdXNVF4dFdORlNMdkMzMXdIdFY3S1NTVmxqb0pnQ00tbXFpdDQ1RXpCZHphazA5THZBMEJwSTczdXNfTjNxWkZhc3luT2xuRUE?oc=5",
       "source": "Olympiacos Rumour Watch",
       "published": "Sun, 27 Sep 2026 19:21:14 GMT",
@@ -541,6 +524,26 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "b4df7051f2d46323160d7600",
+      "mode": "sportdog",
+      "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 28 Sep 2026 08:01:47 GMT",
+      "base_score": 56,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
       "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -720,9 +723,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "32e392d1b0e531d4276a9d5e",
+      "external_id": "12561dbbd1393e14acdbda5e",
       "mode": "sportdog",
-      "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - BasketNews.com",
+      "title": "Cedi Osman reacts to stunning game-winner that knocked out Panathinaikos - basketnews.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXJzQVM0MGdtZ1c2QlktQnlybXczNW1GRHNvdDVCSzlFUk1pNjVHTHNBRFFCZHRVWjhwdU9Hc05HNU9uZmZ3cENLdE52c3ZyaUZLQUNseTNaRUI4bE52OWZTdWZZUS1tazNlT1RYNXNOWkZnZUk0dHlWbGpOcEpjNjVNd3hGX2kxMnpzZExveVFtYnNCZzlJNGRtOXA1aVZ5dmNVZmZ5cm1oeERNY1lQNUd3?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Sun, 27 Sep 2026 05:39:19 GMT",
@@ -828,6 +831,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "aa1c78cb2741422bafa950d2",
+      "mode": "geopolitico",
+      "title": "Is the Iran-sanctions playbook coming for Israel? - Foundation for Defense of Democracies",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEVBbE1xTWRESkxkTFQyUGpGY1lLOWh1aHFsQ3ZYMEdKcFJndmZLM3pXRDNJdGY0aVJBVHFTTkVhV1VPR0tqUk91MlczV2pwWng0c0pmeHNiaUN2WXZ3dzdqV3VXcWx2Sm5KS3V2Q0Fka2p4SjFXMDlVbmpWYkZ1dndkMGRMb3RUeHNpOWdKQVRGcjlNeEVr?oc=5",
+      "source": "Foundation for Defense of Democracies FDD",
+      "published": "Mon, 28 Sep 2026 14:11:16 GMT",
+      "base_score": 72,
+      "candidate_score": 87,
+      "priority": "High",
+      "matched_keywords": [
+        "Israel",
+        "Iran",
+        "sanctions",
+        "defense"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "84f0ca1c9f33e5fc981db85f",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den fon krizi için bomba iddia: \"Yeni tutuklamalar gelebilir\" - ankaranethaber.com",
@@ -860,9 +881,9 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "072cb0b68d74f3c913aaeb51",
+      "external_id": "590980f5ad38298733e63455",
       "mode": "geopolitico",
-      "title": "Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı - kibristurk.com",
+      "title": "Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı - Kıbrıs Türk Haber",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2RFNHpSUFpFRTRPMEdVeXFwTkg2WTZzM2Z5WmNMVlVJY0ZxWGprR1g1V3VlN1MyS3NnU2l1dnk5eXlpVWkweGJycUoyQjhYVlFhQWhjNEdnd1lrV1BOZE1qYUhTektxYmp0V0F5bkZiOUt0cDIzLWhYOWpRc21jQXRtQk5jbjlUNUo1aGRtOVg?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 28 Sep 2026 10:35:00 GMT",
@@ -870,26 +891,9 @@
       "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
-        "Kibris",
         "Miçotakis",
+        "Kıbrıs",
         "Atina"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "7b3356fb6f1af09bfd7a4a72",
-      "mode": "geopolitico",
-      "title": "In Wide-ranging UNGA Speech, Jaishankar Slams Pakistan, Raises Concerns Over Attacks On Seafarers, Highlights AI Role In Human Empowerment - News India Times",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFhYbmduaWZubmZLNjRhUUY2RkpIQUtQWGxtMkJSVF94bDBNR1V1Vkk1aTdZcGNCME9BTEJ3T1ZNMFY2Q1NEaUZMTGJHOTl2V0ZvTEtlQmNDR2J3aFRFVDZnMlJCUmFuMU8xbTNWWm5lMXNPWkpjR0ZjZnVsemc5cFV0WWVLRS1kSEVhMVpOYjc2UXB2QVNwUGtlbElqTmlBSzRSWHlNXzhPS0xLUWlvQVRsVHU3blZCcW9tYjNESXpqN2lYTjdQaUp4azdLd1Y3MFdvUjlZTHpCeFRIZXBpNWtfeEdPOG4xMkpVUlFlNTVUbzJEMVE?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sun, 27 Sep 2026 17:56:29 GMT",
-      "base_score": 77,
-      "candidate_score": 80,
-      "priority": "High",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Jaishankar"
       ],
       "content_type": "news"
     },
@@ -982,17 +986,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "2d7adb93e3eadf84008e247a",
+      "external_id": "c441c287af0cab9d3a51544b",
       "mode": "pontos_voice",
-      "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Mon, 28 Sep 2026 15:18:40 GMT",
+      "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzhCY3BGTHo1WjN6LUxadXZyaWlEV2MwQklydm9scU90U1BxRmdwMUNkbkFoTUpMbEp0dER5eE5qZlpNZTlDbkQ2U00xZGpkRldtWkhnY1VsdVdmdHljdEJneW1mdTU4ejNFaWFVUE5fRVdkNUhyNjVHcHpKeko3azNHNnJsT3ZqOFVKYl9FdENic1ZOTndfekFfX2ptSllXX3c?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Mon, 28 Sep 2026 15:49:27 GMT",
       "base_score": 40,
       "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
-        "Σουμελά"
+        "Trabzon",
+        "Of",
+        "Trabzon"
       ],
       "content_type": "news"
     }
