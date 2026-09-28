@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:51:43.974892+00:00",
+  "generated_at": "2026-09-28T08:06:23.452983+00:00",
   "counts": {
     "sportdog": 14,
     "geopolitico": 8,
@@ -7,6 +7,26 @@
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "b4df7051f2d46323160d7600",
+        "mode": "sportdog",
+        "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 28 Sep 2026 08:01:47 GMT",
+        "base_score": 56,
+        "candidate_score": 89,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
       {
         "external_id": "bab0c890efc8effe4bb03d5c",
         "mode": "sportdog",
@@ -95,7 +115,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sun, 27 Sep 2026 02:03:56 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -104,25 +124,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "6d44dae85abda03c985f4fd5",
-        "mode": "sportdog",
-        "title": "Olympiacos officially announce the signings of two former players - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakRuaFJIQ2ZEMGdhTENjeWFUcVNrTHFmdWY3Mnp3OWRlb3RWU1ZVSXJuNnVCcGZfbE1MckhwY0UzTndiZW5KNzE0R3pJLS1wdldvbVhWd2o4WGJJR01CUW1GS3dKSDNqX2FZblJ0eFhOaldhX3BycF93OU1LZ3hpbzZXWkRmSm9XdnZ1eEctWERLbUpLTm4tR0ZDNnVIcFo0YXhXbmhjMm4?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 28 Sep 2026 07:36:09 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -300,6 +301,22 @@
         "content_type": "news"
       },
       {
+        "external_id": "0d258e05dc10f40c8a2eb5d2",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken fon kulisi: 'Cumhurbaşkanı Erdoğan bazı kelleleri uçurabilir' - Şok Gazetesi",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWlUX0dmQldrd0c0YThvY0JOamJCUnpkcThNTTIwWVI3c0FKVU1KYkVHSFR3WkhZZTljWVItZ01ZNmFOOW8zamxSMTFkNzlxcTJwVDlTSnRwMEFKRDR5NWY3X2JGN1p2WmFLY3llbnBUdWE4dkVzRGVheTJMMHRCaXdTMlRFN0hfYkR6alRMRmw5UU1tU1NJZ3ppc0xtWDQ0WXhpLUExcXRCakRHSmM5VVFXT0J1bFBpaUtTWHFXUQ?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Mon, 28 Sep 2026 07:50:00 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
+      },
+      {
         "external_id": "b3a42096aad74b789c5f9359",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den 'fon krizi' kulisi: 'Erdoğan bazı kelleleri uçurabilir' - Haber Gündemim",
@@ -328,22 +345,6 @@
         "matched_keywords": [
           "Abdulkadir Selvi",
           "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "b5204b92ce8c3ebf7d339b4f",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Cem Gürdeniz — Yunan basınından Türkiye'ye karşı 4 aşamalı savaş senaryosu! Cem Gürdeniz'den “25'inci saat” yanıtı - Haber Hürriyeti",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQWZtUGMxZlUxdV8xaWpzQWFDWWtJdEtldnN6cExHQ1N5bldwOVIzRlZqZDVhREt3UWcxUVlDeTB2QjNKQlJpMHpwSDFtV2VIZ0FZTEdZNk5tNGx1SzVLb1FBMDFjOXg0SUZqbXVoOFhnc3dPQm83SjVnTjVEazB0OWtsUEc2QzdQRVEwczg5TzJnOWxJNUo5RndtNFQ1ejNoZUtzZUdhcnpsbzlCOVlGMFdtX01DSDdPY1VlTWVBb3JNS3I3UHVFUVBqcXVfZk54MXk2Z1N30gHbAUFVX3lxTE1zSV9xVGtobDB3MWlfNTY1Y3lCelZWTVdnQWFrcFdqUnV4YWdLQTEwb1plcFBaNzNOUGNqeXdmaG9memtBTkxtSVFLdC1sdFFCYXdQdVdROWVuNEc1WjZ2UEZiVmRXTmRnUm03b2R4YmhFZ3pvdl92YjhDZ0pkeDZuZmlkX0o0RDdFTDNCMEQ1R0NrNXFXZXhHVjB2V09wSTlGMTdjWmRtenhRRFlBSlk4bzJOdGtVWUNkRmlhR3hCeFZJRjFaeTJ5TnJxRmdueHRpX0E2c3ZhMmE2WQ?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Mon, 28 Sep 2026 06:06:00 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Cem Gürdeniz",
-          "Cem Gürdeniz"
         ],
         "content_type": "analyst"
       },
@@ -525,6 +526,26 @@
   },
   "items": [
     {
+      "external_id": "b4df7051f2d46323160d7600",
+      "mode": "sportdog",
+      "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 28 Sep 2026 08:01:47 GMT",
+      "base_score": 56,
+      "candidate_score": 89,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "bab0c890efc8effe4bb03d5c",
       "mode": "sportdog",
       "title": "George Pappas returns to Olympiacos on one-year deal - basketballsphere.com",
@@ -612,7 +633,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sun, 27 Sep 2026 02:03:56 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -621,25 +642,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "6d44dae85abda03c985f4fd5",
-      "mode": "sportdog",
-      "title": "Olympiacos officially announce the signings of two former players - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakRuaFJIQ2ZEMGdhTENjeWFUcVNrTHFmdWY3Mnp3OWRlb3RWU1ZVSXJuNnVCcGZfbE1MckhwY0UzTndiZW5KNzE0R3pJLS1wdldvbVhWd2o4WGJJR01CUW1GS3dKSDNqX2FZblJ0eFhOaldhX3BycF93OU1LZ3hpbzZXWkRmSm9XdnZ1eEctWERLbUpLTm4tR0ZDNnVIcFo0YXhXbmhjMm4?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 28 Sep 2026 07:36:09 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -815,6 +817,22 @@
       "content_type": "news"
     },
     {
+      "external_id": "0d258e05dc10f40c8a2eb5d2",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken fon kulisi: 'Cumhurbaşkanı Erdoğan bazı kelleleri uçurabilir' - Şok Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWlUX0dmQldrd0c0YThvY0JOamJCUnpkcThNTTIwWVI3c0FKVU1KYkVHSFR3WkhZZTljWVItZ01ZNmFOOW8zamxSMTFkNzlxcTJwVDlTSnRwMEFKRDR5NWY3X2JGN1p2WmFLY3llbnBUdWE4dkVzRGVheTJMMHRCaXdTMlRFN0hfYkR6alRMRmw5UU1tU1NJZ3ppc0xtWDQ0WXhpLUExcXRCakRHSmM5VVFXT0J1bFBpaUtTWHFXUQ?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Mon, 28 Sep 2026 07:50:00 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
+    },
+    {
       "external_id": "b3a42096aad74b789c5f9359",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den 'fon krizi' kulisi: 'Erdoğan bazı kelleleri uçurabilir' - Haber Gündemim",
@@ -843,22 +861,6 @@
       "matched_keywords": [
         "Abdulkadir Selvi",
         "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "b5204b92ce8c3ebf7d339b4f",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Cem Gürdeniz — Yunan basınından Türkiye'ye karşı 4 aşamalı savaş senaryosu! Cem Gürdeniz'den “25'inci saat” yanıtı - Haber Hürriyeti",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQWZtUGMxZlUxdV8xaWpzQWFDWWtJdEtldnN6cExHQ1N5bldwOVIzRlZqZDVhREt3UWcxUVlDeTB2QjNKQlJpMHpwSDFtV2VIZ0FZTEdZNk5tNGx1SzVLb1FBMDFjOXg0SUZqbXVoOFhnc3dPQm83SjVnTjVEazB0OWtsUEc2QzdQRVEwczg5TzJnOWxJNUo5RndtNFQ1ejNoZUtzZUdhcnpsbzlCOVlGMFdtX01DSDdPY1VlTWVBb3JNS3I3UHVFUVBqcXVfZk54MXk2Z1N30gHbAUFVX3lxTE1zSV9xVGtobDB3MWlfNTY1Y3lCelZWTVdnQWFrcFdqUnV4YWdLQTEwb1plcFBaNzNOUGNqeXdmaG9memtBTkxtSVFLdC1sdFFCYXdQdVdROWVuNEc1WjZ2UEZiVmRXTmRnUm03b2R4YmhFZ3pvdl92YjhDZ0pkeDZuZmlkX0o0RDdFTDNCMEQ1R0NrNXFXZXhHVjB2V09wSTlGMTdjWmRtenhRRFlBSlk4bzJOdGtVWUNkRmlhR3hCeFZJRjFaeTJ5TnJxRmdueHRpX0E2c3ZhMmE2WQ?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Mon, 28 Sep 2026 06:06:00 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Cem Gürdeniz",
-        "Cem Gürdeniz"
       ],
       "content_type": "analyst"
     },
