@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T14:39:48.994409+00:00",
+  "generated_at": "2026-09-29T14:58:01.341119+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -143,25 +143,6 @@
         "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "bcc1935d353cf18145ed2fc5",
-        "mode": "sportdog",
-        "title": "PAOK Transactions - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nVFV2NmJkTlR6TFowRnBmMjBuRE9PX1ZpODJKMEo3M18yZl9vbkpMQnlXU1dtYllDWkRGNnhPbFpOcThvVjRJR25EMTlkUVFxRGp3eE5CR3hHbE1MV0pTQWxIOVVDS3dGVVBwV1Rn?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Mon, 28 Sep 2026 02:44:44 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -180,6 +161,23 @@
           "Pakistan",
           "ISI",
           "radicalisation"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "f0b502d51f232b0ccf798dcc",
+        "mode": "geopolitico",
+        "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1RWYmZjTEJndGk4V0RadmV5SWpFNWY1OENrejFueWdfVHdKMFc2dUlNZ1A5SXRuYzQtaFpIb1gxeW9idWZuX2pBcFB3dTZVS1RUTFlyUUctalRiWDRjTi1YNjlNZnB0N29OU2huUDR1XzVrTHZacVNjRXlSdnExMkRzYmRaUGg5S2NsNlQ4OGNOaldVZVRReVY4cjcwX01nZHR4aDY4M0JzTTdOY0dNYjVncUNuaEFMT0tZVzlJUzUxcUlUV2lPQnBNcFIwUQ?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Tue, 29 Sep 2026 12:51:25 GMT",
+        "base_score": 90,
+        "candidate_score": 105,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Cyprus"
         ],
         "content_type": "news"
       },
@@ -254,21 +252,20 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "131c387ba502234e3a266e44",
+        "external_id": "4d94e8194fe4729c4a8998ec",
         "mode": "geopolitico",
-        "title": "İsrail sistemleri devrede, Yunanistan Ege'ye savunma ağı örüyor - haberglobal.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2h1Slh3SjR5aXkzckoyLTdVTlp1ck8temZuOU5rOHZuVVRGa09UWWJ4QnF6dUkzZHQ0akZhU0NCeVgxNFRFcDNubkV4Zm9PTm9OVWVFV19CLTBLYnZaVWhCYUd0RC1XOG1ZYU4yWUtGMHNhd3hOaDB0NVI1N1NIcDFXTFF4SmNZSWdzLWtMcW1kbXZEOEdDclhOR2Y5NHpKT1dJ0gGoAUFVX3lxTE9NcU12eWV6MlR0d0huWUNBWmRiTmxaWFRnNExsY2RaR0FZZEx6ZWZsYzFIWUVEZEhQb1NsLXdnS2tZZTMxYmtGdnZZTHh0cVVISGJIVUpNX0xUSmk5eVpNaFlEWjVhSDFxdUFHNi1SZWFlUzdDUV9zS0EzQnJQUlFnSDBlclpCcXNGOWNTYmowemFwLXpOUlhOeHNtVW5wSGZpRm1Td3J2Qg?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Tue, 29 Sep 2026 06:54:00 GMT",
-        "base_score": 81,
-        "candidate_score": 91,
+        "title": "[ANALYST WATCH] Hakan Çelik — Yeni Parti Kongresine yoğun katılım: Hakan Çelik yeniden başkan - Yayla Haber",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2hMZUJvaWxYaUZXbmRTdS05VVhrcWdhNmZGMmJDZjV5U3Znb3Y3d0JIZnQzT0JiUE5sazRqQVdJRWdhRm9MR0M3aTNha1BqM21PZDBWcGJVdExTWXhvNExyRnVjVG5IZzVneXl4dVhNUU45VDRHRk9md19CVVJJSmJmLUxlYVF0ODRJTWY5YlNYMmZ5QVdr0gGcAUFVX3lxTE0tZi1MNXpsQ1lnVmNrUUFfMmd4WGh3MENZb2Zfcm5EMlNGSlpNMkFNS2lRdk95aDBaaUxVQjRxM2F5ZWtqT0xDV2U1Nzc3UzBONWEtN2NiQUEtX0t5OHNZTmJNMGhuRHQwR0hkalhMd2RQLWJvLURPcXdaTk5QUmN1OGNTN3NMNkpXZnVISmt0UmcxbWJ0U0xKbjRiRg?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Tue, 29 Sep 2026 13:50:00 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
-          "Yunanistan",
-          "Ege",
-          "savunma"
+          "Hakan Çelik",
+          "Hakan Çelik"
         ],
-        "content_type": "turkey_greece"
+        "content_type": "analyst"
       },
       {
         "external_id": "8f1a0d2c00b53a212c921b7c",
@@ -285,24 +282,6 @@
           "Cihat Yaycı"
         ],
         "content_type": "analyst"
-      },
-      {
-        "external_id": "e5dfdcdea38c306223b5d848",
-        "mode": "geopolitico",
-        "title": "F-35 vs. Eurofighter Typhoon: The Next-Generation Air Clash over the Aegean Sea - The National Interest",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeS0zcXVCSGVtcURfaUt5d0JOSEdCV3p0MFRqUUd5MTFONzIycm9yMjNwVXBWQ2gtYXFQajJLMUNZQmsxdUpYUVhQakhPSHgyMTRMeEtiTHBVaW43dkduSXdyWXhDbmxNV01oX2lac29ITHpRTlVrdGV4bEJocngyTkxqSVdwOHZWYlA0ZDlvRE5YS1E3d2dWZm05YlUxTi12UlcybXlzMGM0Tlo0Y012bGFydEhFbGFUTHc?oc=5",
-        "source": "F35 Drone Navy Watch",
-        "published": "Mon, 28 Sep 2026 14:02:47 GMT",
-        "base_score": 85,
-        "candidate_score": 88,
-        "priority": "High",
-        "matched_keywords": [
-          "Aegean",
-          "Ege",
-          "F-35",
-          "F-35"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -553,25 +532,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "bcc1935d353cf18145ed2fc5",
-      "mode": "sportdog",
-      "title": "PAOK Transactions - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nVFV2NmJkTlR6TFowRnBmMjBuRE9PX1ZpODJKMEo3M18yZl9vbkpMQnlXU1dtYllDWkRGNnhPbFpOcThvVjRJR25EMTlkUVFxRGp3eE5CR3hHbE1MV0pTQWxIOVVDS3dGVVBwV1Rn?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Mon, 28 Sep 2026 02:44:44 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "56717ad0b4db31b6a10f2500",
       "mode": "geopolitico",
       "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - The Statesman",
@@ -586,6 +546,23 @@
         "Pakistan",
         "ISI",
         "radicalisation"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "f0b502d51f232b0ccf798dcc",
+      "mode": "geopolitico",
+      "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1RWYmZjTEJndGk4V0RadmV5SWpFNWY1OENrejFueWdfVHdKMFc2dUlNZ1A5SXRuYzQtaFpIb1gxeW9idWZuX2pBcFB3dTZVS1RUTFlyUUctalRiWDRjTi1YNjlNZnB0N29OU2huUDR1XzVrTHZacVNjRXlSdnExMkRzYmRaUGg5S2NsNlQ4OGNOaldVZVRReVY4cjcwX01nZHR4aDY4M0JzTTdOY0dNYjVncUNuaEFMT0tZVzlJUzUxcUlUV2lPQnBNcFIwUQ?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Tue, 29 Sep 2026 12:51:25 GMT",
+      "base_score": 90,
+      "candidate_score": 105,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "Cyprus"
       ],
       "content_type": "news"
     },
@@ -660,21 +637,20 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "131c387ba502234e3a266e44",
+      "external_id": "4d94e8194fe4729c4a8998ec",
       "mode": "geopolitico",
-      "title": "İsrail sistemleri devrede, Yunanistan Ege'ye savunma ağı örüyor - haberglobal.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2h1Slh3SjR5aXkzckoyLTdVTlp1ck8temZuOU5rOHZuVVRGa09UWWJ4QnF6dUkzZHQ0akZhU0NCeVgxNFRFcDNubkV4Zm9PTm9OVWVFV19CLTBLYnZaVWhCYUd0RC1XOG1ZYU4yWUtGMHNhd3hOaDB0NVI1N1NIcDFXTFF4SmNZSWdzLWtMcW1kbXZEOEdDclhOR2Y5NHpKT1dJ0gGoAUFVX3lxTE9NcU12eWV6MlR0d0huWUNBWmRiTmxaWFRnNExsY2RaR0FZZEx6ZWZsYzFIWUVEZEhQb1NsLXdnS2tZZTMxYmtGdnZZTHh0cVVISGJIVUpNX0xUSmk5eVpNaFlEWjVhSDFxdUFHNi1SZWFlUzdDUV9zS0EzQnJQUlFnSDBlclpCcXNGOWNTYmowemFwLXpOUlhOeHNtVW5wSGZpRm1Td3J2Qg?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Tue, 29 Sep 2026 06:54:00 GMT",
-      "base_score": 81,
-      "candidate_score": 91,
+      "title": "[ANALYST WATCH] Hakan Çelik — Yeni Parti Kongresine yoğun katılım: Hakan Çelik yeniden başkan - Yayla Haber",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2hMZUJvaWxYaUZXbmRTdS05VVhrcWdhNmZGMmJDZjV5U3Znb3Y3d0JIZnQzT0JiUE5sazRqQVdJRWdhRm9MR0M3aTNha1BqM21PZDBWcGJVdExTWXhvNExyRnVjVG5IZzVneXl4dVhNUU45VDRHRk9md19CVVJJSmJmLUxlYVF0ODRJTWY5YlNYMmZ5QVdr0gGcAUFVX3lxTE0tZi1MNXpsQ1lnVmNrUUFfMmd4WGh3MENZb2Zfcm5EMlNGSlpNMkFNS2lRdk95aDBaaUxVQjRxM2F5ZWtqT0xDV2U1Nzc3UzBONWEtN2NiQUEtX0t5OHNZTmJNMGhuRHQwR0hkalhMd2RQLWJvLURPcXdaTk5QUmN1OGNTN3NMNkpXZnVISmt0UmcxbWJ0U0xKbjRiRg?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Tue, 29 Sep 2026 13:50:00 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
-        "Yunanistan",
-        "Ege",
-        "savunma"
+        "Hakan Çelik",
+        "Hakan Çelik"
       ],
-      "content_type": "turkey_greece"
+      "content_type": "analyst"
     },
     {
       "external_id": "8f1a0d2c00b53a212c921b7c",
@@ -691,24 +667,6 @@
         "Cihat Yaycı"
       ],
       "content_type": "analyst"
-    },
-    {
-      "external_id": "e5dfdcdea38c306223b5d848",
-      "mode": "geopolitico",
-      "title": "F-35 vs. Eurofighter Typhoon: The Next-Generation Air Clash over the Aegean Sea - The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeS0zcXVCSGVtcURfaUt5d0JOSEdCV3p0MFRqUUd5MTFONzIycm9yMjNwVXBWQ2gtYXFQajJLMUNZQmsxdUpYUVhQakhPSHgyMTRMeEtiTHBVaW43dkduSXdyWXhDbmxNV01oX2lac29ITHpRTlVrdGV4bEJocngyTkxqSVdwOHZWYlA0ZDlvRE5YS1E3d2dWZm05YlUxTi12UlcybXlzMGM0Tlo0Y012bGFydEhFbGFUTHc?oc=5",
-      "source": "F35 Drone Navy Watch",
-      "published": "Mon, 28 Sep 2026 14:02:47 GMT",
-      "base_score": 85,
-      "candidate_score": 88,
-      "priority": "High",
-      "matched_keywords": [
-        "Aegean",
-        "Ege",
-        "F-35",
-        "F-35"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "f1c657e3d0c4327c3d1ad65c",
