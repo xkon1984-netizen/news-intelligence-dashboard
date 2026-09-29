@@ -7,6 +7,11 @@ mentions:
     - "Khristos Konstantinidis"
     - "Christos Constantinidis"
     - "Hristo Konstantinidis"
+  surname_aliases:
+    - "Konstantinidis"
+    - "Constantinidis"
+    - "Κωνσταντινίδης"
+    - "Κωνσταντινιδης"
   identity_context:
     - "Geopolitico"
     - "Geopolitico.gr"
@@ -25,6 +30,9 @@ mentions:
     - "Του Χρήστου Κωνσταντινίδη"
     - "Γράφει ο Χρήστος Κωνσταντινίδης"
   searches:
+    - name: "Gazeteci Konstantinidis Turkish 30d"
+      query: "\"Gazeteci Konstantinidis\" when:30d"
+      locale: tr-TR
     - name: "Christos Konstantinidis Global 30d"
       query: "\"Christos Konstantinidis\" when:30d"
       locale: en-US
