@@ -76,12 +76,12 @@ def contains_greek(value: str) -> bool:
     return bool(re.search(r"[\u0370-\u03ff\u1f00-\u1fff]", value or ""))
 
 
-def fetch_article_text(url: str):
+def fetch_article_text(url: str, timeout: int = 8):
     """Best-effort public-page read. Never bypasses paywalls or access controls."""
     if not url:
         return "", url, "no_url"
     try:
-        response = requests.get(url, timeout=15, headers={"User-Agent": USER_AGENT, "Accept-Language": "tr,en;q=0.8,el;q=0.7"}, allow_redirects=True)
+        response = requests.get(url, timeout=timeout, headers={"User-Agent": USER_AGENT, "Accept-Language": "tr,en;q=0.8,el;q=0.7"}, allow_redirects=True)
         response.raise_for_status()
         final_url = response.url
         if "news.google.com" in final_url:
@@ -198,6 +198,7 @@ def load_historical_mentions():
 def collect_mentions(cfg: dict):
     results = []
     now = datetime.now(timezone.utc)
+    full_text_attempts = 0
     for search in cfg.get("searches", []):
         hl, gl, ceid = locale_params_extended(search.get("locale", "en-US"))
         url = f"https://news.google.com/rss/search?q={quote_plus(search['query'])}&hl={hl}&gl={gl}&ceid={quote_plus(ceid)}"
@@ -220,8 +221,9 @@ def collect_mentions(cfg: dict):
                 evidence_text = f"{title} {summary}"
                 mention_type, hits = classify_mention(evidence_text, cfg)
                 page_text, resolved_url, access = ("", link, "summary_only")
-                if mention_type in (None, "name_candidate", "geopolitico_reference"):
-                    page_text, resolved_url, access = fetch_article_text(link)
+                if mention_type in (None, "name_candidate", "geopolitico_reference") and full_text_attempts < 8:
+                    full_text_attempts += 1
+                    page_text, resolved_url, access = fetch_article_text(link, timeout=5)
                     evidence_text = f"{title} {summary} {page_text}"
                     mention_type, hits = classify_mention(evidence_text, cfg)
                 if not mention_type:
