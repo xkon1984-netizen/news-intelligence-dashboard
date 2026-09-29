@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T02:21:49.639535+00:00",
+  "generated_at": "2026-09-29T02:37:56.639623+00:00",
   "counts": {
     "sportdog": 8,
     "geopolitico": 8,
@@ -134,7 +134,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sun, 27 Sep 2026 20:37:43 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -308,22 +308,6 @@
     ],
     "pontos_voice": [
       {
-        "external_id": "836fb7a1ebf23721cac5758a",
-        "mode": "pontos_voice",
-        "title": "Ο Πόντος «ζωντάνεψε» στη Θεσσαλονίκη: 2.100 χορευτές στο 20ό Φεστιβάλ Ποντιακών Χορών της ΠΟΕ - Livemedia.gr",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFeGFnMi10VHBSeG1LbzRHdkM0UFdSRzYzMHJjWEtUREZGU2o4TEFTSjFUb0JHckJzOXhaRm94NF9tRUxWVE9mM0R4WlZGYWVobmdqcE8yNXlQYXN2VHhBUjg2RUNtbTN0UnF4WEQ3MTN4bDQ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Mon, 28 Sep 2026 13:17:59 GMT",
-        "base_score": 63,
-        "candidate_score": 69,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Πόντος",
-          "ΠΟΕ"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "d2a5a068e2e1538909f1689e",
         "mode": "pontos_voice",
         "title": "Ποντιακή βραδιά στο Schorndorf: Γλέντι με αγαπημένους καλλιτέχνες από την Ελλάδα - pontosnews.gr",
@@ -404,6 +388,21 @@
           "Trabzon",
           "Of",
           "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "2d7adb93e3eadf84008e247a",
+        "mode": "pontos_voice",
+        "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Mon, 28 Sep 2026 15:18:40 GMT",
+        "base_score": 40,
+        "candidate_score": 46,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Σουμελά"
         ],
         "content_type": "news"
       }
@@ -537,7 +536,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sun, 27 Sep 2026 20:37:43 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -707,22 +706,6 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "836fb7a1ebf23721cac5758a",
-      "mode": "pontos_voice",
-      "title": "Ο Πόντος «ζωντάνεψε» στη Θεσσαλονίκη: 2.100 χορευτές στο 20ό Φεστιβάλ Ποντιακών Χορών της ΠΟΕ - Livemedia.gr",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFeGFnMi10VHBSeG1LbzRHdkM0UFdSRzYzMHJjWEtUREZGU2o4TEFTSjFUb0JHckJzOXhaRm94NF9tRUxWVE9mM0R4WlZGYWVobmdqcE8yNXlQYXN2VHhBUjg2RUNtbTN0UnF4WEQ3MTN4bDQ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Mon, 28 Sep 2026 13:17:59 GMT",
-      "base_score": 63,
-      "candidate_score": 69,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Πόντος",
-        "ΠΟΕ"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "d2a5a068e2e1538909f1689e",
       "mode": "pontos_voice",
       "title": "Ποντιακή βραδιά στο Schorndorf: Γλέντι με αγαπημένους καλλιτέχνες από την Ελλάδα - pontosnews.gr",
@@ -803,6 +786,21 @@
         "Trabzon",
         "Of",
         "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "2d7adb93e3eadf84008e247a",
+      "mode": "pontos_voice",
+      "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Mon, 28 Sep 2026 15:18:40 GMT",
+      "base_score": 40,
+      "candidate_score": 46,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Σουμελά"
       ],
       "content_type": "news"
     }
