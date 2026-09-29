@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:04:10.329533+00:00",
+  "generated_at": "2026-09-29T20:26:14.964235+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -125,6 +125,24 @@
     ],
     "geopolitico": [
       {
+        "external_id": "56717ad0b4db31b6a10f2500",
+        "mode": "geopolitico",
+        "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - The Statesman",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkQ3N3B2V0FZSUl1RER2c1pmUkp1UEp1R1hSZ1dYaHpiYVZ1Nml1SnpVR2JVS0lIRmcydGxWX1RpMnEyUVdYSUFaQ3h6QzVORE9YMHJlZWhlbU55eXNLOUpWdmllTS1xU2t1Yy0wdUZXS3JxUDBaR1ZVd3VRdVhkeC1oMENSZFVaUENfclFTdDN6WXpPTFJUWFlrSlNXY0hoZDRpWG0wcUNpU00yd2JMcWJ6MHR0UEh5bWNOVjNuUDIwVHBFVDZkV0dNc1RDU0xNMGFv0gHYAUFVX3lxTE9qSGszRmxCZ0QzbFNrUlF0RF83SE1Ub0dmX3RPeTh1dUtFZ1hNOVRKSEJJYkFWekcwbkJJeHN6S1RkNnhMZVBLcFMtZEJzZXZOVGQ5aF9OVlVnNlNTdVJCdndhLVZId2hnSG5ZZ1JEblhpT3ZiYjZ5Z1NCZEZ1Z0tDVkcyVGhxTnI0cnRMYm10Z1JhRGpBc2FqMWFPWlc4Y3pkVFlSQTlic3dpX0NKaDBDajNqbmp0bjByd0poMDIxMU02bTJQMzlNX2RYR2VyMXpELXJWUnE4Zg?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Tue, 29 Sep 2026 09:43:00 GMT",
+        "base_score": 96,
+        "candidate_score": 102,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "ISI",
+          "radicalisation"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "d0a3b927620c5c022d428f8c",
         "mode": "geopolitico",
         "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
@@ -190,24 +208,6 @@
           "India",
           "Pakistan",
           "Jaishankar"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "9dc9320f30352a4979dc01ad",
-        "mode": "geopolitico",
-        "title": "Pakistan Navy’s Hangor-class submarine completes maiden live-fire missile test; expert highlights Chinese-made boat’s feature of easy operation, sound training - Global Times",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPbVVReTl4ak96R0hNV0ZhbjZGdlM0SXVRZTMxMUtQeEl1VW9TbGo3UWthTFhmUHZ1Z05KTlpEeEQ5S0pVMzJfTUFvWnpmQ05YWTM3d3JxbDhGOWNfTmlZMktB?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Mon, 28 Sep 2026 15:41:00 GMT",
-        "base_score": 86,
-        "candidate_score": 89,
-        "priority": "High",
-        "matched_keywords": [
-          "Pakistan",
-          "Chinese",
-          "Pakistan Navy",
-          "training"
         ],
         "content_type": "news"
       },
@@ -316,25 +316,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "0f8cf8eae42ffd216ecb50dd",
-        "mode": "pontos_voice",
-        "title": "Hacısalihoğulları Derneği’nden MHP Trabzon İl Başkanı Alper Hacısalihoğlu’na ziyaret",
-        "url": "https://www.61saat.com/hacisalihogullari-derneginden-mhp-trabzon-il-baskani-alper-hacisalihogluna-ziyaret",
-        "source": "61Saat Trabzon",
-        "published": "Tue, 29 Sep 2026 16:06:00 +0300",
-        "base_score": 67,
-        "candidate_score": 77,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "kültür",
-          "MHP",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "b1679cef8f92f1005921281e",
         "mode": "pontos_voice",
         "title": "Trabzon'da tarihi bina TTSO’nun sosyal tesisi mi olacak? İşte detaylar - Haber61",
@@ -364,6 +345,23 @@
         "matched_keywords": [
           "Trabzon",
           "bakan",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "ab876f0a8c87f99a3eebb9a1",
+        "mode": "pontos_voice",
+        "title": "4-0’lık tarihi gecenin ardından Trabzonspor’a ceza yağdı!",
+        "url": "https://www.61saat.com/4-0lik-tarihi-gecenin-ardindan-trabzonspora-ceza-yagdi",
+        "source": "61Saat Trabzon",
+        "published": "Tue, 29 Sep 2026 20:34:00 +0300",
+        "base_score": 41,
+        "candidate_score": 56,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Of",
           "Trabzon"
         ],
         "content_type": "news"
@@ -487,6 +485,24 @@
       "needs_second_source": true
     },
     {
+      "external_id": "56717ad0b4db31b6a10f2500",
+      "mode": "geopolitico",
+      "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkQ3N3B2V0FZSUl1RER2c1pmUkp1UEp1R1hSZ1dYaHpiYVZ1Nml1SnpVR2JVS0lIRmcydGxWX1RpMnEyUVdYSUFaQ3h6QzVORE9YMHJlZWhlbU55eXNLOUpWdmllTS1xU2t1Yy0wdUZXS3JxUDBaR1ZVd3VRdVhkeC1oMENSZFVaUENfclFTdDN6WXpPTFJUWFlrSlNXY0hoZDRpWG0wcUNpU00yd2JMcWJ6MHR0UEh5bWNOVjNuUDIwVHBFVDZkV0dNc1RDU0xNMGFv0gHYAUFVX3lxTE9qSGszRmxCZ0QzbFNrUlF0RF83SE1Ub0dmX3RPeTh1dUtFZ1hNOVRKSEJJYkFWekcwbkJJeHN6S1RkNnhMZVBLcFMtZEJzZXZOVGQ5aF9OVlVnNlNTdVJCdndhLVZId2hnSG5ZZ1JEblhpT3ZiYjZ5Z1NCZEZ1Z0tDVkcyVGhxTnI0cnRMYm10Z1JhRGpBc2FqMWFPWlc4Y3pkVFlSQTlic3dpX0NKaDBDajNqbmp0bjByd0poMDIxMU02bTJQMzlNX2RYR2VyMXpELXJWUnE4Zg?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Tue, 29 Sep 2026 09:43:00 GMT",
+      "base_score": 96,
+      "candidate_score": 102,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "ISI",
+        "radicalisation"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "d0a3b927620c5c022d428f8c",
       "mode": "geopolitico",
       "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
@@ -552,24 +568,6 @@
         "India",
         "Pakistan",
         "Jaishankar"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "9dc9320f30352a4979dc01ad",
-      "mode": "geopolitico",
-      "title": "Pakistan Navy’s Hangor-class submarine completes maiden live-fire missile test; expert highlights Chinese-made boat’s feature of easy operation, sound training - Global Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPbVVReTl4ak96R0hNV0ZhbjZGdlM0SXVRZTMxMUtQeEl1VW9TbGo3UWthTFhmUHZ1Z05KTlpEeEQ5S0pVMzJfTUFvWnpmQ05YWTM3d3JxbDhGOWNfTmlZMktB?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Mon, 28 Sep 2026 15:41:00 GMT",
-      "base_score": 86,
-      "candidate_score": 89,
-      "priority": "High",
-      "matched_keywords": [
-        "Pakistan",
-        "Chinese",
-        "Pakistan Navy",
-        "training"
       ],
       "content_type": "news"
     },
@@ -676,25 +674,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "0f8cf8eae42ffd216ecb50dd",
-      "mode": "pontos_voice",
-      "title": "Hacısalihoğulları Derneği’nden MHP Trabzon İl Başkanı Alper Hacısalihoğlu’na ziyaret",
-      "url": "https://www.61saat.com/hacisalihogullari-derneginden-mhp-trabzon-il-baskani-alper-hacisalihogluna-ziyaret",
-      "source": "61Saat Trabzon",
-      "published": "Tue, 29 Sep 2026 16:06:00 +0300",
-      "base_score": 67,
-      "candidate_score": 77,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "kültür",
-        "MHP",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "b1679cef8f92f1005921281e",
       "mode": "pontos_voice",
       "title": "Trabzon'da tarihi bina TTSO’nun sosyal tesisi mi olacak? İşte detaylar - Haber61",
@@ -724,6 +703,23 @@
       "matched_keywords": [
         "Trabzon",
         "bakan",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "ab876f0a8c87f99a3eebb9a1",
+      "mode": "pontos_voice",
+      "title": "4-0’lık tarihi gecenin ardından Trabzonspor’a ceza yağdı!",
+      "url": "https://www.61saat.com/4-0lik-tarihi-gecenin-ardindan-trabzonspora-ceza-yagdi",
+      "source": "61Saat Trabzon",
+      "published": "Tue, 29 Sep 2026 20:34:00 +0300",
+      "base_score": 41,
+      "candidate_score": 56,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Of",
         "Trabzon"
       ],
       "content_type": "news"
