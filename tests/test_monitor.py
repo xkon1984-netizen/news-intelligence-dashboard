@@ -13,6 +13,7 @@ CFG = {
         "Christos Konstantinidis", "Hristos Konstantinidis",
         "Khristos Konstantinidis", "Christos Constantinidis", "Hristo Konstantinidis",
     ],
+    "surname_aliases": ["Konstantinidis", "Constantinidis", "Κωνσταντινίδης"],
     "identity_context": ["Geopolitico", "gazeteci", "journalist", "δημοσιογράφος", "yayın yönetmeni", "podcast"],
     "authored_markers": ["By Christos Konstantinidis", "Γράφει ο Χρήστος Κωνσταντινίδης"],
 }
@@ -34,6 +35,14 @@ class MonitorRegressionTests(unittest.TestCase):
         text = "Hristo Konstantinidis Türk Medyasına Seslendi; Geopolitico podcasti tartışıldı."
         kind, _ = collector.classify_mention(text, CFG)
         self.assertEqual(kind, "personal_reference")
+
+    def test_contextual_surname_from_mezopotamya_title(self):
+        kind, _ = collector.classify_mention("Gazeteci Konstantinidis: AB destekli proje Türkiye-Yunanistan ilişkilerini sınayacak", CFG)
+        self.assertEqual(kind, "personal_reference")
+
+    def test_surname_alone_is_not_promoted(self):
+        kind, _ = collector.classify_mention("Konstantinidis scored in the match.", CFG)
+        self.assertIsNone(kind)
 
     def test_authored_article_is_not_personal_reference(self):
         kind, _ = collector.classify_mention("By Christos Konstantinidis | Middle East Forum", CFG)
