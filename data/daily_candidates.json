@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T20:51:11.153661+00:00",
+  "generated_at": "2026-09-29T21:03:45.782233+00:00",
   "counts": {
-    "sportdog": 5,
+    "sportdog": 4,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -47,25 +47,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "f27a6d4c150aff7a44e75f96",
-        "mode": "sportdog",
-        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Tue, 29 Sep 2026 01:47:07 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "205408f043368fdc7ed33a52",
         "mode": "sportdog",
         "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - Euroleague Basketball",
@@ -106,23 +87,6 @@
     ],
     "geopolitico": [
       {
-        "external_id": "d0a3b927620c5c022d428f8c",
-        "mode": "geopolitico",
-        "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0LXM1WXc0allUZFNsd0sxdThyQ2EtTFFBY0E2ZW5LZ2tyZktFaS13anYtWlRTdTV0WHAzUUFtSmNSS19zWTI0TTlaTGtLanRzRTN3?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Tue, 29 Sep 2026 12:55:12 GMT",
-        "base_score": 90,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Cyprus"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "e2b9477196dad8aaaea5c4bd",
         "mode": "geopolitico",
         "title": "Türkiye Yunanistan'a kabloyu toplattı! Güzergahı değiştirmek zorunda kaldılar - Hür Haber",
@@ -158,6 +122,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "f64b08957ea1445c4ff57197",
+        "mode": "geopolitico",
+        "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - trtworld.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0LXM1WXc0allUZFNsd0sxdThyQ2EtTFFBY0E2ZW5LZ2tyZktFaS13anYtWlRTdTV0WHAzUUFtSmNSS19zWTI0TTlaTGtLanRzRTN3?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Tue, 29 Sep 2026 12:55:12 GMT",
+        "base_score": 90,
+        "candidate_score": 96,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Cyprus"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "9dc9320f30352a4979dc01ad",
         "mode": "geopolitico",
         "title": "Pakistan Navy’s Hangor-class submarine completes maiden live-fire missile test; expert highlights Chinese-made boat’s feature of easy operation, sound training - Global Times",
@@ -176,9 +157,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "40ea17d7d0c05400bcf0c2de",
+        "external_id": "2ce182c2fa69dbb43ea1f42c",
         "mode": "geopolitico",
-        "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - deccanherald.com",
+        "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - Deccan Herald",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWjN1bUtKTU5MU3NuVm1ZNkZMN3d1WmkyNHRGVS0tTDRYcDJEaEpjaUVrdEUwbVZ1T2VOQ1FyV1paRVV6UHEzVDV2a1hXbGVxTGx4Y0RJN3kxZ25RUDlQUlVMUFFwTHZIU1Y5c2xBTmRqaEd4VHAzOVRSSURNSlBNUEJhQkRHb2pnWms3Q3lHX1N4TER1MUF1a0ZCWU90czQ2OTM4WFNpUG12UFYzWkV3bDJicFNlbHZsRm9YckxETTFZdVVnOVR3ZHFUZ0d4a3Brb1JvdjhmbmZsMURJZ3RLT0N1bnR2UQ?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Tue, 29 Sep 2026 17:42:16 GMT",
@@ -390,25 +371,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f27a6d4c150aff7a44e75f96",
-      "mode": "sportdog",
-      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Tue, 29 Sep 2026 01:47:07 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "205408f043368fdc7ed33a52",
       "mode": "sportdog",
       "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - Euroleague Basketball",
@@ -447,23 +409,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "d0a3b927620c5c022d428f8c",
-      "mode": "geopolitico",
-      "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0LXM1WXc0allUZFNsd0sxdThyQ2EtTFFBY0E2ZW5LZ2tyZktFaS13anYtWlRTdTV0WHAzUUFtSmNSS19zWTI0TTlaTGtLanRzRTN3?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Tue, 29 Sep 2026 12:55:12 GMT",
-      "base_score": 90,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Cyprus"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "e2b9477196dad8aaaea5c4bd",
       "mode": "geopolitico",
       "title": "Türkiye Yunanistan'a kabloyu toplattı! Güzergahı değiştirmek zorunda kaldılar - Hür Haber",
@@ -499,6 +444,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "f64b08957ea1445c4ff57197",
+      "mode": "geopolitico",
+      "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - trtworld.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0LXM1WXc0allUZFNsd0sxdThyQ2EtTFFBY0E2ZW5LZ2tyZktFaS13anYtWlRTdTV0WHAzUUFtSmNSS19zWTI0TTlaTGtLanRzRTN3?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Tue, 29 Sep 2026 12:55:12 GMT",
+      "base_score": 90,
+      "candidate_score": 96,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "Cyprus"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "9dc9320f30352a4979dc01ad",
       "mode": "geopolitico",
       "title": "Pakistan Navy’s Hangor-class submarine completes maiden live-fire missile test; expert highlights Chinese-made boat’s feature of easy operation, sound training - Global Times",
@@ -517,9 +479,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "40ea17d7d0c05400bcf0c2de",
+      "external_id": "2ce182c2fa69dbb43ea1f42c",
       "mode": "geopolitico",
-      "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - deccanherald.com",
+      "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - Deccan Herald",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWjN1bUtKTU5MU3NuVm1ZNkZMN3d1WmkyNHRGVS0tTDRYcDJEaEpjaUVrdEUwbVZ1T2VOQ1FyV1paRVV6UHEzVDV2a1hXbGVxTGx4Y0RJN3kxZ25RUDlQUlVMUFFwTHZIU1Y5c2xBTmRqaEd4VHAzOVRSSURNSlBNUEJhQkRHb2pnWms3Q3lHX1N4TER1MUF1a0ZCWU90czQ2OTM4WFNpUG12UFYzWkV3bDJicFNlbHZsRm9YckxETTFZdVVnOVR3ZHFUZ0d4a3Brb1JvdjhmbmZsMURJZ3RLT0N1bnR2UQ?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Tue, 29 Sep 2026 17:42:16 GMT",
