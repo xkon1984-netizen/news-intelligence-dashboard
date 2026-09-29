@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T20:26:14.964235+00:00",
+  "generated_at": "2026-09-29T20:51:11.153661+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -102,46 +102,9 @@
         "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "17ac5b07143340593e71e938",
-        "mode": "sportdog",
-        "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHRKcDh1WjV5SHpXZTh6MlBMXzh4WXd1Sm00V05rWTFLRElGc3RIaGU3RHM1cGoxMUxBNlZpZDE5Z0VUaXJibzBsX3BDd3NMZUE5MjRTWWNROWVJcHA1aHBMMVF0dmk3S0JqaEhjejVReXRtM2J2R2JUeXZrd3ZOSktLbktkLUtfZkNRdFRxeGxJbXNscTd0QXFQcEdhYi1rLWRUY1ZIREJHdlZZNElUck0wSnhHOGRINFUtTDhlVElzLW9iYXNQYw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 28 Sep 2026 08:37:30 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
-      {
-        "external_id": "56717ad0b4db31b6a10f2500",
-        "mode": "geopolitico",
-        "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - The Statesman",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkQ3N3B2V0FZSUl1RER2c1pmUkp1UEp1R1hSZ1dYaHpiYVZ1Nml1SnpVR2JVS0lIRmcydGxWX1RpMnEyUVdYSUFaQ3h6QzVORE9YMHJlZWhlbU55eXNLOUpWdmllTS1xU2t1Yy0wdUZXS3JxUDBaR1ZVd3VRdVhkeC1oMENSZFVaUENfclFTdDN6WXpPTFJUWFlrSlNXY0hoZDRpWG0wcUNpU00yd2JMcWJ6MHR0UEh5bWNOVjNuUDIwVHBFVDZkV0dNc1RDU0xNMGFv0gHYAUFVX3lxTE9qSGszRmxCZ0QzbFNrUlF0RF83SE1Ub0dmX3RPeTh1dUtFZ1hNOVRKSEJJYkFWekcwbkJJeHN6S1RkNnhMZVBLcFMtZEJzZXZOVGQ5aF9OVlVnNlNTdVJCdndhLVZId2hnSG5ZZ1JEblhpT3ZiYjZ5Z1NCZEZ1Z0tDVkcyVGhxTnI0cnRMYm10Z1JhRGpBc2FqMWFPWlc4Y3pkVFlSQTlic3dpX0NKaDBDajNqbmp0bjByd0poMDIxMU02bTJQMzlNX2RYR2VyMXpELXJWUnE4Zg?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Tue, 29 Sep 2026 09:43:00 GMT",
-        "base_score": 96,
-        "candidate_score": 102,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "ISI",
-          "radicalisation"
-        ],
-        "content_type": "news"
-      },
       {
         "external_id": "d0a3b927620c5c022d428f8c",
         "mode": "geopolitico",
@@ -195,14 +158,32 @@
         "content_type": "news"
       },
       {
-        "external_id": "2ce182c2fa69dbb43ea1f42c",
+        "external_id": "9dc9320f30352a4979dc01ad",
         "mode": "geopolitico",
-        "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - Deccan Herald",
+        "title": "Pakistan Navy’s Hangor-class submarine completes maiden live-fire missile test; expert highlights Chinese-made boat’s feature of easy operation, sound training - Global Times",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPbVVReTl4ak96R0hNV0ZhbjZGdlM0SXVRZTMxMUtQeEl1VW9TbGo3UWthTFhmUHZ1Z05KTlpEeEQ5S0pVMzJfTUFvWnpmQ05YWTM3d3JxbDhGOWNfTmlZMktB?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Mon, 28 Sep 2026 15:41:00 GMT",
+        "base_score": 86,
+        "candidate_score": 89,
+        "priority": "High",
+        "matched_keywords": [
+          "Pakistan",
+          "Chinese",
+          "Pakistan Navy",
+          "training"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "40ea17d7d0c05400bcf0c2de",
+        "mode": "geopolitico",
+        "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - deccanherald.com",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWjN1bUtKTU5MU3NuVm1ZNkZMN3d1WmkyNHRGVS0tTDRYcDJEaEpjaUVrdEUwbVZ1T2VOQ1FyV1paRVV6UHEzVDV2a1hXbGVxTGx4Y0RJN3kxZ25RUDlQUlVMUFFwTHZIU1Y5c2xBTmRqaEd4VHAzOVRSSURNSlBNUEJhQkRHb2pnWms3Q3lHX1N4TER1MUF1a0ZCWU90czQ2OTM4WFNpUG12UFYzWkV3bDJicFNlbHZsRm9YckxETTFZdVVnOVR3ZHFUZ0d4a3Brb1JvdjhmbmZsMURJZ3RLT0N1bnR2UQ?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Tue, 29 Sep 2026 17:42:16 GMT",
         "base_score": 77,
-        "candidate_score": 92,
+        "candidate_score": 87,
         "priority": "High",
         "matched_keywords": [
           "India",
@@ -316,23 +297,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "b1679cef8f92f1005921281e",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da tarihi bina TTSO’nun sosyal tesisi mi olacak? İşte detaylar - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHNtZWRBNG9ERVYyRXFodXI3eHhybW9Fd2lueDVnbHlwREJvUTVOVVZyam42cUlqaXM3YW5ENDROeG9CLWRjMFhVU0NLY0d0bkNFai1JQUxyQ19PWHFYdXY1SmM2eHd6TnNhOU1hM2JOT05nbXlXUWdRSWc3LXYzQUpiUnRUWUZVSHlaTVRZRmdTbm5lZmM2NGVqb0RaUjZWMlpDblhyS3NLZTF2?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Tue, 29 Sep 2026 12:35:23 GMT",
-        "base_score": 50,
-        "candidate_score": 60,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "tarihi bina",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "c7bd9e0366e2534034d5998b",
         "mode": "pontos_voice",
         "title": "Ankara'daki görüşmeden Trabzon kararı çıktı!",
@@ -350,18 +314,35 @@
         "content_type": "news"
       },
       {
-        "external_id": "ab876f0a8c87f99a3eebb9a1",
+        "external_id": "b1679cef8f92f1005921281e",
         "mode": "pontos_voice",
-        "title": "4-0’lık tarihi gecenin ardından Trabzonspor’a ceza yağdı!",
-        "url": "https://www.61saat.com/4-0lik-tarihi-gecenin-ardindan-trabzonspora-ceza-yagdi",
-        "source": "61Saat Trabzon",
-        "published": "Tue, 29 Sep 2026 20:34:00 +0300",
-        "base_score": 41,
+        "title": "Trabzon'da tarihi bina TTSO’nun sosyal tesisi mi olacak? İşte detaylar - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHNtZWRBNG9ERVYyRXFodXI3eHhybW9Fd2lueDVnbHlwREJvUTVOVVZyam42cUlqaXM3YW5ENDROeG9CLWRjMFhVU0NLY0d0bkNFai1JQUxyQ19PWHFYdXY1SmM2eHd6TnNhOU1hM2JOT05nbXlXUWdRSWc3LXYzQUpiUnRUWUZVSHlaTVRZRmdTbm5lZmM2NGVqb0RaUjZWMlpDblhyS3NLZTF2?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Tue, 29 Sep 2026 12:35:23 GMT",
+        "base_score": 50,
         "candidate_score": 56,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
+          "tarihi bina",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "680027d8eed67fb695efc96e",
+        "mode": "pontos_voice",
+        "title": "Yeni Parti Trabzon'da kongre maratonu devam ediyor",
+        "url": "https://www.61saat.com/yeni-parti-trabzonda-kongre-maratonu-devam-ediyor",
+        "source": "61Saat Trabzon",
+        "published": "Tue, 29 Sep 2026 16:51:00 +0300",
+        "base_score": 44,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Sürmene",
           "Trabzon"
         ],
         "content_type": "news"
@@ -466,43 +447,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "17ac5b07143340593e71e938",
-      "mode": "sportdog",
-      "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHRKcDh1WjV5SHpXZTh6MlBMXzh4WXd1Sm00V05rWTFLRElGc3RIaGU3RHM1cGoxMUxBNlZpZDE5Z0VUaXJibzBsX3BDd3NMZUE5MjRTWWNROWVJcHA1aHBMMVF0dmk3S0JqaEhjejVReXRtM2J2R2JUeXZrd3ZOSktLbktkLUtfZkNRdFRxeGxJbXNscTd0QXFQcEdhYi1rLWRUY1ZIREJHdlZZNElUck0wSnhHOGRINFUtTDhlVElzLW9iYXNQYw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 28 Sep 2026 08:37:30 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "56717ad0b4db31b6a10f2500",
-      "mode": "geopolitico",
-      "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - The Statesman",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkQ3N3B2V0FZSUl1RER2c1pmUkp1UEp1R1hSZ1dYaHpiYVZ1Nml1SnpVR2JVS0lIRmcydGxWX1RpMnEyUVdYSUFaQ3h6QzVORE9YMHJlZWhlbU55eXNLOUpWdmllTS1xU2t1Yy0wdUZXS3JxUDBaR1ZVd3VRdVhkeC1oMENSZFVaUENfclFTdDN6WXpPTFJUWFlrSlNXY0hoZDRpWG0wcUNpU00yd2JMcWJ6MHR0UEh5bWNOVjNuUDIwVHBFVDZkV0dNc1RDU0xNMGFv0gHYAUFVX3lxTE9qSGszRmxCZ0QzbFNrUlF0RF83SE1Ub0dmX3RPeTh1dUtFZ1hNOVRKSEJJYkFWekcwbkJJeHN6S1RkNnhMZVBLcFMtZEJzZXZOVGQ5aF9OVlVnNlNTdVJCdndhLVZId2hnSG5ZZ1JEblhpT3ZiYjZ5Z1NCZEZ1Z0tDVkcyVGhxTnI0cnRMYm10Z1JhRGpBc2FqMWFPWlc4Y3pkVFlSQTlic3dpX0NKaDBDajNqbmp0bjByd0poMDIxMU02bTJQMzlNX2RYR2VyMXpELXJWUnE4Zg?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Tue, 29 Sep 2026 09:43:00 GMT",
-      "base_score": 96,
-      "candidate_score": 102,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "ISI",
-        "radicalisation"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "d0a3b927620c5c022d428f8c",
       "mode": "geopolitico",
       "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
@@ -555,14 +499,32 @@
       "content_type": "news"
     },
     {
-      "external_id": "2ce182c2fa69dbb43ea1f42c",
+      "external_id": "9dc9320f30352a4979dc01ad",
       "mode": "geopolitico",
-      "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - Deccan Herald",
+      "title": "Pakistan Navy’s Hangor-class submarine completes maiden live-fire missile test; expert highlights Chinese-made boat’s feature of easy operation, sound training - Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPbVVReTl4ak96R0hNV0ZhbjZGdlM0SXVRZTMxMUtQeEl1VW9TbGo3UWthTFhmUHZ1Z05KTlpEeEQ5S0pVMzJfTUFvWnpmQ05YWTM3d3JxbDhGOWNfTmlZMktB?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Mon, 28 Sep 2026 15:41:00 GMT",
+      "base_score": 86,
+      "candidate_score": 89,
+      "priority": "High",
+      "matched_keywords": [
+        "Pakistan",
+        "Chinese",
+        "Pakistan Navy",
+        "training"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "40ea17d7d0c05400bcf0c2de",
+      "mode": "geopolitico",
+      "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - deccanherald.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWjN1bUtKTU5MU3NuVm1ZNkZMN3d1WmkyNHRGVS0tTDRYcDJEaEpjaUVrdEUwbVZ1T2VOQ1FyV1paRVV6UHEzVDV2a1hXbGVxTGx4Y0RJN3kxZ25RUDlQUlVMUFFwTHZIU1Y5c2xBTmRqaEd4VHAzOVRSSURNSlBNUEJhQkRHb2pnWms3Q3lHX1N4TER1MUF1a0ZCWU90czQ2OTM4WFNpUG12UFYzWkV3bDJicFNlbHZsRm9YckxETTFZdVVnOVR3ZHFUZ0d4a3Brb1JvdjhmbmZsMURJZ3RLT0N1bnR2UQ?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Tue, 29 Sep 2026 17:42:16 GMT",
       "base_score": 77,
-      "candidate_score": 92,
+      "candidate_score": 87,
       "priority": "High",
       "matched_keywords": [
         "India",
@@ -674,23 +636,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "b1679cef8f92f1005921281e",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da tarihi bina TTSO’nun sosyal tesisi mi olacak? İşte detaylar - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHNtZWRBNG9ERVYyRXFodXI3eHhybW9Fd2lueDVnbHlwREJvUTVOVVZyam42cUlqaXM3YW5ENDROeG9CLWRjMFhVU0NLY0d0bkNFai1JQUxyQ19PWHFYdXY1SmM2eHd6TnNhOU1hM2JOT05nbXlXUWdRSWc3LXYzQUpiUnRUWUZVSHlaTVRZRmdTbm5lZmM2NGVqb0RaUjZWMlpDblhyS3NLZTF2?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Tue, 29 Sep 2026 12:35:23 GMT",
-      "base_score": 50,
-      "candidate_score": 60,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "tarihi bina",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "c7bd9e0366e2534034d5998b",
       "mode": "pontos_voice",
       "title": "Ankara'daki görüşmeden Trabzon kararı çıktı!",
@@ -708,18 +653,35 @@
       "content_type": "news"
     },
     {
-      "external_id": "ab876f0a8c87f99a3eebb9a1",
+      "external_id": "b1679cef8f92f1005921281e",
       "mode": "pontos_voice",
-      "title": "4-0’lık tarihi gecenin ardından Trabzonspor’a ceza yağdı!",
-      "url": "https://www.61saat.com/4-0lik-tarihi-gecenin-ardindan-trabzonspora-ceza-yagdi",
-      "source": "61Saat Trabzon",
-      "published": "Tue, 29 Sep 2026 20:34:00 +0300",
-      "base_score": 41,
+      "title": "Trabzon'da tarihi bina TTSO’nun sosyal tesisi mi olacak? İşte detaylar - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHNtZWRBNG9ERVYyRXFodXI3eHhybW9Fd2lueDVnbHlwREJvUTVOVVZyam42cUlqaXM3YW5ENDROeG9CLWRjMFhVU0NLY0d0bkNFai1JQUxyQ19PWHFYdXY1SmM2eHd6TnNhOU1hM2JOT05nbXlXUWdRSWc3LXYzQUpiUnRUWUZVSHlaTVRZRmdTbm5lZmM2NGVqb0RaUjZWMlpDblhyS3NLZTF2?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Tue, 29 Sep 2026 12:35:23 GMT",
+      "base_score": 50,
       "candidate_score": 56,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
+        "tarihi bina",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "680027d8eed67fb695efc96e",
+      "mode": "pontos_voice",
+      "title": "Yeni Parti Trabzon'da kongre maratonu devam ediyor",
+      "url": "https://www.61saat.com/yeni-parti-trabzonda-kongre-maratonu-devam-ediyor",
+      "source": "61Saat Trabzon",
+      "published": "Tue, 29 Sep 2026 16:51:00 +0300",
+      "base_score": 44,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Sürmene",
         "Trabzon"
       ],
       "content_type": "news"
