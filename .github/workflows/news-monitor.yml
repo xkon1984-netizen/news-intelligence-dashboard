@@ -35,6 +35,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Run monitor regression tests
+        run: python -m unittest discover -s tests -p 'test_*.py'
+
       - name: Collect news
         run: python scripts/collect.py
 
@@ -48,7 +51,7 @@ jobs:
         run: |
           git config user.name "news-monitor-bot"
           git config user.email "news-monitor-bot@users.noreply.github.com"
-          git add data/news.json data/daily_candidates.json data/published_watch.json
+          git add data/news.json data/source_health.json data/daily_candidates.json data/published_watch.json
           if ! git diff --cached --quiet; then
             git commit -m "Refresh news feed"
             git push
@@ -61,6 +64,7 @@ jobs:
           cp dashboard/style.css _site/style.css
           cp dashboard/app.js _site/app.js
           cp data/news.json _site/data/news.json
+          cp data/source_health.json _site/data/source_health.json
           cp data/daily_candidates.json _site/data/daily_candidates.json
           cp data/published_watch.json _site/data/published_watch.json
           if [ -f dashboard/data/transfer_sources.json ]; then
