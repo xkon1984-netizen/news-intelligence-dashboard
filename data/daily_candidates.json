@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T18:54:47.646651+00:00",
+  "generated_at": "2026-09-29T19:25:35.261399+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -14,46 +14,6 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-        "base_score": 56,
-        "candidate_score": 74,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "bb584489dd34f5bb366d37d3",
-        "mode": "sportdog",
-        "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Mon, 28 Sep 2026 07:21:58 GMT",
-        "base_score": 56,
-        "candidate_score": 74,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "bab0c890efc8effe4bb03d5c",
-        "mode": "sportdog",
-        "title": "George Pappas returns to Olympiacos on one-year deal - basketballsphere.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOem1QYUJXUUtkaTBIS3RSNmxEdzB3SzczODVXdWlqNVhFVy1ucDE0N2p1ZG9pejZYWk9NTEVVUXlFRWRXd24yWUZxSjFvaU15alNZY0M4aVpOMUktOG1oTm1EeEhqcmNEM1FHMVluYXNNdmJIMlExdkE2d3J5Z3ZLcFd6SkFjZw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 28 Sep 2026 07:12:33 GMT",
         "base_score": 56,
         "candidate_score": 74,
         "priority": "High",
@@ -142,13 +102,32 @@
         "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
+      },
+      {
+        "external_id": "17ac5b07143340593e71e938",
+        "mode": "sportdog",
+        "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHRKcDh1WjV5SHpXZTh6MlBMXzh4WXd1Sm00V05rWTFLRElGc3RIaGU3RHM1cGoxMUxBNlZpZDE5Z0VUaXJibzBsX3BDd3NMZUE5MjRTWWNROWVJcHA1aHBMMVF0dmk3S0JqaEhjejVReXRtM2J2R2JUeXZrd3ZOSktLbktkLUtfZkNRdFRxeGxJbXNscTd0QXFQcEdhYi1rLWRUY1ZIREJHdlZZNElUck0wSnhHOGRINFUtTDhlVElzLW9iYXNQYw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 28 Sep 2026 08:39:09 GMT",
+        "base_score": 31,
+        "candidate_score": 39,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
       {
-        "external_id": "afddb80e48128ccb765e3011",
+        "external_id": "56717ad0b4db31b6a10f2500",
         "mode": "geopolitico",
-        "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - thestatesman.com",
+        "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - The Statesman",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkQ3N3B2V0FZSUl1RER2c1pmUkp1UEp1R1hSZ1dYaHpiYVZ1Nml1SnpVR2JVS0lIRmcydGxWX1RpMnEyUVdYSUFaQ3h6QzVORE9YMHJlZWhlbU55eXNLOUpWdmllTS1xU2t1Yy0wdUZXS3JxUDBaR1ZVd3VRdVhkeC1oMENSZFVaUENfclFTdDN6WXpPTFJUWFlrSlNXY0hoZDRpWG0wcUNpU00yd2JMcWJ6MHR0UEh5bWNOVjNuUDIwVHBFVDZkV0dNc1RDU0xNMGFv0gHYAUFVX3lxTE9qSGszRmxCZ0QzbFNrUlF0RF83SE1Ub0dmX3RPeTh1dUtFZ1hNOVRKSEJJYkFWekcwbkJJeHN6S1RkNnhMZVBLcFMtZEJzZXZOVGQ5aF9OVlVnNlNTdVJCdndhLVZId2hnSG5ZZ1JEblhpT3ZiYjZ5Z1NCZEZ1Z0tDVkcyVGhxTnI0cnRMYm10Z1JhRGpBc2FqMWFPWlc4Y3pkVFlSQTlic3dpX0NKaDBDajNqbmp0bjByd0poMDIxMU02bTJQMzlNX2RYR2VyMXpELXJWUnE4Zg?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Tue, 29 Sep 2026 09:43:00 GMT",
@@ -164,12 +143,12 @@
         "content_type": "news"
       },
       {
-        "external_id": "f0b502d51f232b0ccf798dcc",
+        "external_id": "f64b08957ea1445c4ff57197",
         "mode": "geopolitico",
-        "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1RWYmZjTEJndGk4V0RadmV5SWpFNWY1OENrejFueWdfVHdKMFc2dUlNZ1A5SXRuYzQtaFpIb1gxeW9idWZuX2pBcFB3dTZVS1RUTFlyUUctalRiWDRjTi1YNjlNZnB0N29OU2huUDR1XzVrTHZacVNjRXlSdnExMkRzYmRaUGg5S2NsNlQ4OGNOaldVZVRReVY4cjcwX01nZHR4aDY4M0JzTTdOY0dNYjVncUNuaEFMT0tZVzlJUzUxcUlUV2lPQnBNcFIwUQ?oc=5",
+        "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - trtworld.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0LXM1WXc0allUZFNsd0sxdThyQ2EtTFFBY0E2ZW5LZ2tyZktFaS13anYtWlRTdTV0WHAzUUFtSmNSS19zWTI0TTlaTGtLanRzRTN3?oc=5",
         "source": "Greece Israel Strategic Watch",
-        "published": "Tue, 29 Sep 2026 12:51:25 GMT",
+        "published": "Tue, 29 Sep 2026 12:55:12 GMT",
         "base_score": 90,
         "candidate_score": 100,
         "priority": "URGENT",
@@ -375,18 +354,18 @@
         "content_type": "news"
       },
       {
-        "external_id": "ab876f0a8c87f99a3eebb9a1",
+        "external_id": "c7bd9e0366e2534034d5998b",
         "mode": "pontos_voice",
-        "title": "4-0’lık tarihi gecenin ardından Trabzonspor’a ceza yağdı!",
-        "url": "https://www.61saat.com/4-0lik-tarihi-gecenin-ardindan-trabzonspora-ceza-yagdi",
+        "title": "Ankara'daki görüşmeden Trabzon kararı çıktı!",
+        "url": "https://www.61saat.com/ankaradaki-gorusmeden-trabzon-karari-cikti",
         "source": "61Saat Trabzon",
-        "published": "Tue, 29 Sep 2026 20:34:00 +0300",
-        "base_score": 41,
-        "candidate_score": 56,
+        "published": "Tue, 29 Sep 2026 22:00:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
+          "bakan",
           "Trabzon"
         ],
         "content_type": "news"
@@ -401,46 +380,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-      "base_score": 56,
-      "candidate_score": 74,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "bb584489dd34f5bb366d37d3",
-      "mode": "sportdog",
-      "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Mon, 28 Sep 2026 07:21:58 GMT",
-      "base_score": 56,
-      "candidate_score": 74,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "bab0c890efc8effe4bb03d5c",
-      "mode": "sportdog",
-      "title": "George Pappas returns to Olympiacos on one-year deal - basketballsphere.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOem1QYUJXUUtkaTBIS3RSNmxEdzB3SzczODVXdWlqNVhFVy1ucDE0N2p1ZG9pejZYWk9NTEVVUXlFRWRXd24yWUZxSjFvaU15alNZY0M4aVpOMUktOG1oTm1EeEhqcmNEM1FHMVluYXNNdmJIMlExdkE2d3J5Z3ZLcFd6SkFjZw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 28 Sep 2026 07:12:33 GMT",
       "base_score": 56,
       "candidate_score": 74,
       "priority": "High",
@@ -531,9 +470,28 @@
       "needs_second_source": true
     },
     {
-      "external_id": "afddb80e48128ccb765e3011",
+      "external_id": "17ac5b07143340593e71e938",
+      "mode": "sportdog",
+      "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHRKcDh1WjV5SHpXZTh6MlBMXzh4WXd1Sm00V05rWTFLRElGc3RIaGU3RHM1cGoxMUxBNlZpZDE5Z0VUaXJibzBsX3BDd3NMZUE5MjRTWWNROWVJcHA1aHBMMVF0dmk3S0JqaEhjejVReXRtM2J2R2JUeXZrd3ZOSktLbktkLUtfZkNRdFRxeGxJbXNscTd0QXFQcEdhYi1rLWRUY1ZIREJHdlZZNElUck0wSnhHOGRINFUtTDhlVElzLW9iYXNQYw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 28 Sep 2026 08:39:09 GMT",
+      "base_score": 31,
+      "candidate_score": 39,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "56717ad0b4db31b6a10f2500",
       "mode": "geopolitico",
-      "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - thestatesman.com",
+      "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - The Statesman",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkQ3N3B2V0FZSUl1RER2c1pmUkp1UEp1R1hSZ1dYaHpiYVZ1Nml1SnpVR2JVS0lIRmcydGxWX1RpMnEyUVdYSUFaQ3h6QzVORE9YMHJlZWhlbU55eXNLOUpWdmllTS1xU2t1Yy0wdUZXS3JxUDBaR1ZVd3VRdVhkeC1oMENSZFVaUENfclFTdDN6WXpPTFJUWFlrSlNXY0hoZDRpWG0wcUNpU00yd2JMcWJ6MHR0UEh5bWNOVjNuUDIwVHBFVDZkV0dNc1RDU0xNMGFv0gHYAUFVX3lxTE9qSGszRmxCZ0QzbFNrUlF0RF83SE1Ub0dmX3RPeTh1dUtFZ1hNOVRKSEJJYkFWekcwbkJJeHN6S1RkNnhMZVBLcFMtZEJzZXZOVGQ5aF9OVlVnNlNTdVJCdndhLVZId2hnSG5ZZ1JEblhpT3ZiYjZ5Z1NCZEZ1Z0tDVkcyVGhxTnI0cnRMYm10Z1JhRGpBc2FqMWFPWlc4Y3pkVFlSQTlic3dpX0NKaDBDajNqbmp0bjByd0poMDIxMU02bTJQMzlNX2RYR2VyMXpELXJWUnE4Zg?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Tue, 29 Sep 2026 09:43:00 GMT",
@@ -549,12 +507,12 @@
       "content_type": "news"
     },
     {
-      "external_id": "f0b502d51f232b0ccf798dcc",
+      "external_id": "f64b08957ea1445c4ff57197",
       "mode": "geopolitico",
-      "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1RWYmZjTEJndGk4V0RadmV5SWpFNWY1OENrejFueWdfVHdKMFc2dUlNZ1A5SXRuYzQtaFpIb1gxeW9idWZuX2pBcFB3dTZVS1RUTFlyUUctalRiWDRjTi1YNjlNZnB0N29OU2huUDR1XzVrTHZacVNjRXlSdnExMkRzYmRaUGg5S2NsNlQ4OGNOaldVZVRReVY4cjcwX01nZHR4aDY4M0JzTTdOY0dNYjVncUNuaEFMT0tZVzlJUzUxcUlUV2lPQnBNcFIwUQ?oc=5",
+      "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - trtworld.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0LXM1WXc0allUZFNsd0sxdThyQ2EtTFFBY0E2ZW5LZ2tyZktFaS13anYtWlRTdTV0WHAzUUFtSmNSS19zWTI0TTlaTGtLanRzRTN3?oc=5",
       "source": "Greece Israel Strategic Watch",
-      "published": "Tue, 29 Sep 2026 12:51:25 GMT",
+      "published": "Tue, 29 Sep 2026 12:55:12 GMT",
       "base_score": 90,
       "candidate_score": 100,
       "priority": "URGENT",
@@ -758,18 +716,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "ab876f0a8c87f99a3eebb9a1",
+      "external_id": "c7bd9e0366e2534034d5998b",
       "mode": "pontos_voice",
-      "title": "4-0’lık tarihi gecenin ardından Trabzonspor’a ceza yağdı!",
-      "url": "https://www.61saat.com/4-0lik-tarihi-gecenin-ardindan-trabzonspora-ceza-yagdi",
+      "title": "Ankara'daki görüşmeden Trabzon kararı çıktı!",
+      "url": "https://www.61saat.com/ankaradaki-gorusmeden-trabzon-karari-cikti",
       "source": "61Saat Trabzon",
-      "published": "Tue, 29 Sep 2026 20:34:00 +0300",
-      "base_score": 41,
-      "candidate_score": 56,
+      "published": "Tue, 29 Sep 2026 22:00:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
+        "bakan",
         "Trabzon"
       ],
       "content_type": "news"
