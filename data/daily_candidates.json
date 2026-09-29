@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T02:53:25.771726+00:00",
+  "generated_at": "2026-09-29T03:08:15.928472+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -108,6 +108,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "205408f043368fdc7ed33a52",
+        "mode": "sportdog",
+        "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - Euroleague Basketball",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzR1Z1lFLTBIT0RWTHJFajJGM3FtemxDeHJ6X0pzVTFnM2R4ZVlmZEk5NnpoRWl4WHlVeWNmMVgyU3paS01FLUdxOUUwOGxHZ1BzcGx1cVVSTEc0aElYZmlaWmZKZi1ISW1ZbVItRW1RbURGblhMTE9uX21ZMFpWRDUzaTBiS1E0eGNwTk1Ea2NKX25DSXRRX2M1VVNSdnNUYlg3VHAxZ0Zlc2lRRTJ6X2hJVk1fV1hvTEE?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Tue, 29 Sep 2026 00:41:37 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "bcc1935d353cf18145ed2fc5",
         "mode": "sportdog",
         "title": "PAOK Transactions - Yahoo",
@@ -168,9 +187,9 @@
     ],
     "geopolitico": [
       {
-        "external_id": "bd8c090e19b2f75b9b9f9f14",
+        "external_id": "59c2b40a941fb31d8addd942",
         "mode": "geopolitico",
-        "title": "Yunanistan’dan Türkiye’ye Great Sea Interconnector mesajı - Haber Kıbrıs",
+        "title": "Yunanistan’dan Türkiye’ye Great Sea Interconnector mesajı - haberkibris.com",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYjBIZ0lHRlBfM0FKTXN2QTQ5dmkwc25sdHBESkZvdzhja1lmWk1GMll2UlVqa014dVpIb09zY245MEk0b3JQeG1DZ28xT1dwQnowWV91T2NTRGFaT0oyUXFZWUhZY01LZ3RnTFhsY04ySXotQjI1MUoyUVBzbUo4ajlIbjZ0UnR2RVZvZVp5RXdUeUFQcUlQSm9JM3NkV3Jrb1E?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 28 Sep 2026 13:13:38 GMT",
@@ -179,8 +198,8 @@
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
+          "Kibris",
           "Great Sea Interconnector",
-          "Kıbrıs",
           "Great Sea Interconnector"
         ],
         "content_type": "news"
@@ -204,9 +223,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "ef99a5bde4877cda3e2eaabf",
+        "external_id": "768f7312222f6ee1b79a1187",
         "mode": "geopolitico",
-        "title": "Türkiye faktörü GSI’ın rotasını değiştiriyor: Atina yeni güzergâhı değerlendiriyor - Haber Kıbrıs",
+        "title": "Türkiye faktörü GSI’ın rotasını değiştiriyor: Atina yeni güzergâhı değerlendiriyor - haberkibris.com",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQS0zU0VqR2ppZ2tNRHJvZExYOGxKaWdPY2d4cGREcEFXbl8xS1ZBeGVhWkhpMUsxZmZ5YlVrb2NjbXNpLURYOUgydFdmNGpOMmdNNmRTZ1NEQ2dqdmNjbEUzU2huUlBCcE5PeUFfRFpRVjdGemNycXdKSkxzVW9oTzdNLWhVdlZPVnNlWlZ2YXVSRUZBUlVFYzRZekZJWVVtTnVpVE5jWWFXdnRXTUVYLU1pMzZucVl0alVJaFF6YkxhZw?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 28 Sep 2026 10:18:32 GMT",
@@ -214,8 +233,8 @@
         "candidate_score": 94,
         "priority": "High",
         "matched_keywords": [
+          "Kibris",
           "GSI",
-          "Kıbrıs",
           "Atina",
           "GSI"
         ],
@@ -238,6 +257,22 @@
           "training"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "e0095ec798a859ebe35eef77",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Fon rezaletine Meclis’te araştırma komisyonu geliyor | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUs5VmVNLXNXU21rRjdhbVBJakJoX1BWaXJvZW9oa0s2a05ROC1vTm9RSHFrd1BoaHl5MGp1VnVVTGUzSmxQV0lqdm9nZEpMcFk3QjlNWU9zRWdXNmtGTV9paFlZWWlSMnJZY2FMY0hpLUlkaGFiZmRjWlhNQ0xvSTRDZ1VvbTYyNWhKY0N3bEhodjdIODY3YlI3b1ZkOWU3NmRBV1lpcEtqRlVCaVpZbTl5U1A?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Tue, 29 Sep 2026 02:56:48 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
       },
       {
         "external_id": "8933cc2d5636ce376c948998",
@@ -288,22 +323,6 @@
           "12 mil"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "c12f5f4529140d0a4cdc2134",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: Fon krizinde kelleler uçacak - Bundle",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDA0UDZkaVNmeGpoS1dCdVRpc3pQNkhNR2ZBc19JSXF6M2V2bU0zVFVqZFliellRY2ozeU9yNHZLMlZqNVlOWmRXZDVzU1JDNldWZXhPOFp2NmNtc052aktuajFhUmxBTlBnOGNfaFJzaUJqb19hcDN3UEhDUVg2dklzc1BwNGxSVDR4YVBZVDFkYTFYekZHakJ1Ylg5dnJaRzJtS1hOUDQxajRrRktCM08tOHhoUQ?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Mon, 28 Sep 2026 13:08:31 GMT",
-        "base_score": 75,
-        "candidate_score": 81,
-        "priority": "High",
-        "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -510,6 +529,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "205408f043368fdc7ed33a52",
+      "mode": "sportdog",
+      "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - Euroleague Basketball",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzR1Z1lFLTBIT0RWTHJFajJGM3FtemxDeHJ6X0pzVTFnM2R4ZVlmZEk5NnpoRWl4WHlVeWNmMVgyU3paS01FLUdxOUUwOGxHZ1BzcGx1cVVSTEc0aElYZmlaWmZKZi1ISW1ZbVItRW1RbURGblhMTE9uX21ZMFpWRDUzaTBiS1E0eGNwTk1Ea2NKX25DSXRRX2M1VVNSdnNUYlg3VHAxZ0Zlc2lRRTJ6X2hJVk1fV1hvTEE?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Tue, 29 Sep 2026 00:41:37 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "bcc1935d353cf18145ed2fc5",
       "mode": "sportdog",
       "title": "PAOK Transactions - Yahoo",
@@ -568,9 +606,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "bd8c090e19b2f75b9b9f9f14",
+      "external_id": "59c2b40a941fb31d8addd942",
       "mode": "geopolitico",
-      "title": "Yunanistan’dan Türkiye’ye Great Sea Interconnector mesajı - Haber Kıbrıs",
+      "title": "Yunanistan’dan Türkiye’ye Great Sea Interconnector mesajı - haberkibris.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYjBIZ0lHRlBfM0FKTXN2QTQ5dmkwc25sdHBESkZvdzhja1lmWk1GMll2UlVqa014dVpIb09zY245MEk0b3JQeG1DZ28xT1dwQnowWV91T2NTRGFaT0oyUXFZWUhZY01LZ3RnTFhsY04ySXotQjI1MUoyUVBzbUo4ajlIbjZ0UnR2RVZvZVp5RXdUeUFQcUlQSm9JM3NkV3Jrb1E?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 28 Sep 2026 13:13:38 GMT",
@@ -579,8 +617,8 @@
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
+        "Kibris",
         "Great Sea Interconnector",
-        "Kıbrıs",
         "Great Sea Interconnector"
       ],
       "content_type": "news"
@@ -604,9 +642,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "ef99a5bde4877cda3e2eaabf",
+      "external_id": "768f7312222f6ee1b79a1187",
       "mode": "geopolitico",
-      "title": "Türkiye faktörü GSI’ın rotasını değiştiriyor: Atina yeni güzergâhı değerlendiriyor - Haber Kıbrıs",
+      "title": "Türkiye faktörü GSI’ın rotasını değiştiriyor: Atina yeni güzergâhı değerlendiriyor - haberkibris.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQS0zU0VqR2ppZ2tNRHJvZExYOGxKaWdPY2d4cGREcEFXbl8xS1ZBeGVhWkhpMUsxZmZ5YlVrb2NjbXNpLURYOUgydFdmNGpOMmdNNmRTZ1NEQ2dqdmNjbEUzU2huUlBCcE5PeUFfRFpRVjdGemNycXdKSkxzVW9oTzdNLWhVdlZPVnNlWlZ2YXVSRUZBUlVFYzRZekZJWVVtTnVpVE5jWWFXdnRXTUVYLU1pMzZucVl0alVJaFF6YkxhZw?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 28 Sep 2026 10:18:32 GMT",
@@ -614,8 +652,8 @@
       "candidate_score": 94,
       "priority": "High",
       "matched_keywords": [
+        "Kibris",
         "GSI",
-        "Kıbrıs",
         "Atina",
         "GSI"
       ],
@@ -638,6 +676,22 @@
         "training"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "e0095ec798a859ebe35eef77",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Fon rezaletine Meclis’te araştırma komisyonu geliyor | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUs5VmVNLXNXU21rRjdhbVBJakJoX1BWaXJvZW9oa0s2a05ROC1vTm9RSHFrd1BoaHl5MGp1VnVVTGUzSmxQV0lqdm9nZEpMcFk3QjlNWU9zRWdXNmtGTV9paFlZWWlSMnJZY2FMY0hpLUlkaGFiZmRjWlhNQ0xvSTRDZ1VvbTYyNWhKY0N3bEhodjdIODY3YlI3b1ZkOWU3NmRBV1lpcEtqRlVCaVpZbTl5U1A?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Tue, 29 Sep 2026 02:56:48 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
     },
     {
       "external_id": "8933cc2d5636ce376c948998",
@@ -688,22 +742,6 @@
         "12 mil"
       ],
       "content_type": "news"
-    },
-    {
-      "external_id": "c12f5f4529140d0a4cdc2134",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: Fon krizinde kelleler uçacak - Bundle",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDA0UDZkaVNmeGpoS1dCdVRpc3pQNkhNR2ZBc19JSXF6M2V2bU0zVFVqZFliellRY2ozeU9yNHZLMlZqNVlOWmRXZDVzU1JDNldWZXhPOFp2NmNtc052aktuajFhUmxBTlBnOGNfaFJzaUJqb19hcDN3UEhDUVg2dklzc1BwNGxSVDR4YVBZVDFkYTFYekZHakJ1Ylg5dnJaRzJtS1hOUDQxajRrRktCM08tOHhoUQ?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Mon, 28 Sep 2026 13:08:31 GMT",
-      "base_score": 75,
-      "candidate_score": 81,
-      "priority": "High",
-      "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
     },
     {
       "external_id": "d2a5a068e2e1538909f1689e",
