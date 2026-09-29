@@ -117,7 +117,11 @@ def classify_mention(text: str, cfg: dict):
     authored = cfg.get("authored_markers", [])
     identity = cfg.get("identity_context", [])
     alias_hits = [a for a in aliases if keyword_matches(text, a)]
+    surname_hits = [a for a in cfg.get("surname_aliases", []) if keyword_matches(text, a)]
+    identity_hit = any(keyword_matches(text, marker) for marker in identity)
     if not alias_hits:
+        if surname_hits and identity_hit:
+            return "personal_reference", surname_hits
         if keyword_matches(text, "Geopolitico") or keyword_matches(text, "Geopolitico.gr"):
             return "geopolitico_reference", []
         return None, []
