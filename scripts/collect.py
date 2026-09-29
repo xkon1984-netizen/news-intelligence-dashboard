@@ -181,9 +181,13 @@ def collect_mentions(cfg: dict):
                     continue
                 if published_dt and published_dt < now - timedelta(days=31):
                     continue
-                page_text, resolved_url, access = fetch_article_text(link)
-                evidence_text = f"{title} {summary} {page_text}"
+                evidence_text = f"{title} {summary}"
                 mention_type, hits = classify_mention(evidence_text, cfg)
+                page_text, resolved_url, access = ("", link, "summary_only")
+                if mention_type in (None, "name_candidate", "geopolitico_reference"):
+                    page_text, resolved_url, access = fetch_article_text(link)
+                    evidence_text = f"{title} {summary} {page_text}"
+                    mention_type, hits = classify_mention(evidence_text, cfg)
                 if not mention_type:
                     continue
                 confirmed = mention_type in ("personal_reference", "authored_byline")
@@ -273,12 +277,18 @@ def collect_source(source: dict, keywords: dict, modes: dict):
                 continue
 
             page_text, resolved_url, access = ("", url, "summary_only")
-            # Full-page reading is opt-in and best-effort; no paywall/access bypass.
-            if source.get("fetch_full_text"):
-                page_text, resolved_url, access = fetch_article_text(url)
-            text = f"{title} {summary} {page_text}"
-
+            text = f"{title} {summary}"
             required_any = source.get("required_any", [])
+            initial_required = (not required_any) or any(keyword_matches(text, kw) for kw in required_any)
+            initial_best = 0
+            for mode in source.get("modes", []):
+                raw_score, _ = score_text(text, keywords.get(mode, {}))
+                initial_best = max(initial_best, min(100, round(raw_score * float(source.get("source_weight", 1)))))
+            threshold_floor = min([int(modes.get(m, {}).get("threshold", 0)) for m in source.get("modes", [])] or [0])
+            if source.get("fetch_full_text") and (not initial_required or initial_best < threshold_floor):
+                page_text, resolved_url, access = fetch_article_text(url)
+                text = f"{title} {summary} {page_text}"
+
             if required_any and not any(keyword_matches(text, kw) for kw in required_any):
                 continue
             scores, matches = {}, {}
