@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:53:33.767656+00:00",
+  "generated_at": "2026-09-29T02:21:49.639535+00:00",
   "counts": {
     "sportdog": 8,
     "geopolitico": 8,
@@ -7,26 +7,6 @@
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "b4df7051f2d46323160d7600",
-        "mode": "sportdog",
-        "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-        "base_score": 56,
-        "candidate_score": 80,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
       {
         "external_id": "feaef66c4941c801ba259dcd",
         "mode": "sportdog",
@@ -43,6 +23,26 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "b4df7051f2d46323160d7600",
+        "mode": "sportdog",
+        "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 28 Sep 2026 08:01:47 GMT",
+        "base_score": 56,
+        "candidate_score": 77,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
         "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -290,12 +290,12 @@
         "content_type": "news"
       },
       {
-        "external_id": "c12f5f4529140d0a4cdc2134",
+        "external_id": "98b2ad4e8c6c96a929ec253a",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: Fon krizinde kelleler uçacak - Bundle",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDA0UDZkaVNmeGpoS1dCdVRpc3pQNkhNR2ZBc19JSXF6M2V2bU0zVFVqZFliellRY2ozeU9yNHZLMlZqNVlOWmRXZDVzU1JDNldWZXhPOFp2NmNtc052aktuajFhUmxBTlBnOGNfaFJzaUJqb19hcDN3UEhDUVg2dklzc1BwNGxSVDR4YVBZVDFkYTFYekZHakJ1Ylg5dnJaRzJtS1hOUDQxajRrRktCM08tOHhoUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFZnQXQtWjg3UTFDQTN4ZV8xVlNnVlZmZG82bEVyUUN2UGxIVERyVzlGZ0d3OGNXNVEtX0tvVEZJUVBDNW9FS1dMV3A4SGhfcnR3UU5la1JvZVFwN29HVkVLV0tpU2p3eThUVjR2SDZJR1FrYmpxS2dCcTEycEFrZExmTG5BREZWX08tdl9KWDZOYjhiY1l3TlRfallTMVByWVVqVzJlSGtvU3N4Qmdrak9LaWhSSjd5RFhmNmxSZw?oc=5",
         "source": "Analysts Watch · Turkey",
-        "published": "Mon, 28 Sep 2026 13:08:31 GMT",
+        "published": "Mon, 28 Sep 2026 14:23:01 GMT",
         "base_score": 75,
         "candidate_score": 81,
         "priority": "High",
@@ -357,23 +357,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "306592697185ae1496cc7827",
-        "mode": "pontos_voice",
-        "title": "Eski Trabzonsporlu yıldızdan BTS tepkisi! “Öncelik futbola verilmeli” - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1JPRjlsV3UyTENsdWxyTUtUemtoTTZQVmFzbjBDZjJOSEtIb1VOa0FLMmpGOE5pYWdsSHNKSGJ0UHlYSWpOc3VKeWpQajNPc0o2MXA0VktkeGFKVkJTWlZWd3FNSk1nVG91cmdSYmx4eE9aNnZTbGRLRm1OWDRUYXp0YXBQdW5ORFJ2bFVfWngtcndoLVpDTUtES3ZHY001MTUyeEdpU0NKTTZhVnc?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Mon, 28 Sep 2026 07:56:18 GMT",
-        "base_score": 42,
-        "candidate_score": 48,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "tepki",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "0e4a513a321e6bc749614e37",
         "mode": "pontos_voice",
         "title": "Trabzon Valisi Tahir Şahin’den minik Ela’ya özel kabul",
@@ -406,30 +389,27 @@
           "Trabzon"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "c441c287af0cab9d3a51544b",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzhCY3BGTHo1WjN6LUxadXZyaWlEV2MwQklydm9scU90U1BxRmdwMUNkbkFoTUpMbEp0dER5eE5qZlpNZTlDbkQ2U00xZGpkRldtWkhnY1VsdVdmdHljdEJneW1mdTU4ejNFaWFVUE5fRVdkNUhyNjVHcHpKeko3azNHNnJsT3ZqOFVKYl9FdENic1ZOTndfekFfX2ptSllXX3c?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Mon, 28 Sep 2026 15:49:27 GMT",
+        "base_score": 40,
+        "candidate_score": 46,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Of",
+          "Trabzon"
+        ],
+        "content_type": "news"
       }
     ]
   },
   "items": [
-    {
-      "external_id": "b4df7051f2d46323160d7600",
-      "mode": "sportdog",
-      "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-      "base_score": 56,
-      "candidate_score": 80,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
     {
       "external_id": "feaef66c4941c801ba259dcd",
       "mode": "sportdog",
@@ -446,6 +426,26 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "b4df7051f2d46323160d7600",
+      "mode": "sportdog",
+      "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 28 Sep 2026 08:01:47 GMT",
+      "base_score": 56,
+      "candidate_score": 77,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
       "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -691,12 +691,12 @@
       "content_type": "news"
     },
     {
-      "external_id": "c12f5f4529140d0a4cdc2134",
+      "external_id": "98b2ad4e8c6c96a929ec253a",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: Fon krizinde kelleler uçacak - Bundle",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDA0UDZkaVNmeGpoS1dCdVRpc3pQNkhNR2ZBc19JSXF6M2V2bU0zVFVqZFliellRY2ozeU9yNHZLMlZqNVlOWmRXZDVzU1JDNldWZXhPOFp2NmNtc052aktuajFhUmxBTlBnOGNfaFJzaUJqb19hcDN3UEhDUVg2dklzc1BwNGxSVDR4YVBZVDFkYTFYekZHakJ1Ylg5dnJaRzJtS1hOUDQxajRrRktCM08tOHhoUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFZnQXQtWjg3UTFDQTN4ZV8xVlNnVlZmZG82bEVyUUN2UGxIVERyVzlGZ0d3OGNXNVEtX0tvVEZJUVBDNW9FS1dMV3A4SGhfcnR3UU5la1JvZVFwN29HVkVLV0tpU2p3eThUVjR2SDZJR1FrYmpxS2dCcTEycEFrZExmTG5BREZWX08tdl9KWDZOYjhiY1l3TlRfallTMVByWVVqVzJlSGtvU3N4Qmdrak9LaWhSSjd5RFhmNmxSZw?oc=5",
       "source": "Analysts Watch · Turkey",
-      "published": "Mon, 28 Sep 2026 13:08:31 GMT",
+      "published": "Mon, 28 Sep 2026 14:23:01 GMT",
       "base_score": 75,
       "candidate_score": 81,
       "priority": "High",
@@ -756,23 +756,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "306592697185ae1496cc7827",
-      "mode": "pontos_voice",
-      "title": "Eski Trabzonsporlu yıldızdan BTS tepkisi! “Öncelik futbola verilmeli” - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1JPRjlsV3UyTENsdWxyTUtUemtoTTZQVmFzbjBDZjJOSEtIb1VOa0FLMmpGOE5pYWdsSHNKSGJ0UHlYSWpOc3VKeWpQajNPc0o2MXA0VktkeGFKVkJTWlZWd3FNSk1nVG91cmdSYmx4eE9aNnZTbGRLRm1OWDRUYXp0YXBQdW5ORFJ2bFVfWngtcndoLVpDTUtES3ZHY001MTUyeEdpU0NKTTZhVnc?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Mon, 28 Sep 2026 07:56:18 GMT",
-      "base_score": 42,
-      "candidate_score": 48,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "tepki",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "0e4a513a321e6bc749614e37",
       "mode": "pontos_voice",
       "title": "Trabzon Valisi Tahir Şahin’den minik Ela’ya özel kabul",
@@ -796,6 +779,23 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVhveUtQQm9ITkVpVlBUVzVBU0trUkFZMU9uOFpZeFB1R01VRUdHUFJCMzZVWF9KUktfZzNLdnNJS001dzRYRDdGYW4tVjREaXpkYnVoTUxUX3hmd3FkUTR4MTdsY1BXelZzQ2RNak9ZZGFVYlhSVXVYM3MtYWt2bGdkM3JOV3lpdldiQnFMbnRYVHlKUDZmYjBJVnNNeHdxVTRRSGhBaUFfY1otUmZ0V2x0ckpmRzNpNTZOQg?oc=5",
       "source": "Haber61 Trabzon",
       "published": "Mon, 28 Sep 2026 17:48:44 GMT",
+      "base_score": 40,
+      "candidate_score": 46,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Of",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "c441c287af0cab9d3a51544b",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzhCY3BGTHo1WjN6LUxadXZyaWlEV2MwQklydm9scU90U1BxRmdwMUNkbkFoTUpMbEp0dER5eE5qZlpNZTlDbkQ2U00xZGpkRldtWkhnY1VsdVdmdHljdEJneW1mdTU4ejNFaWFVUE5fRVdkNUhyNjVHcHpKeko3azNHNnJsT3ZqOFVKYl9FdENic1ZOTndfekFfX2ptSllXX3c?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Mon, 28 Sep 2026 15:49:27 GMT",
       "base_score": 40,
       "candidate_score": 46,
       "priority": "Normal",
