@@ -266,6 +266,7 @@ def collect_source(source: dict, keywords: dict, modes: dict):
         feed = feedparser.parse(source["url"])
         if getattr(feed, "bozo", False) and not feed.entries:
             raise RuntimeError(str(getattr(feed, "bozo_exception", "feed parse error")))
+        full_text_attempts = 0
         for entry in feed.entries[:75]:
             title = (entry.get("title") or "").strip()
             url = (entry.get("link") or "").strip()
@@ -289,7 +290,8 @@ def collect_source(source: dict, keywords: dict, modes: dict):
                 raw_score, _ = score_text(text, keywords.get(mode, {}))
                 initial_best = max(initial_best, min(100, round(raw_score * float(source.get("source_weight", 1)))))
             threshold_floor = min([int(modes.get(m, {}).get("threshold", 0)) for m in source.get("modes", [])] or [0])
-            if source.get("fetch_full_text") and (not initial_required or initial_best < threshold_floor):
+            if source.get("fetch_full_text") and full_text_attempts < 3 and (not initial_required or initial_best < threshold_floor):
+                full_text_attempts += 1
                 page_text, resolved_url, access = fetch_article_text(url)
                 text = f"{title} {summary} {page_text}"
 
