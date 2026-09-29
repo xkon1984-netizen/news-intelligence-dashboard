@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:51:01.739919+00:00",
+  "generated_at": "2026-09-29T20:04:10.329533+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -7,26 +7,6 @@
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "b4df7051f2d46323160d7600",
-        "mode": "sportdog",
-        "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-        "base_score": 56,
-        "candidate_score": 74,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
       {
         "external_id": "217df33fb09143fdc3dcc690",
         "mode": "sportdog",
@@ -122,27 +102,28 @@
         "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
+      },
+      {
+        "external_id": "17ac5b07143340593e71e938",
+        "mode": "sportdog",
+        "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHRKcDh1WjV5SHpXZTh6MlBMXzh4WXd1Sm00V05rWTFLRElGc3RIaGU3RHM1cGoxMUxBNlZpZDE5Z0VUaXJibzBsX3BDd3NMZUE5MjRTWWNROWVJcHA1aHBMMVF0dmk3S0JqaEhjejVReXRtM2J2R2JUeXZrd3ZOSktLbktkLUtfZkNRdFRxeGxJbXNscTd0QXFQcEdhYi1rLWRUY1ZIREJHdlZZNElUck0wSnhHOGRINFUtTDhlVElzLW9iYXNQYw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 28 Sep 2026 08:37:30 GMT",
+        "base_score": 31,
+        "candidate_score": 39,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
-      {
-        "external_id": "56717ad0b4db31b6a10f2500",
-        "mode": "geopolitico",
-        "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - The Statesman",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkQ3N3B2V0FZSUl1RER2c1pmUkp1UEp1R1hSZ1dYaHpiYVZ1Nml1SnpVR2JVS0lIRmcydGxWX1RpMnEyUVdYSUFaQ3h6QzVORE9YMHJlZWhlbU55eXNLOUpWdmllTS1xU2t1Yy0wdUZXS3JxUDBaR1ZVd3VRdVhkeC1oMENSZFVaUENfclFTdDN6WXpPTFJUWFlrSlNXY0hoZDRpWG0wcUNpU00yd2JMcWJ6MHR0UEh5bWNOVjNuUDIwVHBFVDZkV0dNc1RDU0xNMGFv0gHYAUFVX3lxTE9qSGszRmxCZ0QzbFNrUlF0RF83SE1Ub0dmX3RPeTh1dUtFZ1hNOVRKSEJJYkFWekcwbkJJeHN6S1RkNnhMZVBLcFMtZEJzZXZOVGQ5aF9OVlVnNlNTdVJCdndhLVZId2hnSG5ZZ1JEblhpT3ZiYjZ5Z1NCZEZ1Z0tDVkcyVGhxTnI0cnRMYm10Z1JhRGpBc2FqMWFPWlc4Y3pkVFlSQTlic3dpX0NKaDBDajNqbmp0bjByd0poMDIxMU02bTJQMzlNX2RYR2VyMXpELXJWUnE4Zg?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Tue, 29 Sep 2026 09:43:00 GMT",
-        "base_score": 96,
-        "candidate_score": 102,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "ISI",
-          "radicalisation"
-        ],
-        "content_type": "news"
-      },
       {
         "external_id": "d0a3b927620c5c022d428f8c",
         "mode": "geopolitico",
@@ -196,9 +177,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "40ea17d7d0c05400bcf0c2de",
+        "external_id": "2ce182c2fa69dbb43ea1f42c",
         "mode": "geopolitico",
-        "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - deccanherald.com",
+        "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - Deccan Herald",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWjN1bUtKTU5MU3NuVm1ZNkZMN3d1WmkyNHRGVS0tTDRYcDJEaEpjaUVrdEUwbVZ1T2VOQ1FyV1paRVV6UHEzVDV2a1hXbGVxTGx4Y0RJN3kxZ25RUDlQUlVMUFFwTHZIU1Y5c2xBTmRqaEd4VHAzOVRSSURNSlBNUEJhQkRHb2pnWms3Q3lHX1N4TER1MUF1a0ZCWU90czQ2OTM4WFNpUG12UFYzWkV3bDJicFNlbHZsRm9YckxETTFZdVVnOVR3ZHFUZ0d4a3Brb1JvdjhmbmZsMURJZ3RLT0N1bnR2UQ?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Tue, 29 Sep 2026 17:42:16 GMT",
@@ -213,20 +194,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "e5dfdcdea38c306223b5d848",
+        "external_id": "9dc9320f30352a4979dc01ad",
         "mode": "geopolitico",
-        "title": "F-35 vs. Eurofighter Typhoon: The Next-Generation Air Clash over the Aegean Sea - The National Interest",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeS0zcXVCSGVtcURfaUt5d0JOSEdCV3p0MFRqUUd5MTFONzIycm9yMjNwVXBWQ2gtYXFQajJLMUNZQmsxdUpYUVhQakhPSHgyMTRMeEtiTHBVaW43dkduSXdyWXhDbmxNV01oX2lac29ITHpRTlVrdGV4bEJocngyTkxqSVdwOHZWYlA0ZDlvRE5YS1E3d2dWZm05YlUxTi12UlcybXlzMGM0Tlo0Y012bGFydEhFbGFUTHc?oc=5",
-        "source": "F35 Drone Navy Watch",
-        "published": "Mon, 28 Sep 2026 14:02:47 GMT",
-        "base_score": 85,
-        "candidate_score": 88,
+        "title": "Pakistan Navy’s Hangor-class submarine completes maiden live-fire missile test; expert highlights Chinese-made boat’s feature of easy operation, sound training - Global Times",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPbVVReTl4ak96R0hNV0ZhbjZGdlM0SXVRZTMxMUtQeEl1VW9TbGo3UWthTFhmUHZ1Z05KTlpEeEQ5S0pVMzJfTUFvWnpmQ05YWTM3d3JxbDhGOWNfTmlZMktB?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Mon, 28 Sep 2026 15:41:00 GMT",
+        "base_score": 86,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
-          "Aegean",
-          "Ege",
-          "F-35",
-          "F-35"
+          "Pakistan",
+          "Chinese",
+          "Pakistan Navy",
+          "training"
         ],
         "content_type": "news"
       },
@@ -263,6 +244,22 @@
           "savunma"
         ],
         "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "4d94e8194fe4729c4a8998ec",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Hakan Çelik — Yeni Parti Kongresine yoğun katılım: Hakan Çelik yeniden başkan - Yayla Haber",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2hMZUJvaWxYaUZXbmRTdS05VVhrcWdhNmZGMmJDZjV5U3Znb3Y3d0JIZnQzT0JiUE5sazRqQVdJRWdhRm9MR0M3aTNha1BqM21PZDBWcGJVdExTWXhvNExyRnVjVG5IZzVneXl4dVhNUU45VDRHRk9md19CVVJJSmJmLUxlYVF0ODRJTWY5YlNYMmZ5QVdr0gGcAUFVX3lxTE0tZi1MNXpsQ1lnVmNrUUFfMmd4WGh3MENZb2Zfcm5EMlNGSlpNMkFNS2lRdk95aDBaaUxVQjRxM2F5ZWtqT0xDV2U1Nzc3UzBONWEtN2NiQUEtX0t5OHNZTmJNMGhuRHQwR0hkalhMd2RQLWJvLURPcXdaTk5QUmN1OGNTN3NMNkpXZnVISmt0UmcxbWJ0U0xKbjRiRg?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Tue, 29 Sep 2026 13:50:00 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Hakan Çelik",
+          "Hakan Çelik"
+        ],
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -274,7 +271,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Tue, 29 Sep 2026 12:02:12 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -375,26 +372,6 @@
   },
   "items": [
     {
-      "external_id": "b4df7051f2d46323160d7600",
-      "mode": "sportdog",
-      "title": "Bryant Dunston returns to Olympiacos on one-year deal - basketballsphere.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekFkOTgyZGlHbWdURk1VaFZoRm5EZFdCTlNDU2VKZ2RRWEhZd1N4Q295cEcyZk5zdHZ1OUVTSk05NHF0aU96a3dZczVjemFDUUhFYlM2N1VhcG12dkhCMnVxZmJlVXJzaHJHVmJocVRmb1Z4UWtUNURvajJ2Unl0dmdaRQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 28 Sep 2026 08:01:47 GMT",
-      "base_score": 56,
-      "candidate_score": 74,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "217df33fb09143fdc3dcc690",
       "mode": "sportdog",
       "title": "Olympiacos Eyes Another Chivas Star—Could Diego Campillo Be the Next Mexican to Join 'La Hormiga' in Greece? - Soy Futbol",
@@ -491,22 +468,23 @@
       "needs_second_source": true
     },
     {
-      "external_id": "56717ad0b4db31b6a10f2500",
-      "mode": "geopolitico",
-      "title": "Pakistan’s ISI shifts focus from major attacks to radicalisation, proxy warfare in India - The Statesman",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkQ3N3B2V0FZSUl1RER2c1pmUkp1UEp1R1hSZ1dYaHpiYVZ1Nml1SnpVR2JVS0lIRmcydGxWX1RpMnEyUVdYSUFaQ3h6QzVORE9YMHJlZWhlbU55eXNLOUpWdmllTS1xU2t1Yy0wdUZXS3JxUDBaR1ZVd3VRdVhkeC1oMENSZFVaUENfclFTdDN6WXpPTFJUWFlrSlNXY0hoZDRpWG0wcUNpU00yd2JMcWJ6MHR0UEh5bWNOVjNuUDIwVHBFVDZkV0dNc1RDU0xNMGFv0gHYAUFVX3lxTE9qSGszRmxCZ0QzbFNrUlF0RF83SE1Ub0dmX3RPeTh1dUtFZ1hNOVRKSEJJYkFWekcwbkJJeHN6S1RkNnhMZVBLcFMtZEJzZXZOVGQ5aF9OVlVnNlNTdVJCdndhLVZId2hnSG5ZZ1JEblhpT3ZiYjZ5Z1NCZEZ1Z0tDVkcyVGhxTnI0cnRMYm10Z1JhRGpBc2FqMWFPWlc4Y3pkVFlSQTlic3dpX0NKaDBDajNqbmp0bjByd0poMDIxMU02bTJQMzlNX2RYR2VyMXpELXJWUnE4Zg?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Tue, 29 Sep 2026 09:43:00 GMT",
-      "base_score": 96,
-      "candidate_score": 102,
-      "priority": "URGENT",
+      "external_id": "17ac5b07143340593e71e938",
+      "mode": "sportdog",
+      "title": "Olympiacos Set Sights on Chivas Star Diego Campillo - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHRKcDh1WjV5SHpXZTh6MlBMXzh4WXd1Sm00V05rWTFLRElGc3RIaGU3RHM1cGoxMUxBNlZpZDE5Z0VUaXJibzBsX3BDd3NMZUE5MjRTWWNROWVJcHA1aHBMMVF0dmk3S0JqaEhjejVReXRtM2J2R2JUeXZrd3ZOSktLbktkLUtfZkNRdFRxeGxJbXNscTd0QXFQcEdhYi1rLWRUY1ZIREJHdlZZNElUck0wSnhHOGRINFUtTDhlVElzLW9iYXNQYw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 28 Sep 2026 08:37:30 GMT",
+      "base_score": 31,
+      "candidate_score": 39,
+      "priority": "Normal",
       "matched_keywords": [
-        "India",
-        "Pakistan",
-        "ISI",
-        "radicalisation"
+        "Olympiacos"
       ],
-      "content_type": "news"
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
     },
     {
       "external_id": "d0a3b927620c5c022d428f8c",
@@ -561,9 +539,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "40ea17d7d0c05400bcf0c2de",
+      "external_id": "2ce182c2fa69dbb43ea1f42c",
       "mode": "geopolitico",
-      "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - deccanherald.com",
+      "title": "After Trump lauds Pakistan PM at UN, Jaishankar warns US overlooking India’s terror concerns could strain ties - Deccan Herald",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWjN1bUtKTU5MU3NuVm1ZNkZMN3d1WmkyNHRGVS0tTDRYcDJEaEpjaUVrdEUwbVZ1T2VOQ1FyV1paRVV6UHEzVDV2a1hXbGVxTGx4Y0RJN3kxZ25RUDlQUlVMUFFwTHZIU1Y5c2xBTmRqaEd4VHAzOVRSSURNSlBNUEJhQkRHb2pnWms3Q3lHX1N4TER1MUF1a0ZCWU90czQ2OTM4WFNpUG12UFYzWkV3bDJicFNlbHZsRm9YckxETTFZdVVnOVR3ZHFUZ0d4a3Brb1JvdjhmbmZsMURJZ3RLT0N1bnR2UQ?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Tue, 29 Sep 2026 17:42:16 GMT",
@@ -578,20 +556,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "e5dfdcdea38c306223b5d848",
+      "external_id": "9dc9320f30352a4979dc01ad",
       "mode": "geopolitico",
-      "title": "F-35 vs. Eurofighter Typhoon: The Next-Generation Air Clash over the Aegean Sea - The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeS0zcXVCSGVtcURfaUt5d0JOSEdCV3p0MFRqUUd5MTFONzIycm9yMjNwVXBWQ2gtYXFQajJLMUNZQmsxdUpYUVhQakhPSHgyMTRMeEtiTHBVaW43dkduSXdyWXhDbmxNV01oX2lac29ITHpRTlVrdGV4bEJocngyTkxqSVdwOHZWYlA0ZDlvRE5YS1E3d2dWZm05YlUxTi12UlcybXlzMGM0Tlo0Y012bGFydEhFbGFUTHc?oc=5",
-      "source": "F35 Drone Navy Watch",
-      "published": "Mon, 28 Sep 2026 14:02:47 GMT",
-      "base_score": 85,
-      "candidate_score": 88,
+      "title": "Pakistan Navy’s Hangor-class submarine completes maiden live-fire missile test; expert highlights Chinese-made boat’s feature of easy operation, sound training - Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPbVVReTl4ak96R0hNV0ZhbjZGdlM0SXVRZTMxMUtQeEl1VW9TbGo3UWthTFhmUHZ1Z05KTlpEeEQ5S0pVMzJfTUFvWnpmQ05YWTM3d3JxbDhGOWNfTmlZMktB?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Mon, 28 Sep 2026 15:41:00 GMT",
+      "base_score": 86,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
-        "Aegean",
-        "Ege",
-        "F-35",
-        "F-35"
+        "Pakistan",
+        "Chinese",
+        "Pakistan Navy",
+        "training"
       ],
       "content_type": "news"
     },
@@ -630,6 +608,22 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "4d94e8194fe4729c4a8998ec",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Hakan Çelik — Yeni Parti Kongresine yoğun katılım: Hakan Çelik yeniden başkan - Yayla Haber",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2hMZUJvaWxYaUZXbmRTdS05VVhrcWdhNmZGMmJDZjV5U3Znb3Y3d0JIZnQzT0JiUE5sazRqQVdJRWdhRm9MR0M3aTNha1BqM21PZDBWcGJVdExTWXhvNExyRnVjVG5IZzVneXl4dVhNUU45VDRHRk9md19CVVJJSmJmLUxlYVF0ODRJTWY5YlNYMmZ5QVdr0gGcAUFVX3lxTE0tZi1MNXpsQ1lnVmNrUUFfMmd4WGh3MENZb2Zfcm5EMlNGSlpNMkFNS2lRdk95aDBaaUxVQjRxM2F5ZWtqT0xDV2U1Nzc3UzBONWEtN2NiQUEtX0t5OHNZTmJNMGhuRHQwR0hkalhMd2RQLWJvLURPcXdaTk5QUmN1OGNTN3NMNkpXZnVISmt0UmcxbWJ0U0xKbjRiRg?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Tue, 29 Sep 2026 13:50:00 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Hakan Çelik",
+        "Hakan Çelik"
+      ],
+      "content_type": "analyst"
+    },
+    {
       "external_id": "f1c657e3d0c4327c3d1ad65c",
       "mode": "pontos_voice",
       "title": "Ο Κωστής Βασιλειάδης ανέβασε την ποντιακή λύρα στην κορυφή του Ολύμπου - pontosnews.gr",
@@ -637,7 +631,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Tue, 29 Sep 2026 12:02:12 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
