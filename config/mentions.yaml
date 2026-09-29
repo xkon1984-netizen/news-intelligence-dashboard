@@ -1,0 +1,54 @@
+mentions:
+  aliases:
+    - "Χρήστος Κωνσταντινίδης"
+    - "Χρηστος Κωνσταντινιδης"
+    - "Christos Konstantinidis"
+    - "Hristos Konstantinidis"
+    - "Khristos Konstantinidis"
+    - "Christos Constantinidis"
+    - "Hristo Konstantinidis"
+  identity_context:
+    - "Geopolitico"
+    - "Geopolitico.gr"
+    - "PontosVoice"
+    - "Sportdog"
+    - "Middle East Forum"
+    - "gazeteci"
+    - "journalist"
+    - "δημοσιογράφος"
+    - "yayın yönetmeni"
+    - "genel yayın yönetmeni"
+    - "podcast"
+  authored_markers:
+    - "By Christos Konstantinidis"
+    - "Christos Konstantinidis |"
+    - "Του Χρήστου Κωνσταντινίδη"
+    - "Γράφει ο Χρήστος Κωνσταντινίδης"
+  searches:
+    - name: "Christos Konstantinidis Global 30d"
+      query: "\"Christos Konstantinidis\" when:30d"
+      locale: en-US
+    - name: "Hristos Konstantinidis Turkish 30d"
+      query: "\"Hristos Konstantinidis\" when:30d"
+      locale: tr-TR
+    - name: "Hristo Konstantinidis Turkish 30d"
+      query: "\"Hristo Konstantinidis\" when:30d"
+      locale: tr-TR
+    - name: "Khristos Konstantinidis Global 30d"
+      query: "\"Khristos Konstantinidis\" when:30d"
+      locale: en-US
+    - name: "Christos Constantinidis Global 30d"
+      query: "\"Christos Constantinidis\" when:30d"
+      locale: en-US
+    - name: "Greek name 30d"
+      query: "\"Χρήστος Κωνσταντινίδης\" when:30d"
+      locale: el-GR
+    - name: "Greek unaccented name 30d"
+      query: "\"Χρηστος Κωνσταντινιδης\" when:30d"
+      locale: el-GR
+    - name: "Konstantinidis Geopolitico Turkish 30d"
+      query: "Konstantinidis Geopolitico when:30d"
+      locale: tr-TR
+    - name: "Geopolitico Turkish media 30d"
+      query: "Geopolitico (Yunanistan OR Ege OR Türkiye OR savaş OR savunma) when:30d"
+      locale: tr-TR
