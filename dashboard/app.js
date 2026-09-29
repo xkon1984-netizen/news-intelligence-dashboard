@@ -1,4 +1,4 @@
-const state={items:[],generatedAt:null,transferSources:[]};
+const state={items:[],generatedAt:null,transferSources:[],sourceHealth:null};
 const labels={geopolitico:'Geopolitico',pontos_voice:'Pontos Voice',sportdog:'Sportdog'};
 
 async function loadNews(){
@@ -8,6 +8,19 @@ async function loadNews(){
   state.items=data.items||[];
   state.generatedAt=data.generated_at||null;
   render();
+}
+
+async function loadSourceHealth(){
+  try{
+    const res=await fetch('data/source_health.json',{cache:'no-store'});
+    if(!res.ok) return;
+    state.sourceHealth=await res.json();
+    const errors=state.sourceHealth.errors?.length||0;
+    const total=state.sourceHealth.sources?.length||0;
+    document.querySelector('#health').textContent=`Source health: ${total-errors}/${total} OK · ${errors} errors`;
+  }catch(_err){
+    document.querySelector('#health').textContent='Source health unavailable';
+  }
 }
 
 async function loadTransferSources(){
@@ -71,11 +84,13 @@ function render(){
     const score=topScore(item,mode);
     if(score<minScore) return false;
     if(mode!=='all' && !item.scores?.[mode]) return false;
+    if(contentType==='turkey_greece' && item.content_type!=='turkey_greece') return false;
+    if(contentType==='mention' && item.content_type!=='mention') return false;
     if(contentType==='analyst' && item.content_type!=='analyst') return false;
     if(contentType==='frontpage' && item.content_type!=='frontpage') return false;
-    if(contentType==='news' && item.content_type) return false;
+    if(contentType==='news' && ['analyst','frontpage','mention'].includes(item.content_type)) return false;
     const keywords=Object.values(item.matched_keywords||{}).flat().join(' ');
-    const haystack=`${item.title||''} ${item.source||''} ${item.analyst||''} ${item.analyst_country||''} ${keywords}`.toLowerCase();
+    const haystack=`${item.title||''} ${item.title_el||''} ${item.source||''} ${item.analyst||''} ${item.analyst_country||''} ${item.mention_excerpt||''} ${keywords}`.toLowerCase();
     return !search || haystack.includes(search);
   });
 
@@ -94,6 +109,16 @@ function render(){
     const score=topScore(item,mode);
     const modes=Object.entries(item.scores||{}).map(([key,value])=>`<span class="badge">${labels[key]||key}: ${value}</span>`).join('');
     const matched=[...new Set(Object.values(item.matched_keywords||{}).flat())].slice(0,8).map(k=>`<span class="badge">${escapeHtml(k)}</span>`).join('');
+    const greekTitle=item.title_el&&item.title_el!==item.title?`<p><strong>Ελληνική απόδοση:</strong> ${escapeHtml(item.title_el)}</p>`:'';
+    const summary=item.summary_el||item.summary||'';
+    const summaryBlock=summary?`<p><strong>Περίληψη:</strong> ${escapeHtml(summary.slice(0,600))}</p>`:'<p><strong>Περίληψη:</strong> Δεν υπάρχει αυτόματη ελληνική περίληψη χωρίς ενεργή AI/translation υπηρεσία.</p>';
+    const firstSeen=item.first_detected_at?`<div class="meta">Πρώτος εντοπισμός: ${fmtDate(item.first_detected_at)}</div>`:'';
+    const significance=item.journalistic_significance?`<p><strong>Γιατί έχει σημασία:</strong> ${escapeHtml(item.journalistic_significance)}</p>`:'';
+    const excerpt=item.mention_excerpt?`<p><strong>Τεκμήριο αναφοράς:</strong> “${escapeHtml(item.mention_excerpt)}”</p>`:'';
+    const access=item.access_note?`<div class="meta">${escapeHtml(item.access_note)}</div>`:'';
+    const retro=item.retrospective?'<span class="badge">ΑΝΑΔΡΟΜΙΚΟ</span>':'';
+    const mention=item.mention_type?`<span class="badge">${escapeHtml(item.mention_type)}</span>`:'';
+    const related=(item.related_sources||[]).length>1?`<div class="meta">Αναπαραγωγές: ${item.related_sources.map(x=>escapeHtml(x.source||'')).join(' · ')}</div>`:'';
     return `<article class="card">
       <div class="card-head">
         <div>
@@ -102,7 +127,9 @@ function render(){
         </div>
         <div class="score ${scoreClass(score)}">${score}</div>
       </div>
-      <div class="badges">${modes}${matched}</div>
+      ${greekTitle}${summaryBlock}${significance}${excerpt}
+      <div class="badges">${modes}${matched}${retro}${mention}</div>
+      ${firstSeen}${access}${related}
       <a class="open" href="${item.url}" target="_blank" rel="noopener noreferrer">Open original source</a>
     </article>`;
   }).join('');
@@ -118,6 +145,6 @@ document.querySelector('#contentType').addEventListener('change',render);
 document.querySelector('#search').addEventListener('input',render);
 document.querySelector('#transferSearch').addEventListener('input',renderTransferSources);
 
-Promise.all([loadNews(),loadTransferSources()]).catch(err=>{
+Promise.all([loadNews(),loadTransferSources(),loadSourceHealth()]).catch(err=>{
   document.querySelector('#feed').innerHTML=`<div class="empty">${escapeHtml(err.message)}</div>`;
 });
