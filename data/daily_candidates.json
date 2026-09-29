@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-09-29T12:05:40.624938+00:00",
+  "generated_at": "2026-09-29T12:28:52.346202+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "ace6ec21f9d57064fdfbf8a3",
+        "mode": "sportdog",
+        "title": "Coronation Street Spoilers: Johnny Connor In BIG Trouble As Hannah Makes Shocking Demand Paok Vs Aek Athens (HQBHPQzmLh) - Unisba Media",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FODA5MEVkRjM5eTFPWTQ2WXUtVTFxVHF4bTBMY1BkYm1lQTU2QnQ4TkxfYlFzUnZtektieXRVc0ZHT2h2amU0bTBobjl2WU5iUXlnLWFfS0JqUVpxT0xmLW5yWEVBMXc3NVp0TQ?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Mon, 28 Sep 2026 16:18:07 GMT",
+        "base_score": 62,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
       {
         "external_id": "b4df7051f2d46323160d7600",
         "mode": "sportdog",
@@ -271,9 +291,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "150de21131b6ec90789cd594",
+        "external_id": "cb3bce58bb7d3756b9a48069",
         "mode": "geopolitico",
-        "title": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management - scmp.com",
+        "title": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management - South China Morning Post",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVNfSzV5azFFMnhubTBnaDY2MjZWVGRaQUlHNDlRU3dVM2R4UHFsN0JNVElxV09WVUJ0LWs2aWcxNUI3aGh4QUVwWlZqMUowNXo3eEZqdlJ6YldhVjJnUW5PV2tIYW9qTnpkN1lKd3FkMzUyN1U3d0sxUXJ6SXlDTVlnM2JMZVRyM0tTVmtTTW12V1Z6eF9WZ1Zmbjk4VmFRaVlMeUJFdE45YmYyUVB2ZUl1eGVzRjNLVUhlcHlEQ3RZYlVZNTl4Z1RCRjlOR3Zab1HSAdIBQVVfeXFMTUc4ZUptZUpqOW92SDNDYjNTb0NXTi03aTR4N1lEUkpFRVlUMk00OEZyemM4b3hwSG1FSkZBZGY4TUZxM2s1SlAzUkkwYjI0V2dJVm1sdEVMekJ4TGZnM3lhRXZqYS05N1EyN2I1VWRtT2w4Zi0zQVJFaWg2MTB2NUxJSDVhejl4VkNfUEZtMm5vckxmdTRYOGFhX3VMZlNSM2JKa0VaLV92T3Y2ODl0RXlvajZuaU45UHZLUUUyNHpwODYzSWlWX2pBc2VCc2pmaTNB?oc=5",
         "source": "China Strategic Watch",
         "published": "Tue, 29 Sep 2026 05:20:17 GMT",
@@ -289,6 +309,24 @@
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "f1c657e3d0c4327c3d1ad65c",
+        "mode": "pontos_voice",
+        "title": "Ο Κωστής Βασιλειάδης ανέβασε την ποντιακή λύρα στην κορυφή του Ολύμπου - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazF3UVE5cjcxMUVQYllucExjaTRoaDVQUjlTRGhLSzFIY0tiOVpWMVZhb1V5dG1oRTJhaGNuSENSZjFzX3ZfU2Z1b3F1RkpKbDk0TFVNRkphSFVYRFlyeVZncVpKRUVLQjlEUzB3TnlLSW12bDY3ZUNRYVNCVm5oUFcwd0MzN0o3SENOcnExcjBOb0d4VUxZeVRvTVpuOHhvWUtpaXF3?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Tue, 29 Sep 2026 12:02:12 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακή",
+          "ποντιακή λύρα",
+          "λύρα"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "764acdb925ef20557b75a07c",
         "mode": "pontos_voice",
@@ -341,22 +379,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "836fb7a1ebf23721cac5758a",
-        "mode": "pontos_voice",
-        "title": "Ο Πόντος «ζωντάνεψε» στη Θεσσαλονίκη: 2.100 χορευτές στο 20ό Φεστιβάλ Ποντιακών Χορών της ΠΟΕ - Livemedia.gr",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFeGFnMi10VHBSeG1LbzRHdkM0UFdSRzYzMHJjWEtUREZGU2o4TEFTSjFUb0JHckJzOXhaRm94NF9tRUxWVE9mM0R4WlZGYWVobmdqcE8yNXlQYXN2VHhBUjg2RUNtbTN0UnF4WEQ3MTN4bDQ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Mon, 28 Sep 2026 13:17:59 GMT",
-        "base_score": 63,
-        "candidate_score": 66,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Πόντος",
-          "ΠΟΕ"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "6f7bb7cb56fab2c2a54ceaaa",
         "mode": "pontos_voice",
         "title": "Eski Trabzonsporlu Draguş, ülkesinde manşetlerde! Hem maaşı, hem de sakatlığı",
@@ -394,6 +416,26 @@
     ]
   },
   "items": [
+    {
+      "external_id": "ace6ec21f9d57064fdfbf8a3",
+      "mode": "sportdog",
+      "title": "Coronation Street Spoilers: Johnny Connor In BIG Trouble As Hannah Makes Shocking Demand Paok Vs Aek Athens (HQBHPQzmLh) - Unisba Media",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FODA5MEVkRjM5eTFPWTQ2WXUtVTFxVHF4bTBMY1BkYm1lQTU2QnQ4TkxfYlFzUnZtektieXRVc0ZHT2h2amU0bTBobjl2WU5iUXlnLWFfS0JqUVpxT0xmLW5yWEVBMXc3NVp0TQ?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Mon, 28 Sep 2026 16:18:07 GMT",
+      "base_score": 62,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
     {
       "external_id": "b4df7051f2d46323160d7600",
       "mode": "sportdog",
@@ -656,9 +698,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "150de21131b6ec90789cd594",
+      "external_id": "cb3bce58bb7d3756b9a48069",
       "mode": "geopolitico",
-      "title": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management - scmp.com",
+      "title": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVNfSzV5azFFMnhubTBnaDY2MjZWVGRaQUlHNDlRU3dVM2R4UHFsN0JNVElxV09WVUJ0LWs2aWcxNUI3aGh4QUVwWlZqMUowNXo3eEZqdlJ6YldhVjJnUW5PV2tIYW9qTnpkN1lKd3FkMzUyN1U3d0sxUXJ6SXlDTVlnM2JMZVRyM0tTVmtTTW12V1Z6eF9WZ1Zmbjk4VmFRaVlMeUJFdE45YmYyUVB2ZUl1eGVzRjNLVUhlcHlEQ3RZYlVZNTl4Z1RCRjlOR3Zab1HSAdIBQVVfeXFMTUc4ZUptZUpqOW92SDNDYjNTb0NXTi03aTR4N1lEUkpFRVlUMk00OEZyemM4b3hwSG1FSkZBZGY4TUZxM2s1SlAzUkkwYjI0V2dJVm1sdEVMekJ4TGZnM3lhRXZqYS05N1EyN2I1VWRtT2w4Zi0zQVJFaWg2MTB2NUxJSDVhejl4VkNfUEZtMm5vckxmdTRYOGFhX3VMZlNSM2JKa0VaLV92T3Y2ODl0RXlvajZuaU45UHZLUUUyNHpwODYzSWlWX2pBc2VCc2pmaTNB?oc=5",
       "source": "China Strategic Watch",
       "published": "Tue, 29 Sep 2026 05:20:17 GMT",
@@ -669,6 +711,24 @@
         "China",
         "China AI",
         "AI race"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "f1c657e3d0c4327c3d1ad65c",
+      "mode": "pontos_voice",
+      "title": "Ο Κωστής Βασιλειάδης ανέβασε την ποντιακή λύρα στην κορυφή του Ολύμπου - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazF3UVE5cjcxMUVQYllucExjaTRoaDVQUjlTRGhLSzFIY0tiOVpWMVZhb1V5dG1oRTJhaGNuSENSZjFzX3ZfU2Z1b3F1RkpKbDk0TFVNRkphSFVYRFlyeVZncVpKRUVLQjlEUzB3TnlLSW12bDY3ZUNRYVNCVm5oUFcwd0MzN0o3SENOcnExcjBOb0d4VUxZeVRvTVpuOHhvWUtpaXF3?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Tue, 29 Sep 2026 12:02:12 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "ποντιακή",
+        "ποντιακή λύρα",
+        "λύρα"
       ],
       "content_type": "news"
     },
@@ -720,22 +780,6 @@
       "matched_keywords": [
         "Pontos",
         "ποντιακή"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "836fb7a1ebf23721cac5758a",
-      "mode": "pontos_voice",
-      "title": "Ο Πόντος «ζωντάνεψε» στη Θεσσαλονίκη: 2.100 χορευτές στο 20ό Φεστιβάλ Ποντιακών Χορών της ΠΟΕ - Livemedia.gr",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFeGFnMi10VHBSeG1LbzRHdkM0UFdSRzYzMHJjWEtUREZGU2o4TEFTSjFUb0JHckJzOXhaRm94NF9tRUxWVE9mM0R4WlZGYWVobmdqcE8yNXlQYXN2VHhBUjg2RUNtbTN0UnF4WEQ3MTN4bDQ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Mon, 28 Sep 2026 13:17:59 GMT",
-      "base_score": 63,
-      "candidate_score": 66,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Πόντος",
-        "ΠΟΕ"
       ],
       "content_type": "news"
     },
