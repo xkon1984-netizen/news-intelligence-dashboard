@@ -1,32 +1,12 @@
 {
-  "generated_at": "2026-09-29T05:03:25.144806+00:00",
+  "generated_at": "2026-09-29T05:23:46.045909+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "ace6ec21f9d57064fdfbf8a3",
-        "mode": "sportdog",
-        "title": "Coronation Street Spoilers: Johnny Connor In BIG Trouble As Hannah Makes Shocking Demand Paok Vs Aek Athens (HQBHPQzmLh) - Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FODA5MEVkRjM5eTFPWTQ2WXUtVTFxVHF4bTBMY1BkYm1lQTU2QnQ4TkxfYlFzUnZtektieXRVc0ZHT2h2amU0bTBobjl2WU5iUXlnLWFfS0JqUVpxT0xmLW5yWEVBMXc3NVp0TQ?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Mon, 28 Sep 2026 16:18:07 GMT",
-        "base_score": 62,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "AEK",
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
       {
         "external_id": "feaef66c4941c801ba259dcd",
         "mode": "sportdog",
@@ -128,9 +108,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "205408f043368fdc7ed33a52",
+        "external_id": "a87127c2c7db3348097424c5",
         "mode": "sportdog",
-        "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - Euroleague Basketball",
+        "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - euroleaguebasketball.net",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzR1Z1lFLTBIT0RWTHJFajJGM3FtemxDeHJ6X0pzVTFnM2R4ZVlmZEk5NnpoRWl4WHlVeWNmMVgyU3paS01FLUdxOUUwOGxHZ1BzcGx1cVVSTEc0aElYZmlaWmZKZi1ISW1ZbVItRW1RbURGblhMTE9uX21ZMFpWRDUzaTBiS1E0eGNwTk1Ea2NKX25DSXRRX2M1VVNSdnNUYlg3VHAxZ0Zlc2lRRTJ6X2hJVk1fV1hvTEE?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Tue, 29 Sep 2026 00:41:37 GMT",
@@ -206,6 +186,23 @@
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "7fcdaacf0a66ca7d66930c8b",
+        "mode": "geopolitico",
+        "title": "﻿Türkiye Yunanistan'a kabloyu toplattı! Güzergahı değiştirmek zorunda kaldılar - STAR - Haberler",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWlwNlN1ZDJHQVp6MXBtbDNyaXR5RkhNUU0tYVR0aXhicTk5dTBSNjZBRXpfY2l6UXVlTW1kSHo2WlhaLWZzeUVpZGczRzhiaVVveXZOZzI4RTVPZ0JiMVkyc1NfeE00TUl0QUt1bkhhMFdDMUdOMVhhYUJNZC01dkktaU1oM1psTGJleUhfUENpTnVfdHNlTjd1UWpVMEJjZ2hHV0JyR1pmSmJHOGVmdVh0UVQ0THQ4dXFab9IBvwFBVV95cUxPWXdmS2tsbEh2aGl1OV9RcTRVWF9RLUN6QmJfbk1rSDBUeTlKWnlpWV91TUY2TElCMmNONGRMSEpTcHJCSE8tSXdrdjlsMnV6THBJLUFoWW91S25abTRnN2tUdHc4QnRwc0ViY2dhZmJyYkE5UFkwTVJJdzdfRnNWUkp3QV9tdlNQcFZGMUk4ZFRoSGZJa0FYano1TUR5QWpGeV9sT1dQQkVHZ0tTc0NFZzJzamFCZkxHTi01YjNRRQ?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Tue, 29 Sep 2026 04:56:00 GMT",
+        "base_score": 94,
+        "candidate_score": 109,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Türkiye Yunanistan",
+          "kablo"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "bd8c090e19b2f75b9b9f9f14",
         "mode": "geopolitico",
@@ -326,23 +323,6 @@
           "AI race"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "d0a68d6ea1c4564d865c46f1",
-        "mode": "geopolitico",
-        "title": "Γεραπετρίτης για GSI, Navtex και Τουρκία : ««Ό,τι απαιτηθεί θα γίνει» - Sigmalive",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHl1YXJic0FyRTNCZ3RaZVhVQnUtXzYtQnU5ekdKN0hlV1UwZ1Y1SEY0UmVWZExlWTBwNEpTWHk4UE1ic1pneVZOWk9ycU9OQ1ZPT2tjVTktZXlDZl9nRzhUN2pXcktGNW9zWUpkdXk3Y2RTNDJzZ2kxOS1seUNKUWQ2Zk1TMU85eDBRVTF5SFhtMGhtRGFuN0RQNmlvYnhLRmZTQzh2SnVxZXJKblRxcw?oc=5",
-        "source": "Dodecanese Security Migration Watch",
-        "published": "Mon, 28 Sep 2026 20:08:17 GMT",
-        "base_score": 78,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "NAVTEX",
-          "GSI",
-          "GSI"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -380,31 +360,48 @@
         "content_type": "news"
       },
       {
-        "external_id": "0e4a513a321e6bc749614e37",
+        "external_id": "8297eaf11c884fcd4a043692",
         "mode": "pontos_voice",
-        "title": "Trabzon Valisi Tahir Şahin’den minik Ela’ya özel kabul",
-        "url": "https://www.61saat.com/trabzon-valisi-tahir-sahinden-minik-elaya-ozel-kabul",
+        "title": "Başkan hızlı başladı! Gören o konuyu soruyor",
+        "url": "https://www.61saat.com/baskan-hizli-basladi-goren-o-konuyu-soruyor",
         "source": "61Saat Trabzon",
-        "published": "Mon, 28 Sep 2026 18:35:00 +0300",
-        "base_score": 41,
-        "candidate_score": 47,
+        "published": "Tue, 29 Sep 2026 08:15:00 +0300",
+        "base_score": 46,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "vali"
+          "MHP",
+          "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "a51f7e827379dc1ed29083fa",
+        "external_id": "e9ee2b22b1e5d4faa62a28b0",
         "mode": "pontos_voice",
-        "title": "Milli Takım’da İtalya Maçı kadrosu açıklandı! Trabzonsporlu iki oyuncu kadroda - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVhveUtQQm9ITkVpVlBUVzVBU0trUkFZMU9uOFpZeFB1R01VRUdHUFJCMzZVWF9KUktfZzNLdnNJS001dzRYRDdGYW4tVjREaXpkYnVoTUxUX3hmd3FkUTR4MTdsY1BXelZzQ2RNak9ZZGFVYlhSVXVYM3MtYWt2bGdkM3JOV3lpdldiQnFMbnRYVHlKUDZmYjBJVnNNeHdxVTRRSGhBaUFfY1otUmZ0V2x0ckpmRzNpNTZOQg?oc=5",
+        "title": "Başarısının altında ne var?",
+        "url": "https://www.61saat.com/basarisinin-altinda-ne-var",
+        "source": "61Saat Trabzon",
+        "published": "Tue, 29 Sep 2026 08:09:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "belediye başkanı",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "44746cc5a10a874719881f80",
+        "mode": "pontos_voice",
+        "title": "Trabzon’da öğrenci olmak zorlaşıyor! Kiralar 40 bin liraya çıkıyor - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjZFV3I4SzFQNHFEWXdUdlZBcDFoZWM4ZXVldXZtclp4VFM2NVhBRVM2b2dNelhIYUtYb2xaUmJrcTBoMUJIM3oxY1RtR2lxWHYzNjNLTnU5cGF6VFRkN2VvZUZKUEJqQzFKRVFFWV9hQWRPNjA3Wl9mU3RtZHNDNXZkQVYxOFNEd2tBQUJWeDFaQXZnc3Vlbkprenl3dGxkRVZ0dHQzTQ?oc=5",
         "source": "Haber61 Trabzon",
-        "published": "Mon, 28 Sep 2026 17:48:44 GMT",
+        "published": "Tue, 29 Sep 2026 05:07:19 GMT",
         "base_score": 40,
-        "candidate_score": 46,
+        "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -414,60 +411,24 @@
         "content_type": "news"
       },
       {
-        "external_id": "c441c287af0cab9d3a51544b",
+        "external_id": "e544ed0227d205c5a764d71b",
         "mode": "pontos_voice",
-        "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzhCY3BGTHo1WjN6LUxadXZyaWlEV2MwQklydm9scU90U1BxRmdwMUNkbkFoTUpMbEp0dER5eE5qZlpNZTlDbkQ2U00xZGpkRldtWkhnY1VsdVdmdHljdEJneW1mdTU4ejNFaWFVUE5fRVdkNUhyNjVHcHpKeko3azNHNnJsT3ZqOFVKYl9FdENic1ZOTndfekFfX2ptSllXX3c?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Mon, 28 Sep 2026 15:49:27 GMT",
-        "base_score": 40,
-        "candidate_score": 46,
+        "title": "Trabzonspor'un projesi gündemdeyken KTÜ'den bir fikir geldi",
+        "url": "https://www.61saat.com/trabzonsporun-projesi-gundemdeyken-ktuden-bir-fikir-geldi",
+        "source": "61Saat Trabzon",
+        "published": "Tue, 29 Sep 2026 08:16:00 +0300",
+        "base_score": 34,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
           "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "2d7adb93e3eadf84008e247a",
-        "mode": "pontos_voice",
-        "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Mon, 28 Sep 2026 15:18:40 GMT",
-        "base_score": 40,
-        "candidate_score": 46,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Σουμελά"
         ],
         "content_type": "news"
       }
     ]
   },
   "items": [
-    {
-      "external_id": "ace6ec21f9d57064fdfbf8a3",
-      "mode": "sportdog",
-      "title": "Coronation Street Spoilers: Johnny Connor In BIG Trouble As Hannah Makes Shocking Demand Paok Vs Aek Athens (HQBHPQzmLh) - Unisba Media",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FODA5MEVkRjM5eTFPWTQ2WXUtVTFxVHF4bTBMY1BkYm1lQTU2QnQ4TkxfYlFzUnZtektieXRVc0ZHT2h2amU0bTBobjl2WU5iUXlnLWFfS0JqUVpxT0xmLW5yWEVBMXc3NVp0TQ?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Mon, 28 Sep 2026 16:18:07 GMT",
-      "base_score": 62,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "AEK",
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
     {
       "external_id": "feaef66c4941c801ba259dcd",
       "mode": "sportdog",
@@ -569,9 +530,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "205408f043368fdc7ed33a52",
+      "external_id": "a87127c2c7db3348097424c5",
       "mode": "sportdog",
-      "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - Euroleague Basketball",
+      "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - euroleaguebasketball.net",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzR1Z1lFLTBIT0RWTHJFajJGM3FtemxDeHJ6X0pzVTFnM2R4ZVlmZEk5NnpoRWl4WHlVeWNmMVgyU3paS01FLUdxOUUwOGxHZ1BzcGx1cVVSTEc0aElYZmlaWmZKZi1ISW1ZbVItRW1RbURGblhMTE9uX21ZMFpWRDUzaTBiS1E0eGNwTk1Ea2NKX25DSXRRX2M1VVNSdnNUYlg3VHAxZ0Zlc2lRRTJ6X2hJVk1fV1hvTEE?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Tue, 29 Sep 2026 00:41:37 GMT",
@@ -644,6 +605,23 @@
       "team": "Aris",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "7fcdaacf0a66ca7d66930c8b",
+      "mode": "geopolitico",
+      "title": "﻿Türkiye Yunanistan'a kabloyu toplattı! Güzergahı değiştirmek zorunda kaldılar - STAR - Haberler",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWlwNlN1ZDJHQVp6MXBtbDNyaXR5RkhNUU0tYVR0aXhicTk5dTBSNjZBRXpfY2l6UXVlTW1kSHo2WlhaLWZzeUVpZGczRzhiaVVveXZOZzI4RTVPZ0JiMVkyc1NfeE00TUl0QUt1bkhhMFdDMUdOMVhhYUJNZC01dkktaU1oM1psTGJleUhfUENpTnVfdHNlTjd1UWpVMEJjZ2hHV0JyR1pmSmJHOGVmdVh0UVQ0THQ4dXFab9IBvwFBVV95cUxPWXdmS2tsbEh2aGl1OV9RcTRVWF9RLUN6QmJfbk1rSDBUeTlKWnlpWV91TUY2TElCMmNONGRMSEpTcHJCSE8tSXdrdjlsMnV6THBJLUFoWW91S25abTRnN2tUdHc4QnRwc0ViY2dhZmJyYkE5UFkwTVJJdzdfRnNWUkp3QV9tdlNQcFZGMUk4ZFRoSGZJa0FYano1TUR5QWpGeV9sT1dQQkVHZ0tTc0NFZzJzamFCZkxHTi01YjNRRQ?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Tue, 29 Sep 2026 04:56:00 GMT",
+      "base_score": 94,
+      "candidate_score": 109,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Türkiye Yunanistan",
+        "kablo"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "bd8c090e19b2f75b9b9f9f14",
@@ -767,23 +745,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "d0a68d6ea1c4564d865c46f1",
-      "mode": "geopolitico",
-      "title": "Γεραπετρίτης για GSI, Navtex και Τουρκία : ««Ό,τι απαιτηθεί θα γίνει» - Sigmalive",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHl1YXJic0FyRTNCZ3RaZVhVQnUtXzYtQnU5ekdKN0hlV1UwZ1Y1SEY0UmVWZExlWTBwNEpTWHk4UE1ic1pneVZOWk9ycU9OQ1ZPT2tjVTktZXlDZl9nRzhUN2pXcktGNW9zWUpkdXk3Y2RTNDJzZ2kxOS1seUNKUWQ2Zk1TMU85eDBRVTF5SFhtMGhtRGFuN0RQNmlvYnhLRmZTQzh2SnVxZXJKblRxcw?oc=5",
-      "source": "Dodecanese Security Migration Watch",
-      "published": "Mon, 28 Sep 2026 20:08:17 GMT",
-      "base_score": 78,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "NAVTEX",
-        "GSI",
-        "GSI"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "d2a5a068e2e1538909f1689e",
       "mode": "pontos_voice",
       "title": "Ποντιακή βραδιά στο Schorndorf: Γλέντι με αγαπημένους καλλιτέχνες από την Ελλάδα - pontosnews.gr",
@@ -817,31 +778,48 @@
       "content_type": "news"
     },
     {
-      "external_id": "0e4a513a321e6bc749614e37",
+      "external_id": "8297eaf11c884fcd4a043692",
       "mode": "pontos_voice",
-      "title": "Trabzon Valisi Tahir Şahin’den minik Ela’ya özel kabul",
-      "url": "https://www.61saat.com/trabzon-valisi-tahir-sahinden-minik-elaya-ozel-kabul",
+      "title": "Başkan hızlı başladı! Gören o konuyu soruyor",
+      "url": "https://www.61saat.com/baskan-hizli-basladi-goren-o-konuyu-soruyor",
       "source": "61Saat Trabzon",
-      "published": "Mon, 28 Sep 2026 18:35:00 +0300",
-      "base_score": 41,
-      "candidate_score": 47,
+      "published": "Tue, 29 Sep 2026 08:15:00 +0300",
+      "base_score": 46,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "vali"
+        "MHP",
+        "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "a51f7e827379dc1ed29083fa",
+      "external_id": "e9ee2b22b1e5d4faa62a28b0",
       "mode": "pontos_voice",
-      "title": "Milli Takım’da İtalya Maçı kadrosu açıklandı! Trabzonsporlu iki oyuncu kadroda - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVhveUtQQm9ITkVpVlBUVzVBU0trUkFZMU9uOFpZeFB1R01VRUdHUFJCMzZVWF9KUktfZzNLdnNJS001dzRYRDdGYW4tVjREaXpkYnVoTUxUX3hmd3FkUTR4MTdsY1BXelZzQ2RNak9ZZGFVYlhSVXVYM3MtYWt2bGdkM3JOV3lpdldiQnFMbnRYVHlKUDZmYjBJVnNNeHdxVTRRSGhBaUFfY1otUmZ0V2x0ckpmRzNpNTZOQg?oc=5",
+      "title": "Başarısının altında ne var?",
+      "url": "https://www.61saat.com/basarisinin-altinda-ne-var",
+      "source": "61Saat Trabzon",
+      "published": "Tue, 29 Sep 2026 08:09:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "belediye başkanı",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "44746cc5a10a874719881f80",
+      "mode": "pontos_voice",
+      "title": "Trabzon’da öğrenci olmak zorlaşıyor! Kiralar 40 bin liraya çıkıyor - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjZFV3I4SzFQNHFEWXdUdlZBcDFoZWM4ZXVldXZtclp4VFM2NVhBRVM2b2dNelhIYUtYb2xaUmJrcTBoMUJIM3oxY1RtR2lxWHYzNjNLTnU5cGF6VFRkN2VvZUZKUEJqQzFKRVFFWV9hQWRPNjA3Wl9mU3RtZHNDNXZkQVYxOFNEd2tBQUJWeDFaQXZnc3Vlbkprenl3dGxkRVZ0dHQzTQ?oc=5",
       "source": "Haber61 Trabzon",
-      "published": "Mon, 28 Sep 2026 17:48:44 GMT",
+      "published": "Tue, 29 Sep 2026 05:07:19 GMT",
       "base_score": 40,
-      "candidate_score": 46,
+      "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -851,34 +829,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "c441c287af0cab9d3a51544b",
+      "external_id": "e544ed0227d205c5a764d71b",
       "mode": "pontos_voice",
-      "title": "Trabzonspor’un eski oyuncuları Uluslar Ligi’nde buluşuyor - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzhCY3BGTHo1WjN6LUxadXZyaWlEV2MwQklydm9scU90U1BxRmdwMUNkbkFoTUpMbEp0dER5eE5qZlpNZTlDbkQ2U00xZGpkRldtWkhnY1VsdVdmdHljdEJneW1mdTU4ejNFaWFVUE5fRVdkNUhyNjVHcHpKeko3azNHNnJsT3ZqOFVKYl9FdENic1ZOTndfekFfX2ptSllXX3c?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Mon, 28 Sep 2026 15:49:27 GMT",
-      "base_score": 40,
-      "candidate_score": 46,
+      "title": "Trabzonspor'un projesi gündemdeyken KTÜ'den bir fikir geldi",
+      "url": "https://www.61saat.com/trabzonsporun-projesi-gundemdeyken-ktuden-bir-fikir-geldi",
+      "source": "61Saat Trabzon",
+      "published": "Tue, 29 Sep 2026 08:16:00 +0300",
+      "base_score": 34,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
         "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "2d7adb93e3eadf84008e247a",
-      "mode": "pontos_voice",
-      "title": "Ι.Ν. Αγίου Παντελεήμονος Δραπετσώνας: Εορτή Παναγίας Σουμελά και Αγίων Κυπριανού και Ιουστίνης • Κανάλι Ένα 90.4 - Κανάλι Ένα 90,4 FM",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZsaU92R1ZqWGR3dUdqQ19SbE0zVkd2a1hMU3lzQnRFWW50SkVrOU5kTVg2cUVkUWIzSUt3V0J1NkZVM2NYWi1Xb0QwRi1BX3ZGSjVFZUoxUC1ORXlyaWhwc2UyZTZLM0tNaEdoaGlfS1lDOXAtN3ZxOTNnNEt1c3JqejlDYTMyS2E1eWxfVmZrYXhGRjJSUWdRQzM2N1d5TWFtbDZ2YTc4Z09hRVdPakJRZXk4OGtHWkE?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Mon, 28 Sep 2026 15:18:40 GMT",
-      "base_score": 40,
-      "candidate_score": 46,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Σουμελά"
       ],
       "content_type": "news"
     }
