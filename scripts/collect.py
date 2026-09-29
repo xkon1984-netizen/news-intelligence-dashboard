@@ -163,6 +163,38 @@ def enrich_item(item: dict, first_seen: dict, now):
     return item
 
 
+
+def load_historical_mentions():
+    path = ROOT / "config" / "mention_history.yaml"
+    if not path.exists():
+        return []
+    now = datetime.now(timezone.utc)
+    results = []
+    for record in (load_yaml(path) or {}).get("mentions", []):
+        published_dt = parse_published(record.get("published", ""))
+        results.append({
+            "title": record.get("title", ""),
+            "title_el": record.get("title_el", ""),
+            "url": record.get("url", ""),
+            "source": record.get("source", "Historical Mention"),
+            "published": record.get("published", ""),
+            "published_ts": published_dt.timestamp() if published_dt else 0,
+            "scores": {"geopolitico": 100},
+            "matched_keywords": {"geopolitico": ["Χρήστος Κωνσταντινίδης"]},
+            "content_type": "mention",
+            "mention_type": record.get("mention_type", "personal_reference"),
+            "mention_confirmed": True,
+            "mention_excerpt": record.get("mention_excerpt", ""),
+            "summary": record.get("summary_el", ""),
+            "summary_el": record.get("summary_el", ""),
+            "access_note": record.get("access_note", "Αναδρομικό τεκμηριωμένο εύρημα."),
+            "journalistic_significance": "Επιβεβαιωμένη προσωπική αναφορά — ιστορικό εύρημα του monitor.",
+            "retrospective": True,
+            "historical_backfill": True,
+            "external_id": record.get("id", ""),
+        })
+    return results
+
 def collect_mentions(cfg: dict):
     results = []
     now = datetime.now(timezone.utc)
@@ -587,6 +619,7 @@ def main():
     mentions_path = ROOT / "config" / "mentions.yaml"
     if mentions_path.exists():
         mention_cfg = (load_yaml(mentions_path) or {}).get("mentions", {})
+        items.extend(load_historical_mentions())
         items.extend(collect_mentions(mention_cfg))
 
     frontpage_path = ROOT / "config" / "frontpage_sources.yaml"
