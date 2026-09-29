@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T21:03:45.782233+00:00",
+  "generated_at": "2026-09-29T21:24:36.803823+00:00",
   "counts": {
-    "sportdog": 4,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -43,6 +43,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "f27a6d4c150aff7a44e75f96",
+        "mode": "sportdog",
+        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Tue, 29 Sep 2026 01:47:07 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -122,9 +141,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "f64b08957ea1445c4ff57197",
+        "external_id": "d0a3b927620c5c022d428f8c",
         "mode": "geopolitico",
-        "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - trtworld.com",
+        "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0LXM1WXc0allUZFNsd0sxdThyQ2EtTFFBY0E2ZW5LZ2tyZktFaS13anYtWlRTdTV0WHAzUUFtSmNSS19zWTI0TTlaTGtLanRzRTN3?oc=5",
         "source": "Greece Israel Strategic Watch",
         "published": "Tue, 29 Sep 2026 12:55:12 GMT",
@@ -371,6 +390,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "f27a6d4c150aff7a44e75f96",
+      "mode": "sportdog",
+      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Tue, 29 Sep 2026 01:47:07 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "205408f043368fdc7ed33a52",
       "mode": "sportdog",
       "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - Euroleague Basketball",
@@ -444,9 +482,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "f64b08957ea1445c4ff57197",
+      "external_id": "d0a3b927620c5c022d428f8c",
       "mode": "geopolitico",
-      "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - trtworld.com",
+      "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0LXM1WXc0allUZFNsd0sxdThyQ2EtTFFBY0E2ZW5LZ2tyZktFaS13anYtWlRTdTV0WHAzUUFtSmNSS19zWTI0TTlaTGtLanRzRTN3?oc=5",
       "source": "Greece Israel Strategic Watch",
       "published": "Tue, 29 Sep 2026 12:55:12 GMT",
