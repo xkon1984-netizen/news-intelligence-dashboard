@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T08:08:55.067674+00:00",
+  "generated_at": "2026-09-30T08:32:26.692841+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -84,6 +84,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "214bec1d6dbb426557bed7ae",
+        "mode": "sportdog",
+        "title": "PAOK - Manresa - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZmSTkzVTZDV043RUVDQU12WHJhSFIya0dKUWV3LU5iazZQbWV2UG02OURMaE9hNE1uWS1nTU1ac21VX1JsQXozeUxseTFUeEhTcHd2UDNQa3FqTV9sa01VeTRhbXBHZUdWS3FEaUVOOG8tbUt4ZE9RZC1ySkoteQ?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Tue, 29 Sep 2026 17:48:07 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -183,9 +202,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "050c672687bf0f3445dd84c1",
+        "external_id": "3d9dc2ea829689acc612b67b",
         "mode": "geopolitico",
-        "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - tgrthaber.com",
+        "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - TGRT Haber",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC05OUVYV1l5V2k3bnktZzg5Q2VDTDV5cDRXYU1LVklFeFF2MGpQYWVoUFAwdF9HcXdKcERHM3Z0M0VuZmZESEkzTGFmaWJlQWF3a3pxbnREUlRnRTdLaTNRbnNLMU5MTXp3RkM3Wkg4MVBiUG1TdUhnOC1iWnl1WS1yTE1HVU1CcjB4QWFaNnhkVXNOVktHNl83OXJjel9waEJBRXF5N1gtVi0xX3d1WmJiSWZCUXRKdmNIMzFwMmR1WmM?oc=5",
         "source": "TGRT Haber Greece Watch",
         "published": "Wed, 30 Sep 2026 07:28:15 GMT",
@@ -361,9 +380,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "d84a06ab362fa8b5a5ee083b",
+        "external_id": "907aa7bcb774d0d83f5c97b4",
         "mode": "pontos_voice",
-        "title": "Trabzon YENİ Parti hedef büyüttü! 1 milletvekili 3’e mi çıkacak? - Haber61",
+        "title": "Trabzon YENİ Parti hedef büyüttü! 1 milletvekili 3’e mi çıkacak? - haber61.net",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmdIckU4aVZMa043M3pTQXdlZHFLQmZoMlA4eHVsSGpBem5oNVlLRjQtSDItbjgwTWVwbWItQ0lFeTJOMHRMUzZ0YjkwTDNzaUhnaC1ybUZPbnR2NmpTb1diczJzTWlidUY3WV9LUWt6LTY0TUwwMGtwU2xYdUVVYVlZZzJfWjRnLWVXWV9CdXVCLXh4OWlTX3VMMlctTFNsTDJB?oc=5",
         "source": "Haber61 Trabzon",
         "published": "Wed, 30 Sep 2026 06:14:11 GMT",
@@ -461,6 +480,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "214bec1d6dbb426557bed7ae",
+      "mode": "sportdog",
+      "title": "PAOK - Manresa - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZmSTkzVTZDV043RUVDQU12WHJhSFIya0dKUWV3LU5iazZQbWV2UG02OURMaE9hNE1uWS1nTU1ac21VX1JsQXozeUxseTFUeEhTcHd2UDNQa3FqTV9sa01VeTRhbXBHZUdWS3FEaUVOOG8tbUt4ZE9RZC1ySkoteQ?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Tue, 29 Sep 2026 17:48:07 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "f27a6d4c150aff7a44e75f96",
       "mode": "sportdog",
       "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
@@ -554,9 +592,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "050c672687bf0f3445dd84c1",
+      "external_id": "3d9dc2ea829689acc612b67b",
       "mode": "geopolitico",
-      "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - tgrthaber.com",
+      "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - TGRT Haber",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC05OUVYV1l5V2k3bnktZzg5Q2VDTDV5cDRXYU1LVklFeFF2MGpQYWVoUFAwdF9HcXdKcERHM3Z0M0VuZmZESEkzTGFmaWJlQWF3a3pxbnREUlRnRTdLaTNRbnNLMU5MTXp3RkM3Wkg4MVBiUG1TdUhnOC1iWnl1WS1yTE1HVU1CcjB4QWFaNnhkVXNOVktHNl83OXJjel9waEJBRXF5N1gtVi0xX3d1WmJiSWZCUXRKdmNIMzFwMmR1WmM?oc=5",
       "source": "TGRT Haber Greece Watch",
       "published": "Wed, 30 Sep 2026 07:28:15 GMT",
@@ -730,9 +768,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "d84a06ab362fa8b5a5ee083b",
+      "external_id": "907aa7bcb774d0d83f5c97b4",
       "mode": "pontos_voice",
-      "title": "Trabzon YENİ Parti hedef büyüttü! 1 milletvekili 3’e mi çıkacak? - Haber61",
+      "title": "Trabzon YENİ Parti hedef büyüttü! 1 milletvekili 3’e mi çıkacak? - haber61.net",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmdIckU4aVZMa043M3pTQXdlZHFLQmZoMlA4eHVsSGpBem5oNVlLRjQtSDItbjgwTWVwbWItQ0lFeTJOMHRMUzZ0YjkwTDNzaUhnaC1ybUZPbnR2NmpTb1diczJzTWlidUY3WV9LUWt6LTY0TUwwMGtwU2xYdUVVYVlZZzJfWjRnLWVXWV9CdXVCLXh4OWlTX3VMMlctTFNsTDJB?oc=5",
       "source": "Haber61 Trabzon",
       "published": "Wed, 30 Sep 2026 06:14:11 GMT",
