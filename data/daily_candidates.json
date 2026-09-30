@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:27:34.093036+00:00",
+  "generated_at": "2026-09-30T07:53:11.419486+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -49,25 +49,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "3700080e0c38aba95bf355f7",
-        "mode": "sportdog",
-        "title": "Orbelin Pineda Praises Armando 'Hormiga' Gonzalez Ahead of Olympiacos Spell - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGdLU3B6TGxwQVZMZzZvSEgtakY4SENwLUtrSjdCUkFMX3RobEk1NmE2aXpjUW9XclVHVmEzZjJ1eEtpNGtNWWtrNnBTT3hlRHdIYUdheTlCXzB5T3VLdnFaQ0o4R3lkcEFRT0dTRjB1dmM0SUYyaXJsMF9kQjlHQjZkWktoR1RUMldQRlBaTnRiM0p1RkZ1NVZrTy1ZR1ZYUUZvNHRpTzhMVldTQnhoQk03b2w1NVlvbWticHFpckRPd3REUEVGQWtB?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 30 Sep 2026 04:52:03 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "217df33fb09143fdc3dcc690",
         "mode": "sportdog",
         "title": "Olympiacos Eyes Another Chivas Star—Could Diego Campillo Be the Next Mexican to Join 'La Hormiga' in Greece? - Soy Futbol",
@@ -88,6 +69,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "3700080e0c38aba95bf355f7",
+        "mode": "sportdog",
+        "title": "Orbelin Pineda Praises Armando 'Hormiga' Gonzalez Ahead of Olympiacos Spell - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGdLU3B6TGxwQVZMZzZvSEgtakY4SENwLUtrSjdCUkFMX3RobEk1NmE2aXpjUW9XclVHVmEzZjJ1eEtpNGtNWWtrNnBTT3hlRHdIYUdheTlCXzB5T3VLdnFaQ0o4R3lkcEFRT0dTRjB1dmM0SUYyaXJsMF9kQjlHQjZkWktoR1RUMldQRlBaTnRiM0p1RkZ1NVZrTy1ZR1ZYUUZvNHRpTzhMVldTQnhoQk03b2w1NVlvbWticHFpckRPd3REUEVGQWtB?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Wed, 30 Sep 2026 04:52:03 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "f27a6d4c150aff7a44e75f96",
         "mode": "sportdog",
         "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
@@ -95,7 +95,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Tue, 29 Sep 2026 01:47:07 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -128,6 +128,24 @@
     ],
     "geopolitico": [
       {
+        "external_id": "2cc1b78d373a5cc806fc96f6",
+        "mode": "geopolitico",
+        "title": "Yunanistan'ın bazı adalara SPIKE NLOS füzeleri yerleştirdiği ileri sürüldü - Haber Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnYzRlhoanItVHpnYVJnLVpfakx3SXR2c1lEN21QZWFZaW1CRlRSZUNWbVNiMEZyeGtpcWowZk1KSTgyZVhFQ2hBQ2hLdkN0YzV3TGFRZldVaWl5LTdDd3kwY0d0bDllcnZ1ZXZpZ2QtbHJwazlJMGZIV2JhNTQ5SlRuRWw4ZFRXMTU2eFl0SjBidTJSOHpodnZDWDZjbDZ6T0Q4TXhDazlKVjNmaHZ2SnZBUmRPcTBsbHc?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 30 Sep 2026 07:35:28 GMT",
+        "base_score": 91,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "ada",
+          "adalar"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "713b3a03b78e115fd3483624",
         "mode": "geopolitico",
         "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - Nordic Monitor",
@@ -145,6 +163,24 @@
           "air defense"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "3d9dc2ea829689acc612b67b",
+        "mode": "geopolitico",
+        "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - TGRT Haber",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC05OUVYV1l5V2k3bnktZzg5Q2VDTDV5cDRXYU1LVklFeFF2MGpQYWVoUFAwdF9HcXdKcERHM3Z0M0VuZmZESEkzTGFmaWJlQWF3a3pxbnREUlRnRTdLaTNRbnNLMU5MTXp3RkM3Wkg4MVBiUG1TdUhnOC1iWnl1WS1yTE1HVU1CcjB4QWFaNnhkVXNOVktHNl83OXJjel9waEJBRXF5N1gtVi0xX3d1WmJiSWZCUXRKdmNIMzFwMmR1WmM?oc=5",
+        "source": "TGRT Haber Greece Watch",
+        "published": "Wed, 30 Sep 2026 07:28:15 GMT",
+        "base_score": 84,
+        "candidate_score": 99,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Ege",
+          "ada",
+          "adalar"
+        ],
+        "content_type": "turkey_greece"
       },
       {
         "external_id": "9764bca842ea86c0364e6312",
@@ -166,9 +202,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "6c5a947fa0d8881c4f0eb537",
+        "external_id": "56f9d97869bd88a92ad83f66",
         "mode": "geopolitico",
-        "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - trtworld.com",
+        "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ZDVScGllN0RXRUdXZVVDRUJBRnUtdXBheFJoYlF1ZlpLejhMU1JfUGhWbjJWWXMxcGZCYUlXQ20yMGx4Z1d1M3cxRGhQck9Lb3lGQU05dkM?oc=5",
         "source": "Greece Israel Strategic Watch",
         "published": "Tue, 29 Sep 2026 12:55:12 GMT",
@@ -231,39 +267,6 @@
           "Abdulkadir Selvi"
         ],
         "content_type": "analyst"
-      },
-      {
-        "external_id": "f2fb6ce7162c4d1a4fcf186f",
-        "mode": "geopolitico",
-        "title": "AKPM’den Yunanistan Raporu - Kıbrıs Türk Haber",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMbnViYWVLSmlEQ2dUcGZRRDExZTN0VXNWaVBwLVBFZWcxaG02QVY1V3dfZnprbVA5Zy1mcWFaOGlvNVJNZU8xQU8tUXBVbU5KVHZGTWwyb044NHVDc28xT1hB?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 30 Sep 2026 06:32:00 GMT",
-        "base_score": 69,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "602799459441ab212738fee3",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz’de Yeni Hat: GSI Güzergahında Değişiklik Kararı - bolgegundemi.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZEZiVDRnOUNEUVc5Q19VRTI3NEdDVTBDdGRUc3JXM3pzY05IdUdtSzBFS19CUzNBWHZ6dm5wM0s4LXlFenJFQ3Q1YjZhTl8taGNlV0REcnlFWEcxV2ZqOU44RnRXQlo5MHhJbVZiRWkwa0Z3eHhYNWlFTExwa3lWYm8zTWRTb2NTUUdKZ1VBRURzS0lQUFQzWmdaaWQ4UEZmaG5yLXJ6NGU?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Tue, 29 Sep 2026 10:17:17 GMT",
-        "base_score": 81,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "GSI",
-          "Doğu Akdeniz",
-          "GSI"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -338,6 +341,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "99723d9aa91287b22a4edc17",
+        "mode": "pontos_voice",
+        "title": "Avrupa Şampiyonu bayan millî boksörleri kabul etti",
+        "url": "https://www.61saat.com/avrupa-sampiyonu-bayan-milli-boksorleri-kabul-etti",
+        "source": "61Saat Trabzon",
+        "published": "Wed, 30 Sep 2026 10:39:00 +0300",
+        "base_score": 51,
+        "candidate_score": 66,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Sürmene",
+          "Trabzon",
+          "vali"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "d84a06ab362fa8b5a5ee083b",
         "mode": "pontos_voice",
         "title": "Trabzon YENİ Parti hedef büyüttü! 1 milletvekili 3’e mi çıkacak? - Haber61",
@@ -350,23 +371,6 @@
         "matched_keywords": [
           "Trabzon",
           "milletvekili",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "ce80fbb72d29534f25d07cdc",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da belediye başkanından eylem çağrısı \"Başka ilçelere gitmek zorunda kalacağız\" - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUpqSVFJRWFUWnE4WXF6S1RGcXR4MVVCWWg1Tl9KQUp6M0RoWVc1WlMxbWNRdXpEQUN6NHltUGIteVhaTTc2N2ZxdzNtX1gyX2NZNFF0OUdIcXVkSWFQX293Tzk0NmQxSlRMS056c3BGRjFhT1EzTk5WWFAyRjFGTF82M21wNkpoMnhUX051emM1ZDZaSHIyOGJVZlU3STZTVVFIakFXZFZ5dDBWejZfaWdNbjl2a2Y5N0dYSWliLTdzUQ?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Wed, 30 Sep 2026 05:37:12 GMT",
-        "base_score": 42,
-        "candidate_score": 57,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "belediye başkanı",
           "Trabzon"
         ],
         "content_type": "news"
@@ -416,25 +420,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "3700080e0c38aba95bf355f7",
-      "mode": "sportdog",
-      "title": "Orbelin Pineda Praises Armando 'Hormiga' Gonzalez Ahead of Olympiacos Spell - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGdLU3B6TGxwQVZMZzZvSEgtakY4SENwLUtrSjdCUkFMX3RobEk1NmE2aXpjUW9XclVHVmEzZjJ1eEtpNGtNWWtrNnBTT3hlRHdIYUdheTlCXzB5T3VLdnFaQ0o4R3lkcEFRT0dTRjB1dmM0SUYyaXJsMF9kQjlHQjZkWktoR1RUMldQRlBaTnRiM0p1RkZ1NVZrTy1ZR1ZYUUZvNHRpTzhMVldTQnhoQk03b2w1NVlvbWticHFpckRPd3REUEVGQWtB?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 30 Sep 2026 04:52:03 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "217df33fb09143fdc3dcc690",
       "mode": "sportdog",
       "title": "Olympiacos Eyes Another Chivas Star—Could Diego Campillo Be the Next Mexican to Join 'La Hormiga' in Greece? - Soy Futbol",
@@ -455,6 +440,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "3700080e0c38aba95bf355f7",
+      "mode": "sportdog",
+      "title": "Orbelin Pineda Praises Armando 'Hormiga' Gonzalez Ahead of Olympiacos Spell - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGdLU3B6TGxwQVZMZzZvSEgtakY4SENwLUtrSjdCUkFMX3RobEk1NmE2aXpjUW9XclVHVmEzZjJ1eEtpNGtNWWtrNnBTT3hlRHdIYUdheTlCXzB5T3VLdnFaQ0o4R3lkcEFRT0dTRjB1dmM0SUYyaXJsMF9kQjlHQjZkWktoR1RUMldQRlBaTnRiM0p1RkZ1NVZrTy1ZR1ZYUUZvNHRpTzhMVldTQnhoQk03b2w1NVlvbWticHFpckRPd3REUEVGQWtB?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Wed, 30 Sep 2026 04:52:03 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "f27a6d4c150aff7a44e75f96",
       "mode": "sportdog",
       "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
@@ -462,7 +466,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Tue, 29 Sep 2026 01:47:07 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -493,6 +497,24 @@
       "needs_second_source": true
     },
     {
+      "external_id": "2cc1b78d373a5cc806fc96f6",
+      "mode": "geopolitico",
+      "title": "Yunanistan'ın bazı adalara SPIKE NLOS füzeleri yerleştirdiği ileri sürüldü - Haber Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnYzRlhoanItVHpnYVJnLVpfakx3SXR2c1lEN21QZWFZaW1CRlRSZUNWbVNiMEZyeGtpcWowZk1KSTgyZVhFQ2hBQ2hLdkN0YzV3TGFRZldVaWl5LTdDd3kwY0d0bDllcnZ1ZXZpZ2QtbHJwazlJMGZIV2JhNTQ5SlRuRWw4ZFRXMTU2eFl0SjBidTJSOHpodnZDWDZjbDZ6T0Q4TXhDazlKVjNmaHZ2SnZBUmRPcTBsbHc?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 30 Sep 2026 07:35:28 GMT",
+      "base_score": 91,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kıbrıs",
+        "ada",
+        "adalar"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "713b3a03b78e115fd3483624",
       "mode": "geopolitico",
       "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - Nordic Monitor",
@@ -510,6 +532,24 @@
         "air defense"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "3d9dc2ea829689acc612b67b",
+      "mode": "geopolitico",
+      "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - TGRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC05OUVYV1l5V2k3bnktZzg5Q2VDTDV5cDRXYU1LVklFeFF2MGpQYWVoUFAwdF9HcXdKcERHM3Z0M0VuZmZESEkzTGFmaWJlQWF3a3pxbnREUlRnRTdLaTNRbnNLMU5MTXp3RkM3Wkg4MVBiUG1TdUhnOC1iWnl1WS1yTE1HVU1CcjB4QWFaNnhkVXNOVktHNl83OXJjel9waEJBRXF5N1gtVi0xX3d1WmJiSWZCUXRKdmNIMzFwMmR1WmM?oc=5",
+      "source": "TGRT Haber Greece Watch",
+      "published": "Wed, 30 Sep 2026 07:28:15 GMT",
+      "base_score": 84,
+      "candidate_score": 99,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Ege",
+        "ada",
+        "adalar"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "9764bca842ea86c0364e6312",
@@ -531,9 +571,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "6c5a947fa0d8881c4f0eb537",
+      "external_id": "56f9d97869bd88a92ad83f66",
       "mode": "geopolitico",
-      "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - trtworld.com",
+      "title": "How Greece and Greek-administered Southern Cyprus risk their sovereignty by aligning with Israel - TRT World",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ZDVScGllN0RXRUdXZVVDRUJBRnUtdXBheFJoYlF1ZlpLejhMU1JfUGhWbjJWWXMxcGZCYUlXQ20yMGx4Z1d1M3cxRGhQck9Lb3lGQU05dkM?oc=5",
       "source": "Greece Israel Strategic Watch",
       "published": "Tue, 29 Sep 2026 12:55:12 GMT",
@@ -596,39 +636,6 @@
         "Abdulkadir Selvi"
       ],
       "content_type": "analyst"
-    },
-    {
-      "external_id": "f2fb6ce7162c4d1a4fcf186f",
-      "mode": "geopolitico",
-      "title": "AKPM’den Yunanistan Raporu - Kıbrıs Türk Haber",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMbnViYWVLSmlEQ2dUcGZRRDExZTN0VXNWaVBwLVBFZWcxaG02QVY1V3dfZnprbVA5Zy1mcWFaOGlvNVJNZU8xQU8tUXBVbU5KVHZGTWwyb044NHVDc28xT1hB?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 30 Sep 2026 06:32:00 GMT",
-      "base_score": 69,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "602799459441ab212738fee3",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz’de Yeni Hat: GSI Güzergahında Değişiklik Kararı - bolgegundemi.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZEZiVDRnOUNEUVc5Q19VRTI3NEdDVTBDdGRUc3JXM3pzY05IdUdtSzBFS19CUzNBWHZ6dm5wM0s4LXlFenJFQ3Q1YjZhTl8taGNlV0REcnlFWEcxV2ZqOU44RnRXQlo5MHhJbVZiRWkwa0Z3eHhYNWlFTExwa3lWYm8zTWRTb2NTUUdKZ1VBRURzS0lQUFQzWmdaaWQ4UEZmaG5yLXJ6NGU?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Tue, 29 Sep 2026 10:17:17 GMT",
-      "base_score": 81,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "GSI",
-        "Doğu Akdeniz",
-        "GSI"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "52af9abb43325c92fd0fc669",
@@ -701,6 +708,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "99723d9aa91287b22a4edc17",
+      "mode": "pontos_voice",
+      "title": "Avrupa Şampiyonu bayan millî boksörleri kabul etti",
+      "url": "https://www.61saat.com/avrupa-sampiyonu-bayan-milli-boksorleri-kabul-etti",
+      "source": "61Saat Trabzon",
+      "published": "Wed, 30 Sep 2026 10:39:00 +0300",
+      "base_score": 51,
+      "candidate_score": 66,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Sürmene",
+        "Trabzon",
+        "vali"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "d84a06ab362fa8b5a5ee083b",
       "mode": "pontos_voice",
       "title": "Trabzon YENİ Parti hedef büyüttü! 1 milletvekili 3’e mi çıkacak? - Haber61",
@@ -713,23 +738,6 @@
       "matched_keywords": [
         "Trabzon",
         "milletvekili",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "ce80fbb72d29534f25d07cdc",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da belediye başkanından eylem çağrısı \"Başka ilçelere gitmek zorunda kalacağız\" - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUpqSVFJRWFUWnE4WXF6S1RGcXR4MVVCWWg1Tl9KQUp6M0RoWVc1WlMxbWNRdXpEQUN6NHltUGIteVhaTTc2N2ZxdzNtX1gyX2NZNFF0OUdIcXVkSWFQX293Tzk0NmQxSlRMS056c3BGRjFhT1EzTk5WWFAyRjFGTF82M21wNkpoMnhUX051emM1ZDZaSHIyOGJVZlU3STZTVVFIakFXZFZ5dDBWejZfaWdNbjl2a2Y5N0dYSWliLTdzUQ?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Wed, 30 Sep 2026 05:37:12 GMT",
-      "base_score": 42,
-      "candidate_score": 57,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "belediye başkanı",
         "Trabzon"
       ],
       "content_type": "news"
