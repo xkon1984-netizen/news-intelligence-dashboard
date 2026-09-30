@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T17:25:46.541984+00:00",
+  "generated_at": "2026-09-30T17:52:58.983456+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -29,9 +29,9 @@
         "needs_second_source": false
       },
       {
-        "external_id": "2b6e046661835fad6ff3dbf5",
+        "external_id": "0e6962ff70a73ae1f0f56022",
         "mode": "sportdog",
-        "title": "Olympiacos Monitors Chivas Defender Diego Campillo for Potential Transfer - Readers.id",
+        "title": "Olympiacos Monitors Chivas Defender Diego Campillo for Potential Transfer - readers.id",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFNhZHE4b18zdWdLenNLYnVZMTBrQTJEV1o2cGdMN2hqRzJiMmlZU3RId2tOOW0zalROeFBzUnBjN1JHODNkaFVDU1REc2dNeEJfZTdVa3J5U2hZUjI5Q2VpUmU1VnI3QURxRUFkR3p5SWxKamp3SGpvUUw4RENlRDdB?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Wed, 30 Sep 2026 04:04:12 GMT",
@@ -110,23 +110,42 @@
         "needs_second_source": true
       },
       {
-        "external_id": "9255ac8ac6cfa7f9bb37c506",
+        "external_id": "67567d6de2c683a3e73bed07",
         "mode": "sportdog",
-        "title": "Myjava W v PAOK W LIVE 30/09/2026 | Football - Flashscore.com",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhU0RoNGs3c1hOUEdQM3l2OE1BWElOY2RFZ1Jma2NGZ1NzT2RTWDZ4aFg5d0Z6cDJrWGJGRGYzNlJHdEhUOUE5c3hTcTBKempzd2g0YU02STRoMUtCMXFFT0ZkcUhPTDZkdHFTbWc3V2FsU0dmVkEydWZ2LWs?oc=5",
+        "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Wed, 30 Sep 2026 16:07:38 GMT",
+        "base_score": 50,
+        "candidate_score": 73,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "214bec1d6dbb426557bed7ae",
+        "mode": "sportdog",
+        "title": "PAOK - Manresa - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZmSTkzVTZDV043RUVDQU12WHJhSFIya0dKUWV3LU5iazZQbWV2UG02OURMaE9hNE1uWS1nTU1ac21VX1JsQXozeUxseTFUeEhTcHd2UDNQa3FqTV9sa01VeTRhbXBHZUdWS3FEaUVOOG8tbUt4ZE9RZC1ySkoteQ?oc=5",
         "source": "PAOK Rumour Watch",
-        "published": "Wed, 30 Sep 2026 14:43:07 GMT",
-        "base_score": 41,
-        "candidate_score": 64,
+        "published": "Wed, 30 Sep 2026 17:45:23 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
-          "PAOK",
-          "football"
+          "PAOK"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -151,6 +170,23 @@
     ],
     "geopolitico": [
       {
+        "external_id": "617050b2b3c2a34df6b3896f",
+        "mode": "geopolitico",
+        "title": "Yunanistan’da Oruç Reis alarmı: Savaş gemileri eşliğinde Kıbrıs’a geliyor - Yeni Birlik",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGktQjdUREd4c2tiSVU4Q29VdTVJYVdaV3dzZ2FCZ2I4NHl6VVdSTzR4NUJvTVQ4NkFYYkx2UElIN2d5OTBsU0lBNl9VaEVKLWpjTjRGTHNybmhzSmNzYU5iY2s0WnM2Z3JvRHNUZ2FTYmRSSFFuM1lxNzBBTHIyeGxrTTZzM1FDSk5NaFNHNTBVcEY1Wmt0Q2ZNQ1g2akxfUUN2Z0NkekZIQ3RwZXcybW1wOA?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 30 Sep 2026 15:33:14 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "1649a8e1e9a2912c7010c1e9",
         "mode": "geopolitico",
         "title": "Pakistan Air Force Deploys China's LD-2000 CIWS to Shield Airbases From Indian Drone and Cruise Missile Swarms - Defence Security Asia",
@@ -171,9 +207,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "a2c590484f625e91988f331b",
+        "external_id": "713b3a03b78e115fd3483624",
         "mode": "geopolitico",
-        "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - nordicmonitor.com",
+        "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - Nordic Monitor",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM3lJa3hpUzZPbzBaQTlBLURQbmRObHdkdERsWjlpN2JOUjBTT0gzTTRhc0FTSjA5SldGRzQtQ2VuR3c0ZU91ZW5iNG1hd1J2a2RSOVRLUmp3SGJBMXpnVmhSNjhTNFVfdGNoc1JqcFpsT1JhTDJDOGtrd0cyUnh5bWg0U0l5UXJQTFlYanEtaFMwanowNkNINFU0aG1wZU9EMHBLVVV5cFp5V2FXajB1dGh2bVdDYUpUMjN2SVYzVkpIeWxDX24xTEJvRQ?oc=5",
         "source": "Nordic Monitor",
         "published": "Tue, 29 Sep 2026 22:01:02 GMT",
@@ -220,24 +256,6 @@
         "matched_keywords": [
           "Yunanistan",
           "Kıbrıs",
-          "ada",
-          "adalar"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "3d9dc2ea829689acc612b67b",
-        "mode": "geopolitico",
-        "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - TGRT Haber",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC05OUVYV1l5V2k3bnktZzg5Q2VDTDV5cDRXYU1LVklFeFF2MGpQYWVoUFAwdF9HcXdKcERHM3Z0M0VuZmZESEkzTGFmaWJlQWF3a3pxbnREUlRnRTdLaTNRbnNLMU5MTXp3RkM3Wkg4MVBiUG1TdUhnOC1iWnl1WS1yTE1HVU1CcjB4QWFaNnhkVXNOVktHNl83OXJjel9waEJBRXF5N1gtVi0xX3d1WmJiSWZCUXRKdmNIMzFwMmR1WmM?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 30 Sep 2026 07:28:15 GMT",
-        "base_score": 91,
-        "candidate_score": 97,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Ege",
           "ada",
           "adalar"
         ],
@@ -426,9 +444,9 @@
       "needs_second_source": false
     },
     {
-      "external_id": "2b6e046661835fad6ff3dbf5",
+      "external_id": "0e6962ff70a73ae1f0f56022",
       "mode": "sportdog",
-      "title": "Olympiacos Monitors Chivas Defender Diego Campillo for Potential Transfer - Readers.id",
+      "title": "Olympiacos Monitors Chivas Defender Diego Campillo for Potential Transfer - readers.id",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFNhZHE4b18zdWdLenNLYnVZMTBrQTJEV1o2cGdMN2hqRzJiMmlZU3RId2tOOW0zalROeFBzUnBjN1JHODNkaFVDU1REc2dNeEJfZTdVa3J5U2hZUjI5Q2VpUmU1VnI3QURxRUFkR3p5SWxKamp3SGpvUUw4RENlRDdB?oc=5",
       "source": "Olympiacos Rumour Watch",
       "published": "Wed, 30 Sep 2026 04:04:12 GMT",
@@ -507,23 +525,42 @@
       "needs_second_source": true
     },
     {
-      "external_id": "9255ac8ac6cfa7f9bb37c506",
+      "external_id": "67567d6de2c683a3e73bed07",
       "mode": "sportdog",
-      "title": "Myjava W v PAOK W LIVE 30/09/2026 | Football - Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhU0RoNGs3c1hOUEdQM3l2OE1BWElOY2RFZ1Jma2NGZ1NzT2RTWDZ4aFg5d0Z6cDJrWGJGRGYzNlJHdEhUOUE5c3hTcTBKempzd2g0YU02STRoMUtCMXFFT0ZkcUhPTDZkdHFTbWc3V2FsU0dmVkEydWZ2LWs?oc=5",
+      "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Wed, 30 Sep 2026 16:07:38 GMT",
+      "base_score": 50,
+      "candidate_score": 73,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "214bec1d6dbb426557bed7ae",
+      "mode": "sportdog",
+      "title": "PAOK - Manresa - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZmSTkzVTZDV043RUVDQU12WHJhSFIya0dKUWV3LU5iazZQbWV2UG02OURMaE9hNE1uWS1nTU1ac21VX1JsQXozeUxseTFUeEhTcHd2UDNQa3FqTV9sa01VeTRhbXBHZUdWS3FEaUVOOG8tbUt4ZE9RZC1ySkoteQ?oc=5",
       "source": "PAOK Rumour Watch",
-      "published": "Wed, 30 Sep 2026 14:43:07 GMT",
-      "base_score": 41,
-      "candidate_score": 64,
+      "published": "Wed, 30 Sep 2026 17:45:23 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
-        "PAOK",
-        "football"
+        "PAOK"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -546,6 +583,23 @@
       "needs_second_source": true
     },
     {
+      "external_id": "617050b2b3c2a34df6b3896f",
+      "mode": "geopolitico",
+      "title": "Yunanistan’da Oruç Reis alarmı: Savaş gemileri eşliğinde Kıbrıs’a geliyor - Yeni Birlik",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGktQjdUREd4c2tiSVU4Q29VdTVJYVdaV3dzZ2FCZ2I4NHl6VVdSTzR4NUJvTVQ4NkFYYkx2UElIN2d5OTBsU0lBNl9VaEVKLWpjTjRGTHNybmhzSmNzYU5iY2s0WnM2Z3JvRHNUZ2FTYmRSSFFuM1lxNzBBTHIyeGxrTTZzM1FDSk5NaFNHNTBVcEY1Wmt0Q2ZNQ1g2akxfUUN2Z0NkekZIQ3RwZXcybW1wOA?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 30 Sep 2026 15:33:14 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kıbrıs",
+        "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "1649a8e1e9a2912c7010c1e9",
       "mode": "geopolitico",
       "title": "Pakistan Air Force Deploys China's LD-2000 CIWS to Shield Airbases From Indian Drone and Cruise Missile Swarms - Defence Security Asia",
@@ -566,9 +620,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "a2c590484f625e91988f331b",
+      "external_id": "713b3a03b78e115fd3483624",
       "mode": "geopolitico",
-      "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - nordicmonitor.com",
+      "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - Nordic Monitor",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM3lJa3hpUzZPbzBaQTlBLURQbmRObHdkdERsWjlpN2JOUjBTT0gzTTRhc0FTSjA5SldGRzQtQ2VuR3c0ZU91ZW5iNG1hd1J2a2RSOVRLUmp3SGJBMXpnVmhSNjhTNFVfdGNoc1JqcFpsT1JhTDJDOGtrd0cyUnh5bWg0U0l5UXJQTFlYanEtaFMwanowNkNINFU0aG1wZU9EMHBLVVV5cFp5V2FXajB1dGh2bVdDYUpUMjN2SVYzVkpIeWxDX24xTEJvRQ?oc=5",
       "source": "Nordic Monitor",
       "published": "Tue, 29 Sep 2026 22:01:02 GMT",
@@ -615,24 +669,6 @@
       "matched_keywords": [
         "Yunanistan",
         "Kıbrıs",
-        "ada",
-        "adalar"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "3d9dc2ea829689acc612b67b",
-      "mode": "geopolitico",
-      "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - TGRT Haber",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC05OUVYV1l5V2k3bnktZzg5Q2VDTDV5cDRXYU1LVklFeFF2MGpQYWVoUFAwdF9HcXdKcERHM3Z0M0VuZmZESEkzTGFmaWJlQWF3a3pxbnREUlRnRTdLaTNRbnNLMU5MTXp3RkM3Wkg4MVBiUG1TdUhnOC1iWnl1WS1yTE1HVU1CcjB4QWFaNnhkVXNOVktHNl83OXJjel9waEJBRXF5N1gtVi0xX3d1WmJiSWZCUXRKdmNIMzFwMmR1WmM?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 30 Sep 2026 07:28:15 GMT",
-      "base_score": 91,
-      "candidate_score": 97,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Ege",
         "ada",
         "adalar"
       ],
