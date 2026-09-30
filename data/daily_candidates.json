@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T21:03:19.862862+00:00",
+  "generated_at": "2026-09-30T21:25:25.563556+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 29 Sep 2026 15:10:00 GMT",
         "base_score": 94,
-        "candidate_score": 117,
+        "candidate_score": 114,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -128,6 +128,25 @@
         "editorial_type": "Match / Analysis",
         "team": "AEK",
         "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "386ff7ae620147edb220e356",
+        "mode": "sportdog",
+        "title": "Panathinaikos collect their 10th consecutive victory over ASVEL after big win - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2xESmtpWWpKWk1vQm84Smtlak40aHhPbjlGTW90UGNIOGZBb2ktUC0xR2V5NGo2YUJlc1lsdnkxcmdwM3lOMUZBdW9WamlnMUxpVDNRd05CSjlKMHNDNjBtOHZUUjYxTmo0MzNjRXdtVGNpQi1CWG0ydmVSNS1mN0FtT1psdE4ya0J1ZVJidlNmOXdSQ3hobm1Rd0E0dG1aRTdORTZ3eVVyT1dMZzI0em5LZzAySXRM?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 30 Sep 2026 20:58:00 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -315,21 +334,20 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "e77466561c1e846c1ce6c68c",
+        "external_id": "1d0af51ff170b95af8a7a71a",
         "mode": "geopolitico",
-        "title": "Pakistan: 507 enforced disappearances, 150 killings in Balochistan in first six months of 2026 - FM Bharat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDFQbEZuWU50OHRDVTA2RlRyWU9vM0xxTW01aGJJbWhiUVJtcWZLT3ZWYXFlNUptOWc3NndDZndGSE40NFo3cFRsY1RMR2toM2pEMmZKUFpERGFwX3htbU1VM1pLZ254RFdNNV9YcExwM2pnd1R0VXdIaW95X3lITXJyT24xNHhkYmd4czJwTUUyZzVyRC14UnQwcVhGc0o5S282Ml9kT19mVzBSSVVIOGNJSFhmME00MzJqejhsb2Y0TU4t?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Wed, 30 Sep 2026 15:20:23 GMT",
-        "base_score": 72,
-        "candidate_score": 82,
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Wed, 30 Sep 2026 10:50:06 GMT",
+        "base_score": 75,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
-          "Bharat",
-          "Pakistan",
-          "Balochistan"
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
         ],
-        "content_type": "news"
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -410,7 +428,7 @@
         "source": "61Saat Trabzon",
         "published": "Wed, 30 Sep 2026 21:20:00 +0300",
         "base_score": 74,
-        "candidate_score": 89,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
@@ -449,7 +467,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 29 Sep 2026 15:10:00 GMT",
       "base_score": 94,
-      "candidate_score": 117,
+      "candidate_score": 114,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -562,6 +580,25 @@
       "editorial_type": "Match / Analysis",
       "team": "AEK",
       "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "386ff7ae620147edb220e356",
+      "mode": "sportdog",
+      "title": "Panathinaikos collect their 10th consecutive victory over ASVEL after big win - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2xESmtpWWpKWk1vQm84Smtlak40aHhPbjlGTW90UGNIOGZBb2ktUC0xR2V5NGo2YUJlc1lsdnkxcmdwM3lOMUZBdW9WamlnMUxpVDNRd05CSjlKMHNDNjBtOHZUUjYxTmo0MzNjRXdtVGNpQi1CWG0ydmVSNS1mN0FtT1psdE4ya0J1ZVJidlNmOXdSQ3hobm1Rd0E0dG1aRTdORTZ3eVVyT1dMZzI0em5LZzAySXRM?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 30 Sep 2026 20:58:00 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -747,21 +784,20 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "e77466561c1e846c1ce6c68c",
+      "external_id": "1d0af51ff170b95af8a7a71a",
       "mode": "geopolitico",
-      "title": "Pakistan: 507 enforced disappearances, 150 killings in Balochistan in first six months of 2026 - FM Bharat",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDFQbEZuWU50OHRDVTA2RlRyWU9vM0xxTW01aGJJbWhiUVJtcWZLT3ZWYXFlNUptOWc3NndDZndGSE40NFo3cFRsY1RMR2toM2pEMmZKUFpERGFwX3htbU1VM1pLZ254RFdNNV9YcExwM2pnd1R0VXdIaW95X3lITXJyT24xNHhkYmd4czJwTUUyZzVyRC14UnQwcVhGc0o5S282Ml9kT19mVzBSSVVIOGNJSFhmME00MzJqejhsb2Y0TU4t?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Wed, 30 Sep 2026 15:20:23 GMT",
-      "base_score": 72,
-      "candidate_score": 82,
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Wed, 30 Sep 2026 10:50:06 GMT",
+      "base_score": 75,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
-        "Bharat",
-        "Pakistan",
-        "Balochistan"
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
       ],
-      "content_type": "news"
+      "content_type": "analyst"
     },
     {
       "external_id": "dd6f10f20908267ded082c77",
@@ -840,7 +876,7 @@
       "source": "61Saat Trabzon",
       "published": "Wed, 30 Sep 2026 21:20:00 +0300",
       "base_score": 74,
-      "candidate_score": 89,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
