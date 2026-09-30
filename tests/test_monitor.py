@@ -62,6 +62,29 @@ class MonitorRegressionTests(unittest.TestCase):
         self.assertGreaterEqual(score, 70)
         self.assertIn("Yunanistan", hits)
 
+    def test_cnn_turk_gsi_case_passes_from_title_and_snippet(self):
+        title = "Türkiye korkusu geri adım mı attırdı? Elektrik hattı neden krize dönüştü?"
+        snippet = "Güney Kıbrıs ile Yunanistan arasındaki Great Sea Interconnector projesinde Fransa, Nexans ve Meridiam gündemde. Ankara kıta sahanlığı iddiasını sürdürüyor."
+        required_any = ["Yunanistan", "Atina", "Güney Kıbrıs", "Doğu Akdeniz", "kıta sahanlığı", "elektrik hattı", "elektrik bağlantısı", "kablo", "Great Sea Interconnector", "GSI", "Nexans", "Meridiam", "Fransa", "araştırma gemisi", "NAVTEX"]
+        text = f"{title} {snippet}"
+        self.assertTrue(any(collector.keyword_matches(text, kw) for kw in required_any))
+
+        rules = {
+            "high": {
+                "Yunanistan": 30, "Güney Kıbrıs": 30, "kıta sahanlığı": 30,
+                "elektrik hattı": 25, "Nexans": 20, "Meridiam": 20,
+            },
+            "medium": {
+                "Fransa": 10, "kriz": 15, "Great Sea Interconnector": 20,
+                "GSI": 15, "kablo": 10, "elektrik bağlantısı": 12,
+            },
+        }
+        score, hits = collector.score_text(text, rules)
+        weighted = min(100, round(score * 1.10))
+        self.assertGreaterEqual(weighted, 35)
+        self.assertIn("elektrik hattı", hits)
+        self.assertIn("Yunanistan", hits)
+
     def test_acronym_boundary_still_prevents_false_positive(self):
         self.assertFalse(collector.keyword_matches("crocodilettpstory", "TTP"))
         self.assertTrue(collector.keyword_matches("TTP saldırısı", "TTP"))
