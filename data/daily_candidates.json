@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T19:50:11.860653+00:00",
+  "generated_at": "2026-09-30T20:02:46.615554+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -167,6 +167,25 @@
         "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
+      },
+      {
+        "external_id": "5a6278dde4d38c9e3a4822b2",
+        "mode": "sportdog",
+        "title": "Panathinaikos Asteras Tripolis 18 October 2026 Live Score and Match Summary - Yeni Şafak English",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0FoQU9jVTNJYmppU1hGVk51R2diWFhzWmNzR01CaTg2ekdEUXU3cTlxLVBPOXpFcDZQVFpEYUIxTl8zX3dULWFIOU9hS2plMlVSaDQ5TFRyVXZZcEhKeEgzWnE5cTg5LVJlNkxSX1F6VVk4VEJoalVTOHZ4R0F6STVHa2ladEtLYzNPSDdQZjdYbGZT?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 30 Sep 2026 02:41:34 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -207,6 +226,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "925594f48496858faf76bd68",
+        "mode": "geopolitico",
+        "title": "Dendias 1 Ekim törenleri için Kıbrıs’a geliyor - bugunkibris.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZdEZaQVZFNGViVzBkV29pV09EVm5nQjFWdkhTcWJPb2tnYUpnUHlfNW0xbHZEWW1ieHVhbkdBS0RZem5tb3ZoOHE0dzZicEJyR1B0UGF2MmVJNGYwNFFySE1IZUw3MklYeDFBZU41MUExdGNOU2xVWWRB?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Wed, 30 Sep 2026 05:24:52 GMT",
+        "base_score": 94,
+        "candidate_score": 100,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Kibris",
+          "Dendias",
+          "Kıbrıs"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "4a5904b8962c474ea5f7bf41",
         "mode": "geopolitico",
         "title": "Ege'de işler kızışıyor: Yunanistan, İsrail yapımı füzeleri adalara konuşlandırdı! - Türkinform",
@@ -243,9 +279,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "86127915e8220450e2bcd8f0",
+        "external_id": "366dae162f513f36844e8be8",
         "mode": "geopolitico",
-        "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - star.com.tr",
+        "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - STAR - Haberler",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0dYN2xwMFY5NGd4dnFkZEJ1cVMxcGFWbTBMcUJGNkNYWVpuU0JqMW91eUJoV0ZqbEt1a0dvUThDWURZY2UwTE11ZFZFblhxSVNYV0Jyd3RUSFNBWVF3TlNpUVBndEJ4NXRYOWF2WmQ2X3FCbVVfVzBWaTNmQ1FGWEFwTlVKZy1fbTNwRVVHVzA0MElBaHNRWDdvNk92VkR3TUZQUGZ0azRTNWdMWGsyeEVPOUI0N3pUa3l6ektQd2JvdTFtVy1QdlMwbGc4YWR1N25NQXg2SmJPWHQy0gHjAUFVX3lxTE5GVmhUNW9ma1RjUzVUdzZacGN5MkFsa0FrQ0xQdXBRTVFUTUl1dTI5LWF3THZaOUVBTmJUVHUySVdCVU02TGlXbXp1T25Bd0VJc1JnS3JSd2I4NEdhdXB6VV9HUm9qemo5QkN1enduUVFxVFh1eGpkSmx3bkNFN2M5VEdEQnNQSk41dzJOZkJybU93d3laeDRkNFYtVFQtZ0lUcXRmLUdxZmtyUlVrZFB1TEpWM2lLb0FDS0tMbjZYTnlaRk1OeVdvWnppOTdURHVSaEtzZC1PUGRqQ24yWFYyUHdj?oc=5",
         "source": "Turkish Greek Defence Watch",
         "published": "Wed, 30 Sep 2026 06:30:00 GMT",
@@ -279,36 +315,21 @@
         "content_type": "news"
       },
       {
-        "external_id": "1d0af51ff170b95af8a7a71a",
+        "external_id": "85c0875c7786fa1c1da02691",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Wed, 30 Sep 2026 10:50:06 GMT",
-        "base_score": 75,
-        "candidate_score": 81,
+        "title": "Güney Kıbrıs’ta ABD, İngiltere, Fransa ve Mısır askerleri törende yürüyecek! - Haber Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUphX1dBZkp0V1l1R0cwVjVMNzBFOVlja1g4ZHhpZ0Q2WnVQY0IteldMUDY4WjdaOUp2MllXVW1aamZ6MmZ1Zlg1dFE2ZUF5X09ieGdHcmI3cDZjc01RNkd2WGJHcmlRWjRDSTlKZjVCNGxLbGhkc2FSUHA3aTUzWlBWeXZkZlI2dy1kWTlmelpWcFdEdm1DaFV2ckdjcGJNRDFvR1kwOWY2bnEwUGVtcUZicmphWlJF?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Wed, 30 Sep 2026 11:25:40 GMT",
+        "base_score": 78,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "Fransa"
         ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "588d7781acbc708868280e47",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Michael Rubin — Michael Rubin Obituary - The Press Democrat",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wbmdyazBSNkU1Ty13c0Facjh5Z1psWWhOT3VZTFZJSWFwMmNWRERHZlVFbTN2Vld5dlFPOFJRNUVWY3RxYWY4Sl9FV0lxQ2pyRk5oeW9JaUttSEFsQ1NGMzZ1OXNwdTNKVHFwU0JZQnQ4U09JQ2c?oc=5",
-        "source": "Analysts Watch · United States",
-        "published": "Wed, 30 Sep 2026 03:47:20 GMT",
-        "base_score": 75,
-        "candidate_score": 81,
-        "priority": "High",
-        "matched_keywords": [
-          "Michael Rubin",
-          "Michael Rubin"
-        ],
-        "content_type": "analyst"
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -355,8 +376,8 @@
         "source": "Greek Press Pontic Watch",
         "published": "Tue, 29 Sep 2026 13:55:32 GMT",
         "base_score": 92,
-        "candidate_score": 95,
-        "priority": "URGENT",
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "Pontos",
           "Πόντος",
@@ -401,21 +422,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "5b7eed0adda98ecfabf48f84",
+        "external_id": "26c0d4bdf68ca86dbc72f40c",
         "mode": "pontos_voice",
-        "title": "Trabzonspor taraftarlarından Doğan'a destek! \"Eminiz\"",
-        "url": "https://www.61saat.com/trabzonspor-taraftarlarindan-dogana-destek-eminiz",
+        "title": "Trabzon'da istinaf kararını verdi! Belediyede yeniden seçim",
+        "url": "https://www.61saat.com/trabzonda-istinaf-kararini-verdi-belediyede-yeniden-secim",
         "source": "61Saat Trabzon",
-        "published": "Wed, 30 Sep 2026 20:00:00 +0300",
-        "base_score": 56,
-        "candidate_score": 71,
-        "priority": "High",
+        "published": "Wed, 30 Sep 2026 22:53:00 +0300",
+        "base_score": 53,
+        "candidate_score": 68,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
-          "açıklama",
-          "Trabzon",
-          "dil"
+          "Giresun",
+          "belediye başkanı",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -584,6 +604,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "5a6278dde4d38c9e3a4822b2",
+      "mode": "sportdog",
+      "title": "Panathinaikos Asteras Tripolis 18 October 2026 Live Score and Match Summary - Yeni Şafak English",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0FoQU9jVTNJYmppU1hGVk51R2diWFhzWmNzR01CaTg2ekdEUXU3cTlxLVBPOXpFcDZQVFpEYUIxTl8zX3dULWFIOU9hS2plMlVSaDQ5TFRyVXZZcEhKeEgzWnE5cTg5LVJlNkxSX1F6VVk4VEJoalVTOHZ4R0F6STVHa2ladEtLYzNPSDdQZjdYbGZT?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 30 Sep 2026 02:41:34 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "617050b2b3c2a34df6b3896f",
       "mode": "geopolitico",
       "title": "Yunanistan’da Oruç Reis alarmı: Savaş gemileri eşliğinde Kıbrıs’a geliyor - Yeni Birlik",
@@ -618,6 +657,23 @@
         "air defense"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "925594f48496858faf76bd68",
+      "mode": "geopolitico",
+      "title": "Dendias 1 Ekim törenleri için Kıbrıs’a geliyor - bugunkibris.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZdEZaQVZFNGViVzBkV29pV09EVm5nQjFWdkhTcWJPb2tnYUpnUHlfNW0xbHZEWW1ieHVhbkdBS0RZem5tb3ZoOHE0dzZicEJyR1B0UGF2MmVJNGYwNFFySE1IZUw3MklYeDFBZU41MUExdGNOU2xVWWRB?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Wed, 30 Sep 2026 05:24:52 GMT",
+      "base_score": 94,
+      "candidate_score": 100,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Kibris",
+        "Dendias",
+        "Kıbrıs"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "4a5904b8962c474ea5f7bf41",
@@ -656,9 +712,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "86127915e8220450e2bcd8f0",
+      "external_id": "366dae162f513f36844e8be8",
       "mode": "geopolitico",
-      "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - star.com.tr",
+      "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - STAR - Haberler",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0dYN2xwMFY5NGd4dnFkZEJ1cVMxcGFWbTBMcUJGNkNYWVpuU0JqMW91eUJoV0ZqbEt1a0dvUThDWURZY2UwTE11ZFZFblhxSVNYV0Jyd3RUSFNBWVF3TlNpUVBndEJ4NXRYOWF2WmQ2X3FCbVVfVzBWaTNmQ1FGWEFwTlVKZy1fbTNwRVVHVzA0MElBaHNRWDdvNk92VkR3TUZQUGZ0azRTNWdMWGsyeEVPOUI0N3pUa3l6ektQd2JvdTFtVy1QdlMwbGc4YWR1N25NQXg2SmJPWHQy0gHjAUFVX3lxTE5GVmhUNW9ma1RjUzVUdzZacGN5MkFsa0FrQ0xQdXBRTVFUTUl1dTI5LWF3THZaOUVBTmJUVHUySVdCVU02TGlXbXp1T25Bd0VJc1JnS3JSd2I4NEdhdXB6VV9HUm9qemo5QkN1enduUVFxVFh1eGpkSmx3bkNFN2M5VEdEQnNQSk41dzJOZkJybU93d3laeDRkNFYtVFQtZ0lUcXRmLUdxZmtyUlVrZFB1TEpWM2lLb0FDS0tMbjZYTnlaRk1OeVdvWnppOTdURHVSaEtzZC1PUGRqQ24yWFYyUHdj?oc=5",
       "source": "Turkish Greek Defence Watch",
       "published": "Wed, 30 Sep 2026 06:30:00 GMT",
@@ -692,36 +748,21 @@
       "content_type": "news"
     },
     {
-      "external_id": "1d0af51ff170b95af8a7a71a",
+      "external_id": "85c0875c7786fa1c1da02691",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Wed, 30 Sep 2026 10:50:06 GMT",
-      "base_score": 75,
-      "candidate_score": 81,
+      "title": "Güney Kıbrıs’ta ABD, İngiltere, Fransa ve Mısır askerleri törende yürüyecek! - Haber Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUphX1dBZkp0V1l1R0cwVjVMNzBFOVlja1g4ZHhpZ0Q2WnVQY0IteldMUDY4WjdaOUp2MllXVW1aamZ6MmZ1Zlg1dFE2ZUF5X09ieGdHcmI3cDZjc01RNkd2WGJHcmlRWjRDSTlKZjVCNGxLbGhkc2FSUHA3aTUzWlBWeXZkZlI2dy1kWTlmelpWcFdEdm1DaFV2ckdjcGJNRDFvR1kwOWY2bnEwUGVtcUZicmphWlJF?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Wed, 30 Sep 2026 11:25:40 GMT",
+      "base_score": 78,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "Fransa"
       ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "588d7781acbc708868280e47",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Michael Rubin — Michael Rubin Obituary - The Press Democrat",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wbmdyazBSNkU1Ty13c0Facjh5Z1psWWhOT3VZTFZJSWFwMmNWRERHZlVFbTN2Vld5dlFPOFJRNUVWY3RxYWY4Sl9FV0lxQ2pyRk5oeW9JaUttSEFsQ1NGMzZ1OXNwdTNKVHFwU0JZQnQ4U09JQ2c?oc=5",
-      "source": "Analysts Watch · United States",
-      "published": "Wed, 30 Sep 2026 03:47:20 GMT",
-      "base_score": 75,
-      "candidate_score": 81,
-      "priority": "High",
-      "matched_keywords": [
-        "Michael Rubin",
-        "Michael Rubin"
-      ],
-      "content_type": "analyst"
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "52af9abb43325c92fd0fc669",
@@ -766,8 +807,8 @@
       "source": "Greek Press Pontic Watch",
       "published": "Tue, 29 Sep 2026 13:55:32 GMT",
       "base_score": 92,
-      "candidate_score": 95,
-      "priority": "URGENT",
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "Pontos",
         "Πόντος",
@@ -812,21 +853,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "5b7eed0adda98ecfabf48f84",
+      "external_id": "26c0d4bdf68ca86dbc72f40c",
       "mode": "pontos_voice",
-      "title": "Trabzonspor taraftarlarından Doğan'a destek! \"Eminiz\"",
-      "url": "https://www.61saat.com/trabzonspor-taraftarlarindan-dogana-destek-eminiz",
+      "title": "Trabzon'da istinaf kararını verdi! Belediyede yeniden seçim",
+      "url": "https://www.61saat.com/trabzonda-istinaf-kararini-verdi-belediyede-yeniden-secim",
       "source": "61Saat Trabzon",
-      "published": "Wed, 30 Sep 2026 20:00:00 +0300",
-      "base_score": 56,
-      "candidate_score": 71,
-      "priority": "High",
+      "published": "Wed, 30 Sep 2026 22:53:00 +0300",
+      "base_score": 53,
+      "candidate_score": 68,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
-        "açıklama",
-        "Trabzon",
-        "dil"
+        "Giresun",
+        "belediye başkanı",
+        "Trabzon"
       ],
       "content_type": "news"
     }
