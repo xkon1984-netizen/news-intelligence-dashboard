@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:02:46.615554+00:00",
+  "generated_at": "2026-09-30T20:25:38.505236+00:00",
   "counts": {
     "sportdog": 9,
     "geopolitico": 8,
@@ -131,6 +131,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "516e162f3b5b7ecf8343524b",
+        "mode": "sportdog",
+        "title": "EuroLeague Recap: Wilbekin turns back the clock, Mantzoukas erupts as Besiktas and Panathinaikos win - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbU9qeTNLd2RNd3F1a0xicXVUX1hNMHBUaDI4VzJzTDZ6TENOb1ZITkJWVTdtTEk3cjhiUllxQXl5MkNGYlp4cHNib015cWo4TjB1Ym10MXZYREVaNHEySjNUeWZYTTRkczhjeWpBRUJLU05MMjZXSEhXbkdFRXNLNHRTallqMXdJcHM1cXBHUVBRb0k5akM4?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 30 Sep 2026 20:18:18 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "214bec1d6dbb426557bed7ae",
         "mode": "sportdog",
         "title": "PAOK - Manresa - Flashscore.com",
@@ -165,25 +184,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "5a6278dde4d38c9e3a4822b2",
-        "mode": "sportdog",
-        "title": "Panathinaikos Asteras Tripolis 18 October 2026 Live Score and Match Summary - Yeni Şafak English",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0FoQU9jVTNJYmppU1hGVk51R2diWFhzWmNzR01CaTg2ekdEUXU3cTlxLVBPOXpFcDZQVFpEYUIxTl8zX3dULWFIOU9hS2plMlVSaDQ5TFRyVXZZcEhKeEgzWnE5cTg5LVJlNkxSX1F6VVk4VEJoalVTOHZ4R0F6STVHa2ladEtLYzNPSDdQZjdYbGZT?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 30 Sep 2026 02:41:34 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
@@ -226,23 +226,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "925594f48496858faf76bd68",
-        "mode": "geopolitico",
-        "title": "Dendias 1 Ekim törenleri için Kıbrıs’a geliyor - bugunkibris.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZdEZaQVZFNGViVzBkV29pV09EVm5nQjFWdkhTcWJPb2tnYUpnUHlfNW0xbHZEWW1ieHVhbkdBS0RZem5tb3ZoOHE0dzZicEJyR1B0UGF2MmVJNGYwNFFySE1IZUw3MklYeDFBZU41MUExdGNOU2xVWWRB?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Wed, 30 Sep 2026 05:24:52 GMT",
-        "base_score": 94,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Kibris",
-          "Dendias",
-          "Kıbrıs"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "4a5904b8962c474ea5f7bf41",
         "mode": "geopolitico",
         "title": "Ege'de işler kızışıyor: Yunanistan, İsrail yapımı füzeleri adalara konuşlandırdı! - Türkinform",
@@ -279,9 +262,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "366dae162f513f36844e8be8",
+        "external_id": "86127915e8220450e2bcd8f0",
         "mode": "geopolitico",
-        "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - STAR - Haberler",
+        "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - star.com.tr",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0dYN2xwMFY5NGd4dnFkZEJ1cVMxcGFWbTBMcUJGNkNYWVpuU0JqMW91eUJoV0ZqbEt1a0dvUThDWURZY2UwTE11ZFZFblhxSVNYV0Jyd3RUSFNBWVF3TlNpUVBndEJ4NXRYOWF2WmQ2X3FCbVVfVzBWaTNmQ1FGWEFwTlVKZy1fbTNwRVVHVzA0MElBaHNRWDdvNk92VkR3TUZQUGZ0azRTNWdMWGsyeEVPOUI0N3pUa3l6ektQd2JvdTFtVy1QdlMwbGc4YWR1N25NQXg2SmJPWHQy0gHjAUFVX3lxTE5GVmhUNW9ma1RjUzVUdzZacGN5MkFsa0FrQ0xQdXBRTVFUTUl1dTI5LWF3THZaOUVBTmJUVHUySVdCVU02TGlXbXp1T25Bd0VJc1JnS3JSd2I4NEdhdXB6VV9HUm9qemo5QkN1enduUVFxVFh1eGpkSmx3bkNFN2M5VEdEQnNQSk41dzJOZkJybU93d3laeDRkNFYtVFQtZ0lUcXRmLUdxZmtyUlVrZFB1TEpWM2lLb0FDS0tMbjZYTnlaRk1OeVdvWnppOTdURHVSaEtzZC1PUGRqQ24yWFYyUHdj?oc=5",
         "source": "Turkish Greek Defence Watch",
         "published": "Wed, 30 Sep 2026 06:30:00 GMT",
@@ -330,6 +313,22 @@
           "Fransa"
         ],
         "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "1d0af51ff170b95af8a7a71a",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Wed, 30 Sep 2026 10:50:06 GMT",
+        "base_score": 75,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -566,6 +565,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "516e162f3b5b7ecf8343524b",
+      "mode": "sportdog",
+      "title": "EuroLeague Recap: Wilbekin turns back the clock, Mantzoukas erupts as Besiktas and Panathinaikos win - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbU9qeTNLd2RNd3F1a0xicXVUX1hNMHBUaDI4VzJzTDZ6TENOb1ZITkJWVTdtTEk3cjhiUllxQXl5MkNGYlp4cHNib015cWo4TjB1Ym10MXZYREVaNHEySjNUeWZYTTRkczhjeWpBRUJLU05MMjZXSEhXbkdFRXNLNHRTallqMXdJcHM1cXBHUVBRb0k5akM4?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 30 Sep 2026 20:18:18 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "214bec1d6dbb426557bed7ae",
       "mode": "sportdog",
       "title": "PAOK - Manresa - Flashscore.com",
@@ -600,25 +618,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "5a6278dde4d38c9e3a4822b2",
-      "mode": "sportdog",
-      "title": "Panathinaikos Asteras Tripolis 18 October 2026 Live Score and Match Summary - Yeni Şafak English",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0FoQU9jVTNJYmppU1hGVk51R2diWFhzWmNzR01CaTg2ekdEUXU3cTlxLVBPOXpFcDZQVFpEYUIxTl8zX3dULWFIOU9hS2plMlVSaDQ5TFRyVXZZcEhKeEgzWnE5cTg5LVJlNkxSX1F6VVk4VEJoalVTOHZ4R0F6STVHa2ladEtLYzNPSDdQZjdYbGZT?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 30 Sep 2026 02:41:34 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -659,23 +658,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "925594f48496858faf76bd68",
-      "mode": "geopolitico",
-      "title": "Dendias 1 Ekim törenleri için Kıbrıs’a geliyor - bugunkibris.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZdEZaQVZFNGViVzBkV29pV09EVm5nQjFWdkhTcWJPb2tnYUpnUHlfNW0xbHZEWW1ieHVhbkdBS0RZem5tb3ZoOHE0dzZicEJyR1B0UGF2MmVJNGYwNFFySE1IZUw3MklYeDFBZU41MUExdGNOU2xVWWRB?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Wed, 30 Sep 2026 05:24:52 GMT",
-      "base_score": 94,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Kibris",
-        "Dendias",
-        "Kıbrıs"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "4a5904b8962c474ea5f7bf41",
       "mode": "geopolitico",
       "title": "Ege'de işler kızışıyor: Yunanistan, İsrail yapımı füzeleri adalara konuşlandırdı! - Türkinform",
@@ -712,9 +694,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "366dae162f513f36844e8be8",
+      "external_id": "86127915e8220450e2bcd8f0",
       "mode": "geopolitico",
-      "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - STAR - Haberler",
+      "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - star.com.tr",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0dYN2xwMFY5NGd4dnFkZEJ1cVMxcGFWbTBMcUJGNkNYWVpuU0JqMW91eUJoV0ZqbEt1a0dvUThDWURZY2UwTE11ZFZFblhxSVNYV0Jyd3RUSFNBWVF3TlNpUVBndEJ4NXRYOWF2WmQ2X3FCbVVfVzBWaTNmQ1FGWEFwTlVKZy1fbTNwRVVHVzA0MElBaHNRWDdvNk92VkR3TUZQUGZ0azRTNWdMWGsyeEVPOUI0N3pUa3l6ektQd2JvdTFtVy1QdlMwbGc4YWR1N25NQXg2SmJPWHQy0gHjAUFVX3lxTE5GVmhUNW9ma1RjUzVUdzZacGN5MkFsa0FrQ0xQdXBRTVFUTUl1dTI5LWF3THZaOUVBTmJUVHUySVdCVU02TGlXbXp1T25Bd0VJc1JnS3JSd2I4NEdhdXB6VV9HUm9qemo5QkN1enduUVFxVFh1eGpkSmx3bkNFN2M5VEdEQnNQSk41dzJOZkJybU93d3laeDRkNFYtVFQtZ0lUcXRmLUdxZmtyUlVrZFB1TEpWM2lLb0FDS0tMbjZYTnlaRk1OeVdvWnppOTdURHVSaEtzZC1PUGRqQ24yWFYyUHdj?oc=5",
       "source": "Turkish Greek Defence Watch",
       "published": "Wed, 30 Sep 2026 06:30:00 GMT",
@@ -763,6 +745,22 @@
         "Fransa"
       ],
       "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "1d0af51ff170b95af8a7a71a",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Wed, 30 Sep 2026 10:50:06 GMT",
+      "base_score": 75,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
     },
     {
       "external_id": "52af9abb43325c92fd0fc669",
