@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T22:26:06.322934+00:00",
+  "generated_at": "2026-09-30T22:51:33.798079+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -36,7 +36,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Wed, 30 Sep 2026 19:38:27 GMT",
         "base_score": 70,
-        "candidate_score": 93,
+        "candidate_score": 88,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -45,27 +45,6 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "2b6e046661835fad6ff3dbf5",
-        "mode": "sportdog",
-        "title": "Olympiacos Monitors Chivas Defender Diego Campillo for Potential Transfer - Readers.id",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFNhZHE4b18zdWdLenNLYnVZMTBrQTJEV1o2cGdMN2hqRzJiMmlZU3RId2tOOW0zalROeFBzUnBjN1JHODNkaFVDU1REc2dNeEJfZTdVa3J5U2hZUjI5Q2VpUmU1VnI3QURxRUFkR3p5SWxKamp3SGpvUUw4RENlRDdB?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 30 Sep 2026 04:04:12 GMT",
-        "base_score": 64,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "transfer",
-          "defender"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
         "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
@@ -91,9 +70,29 @@
         "needs_second_source": true
       },
       {
-        "external_id": "bb584489dd34f5bb366d37d3",
+        "external_id": "2abbbb86efb762d0b88973e3",
         "mode": "sportdog",
-        "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
+        "title": "Real Betis Interested in Olympiacos Left-Back - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTdZMWdCMm1BVHNZWHJKOFZlMTJMQnFDOW9QZDl1NFdTWFMtOGJmckpiMHVxT2w1Mm1oZGVSM3g5MkoyeGIxUDZsdlo0VXNSSjFFMHdienRmR0g2TnhDa1Izb0s0X2F5MUZheGhhVER0WU1DWEtkU0E5T1A0d0Rfa2VESzVia2c5RkEtYmp1bV9wREN1ZUc4S3J1RTZQODZZMERCdw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Wed, 30 Sep 2026 15:31:39 GMT",
+        "base_score": 62,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "interested in"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "5d17a07ff14081e61d7839cb",
+        "mode": "sportdog",
+        "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - thesportingbase.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 30 Sep 2026 04:55:29 GMT",
@@ -165,6 +164,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "d22a1ce8fc1756038819f0c4",
+        "mode": "sportdog",
+        "title": "EuroLeague roundup: Panathinaikos dominates ASVEL, Beşiktaş claims first win in Belgrade - Eurohoops",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2JZNkJGdGo4djF5NVhlZDk4Mmp0SG54TWxJYTJFOVBwVTJkUGhuUV9FQ1lZV2N4TTd0eEp1TzVudFJTUlNKQTRER0dXa284amxsaTdyLUlnUTVRVzhPRUM3UktNazB6S2V1Z2lkVWFVSVVBUng1eDZYemQyazdRVlA1OTFmaERaT0hXNlpWaThhZGs?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 30 Sep 2026 20:38:24 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -281,6 +299,22 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "9fb1e3adff0d1e9d0301d46b",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Michael Rubin — Exclusive | Fanatics CEO Michael Rubin vows to 'spend whatever it takes' to fend off 'extortion' lawsuits - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMjVSQm1makwxZ0wzS1Y3TlJGdl9BS3Q2NzhVa1hsQkRMQm4zTWs3RmpLa0Q2M2tCRl8yZUk2cnZBUTBoU3dvQW5YRjZYdTQzeUMyamFlbVFETnMzSHZWQjlVaDhERnVTUXpxTUw5VDEtT0JaeEdtNzFRYlctdFg5dlIzaVIyNVNidHFJTFR5bG8yQmNTRWtEcXM3bkxINk1XbUVKWUIxdEc0VVhjbi10Z1pvLUdGaTNaNGVHWTdDRkNIVWpyVHc?oc=5",
+        "source": "Analysts Watch · United States",
+        "published": "Wed, 30 Sep 2026 22:23:00 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Michael Rubin",
+          "Michael Rubin"
+        ],
+        "content_type": "analyst"
+      },
+      {
         "external_id": "366dae162f513f36844e8be8",
         "mode": "geopolitico",
         "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - STAR - Haberler",
@@ -331,23 +365,6 @@
           "Abdulkadir Selvi"
         ],
         "content_type": "analyst"
-      },
-      {
-        "external_id": "17d6df15a5a9846af77aceab",
-        "mode": "geopolitico",
-        "title": "Κρίσιμη καμπή για GSI: Το μοντέλο όδευσης του Blue Raman και η Navtex - Sigmalive",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2w2TC12T1Q3aDBDQm9mWlNibjQ5djJwRmpuUnU3TlpBVHJieVlHNmVoa3JzbkxuWTZmMHgtektzMU94OXA1NDNKTUFMOWdFTXhlX0w3QWVLWU5hU1R4bzZRb29kYkVyM1pWODVrN2lpWXdUX0ExREZXREd6akcxVWhuNTdEc3NvMTdNaVlXRmZ3YUFMblQ3SWZJNm9YMG5SNHhmQnNDRWdxbE5uclB5T3NjdV95QQ?oc=5",
-        "source": "Dodecanese Security Migration Watch",
-        "published": "Tue, 29 Sep 2026 16:55:24 GMT",
-        "base_score": 78,
-        "candidate_score": 81,
-        "priority": "High",
-        "matched_keywords": [
-          "NAVTEX",
-          "GSI",
-          "GSI"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -488,7 +505,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Wed, 30 Sep 2026 19:38:27 GMT",
       "base_score": 70,
-      "candidate_score": 93,
+      "candidate_score": 88,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -497,27 +514,6 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "2b6e046661835fad6ff3dbf5",
-      "mode": "sportdog",
-      "title": "Olympiacos Monitors Chivas Defender Diego Campillo for Potential Transfer - Readers.id",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFNhZHE4b18zdWdLenNLYnVZMTBrQTJEV1o2cGdMN2hqRzJiMmlZU3RId2tOOW0zalROeFBzUnBjN1JHODNkaFVDU1REc2dNeEJfZTdVa3J5U2hZUjI5Q2VpUmU1VnI3QURxRUFkR3p5SWxKamp3SGpvUUw4RENlRDdB?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 30 Sep 2026 04:04:12 GMT",
-      "base_score": 64,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "transfer",
-        "defender"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
       "team": "Olympiacos",
       "readiness": "READY",
       "needs_second_source": false
@@ -543,9 +539,29 @@
       "needs_second_source": true
     },
     {
-      "external_id": "bb584489dd34f5bb366d37d3",
+      "external_id": "2abbbb86efb762d0b88973e3",
       "mode": "sportdog",
-      "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
+      "title": "Real Betis Interested in Olympiacos Left-Back - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTdZMWdCMm1BVHNZWHJKOFZlMTJMQnFDOW9QZDl1NFdTWFMtOGJmckpiMHVxT2w1Mm1oZGVSM3g5MkoyeGIxUDZsdlo0VXNSSjFFMHdienRmR0g2TnhDa1Izb0s0X2F5MUZheGhhVER0WU1DWEtkU0E5T1A0d0Rfa2VESzVia2c5RkEtYmp1bV9wREN1ZUc4S3J1RTZQODZZMERCdw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Wed, 30 Sep 2026 15:31:39 GMT",
+      "base_score": 62,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "interested in"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "5d17a07ff14081e61d7839cb",
+      "mode": "sportdog",
+      "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - thesportingbase.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 30 Sep 2026 04:55:29 GMT",
@@ -617,6 +633,25 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "d22a1ce8fc1756038819f0c4",
+      "mode": "sportdog",
+      "title": "EuroLeague roundup: Panathinaikos dominates ASVEL, Beşiktaş claims first win in Belgrade - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2JZNkJGdGo4djF5NVhlZDk4Mmp0SG54TWxJYTJFOVBwVTJkUGhuUV9FQ1lZV2N4TTd0eEp1TzVudFJTUlNKQTRER0dXa284amxsaTdyLUlnUTVRVzhPRUM3UktNazB6S2V1Z2lkVWFVSVVBUng1eDZYemQyazdRVlA1OTFmaERaT0hXNlpWaThhZGs?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 30 Sep 2026 20:38:24 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -731,6 +766,22 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "9fb1e3adff0d1e9d0301d46b",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Michael Rubin — Exclusive | Fanatics CEO Michael Rubin vows to 'spend whatever it takes' to fend off 'extortion' lawsuits - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMjVSQm1makwxZ0wzS1Y3TlJGdl9BS3Q2NzhVa1hsQkRMQm4zTWs3RmpLa0Q2M2tCRl8yZUk2cnZBUTBoU3dvQW5YRjZYdTQzeUMyamFlbVFETnMzSHZWQjlVaDhERnVTUXpxTUw5VDEtT0JaeEdtNzFRYlctdFg5dlIzaVIyNVNidHFJTFR5bG8yQmNTRWtEcXM3bkxINk1XbUVKWUIxdEc0VVhjbi10Z1pvLUdGaTNaNGVHWTdDRkNIVWpyVHc?oc=5",
+      "source": "Analysts Watch · United States",
+      "published": "Wed, 30 Sep 2026 22:23:00 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Michael Rubin",
+        "Michael Rubin"
+      ],
+      "content_type": "analyst"
+    },
+    {
       "external_id": "366dae162f513f36844e8be8",
       "mode": "geopolitico",
       "title": "﻿Türkiye'nin savunma gücü artıyor, Atina silahlanıyor! İsrail yapımı SPIKE NLOS'lar Ege adalarına taşındı - STAR - Haberler",
@@ -781,23 +832,6 @@
         "Abdulkadir Selvi"
       ],
       "content_type": "analyst"
-    },
-    {
-      "external_id": "17d6df15a5a9846af77aceab",
-      "mode": "geopolitico",
-      "title": "Κρίσιμη καμπή για GSI: Το μοντέλο όδευσης του Blue Raman και η Navtex - Sigmalive",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2w2TC12T1Q3aDBDQm9mWlNibjQ5djJwRmpuUnU3TlpBVHJieVlHNmVoa3JzbkxuWTZmMHgtektzMU94OXA1NDNKTUFMOWdFTXhlX0w3QWVLWU5hU1R4bzZRb29kYkVyM1pWODVrN2lpWXdUX0ExREZXREd6akcxVWhuNTdEc3NvMTdNaVlXRmZ3YUFMblQ3SWZJNm9YMG5SNHhmQnNDRWdxbE5uclB5T3NjdV95QQ?oc=5",
-      "source": "Dodecanese Security Migration Watch",
-      "published": "Tue, 29 Sep 2026 16:55:24 GMT",
-      "base_score": 78,
-      "candidate_score": 81,
-      "priority": "High",
-      "matched_keywords": [
-        "NAVTEX",
-        "GSI",
-        "GSI"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "dd6f10f20908267ded082c77",
