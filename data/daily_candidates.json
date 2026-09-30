@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T13:27:42.706050+00:00",
+  "generated_at": "2026-09-30T13:53:27.701147+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -49,9 +49,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "cc65c106110b4f6d3f4297a9",
+        "external_id": "6e7a59d408bf3143e39f6cca",
         "mode": "sportdog",
-        "title": "Donatas Motiejunas officially strengthens PAOK - eurohoops.net",
+        "title": "Donatas Motiejunas officially strengthens PAOK - Eurohoops",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Wed, 30 Sep 2026 10:06:00 GMT",
@@ -124,25 +124,6 @@
         "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "f27a6d4c150aff7a44e75f96",
-        "mode": "sportdog",
-        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Tue, 29 Sep 2026 01:47:07 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -166,6 +147,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "374c9c9469f7edda51fb2422",
+        "mode": "geopolitico",
+        "title": "Yunanistan’ın İsrail’den aldığı spike nlos füze sistemlerini adalara konuşlandırdığı iddia edildi - Kibris Haberci",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREYzUnNqSGE5aFRfLUFwSkdNdGRIU3dpNzhUbkVpZjBtamNxTHRJNTRQRzRocmRXd2E1dGh0U3dFeE0xdzUzS2thYThZT0VMZXJDTEZhLTZLVTAtRlQ0WGFWNkZjeVBpbmtENHVmSS1tNE5pRHN3R1ZOWVY2ZWlNdjdieGlGUVRDWFhsYlBwM192QmJndmNQX1ZqWnlaM2tFX291TkFUSlVDUmN6cTlwNmNXLUdITDBaMjVsU1daVlIzNTVF?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 30 Sep 2026 07:50:04 GMT",
+        "base_score": 91,
+        "candidate_score": 101,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kibris",
+          "ada",
+          "adalar"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "4a5904b8962c474ea5f7bf41",
         "mode": "geopolitico",
         "title": "Ege'de işler kızışıyor: Yunanistan, İsrail yapımı füzeleri adalara konuşlandırdı! - Türkinform",
@@ -184,9 +183,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "2cc1b78d373a5cc806fc96f6",
+        "external_id": "fcb725c5591f5cce4c9931b4",
         "mode": "geopolitico",
-        "title": "Yunanistan'ın bazı adalara SPIKE NLOS füzeleri yerleştirdiği ileri sürüldü - Haber Kıbrıs",
+        "title": "Yunanistan'ın bazı adalara SPIKE NLOS füzeleri yerleştirdiği ileri sürüldü - haberkibris.com",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnYzRlhoanItVHpnYVJnLVpfakx3SXR2c1lEN21QZWFZaW1CRlRSZUNWbVNiMEZyeGtpcWowZk1KSTgyZVhFQ2hBQ2hLdkN0YzV3TGFRZldVaWl5LTdDd3kwY0d0bDllcnZ1ZXZpZ2QtbHJwazlJMGZIV2JhNTQ5SlRuRWw4ZFRXMTU2eFl0SjBidTJSOHpodnZDWDZjbDZ6T0Q4TXhDazlKVjNmaHZ2SnZBUmRPcTBsbHc?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Wed, 30 Sep 2026 07:35:28 GMT",
@@ -195,25 +194,7 @@
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
-          "Kıbrıs",
-          "ada",
-          "adalar"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "3d9dc2ea829689acc612b67b",
-        "mode": "geopolitico",
-        "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - TGRT Haber",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC05OUVYV1l5V2k3bnktZzg5Q2VDTDV5cDRXYU1LVklFeFF2MGpQYWVoUFAwdF9HcXdKcERHM3Z0M0VuZmZESEkzTGFmaWJlQWF3a3pxbnREUlRnRTdLaTNRbnNLMU5MTXp3RkM3Wkg4MVBiUG1TdUhnOC1iWnl1WS1yTE1HVU1CcjB4QWFaNnhkVXNOVktHNl83OXJjel9waEJBRXF5N1gtVi0xX3d1WmJiSWZCUXRKdmNIMzFwMmR1WmM?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 30 Sep 2026 07:28:15 GMT",
-        "base_score": 91,
-        "candidate_score": 101,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Ege",
+          "Kibris",
           "ada",
           "adalar"
         ],
@@ -235,22 +216,6 @@
           "Cyprus"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "1d0af51ff170b95af8a7a71a",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Wed, 30 Sep 2026 10:50:06 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
       },
       {
         "external_id": "366dae162f513f36844e8be8",
@@ -287,13 +252,29 @@
           "China"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "1d0af51ff170b95af8a7a71a",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Wed, 30 Sep 2026 10:50:06 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
       {
-        "external_id": "52af9abb43325c92fd0fc669",
+        "external_id": "6e6a61407ba87629acc80043",
         "mode": "pontos_voice",
-        "title": "Η Παμποντιακή Ομοσπονδία Ελλάδος αποχαιρετά τη λαογράφο και ερευνήτρια Έλσα Γαλανίδου – Μπαλφούσια - Αθηναϊκό Πρακτορείο Ειδήσεων",
+        "title": "Η Παμποντιακή Ομοσπονδία Ελλάδος αποχαιρετά τη λαογράφο και ερευνήτρια Έλσα Γαλανίδου – Μπαλφούσια - amna.gr",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOblVwRzQxWmx6Vnd5R2xXNVl0RDA4eERUbDBCWDM1NG8xTnVZRnhqb0V4dUxlWGJDcXJRaE9mUUtIV0w4LXh0T0pGZGhmamZ3aUNQZi04YWJwQzk0emZnWmZzZS0xUjByMjR0TlZjamFPelIzZ1dZY1MxMGJjS2k2bzBXTzhaREMxVHUtNk44aFJGWDBxUXFnODA2QWJXT2ExZUtXS2ZjZlpRUVJkcEc5dlc2OFBHQm5PVkYySkt5d0VhcXZUOExDZ0VxM01oa1gtXzB6VjBmdW5iZENJWmc?oc=5",
         "source": "ANA MPA Pontic Watch",
         "published": "Tue, 29 Sep 2026 20:11:23 GMT",
@@ -439,9 +420,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "cc65c106110b4f6d3f4297a9",
+      "external_id": "6e7a59d408bf3143e39f6cca",
       "mode": "sportdog",
-      "title": "Donatas Motiejunas officially strengthens PAOK - eurohoops.net",
+      "title": "Donatas Motiejunas officially strengthens PAOK - Eurohoops",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Wed, 30 Sep 2026 10:06:00 GMT",
@@ -516,25 +497,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f27a6d4c150aff7a44e75f96",
-      "mode": "sportdog",
-      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Tue, 29 Sep 2026 01:47:07 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "713b3a03b78e115fd3483624",
       "mode": "geopolitico",
       "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - Nordic Monitor",
@@ -552,6 +514,24 @@
         "air defense"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "374c9c9469f7edda51fb2422",
+      "mode": "geopolitico",
+      "title": "Yunanistan’ın İsrail’den aldığı spike nlos füze sistemlerini adalara konuşlandırdığı iddia edildi - Kibris Haberci",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREYzUnNqSGE5aFRfLUFwSkdNdGRIU3dpNzhUbkVpZjBtamNxTHRJNTRQRzRocmRXd2E1dGh0U3dFeE0xdzUzS2thYThZT0VMZXJDTEZhLTZLVTAtRlQ0WGFWNkZjeVBpbmtENHVmSS1tNE5pRHN3R1ZOWVY2ZWlNdjdieGlGUVRDWFhsYlBwM192QmJndmNQX1ZqWnlaM2tFX291TkFUSlVDUmN6cTlwNmNXLUdITDBaMjVsU1daVlIzNTVF?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 30 Sep 2026 07:50:04 GMT",
+      "base_score": 91,
+      "candidate_score": 101,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kibris",
+        "ada",
+        "adalar"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "4a5904b8962c474ea5f7bf41",
@@ -572,9 +552,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "2cc1b78d373a5cc806fc96f6",
+      "external_id": "fcb725c5591f5cce4c9931b4",
       "mode": "geopolitico",
-      "title": "Yunanistan'ın bazı adalara SPIKE NLOS füzeleri yerleştirdiği ileri sürüldü - Haber Kıbrıs",
+      "title": "Yunanistan'ın bazı adalara SPIKE NLOS füzeleri yerleştirdiği ileri sürüldü - haberkibris.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnYzRlhoanItVHpnYVJnLVpfakx3SXR2c1lEN21QZWFZaW1CRlRSZUNWbVNiMEZyeGtpcWowZk1KSTgyZVhFQ2hBQ2hLdkN0YzV3TGFRZldVaWl5LTdDd3kwY0d0bDllcnZ1ZXZpZ2QtbHJwazlJMGZIV2JhNTQ5SlRuRWw4ZFRXMTU2eFl0SjBidTJSOHpodnZDWDZjbDZ6T0Q4TXhDazlKVjNmaHZ2SnZBUmRPcTBsbHc?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Wed, 30 Sep 2026 07:35:28 GMT",
@@ -583,25 +563,7 @@
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
-        "Kıbrıs",
-        "ada",
-        "adalar"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "3d9dc2ea829689acc612b67b",
-      "mode": "geopolitico",
-      "title": "Yunanistan'dan Ege'de dikkat çeken hamle! Adalara İsrail'den aldığı uzun menzilli füzeleri yerleştiriyor - TGRT Haber",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC05OUVYV1l5V2k3bnktZzg5Q2VDTDV5cDRXYU1LVklFeFF2MGpQYWVoUFAwdF9HcXdKcERHM3Z0M0VuZmZESEkzTGFmaWJlQWF3a3pxbnREUlRnRTdLaTNRbnNLMU5MTXp3RkM3Wkg4MVBiUG1TdUhnOC1iWnl1WS1yTE1HVU1CcjB4QWFaNnhkVXNOVktHNl83OXJjel9waEJBRXF5N1gtVi0xX3d1WmJiSWZCUXRKdmNIMzFwMmR1WmM?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 30 Sep 2026 07:28:15 GMT",
-      "base_score": 91,
-      "candidate_score": 101,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Ege",
+        "Kibris",
         "ada",
         "adalar"
       ],
@@ -623,22 +585,6 @@
         "Cyprus"
       ],
       "content_type": "news"
-    },
-    {
-      "external_id": "1d0af51ff170b95af8a7a71a",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Wed, 30 Sep 2026 10:50:06 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
     },
     {
       "external_id": "366dae162f513f36844e8be8",
@@ -677,9 +623,25 @@
       "content_type": "news"
     },
     {
-      "external_id": "52af9abb43325c92fd0fc669",
+      "external_id": "1d0af51ff170b95af8a7a71a",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Wed, 30 Sep 2026 10:50:06 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
+    },
+    {
+      "external_id": "6e6a61407ba87629acc80043",
       "mode": "pontos_voice",
-      "title": "Η Παμποντιακή Ομοσπονδία Ελλάδος αποχαιρετά τη λαογράφο και ερευνήτρια Έλσα Γαλανίδου – Μπαλφούσια - Αθηναϊκό Πρακτορείο Ειδήσεων",
+      "title": "Η Παμποντιακή Ομοσπονδία Ελλάδος αποχαιρετά τη λαογράφο και ερευνήτρια Έλσα Γαλανίδου – Μπαλφούσια - amna.gr",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOblVwRzQxWmx6Vnd5R2xXNVl0RDA4eERUbDBCWDM1NG8xTnVZRnhqb0V4dUxlWGJDcXJRaE9mUUtIV0w4LXh0T0pGZGhmamZ3aUNQZi04YWJwQzk0emZnWmZzZS0xUjByMjR0TlZjamFPelIzZ1dZY1MxMGJjS2k2bzBXTzhaREMxVHUtNk44aFJGWDBxUXFnODA2QWJXT2ExZUtXS2ZjZlpRUVJkcEc5dlc2OFBHQm5PVkYySkt5d0VhcXZUOExDZ0VxM01oa1gtXzB6VjBmdW5iZENJWmc?oc=5",
       "source": "ANA MPA Pontic Watch",
       "published": "Tue, 29 Sep 2026 20:11:23 GMT",
