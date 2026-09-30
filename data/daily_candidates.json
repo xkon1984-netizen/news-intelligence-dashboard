@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:11:45.468161+00:00",
+  "generated_at": "2026-09-30T16:39:32.375398+00:00",
   "counts": {
     "sportdog": 7,
     "geopolitico": 8,
@@ -21,6 +21,27 @@
           "Olympiacos",
           "transfer",
           "transfer rumor"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
+        "external_id": "2b6e046661835fad6ff3dbf5",
+        "mode": "sportdog",
+        "title": "Olympiacos Monitors Chivas Defender Diego Campillo for Potential Transfer - Readers.id",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFNhZHE4b18zdWdLenNLYnVZMTBrQTJEV1o2cGdMN2hqRzJiMmlZU3RId2tOOW0zalROeFBzUnBjN1JHODNkaFVDU1REc2dNeEJfZTdVa3J5U2hZUjI5Q2VpUmU1VnI3QURxRUFkR3p5SWxKamp3SGpvUUw4RENlRDdB?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Wed, 30 Sep 2026 04:04:12 GMT",
+        "base_score": 64,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "transfer",
+          "defender"
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
@@ -89,6 +110,26 @@
         "needs_second_source": true
       },
       {
+        "external_id": "9255ac8ac6cfa7f9bb37c506",
+        "mode": "sportdog",
+        "title": "Myjava W v PAOK W LIVE 30/09/2026 | Football - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhU0RoNGs3c1hOUEdQM3l2OE1BWElOY2RFZ1Jma2NGZ1NzT2RTWDZ4aFg5d0Z6cDJrWGJGRGYzNlJHdEhUOUE5c3hTcTBKempzd2g0YU02STRoMUtCMXFFT0ZkcUhPTDZkdHFTbWc3V2FsU0dmVkEydWZ2LWs?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Wed, 30 Sep 2026 14:43:07 GMT",
+        "base_score": 41,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "6e7a59d408bf3143e39f6cca",
         "mode": "sportdog",
         "title": "Donatas Motiejunas officially strengthens PAOK - Eurohoops",
@@ -97,45 +138,6 @@
         "published": "Wed, 30 Sep 2026 10:06:00 GMT",
         "base_score": 31,
         "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "217df33fb09143fdc3dcc690",
-        "mode": "sportdog",
-        "title": "Olympiacos Eyes Another Chivas Star—Could Diego Campillo Be the Next Mexican to Join 'La Hormiga' in Greece? - Soy Futbol",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeWtYZ0E5V2pvYXVuWWJRQ3BtZWFXVjhORmFWOU1va0tUWXMzd1c2X3hwdmJkc1BtOFlmd3VhWnpLbDcwME1jS3hrYVRiUUc5T1A3akVJLU1PcFFOZ3M1em9Ja2F0eHdYaGM3dTlJNG1oREFDWE9CUEV6SGxYUVhrNmNnM2drWHpXMHAwM0lKVXVmXzBzMkRDM1JLZ2hrdkRiTUFIeUF2WlI5elZSNk9JaG14WWIzY0tQMDRDYjRDX3Q5ZU5xQVpBZjRFTnEycEFBQm5VNmtMRzh1SXpTeUczWmZzcnJEYmlVWnkxbnpn?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 29 Sep 2026 19:25:32 GMT",
-        "base_score": 38,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "Greece"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "214bec1d6dbb426557bed7ae",
-        "mode": "sportdog",
-        "title": "PAOK - Manresa - Flashscore.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZmSTkzVTZDV043RUVDQU12WHJhSFIya0dKUWV3LU5iazZQbWV2UG02OURMaE9hNE1uWS1nTU1ac21VX1JsQXozeUxseTFUeEhTcHd2UDNQa3FqTV9sa01VeTRhbXBHZUdWS3FEaUVOOG8tbUt4ZE9RZC1ySkoteQ?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Tue, 29 Sep 2026 17:48:07 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -423,6 +425,27 @@
       "needs_second_source": false
     },
     {
+      "external_id": "2b6e046661835fad6ff3dbf5",
+      "mode": "sportdog",
+      "title": "Olympiacos Monitors Chivas Defender Diego Campillo for Potential Transfer - Readers.id",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFNhZHE4b18zdWdLenNLYnVZMTBrQTJEV1o2cGdMN2hqRzJiMmlZU3RId2tOOW0zalROeFBzUnBjN1JHODNkaFVDU1REc2dNeEJfZTdVa3J5U2hZUjI5Q2VpUmU1VnI3QURxRUFkR3p5SWxKamp3SGpvUUw4RENlRDdB?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Wed, 30 Sep 2026 04:04:12 GMT",
+      "base_score": 64,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "transfer",
+        "defender"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "14e758ff604707a4e7e8c4c4",
       "mode": "sportdog",
       "title": "Real Betis Interested in Olympiacos Left-Back - Yahoo Sports",
@@ -483,6 +506,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "9255ac8ac6cfa7f9bb37c506",
+      "mode": "sportdog",
+      "title": "Myjava W v PAOK W LIVE 30/09/2026 | Football - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhU0RoNGs3c1hOUEdQM3l2OE1BWElOY2RFZ1Jma2NGZ1NzT2RTWDZ4aFg5d0Z6cDJrWGJGRGYzNlJHdEhUOUE5c3hTcTBKempzd2g0YU02STRoMUtCMXFFT0ZkcUhPTDZkdHFTbWc3V2FsU0dmVkEydWZ2LWs?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Wed, 30 Sep 2026 14:43:07 GMT",
+      "base_score": 41,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "6e7a59d408bf3143e39f6cca",
       "mode": "sportdog",
       "title": "Donatas Motiejunas officially strengthens PAOK - Eurohoops",
@@ -491,45 +534,6 @@
       "published": "Wed, 30 Sep 2026 10:06:00 GMT",
       "base_score": 31,
       "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "217df33fb09143fdc3dcc690",
-      "mode": "sportdog",
-      "title": "Olympiacos Eyes Another Chivas Star—Could Diego Campillo Be the Next Mexican to Join 'La Hormiga' in Greece? - Soy Futbol",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeWtYZ0E5V2pvYXVuWWJRQ3BtZWFXVjhORmFWOU1va0tUWXMzd1c2X3hwdmJkc1BtOFlmd3VhWnpLbDcwME1jS3hrYVRiUUc5T1A3akVJLU1PcFFOZ3M1em9Ja2F0eHdYaGM3dTlJNG1oREFDWE9CUEV6SGxYUVhrNmNnM2drWHpXMHAwM0lKVXVmXzBzMkRDM1JLZ2hrdkRiTUFIeUF2WlI5elZSNk9JaG14WWIzY0tQMDRDYjRDX3Q5ZU5xQVpBZjRFTnEycEFBQm5VNmtMRzh1SXpTeUczWmZzcnJEYmlVWnkxbnpn?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 29 Sep 2026 19:25:32 GMT",
-      "base_score": 38,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "Greece"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "214bec1d6dbb426557bed7ae",
-      "mode": "sportdog",
-      "title": "PAOK - Manresa - Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZmSTkzVTZDV043RUVDQU12WHJhSFIya0dKUWV3LU5iazZQbWV2UG02OURMaE9hNE1uWS1nTU1ac21VX1JsQXozeUxseTFUeEhTcHd2UDNQa3FqTV9sa01VeTRhbXBHZUdWS3FEaUVOOG8tbUt4ZE9RZC1ySkoteQ?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Tue, 29 Sep 2026 17:48:07 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
