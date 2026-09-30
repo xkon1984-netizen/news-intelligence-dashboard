@@ -6,10 +6,12 @@ high:
   Ege: 25
   Doğu Akdeniz: 30
   Kıbrıs: 25
+  Güney Kıbrıs: 30
   NAVTEX: 30
   karasuları: 30
   hava sahası: 30
   kıta sahanlığı: 30
+  elektrik hattı: 25
   deniz yetki alanları: 35
   MEB: 25
   gayri askeri statü: 35
@@ -28,6 +30,8 @@ high:
   NOTAM: 20
   sondaj: 20
   araştırma gemisi: 25
+  Nexans: 20
+  Meridiam: 20
   sismik araştırma: 25
   Oruç Reis: 25
   TCG: 15
@@ -35,6 +39,7 @@ high:
 medium:
   Ankara: 10
   Atina: 10
+  Fransa: 10
   Fidan: 15
   Erdoğan: 12
   Kalın: 15
