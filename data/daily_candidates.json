@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:25:39.621767+00:00",
+  "generated_at": "2026-09-30T03:52:11.802493+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -27,6 +27,25 @@
         "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
+      },
+      {
+        "external_id": "2a4ee0e0ebf28a2b8094021b",
+        "mode": "sportdog",
+        "title": "Olympiacos Sign 18-Year-Old Left-Back From Legia Warsaw - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2xYZHh0YWJaY2x5WnpJYW1rMWFicnc0ekRISGdGb2V0cHlsenZ6d1B0Q0lTUlI2ZFBxYVhfUGFwY0pzU3lrQi1UU1F0MDJSZm1NdENlSGhWWlloQ19FUmE4S0pMX1hTWGR3R2dHbUFzdklFd2ZPRWd5ZF9uQ1M5TlBR?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Wed, 30 Sep 2026 02:40:00 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       },
       {
         "external_id": "217df33fb09143fdc3dcc690",
@@ -102,25 +121,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "6981a2d3ebc0a0b606c40a64",
-        "mode": "sportdog",
-        "title": "Olympiacos Wants to Woo Diego Campillo Away from Chivas—Will He Say Yes? - Soy Futbol",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUlJycW1RdUdQYkZpWUo3RkFPc3pLVHhfNTBWZ0ZiYks3VW8tTUxySnJ0SXJROV9pQkdyX0w3Qkh5QXlyS2ZjTDRpZE53cWw1cmpQQ2JFMXY5a2xfanp3eFhIaEp6UVlldkhMTlpQeGNmTzFNcmJJWURSZzFTTW1FTUFTcXRDVVhxRVk2b3VzQ1NkR3RDb0NEVmlmSHlmUGk2ZkRsOTVHcUtBNkVBNkxtR09YT1ItWWc1MmhKS2QtcFU?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 28 Sep 2026 18:27:40 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
@@ -394,6 +394,25 @@
       "needs_second_source": false
     },
     {
+      "external_id": "2a4ee0e0ebf28a2b8094021b",
+      "mode": "sportdog",
+      "title": "Olympiacos Sign 18-Year-Old Left-Back From Legia Warsaw - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2xYZHh0YWJaY2x5WnpJYW1rMWFicnc0ekRISGdGb2V0cHlsenZ6d1B0Q0lTUlI2ZFBxYVhfUGFwY0pzU3lrQi1UU1F0MDJSZm1NdENlSGhWWlloQ19FUmE4S0pMX1hTWGR3R2dHbUFzdklFd2ZPRWd5ZF9uQ1M5TlBR?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Wed, 30 Sep 2026 02:40:00 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "217df33fb09143fdc3dcc690",
       "mode": "sportdog",
       "title": "Olympiacos Eyes Another Chivas Star—Could Diego Campillo Be the Next Mexican to Join 'La Hormiga' in Greece? - Soy Futbol",
@@ -467,25 +486,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "6981a2d3ebc0a0b606c40a64",
-      "mode": "sportdog",
-      "title": "Olympiacos Wants to Woo Diego Campillo Away from Chivas—Will He Say Yes? - Soy Futbol",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUlJycW1RdUdQYkZpWUo3RkFPc3pLVHhfNTBWZ0ZiYks3VW8tTUxySnJ0SXJROV9pQkdyX0w3Qkh5QXlyS2ZjTDRpZE53cWw1cmpQQ2JFMXY5a2xfanp3eFhIaEp6UVlldkhMTlpQeGNmTzFNcmJJWURSZzFTTW1FTUFTcXRDVVhxRVk2b3VzQ1NkR3RDb0NEVmlmSHlmUGk2ZkRsOTVHcUtBNkVBNkxtR09YT1ItWWc1MmhKS2QtcFU?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 28 Sep 2026 18:27:40 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
