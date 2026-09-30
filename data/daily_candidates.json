@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:57:41.454974+00:00",
+  "generated_at": "2026-09-30T01:25:02.604237+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -127,14 +127,14 @@
     ],
     "geopolitico": [
       {
-        "external_id": "a2c590484f625e91988f331b",
+        "external_id": "713b3a03b78e115fd3483624",
         "mode": "geopolitico",
-        "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - nordicmonitor.com",
+        "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - Nordic Monitor",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM3lJa3hpUzZPbzBaQTlBLURQbmRObHdkdERsWjlpN2JOUjBTT0gzTTRhc0FTSjA5SldGRzQtQ2VuR3c0ZU91ZW5iNG1hd1J2a2RSOVRLUmp3SGJBMXpnVmhSNjhTNFVfdGNoc1JqcFpsT1JhTDJDOGtrd0cyUnh5bWg0U0l5UXJQTFlYanEtaFMwanowNkNINFU0aG1wZU9EMHBLVVV5cFp5V2FXajB1dGh2bVdDYUpUMjN2SVYzVkpIeWxDX24xTEJvRQ?oc=5",
         "source": "Nordic Monitor",
         "published": "Tue, 29 Sep 2026 22:01:02 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -142,6 +142,23 @@
           "Israeli",
           "defense",
           "air defense"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "f1da62e9db38297a644acfac",
+        "mode": "geopolitico",
+        "title": "India in talks with China for alternate air route amid Pakistan airspace ban: Sources - Nepalnews.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQamV2SnVJYy1BWlB6M3UxVkZ4bVdub2UxREtnSGptRTNGdWpaVE0wbDYxWjN5YlJNTzh2WV9oYWp1QU1UNk1lNUdBaERkbEQ1NTMyekFaR3RwYjJ1dG5KNDFiVUh1Q1hfQlNPUjV3THBJeC16Z2pwY2pXZWVZTTJpSFNaSEM5OGZEZjhfVTBPQTFTN0tBenhIck5hWmtsZ3pMZEwyYW0xai0zV1VuWThDdTNRVGV6eXlmc2NSajFMX1k4LWRHNWVn?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Wed, 30 Sep 2026 01:05:49 GMT",
+        "base_score": 82,
+        "candidate_score": 97,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "China"
         ],
         "content_type": "news"
       },
@@ -245,23 +262,6 @@
           "ada"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "cb3bce58bb7d3756b9a48069",
-        "mode": "geopolitico",
-        "title": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVNfSzV5azFFMnhubTBnaDY2MjZWVGRaQUlHNDlRU3dVM2R4UHFsN0JNVElxV09WVUJ0LWs2aWcxNUI3aGh4QUVwWlZqMUowNXo3eEZqdlJ6YldhVjJnUW5PV2tIYW9qTnpkN1lKd3FkMzUyN1U3d0sxUXJ6SXlDTVlnM2JMZVRyM0tTVmtTTW12V1Z6eF9WZ1Zmbjk4VmFRaVlMeUJFdE45YmYyUVB2ZUl1eGVzRjNLVUhlcHlEQ3RZYlVZNTl4Z1RCRjlOR3Zab1HSAdIBQVVfeXFMTUc4ZUptZUpqOW92SDNDYjNTb0NXTi03aTR4N1lEUkpFRVlUMk00OEZyemM4b3hwSG1FSkZBZGY4TUZxM2s1SlAzUkkwYjI0V2dJVm1sdEVMekJ4TGZnM3lhRXZqYS05N1EyN2I1VWRtT2w4Zi0zQVJFaWg2MTB2NUxJSDVhejl4VkNfUEZtMm5vckxmdTRYOGFhX3VMZlNSM2JKa0VaLV92T3Y2ODl0RXlvajZuaU45UHZLUUUyNHpwODYzSWlWX2pBc2VCc2pmaTNB?oc=5",
-        "source": "China Strategic Watch",
-        "published": "Tue, 29 Sep 2026 05:20:17 GMT",
-        "base_score": 79,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "China",
-          "China AI",
-          "AI race"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -490,14 +490,14 @@
       "needs_second_source": true
     },
     {
-      "external_id": "a2c590484f625e91988f331b",
+      "external_id": "713b3a03b78e115fd3483624",
       "mode": "geopolitico",
-      "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - nordicmonitor.com",
+      "title": "Greece’s new Israeli air defense shield could reshape military balance, Turkish report says - Nordic Monitor",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM3lJa3hpUzZPbzBaQTlBLURQbmRObHdkdERsWjlpN2JOUjBTT0gzTTRhc0FTSjA5SldGRzQtQ2VuR3c0ZU91ZW5iNG1hd1J2a2RSOVRLUmp3SGJBMXpnVmhSNjhTNFVfdGNoc1JqcFpsT1JhTDJDOGtrd0cyUnh5bWg0U0l5UXJQTFlYanEtaFMwanowNkNINFU0aG1wZU9EMHBLVVV5cFp5V2FXajB1dGh2bVdDYUpUMjN2SVYzVkpIeWxDX24xTEJvRQ?oc=5",
       "source": "Nordic Monitor",
       "published": "Tue, 29 Sep 2026 22:01:02 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -505,6 +505,23 @@
         "Israeli",
         "defense",
         "air defense"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "f1da62e9db38297a644acfac",
+      "mode": "geopolitico",
+      "title": "India in talks with China for alternate air route amid Pakistan airspace ban: Sources - Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQamV2SnVJYy1BWlB6M3UxVkZ4bVdub2UxREtnSGptRTNGdWpaVE0wbDYxWjN5YlJNTzh2WV9oYWp1QU1UNk1lNUdBaERkbEQ1NTMyekFaR3RwYjJ1dG5KNDFiVUh1Q1hfQlNPUjV3THBJeC16Z2pwY2pXZWVZTTJpSFNaSEM5OGZEZjhfVTBPQTFTN0tBenhIck5hWmtsZ3pMZEwyYW0xai0zV1VuWThDdTNRVGV6eXlmc2NSajFMX1k4LWRHNWVn?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Wed, 30 Sep 2026 01:05:49 GMT",
+      "base_score": 82,
+      "candidate_score": 97,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "China"
       ],
       "content_type": "news"
     },
@@ -608,23 +625,6 @@
         "ada"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "cb3bce58bb7d3756b9a48069",
-      "mode": "geopolitico",
-      "title": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVNfSzV5azFFMnhubTBnaDY2MjZWVGRaQUlHNDlRU3dVM2R4UHFsN0JNVElxV09WVUJ0LWs2aWcxNUI3aGh4QUVwWlZqMUowNXo3eEZqdlJ6YldhVjJnUW5PV2tIYW9qTnpkN1lKd3FkMzUyN1U3d0sxUXJ6SXlDTVlnM2JMZVRyM0tTVmtTTW12V1Z6eF9WZ1Zmbjk4VmFRaVlMeUJFdE45YmYyUVB2ZUl1eGVzRjNLVUhlcHlEQ3RZYlVZNTl4Z1RCRjlOR3Zab1HSAdIBQVVfeXFMTUc4ZUptZUpqOW92SDNDYjNTb0NXTi03aTR4N1lEUkpFRVlUMk00OEZyemM4b3hwSG1FSkZBZGY4TUZxM2s1SlAzUkkwYjI0V2dJVm1sdEVMekJ4TGZnM3lhRXZqYS05N1EyN2I1VWRtT2w4Zi0zQVJFaWg2MTB2NUxJSDVhejl4VkNfUEZtMm5vckxmdTRYOGFhX3VMZlNSM2JKa0VaLV92T3Y2ODl0RXlvajZuaU45UHZLUUUyNHpwODYzSWlWX2pBc2VCc2pmaTNB?oc=5",
-      "source": "China Strategic Watch",
-      "published": "Tue, 29 Sep 2026 05:20:17 GMT",
-      "base_score": 79,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "China",
-        "China AI",
-        "AI race"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "52af9abb43325c92fd0fc669",
