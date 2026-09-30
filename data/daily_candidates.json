@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T12:34:37.961471+00:00",
+  "generated_at": "2026-09-30T12:59:30.954999+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -124,32 +124,13 @@
         "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "205408f043368fdc7ed33a52",
-        "mode": "sportdog",
-        "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - Euroleague Basketball",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzR1Z1lFLTBIT0RWTHJFajJGM3FtemxDeHJ6X0pzVTFnM2R4ZVlmZEk5NnpoRWl4WHlVeWNmMVgyU3paS01FLUdxOUUwOGxHZ1BzcGx1cVVSTEc0aElYZmlaWmZKZi1ISW1ZbVItRW1RbURGblhMTE9uX21ZMFpWRDUzaTBiS1E0eGNwTk1Ea2NKX25DSXRRX2M1VVNSdnNUYlg3VHAxZ0Zlc2lRRTJ6X2hJVk1fV1hvTEE?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Tue, 29 Sep 2026 00:41:37 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
       {
-        "external_id": "94207c160344b518a0dca0e3",
+        "external_id": "8b8cc4200f75182b9bc5ac19",
         "mode": "geopolitico",
-        "title": "Yunanistan’dan GSI güzergahı açıklaması: Türk deniz parkı nedeniyle değiştirilmiyor - Star Kıbrıs",
+        "title": "Yunanistan’dan GSI güzergahı açıklaması: Türk deniz parkı nedeniyle değiştirilmiyor - starkibris.net",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XMEhKSDl3aTlYc0xPdTZJc2NjbFVQSHd3d3hSakxQakNvS0s1bTdjVlhEUTZfMUxDMUxlcTJkMWQxQmRVaUYwdmZyVVdlRUplS0h3R0tEdnlsd2tTWml6eg?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Wed, 30 Sep 2026 11:32:00 GMT",
@@ -158,8 +139,8 @@
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
+          "Kibris",
           "GSI",
-          "Kıbrıs",
           "açıklama",
           "GSI"
         ],
@@ -183,23 +164,6 @@
           "air defense"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "925594f48496858faf76bd68",
-        "mode": "geopolitico",
-        "title": "Dendias 1 Ekim törenleri için Kıbrıs’a geliyor - bugunkibris.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZdEZaQVZFNGViVzBkV29pV09EVm5nQjFWdkhTcWJPb2tnYUpnUHlfNW0xbHZEWW1ieHVhbkdBS0RZem5tb3ZoOHE0dzZicEJyR1B0UGF2MmVJNGYwNFFySE1IZUw3MklYeDFBZU41MUExdGNOU2xVWWRB?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Wed, 30 Sep 2026 05:24:52 GMT",
-        "base_score": 94,
-        "candidate_score": 104,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Kibris",
-          "Dendias",
-          "Kıbrıs"
-        ],
-        "content_type": "turkey_greece"
       },
       {
         "external_id": "4a5904b8962c474ea5f7bf41",
@@ -288,6 +252,22 @@
           "US China"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "1d0af51ff170b95af8a7a71a",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Wed, 30 Sep 2026 09:09:57 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -519,28 +499,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "205408f043368fdc7ed33a52",
-      "mode": "sportdog",
-      "title": "BOSNA BH Telecom Sarajevo vs PAOK Thessaloniki 2026-10-06 17:30 | EuroCup - Euroleague Basketball",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzR1Z1lFLTBIT0RWTHJFajJGM3FtemxDeHJ6X0pzVTFnM2R4ZVlmZEk5NnpoRWl4WHlVeWNmMVgyU3paS01FLUdxOUUwOGxHZ1BzcGx1cVVSTEc0aElYZmlaWmZKZi1ISW1ZbVItRW1RbURGblhMTE9uX21ZMFpWRDUzaTBiS1E0eGNwTk1Ea2NKX25DSXRRX2M1VVNSdnNUYlg3VHAxZ0Zlc2lRRTJ6X2hJVk1fV1hvTEE?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Tue, 29 Sep 2026 00:41:37 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "94207c160344b518a0dca0e3",
+      "external_id": "8b8cc4200f75182b9bc5ac19",
       "mode": "geopolitico",
-      "title": "Yunanistan’dan GSI güzergahı açıklaması: Türk deniz parkı nedeniyle değiştirilmiyor - Star Kıbrıs",
+      "title": "Yunanistan’dan GSI güzergahı açıklaması: Türk deniz parkı nedeniyle değiştirilmiyor - starkibris.net",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XMEhKSDl3aTlYc0xPdTZJc2NjbFVQSHd3d3hSakxQakNvS0s1bTdjVlhEUTZfMUxDMUxlcTJkMWQxQmRVaUYwdmZyVVdlRUplS0h3R0tEdnlsd2tTWml6eg?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Wed, 30 Sep 2026 11:32:00 GMT",
@@ -549,8 +510,8 @@
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
+        "Kibris",
         "GSI",
-        "Kıbrıs",
         "açıklama",
         "GSI"
       ],
@@ -574,23 +535,6 @@
         "air defense"
       ],
       "content_type": "news"
-    },
-    {
-      "external_id": "925594f48496858faf76bd68",
-      "mode": "geopolitico",
-      "title": "Dendias 1 Ekim törenleri için Kıbrıs’a geliyor - bugunkibris.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZdEZaQVZFNGViVzBkV29pV09EVm5nQjFWdkhTcWJPb2tnYUpnUHlfNW0xbHZEWW1ieHVhbkdBS0RZem5tb3ZoOHE0dzZicEJyR1B0UGF2MmVJNGYwNFFySE1IZUw3MklYeDFBZU41MUExdGNOU2xVWWRB?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Wed, 30 Sep 2026 05:24:52 GMT",
-      "base_score": 94,
-      "candidate_score": 104,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Kibris",
-        "Dendias",
-        "Kıbrıs"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "4a5904b8962c474ea5f7bf41",
@@ -679,6 +623,22 @@
         "US China"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "1d0af51ff170b95af8a7a71a",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti fon krizinden nasıl çıkabilir | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE8zbTJLMUQ5QzBVeFo3aGd1RWVXZ1M5MVY0ZjAwSGsxN0M5R0hNcTVrRHctbEpXcXdQUHY4U25KOTgwZVNCMjI0S0dMbkV1Vjc3eFd0ZHYzRXVSNjMtOUgzRjFuU2ZGZjFJdFYtcWFKVVdOazdIZXpJOWYtSHdjdmpxSWNKaWw2OTBGcVA1bHI5RGprODdvd05pUVNoNmFjMzZr?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Wed, 30 Sep 2026 09:09:57 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
     },
     {
       "external_id": "52af9abb43325c92fd0fc669",
