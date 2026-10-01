@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:29:31.690002+00:00",
+  "generated_at": "2026-10-01T16:51:17.072395+00:00",
   "counts": {
     "sportdog": 12,
     "geopolitico": 8,
@@ -7,6 +7,27 @@
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "c5d80af035e4378cd54f9802",
+        "mode": "sportdog",
+        "title": "AEK owner reveals Olympiacos arena deal and NBA Europe plans - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xZ1JRbVdOZzE0OUlHc2RaOGJTc3Y3VjVON29yZlpsaGZlR2psbk5lMkxjMmluaHE3ZnJmcUNoVkZSbzVnS2VOemVpM25sQUZsbEs2cnVjaHVkQXB3V0oyV1V0TVZ3SnI1bEE5NEpQazhWWWNNaTZRV213?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 16:22:30 GMT",
+        "base_score": 88,
+        "candidate_score": 129,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "AEK",
+          "Olympiacos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "AEK",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
       {
         "external_id": "9814950c3b3cd44bff2c73ae",
         "mode": "sportdog",
@@ -106,26 +127,6 @@
         "editorial_type": "Match / Analysis",
         "team": "AEK",
         "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "a374faac6ec4e1d6c4e7a8c4",
-        "mode": "sportdog",
-        "title": "Does an Arnaud Kalimuendo Loan Move Make Sense for Olympiacos? - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2NvQkNrSUZ3cUFEWVBHZF9WX1J1cFRsY2pEakZIY1cxNVhlRWpDUEVFR0hkQU91N2xpOEJUelRYYW54S2tKMFJ5SFF4b3U5aHZWTkVobF84V05iVTROVVVoZHpab1pPNFZxUW0zaFBEZlBOeVFBMkloZ09LSzlISVhhaV96aTA3WWdjNGZLRGJCQmJTenpCQ21UZUVCQmVsak9vMUE3YXFEQTlIVGN1LXlkVHVtMzFoNlI1VllHS00?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 01 Oct 2026 04:26:18 GMT",
-        "base_score": 44,
-        "candidate_score": 58,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "loan"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -280,9 +281,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "000364fd23251fd02e80997b",
+        "external_id": "acca76409026bb14c81e7d49",
         "mode": "geopolitico",
-        "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - hurriyet.com.tr",
+        "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - Hürriyet",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEt3LVg1T2cxYlRjbTFUYmtOX1pLbmVGR2ZSbFJyTWxGUDZEREJHckN1QlhxOEJrRFR2Z05sN2plUGJnRGQ4UTBKNkktMmVrLVdVTmY1SmZ3M0pZTzlhUDhycUV4RVNNZWZQNUJqZzZpbXpPclUzemNNeE1ONnVreXZWQXJya0FZYWRQUlZLNFhvRTlvX0dZNDFsaDEzWW9POUNPcjBuNHVxZHdKckZwRG1mVzZZem9aYWFQc1ln?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 01 Oct 2026 08:29:00 GMT",
@@ -315,23 +316,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "c580891ffac1956a528cb4d2",
-        "mode": "geopolitico",
-        "title": "India US China relations - orfonline.org",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1feVBVSVVWLVFtTGxpQlFoZW0ycXYwaW5faEZKcW8yampGb2FUTG1WemFLY2FkY3ViMnVFQjg4ZkJ4WExzQUNFZmlzQklQVjQ1dzlBVnEzall5bkx1ZFNyRFY5NGYzZw?oc=5",
-        "source": "Observer Research Foundation ORF",
-        "published": "Wed, 30 Sep 2026 10:39:41 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "China",
-          "US China"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "d1458d67e1bc80156d1c6f93",
         "mode": "geopolitico",
         "title": "The Blogs: Israeli Arms on Full Display – Cyprus’s Message - The Times of Israel",
@@ -349,9 +333,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "b413cdd3acf6b4f0a541c0f6",
+        "external_id": "84070bfb48c3b58848487d9f",
         "mode": "geopolitico",
-        "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
+        "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - haberglobal.com",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3pHTkVscFZlc21TeENld2JNZWFERnE3Yzg1T2d3d0hRMjVwcTZsTndkb21yVVFDWHk0dXQ0bWpzM1BxYkJtMkkyVGYtZ2ZPS0NrRERWdy11YWtHSXRQdWZVYVlkdFQ3c0UxNXVhTktod2MtZnFZRnNodVRYQ2JPY2tlZC1LbG93Y0FVcWFBLVI2cXhKcDBMV0hXcE5TSV9FZlBydkdkMzlqTDllYzVLdy1oVk1ZZmpvU242N0JSTGhHcmF3UzZDMGtaRmZzZUnSAdQBQVVfeXFMUF9McTV3aDhtRHhCOU0wRm9saFRaLWFuQ1V1US16NkVoTlAyTXEzaFlFVENRZXlGWC15VnR0Vk11bVlLNlBENlpYWmZwd1MtWEU4SHkyWUY4d0dsSzF2dG51Wm80d1Y3akk3R0U4SlZiUm43ZzZDeGNhUjRZM3F1YW12ZjR2d2J3VFRHVWNIV1k4eWUtYmpsTFZhWTVsNVctVTBZcXJUWmVmYWM3Szd0QmY4aVkteEFxVnVzMkVLQjJFYzVINjZLYU5tUmlveVhaR3NJVEo?oc=5",
         "source": "Turkish Greek Defence Watch",
         "published": "Thu, 01 Oct 2026 07:59:00 GMT",
@@ -380,6 +364,23 @@
           "Syria",
           "Hezbollah",
           "Turkey"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "1f191385507b40a96eb909e4",
+        "mode": "geopolitico",
+        "title": "‘Why the need for all this drama’: DG ISPR lampoons India's 'neutralised Pakistani terrorist' claims, presents him before media - Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43dUMyTHMxUmlybllScnpxSVZnUE1zUFVOODEyeTllbm81VDNra20yVkJyZ1VaYmF6SWJSbmpURVBoTkpJWmhYRQ?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Thu, 01 Oct 2026 14:33:18 GMT",
+        "base_score": 77,
+        "candidate_score": 92,
+        "priority": "High",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Pakistani"
         ],
         "content_type": "news"
       }
@@ -493,6 +494,27 @@
   },
   "items": [
     {
+      "external_id": "c5d80af035e4378cd54f9802",
+      "mode": "sportdog",
+      "title": "AEK owner reveals Olympiacos arena deal and NBA Europe plans - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xZ1JRbVdOZzE0OUlHc2RaOGJTc3Y3VjVON29yZlpsaGZlR2psbk5lMkxjMmluaHE3ZnJmcUNoVkZSbzVnS2VOemVpM25sQUZsbEs2cnVjaHVkQXB3V0oyV1V0TVZ3SnI1bEE5NEpQazhWWWNNaTZRV213?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 16:22:30 GMT",
+      "base_score": 88,
+      "candidate_score": 129,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "AEK",
+        "Olympiacos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "AEK",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "9814950c3b3cd44bff2c73ae",
       "mode": "sportdog",
       "title": "Olympiacos Interested in Nottingham Forest Forward - roundtable.io",
@@ -591,26 +613,6 @@
       "editorial_type": "Match / Analysis",
       "team": "AEK",
       "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "a374faac6ec4e1d6c4e7a8c4",
-      "mode": "sportdog",
-      "title": "Does an Arnaud Kalimuendo Loan Move Make Sense for Olympiacos? - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2NvQkNrSUZ3cUFEWVBHZF9WX1J1cFRsY2pEakZIY1cxNVhlRWpDUEVFR0hkQU91N2xpOEJUelRYYW54S2tKMFJ5SFF4b3U5aHZWTkVobF84V05iVTROVVVoZHpab1pPNFZxUW0zaFBEZlBOeVFBMkloZ09LSzlISVhhaV96aTA3WWdjNGZLRGJCQmJTenpCQ21UZUVCQmVsak9vMUE3YXFEQTlIVGN1LXlkVHVtMzFoNlI1VllHS00?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 01 Oct 2026 04:26:18 GMT",
-      "base_score": 44,
-      "candidate_score": 58,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "loan"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -763,9 +765,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "000364fd23251fd02e80997b",
+      "external_id": "acca76409026bb14c81e7d49",
       "mode": "geopolitico",
-      "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - hurriyet.com.tr",
+      "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - Hürriyet",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEt3LVg1T2cxYlRjbTFUYmtOX1pLbmVGR2ZSbFJyTWxGUDZEREJHckN1QlhxOEJrRFR2Z05sN2plUGJnRGQ4UTBKNkktMmVrLVdVTmY1SmZ3M0pZTzlhUDhycUV4RVNNZWZQNUJqZzZpbXpPclUzemNNeE1ONnVreXZWQXJya0FZYWRQUlZLNFhvRTlvX0dZNDFsaDEzWW9POUNPcjBuNHVxZHdKckZwRG1mVzZZem9aYWFQc1ln?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 01 Oct 2026 08:29:00 GMT",
@@ -798,23 +800,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "c580891ffac1956a528cb4d2",
-      "mode": "geopolitico",
-      "title": "India US China relations - orfonline.org",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1feVBVSVVWLVFtTGxpQlFoZW0ycXYwaW5faEZKcW8yampGb2FUTG1WemFLY2FkY3ViMnVFQjg4ZkJ4WExzQUNFZmlzQklQVjQ1dzlBVnEzall5bkx1ZFNyRFY5NGYzZw?oc=5",
-      "source": "Observer Research Foundation ORF",
-      "published": "Wed, 30 Sep 2026 10:39:41 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "China",
-        "US China"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "d1458d67e1bc80156d1c6f93",
       "mode": "geopolitico",
       "title": "The Blogs: Israeli Arms on Full Display – Cyprus’s Message - The Times of Israel",
@@ -832,9 +817,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "b413cdd3acf6b4f0a541c0f6",
+      "external_id": "84070bfb48c3b58848487d9f",
       "mode": "geopolitico",
-      "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
+      "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - haberglobal.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3pHTkVscFZlc21TeENld2JNZWFERnE3Yzg1T2d3d0hRMjVwcTZsTndkb21yVVFDWHk0dXQ0bWpzM1BxYkJtMkkyVGYtZ2ZPS0NrRERWdy11YWtHSXRQdWZVYVlkdFQ3c0UxNXVhTktod2MtZnFZRnNodVRYQ2JPY2tlZC1LbG93Y0FVcWFBLVI2cXhKcDBMV0hXcE5TSV9FZlBydkdkMzlqTDllYzVLdy1oVk1ZZmpvU242N0JSTGhHcmF3UzZDMGtaRmZzZUnSAdQBQVVfeXFMUF9McTV3aDhtRHhCOU0wRm9saFRaLWFuQ1V1US16NkVoTlAyTXEzaFlFVENRZXlGWC15VnR0Vk11bVlLNlBENlpYWmZwd1MtWEU4SHkyWUY4d0dsSzF2dG51Wm80d1Y3akk3R0U4SlZiUm43ZzZDeGNhUjRZM3F1YW12ZjR2d2J3VFRHVWNIV1k4eWUtYmpsTFZhWTVsNVctVTBZcXJUWmVmYWM3Szd0QmY4aVkteEFxVnVzMkVLQjJFYzVINjZLYU5tUmlveVhaR3NJVEo?oc=5",
       "source": "Turkish Greek Defence Watch",
       "published": "Thu, 01 Oct 2026 07:59:00 GMT",
@@ -863,6 +848,23 @@
         "Syria",
         "Hezbollah",
         "Turkey"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "1f191385507b40a96eb909e4",
+      "mode": "geopolitico",
+      "title": "‘Why the need for all this drama’: DG ISPR lampoons India's 'neutralised Pakistani terrorist' claims, presents him before media - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43dUMyTHMxUmlybllScnpxSVZnUE1zUFVOODEyeTllbm81VDNra20yVkJyZ1VaYmF6SWJSbmpURVBoTkpJWmhYRQ?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Thu, 01 Oct 2026 14:33:18 GMT",
+      "base_score": 77,
+      "candidate_score": 92,
+      "priority": "High",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Pakistani"
       ],
       "content_type": "news"
     },
