@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:02:40.987904+00:00",
+  "generated_at": "2026-10-01T20:26:12.565826+00:00",
   "counts": {
     "sportdog": 12,
     "geopolitico": 8,
@@ -66,6 +66,26 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "a025e97268563391efc64771",
+        "mode": "sportdog",
+        "title": "Donatas Motiejunas strengthens PAOK on a one-year deal - Eurohoops",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Wed, 30 Sep 2026 10:06:00 GMT",
+        "base_score": 56,
+        "candidate_score": 74,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -205,9 +225,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "e04438e28bd27b83cbe6b45f",
+        "external_id": "bf7f170c30001a5721e0b6e5",
         "mode": "sportdog",
-        "title": "Panathinaikos Kifisia 10 September 2026 Live Score and Match Summary - Yeni Şafak English",
+        "title": "Panathinaikos Kifisia 10 September 2026 Live Score and Match Summary - en.yenisafak.com",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjhRVFY0RG0xN25EUWtLaXloV3ByNWJYTl9pM2N1dEdxOEhwdDRUNlBJNDhUQUJzdk9yWjRGTWhYTnhlR3BfY3hQekR5Qmo4Uk1PVkFsNUNLb2dIam5PN2pLZFJOLWRvYVlvSEF5d2pfMkpoeGgyM3lQY3Q1NUpJcF9tTXZONU1y?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 30 Sep 2026 10:25:25 GMT",
@@ -220,25 +240,6 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "6e7a59d408bf3143e39f6cca",
-        "mode": "sportdog",
-        "title": "Donatas Motiejunas officially strengthens PAOK - Eurohoops",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Wed, 30 Sep 2026 10:06:00 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
       }
@@ -276,6 +277,23 @@
           "Yunanistan",
           "NAVTEX",
           "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "deba3d39248f97e04d5aca4d",
+        "mode": "geopolitico",
+        "title": "Yunanistan’dan Kıbrıs mesajı: “Yeniden birleşme hedefiyle yanındayız” - bugunkibris.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1lsaG56elNxQk9tOElhRXpFUU5TQmpXb1BuQURha3hJUUtUeFlzRWVaNW10UVo1OWRyN2tDeUh0ZXVyRVZDR0ZyNE0wWGd2UEVQZU10V3VEdUllem1vWHpDRnpORWYxVlM4dVJSZ3d4T3NtNHlCamFZeGxZenpDU0d3V01qWHBrUGhNOUllQkhKYUp1?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Thu, 01 Oct 2026 12:50:03 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kibris",
+          "Kıbrıs"
         ],
         "content_type": "turkey_greece"
       },
@@ -364,24 +382,6 @@
           "Turkey"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "8b92e7b4d5c9a1db804f0363",
-        "mode": "geopolitico",
-        "title": "Milli Savunma Bakanlığı: Kıta sahanlığımızdaki kablo ve boru döşeme faaliyetleri Türkiye ile koordine edilmeli - Son Dakika",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDMwTldlVkx6WWxQWllWdkVnOFBibkdtXy1INDhQUmVJV1NQY1oxdVU5S1RoSkF3Tnd6UTFPcVRiVVcycGhDRWxNMU9KZ09aME9oaEZuYU1DVVIyMlVJMUVJYzRORjBEM3k1V0VDMzB2TDg5S2loblpaa0NBWEtTN1U4UWdLZXZBOVgtX0tHOFdtSTNCVGhyd05OV1VoUDhx0gGcAUFVX3lxTE1VWXN3RjFGdWN6NUF4NU0zN1Njc0RzMW5WcHk3eVU1Ql9QMUdsVjFpa0tTdlRoOTNlYnpaSE55bndIUncwMHZCR3lSSjAyOGxkMnlNamJTWk1venFXR1czaE5TMFJlSUl2Zlc1bG0xREFrYVh5UWFjQlZJZFUyMUJTRjYyYzJrOFVXcmlwNkpvXzJOUGxHNjJFQkhnNg?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 01 Oct 2026 08:16:17 GMT",
-        "base_score": 81,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "kıta sahanlığı",
-          "Milli Savunma Bakanlığı",
-          "savunma",
-          "kablo"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -420,24 +420,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "52af9abb43325c92fd0fc669",
-        "mode": "pontos_voice",
-        "title": "Η Παμποντιακή Ομοσπονδία Ελλάδος αποχαιρετά τη λαογράφο και ερευνήτρια Έλσα Γαλανίδου – Μπαλφούσια - Αθηναϊκό Πρακτορείο Ειδήσεων",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOblVwRzQxWmx6Vnd5R2xXNVl0RDA4eERUbDBCWDM1NG8xTnVZRnhqb0V4dUxlWGJDcXJRaE9mUUtIV0w4LXh0T0pGZGhmamZ3aUNQZi04YWJwQzk0emZnWmZzZS0xUjByMjR0TlZjamFPelIzZ1dZY1MxMGJjS2k2bzBXTzhaREMxVHUtNk44aFJGWDBxUXFnODA2QWJXT2ExZUtXS2ZjZlpRUVJkcEc5dlc2OFBHQm5PVkYySkt5d0VhcXZUOExDZ0VxM01oa1gtXzB6VjBmdW5iZENJWmc?oc=5",
-        "source": "ANA MPA Pontic Watch",
-        "published": "Tue, 29 Sep 2026 20:11:23 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "ποντιακή",
-          "Παμποντιακή",
-          "Παμποντιακή Ομοσπονδία Ελλάδος",
-          "ομοσπονδία"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "f74f19fe0810a9a19fd2f969",
         "mode": "pontos_voice",
         "title": "Οι γαλλικοί φάροι του Εύξεινου Πόντου, πέτρινοι φρουροί της ποντιακής ακτογραμμής - pontosnews.gr",
@@ -450,6 +432,24 @@
         "matched_keywords": [
           "Pontos",
           "ποντιακή"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "9c5f38226fc16e268044baed",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor'un efsanesinden yıllar sonra itiraf! \"Çok üzülmüştüm\"",
+        "url": "https://www.61saat.com/trabzonsporun-efsanesinden-yillar-sonra-itiraf-cok-uzulmustum",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 01 Oct 2026 23:21:00 +0300",
+        "base_score": 52,
+        "candidate_score": 67,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "açıklama",
+          "anıt",
+          "Trabzon"
         ],
         "content_type": "news"
       },
@@ -550,6 +550,26 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "a025e97268563391efc64771",
+      "mode": "sportdog",
+      "title": "Donatas Motiejunas strengthens PAOK on a one-year deal - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Wed, 30 Sep 2026 10:06:00 GMT",
+      "base_score": 56,
+      "candidate_score": 74,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -689,9 +709,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "e04438e28bd27b83cbe6b45f",
+      "external_id": "bf7f170c30001a5721e0b6e5",
       "mode": "sportdog",
-      "title": "Panathinaikos Kifisia 10 September 2026 Live Score and Match Summary - Yeni Şafak English",
+      "title": "Panathinaikos Kifisia 10 September 2026 Live Score and Match Summary - en.yenisafak.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjhRVFY0RG0xN25EUWtLaXloV3ByNWJYTl9pM2N1dEdxOEhwdDRUNlBJNDhUQUJzdk9yWjRGTWhYTnhlR3BfY3hQekR5Qmo4Uk1PVkFsNUNLb2dIam5PN2pLZFJOLWRvYVlvSEF5d2pfMkpoeGgyM3lQY3Q1NUpJcF9tTXZONU1y?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 30 Sep 2026 10:25:25 GMT",
@@ -704,25 +724,6 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "6e7a59d408bf3143e39f6cca",
-      "mode": "sportdog",
-      "title": "Donatas Motiejunas officially strengthens PAOK - Eurohoops",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Wed, 30 Sep 2026 10:06:00 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -758,6 +759,23 @@
         "Yunanistan",
         "NAVTEX",
         "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "deba3d39248f97e04d5aca4d",
+      "mode": "geopolitico",
+      "title": "Yunanistan’dan Kıbrıs mesajı: “Yeniden birleşme hedefiyle yanındayız” - bugunkibris.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1lsaG56elNxQk9tOElhRXpFUU5TQmpXb1BuQURha3hJUUtUeFlzRWVaNW10UVo1OWRyN2tDeUh0ZXVyRVZDR0ZyNE0wWGd2UEVQZU10V3VEdUllem1vWHpDRnpORWYxVlM4dVJSZ3d4T3NtNHlCamFZeGxZenpDU0d3V01qWHBrUGhNOUllQkhKYUp1?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Thu, 01 Oct 2026 12:50:03 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kibris",
+        "Kıbrıs"
       ],
       "content_type": "turkey_greece"
     },
@@ -848,24 +866,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "8b92e7b4d5c9a1db804f0363",
-      "mode": "geopolitico",
-      "title": "Milli Savunma Bakanlığı: Kıta sahanlığımızdaki kablo ve boru döşeme faaliyetleri Türkiye ile koordine edilmeli - Son Dakika",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDMwTldlVkx6WWxQWllWdkVnOFBibkdtXy1INDhQUmVJV1NQY1oxdVU5S1RoSkF3Tnd6UTFPcVRiVVcycGhDRWxNMU9KZ09aME9oaEZuYU1DVVIyMlVJMUVJYzRORjBEM3k1V0VDMzB2TDg5S2loblpaa0NBWEtTN1U4UWdLZXZBOVgtX0tHOFdtSTNCVGhyd05OV1VoUDhx0gGcAUFVX3lxTE1VWXN3RjFGdWN6NUF4NU0zN1Njc0RzMW5WcHk3eVU1Ql9QMUdsVjFpa0tTdlRoOTNlYnpaSE55bndIUncwMHZCR3lSSjAyOGxkMnlNamJTWk1venFXR1czaE5TMFJlSUl2Zlc1bG0xREFrYVh5UWFjQlZJZFUyMUJTRjYyYzJrOFVXcmlwNkpvXzJOUGxHNjJFQkhnNg?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 01 Oct 2026 08:16:17 GMT",
-      "base_score": 81,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "kıta sahanlığı",
-        "Milli Savunma Bakanlığı",
-        "savunma",
-        "kablo"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "a6ad8a9202bc31ec3c46725f",
       "mode": "pontos_voice",
       "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - Ολύμπιο Βήμα",
@@ -900,24 +900,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "52af9abb43325c92fd0fc669",
-      "mode": "pontos_voice",
-      "title": "Η Παμποντιακή Ομοσπονδία Ελλάδος αποχαιρετά τη λαογράφο και ερευνήτρια Έλσα Γαλανίδου – Μπαλφούσια - Αθηναϊκό Πρακτορείο Ειδήσεων",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOblVwRzQxWmx6Vnd5R2xXNVl0RDA4eERUbDBCWDM1NG8xTnVZRnhqb0V4dUxlWGJDcXJRaE9mUUtIV0w4LXh0T0pGZGhmamZ3aUNQZi04YWJwQzk0emZnWmZzZS0xUjByMjR0TlZjamFPelIzZ1dZY1MxMGJjS2k2bzBXTzhaREMxVHUtNk44aFJGWDBxUXFnODA2QWJXT2ExZUtXS2ZjZlpRUVJkcEc5dlc2OFBHQm5PVkYySkt5d0VhcXZUOExDZ0VxM01oa1gtXzB6VjBmdW5iZENJWmc?oc=5",
-      "source": "ANA MPA Pontic Watch",
-      "published": "Tue, 29 Sep 2026 20:11:23 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "ποντιακή",
-        "Παμποντιακή",
-        "Παμποντιακή Ομοσπονδία Ελλάδος",
-        "ομοσπονδία"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "f74f19fe0810a9a19fd2f969",
       "mode": "pontos_voice",
       "title": "Οι γαλλικοί φάροι του Εύξεινου Πόντου, πέτρινοι φρουροί της ποντιακής ακτογραμμής - pontosnews.gr",
@@ -930,6 +912,24 @@
       "matched_keywords": [
         "Pontos",
         "ποντιακή"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "9c5f38226fc16e268044baed",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor'un efsanesinden yıllar sonra itiraf! \"Çok üzülmüştüm\"",
+      "url": "https://www.61saat.com/trabzonsporun-efsanesinden-yillar-sonra-itiraf-cok-uzulmustum",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 01 Oct 2026 23:21:00 +0300",
+      "base_score": 52,
+      "candidate_score": 67,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "açıklama",
+        "anıt",
+        "Trabzon"
       ],
       "content_type": "news"
     },
