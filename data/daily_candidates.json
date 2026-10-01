@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:10:11.997340+00:00",
+  "generated_at": "2026-10-01T09:39:21.786881+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -76,7 +76,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Wed, 30 Sep 2026 15:31:39 GMT",
         "base_score": 62,
-        "candidate_score": 76,
+        "candidate_score": 73,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -96,7 +96,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Wed, 30 Sep 2026 03:16:10 GMT",
         "base_score": 62,
-        "candidate_score": 73,
+        "candidate_score": 70,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -126,6 +126,25 @@
         "editorial_type": "Match / Analysis",
         "team": "AEK",
         "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "7c4a1c8595d47f9a75b8c7b5",
+        "mode": "sportdog",
+        "title": "Panathinaikos vs Maccabi Tel Aviv – Preview & Prediction (Oct. 02, 2026) - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUhzMl91SURDMnZPZUZTcldxckN6VEtmV1lLUXBuNldiX2tkTTZadWtmaTE2bGxhb2RBVnQxSUt3dEo3dGpUZ2kwX1FXTnNySlVLZzRkOVhxUTQ0TTgxTTRnRHZObTdSRkY2OW5HekthUTRKOFdqUk9CX09WNmZka2hJNGlubmVNQ3ZManNORlY3MnRLYzVrQzhNNDA3dw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 09:14:03 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -181,25 +200,6 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "9e2965c29c54f3e960ed362c",
-        "mode": "sportdog",
-        "title": "Panathinaikos Panetolikos 13 September 2026 Live Score and Match Summary - Yeni Şafak English",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUkyQ0o3QmZyVW15cjlxcHh0UllENWtpY1RfM0dia2pjT2dHci1RZEN5SzBzYUlRaWFCbVBEdk5FcWRnZUxUcFM4YnpxM3NFMGJBTmZ3WWZkZ3l1ZXVkMEQzYlV3NjVwdzNOdlZteFBxZXIxdk5Cdm1hZVZmdnpBOVFhdTB2WFNlVl9NUmtn?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 30 Sep 2026 12:13:52 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
@@ -280,6 +280,24 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "e3b1709f4e76b1cdd588cded",
+        "mode": "geopolitico",
+        "title": "Two Israelis arrested in Cyprus after over 27 kg. of ketamine, other drugs found in apartment - The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qUEdBMHNyV0poeUwzUTl4RFpCTzhWOU5vNmhENUp2bVVBY0FTQnRTY19JeFR1dG5UbEJveTNTSXhaWjdTcXVRVTg5Tnh1QlFLdnZsSEd5R1g?oc=5",
+        "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
+        "published": "Thu, 01 Oct 2026 09:27:04 GMT",
+        "base_score": 98,
+        "candidate_score": 113,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Israel",
+          "Israeli",
+          "Cyprus",
+          "arrest"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "b413cdd3acf6b4f0a541c0f6",
         "mode": "geopolitico",
         "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
@@ -347,22 +365,6 @@
           "adalar"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "2f6f274b72073cf11d86adb7",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken kulis: Erdoğan işareti verdi, AK Parti'de değişim beklentisi arttı - Şok Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNm5YaVZvUnN2blVxLThrd25YWTlmMm42el9oUHFUT1hUcHdjeEk3eHdwNmJpcDluOVM1RXFFa0RfQXZUbk5YSFlaVTVNWWZjS3JvNzdxMWZscTAxQUtMTGZEODZBd1J6THdWekdkNC1UT3M5R3VRWHRUc1lzZHdrb0pOUjllVzlRcHF2YlJ2Y2ZDZjBrYWZQTGdEQi01SlRObnV1TjlGN3ZpSk5JY1RNQVplU3ZPZXRERzdKeUVJMjFURkUtRmc?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Thu, 01 Oct 2026 09:00:00 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -543,7 +545,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Wed, 30 Sep 2026 15:31:39 GMT",
       "base_score": 62,
-      "candidate_score": 76,
+      "candidate_score": 73,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -563,7 +565,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Wed, 30 Sep 2026 03:16:10 GMT",
       "base_score": 62,
-      "candidate_score": 73,
+      "candidate_score": 70,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -593,6 +595,25 @@
       "editorial_type": "Match / Analysis",
       "team": "AEK",
       "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "7c4a1c8595d47f9a75b8c7b5",
+      "mode": "sportdog",
+      "title": "Panathinaikos vs Maccabi Tel Aviv – Preview & Prediction (Oct. 02, 2026) - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUhzMl91SURDMnZPZUZTcldxckN6VEtmV1lLUXBuNldiX2tkTTZadWtmaTE2bGxhb2RBVnQxSUt3dEo3dGpUZ2kwX1FXTnNySlVLZzRkOVhxUTQ0TTgxTTRnRHZObTdSRkY2OW5HekthUTRKOFdqUk9CX09WNmZka2hJNGlubmVNQ3ZManNORlY3MnRLYzVrQzhNNDA3dw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 09:14:03 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -648,25 +669,6 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "9e2965c29c54f3e960ed362c",
-      "mode": "sportdog",
-      "title": "Panathinaikos Panetolikos 13 September 2026 Live Score and Match Summary - Yeni Şafak English",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUkyQ0o3QmZyVW15cjlxcHh0UllENWtpY1RfM0dia2pjT2dHci1RZEN5SzBzYUlRaWFCbVBEdk5FcWRnZUxUcFM4YnpxM3NFMGJBTmZ3WWZkZ3l1ZXVkMEQzYlV3NjVwdzNOdlZteFBxZXIxdk5Cdm1hZVZmdnpBOVFhdTB2WFNlVl9NUmtn?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 30 Sep 2026 12:13:52 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
       "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
@@ -745,6 +747,24 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "e3b1709f4e76b1cdd588cded",
+      "mode": "geopolitico",
+      "title": "Two Israelis arrested in Cyprus after over 27 kg. of ketamine, other drugs found in apartment - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qUEdBMHNyV0poeUwzUTl4RFpCTzhWOU5vNmhENUp2bVVBY0FTQnRTY19JeFR1dG5UbEJveTNTSXhaWjdTcXVRVTg5Tnh1QlFLdnZsSEd5R1g?oc=5",
+      "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
+      "published": "Thu, 01 Oct 2026 09:27:04 GMT",
+      "base_score": 98,
+      "candidate_score": 113,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Israel",
+        "Israeli",
+        "Cyprus",
+        "arrest"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "b413cdd3acf6b4f0a541c0f6",
       "mode": "geopolitico",
       "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
@@ -812,22 +832,6 @@
         "adalar"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "2f6f274b72073cf11d86adb7",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken kulis: Erdoğan işareti verdi, AK Parti'de değişim beklentisi arttı - Şok Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNm5YaVZvUnN2blVxLThrd25YWTlmMm42el9oUHFUT1hUcHdjeEk3eHdwNmJpcDluOVM1RXFFa0RfQXZUbk5YSFlaVTVNWWZjS3JvNzdxMWZscTAxQUtMTGZEODZBd1J6THdWekdkNC1UT3M5R3VRWHRUc1lzZHdrb0pOUjllVzlRcHF2YlJ2Y2ZDZjBrYWZQTGdEQi01SlRObnV1TjlGN3ZpSk5JY1RNQVplU3ZPZXRERzdKeUVJMjFURkUtRmc?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Thu, 01 Oct 2026 09:00:00 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
     },
     {
       "external_id": "f59800aa8283f36253e9d17a",
