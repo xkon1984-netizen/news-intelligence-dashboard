@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:04:24.451292+00:00",
+  "generated_at": "2026-10-01T10:26:24.936903+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -116,7 +116,7 @@
         "source": "AEK Rumour Watch",
         "published": "Wed, 30 Sep 2026 16:07:38 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -231,7 +231,7 @@
         "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - Hürriyet",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEt3LVg1T2cxYlRjbTFUYmtOX1pLbmVGR2ZSbFJyTWxGUDZEREJHckN1QlhxOEJrRFR2Z05sN2plUGJnRGQ4UTBKNkktMmVrLVdVTmY1SmZ3M0pZTzlhUDhycUV4RVNNZWZQNUJqZzZpbXpPclUzemNNeE1ONnVreXZWQXJya0FZYWRQUlZLNFhvRTlvX0dZNDFsaDEzWW9POUNPcjBuNHVxZHdKckZwRG1mVzZZem9aYWFQc1ln?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 01 Oct 2026 08:29:40 GMT",
+        "published": "Thu, 01 Oct 2026 08:29:00 GMT",
         "base_score": 100,
         "candidate_score": 115,
         "priority": "URGENT",
@@ -239,6 +239,25 @@
           "NAVTEX",
           "Doğu Akdeniz",
           "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "2d805b366ae1deb41f9d52e0",
+        "mode": "geopolitico",
+        "title": "MSB'den, Yunanistan ile GKRY arasındaki elektrik kablo güzergahına tepki: 'Kıta sahanlığımızda izinsiz hiçbir faaliyete izin vermeyeceğiz' - Son Dakika",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDMwTldlVkx6WWxQWllWdkVnOFBibkdtXy1INDhQUmVJV1NQY1oxdVU5S1RoSkF3Tnd6UTFPcVRiVVcycGhDRWxNMU9KZ09aME9oaEZuYU1DVVIyMlVJMUVJYzRORjBEM3k1V0VDMzB2TDg5S2loblpaa0NBWEtTN1U4UWdLZXZBOVgtX0tHOFdtSTNCVGhyd05OV1VoUDhx0gGcAUFVX3lxTE1VWXN3RjFGdWN6NUF4NU0zN1Njc0RzMW5WcHk3eVU1Ql9QMUdsVjFpa0tTdlRoOTNlYnpaSE55bndIUncwMHZCR3lSSjAyOGxkMnlNamJTWk1venFXR1czaE5TMFJlSUl2Zlc1bG0xREFrYVh5UWFjQlZJZFUyMUJTRjYyYzJrOFVXcmlwNkpvXzJOUGxHNjJFQkhnNg?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 01 Oct 2026 08:16:17 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "kıta sahanlığı",
+          "MSB",
+          "tepki",
+          "kablo"
         ],
         "content_type": "turkey_greece"
       },
@@ -256,25 +275,6 @@
           "Yunanistan",
           "Türkiye Yunanistan",
           "MSB",
-          "kablo"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "148ac0c42ac5831b88d309a5",
-        "mode": "geopolitico",
-        "title": "MSB'den, Yunanistan ile GKRY arasındaki elektrik kablo güzergahına tepki: \"Kıta sahanlığımızda izinsiz hiçbir faaliyete izin vermeyeceğiz\" - Haberler",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSlE2OXhVUmJxaGtXYVVjc1kxcnRBblZRTC1vTkI2NUtnNlQ5ZndnZmVXSy1KcGN1MnN5dUNWcGpOOWU5T1U2cl9ZNWZsRHZxSnJzV2wwMDVuOF9lNjdTU0NaQnNBTldCaFZvLTdTdlZ1YkoxNk85QjktNkxJOF9jRDNPalVGYzBWVGFrZ0VZWVN5LUkwRnFIVNIBmAFBVV95cUxOSlE2OXhVUmJxaGtXYVVjc1kxcnRBblZRTC1vTkI2NUtnNlQ5ZndnZmVXSy1KcGN1MnN5dUNWcGpOOWU5T1U2cl9ZNWZsRHZxSnJzV2wwMDVuOF9lNjdTU0NaQnNBTldCaFZvLTdTdlZ1YkoxNk85QjktNkxJOF9jRDNPalVGYzBWVGFrZ0VZWVN5LUkwRnFIVA?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 01 Oct 2026 08:03:23 GMT",
-        "base_score": 100,
-        "candidate_score": 115,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "kıta sahanlığı",
-          "MSB",
-          "tepki",
           "kablo"
         ],
         "content_type": "turkey_greece"
@@ -423,23 +423,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "764acdb925ef20557b75a07c",
-        "mode": "pontos_voice",
-        "title": "Σύλλογος Ποντίων Ελευσίνας «Νέα Τραπεζούντα»: Ξεκινούν τα μαθήματα ποντιακών χορών - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEdiMy0wRFNkTnN3SlFCeVRQSklTWkE4Tm4zVnJFZ1lRU2lScU9mc1VtQW14VHRRVlJpeGtvaVdCU0ZYbzBfaTZONElTUm1teDRIbEdoVXd3cUJYdjlVSnUwdzRHN0FlWWhJZDNxVnVUdkJtZVE5QXVRbG5MejkyTkFXcVNIRElNVkdESEw2WW04RURDQXhITjR3a2duSS02dXMwbDhuRnB2Y2VkVGZxSDRCR0Z5UXNQMVAzb01oUQ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Tue, 29 Sep 2026 10:06:43 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "Τραπεζούντα",
-          "Σύλλογος Ποντίων"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "f3d14c9c99994d06c3c725f2",
         "mode": "pontos_voice",
         "title": "«Εύξεινος Πόντος» Κομοτηνής: Ήρθε η ώρα του αγιασμού για τη νέα πολιτιστική περίοδο - pontosnews.gr",
@@ -469,6 +452,25 @@
         "matched_keywords": [
           "Pontos",
           "ποντιακή"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "560fb0e005a2696e58dd2fbb",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da Fon soruşturması için flaş açıklama! \"Üzeri örtülemez\"",
+        "url": "https://www.61saat.com/trabzonda-fon-sorusturmasi-icin-flas-aciklama-uzeri-ortulemez",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 01 Oct 2026 11:20:00 +0300",
+        "base_score": 59,
+        "candidate_score": 74,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "milletvekili",
+          "belediye başkanı",
+          "açıklama",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -584,7 +586,7 @@
       "source": "AEK Rumour Watch",
       "published": "Wed, 30 Sep 2026 16:07:38 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -697,7 +699,7 @@
       "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - Hürriyet",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEt3LVg1T2cxYlRjbTFUYmtOX1pLbmVGR2ZSbFJyTWxGUDZEREJHckN1QlhxOEJrRFR2Z05sN2plUGJnRGQ4UTBKNkktMmVrLVdVTmY1SmZ3M0pZTzlhUDhycUV4RVNNZWZQNUJqZzZpbXpPclUzemNNeE1ONnVreXZWQXJya0FZYWRQUlZLNFhvRTlvX0dZNDFsaDEzWW9POUNPcjBuNHVxZHdKckZwRG1mVzZZem9aYWFQc1ln?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 01 Oct 2026 08:29:40 GMT",
+      "published": "Thu, 01 Oct 2026 08:29:00 GMT",
       "base_score": 100,
       "candidate_score": 115,
       "priority": "URGENT",
@@ -705,6 +707,25 @@
         "NAVTEX",
         "Doğu Akdeniz",
         "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "2d805b366ae1deb41f9d52e0",
+      "mode": "geopolitico",
+      "title": "MSB'den, Yunanistan ile GKRY arasındaki elektrik kablo güzergahına tepki: 'Kıta sahanlığımızda izinsiz hiçbir faaliyete izin vermeyeceğiz' - Son Dakika",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDMwTldlVkx6WWxQWllWdkVnOFBibkdtXy1INDhQUmVJV1NQY1oxdVU5S1RoSkF3Tnd6UTFPcVRiVVcycGhDRWxNMU9KZ09aME9oaEZuYU1DVVIyMlVJMUVJYzRORjBEM3k1V0VDMzB2TDg5S2loblpaa0NBWEtTN1U4UWdLZXZBOVgtX0tHOFdtSTNCVGhyd05OV1VoUDhx0gGcAUFVX3lxTE1VWXN3RjFGdWN6NUF4NU0zN1Njc0RzMW5WcHk3eVU1Ql9QMUdsVjFpa0tTdlRoOTNlYnpaSE55bndIUncwMHZCR3lSSjAyOGxkMnlNamJTWk1venFXR1czaE5TMFJlSUl2Zlc1bG0xREFrYVh5UWFjQlZJZFUyMUJTRjYyYzJrOFVXcmlwNkpvXzJOUGxHNjJFQkhnNg?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 01 Oct 2026 08:16:17 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "kıta sahanlığı",
+        "MSB",
+        "tepki",
+        "kablo"
       ],
       "content_type": "turkey_greece"
     },
@@ -722,25 +743,6 @@
         "Yunanistan",
         "Türkiye Yunanistan",
         "MSB",
-        "kablo"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "148ac0c42ac5831b88d309a5",
-      "mode": "geopolitico",
-      "title": "MSB'den, Yunanistan ile GKRY arasındaki elektrik kablo güzergahına tepki: \"Kıta sahanlığımızda izinsiz hiçbir faaliyete izin vermeyeceğiz\" - Haberler",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSlE2OXhVUmJxaGtXYVVjc1kxcnRBblZRTC1vTkI2NUtnNlQ5ZndnZmVXSy1KcGN1MnN5dUNWcGpOOWU5T1U2cl9ZNWZsRHZxSnJzV2wwMDVuOF9lNjdTU0NaQnNBTldCaFZvLTdTdlZ1YkoxNk85QjktNkxJOF9jRDNPalVGYzBWVGFrZ0VZWVN5LUkwRnFIVNIBmAFBVV95cUxOSlE2OXhVUmJxaGtXYVVjc1kxcnRBblZRTC1vTkI2NUtnNlQ5ZndnZmVXSy1KcGN1MnN5dUNWcGpOOWU5T1U2cl9ZNWZsRHZxSnJzV2wwMDVuOF9lNjdTU0NaQnNBTldCaFZvLTdTdlZ1YkoxNk85QjktNkxJOF9jRDNPalVGYzBWVGFrZ0VZWVN5LUkwRnFIVA?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 01 Oct 2026 08:03:23 GMT",
-      "base_score": 100,
-      "candidate_score": 115,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "kıta sahanlığı",
-        "MSB",
-        "tepki",
         "kablo"
       ],
       "content_type": "turkey_greece"
@@ -887,23 +889,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "764acdb925ef20557b75a07c",
-      "mode": "pontos_voice",
-      "title": "Σύλλογος Ποντίων Ελευσίνας «Νέα Τραπεζούντα»: Ξεκινούν τα μαθήματα ποντιακών χορών - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEdiMy0wRFNkTnN3SlFCeVRQSklTWkE4Tm4zVnJFZ1lRU2lScU9mc1VtQW14VHRRVlJpeGtvaVdCU0ZYbzBfaTZONElTUm1teDRIbEdoVXd3cUJYdjlVSnUwdzRHN0FlWWhJZDNxVnVUdkJtZVE5QXVRbG5MejkyTkFXcVNIRElNVkdESEw2WW04RURDQXhITjR3a2duSS02dXMwbDhuRnB2Y2VkVGZxSDRCR0Z5UXNQMVAzb01oUQ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Tue, 29 Sep 2026 10:06:43 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "Τραπεζούντα",
-        "Σύλλογος Ποντίων"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "f3d14c9c99994d06c3c725f2",
       "mode": "pontos_voice",
       "title": "«Εύξεινος Πόντος» Κομοτηνής: Ήρθε η ώρα του αγιασμού για τη νέα πολιτιστική περίοδο - pontosnews.gr",
@@ -933,6 +918,25 @@
       "matched_keywords": [
         "Pontos",
         "ποντιακή"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "560fb0e005a2696e58dd2fbb",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da Fon soruşturması için flaş açıklama! \"Üzeri örtülemez\"",
+      "url": "https://www.61saat.com/trabzonda-fon-sorusturmasi-icin-flas-aciklama-uzeri-ortulemez",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 01 Oct 2026 11:20:00 +0300",
+      "base_score": 59,
+      "candidate_score": 74,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "milletvekili",
+        "belediye başkanı",
+        "açıklama",
+        "Trabzon"
       ],
       "content_type": "news"
     }
