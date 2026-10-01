@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T11:08:23.022375+00:00",
+  "generated_at": "2026-10-01T11:28:09.004365+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 12,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -167,9 +167,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "6b7e430119a23cebceec6ba7",
+        "external_id": "d22a1ce8fc1756038819f0c4",
         "mode": "sportdog",
-        "title": "EuroLeague roundup: Panathinaikos dominates ASVEL, Beşiktaş claims first win in Belgrade - eurohoops.net",
+        "title": "EuroLeague roundup: Panathinaikos dominates ASVEL, Beşiktaş claims first win in Belgrade - Eurohoops",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2JZNkJGdGo4djF5NVhlZDk4Mmp0SG54TWxJYTJFOVBwVTJkUGhuUV9FQ1lZV2N4TTd0eEp1TzVudFJTUlNKQTRER0dXa284amxsaTdyLUlnUTVRVzhPRUM3UktNazB6S2V1Z2lkVWFVSVVBUng1eDZYemQyazdRVlA1OTFmaERaT0hXNlpWaThhZGs?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 30 Sep 2026 20:38:24 GMT",
@@ -205,9 +205,28 @@
         "needs_second_source": true
       },
       {
-        "external_id": "cc65c106110b4f6d3f4297a9",
+        "external_id": "f27a6d4c150aff7a44e75f96",
         "mode": "sportdog",
-        "title": "Donatas Motiejunas officially strengthens PAOK - eurohoops.net",
+        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Wed, 30 Sep 2026 19:25:43 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6e7a59d408bf3143e39f6cca",
+        "mode": "sportdog",
+        "title": "Donatas Motiejunas officially strengthens PAOK - Eurohoops",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Wed, 30 Sep 2026 10:06:00 GMT",
@@ -226,9 +245,9 @@
     ],
     "geopolitico": [
       {
-        "external_id": "000364fd23251fd02e80997b",
+        "external_id": "acca76409026bb14c81e7d49",
         "mode": "geopolitico",
-        "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - hurriyet.com.tr",
+        "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - Hürriyet",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEt3LVg1T2cxYlRjbTFUYmtOX1pLbmVGR2ZSbFJyTWxGUDZEREJHckN1QlhxOEJrRFR2Z05sN2plUGJnRGQ4UTBKNkktMmVrLVdVTmY1SmZ3M0pZTzlhUDhycUV4RVNNZWZQNUJqZzZpbXpPclUzemNNeE1ONnVreXZWQXJya0FZYWRQUlZLNFhvRTlvX0dZNDFsaDEzWW9POUNPcjBuNHVxZHdKckZwRG1mVzZZem9aYWFQc1ln?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 01 Oct 2026 08:29:00 GMT",
@@ -250,7 +269,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 01 Oct 2026 08:16:17 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -262,9 +281,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "9cbc3c5dd5804d9f5947e663",
+        "external_id": "526d096618f5b45aec04a9de",
         "mode": "geopolitico",
-        "title": "Son Dakika | Türkiye Yunanistan'ın Akdeniz'deki 'kablo' planına izin vermeyecek! MSB açıkladı - Halk TV",
+        "title": "Son Dakika | Türkiye Yunanistan'ın Akdeniz'deki 'kablo' planına izin vermeyecek! MSB açıkladı - halktv.com.tr",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXpiY0NKMGhraVIxRGh2TmctUkxxYjc4Y1pXanpzQjR3SU90U1ZDMnZ2Ty1UcG9UX1pnZHJnWFpKajdTNzFobkc2WkRKZEtQLUxkRXZMQjB3OTdIa2R4TElmeUlUaVN6emkxaDl5SFVKamw1VkhXQjM1Wmd3MUdwU2xzbXdmZldsNWNteEU5U1pQRVd5SXdwU01xdm0yM2hDV3kwX2lybjl6dk8ybGJFVmZmUUxFbmRsY1JneEw1SklTR1E?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 01 Oct 2026 08:06:00 GMT",
@@ -367,26 +386,6 @@
     ],
     "pontos_voice": [
       {
-        "external_id": "f59800aa8283f36253e9d17a",
-        "mode": "pontos_voice",
-        "title": "Trabzon’da turistik noktalara kış ayarı! Ziyaret saatleri değişti",
-        "url": "https://www.61saat.com/trabzonda-turistik-noktalara-kis-ayari-ziyaret-saatleri-degisti",
-        "source": "61Saat Trabzon",
-        "published": "Thu, 01 Oct 2026 10:42:00 +0300",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Trabzon",
-          "Kızlar Manastırı",
-          "manastır",
-          "manastır",
-          "müze",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "dd6f10f20908267ded082c77",
         "mode": "pontos_voice",
         "title": "Κύπρος: Εγκαίνια για την Παναγία Σουμελά στο Αλεθρικό – Το αναλυτικό πρόγραμμα - pontosnews.gr",
@@ -462,13 +461,30 @@
         "source": "61Saat Trabzon",
         "published": "Thu, 01 Oct 2026 11:20:00 +0300",
         "base_score": 59,
-        "candidate_score": 74,
-        "priority": "High",
+        "candidate_score": 69,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "milletvekili",
           "belediye başkanı",
           "açıklama",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "a6fbfb49a343dc57f1ad509d",
+        "mode": "pontos_voice",
+        "title": "Trabzon’da Çağlayan başlangıç olacak! Diğer mahalleler için de Kentsel Dönüşüm Planı belli oldu",
+        "url": "https://www.61saat.com/trabzonda-caglayan-baslangic-olacak-diger-mahalleler-icin-de-kentsel-donusum-plani-belli-oldu",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 01 Oct 2026 14:20:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "belediye başkanı",
           "Trabzon"
         ],
         "content_type": "news"
@@ -636,9 +652,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "6b7e430119a23cebceec6ba7",
+      "external_id": "d22a1ce8fc1756038819f0c4",
       "mode": "sportdog",
-      "title": "EuroLeague roundup: Panathinaikos dominates ASVEL, Beşiktaş claims first win in Belgrade - eurohoops.net",
+      "title": "EuroLeague roundup: Panathinaikos dominates ASVEL, Beşiktaş claims first win in Belgrade - Eurohoops",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2JZNkJGdGo4djF5NVhlZDk4Mmp0SG54TWxJYTJFOVBwVTJkUGhuUV9FQ1lZV2N4TTd0eEp1TzVudFJTUlNKQTRER0dXa284amxsaTdyLUlnUTVRVzhPRUM3UktNazB6S2V1Z2lkVWFVSVVBUng1eDZYemQyazdRVlA1OTFmaERaT0hXNlpWaThhZGs?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 30 Sep 2026 20:38:24 GMT",
@@ -674,9 +690,28 @@
       "needs_second_source": true
     },
     {
-      "external_id": "cc65c106110b4f6d3f4297a9",
+      "external_id": "f27a6d4c150aff7a44e75f96",
       "mode": "sportdog",
-      "title": "Donatas Motiejunas officially strengthens PAOK - eurohoops.net",
+      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Wed, 30 Sep 2026 19:25:43 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6e7a59d408bf3143e39f6cca",
+      "mode": "sportdog",
+      "title": "Donatas Motiejunas officially strengthens PAOK - Eurohoops",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Wed, 30 Sep 2026 10:06:00 GMT",
@@ -693,9 +728,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "000364fd23251fd02e80997b",
+      "external_id": "acca76409026bb14c81e7d49",
       "mode": "geopolitico",
-      "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - hurriyet.com.tr",
+      "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - Hürriyet",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEt3LVg1T2cxYlRjbTFUYmtOX1pLbmVGR2ZSbFJyTWxGUDZEREJHckN1QlhxOEJrRFR2Z05sN2plUGJnRGQ4UTBKNkktMmVrLVdVTmY1SmZ3M0pZTzlhUDhycUV4RVNNZWZQNUJqZzZpbXpPclUzemNNeE1ONnVreXZWQXJya0FZYWRQUlZLNFhvRTlvX0dZNDFsaDEzWW9POUNPcjBuNHVxZHdKckZwRG1mVzZZem9aYWFQc1ln?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 01 Oct 2026 08:29:00 GMT",
@@ -717,7 +752,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 01 Oct 2026 08:16:17 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -729,9 +764,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "9cbc3c5dd5804d9f5947e663",
+      "external_id": "526d096618f5b45aec04a9de",
       "mode": "geopolitico",
-      "title": "Son Dakika | Türkiye Yunanistan'ın Akdeniz'deki 'kablo' planına izin vermeyecek! MSB açıkladı - Halk TV",
+      "title": "Son Dakika | Türkiye Yunanistan'ın Akdeniz'deki 'kablo' planına izin vermeyecek! MSB açıkladı - halktv.com.tr",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXpiY0NKMGhraVIxRGh2TmctUkxxYjc4Y1pXanpzQjR3SU90U1ZDMnZ2Ty1UcG9UX1pnZHJnWFpKajdTNzFobkc2WkRKZEtQLUxkRXZMQjB3OTdIa2R4TElmeUlUaVN6emkxaDl5SFVKamw1VkhXQjM1Wmd3MUdwU2xzbXdmZldsNWNteEU5U1pQRVd5SXdwU01xdm0yM2hDV3kwX2lybjl6dk8ybGJFVmZmUUxFbmRsY1JneEw1SklTR1E?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 01 Oct 2026 08:06:00 GMT",
@@ -832,26 +867,6 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "f59800aa8283f36253e9d17a",
-      "mode": "pontos_voice",
-      "title": "Trabzon’da turistik noktalara kış ayarı! Ziyaret saatleri değişti",
-      "url": "https://www.61saat.com/trabzonda-turistik-noktalara-kis-ayari-ziyaret-saatleri-degisti",
-      "source": "61Saat Trabzon",
-      "published": "Thu, 01 Oct 2026 10:42:00 +0300",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Trabzon",
-        "Kızlar Manastırı",
-        "manastır",
-        "manastır",
-        "müze",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "dd6f10f20908267ded082c77",
       "mode": "pontos_voice",
       "title": "Κύπρος: Εγκαίνια για την Παναγία Σουμελά στο Αλεθρικό – Το αναλυτικό πρόγραμμα - pontosnews.gr",
@@ -927,13 +942,30 @@
       "source": "61Saat Trabzon",
       "published": "Thu, 01 Oct 2026 11:20:00 +0300",
       "base_score": 59,
-      "candidate_score": 74,
-      "priority": "High",
+      "candidate_score": 69,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "milletvekili",
         "belediye başkanı",
         "açıklama",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "a6fbfb49a343dc57f1ad509d",
+      "mode": "pontos_voice",
+      "title": "Trabzon’da Çağlayan başlangıç olacak! Diğer mahalleler için de Kentsel Dönüşüm Planı belli oldu",
+      "url": "https://www.61saat.com/trabzonda-caglayan-baslangic-olacak-diger-mahalleler-icin-de-kentsel-donusum-plani-belli-oldu",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 01 Oct 2026 14:20:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "belediye başkanı",
         "Trabzon"
       ],
       "content_type": "news"
