@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T05:29:07.292678+00:00",
+  "generated_at": "2026-10-01T05:51:43.478568+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -105,6 +105,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "67567d6de2c683a3e73bed07",
+        "mode": "sportdog",
+        "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Wed, 30 Sep 2026 16:07:38 GMT",
+        "base_score": 50,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -276,6 +296,23 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "a3e3105728e66b5b6bb6b0b6",
+        "mode": "geopolitico",
+        "title": "Pakistani airstrikes in Afghanistan kill nine civilians, Kabul says; Pakistan says only militants hit - The New Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXV1Nm5fbXRtZTVZRC13OTRjZ0pCVlYxamVjcDh4TlhHQndmamRKT2d0bWxEQXp6TjNISkZuSGZCOUJXYW9OQUxCYkRLQ2NoY2dRcmp5am1vXzhNZG9kMW5KaVU3Tm1jMl9FTzdGZnNhUFF5MU1uZkdRM3VIazR2elgzenFHWmwtUl9NaXNBTE1QVXI1TUVrNG5wV1RmdXZBWHNrT2ZLMGNpclVKLTdCU1NrclBTeVQ0enFxZnZYLUZHMEY3VzFRRTg0aUNvQTljYXprbHBFQzltcHZhYXM4azY1RG3SAfIBQVVfeXFMUHk3SnZIT1NUekhaWkEwVWVmOWJIZ0ZwdGpWQ2plUzNCdlV3YTlNQnVwNXIwWks3MGJWSmE0WjZ1bzl1UGtlRWFvWmZvR2sxcmpvcGZzZVg3elhaLXVLb1RPeTVqOFVyWVZGWllWYXZoem8xcm9QX2R3UkZucGlDWnE4cUt3MC15UVllSmlVaFlhbWRsd1dMUlZ4M292T2FKNjRxVVhFYkVUSnlMOHhnR212V2pTMUxraTYyb2QwZEZOVFFVX2hYQVFpWHNHNlByWk5PbWk1emFSTTZUQUhCYVFFNklRRjBVZjU1UGFjNkc2bWc?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Thu, 01 Oct 2026 05:33:43 GMT",
+        "base_score": 77,
+        "candidate_score": 92,
+        "priority": "High",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Pakistani"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "4bf20cde3a98e7eece893092",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Erdoğan işareti verdi temizlik geliyor | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
@@ -292,9 +329,9 @@
         "content_type": "analyst"
       },
       {
-        "external_id": "de25dd7a6ea59fc7515547f5",
+        "external_id": "9fb1e3adff0d1e9d0301d46b",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Michael Rubin — Exclusive | Fanatics CEO Michael Rubin vows to 'spend whatever it takes' to fend off 'extortion' lawsuits - nypost.com",
+        "title": "[ANALYST WATCH] Michael Rubin — Exclusive | Fanatics CEO Michael Rubin vows to 'spend whatever it takes' to fend off 'extortion' lawsuits - New York Post",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMjVSQm1makwxZ0wzS1Y3TlJGdl9BS3Q2NzhVa1hsQkRMQm4zTWs3RmpLa0Q2M2tCRl8yZUk2cnZBUTBoU3dvQW5YRjZYdTQzeUMyamFlbVFETnMzSHZWQjlVaDhERnVTUXpxTUw5VDEtT0JaeEdtNzFRYlctdFg5dlIzaVIyNVNidHFJTFR5bG8yQmNTRWtEcXM3bkxINk1XbUVKWUIxdEc0VVhjbi10Z1pvLUdGaTNaNGVHWTdDRkNIVWpyVHc?oc=5",
         "source": "Analysts Watch · United States",
         "published": "Wed, 30 Sep 2026 22:23:00 GMT",
@@ -323,23 +360,6 @@
           "ada",
           "adalar",
           "savunma"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "85c0875c7786fa1c1da02691",
-        "mode": "geopolitico",
-        "title": "Güney Kıbrıs’ta ABD, İngiltere, Fransa ve Mısır askerleri törende yürüyecek! - Haber Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUphX1dBZkp0V1l1R0cwVjVMNzBFOVlja1g4ZHhpZ0Q2WnVQY0IteldMUDY4WjdaOUp2MllXVW1aamZ6MmZ1Zlg1dFE2ZUF5X09ieGdHcmI3cDZjc01RNkd2WGJHcmlRWjRDSTlKZjVCNGxLbGhkc2FSUHA3aTUzWlBWeXZkZlI2dy1kWTlmelpWcFdEdm1DaFV2ckdjcGJNRDFvR1kwOWY2bnEwUGVtcUZicmphWlJF?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Wed, 30 Sep 2026 11:25:40 GMT",
-        "base_score": 78,
-        "candidate_score": 81,
-        "priority": "High",
-        "matched_keywords": [
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "Fransa"
         ],
         "content_type": "turkey_greece"
       }
@@ -431,18 +451,17 @@
         "content_type": "news"
       },
       {
-        "external_id": "6f4377072be3e4ceb72cc8ae",
+        "external_id": "edc050d098182bd5486c8946",
         "mode": "pontos_voice",
-        "title": "Trabzon sokaklarında sürpriz görüntüler! Akşam sahaya çıkacaklar",
-        "url": "https://www.61saat.com/trabzon-sokaklarinda-surpriz-goruntuler-aksam-sahaya-cikacaklar",
+        "title": "Yomra ve Arsin'de muhtarlar ile gönül gönüle",
+        "url": "https://www.61saat.com/yomra-ve-arsinde-muhtarlar-ile-gonul-gonule-1",
         "source": "61Saat Trabzon",
-        "published": "Thu, 01 Oct 2026 08:15:00 +0300",
-        "base_score": 46,
-        "candidate_score": 61,
+        "published": "Thu, 01 Oct 2026 08:44:00 +0300",
+        "base_score": 34,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "müze",
           "Trabzon"
         ],
         "content_type": "news"
@@ -548,6 +567,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "67567d6de2c683a3e73bed07",
+      "mode": "sportdog",
+      "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Wed, 30 Sep 2026 16:07:38 GMT",
+      "base_score": 50,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -717,6 +756,23 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "a3e3105728e66b5b6bb6b0b6",
+      "mode": "geopolitico",
+      "title": "Pakistani airstrikes in Afghanistan kill nine civilians, Kabul says; Pakistan says only militants hit - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXV1Nm5fbXRtZTVZRC13OTRjZ0pCVlYxamVjcDh4TlhHQndmamRKT2d0bWxEQXp6TjNISkZuSGZCOUJXYW9OQUxCYkRLQ2NoY2dRcmp5am1vXzhNZG9kMW5KaVU3Tm1jMl9FTzdGZnNhUFF5MU1uZkdRM3VIazR2elgzenFHWmwtUl9NaXNBTE1QVXI1TUVrNG5wV1RmdXZBWHNrT2ZLMGNpclVKLTdCU1NrclBTeVQ0enFxZnZYLUZHMEY3VzFRRTg0aUNvQTljYXprbHBFQzltcHZhYXM4azY1RG3SAfIBQVVfeXFMUHk3SnZIT1NUekhaWkEwVWVmOWJIZ0ZwdGpWQ2plUzNCdlV3YTlNQnVwNXIwWks3MGJWSmE0WjZ1bzl1UGtlRWFvWmZvR2sxcmpvcGZzZVg3elhaLXVLb1RPeTVqOFVyWVZGWllWYXZoem8xcm9QX2R3UkZucGlDWnE4cUt3MC15UVllSmlVaFlhbWRsd1dMUlZ4M292T2FKNjRxVVhFYkVUSnlMOHhnR212V2pTMUxraTYyb2QwZEZOVFFVX2hYQVFpWHNHNlByWk5PbWk1emFSTTZUQUhCYVFFNklRRjBVZjU1UGFjNkc2bWc?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Thu, 01 Oct 2026 05:33:43 GMT",
+      "base_score": 77,
+      "candidate_score": 92,
+      "priority": "High",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Pakistani"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "4bf20cde3a98e7eece893092",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Erdoğan işareti verdi temizlik geliyor | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
@@ -733,9 +789,9 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "de25dd7a6ea59fc7515547f5",
+      "external_id": "9fb1e3adff0d1e9d0301d46b",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Michael Rubin — Exclusive | Fanatics CEO Michael Rubin vows to 'spend whatever it takes' to fend off 'extortion' lawsuits - nypost.com",
+      "title": "[ANALYST WATCH] Michael Rubin — Exclusive | Fanatics CEO Michael Rubin vows to 'spend whatever it takes' to fend off 'extortion' lawsuits - New York Post",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMjVSQm1makwxZ0wzS1Y3TlJGdl9BS3Q2NzhVa1hsQkRMQm4zTWs3RmpLa0Q2M2tCRl8yZUk2cnZBUTBoU3dvQW5YRjZYdTQzeUMyamFlbVFETnMzSHZWQjlVaDhERnVTUXpxTUw5VDEtT0JaeEdtNzFRYlctdFg5dlIzaVIyNVNidHFJTFR5bG8yQmNTRWtEcXM3bkxINk1XbUVKWUIxdEc0VVhjbi10Z1pvLUdGaTNaNGVHWTdDRkNIVWpyVHc?oc=5",
       "source": "Analysts Watch · United States",
       "published": "Wed, 30 Sep 2026 22:23:00 GMT",
@@ -764,23 +820,6 @@
         "ada",
         "adalar",
         "savunma"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "85c0875c7786fa1c1da02691",
-      "mode": "geopolitico",
-      "title": "Güney Kıbrıs’ta ABD, İngiltere, Fransa ve Mısır askerleri törende yürüyecek! - Haber Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUphX1dBZkp0V1l1R0cwVjVMNzBFOVlja1g4ZHhpZ0Q2WnVQY0IteldMUDY4WjdaOUp2MllXVW1aamZ6MmZ1Zlg1dFE2ZUF5X09ieGdHcmI3cDZjc01RNkd2WGJHcmlRWjRDSTlKZjVCNGxLbGhkc2FSUHA3aTUzWlBWeXZkZlI2dy1kWTlmelpWcFdEdm1DaFV2ckdjcGJNRDFvR1kwOWY2bnEwUGVtcUZicmphWlJF?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Wed, 30 Sep 2026 11:25:40 GMT",
-      "base_score": 78,
-      "candidate_score": 81,
-      "priority": "High",
-      "matched_keywords": [
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "Fransa"
       ],
       "content_type": "turkey_greece"
     },
@@ -870,18 +909,17 @@
       "content_type": "news"
     },
     {
-      "external_id": "6f4377072be3e4ceb72cc8ae",
+      "external_id": "edc050d098182bd5486c8946",
       "mode": "pontos_voice",
-      "title": "Trabzon sokaklarında sürpriz görüntüler! Akşam sahaya çıkacaklar",
-      "url": "https://www.61saat.com/trabzon-sokaklarinda-surpriz-goruntuler-aksam-sahaya-cikacaklar",
+      "title": "Yomra ve Arsin'de muhtarlar ile gönül gönüle",
+      "url": "https://www.61saat.com/yomra-ve-arsinde-muhtarlar-ile-gonul-gonule-1",
       "source": "61Saat Trabzon",
-      "published": "Thu, 01 Oct 2026 08:15:00 +0300",
-      "base_score": 46,
-      "candidate_score": 61,
+      "published": "Thu, 01 Oct 2026 08:44:00 +0300",
+      "base_score": 34,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "müze",
         "Trabzon"
       ],
       "content_type": "news"
