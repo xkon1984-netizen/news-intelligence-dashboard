@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T11:52:59.966699+00:00",
+  "generated_at": "2026-10-01T12:10:13.540523+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 12,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -109,9 +109,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "67567d6de2c683a3e73bed07",
+        "external_id": "e783e61f1ce437cf51a1c7ff",
         "mode": "sportdog",
-        "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+        "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - goal.com",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
         "source": "AEK Rumour Watch",
         "published": "Wed, 30 Sep 2026 16:07:38 GMT",
@@ -201,6 +201,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "f27a6d4c150aff7a44e75f96",
+        "mode": "sportdog",
+        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Wed, 30 Sep 2026 19:25:43 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -349,20 +368,22 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "2f6f274b72073cf11d86adb7",
+        "external_id": "76e56c3a3579fd3c0b9c2237",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken kulis: Erdoğan işareti verdi, AK Parti'de değişim beklentisi arttı - Şok Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNm5YaVZvUnN2blVxLThrd25YWTlmMm42el9oUHFUT1hUcHdjeEk3eHdwNmJpcDluOVM1RXFFa0RfQXZUbk5YSFlaVTVNWWZjS3JvNzdxMWZscTAxQUtMTGZEODZBd1J6THdWekdkNC1UT3M5R3VRWHRUc1lzZHdrb0pOUjllVzlRcHF2YlJ2Y2ZDZjBrYWZQTGdEQi01SlRObnV1TjlGN3ZpSk5JY1RNQVplU3ZPZXRERzdKeUVJMjFURkUtRmc?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Thu, 01 Oct 2026 09:00:00 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
+        "title": "Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Thu, 01 Oct 2026 11:08:50 GMT",
+        "base_score": 77,
+        "candidate_score": 92,
         "priority": "High",
         "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
+          "India",
+          "Modi",
+          "tariffs",
+          "terrorism"
         ],
-        "content_type": "analyst"
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -573,9 +594,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "67567d6de2c683a3e73bed07",
+      "external_id": "e783e61f1ce437cf51a1c7ff",
       "mode": "sportdog",
-      "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+      "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - goal.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
       "source": "AEK Rumour Watch",
       "published": "Wed, 30 Sep 2026 16:07:38 GMT",
@@ -665,6 +686,25 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "f27a6d4c150aff7a44e75f96",
+      "mode": "sportdog",
+      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Wed, 30 Sep 2026 19:25:43 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -811,20 +851,22 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "2f6f274b72073cf11d86adb7",
+      "external_id": "76e56c3a3579fd3c0b9c2237",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken kulis: Erdoğan işareti verdi, AK Parti'de değişim beklentisi arttı - Şok Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNm5YaVZvUnN2blVxLThrd25YWTlmMm42el9oUHFUT1hUcHdjeEk3eHdwNmJpcDluOVM1RXFFa0RfQXZUbk5YSFlaVTVNWWZjS3JvNzdxMWZscTAxQUtMTGZEODZBd1J6THdWekdkNC1UT3M5R3VRWHRUc1lzZHdrb0pOUjllVzlRcHF2YlJ2Y2ZDZjBrYWZQTGdEQi01SlRObnV1TjlGN3ZpSk5JY1RNQVplU3ZPZXRERzdKeUVJMjFURkUtRmc?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Thu, 01 Oct 2026 09:00:00 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
+      "title": "Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Thu, 01 Oct 2026 11:08:50 GMT",
+      "base_score": 77,
+      "candidate_score": 92,
       "priority": "High",
       "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
+        "India",
+        "Modi",
+        "tariffs",
+        "terrorism"
       ],
-      "content_type": "analyst"
+      "content_type": "news"
     },
     {
       "external_id": "dd6f10f20908267ded082c77",
