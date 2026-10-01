@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T00:58:59.528084+00:00",
+  "generated_at": "2026-10-01T01:25:47.090419+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -106,26 +106,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "67567d6de2c683a3e73bed07",
-        "mode": "sportdog",
-        "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Wed, 30 Sep 2026 16:07:38 GMT",
-        "base_score": 50,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "Champions League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -323,7 +303,7 @@
         "source": "Analysts Watch · United States",
         "published": "Wed, 30 Sep 2026 22:23:00 GMT",
         "base_score": 75,
-        "candidate_score": 90,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Michael Rubin",
@@ -466,7 +446,7 @@
         "source": "Pontos News Watch",
         "published": "Wed, 30 Sep 2026 07:16:09 GMT",
         "base_score": 72,
-        "candidate_score": 78,
+        "candidate_score": 75,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -576,26 +556,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "67567d6de2c683a3e73bed07",
-      "mode": "sportdog",
-      "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Wed, 30 Sep 2026 16:07:38 GMT",
-      "base_score": 50,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "Champions League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -791,7 +751,7 @@
       "source": "Analysts Watch · United States",
       "published": "Wed, 30 Sep 2026 22:23:00 GMT",
       "base_score": 75,
-      "candidate_score": 90,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Michael Rubin",
@@ -932,7 +892,7 @@
       "source": "Pontos News Watch",
       "published": "Wed, 30 Sep 2026 07:16:09 GMT",
       "base_score": 72,
-      "candidate_score": 78,
+      "candidate_score": 75,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
