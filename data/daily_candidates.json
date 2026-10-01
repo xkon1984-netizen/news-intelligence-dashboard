@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-01T02:24:51.896636+00:00",
+  "generated_at": "2026-10-01T02:52:22.948798+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "5de41e06b68f19e4a81b7984",
+        "external_id": "bad4a1aa6ce3879810bc9cbf",
         "mode": "sportdog",
-        "title": "Chivas Receives Major Update on Diego Campillo Amid Olympiacos Transfer Rumors - pasionfutbol.com",
+        "title": "Chivas Receives Major Update on Diego Campillo Amid Olympiacos Transfer Rumors - Pasión Fútbol",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmJTbGFJb3lIcWNSYTVYbjhOcWtRc19iZGw4YUJDU0hvM3ZsOUEyeXdTVjgzTU52U2pXUmFkWVF1ZjJRSExSa0hBX1JuY1VXRjJhZURjZVBydnZpZ2t4cmpNR1lkVmlwWGo0Wi1TRjhESUVPQW5EbDlUb0FKaVV0U080ZHRFbFpGNThuekhZSFVkaXl3Q2RXSlh1TUpZLTgtUWRFd1Nsd0hiTTkxVTZYMlFCQXBURDZRQ3FRT2VPWHJCS1BQdGgzN0N5SmstejDSAc8BQVVfeXFMUHJiU2xhSW95SHFjUmE1WG44TnFrUXNfYmRsOGFCQ1NIbzN2bDlBMnl3U1Y4M01OdlNqV1JhZFlRdWYyUUhMUmtIQV9SbmNVV0YyYWVEY2VQcnZ2aWdreHJqTUdZZFZpcFhqNFotU0Y4RElFT0FuRGw5VG9BSmlVdFNPNGR0RWxaRjU4bnpIWUhVZGl5d0NkV0pYdU1KWS04LVFkRXdTbHdIYk05MVU2WDJRQkFwVEQ2UUNxUU9lT1hyQktQUHRoMzdDeUprLXow?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 29 Sep 2026 15:10:00 GMT",
@@ -57,7 +57,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Wed, 30 Sep 2026 18:39:57 GMT",
         "base_score": 56,
-        "candidate_score": 84,
+        "candidate_score": 80,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -106,6 +106,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "67567d6de2c683a3e73bed07",
+        "mode": "sportdog",
+        "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Wed, 30 Sep 2026 16:07:38 GMT",
+        "base_score": 50,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -458,9 +478,9 @@
   },
   "items": [
     {
-      "external_id": "5de41e06b68f19e4a81b7984",
+      "external_id": "bad4a1aa6ce3879810bc9cbf",
       "mode": "sportdog",
-      "title": "Chivas Receives Major Update on Diego Campillo Amid Olympiacos Transfer Rumors - pasionfutbol.com",
+      "title": "Chivas Receives Major Update on Diego Campillo Amid Olympiacos Transfer Rumors - Pasión Fútbol",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmJTbGFJb3lIcWNSYTVYbjhOcWtRc19iZGw4YUJDU0hvM3ZsOUEyeXdTVjgzTU52U2pXUmFkWVF1ZjJRSExSa0hBX1JuY1VXRjJhZURjZVBydnZpZ2t4cmpNR1lkVmlwWGo0Wi1TRjhESUVPQW5EbDlUb0FKaVV0U080ZHRFbFpGNThuekhZSFVkaXl3Q2RXSlh1TUpZLTgtUWRFd1Nsd0hiTTkxVTZYMlFCQXBURDZRQ3FRT2VPWHJCS1BQdGgzN0N5SmstejDSAc8BQVVfeXFMUHJiU2xhSW95SHFjUmE1WG44TnFrUXNfYmRsOGFCQ1NIbzN2bDlBMnl3U1Y4M01OdlNqV1JhZFlRdWYyUUhMUmtIQV9SbmNVV0YyYWVEY2VQcnZ2aWdreHJqTUdZZFZpcFhqNFotU0Y4RElFT0FuRGw5VG9BSmlVdFNPNGR0RWxaRjU4bnpIWUhVZGl5d0NkV0pYdU1KWS04LVFkRXdTbHdIYk05MVU2WDJRQkFwVEQ2UUNxUU9lT1hyQktQUHRoMzdDeUprLXow?oc=5",
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 29 Sep 2026 15:10:00 GMT",
@@ -507,7 +527,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Wed, 30 Sep 2026 18:39:57 GMT",
       "base_score": 56,
-      "candidate_score": 84,
+      "candidate_score": 80,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -556,6 +576,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "67567d6de2c683a3e73bed07",
+      "mode": "sportdog",
+      "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpsZGc0RDRqczc3M3JvdXFRek16TW42ZlFyUDkzaHlnek5GMmx1YVM4R1RrMWJBZ29hQ2hrWnNQQy1Na3k0YkVqbGQ5WnV1aGU5N2FwMTRDcVhGQlJaX1dnSHNWU0FsTTVscmVub0tHbk9kZG40MEpuSTJCRFA3aG9EakVQbjhZNFhneUZtbXdIU0xHd3RnUTNjYTlCdWVrRVFwUzdmSQ?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Wed, 30 Sep 2026 16:07:38 GMT",
+      "base_score": 50,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
