@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T22:05:19.580093+00:00",
+  "generated_at": "2026-10-01T22:23:55.858642+00:00",
   "counts": {
-    "sportdog": 12,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -70,26 +70,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "a025e97268563391efc64771",
-        "mode": "sportdog",
-        "title": "Donatas Motiejunas strengthens PAOK on a one-year deal - Eurohoops",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Wed, 30 Sep 2026 10:06:00 GMT",
-        "base_score": 56,
-        "candidate_score": 74,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "PAOK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "2abbbb86efb762d0b88973e3",
         "mode": "sportdog",
         "title": "Real Betis Interested in Olympiacos Left-Back - roundtable.io",
@@ -117,7 +97,7 @@
         "source": "AEK Rumour Watch",
         "published": "Wed, 30 Sep 2026 16:07:38 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -126,7 +106,7 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "AEK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -253,7 +233,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 01 Oct 2026 19:19:00 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -277,23 +257,6 @@
           "Yunanistan",
           "NAVTEX",
           "Oruç Reis"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "deba3d39248f97e04d5aca4d",
-        "mode": "geopolitico",
-        "title": "Yunanistan’dan Kıbrıs mesajı: “Yeniden birleşme hedefiyle yanındayız” - bugunkibris.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1lsaG56elNxQk9tOElhRXpFUU5TQmpXb1BuQURha3hJUUtUeFlzRWVaNW10UVo1OWRyN2tDeUh0ZXVyRVZDR0ZyNE0wWGd2UEVQZU10V3VEdUllem1vWHpDRnpORWYxVlM4dVJSZ3d4T3NtNHlCamFZeGxZenpDU0d3V01qWHBrUGhNOUllQkhKYUp1?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 01 Oct 2026 12:50:03 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kibris",
-          "Kıbrıs"
         ],
         "content_type": "turkey_greece"
       },
@@ -366,21 +329,39 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "72cb795160e379a969f2c9b4",
+        "external_id": "c3fa5f74a836ee129d685c61",
         "mode": "geopolitico",
-        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - TGRT Haber",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmxJeGQyMHFtNXBsdWR0dF9kTnZsTE1JM2dlUlVjQTh6cmR3RDdmaFU3ZDIzY2FSZ2g5VHRTZ21YZ3dyUHJpUm1tVHY5RVoxV2JCcTBoanVZSGlQTHU0LVNJZm9BckJ1aThZTXJ1NDdma29YTDZaRnRDUzdoYXZyUGVpNzdHNGpwSXAxbWZJQnhaOEdJbVRLeU54bEtNUUtVUFNPX2kxX0dsYklxMVBYR0dva3ktd0NfU2ViV1lvQ3paVlhW?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Thu, 01 Oct 2026 08:07:54 GMT",
-        "base_score": 86,
-        "candidate_score": 92,
+        "title": "Syrian government officials and Hezbollah held secret talks in Turkey, sources tell Reuters - The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzB6RWhCZGtnYnJ1T1pWMkNmVWp1VjZWQll0NXJVNGhkZ0IzeXFxRThqUWYyeTQ3OHpUMmNudS0teVN4X3RZRlFPbzJwQXpMV3ZfOC1vYmRqbDVkSUxVSktkMnJkME1PQzBZOWhXSFNGXzYtUU9lMTVWQTJhR0NkNjRDS2tEU1lSdGQ5aEsyME9seHVIempBQjhXSkk5bU1STUlxRFQxRDRTSk5OdnNNeDhQNDVKYkpnSWpRY25KRTdLWjYwbXlWRm1IamxzYnBycGc?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Thu, 01 Oct 2026 16:04:59 GMT",
+        "base_score": 78,
+        "candidate_score": 88,
         "priority": "High",
         "matched_keywords": [
-          "Yunanistan",
-          "kıta sahanlığı",
-          "MSB"
+          "Israel",
+          "Syria",
+          "Hezbollah",
+          "Turkey"
         ],
-        "content_type": "turkey_greece"
+        "content_type": "news"
+      },
+      {
+        "external_id": "e865703112f1ad9ff818bb1e",
+        "mode": "geopolitico",
+        "title": "Government backs SCO connectivity, but PM's Pakistan visit uncertain - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcS1IeVZnc0hXVFVBTG9DczV1UV8yalpGWTNqa2JaZlV3Vk8zVVhlckQ0S3A3ZTVldE4yZU91anZGcFhOTDNfYkkzUzNnbGFjemJjblh5ZTBOQzl5S1I2TEMtbFllS29SbDJRNml6M1c1cENMbkJSZ0VKanp5RXdGODRrd3VRTWc4a2FSWGR5eXhueU4xQU9wN2g5WmZkcXRVQWpDblRvVHBENzdveDY2ZG9BS1dGQlhBTmNnUFREam50dlF3SUtnMNIBzgFBVV95cUxNekh2V09QS0w1amx2TTZfRHBFZjgzMXNZeEl5S2tiTWdvaTVPcXY3SElJR2RLeGtKR2NwcEFqbFFpbFlSNkZuOHU3OVBqX0Y5RmJFYi1aX2JDZWtTWHNoeUhqVXQwa1pZWGQ4dWZZcmg3YUJnRDUwOTJoMHNia0JJb0pVX1ItREVRZ2VPY3FTdkFiWlR5NnpsM2dlRGRwdmQxUXFUdWlwMlZfRHIzcWw5RHNYUi1FMFpDdFZUemlPSDAzeHAtamNlR0oxVzU4dw?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Thu, 01 Oct 2026 22:09:00 GMT",
+        "base_score": 68,
+        "candidate_score": 83,
+        "priority": "High",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "connectivity"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -553,26 +534,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "a025e97268563391efc64771",
-      "mode": "sportdog",
-      "title": "Donatas Motiejunas strengthens PAOK on a one-year deal - Eurohoops",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk9KM19rUGx6WkswTFZrbzJvdV9vNTNfT2pwRDN2cUlFd0VIYVp1UWdpYnVVeTdvZmJvUjVuRG4wTjlJWEsycGFZM29qekN2YWtjU0pSMi1heEJqTHNYV29VQXk0N2lWTFhCX0tldWlsMHhmb2I3X2RxRHY3US1ZNm5uNFptaEd3ZlhRVXp4eTlFTkMxcUNN?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Wed, 30 Sep 2026 10:06:00 GMT",
-      "base_score": 56,
-      "candidate_score": 74,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "PAOK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "2abbbb86efb762d0b88973e3",
       "mode": "sportdog",
       "title": "Real Betis Interested in Olympiacos Left-Back - roundtable.io",
@@ -600,7 +561,7 @@
       "source": "AEK Rumour Watch",
       "published": "Wed, 30 Sep 2026 16:07:38 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -609,7 +570,7 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "AEK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -734,7 +695,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 01 Oct 2026 19:19:00 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -758,23 +719,6 @@
         "Yunanistan",
         "NAVTEX",
         "Oruç Reis"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "deba3d39248f97e04d5aca4d",
-      "mode": "geopolitico",
-      "title": "Yunanistan’dan Kıbrıs mesajı: “Yeniden birleşme hedefiyle yanındayız” - bugunkibris.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1lsaG56elNxQk9tOElhRXpFUU5TQmpXb1BuQURha3hJUUtUeFlzRWVaNW10UVo1OWRyN2tDeUh0ZXVyRVZDR0ZyNE0wWGd2UEVQZU10V3VEdUllem1vWHpDRnpORWYxVlM4dVJSZ3d4T3NtNHlCamFZeGxZenpDU0d3V01qWHBrUGhNOUllQkhKYUp1?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 01 Oct 2026 12:50:03 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kibris",
-        "Kıbrıs"
       ],
       "content_type": "turkey_greece"
     },
@@ -847,21 +791,39 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "72cb795160e379a969f2c9b4",
+      "external_id": "c3fa5f74a836ee129d685c61",
       "mode": "geopolitico",
-      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - TGRT Haber",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmxJeGQyMHFtNXBsdWR0dF9kTnZsTE1JM2dlUlVjQTh6cmR3RDdmaFU3ZDIzY2FSZ2g5VHRTZ21YZ3dyUHJpUm1tVHY5RVoxV2JCcTBoanVZSGlQTHU0LVNJZm9BckJ1aThZTXJ1NDdma29YTDZaRnRDUzdoYXZyUGVpNzdHNGpwSXAxbWZJQnhaOEdJbVRLeU54bEtNUUtVUFNPX2kxX0dsYklxMVBYR0dva3ktd0NfU2ViV1lvQ3paVlhW?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Thu, 01 Oct 2026 08:07:54 GMT",
-      "base_score": 86,
-      "candidate_score": 92,
+      "title": "Syrian government officials and Hezbollah held secret talks in Turkey, sources tell Reuters - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzB6RWhCZGtnYnJ1T1pWMkNmVWp1VjZWQll0NXJVNGhkZ0IzeXFxRThqUWYyeTQ3OHpUMmNudS0teVN4X3RZRlFPbzJwQXpMV3ZfOC1vYmRqbDVkSUxVSktkMnJkME1PQzBZOWhXSFNGXzYtUU9lMTVWQTJhR0NkNjRDS2tEU1lSdGQ5aEsyME9seHVIempBQjhXSkk5bU1STUlxRFQxRDRTSk5OdnNNeDhQNDVKYkpnSWpRY25KRTdLWjYwbXlWRm1IamxzYnBycGc?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Thu, 01 Oct 2026 16:04:59 GMT",
+      "base_score": 78,
+      "candidate_score": 88,
       "priority": "High",
       "matched_keywords": [
-        "Yunanistan",
-        "kıta sahanlığı",
-        "MSB"
+        "Israel",
+        "Syria",
+        "Hezbollah",
+        "Turkey"
       ],
-      "content_type": "turkey_greece"
+      "content_type": "news"
+    },
+    {
+      "external_id": "e865703112f1ad9ff818bb1e",
+      "mode": "geopolitico",
+      "title": "Government backs SCO connectivity, but PM's Pakistan visit uncertain - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcS1IeVZnc0hXVFVBTG9DczV1UV8yalpGWTNqa2JaZlV3Vk8zVVhlckQ0S3A3ZTVldE4yZU91anZGcFhOTDNfYkkzUzNnbGFjemJjblh5ZTBOQzl5S1I2TEMtbFllS29SbDJRNml6M1c1cENMbkJSZ0VKanp5RXdGODRrd3VRTWc4a2FSWGR5eXhueU4xQU9wN2g5WmZkcXRVQWpDblRvVHBENzdveDY2ZG9BS1dGQlhBTmNnUFREam50dlF3SUtnMNIBzgFBVV95cUxNekh2V09QS0w1amx2TTZfRHBFZjgzMXNZeEl5S2tiTWdvaTVPcXY3SElJR2RLeGtKR2NwcEFqbFFpbFlSNkZuOHU3OVBqX0Y5RmJFYi1aX2JDZWtTWHNoeUhqVXQwa1pZWGQ4dWZZcmg3YUJnRDUwOTJoMHNia0JJb0pVX1ItREVRZ2VPY3FTdkFiWlR5NnpsM2dlRGRwdmQxUXFUdWlwMlZfRHIzcWw5RHNYUi1FMFpDdFZUemlPSDAzeHAtamNlR0oxVzU4dw?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Thu, 01 Oct 2026 22:09:00 GMT",
+      "base_score": 68,
+      "candidate_score": 83,
+      "priority": "High",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "connectivity"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "a6ad8a9202bc31ec3c46725f",
