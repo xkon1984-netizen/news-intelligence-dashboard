@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:05:10.407104+00:00",
+  "generated_at": "2026-10-02T09:27:39.134833+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -29,9 +29,9 @@
         "needs_second_source": false
       },
       {
-        "external_id": "3a3bcc1f7a3c30ef0958f275",
+        "external_id": "7e28ff69f5a2846161e6f857",
         "mode": "sportdog",
-        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 01 Oct 2026 19:10:39 GMT",
@@ -172,7 +172,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 02 Oct 2026 06:18:00 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Kibris",
@@ -201,9 +201,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "e297e705ed8648d826151c1a",
+        "external_id": "72fdd27bfa725aaacc6b2a89",
         "mode": "geopolitico",
-        "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - Ege Alternatif",
+        "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - egealternatif.com",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGVROXN0Q1Ywa1owVW10b3M5alJHdHNZcnVWT3hZZ3BlSHN0UEFsYlA4clpvYlNHUm04N0wyTGFjcmp4V3VObEJnYXRPMjEwYzNhUFNyQkl2LUtOTzVNR0k4Uy10dDJUdlk1MGhoNTJFYldjaXNQbFNHdE15ajR5YlktMUgtS05RT2VOZHFqOEllaE5pTTBKRUVudkpoYzl6ZDlYcA?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 02 Oct 2026 02:27:00 GMT",
@@ -317,9 +317,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "bd288b1cf299e4342ae01620",
+        "external_id": "a6ad8a9202bc31ec3c46725f",
         "mode": "pontos_voice",
-        "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - olympiobima.gr",
+        "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - Ολύμπιο Βήμα",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUxyWFZnY0Vkci05RVJNQUhxcDlwQ3FTaXJCVFRsRDZtWWVKdnVCd3dUbE1YNGFRaW5oVjA1cmo2M3BCYWE0UUpRUlJIdERsdXQwb0VVVVE5bC1GdUI1eXlhYU1VSEx0aXJwbGtmSmtMN1dneDc2ODlVS1RXRDJ4bmpOYTFqUQ?oc=5",
         "source": "Greek Press Pontic Watch",
         "published": "Thu, 01 Oct 2026 08:56:35 GMT",
@@ -353,6 +353,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "f11016d4981b7bd4cc60ca66",
+        "mode": "pontos_voice",
+        "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 02 Oct 2026 09:02:37 GMT",
+        "base_score": 47,
+        "candidate_score": 62,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "bakan",
+          "açıklama",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "210073421d01dd0245152a77",
         "mode": "pontos_voice",
         "title": "Montella klasiği! Trabzonspor'dan 3 ismi kadroya almadı!",
@@ -366,23 +384,6 @@
           "Trabzon",
           "Trabzon",
           "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "9e390de00c165cde5858bf9a",
-        "mode": "pontos_voice",
-        "title": "Trabzon Sanatevi Başkanından tabela tepkisi: \"Biz giremezken onlar nasıl astılar?\" - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZXhzWmRUZmVyMms5YjdMMTEtRnVCT1JOYm5OM1BDbGNuM3JvR1FSWVVsenNWQ2xrZUp5ejhhS2lkOUJPUlZFNmthcFBSQXozZVJaNmxhbmVJWE1zLTk4M0g2ZFNUUGk0RTVrbUZXNWdDS2JteWV2VnV3cDRLQjd6NERRV0JmM3Z0MTd2Q3lFVk1tb2k3UVdQVXJKTVFGb3hjcFBvNjRGa2ZFRHAzSXh4cWdzRE1Gd0hZ?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Fri, 02 Oct 2026 05:20:00 GMT",
-        "base_score": 42,
-        "candidate_score": 52,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "tepki",
-          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -411,9 +412,9 @@
       "needs_second_source": false
     },
     {
-      "external_id": "3a3bcc1f7a3c30ef0958f275",
+      "external_id": "7e28ff69f5a2846161e6f857",
       "mode": "sportdog",
-      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 01 Oct 2026 19:10:39 GMT",
@@ -552,7 +553,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 02 Oct 2026 06:18:00 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Kibris",
@@ -581,9 +582,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "e297e705ed8648d826151c1a",
+      "external_id": "72fdd27bfa725aaacc6b2a89",
       "mode": "geopolitico",
-      "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - Ege Alternatif",
+      "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - egealternatif.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGVROXN0Q1Ywa1owVW10b3M5alJHdHNZcnVWT3hZZ3BlSHN0UEFsYlA4clpvYlNHUm04N0wyTGFjcmp4V3VObEJnYXRPMjEwYzNhUFNyQkl2LUtOTzVNR0k4Uy10dDJUdlk1MGhoNTJFYldjaXNQbFNHdE15ajR5YlktMUgtS05RT2VOZHFqOEllaE5pTTBKRUVudkpoYzl6ZDlYcA?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 02 Oct 2026 02:27:00 GMT",
@@ -695,9 +696,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "bd288b1cf299e4342ae01620",
+      "external_id": "a6ad8a9202bc31ec3c46725f",
       "mode": "pontos_voice",
-      "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - olympiobima.gr",
+      "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - Ολύμπιο Βήμα",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUxyWFZnY0Vkci05RVJNQUhxcDlwQ3FTaXJCVFRsRDZtWWVKdnVCd3dUbE1YNGFRaW5oVjA1cmo2M3BCYWE0UUpRUlJIdERsdXQwb0VVVVE5bC1GdUI1eXlhYU1VSEx0aXJwbGtmSmtMN1dneDc2ODlVS1RXRDJ4bmpOYTFqUQ?oc=5",
       "source": "Greek Press Pontic Watch",
       "published": "Thu, 01 Oct 2026 08:56:35 GMT",
@@ -731,6 +732,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "f11016d4981b7bd4cc60ca66",
+      "mode": "pontos_voice",
+      "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 02 Oct 2026 09:02:37 GMT",
+      "base_score": 47,
+      "candidate_score": 62,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "bakan",
+        "açıklama",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "210073421d01dd0245152a77",
       "mode": "pontos_voice",
       "title": "Montella klasiği! Trabzonspor'dan 3 ismi kadroya almadı!",
@@ -744,23 +763,6 @@
         "Trabzon",
         "Trabzon",
         "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "9e390de00c165cde5858bf9a",
-      "mode": "pontos_voice",
-      "title": "Trabzon Sanatevi Başkanından tabela tepkisi: \"Biz giremezken onlar nasıl astılar?\" - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZXhzWmRUZmVyMms5YjdMMTEtRnVCT1JOYm5OM1BDbGNuM3JvR1FSWVVsenNWQ2xrZUp5ejhhS2lkOUJPUlZFNmthcFBSQXozZVJaNmxhbmVJWE1zLTk4M0g2ZFNUUGk0RTVrbUZXNWdDS2JteWV2VnV3cDRLQjd6NERRV0JmM3Z0MTd2Q3lFVk1tb2k3UVdQVXJKTVFGb3hjcFBvNjRGa2ZFRHAzSXh4cWdzRE1Gd0hZ?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Fri, 02 Oct 2026 05:20:00 GMT",
-      "base_score": 42,
-      "candidate_score": 52,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "tepki",
-        "Trabzon"
       ],
       "content_type": "news"
     }
