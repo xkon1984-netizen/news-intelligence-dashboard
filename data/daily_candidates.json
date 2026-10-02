@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:52:01.109959+00:00",
+  "generated_at": "2026-10-02T12:05:39.336005+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -29,9 +29,9 @@
         "needs_second_source": false
       },
       {
-        "external_id": "3a3bcc1f7a3c30ef0958f275",
+        "external_id": "7e28ff69f5a2846161e6f857",
         "mode": "sportdog",
-        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 01 Oct 2026 19:10:39 GMT",
@@ -127,6 +127,24 @@
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "c57f894394dbfb0e8e521cc5",
+        "mode": "geopolitico",
+        "title": "Geneva UNHRC side event examines Pakistan terrorism, GSP+ and minority rights - EU Today",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6eHl1WXFpX0JhSmpwVDlnTlg0ZTBWbU5ocm1DazFMTFBRc3Z6VWhEaGFnYk10UlJkTXB4TTBocGg3NUVQZ1FvNDREMzRpUWdiV0RocGFNWG9Eb3Y5eHkyRmpFUGJwSlVqNkRHWFZkUVVoc0N4MElvX3lwcng?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Fri, 02 Oct 2026 11:58:32 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pakistan",
+          "Pakistan terrorism",
+          "minority rights",
+          "terrorism"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "0ac84fabc43daeb1a02cffbd",
         "mode": "geopolitico",
@@ -252,31 +270,13 @@
           "Oruç Reis"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "7b13117a36e38cdb5685ab31",
-        "mode": "geopolitico",
-        "title": "MSB'den Yunanistan-GKRY elektrik kablosu uyarısı: \"Kıta sahanlığımızda izinsiz faaliyete izin vermeyiz\" - habergo.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOG1zT2dpbDZFV3hvc21nT0NkNlN3akJHZ0l0T3MtelhIV19veElSeFN2aWNubTRraVd4REJJWXE5RWQwNHcwaXRPRmpjaEVRc3ZmVHc1Q2FzWVhfckNuenF6eUQ0TmttcFdidjNhSmVFX29ucGYzNnJONWU3QjhvbkF4RV9UaEszZmlZREpQLXdkT3dPQlkyMEJsTzNoSnM2bEtUd2xHaUpDY05FMWFsNjVOZEhVWHh5dWNZVWN6TWhSRG83SGdaeVAyWUhUQdIB0wFBVV95cUxQTWk4ek9temMwOGFrU09SWVhFOU5mMkhiYjAzY0RMWXdvVk5sQkg3TnNEZThvWkJtQlZaaGcxTGR6d1dBelRMcnJkdE5tUmNVbGt2cmJHTy1qZFVXTlpIaVpwS1JDS3BnMDRvV3NyRUY1RVEyeW13NDJ6MDBqNVVDdUFQQUE3ZEtiSTdYd3VLZlEwNzlfVXJpYnBzbDF3YTRKeWt2elFFMlpjcVhoUi1NT2o0OWpPMHN3RVlLdmVqd1M0UmlTb0RYTmlJd0xFMWRvbU9r?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 01 Oct 2026 08:31:04 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "kıta sahanlığı",
-          "MSB",
-          "kablo"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
       {
-        "external_id": "b5b4b6aca6479f660c2b3974",
+        "external_id": "478699e9ee6d864d5a1a8f4a",
         "mode": "pontos_voice",
-        "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - haber61.net",
+        "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
         "source": "Haber61 Trabzon",
         "published": "Fri, 02 Oct 2026 08:20:55 GMT",
@@ -351,27 +351,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "7f185c05b6f78af9993f1ab4",
+        "external_id": "3be275a1dfe09705d706c463",
         "mode": "pontos_voice",
-        "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - haber61.net",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Fri, 02 Oct 2026 09:02:37 GMT",
-        "base_score": 47,
-        "candidate_score": 62,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "bakan",
-          "açıklama",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "bb4ccd496f4fa3d93fe1b6bd",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor’un gençleri Milli Takım’da! Fransa karşısında forma giydiler - haber61.net",
+        "title": "Trabzonspor’un gençleri Milli Takım’da! Fransa karşısında forma giydiler - Haber61",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONzFoQUxmQnMtUkpyY0xTWEhuTFFDRmp1SnRHODE5bmw5NzFQdU5hN2tLUVhMWXBPOTBnM2tiaFp5WFBuNTJ6RUdNODJlY3hNNVRfUUE4QkVSdVVIU3pnQ0VicDVIT25tbDl1bDhPTnR4TlRnV2hlbS1Hd3hGOEhaZG44SFFkS0FVN0dYTUVtb3dDUF85eUc4RVd1QkNTd0tqdE1nTEVhT3Jnek85eTgtT2hhMWU?oc=5",
         "source": "Haber61 Trabzon",
         "published": "Fri, 02 Oct 2026 09:52:05 GMT",
@@ -382,6 +364,24 @@
           "Trabzon",
           "Trabzon",
           "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "f11016d4981b7bd4cc60ca66",
+        "mode": "pontos_voice",
+        "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 02 Oct 2026 09:02:37 GMT",
+        "base_score": 47,
+        "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "bakan",
+          "açıklama",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -410,9 +410,9 @@
       "needs_second_source": false
     },
     {
-      "external_id": "3a3bcc1f7a3c30ef0958f275",
+      "external_id": "7e28ff69f5a2846161e6f857",
       "mode": "sportdog",
-      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 01 Oct 2026 19:10:39 GMT",
@@ -505,6 +505,24 @@
       "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "c57f894394dbfb0e8e521cc5",
+      "mode": "geopolitico",
+      "title": "Geneva UNHRC side event examines Pakistan terrorism, GSP+ and minority rights - EU Today",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6eHl1WXFpX0JhSmpwVDlnTlg0ZTBWbU5ocm1DazFMTFBRc3Z6VWhEaGFnYk10UlJkTXB4TTBocGg3NUVQZ1FvNDREMzRpUWdiV0RocGFNWG9Eb3Y5eHkyRmpFUGJwSlVqNkRHWFZkUVVoc0N4MElvX3lwcng?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Fri, 02 Oct 2026 11:58:32 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pakistan",
+        "Pakistan terrorism",
+        "minority rights",
+        "terrorism"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "0ac84fabc43daeb1a02cffbd",
@@ -633,27 +651,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "7b13117a36e38cdb5685ab31",
-      "mode": "geopolitico",
-      "title": "MSB'den Yunanistan-GKRY elektrik kablosu uyarısı: \"Kıta sahanlığımızda izinsiz faaliyete izin vermeyiz\" - habergo.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOG1zT2dpbDZFV3hvc21nT0NkNlN3akJHZ0l0T3MtelhIV19veElSeFN2aWNubTRraVd4REJJWXE5RWQwNHcwaXRPRmpjaEVRc3ZmVHc1Q2FzWVhfckNuenF6eUQ0TmttcFdidjNhSmVFX29ucGYzNnJONWU3QjhvbkF4RV9UaEszZmlZREpQLXdkT3dPQlkyMEJsTzNoSnM2bEtUd2xHaUpDY05FMWFsNjVOZEhVWHh5dWNZVWN6TWhSRG83SGdaeVAyWUhUQdIB0wFBVV95cUxQTWk4ek9temMwOGFrU09SWVhFOU5mMkhiYjAzY0RMWXdvVk5sQkg3TnNEZThvWkJtQlZaaGcxTGR6d1dBelRMcnJkdE5tUmNVbGt2cmJHTy1qZFVXTlpIaVpwS1JDS3BnMDRvV3NyRUY1RVEyeW13NDJ6MDBqNVVDdUFQQUE3ZEtiSTdYd3VLZlEwNzlfVXJpYnBzbDF3YTRKeWt2elFFMlpjcVhoUi1NT2o0OWpPMHN3RVlLdmVqd1M0UmlTb0RYTmlJd0xFMWRvbU9r?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 01 Oct 2026 08:31:04 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "kıta sahanlığı",
-        "MSB",
-        "kablo"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "b5b4b6aca6479f660c2b3974",
+      "external_id": "478699e9ee6d864d5a1a8f4a",
       "mode": "pontos_voice",
-      "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - haber61.net",
+      "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
       "source": "Haber61 Trabzon",
       "published": "Fri, 02 Oct 2026 08:20:55 GMT",
@@ -728,27 +728,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "7f185c05b6f78af9993f1ab4",
+      "external_id": "3be275a1dfe09705d706c463",
       "mode": "pontos_voice",
-      "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - haber61.net",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Fri, 02 Oct 2026 09:02:37 GMT",
-      "base_score": 47,
-      "candidate_score": 62,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "bakan",
-        "açıklama",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "bb4ccd496f4fa3d93fe1b6bd",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor’un gençleri Milli Takım’da! Fransa karşısında forma giydiler - haber61.net",
+      "title": "Trabzonspor’un gençleri Milli Takım’da! Fransa karşısında forma giydiler - Haber61",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONzFoQUxmQnMtUkpyY0xTWEhuTFFDRmp1SnRHODE5bmw5NzFQdU5hN2tLUVhMWXBPOTBnM2tiaFp5WFBuNTJ6RUdNODJlY3hNNVRfUUE4QkVSdVVIU3pnQ0VicDVIT25tbDl1bDhPTnR4TlRnV2hlbS1Hd3hGOEhaZG44SFFkS0FVN0dYTUVtb3dDUF85eUc4RVd1QkNTd0tqdE1nTEVhT3Jnek85eTgtT2hhMWU?oc=5",
       "source": "Haber61 Trabzon",
       "published": "Fri, 02 Oct 2026 09:52:05 GMT",
@@ -759,6 +741,24 @@
         "Trabzon",
         "Trabzon",
         "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "f11016d4981b7bd4cc60ca66",
+      "mode": "pontos_voice",
+      "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 02 Oct 2026 09:02:37 GMT",
+      "base_score": 47,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "bakan",
+        "açıklama",
+        "Trabzon"
       ],
       "content_type": "news"
     }
