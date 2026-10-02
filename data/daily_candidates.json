@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T08:08:01.026350+00:00",
+  "generated_at": "2026-10-02T08:30:03.591529+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -27,26 +27,6 @@
         "team": "AEK",
         "readiness": "READY",
         "needs_second_source": false
-      },
-      {
-        "external_id": "3a3bcc1f7a3c30ef0958f275",
-        "mode": "sportdog",
-        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
       },
       {
         "external_id": "eb58b80f4eed06bc88b95ee0",
@@ -163,25 +143,6 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "516e162f3b5b7ecf8343524b",
-        "mode": "sportdog",
-        "title": "EuroLeague Recap: Wilbekin turns back the clock, Mantzoukas erupts as Besiktas and Panathinaikos win - basketballsphere.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbU9qeTNLd2RNd3F1a0xicXVUX1hNMHBUaDI4VzJzTDZ6TENOb1ZITkJWVTdtTEk3cjhiUllxQXl5MkNGYlp4cHNib015cWo4TjB1Ym10MXZYREVaNHEySjNUeWZYTTRkczhjeWpBRUJLU05MMjZXSEhXbkdFRXNLNHRTallqMXdJcHM1cXBHUVBRb0k5akM4?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 30 Sep 2026 20:18:18 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -281,7 +242,7 @@
         "source": "NTV Turkey Greece Watch",
         "published": "Fri, 02 Oct 2026 00:22:41 GMT",
         "base_score": 98,
-        "candidate_score": 108,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -310,24 +271,68 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "b413cdd3acf6b4f0a541c0f6",
+        "external_id": "98dff7d6e4f7d0bda55e5489",
         "mode": "geopolitico",
-        "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3pHTkVscFZlc21TeENld2JNZWFERnE3Yzg1T2d3d0hRMjVwcTZsTndkb21yVVFDWHk0dXQ0bWpzM1BxYkJtMkkyVGYtZ2ZPS0NrRERWdy11YWtHSXRQdWZVYVlkdFQ3c0UxNXVhTktod2MtZnFZRnNodVRYQ2JPY2tlZC1LbG93Y0FVcWFBLVI2cXhKcDBMV0hXcE5TSV9FZlBydkdkMzlqTDllYzVLdy1oVk1ZZmpvU242N0JSTGhHcmF3UzZDMGtaRmZzZUnSAdQBQVVfeXFMUF9McTV3aDhtRHhCOU0wRm9saFRaLWFuQ1V1US16NkVoTlAyTXEzaFlFVENRZXlGWC15VnR0Vk11bVlLNlBENlpYWmZwd1MtWEU4SHkyWUY4d0dsSzF2dG51Wm80d1Y3akk3R0U4SlZiUm43ZzZDeGNhUjRZM3F1YW12ZjR2d2J3VFRHVWNIV1k4eWUtYmpsTFZhWTVsNVctVTBZcXJUWmVmYWM3Szd0QmY4aVkteEFxVnVzMkVLQjJFYzVINjZLYU5tUmlveVhaR3NJVEo?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 01 Oct 2026 07:59:00 GMT",
-        "base_score": 90,
-        "candidate_score": 93,
-        "priority": "High",
+        "title": "MSB'den, Yunanistan ile GKRY arasındaki elektrik kablo güzergahına tepki: \"Kıta sahanlığımızda izinsiz hiçbir faaliyete izin vermeyeceğiz\" - Anka Haber",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZEV6c3pCYS1wZlcxVlppUGhKSFpwLURGZDlILUM1RmcxTDRMWWJMT0REWlEyS1huRS01ZUY1TEplZFBUc3VsQld1Qy1BWTNIOElSMlRqM1lwUlg2cTgyVnVYbmFOUUVnMEE1Vm9kYXdIT292VWZMZy1vRHY0b1p2V0NxMURmSWJScHJLeWlvWUpKSlpsYkRZR0VDalNUSG83MGZHR0JiYlhOY0hvWHFFbzBHdmQ1TnZIc1RiLXE1VkI2LWlVejRpWnNBMU1mNXV6ZGk0ZWNWVHI4eHlyeU5CT3daVlljVUcyaFdDMXN0M3l4QzdyTDZZeHJaTTlKNnNK?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Thu, 01 Oct 2026 08:03:19 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
           "kıta sahanlığı",
-          "MSB"
+          "MSB",
+          "tepki",
+          "kablo"
         ],
         "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "478699e9ee6d864d5a1a8f4a",
+        "mode": "pontos_voice",
+        "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 02 Oct 2026 08:20:55 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Sümela",
+          "Sümela Manastırı",
+          "Trabzon",
+          "manastır",
+          "manastır",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "aa7d622127d46177d25ceb16",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da o nokta ilk sırada yer alıyor",
+        "url": "https://www.61saat.com/trabzonda-o-nokta-ilk-sirada-yer-aliyor",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 02 Oct 2026 11:07:00 +0300",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Sümela",
+          "Sümela Manastırı",
+          "Trabzon",
+          "manastır",
+          "manastır",
+          "Maçka",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "bd288b1cf299e4342ae01620",
         "mode": "pontos_voice",
@@ -365,36 +370,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "8496eecbb65f159bfc05c813",
+        "external_id": "210073421d01dd0245152a77",
         "mode": "pontos_voice",
-        "title": "Trabzon Milletvekili Sibel Suiçmez, TBMM'deki o anları anlattı",
-        "url": "https://www.61saat.com/trabzon-milletvekili-sibel-suicmez-tbmmdeki-o-anlari-anlatti",
+        "title": "Montella klasiği! Trabzonspor'dan 3 ismi kadroya almadı!",
+        "url": "https://www.61saat.com/montella-klasigi-trabzonspordan-3-ismi-kadroya-almadi",
         "source": "61Saat Trabzon",
-        "published": "Fri, 02 Oct 2026 08:39:00 +0300",
+        "published": "Fri, 02 Oct 2026 11:07:00 +0300",
         "base_score": 44,
         "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "milletvekili",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "4338b4be76edacb2f686f97f",
-        "mode": "pontos_voice",
-        "title": "Şalpazarı Belediye Başkanı Refik Kurukız’ın acı günü",
-        "url": "https://www.61saat.com/salpazari-belediye-baskani-refik-kurukizin-aci-gunu",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 02 Oct 2026 08:39:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
-          "Trabzon"
+          "dil"
         ],
         "content_type": "news"
       },
@@ -406,27 +394,11 @@
         "source": "Haber61 Trabzon",
         "published": "Fri, 02 Oct 2026 05:20:00 GMT",
         "base_score": 42,
-        "candidate_score": 57,
+        "candidate_score": 52,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "tepki",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "5e952aa6932ed4de8c5cab52",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor maçı öncesi Samsunspor’da bir ilk! Fink’in eli güçlendi - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1Z3bDRjWm1vN1FNSG1vMElDY2FKOGRyWUtuWTZKY25kLVR5cGpPNUZwQWZ0WXpfenBrX3lwY19HLXBrVjM2bmFtNnRSMVVCc043TmR2WlBydmV2TEd0Q24wU3ZmeWZMd2FPMnJ2VWJxY2o1Q1ZiZmhUS3lmajR4TDQ4WFJsUzFnQnA1TTRfRVl6YTZZMUpwSEVLaWdQN19VN0lCaktlWUlrLWdRU2c?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Fri, 02 Oct 2026 07:53:47 GMT",
-        "base_score": 33,
-        "candidate_score": 48,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
           "Trabzon"
         ],
         "content_type": "news"
@@ -454,26 +426,6 @@
       "team": "AEK",
       "readiness": "READY",
       "needs_second_source": false
-    },
-    {
-      "external_id": "3a3bcc1f7a3c30ef0958f275",
-      "mode": "sportdog",
-      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
     },
     {
       "external_id": "eb58b80f4eed06bc88b95ee0",
@@ -592,25 +544,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "516e162f3b5b7ecf8343524b",
-      "mode": "sportdog",
-      "title": "EuroLeague Recap: Wilbekin turns back the clock, Mantzoukas erupts as Besiktas and Panathinaikos win - basketballsphere.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbU9qeTNLd2RNd3F1a0xicXVUX1hNMHBUaDI4VzJzTDZ6TENOb1ZITkJWVTdtTEk3cjhiUllxQXl5MkNGYlp4cHNib015cWo4TjB1Ym10MXZYREVaNHEySjNUeWZYTTRkczhjeWpBRUJLU05MMjZXSEhXbkdFRXNLNHRTallqMXdJcHM1cXBHUVBRb0k5akM4?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 30 Sep 2026 20:18:18 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "0ac84fabc43daeb1a02cffbd",
       "mode": "geopolitico",
       "title": "Can Pakistan’s Turkish-Chinese shield stop BrahMos? PAF airbases to get Aselsan-HQ-17AE air defence umbrella - theweek.in",
@@ -706,7 +639,7 @@
       "source": "NTV Turkey Greece Watch",
       "published": "Fri, 02 Oct 2026 00:22:41 GMT",
       "base_score": 98,
-      "candidate_score": 108,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -735,21 +668,65 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "b413cdd3acf6b4f0a541c0f6",
+      "external_id": "98dff7d6e4f7d0bda55e5489",
       "mode": "geopolitico",
-      "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3pHTkVscFZlc21TeENld2JNZWFERnE3Yzg1T2d3d0hRMjVwcTZsTndkb21yVVFDWHk0dXQ0bWpzM1BxYkJtMkkyVGYtZ2ZPS0NrRERWdy11YWtHSXRQdWZVYVlkdFQ3c0UxNXVhTktod2MtZnFZRnNodVRYQ2JPY2tlZC1LbG93Y0FVcWFBLVI2cXhKcDBMV0hXcE5TSV9FZlBydkdkMzlqTDllYzVLdy1oVk1ZZmpvU242N0JSTGhHcmF3UzZDMGtaRmZzZUnSAdQBQVVfeXFMUF9McTV3aDhtRHhCOU0wRm9saFRaLWFuQ1V1US16NkVoTlAyTXEzaFlFVENRZXlGWC15VnR0Vk11bVlLNlBENlpYWmZwd1MtWEU4SHkyWUY4d0dsSzF2dG51Wm80d1Y3akk3R0U4SlZiUm43ZzZDeGNhUjRZM3F1YW12ZjR2d2J3VFRHVWNIV1k4eWUtYmpsTFZhWTVsNVctVTBZcXJUWmVmYWM3Szd0QmY4aVkteEFxVnVzMkVLQjJFYzVINjZLYU5tUmlveVhaR3NJVEo?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 01 Oct 2026 07:59:00 GMT",
-      "base_score": 90,
-      "candidate_score": 93,
-      "priority": "High",
+      "title": "MSB'den, Yunanistan ile GKRY arasındaki elektrik kablo güzergahına tepki: \"Kıta sahanlığımızda izinsiz hiçbir faaliyete izin vermeyeceğiz\" - Anka Haber",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZEV6c3pCYS1wZlcxVlppUGhKSFpwLURGZDlILUM1RmcxTDRMWWJMT0REWlEyS1huRS01ZUY1TEplZFBUc3VsQld1Qy1BWTNIOElSMlRqM1lwUlg2cTgyVnVYbmFOUUVnMEE1Vm9kYXdIT292VWZMZy1vRHY0b1p2V0NxMURmSWJScHJLeWlvWUpKSlpsYkRZR0VDalNUSG83MGZHR0JiYlhOY0hvWHFFbzBHdmQ1TnZIc1RiLXE1VkI2LWlVejRpWnNBMU1mNXV6ZGk0ZWNWVHI4eHlyeU5CT3daVlljVUcyaFdDMXN0M3l4QzdyTDZZeHJaTTlKNnNK?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Thu, 01 Oct 2026 08:03:19 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
         "kıta sahanlığı",
-        "MSB"
+        "MSB",
+        "tepki",
+        "kablo"
       ],
       "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "478699e9ee6d864d5a1a8f4a",
+      "mode": "pontos_voice",
+      "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 02 Oct 2026 08:20:55 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Sümela",
+        "Sümela Manastırı",
+        "Trabzon",
+        "manastır",
+        "manastır",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "aa7d622127d46177d25ceb16",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da o nokta ilk sırada yer alıyor",
+      "url": "https://www.61saat.com/trabzonda-o-nokta-ilk-sirada-yer-aliyor",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 02 Oct 2026 11:07:00 +0300",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Sümela",
+        "Sümela Manastırı",
+        "Trabzon",
+        "manastır",
+        "manastır",
+        "Maçka",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "bd288b1cf299e4342ae01620",
@@ -788,36 +765,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "8496eecbb65f159bfc05c813",
+      "external_id": "210073421d01dd0245152a77",
       "mode": "pontos_voice",
-      "title": "Trabzon Milletvekili Sibel Suiçmez, TBMM'deki o anları anlattı",
-      "url": "https://www.61saat.com/trabzon-milletvekili-sibel-suicmez-tbmmdeki-o-anlari-anlatti",
+      "title": "Montella klasiği! Trabzonspor'dan 3 ismi kadroya almadı!",
+      "url": "https://www.61saat.com/montella-klasigi-trabzonspordan-3-ismi-kadroya-almadi",
       "source": "61Saat Trabzon",
-      "published": "Fri, 02 Oct 2026 08:39:00 +0300",
+      "published": "Fri, 02 Oct 2026 11:07:00 +0300",
       "base_score": 44,
       "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "milletvekili",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "4338b4be76edacb2f686f97f",
-      "mode": "pontos_voice",
-      "title": "Şalpazarı Belediye Başkanı Refik Kurukız’ın acı günü",
-      "url": "https://www.61saat.com/salpazari-belediye-baskani-refik-kurukizin-aci-gunu",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 02 Oct 2026 08:39:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
-        "Trabzon"
+        "dil"
       ],
       "content_type": "news"
     },
@@ -829,27 +789,11 @@
       "source": "Haber61 Trabzon",
       "published": "Fri, 02 Oct 2026 05:20:00 GMT",
       "base_score": 42,
-      "candidate_score": 57,
+      "candidate_score": 52,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "tepki",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "5e952aa6932ed4de8c5cab52",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor maçı öncesi Samsunspor’da bir ilk! Fink’in eli güçlendi - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1Z3bDRjWm1vN1FNSG1vMElDY2FKOGRyWUtuWTZKY25kLVR5cGpPNUZwQWZ0WXpfenBrX3lwY19HLXBrVjM2bmFtNnRSMVVCc043TmR2WlBydmV2TEd0Q24wU3ZmeWZMd2FPMnJ2VWJxY2o1Q1ZiZmhUS3lmajR4TDQ4WFJsUzFnQnA1TTRfRVl6YTZZMUpwSEVLaWdQN19VN0lCaktlWUlrLWdRU2c?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Fri, 02 Oct 2026 07:53:47 GMT",
-      "base_score": 33,
-      "candidate_score": 48,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
         "Trabzon"
       ],
       "content_type": "news"
