@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T10:52:21.971116+00:00",
+  "generated_at": "2026-10-02T11:05:35.594451+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -27,26 +27,6 @@
         "team": "AEK",
         "readiness": "READY",
         "needs_second_source": false
-      },
-      {
-        "external_id": "7e28ff69f5a2846161e6f857",
-        "mode": "sportdog",
-        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
       },
       {
         "external_id": "4f25644d56897228027cf304",
@@ -147,9 +127,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "faafb88bdd7b88826143c77d",
+        "external_id": "d5505ffd953c43340434dc26",
         "mode": "geopolitico",
-        "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - Giynik Gazetesi",
+        "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - giynikgazetesi.com",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2dadzhGN3ZROWFsbVJ0YzFrdFZGTkZMbzVYTFNJUFd4a3Jrc0NRTVg4UFZTbzY1dFRzdVk1YXR6TFFRcWtIcEVOSjRUUG0tZzItNFU5QkFFWVJCalQwaXJ0TmJ4WFVvME1HZHYzVlB3dDZlODJxbl9DT3MxbnRrMEJ6b3BneFE?oc=5",
         "source": "Turkish Greek Relations Deep Watch",
         "published": "Fri, 02 Oct 2026 06:28:44 GMT",
@@ -182,6 +162,26 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "a06bce78482ee517b91c22df",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - cnnturk.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 02 Oct 2026 05:14:39 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "Ankara",
+          "Atina",
+          "kriz",
+          "ada",
+          "kablo"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "e297e705ed8648d826151c1a",
         "mode": "geopolitico",
         "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - Ege Alternatif",
@@ -195,23 +195,6 @@
           "Ege",
           "Doğu Akdeniz",
           "Oruç Reis"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "95beb10d354b0e5d2073c7fd",
-        "mode": "geopolitico",
-        "title": "İsrail, Güney Kıbrıs ve Yunanistan'ın projesi Türkiye engeline takıldı - Ensonhaber",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzFMWGt0Q3pUQzZxaUVSNFQzbTZKQzBUNTdHanhhRm81QnVYUlJDMWtvVUlJWVFwTnZBbWhuNmdhTG9jb29USGduVGlrckd6WjdOczAzMm9ZWkNOVmtJQlFId0NGcWRhajhmTXZ0UFhTcTJvS3BkVzNVZmt4QnFOcFZKQTgxSk82RndHQWN4ZTlxb3E3ZU5OS2I1M2dURkN4b1hCNDQzMA?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 01 Oct 2026 23:48:12 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "Güney Kıbrıs"
         ],
         "content_type": "turkey_greece"
       },
@@ -251,18 +234,18 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "9cbc3c5dd5804d9f5947e663",
+        "external_id": "7b13117a36e38cdb5685ab31",
         "mode": "geopolitico",
-        "title": "Son Dakika | Türkiye Yunanistan'ın Akdeniz'deki 'kablo' planına izin vermeyecek! MSB açıkladı - Halk TV",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXpiY0NKMGhraVIxRGh2TmctUkxxYjc4Y1pXanpzQjR3SU90U1ZDMnZ2Ty1UcG9UX1pnZHJnWFpKajdTNzFobkc2WkRKZEtQLUxkRXZMQjB3OTdIa2R4TElmeUlUaVN6emkxaDl5SFVKamw1VkhXQjM1Wmd3MUdwU2xzbXdmZldsNWNteEU5U1pQRVd5SXdwU01xdm0yM2hDV3kwX2lybjl6dk8ybGJFVmZmUUxFbmRsY1JneEw1SklTR1E?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Thu, 01 Oct 2026 08:06:00 GMT",
+        "title": "MSB'den Yunanistan-GKRY elektrik kablosu uyarısı: \"Kıta sahanlığımızda izinsiz faaliyete izin vermeyiz\" - habergo.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOG1zT2dpbDZFV3hvc21nT0NkNlN3akJHZ0l0T3MtelhIV19veElSeFN2aWNubTRraVd4REJJWXE5RWQwNHcwaXRPRmpjaEVRc3ZmVHc1Q2FzWVhfckNuenF6eUQ0TmttcFdidjNhSmVFX29ucGYzNnJONWU3QjhvbkF4RV9UaEszZmlZREpQLXdkT3dPQlkyMEJsTzNoSnM2bEtUd2xHaUpDY05FMWFsNjVOZEhVWHh5dWNZVWN6TWhSRG83SGdaeVAyWUhUQdIB0wFBVV95cUxQTWk4ek9temMwOGFrU09SWVhFOU5mMkhiYjAzY0RMWXdvVk5sQkg3TnNEZThvWkJtQlZaaGcxTGR6d1dBelRMcnJkdE5tUmNVbGt2cmJHTy1qZFVXTlpIaVpwS1JDS3BnMDRvV3NyRUY1RVEyeW13NDJ6MDBqNVVDdUFQQUE3ZEtiSTdYd3VLZlEwNzlfVXJpYnBzbDF3YTRKeWt2elFFMlpjcVhoUi1NT2o0OWpPMHN3RVlLdmVqd1M0UmlTb0RYTmlJd0xFMWRvbU9r?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Thu, 01 Oct 2026 08:31:04 GMT",
         "base_score": 100,
         "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
-          "Türkiye Yunanistan",
+          "kıta sahanlığı",
           "MSB",
           "kablo"
         ],
@@ -409,26 +392,6 @@
       "needs_second_source": false
     },
     {
-      "external_id": "7e28ff69f5a2846161e6f857",
-      "mode": "sportdog",
-      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "4f25644d56897228027cf304",
       "mode": "sportdog",
       "title": "Does an Arnaud Kalimuendo Loan Move Make Sense for Olympiacos? - Yahoo Sports",
@@ -525,9 +488,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "faafb88bdd7b88826143c77d",
+      "external_id": "d5505ffd953c43340434dc26",
       "mode": "geopolitico",
-      "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - Giynik Gazetesi",
+      "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - giynikgazetesi.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2dadzhGN3ZROWFsbVJ0YzFrdFZGTkZMbzVYTFNJUFd4a3Jrc0NRTVg4UFZTbzY1dFRzdVk1YXR6TFFRcWtIcEVOSjRUUG0tZzItNFU5QkFFWVJCalQwaXJ0TmJ4WFVvME1HZHYzVlB3dDZlODJxbl9DT3MxbnRrMEJ6b3BneFE?oc=5",
       "source": "Turkish Greek Relations Deep Watch",
       "published": "Fri, 02 Oct 2026 06:28:44 GMT",
@@ -560,6 +523,26 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "a06bce78482ee517b91c22df",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - cnnturk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 02 Oct 2026 05:14:39 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "Ankara",
+        "Atina",
+        "kriz",
+        "ada",
+        "kablo"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "e297e705ed8648d826151c1a",
       "mode": "geopolitico",
       "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - Ege Alternatif",
@@ -573,23 +556,6 @@
         "Ege",
         "Doğu Akdeniz",
         "Oruç Reis"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "95beb10d354b0e5d2073c7fd",
-      "mode": "geopolitico",
-      "title": "İsrail, Güney Kıbrıs ve Yunanistan'ın projesi Türkiye engeline takıldı - Ensonhaber",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzFMWGt0Q3pUQzZxaUVSNFQzbTZKQzBUNTdHanhhRm81QnVYUlJDMWtvVUlJWVFwTnZBbWhuNmdhTG9jb29USGduVGlrckd6WjdOczAzMm9ZWkNOVmtJQlFId0NGcWRhajhmTXZ0UFhTcTJvS3BkVzNVZmt4QnFOcFZKQTgxSk82RndHQWN4ZTlxb3E3ZU5OS2I1M2dURkN4b1hCNDQzMA?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 01 Oct 2026 23:48:12 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "Güney Kıbrıs"
       ],
       "content_type": "turkey_greece"
     },
@@ -629,18 +595,18 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "9cbc3c5dd5804d9f5947e663",
+      "external_id": "7b13117a36e38cdb5685ab31",
       "mode": "geopolitico",
-      "title": "Son Dakika | Türkiye Yunanistan'ın Akdeniz'deki 'kablo' planına izin vermeyecek! MSB açıkladı - Halk TV",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXpiY0NKMGhraVIxRGh2TmctUkxxYjc4Y1pXanpzQjR3SU90U1ZDMnZ2Ty1UcG9UX1pnZHJnWFpKajdTNzFobkc2WkRKZEtQLUxkRXZMQjB3OTdIa2R4TElmeUlUaVN6emkxaDl5SFVKamw1VkhXQjM1Wmd3MUdwU2xzbXdmZldsNWNteEU5U1pQRVd5SXdwU01xdm0yM2hDV3kwX2lybjl6dk8ybGJFVmZmUUxFbmRsY1JneEw1SklTR1E?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Thu, 01 Oct 2026 08:06:00 GMT",
+      "title": "MSB'den Yunanistan-GKRY elektrik kablosu uyarısı: \"Kıta sahanlığımızda izinsiz faaliyete izin vermeyiz\" - habergo.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOG1zT2dpbDZFV3hvc21nT0NkNlN3akJHZ0l0T3MtelhIV19veElSeFN2aWNubTRraVd4REJJWXE5RWQwNHcwaXRPRmpjaEVRc3ZmVHc1Q2FzWVhfckNuenF6eUQ0TmttcFdidjNhSmVFX29ucGYzNnJONWU3QjhvbkF4RV9UaEszZmlZREpQLXdkT3dPQlkyMEJsTzNoSnM2bEtUd2xHaUpDY05FMWFsNjVOZEhVWHh5dWNZVWN6TWhSRG83SGdaeVAyWUhUQdIB0wFBVV95cUxQTWk4ek9temMwOGFrU09SWVhFOU5mMkhiYjAzY0RMWXdvVk5sQkg3TnNEZThvWkJtQlZaaGcxTGR6d1dBelRMcnJkdE5tUmNVbGt2cmJHTy1qZFVXTlpIaVpwS1JDS3BnMDRvV3NyRUY1RVEyeW13NDJ6MDBqNVVDdUFQQUE3ZEtiSTdYd3VLZlEwNzlfVXJpYnBzbDF3YTRKeWt2elFFMlpjcVhoUi1NT2o0OWpPMHN3RVlLdmVqd1M0UmlTb0RYTmlJd0xFMWRvbU9r?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Thu, 01 Oct 2026 08:31:04 GMT",
       "base_score": 100,
       "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
-        "Türkiye Yunanistan",
+        "kıta sahanlığı",
         "MSB",
         "kablo"
       ],
