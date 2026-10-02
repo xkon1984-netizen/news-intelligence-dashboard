@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:23:58.459648+00:00",
+  "generated_at": "2026-10-02T02:41:36.807781+00:00",
   "counts": {
     "sportdog": 10,
     "geopolitico": 8,
@@ -155,7 +155,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 30 Sep 2026 20:38:24 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -206,6 +206,23 @@
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "e297e705ed8648d826151c1a",
+        "mode": "geopolitico",
+        "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - Ege Alternatif",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGVROXN0Q1Ywa1owVW10b3M5alJHdHNZcnVWT3hZZ3BlSHN0UEFsYlA4clpvYlNHUm04N0wyTGFjcmp4V3VObEJnYXRPMjEwYzNhUFNyQkl2LUtOTzVNR0k4Uy10dDJUdlk1MGhoNTJFYldjaXNQbFNHdE15ajR5YlktMUgtS05RT2VOZHFqOEllaE5pTTBKRUVudkpoYzl6ZDlYcA?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 02 Oct 2026 02:27:00 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Ege",
+          "Doğu Akdeniz",
+          "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "95beb10d354b0e5d2073c7fd",
         "mode": "geopolitico",
@@ -260,24 +277,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "7be0fe238d690de8bb1a52fe",
-        "mode": "geopolitico",
-        "title": "Türkiye, Yunanistan-Kıbrıs 'kablo' projesine neden tepkili? - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4M2hSS29HM1JKdXR3TVlWVF94a21WVlE3N0hDMGJwaGZVWG05aDFhT3RSMkZvMEZvOUZiWnV4aTFuaGdkT0trWHB6VTZRdXhVYjY5bk5WeFFfN1lLamfSAWNBVV95cUxQSlJnTFdQdk4tTERQdndIdGVsUVktRXZrRjVfREpXSTFNUkJmdTE4azhQQjBfRGJqRVRqSERsYUNYOHBDWXF4ZUxxQy1KUjdhZU1xVk5vNVQ2NzNaZ25UX2xtSUk?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 01 Oct 2026 23:43:43 GMT",
-        "base_score": 94,
-        "candidate_score": 109,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "tepki",
-          "kablo"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "b413cdd3acf6b4f0a541c0f6",
         "mode": "geopolitico",
         "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
@@ -286,23 +285,6 @@
         "published": "Thu, 01 Oct 2026 07:59:00 GMT",
         "base_score": 90,
         "candidate_score": 93,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "kıta sahanlığı",
-          "MSB"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "8225619341b3911f6879ae8f",
-        "mode": "geopolitico",
-        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - Sabah",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzBGaUcwTjVFZnZUb3p3WFFHM2UxYWtoVndJVXZVZEMtdWtFYlBJY05jdWhiVFRnaExjSi1MOFJ0d2swRF90ZUpnQ204UWQ4YmUtRmFIMlVOMVhYQ2pHWjYxU1prVEhyQkgzVlFoUk9EV0x4M3BVXzI4dUttOTNiZnh0Sk14amJCWHJsS3d3QmdTa29WM0Jta0IxOWVXa0NnQmFLUjBuc19xdkZ3NnE2a1kzU1h5TWoyajF5YkMyRlFJekpJWmVlSTJUSTQ1dE5lS0pMcXZYNHpxck5yVkJXV21ZS0FpSUw0M0HSAeoBQVVfeXFMTkMwRmlHME41RWZ2VG96d1hRRzNlMWFraFZ3SVV2VWRDLXVrRWJQSWNOY3VoYlRUZ2hMY0otTDhSdHdrMERfdGVKZ0NtOFFkOGJlLUZhSDJVTjFYWENqR1o2MVNaa1RIckJIM1ZRaFJPRFdMeDNwVV8yOHVLbTkzYmZ4dEpNeGpiQlhybEt3d0JnU2tvVjNCbWtCMTllV2tDZ0JhS1IwbnNfcXZGdzZxNmtZM1NYeU1qMmoxeWJDMkZRSXpKSVplZUkyVEk0NXROZUtKTHF2WDR6cXJOclZCV1dtWUtBaUlMNDNB?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Thu, 01 Oct 2026 08:35:11 GMT",
-        "base_score": 86,
-        "candidate_score": 92,
         "priority": "High",
         "matched_keywords": [
           "Yunanistan",
@@ -329,9 +311,26 @@
         "content_type": "news"
       },
       {
-        "external_id": "9347021f25c2c1e6c018df95",
+        "external_id": "8225619341b3911f6879ae8f",
         "mode": "geopolitico",
-        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - tgrthaber.com",
+        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - Sabah",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzBGaUcwTjVFZnZUb3p3WFFHM2UxYWtoVndJVXZVZEMtdWtFYlBJY05jdWhiVFRnaExjSi1MOFJ0d2swRF90ZUpnQ204UWQ4YmUtRmFIMlVOMVhYQ2pHWjYxU1prVEhyQkgzVlFoUk9EV0x4M3BVXzI4dUttOTNiZnh0Sk14amJCWHJsS3d3QmdTa29WM0Jta0IxOWVXa0NnQmFLUjBuc19xdkZ3NnE2a1kzU1h5TWoyajF5YkMyRlFJekpJWmVlSTJUSTQ1dE5lS0pMcXZYNHpxck5yVkJXV21ZS0FpSUw0M0HSAeoBQVVfeXFMTkMwRmlHME41RWZ2VG96d1hRRzNlMWFraFZ3SVV2VWRDLXVrRWJQSWNOY3VoYlRUZ2hMY0otTDhSdHdrMERfdGVKZ0NtOFFkOGJlLUZhSDJVTjFYWENqR1o2MVNaa1RIckJIM1ZRaFJPRFdMeDNwVV8yOHVLbTkzYmZ4dEpNeGpiQlhybEt3d0JnU2tvVjNCbWtCMTllV2tDZ0JhS1IwbnNfcXZGdzZxNmtZM1NYeU1qMmoxeWJDMkZRSXpKSVplZUkyVEk0NXROZUtKTHF2WDR6cXJOclZCV1dtWUtBaUlMNDNB?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Thu, 01 Oct 2026 08:35:11 GMT",
+        "base_score": 86,
+        "candidate_score": 89,
+        "priority": "High",
+        "matched_keywords": [
+          "Yunanistan",
+          "kıta sahanlığı",
+          "MSB"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "72cb795160e379a969f2c9b4",
+        "mode": "geopolitico",
+        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - TGRT Haber",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmxJeGQyMHFtNXBsdWR0dF9kTnZsTE1JM2dlUlVjQTh6cmR3RDdmaFU3ZDIzY2FSZ2g5VHRTZ21YZ3dyUHJpUm1tVHY5RVoxV2JCcTBoanVZSGlQTHU0LVNJZm9BckJ1aThZTXJ1NDdma29YTDZaRnRDUzdoYXZyUGVpNzdHNGpwSXAxbWZJQnhaOEdJbVRLeU54bEtNUUtVUFNPX2kxX0dsYklxMVBYR0dva3ktd0NfU2ViV1lvQ3paVlhW?oc=5",
         "source": "Eastern Mediterranean Turkey Watch",
         "published": "Thu, 01 Oct 2026 08:07:54 GMT",
@@ -359,23 +358,6 @@
         "priority": "URGENT",
         "matched_keywords": [
           "ποντιακός",
-          "Παναγία Σουμελά",
-          "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "dd6f10f20908267ded082c77",
-        "mode": "pontos_voice",
-        "title": "Κύπρος: Εγκαίνια για την Παναγία Σουμελά στο Αλεθρικό – Το αναλυτικό πρόγραμμα - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaHNjci00UVFfckR3dHdZeWtvRVRNdFZHaFpQSzhPOEZiV0VSc1FWb3RBUkZtY20zd1VCSmtGejJBOTRmRFN0ZHZjdjRjUi1IUUFDdjkzSXR1MVYwTXRXRjRwNl8tNHF4ZG9CMXZraGFqclgyYjd2NFRxTWhibXFpeXhBak1oWXVnT3hLNEV2dDhmUE45dnpkTG1R?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 30 Sep 2026 20:45:42 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
           "Παναγία Σουμελά",
           "Σουμελά"
         ],
@@ -416,23 +398,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "4ab3d09cbcc9f8ed0ff0c50f",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da \"10. Uluslararası Bilimler Işığında Yaratılış Kongresi\" başladı",
-        "url": "https://www.61saat.com/trabzonda-10-uluslararasi-bilimler-isiginda-yaratilis-kongresi-basladi",
-        "source": "61Saat Trabzon",
-        "published": "Thu, 01 Oct 2026 21:30:00 +0300",
-        "base_score": 46,
-        "candidate_score": 56,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "Karadeniz"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "b8c6946ce57699d69c3706ac",
         "mode": "pontos_voice",
         "title": "Trabzon'da Doğan'a destek büyüyor!",
@@ -447,6 +412,38 @@
           "Sürmene",
           "açıklama",
           "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "4ab3d09cbcc9f8ed0ff0c50f",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da \"10. Uluslararası Bilimler Işığında Yaratılış Kongresi\" başladı",
+        "url": "https://www.61saat.com/trabzonda-10-uluslararasi-bilimler-isiginda-yaratilis-kongresi-basladi",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 01 Oct 2026 21:30:00 +0300",
+        "base_score": 46,
+        "candidate_score": 52,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "Karadeniz"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "2e85a09a89257c39b7edb783",
+        "mode": "pontos_voice",
+        "title": "Τσιμίκας: “Αυτός ο πόντος στο τέλος θα είναι σημαντικός” - Sport24",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXlpRE8wUE9INnFVMUpLZG5ObVJLMmlkOU9Lb0IzamtQajZmOGt2cGJXbENJYVlDSS1tMFRhdFRfbU1BYlVpUU1lTW5tYjgwcGlUT3JhZ0JKWVBWSUdlZzd0XzE0T2NxMzBzd1ljeDF3ZW5wZ0pIMVFkOUNKTzNHb2w5X0p6eUhTQklxQXE3SGVUMjBWQUHSAZYBQVVfeXFMTVF5aURPMFBPSDZxVTFKS2RuTm1SSzJpZDlPS29CM2prUGo2ZjhrdnBiV2xDSWFZQ0ktbTBUYXRUX21NQWJVaVFNZU1ubWI4MHBpVE9yYWdCSllQVklHZWc3dF8xNE9jcTMwc3dZY3gxd2VucGdKSDFRZDlDSk8zR29sOV9KenlIU0JJcUFxN0hlVDIwVkFB?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Thu, 01 Oct 2026 21:24:00 GMT",
+        "base_score": 40,
+        "candidate_score": 50,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Πόντος"
         ],
         "content_type": "news"
       }
@@ -601,7 +598,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 30 Sep 2026 20:38:24 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -649,6 +646,23 @@
       "team": "PAOK",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "e297e705ed8648d826151c1a",
+      "mode": "geopolitico",
+      "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - Ege Alternatif",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGVROXN0Q1Ywa1owVW10b3M5alJHdHNZcnVWT3hZZ3BlSHN0UEFsYlA4clpvYlNHUm04N0wyTGFjcmp4V3VObEJnYXRPMjEwYzNhUFNyQkl2LUtOTzVNR0k4Uy10dDJUdlk1MGhoNTJFYldjaXNQbFNHdE15ajR5YlktMUgtS05RT2VOZHFqOEllaE5pTTBKRUVudkpoYzl6ZDlYcA?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 02 Oct 2026 02:27:00 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Ege",
+        "Doğu Akdeniz",
+        "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "95beb10d354b0e5d2073c7fd",
@@ -704,24 +718,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "7be0fe238d690de8bb1a52fe",
-      "mode": "geopolitico",
-      "title": "Türkiye, Yunanistan-Kıbrıs 'kablo' projesine neden tepkili? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4M2hSS29HM1JKdXR3TVlWVF94a21WVlE3N0hDMGJwaGZVWG05aDFhT3RSMkZvMEZvOUZiWnV4aTFuaGdkT0trWHB6VTZRdXhVYjY5bk5WeFFfN1lLamfSAWNBVV95cUxQSlJnTFdQdk4tTERQdndIdGVsUVktRXZrRjVfREpXSTFNUkJmdTE4azhQQjBfRGJqRVRqSERsYUNYOHBDWXF4ZUxxQy1KUjdhZU1xVk5vNVQ2NzNaZ25UX2xtSUk?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 01 Oct 2026 23:43:43 GMT",
-      "base_score": 94,
-      "candidate_score": 109,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "tepki",
-        "kablo"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "b413cdd3acf6b4f0a541c0f6",
       "mode": "geopolitico",
       "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
@@ -730,23 +726,6 @@
       "published": "Thu, 01 Oct 2026 07:59:00 GMT",
       "base_score": 90,
       "candidate_score": 93,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "kıta sahanlığı",
-        "MSB"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "8225619341b3911f6879ae8f",
-      "mode": "geopolitico",
-      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - Sabah",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzBGaUcwTjVFZnZUb3p3WFFHM2UxYWtoVndJVXZVZEMtdWtFYlBJY05jdWhiVFRnaExjSi1MOFJ0d2swRF90ZUpnQ204UWQ4YmUtRmFIMlVOMVhYQ2pHWjYxU1prVEhyQkgzVlFoUk9EV0x4M3BVXzI4dUttOTNiZnh0Sk14amJCWHJsS3d3QmdTa29WM0Jta0IxOWVXa0NnQmFLUjBuc19xdkZ3NnE2a1kzU1h5TWoyajF5YkMyRlFJekpJWmVlSTJUSTQ1dE5lS0pMcXZYNHpxck5yVkJXV21ZS0FpSUw0M0HSAeoBQVVfeXFMTkMwRmlHME41RWZ2VG96d1hRRzNlMWFraFZ3SVV2VWRDLXVrRWJQSWNOY3VoYlRUZ2hMY0otTDhSdHdrMERfdGVKZ0NtOFFkOGJlLUZhSDJVTjFYWENqR1o2MVNaa1RIckJIM1ZRaFJPRFdMeDNwVV8yOHVLbTkzYmZ4dEpNeGpiQlhybEt3d0JnU2tvVjNCbWtCMTllV2tDZ0JhS1IwbnNfcXZGdzZxNmtZM1NYeU1qMmoxeWJDMkZRSXpKSVplZUkyVEk0NXROZUtKTHF2WDR6cXJOclZCV1dtWUtBaUlMNDNB?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Thu, 01 Oct 2026 08:35:11 GMT",
-      "base_score": 86,
-      "candidate_score": 92,
       "priority": "High",
       "matched_keywords": [
         "Yunanistan",
@@ -773,9 +752,26 @@
       "content_type": "news"
     },
     {
-      "external_id": "9347021f25c2c1e6c018df95",
+      "external_id": "8225619341b3911f6879ae8f",
       "mode": "geopolitico",
-      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - tgrthaber.com",
+      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - Sabah",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzBGaUcwTjVFZnZUb3p3WFFHM2UxYWtoVndJVXZVZEMtdWtFYlBJY05jdWhiVFRnaExjSi1MOFJ0d2swRF90ZUpnQ204UWQ4YmUtRmFIMlVOMVhYQ2pHWjYxU1prVEhyQkgzVlFoUk9EV0x4M3BVXzI4dUttOTNiZnh0Sk14amJCWHJsS3d3QmdTa29WM0Jta0IxOWVXa0NnQmFLUjBuc19xdkZ3NnE2a1kzU1h5TWoyajF5YkMyRlFJekpJWmVlSTJUSTQ1dE5lS0pMcXZYNHpxck5yVkJXV21ZS0FpSUw0M0HSAeoBQVVfeXFMTkMwRmlHME41RWZ2VG96d1hRRzNlMWFraFZ3SVV2VWRDLXVrRWJQSWNOY3VoYlRUZ2hMY0otTDhSdHdrMERfdGVKZ0NtOFFkOGJlLUZhSDJVTjFYWENqR1o2MVNaa1RIckJIM1ZRaFJPRFdMeDNwVV8yOHVLbTkzYmZ4dEpNeGpiQlhybEt3d0JnU2tvVjNCbWtCMTllV2tDZ0JhS1IwbnNfcXZGdzZxNmtZM1NYeU1qMmoxeWJDMkZRSXpKSVplZUkyVEk0NXROZUtKTHF2WDR6cXJOclZCV1dtWUtBaUlMNDNB?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Thu, 01 Oct 2026 08:35:11 GMT",
+      "base_score": 86,
+      "candidate_score": 89,
+      "priority": "High",
+      "matched_keywords": [
+        "Yunanistan",
+        "kıta sahanlığı",
+        "MSB"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "72cb795160e379a969f2c9b4",
+      "mode": "geopolitico",
+      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - TGRT Haber",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmxJeGQyMHFtNXBsdWR0dF9kTnZsTE1JM2dlUlVjQTh6cmR3RDdmaFU3ZDIzY2FSZ2g5VHRTZ21YZ3dyUHJpUm1tVHY5RVoxV2JCcTBoanVZSGlQTHU0LVNJZm9BckJ1aThZTXJ1NDdma29YTDZaRnRDUzdoYXZyUGVpNzdHNGpwSXAxbWZJQnhaOEdJbVRLeU54bEtNUUtVUFNPX2kxX0dsYklxMVBYR0dva3ktd0NfU2ViV1lvQ3paVlhW?oc=5",
       "source": "Eastern Mediterranean Turkey Watch",
       "published": "Thu, 01 Oct 2026 08:07:54 GMT",
@@ -801,23 +797,6 @@
       "priority": "URGENT",
       "matched_keywords": [
         "ποντιακός",
-        "Παναγία Σουμελά",
-        "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "dd6f10f20908267ded082c77",
-      "mode": "pontos_voice",
-      "title": "Κύπρος: Εγκαίνια για την Παναγία Σουμελά στο Αλεθρικό – Το αναλυτικό πρόγραμμα - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaHNjci00UVFfckR3dHdZeWtvRVRNdFZHaFpQSzhPOEZiV0VSc1FWb3RBUkZtY20zd1VCSmtGejJBOTRmRFN0ZHZjdjRjUi1IUUFDdjkzSXR1MVYwTXRXRjRwNl8tNHF4ZG9CMXZraGFqclgyYjd2NFRxTWhibXFpeXhBak1oWXVnT3hLNEV2dDhmUE45dnpkTG1R?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 30 Sep 2026 20:45:42 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
         "Παναγία Σουμελά",
         "Σουμελά"
       ],
@@ -858,23 +837,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "4ab3d09cbcc9f8ed0ff0c50f",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da \"10. Uluslararası Bilimler Işığında Yaratılış Kongresi\" başladı",
-      "url": "https://www.61saat.com/trabzonda-10-uluslararasi-bilimler-isiginda-yaratilis-kongresi-basladi",
-      "source": "61Saat Trabzon",
-      "published": "Thu, 01 Oct 2026 21:30:00 +0300",
-      "base_score": 46,
-      "candidate_score": 56,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "Karadeniz"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "b8c6946ce57699d69c3706ac",
       "mode": "pontos_voice",
       "title": "Trabzon'da Doğan'a destek büyüyor!",
@@ -889,6 +851,38 @@
         "Sürmene",
         "açıklama",
         "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "4ab3d09cbcc9f8ed0ff0c50f",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da \"10. Uluslararası Bilimler Işığında Yaratılış Kongresi\" başladı",
+      "url": "https://www.61saat.com/trabzonda-10-uluslararasi-bilimler-isiginda-yaratilis-kongresi-basladi",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 01 Oct 2026 21:30:00 +0300",
+      "base_score": 46,
+      "candidate_score": 52,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "Karadeniz"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "2e85a09a89257c39b7edb783",
+      "mode": "pontos_voice",
+      "title": "Τσιμίκας: “Αυτός ο πόντος στο τέλος θα είναι σημαντικός” - Sport24",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXlpRE8wUE9INnFVMUpLZG5ObVJLMmlkOU9Lb0IzamtQajZmOGt2cGJXbENJYVlDSS1tMFRhdFRfbU1BYlVpUU1lTW5tYjgwcGlUT3JhZ0JKWVBWSUdlZzd0XzE0T2NxMzBzd1ljeDF3ZW5wZ0pIMVFkOUNKTzNHb2w5X0p6eUhTQklxQXE3SGVUMjBWQUHSAZYBQVVfeXFMTVF5aURPMFBPSDZxVTFKS2RuTm1SSzJpZDlPS29CM2prUGo2ZjhrdnBiV2xDSWFZQ0ktbTBUYXRUX21NQWJVaVFNZU1ubWI4MHBpVE9yYWdCSllQVklHZWc3dF8xNE9jcTMwc3dZY3gxd2VucGdKSDFRZDlDSk8zR29sOV9KenlIU0JJcUFxN0hlVDIwVkFB?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Thu, 01 Oct 2026 21:24:00 GMT",
+      "base_score": 40,
+      "candidate_score": 50,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Πόντος"
       ],
       "content_type": "news"
     }
