@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:25:30.653443+00:00",
+  "generated_at": "2026-10-02T03:52:22.467022+00:00",
   "counts": {
     "sportdog": 10,
     "geopolitico": 8,
@@ -70,26 +70,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "2abbbb86efb762d0b88973e3",
-        "mode": "sportdog",
-        "title": "Real Betis Interested in Olympiacos Left-Back - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTdZMWdCMm1BVHNZWHJKOFZlMTJMQnFDOW9QZDl1NFdTWFMtOGJmckpiMHVxT2w1Mm1oZGVSM3g5MkoyeGIxUDZsdlo0VXNSSjFFMHdienRmR0g2TnhDa1Izb0s0X2F5MUZheGhhVER0WU1DWEtkU0E5T1A0d0Rfa2VESzVia2c5RkEtYmp1bV9wREN1ZUc4S3J1RTZQODZZMERCdw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 30 Sep 2026 15:31:39 GMT",
-        "base_score": 62,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "interested in"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "67567d6de2c683a3e73bed07",
         "mode": "sportdog",
         "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
@@ -106,6 +86,26 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "4f25644d56897228027cf304",
+        "mode": "sportdog",
+        "title": "Does an Arnaud Kalimuendo Loan Move Make Sense for Olympiacos? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamJoS0ZaWk53NVhTcXo1QnhaV1J1RGxZOExPQThuSkhTNm5VR1JIdVg5UTQ1WWQtSnZYdGxDZGNVcWdyaE5zRmdNZFNsUjhuMVNTX0VwWjNPYjlOSlZmdDJreVM3OUkzWnhteGNfUXhJcHVHMTlRMGJLSnJfQjgtVlJUMmVUTk10?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 00:23:00 GMT",
+        "base_score": 44,
+        "candidate_score": 55,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "loan"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -327,9 +327,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "8225619341b3911f6879ae8f",
+        "external_id": "0443bce7ab7da4b5ffe292c1",
         "mode": "geopolitico",
-        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - Sabah",
+        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - sabah.com.tr",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzBGaUcwTjVFZnZUb3p3WFFHM2UxYWtoVndJVXZVZEMtdWtFYlBJY05jdWhiVFRnaExjSi1MOFJ0d2swRF90ZUpnQ204UWQ4YmUtRmFIMlVOMVhYQ2pHWjYxU1prVEhyQkgzVlFoUk9EV0x4M3BVXzI4dUttOTNiZnh0Sk14amJCWHJsS3d3QmdTa29WM0Jta0IxOWVXa0NnQmFLUjBuc19xdkZ3NnE2a1kzU1h5TWoyajF5YkMyRlFJekpJWmVlSTJUSTQ1dE5lS0pMcXZYNHpxck5yVkJXV21ZS0FpSUw0M0HSAeoBQVVfeXFMTkMwRmlHME41RWZ2VG96d1hRRzNlMWFraFZ3SVV2VWRDLXVrRWJQSWNOY3VoYlRUZ2hMY0otTDhSdHdrMERfdGVKZ0NtOFFkOGJlLUZhSDJVTjFYWENqR1o2MVNaa1RIckJIM1ZRaFJPRFdMeDNwVV8yOHVLbTkzYmZ4dEpNeGpiQlhybEt3d0JnU2tvVjNCbWtCMTllV2tDZ0JhS1IwbnNfcXZGdzZxNmtZM1NYeU1qMmoxeWJDMkZRSXpKSVplZUkyVEk0NXROZUtKTHF2WDR6cXJOclZCV1dtWUtBaUlMNDNB?oc=5",
         "source": "Eastern Mediterranean Turkey Watch",
         "published": "Thu, 01 Oct 2026 08:35:11 GMT",
@@ -432,9 +432,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "744246524aa80bc107704d58",
+        "external_id": "2e85a09a89257c39b7edb783",
         "mode": "pontos_voice",
-        "title": "Τσιμίκας: “Αυτός ο πόντος στο τέλος θα είναι σημαντικός” - SPORT24",
+        "title": "Τσιμίκας: “Αυτός ο πόντος στο τέλος θα είναι σημαντικός” - Sport24",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXlpRE8wUE9INnFVMUpLZG5ObVJLMmlkOU9Lb0IzamtQajZmOGt2cGJXbENJYVlDSS1tMFRhdFRfbU1BYlVpUU1lTW5tYjgwcGlUT3JhZ0JKWVBWSUdlZzd0XzE0T2NxMzBzd1ljeDF3ZW5wZ0pIMVFkOUNKTzNHb2w5X0p6eUhTQklxQXE3SGVUMjBWQUHSAZYBQVVfeXFMTVF5aURPMFBPSDZxVTFKS2RuTm1SSzJpZDlPS29CM2prUGo2ZjhrdnBiV2xDSWFZQ0ktbTBUYXRUX21NQWJVaVFNZU1ubWI4MHBpVE9yYWdCSllQVklHZWc3dF8xNE9jcTMwc3dZY3gxd2VucGdKSDFRZDlDSk8zR29sOV9KenlIU0JJcUFxN0hlVDIwVkFB?oc=5",
         "source": "Greek Press Pontic Watch",
         "published": "Thu, 01 Oct 2026 21:24:00 GMT",
@@ -512,26 +512,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "2abbbb86efb762d0b88973e3",
-      "mode": "sportdog",
-      "title": "Real Betis Interested in Olympiacos Left-Back - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTdZMWdCMm1BVHNZWHJKOFZlMTJMQnFDOW9QZDl1NFdTWFMtOGJmckpiMHVxT2w1Mm1oZGVSM3g5MkoyeGIxUDZsdlo0VXNSSjFFMHdienRmR0g2TnhDa1Izb0s0X2F5MUZheGhhVER0WU1DWEtkU0E5T1A0d0Rfa2VESzVia2c5RkEtYmp1bV9wREN1ZUc4S3J1RTZQODZZMERCdw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 30 Sep 2026 15:31:39 GMT",
-      "base_score": 62,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "interested in"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "67567d6de2c683a3e73bed07",
       "mode": "sportdog",
       "title": "How to get Manchester City vs AEK Athens tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
@@ -548,6 +528,26 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "4f25644d56897228027cf304",
+      "mode": "sportdog",
+      "title": "Does an Arnaud Kalimuendo Loan Move Make Sense for Olympiacos? - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamJoS0ZaWk53NVhTcXo1QnhaV1J1RGxZOExPQThuSkhTNm5VR1JIdVg5UTQ1WWQtSnZYdGxDZGNVcWdyaE5zRmdNZFNsUjhuMVNTX0VwWjNPYjlOSlZmdDJreVM3OUkzWnhteGNfUXhJcHVHMTlRMGJLSnJfQjgtVlJUMmVUTk10?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 00:23:00 GMT",
+      "base_score": 44,
+      "candidate_score": 55,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "loan"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -767,9 +767,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "8225619341b3911f6879ae8f",
+      "external_id": "0443bce7ab7da4b5ffe292c1",
       "mode": "geopolitico",
-      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - Sabah",
+      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - sabah.com.tr",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzBGaUcwTjVFZnZUb3p3WFFHM2UxYWtoVndJVXZVZEMtdWtFYlBJY05jdWhiVFRnaExjSi1MOFJ0d2swRF90ZUpnQ204UWQ4YmUtRmFIMlVOMVhYQ2pHWjYxU1prVEhyQkgzVlFoUk9EV0x4M3BVXzI4dUttOTNiZnh0Sk14amJCWHJsS3d3QmdTa29WM0Jta0IxOWVXa0NnQmFLUjBuc19xdkZ3NnE2a1kzU1h5TWoyajF5YkMyRlFJekpJWmVlSTJUSTQ1dE5lS0pMcXZYNHpxck5yVkJXV21ZS0FpSUw0M0HSAeoBQVVfeXFMTkMwRmlHME41RWZ2VG96d1hRRzNlMWFraFZ3SVV2VWRDLXVrRWJQSWNOY3VoYlRUZ2hMY0otTDhSdHdrMERfdGVKZ0NtOFFkOGJlLUZhSDJVTjFYWENqR1o2MVNaa1RIckJIM1ZRaFJPRFdMeDNwVV8yOHVLbTkzYmZ4dEpNeGpiQlhybEt3d0JnU2tvVjNCbWtCMTllV2tDZ0JhS1IwbnNfcXZGdzZxNmtZM1NYeU1qMmoxeWJDMkZRSXpKSVplZUkyVEk0NXROZUtKTHF2WDR6cXJOclZCV1dtWUtBaUlMNDNB?oc=5",
       "source": "Eastern Mediterranean Turkey Watch",
       "published": "Thu, 01 Oct 2026 08:35:11 GMT",
@@ -870,9 +870,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "744246524aa80bc107704d58",
+      "external_id": "2e85a09a89257c39b7edb783",
       "mode": "pontos_voice",
-      "title": "Τσιμίκας: “Αυτός ο πόντος στο τέλος θα είναι σημαντικός” - SPORT24",
+      "title": "Τσιμίκας: “Αυτός ο πόντος στο τέλος θα είναι σημαντικός” - Sport24",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXlpRE8wUE9INnFVMUpLZG5ObVJLMmlkOU9Lb0IzamtQajZmOGt2cGJXbENJYVlDSS1tMFRhdFRfbU1BYlVpUU1lTW5tYjgwcGlUT3JhZ0JKWVBWSUdlZzd0XzE0T2NxMzBzd1ljeDF3ZW5wZ0pIMVFkOUNKTzNHb2w5X0p6eUhTQklxQXE3SGVUMjBWQUHSAZYBQVVfeXFMTVF5aURPMFBPSDZxVTFKS2RuTm1SSzJpZDlPS29CM2prUGo2ZjhrdnBiV2xDSWFZQ0ktbTBUYXRUX21NQWJVaVFNZU1ubWI4MHBpVE9yYWdCSllQVklHZWc3dF8xNE9jcTMwc3dZY3gxd2VucGdKSDFRZDlDSk8zR29sOV9KenlIU0JJcUFxN0hlVDIwVkFB?oc=5",
       "source": "Greek Press Pontic Watch",
       "published": "Thu, 01 Oct 2026 21:24:00 GMT",
