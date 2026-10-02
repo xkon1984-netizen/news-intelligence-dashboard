@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T18:29:19.542884+00:00",
+  "generated_at": "2026-10-02T18:54:32.645734+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 4,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -27,46 +27,6 @@
         "team": "AEK",
         "readiness": "READY",
         "needs_second_source": false
-      },
-      {
-        "external_id": "78a07c9d922c7eadcab382d7",
-        "mode": "sportdog",
-        "title": "AEK Athens vs. PAOK (29 Nov, 2026) Live Score - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tYVFvRmp6LUhWRGZEZGZlb0hYeHhMZHVtUllCZTFsNFpvb0N6ZGdieVZmOUpZMXp1bUVIblFJZm1fNTF1NU9ydGVheEFoYUdndWtnZ3pBWFlwMTFWRlhsYkpDdk8xQk9PYTBVQWhKZjdNbjB4T1NEVmpfb3VHQQ?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Fri, 02 Oct 2026 06:15:11 GMT",
-        "base_score": 62,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "AEK",
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "3a3bcc1f7a3c30ef0958f275",
-        "mode": "sportdog",
-        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-        "base_score": 56,
-        "candidate_score": 67,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
       },
       {
         "external_id": "9d2f8ce704b57a41fa680253",
@@ -256,9 +216,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "69e561abd41baf5f1dd8b997",
+        "external_id": "931782558d60882a93e2fdb9",
         "mode": "geopolitico",
-        "title": "Yunanistan'da Oruç Reis paniği: Yunan basını Türkiye'nin NAVTEX'ini manşete taşıdı - ahaber.com.tr",
+        "title": "Yunanistan'da Oruç Reis paniği: Yunan basını Türkiye'nin NAVTEX'ini manşete taşıdı - A Haber",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVhXMms0Mk5EUVNYckFvZnRiWXRUd1ptekhiUUFMRnk1SGlsUEduNHExSEo4cXplVlh0LUtrc1ZpLXhhZTJ3OVkzbEdHX29BcEZFYnhZQmpkUUF6Z25kMlRjR25qcnU4a0gyeFpkZ0luTkhNQjFkQnR1ZFpqVG81a2ZfNHhXNnNnRERVamRDSERHNDVNNkZUUjdYRnh3RS03WjQtWkNVODJua21WWEZWa0JTb25QajQyWVBVaGtxQkJrT0Zt?oc=5",
         "source": "Turkish Greek Relations Deep Watch",
         "published": "Thu, 01 Oct 2026 13:53:09 GMT",
@@ -274,6 +234,23 @@
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "c42e9ab21873460e219ca7cb",
+        "mode": "pontos_voice",
+        "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPUS1rNm9wY1VfZ1hrVVhoVnZ1TUdZWUxKYld5NC1ISUt5NHJzV3BUMU55SVhWMW1nMUJxX2ZXZld3dkVuOVlsVnAxLVZjTy0wUkRJTGZkN0NSLXZ1LTJzcU15Y2s4aUJJLVN5RzhBTjl3TUJha25rZ01ZWGRtYlQyRmlaUHQwc3F5NG1Pc2dmWklReW8zS3pCaWZfVk9jRmNMUVZjTTZ3NUt2WFF5Y1poVEJNdHJKbjdzTjd5ejIyY2I2MGlTMVdwTWMwM1ZaRlY3VWpwNzNHNU9MaHNzYVZMMnRsRUFZS2Q5N3hHWjdndXFMV2tCX0M2X2pIUC1VbWVTa0ZHSGZYY3V2SER3eGpId05hTUtJYUFFYzNBamtKYXRZTXU3aVZJeEJBREtOZXowQW5ZM0dWd3lTWEVHa2pndGRKVXZQYzBoLTlz?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Fri, 02 Oct 2026 18:42:57 GMT",
+        "base_score": 95,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Παναγία Σουμελά",
+          "Σουμελά",
+          "ιστορία"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "478699e9ee6d864d5a1a8f4a",
         "mode": "pontos_voice",
@@ -347,22 +324,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "32f31f85fa621cea3b0ae66e",
-        "mode": "pontos_voice",
-        "title": "Πόντος, 1919: «Τα ερημωθέντα χωριά είναι αναρίθμητα» – Η έκκληση της Αργυρούπολης στη Βρετανία - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTBwNjl5R2FjdU9vbEFvOVhnYm5QaDJNZjc1cThCVUdNM01HdVIwcGdaWkVvdE5Xc2h2RWRSWG1wWnZZcWhjUHVUaU01cGttcGhvQUdUVnRoRHpIbTZPZlozSjJrNHFlYW85X3NrOEhaYVE1OGc4X0lQZ1VpVU96dEt3aDVKX1FNdnotMXN0czl0OHFyQnZTUHB2LU1sZl9NMHBfcEU1eDhGWEpQRmQyYkdGOA?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Fri, 02 Oct 2026 18:02:04 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "Πόντος"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "ce3699a14522453a3df6fdff",
         "mode": "pontos_voice",
         "title": "Meteoroloji uyardı! Trabzon’da fırtına alarmı",
@@ -403,46 +364,6 @@
       "team": "AEK",
       "readiness": "READY",
       "needs_second_source": false
-    },
-    {
-      "external_id": "78a07c9d922c7eadcab382d7",
-      "mode": "sportdog",
-      "title": "AEK Athens vs. PAOK (29 Nov, 2026) Live Score - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tYVFvRmp6LUhWRGZEZGZlb0hYeHhMZHVtUllCZTFsNFpvb0N6ZGdieVZmOUpZMXp1bUVIblFJZm1fNTF1NU9ydGVheEFoYUdndWtnZ3pBWFlwMTFWRlhsYkpDdk8xQk9PYTBVQWhKZjdNbjB4T1NEVmpfb3VHQQ?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Fri, 02 Oct 2026 06:15:11 GMT",
-      "base_score": 62,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "AEK",
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "3a3bcc1f7a3c30ef0958f275",
-      "mode": "sportdog",
-      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-      "base_score": 56,
-      "candidate_score": 67,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
     },
     {
       "external_id": "9d2f8ce704b57a41fa680253",
@@ -630,9 +551,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "69e561abd41baf5f1dd8b997",
+      "external_id": "931782558d60882a93e2fdb9",
       "mode": "geopolitico",
-      "title": "Yunanistan'da Oruç Reis paniği: Yunan basını Türkiye'nin NAVTEX'ini manşete taşıdı - ahaber.com.tr",
+      "title": "Yunanistan'da Oruç Reis paniği: Yunan basını Türkiye'nin NAVTEX'ini manşete taşıdı - A Haber",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVhXMms0Mk5EUVNYckFvZnRiWXRUd1ptekhiUUFMRnk1SGlsUEduNHExSEo4cXplVlh0LUtrc1ZpLXhhZTJ3OVkzbEdHX29BcEZFYnhZQmpkUUF6Z25kMlRjR25qcnU4a0gyeFpkZ0luTkhNQjFkQnR1ZFpqVG81a2ZfNHhXNnNnRERVamRDSERHNDVNNkZUUjdYRnh3RS03WjQtWkNVODJua21WWEZWa0JTb25QajQyWVBVaGtxQkJrT0Zt?oc=5",
       "source": "Turkish Greek Relations Deep Watch",
       "published": "Thu, 01 Oct 2026 13:53:09 GMT",
@@ -645,6 +566,23 @@
         "Oruç Reis"
       ],
       "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "c42e9ab21873460e219ca7cb",
+      "mode": "pontos_voice",
+      "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPUS1rNm9wY1VfZ1hrVVhoVnZ1TUdZWUxKYld5NC1ISUt5NHJzV3BUMU55SVhWMW1nMUJxX2ZXZld3dkVuOVlsVnAxLVZjTy0wUkRJTGZkN0NSLXZ1LTJzcU15Y2s4aUJJLVN5RzhBTjl3TUJha25rZ01ZWGRtYlQyRmlaUHQwc3F5NG1Pc2dmWklReW8zS3pCaWZfVk9jRmNMUVZjTTZ3NUt2WFF5Y1poVEJNdHJKbjdzTjd5ejIyY2I2MGlTMVdwTWMwM1ZaRlY3VWpwNzNHNU9MaHNzYVZMMnRsRUFZS2Q5N3hHWjdndXFMV2tCX0M2X2pIUC1VbWVTa0ZHSGZYY3V2SER3eGpId05hTUtJYUFFYzNBamtKYXRZTXU3aVZJeEJBREtOZXowQW5ZM0dWd3lTWEVHa2pndGRKVXZQYzBoLTlz?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Fri, 02 Oct 2026 18:42:57 GMT",
+      "base_score": 95,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Παναγία Σουμελά",
+        "Σουμελά",
+        "ιστορία"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "478699e9ee6d864d5a1a8f4a",
@@ -715,22 +653,6 @@
         "Pontos",
         "Παναγία Σουμελά",
         "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "32f31f85fa621cea3b0ae66e",
-      "mode": "pontos_voice",
-      "title": "Πόντος, 1919: «Τα ερημωθέντα χωριά είναι αναρίθμητα» – Η έκκληση της Αργυρούπολης στη Βρετανία - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTBwNjl5R2FjdU9vbEFvOVhnYm5QaDJNZjc1cThCVUdNM01HdVIwcGdaWkVvdE5Xc2h2RWRSWG1wWnZZcWhjUHVUaU01cGttcGhvQUdUVnRoRHpIbTZPZlozSjJrNHFlYW85X3NrOEhaYVE1OGc4X0lQZ1VpVU96dEt3aDVKX1FNdnotMXN0czl0OHFyQnZTUHB2LU1sZl9NMHBfcEU1eDhGWEpQRmQyYkdGOA?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Fri, 02 Oct 2026 18:02:04 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Πόντος"
       ],
       "content_type": "news"
     },
