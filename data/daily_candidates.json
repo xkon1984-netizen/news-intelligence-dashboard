@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T11:05:35.594451+00:00",
+  "generated_at": "2026-10-02T11:25:11.748028+00:00",
   "counts": {
-    "sportdog": 5,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -27,6 +27,26 @@
         "team": "AEK",
         "readiness": "READY",
         "needs_second_source": false
+      },
+      {
+        "external_id": "3a3bcc1f7a3c30ef0958f275",
+        "mode": "sportdog",
+        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "4f25644d56897228027cf304",
@@ -254,14 +274,14 @@
     ],
     "pontos_voice": [
       {
-        "external_id": "478699e9ee6d864d5a1a8f4a",
+        "external_id": "b5b4b6aca6479f660c2b3974",
         "mode": "pontos_voice",
-        "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
+        "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - haber61.net",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
         "source": "Haber61 Trabzon",
         "published": "Fri, 02 Oct 2026 08:20:55 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Sümela",
@@ -281,7 +301,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 02 Oct 2026 11:07:00 +0300",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Sümela",
@@ -350,9 +370,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "f11016d4981b7bd4cc60ca66",
+        "external_id": "7f185c05b6f78af9993f1ab4",
         "mode": "pontos_voice",
-        "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - Haber61",
+        "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - haber61.net",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
         "source": "Haber61 Trabzon",
         "published": "Fri, 02 Oct 2026 09:02:37 GMT",
@@ -390,6 +410,26 @@
       "team": "AEK",
       "readiness": "READY",
       "needs_second_source": false
+    },
+    {
+      "external_id": "3a3bcc1f7a3c30ef0958f275",
+      "mode": "sportdog",
+      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "4f25644d56897228027cf304",
@@ -613,14 +653,14 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "478699e9ee6d864d5a1a8f4a",
+      "external_id": "b5b4b6aca6479f660c2b3974",
       "mode": "pontos_voice",
-      "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
+      "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - haber61.net",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
       "source": "Haber61 Trabzon",
       "published": "Fri, 02 Oct 2026 08:20:55 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Sümela",
@@ -640,7 +680,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 02 Oct 2026 11:07:00 +0300",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Sümela",
@@ -709,9 +749,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "f11016d4981b7bd4cc60ca66",
+      "external_id": "7f185c05b6f78af9993f1ab4",
       "mode": "pontos_voice",
-      "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - Haber61",
+      "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - haber61.net",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
       "source": "Haber61 Trabzon",
       "published": "Fri, 02 Oct 2026 09:02:37 GMT",
