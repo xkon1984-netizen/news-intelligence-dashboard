@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T06:57:08.087499+00:00",
+  "generated_at": "2026-10-02T07:26:48.541440+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -46,26 +46,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "3a3bcc1f7a3c30ef0958f275",
-        "mode": "sportdog",
-        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -183,28 +163,28 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "f27a6d4c150aff7a44e75f96",
-        "mode": "sportdog",
-        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Wed, 30 Sep 2026 19:25:43 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "0ac84fabc43daeb1a02cffbd",
+        "mode": "geopolitico",
+        "title": "Can Pakistan’s Turkish-Chinese shield stop BrahMos? PAF airbases to get Aselsan-HQ-17AE air defence umbrella - theweek.in",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTZQb0p1N2NOMEI4b0NncllMa1pGVjRYcG9OZzlOYjZ2RVhuVVZBaXNxWmk5cmQxM085WTlwc2JhWGhya0tPajRqOGFYVFVKYTlpNHhLU0llcks3a2JoSVhXUU1vanRKME5jYmVmTWFyT0Y3YU53QVVvWHhSc0gxRkRFb05SU3lhYnphS1NPcG9iZGs3TjJnQ05ndHRFR2tiRHFLZDA0UFN1b0plUmtRa29PLTh0SE1SemdmQ2dfTEN1SkxUQ2QzYm4tX1RNT0tOdUpsZNIB2gFBVV95cUxNR1RzTWJJSDQxamFVNDRQdGhOQ1dlUUw1QmgycUdPTW9VZFdsWmw0MzhlRXoyOEtxcFloQm9POWEzX3h1dUJjcjhEYjdITmpuZjR1QnVZMnJSb1VNQU1Rcm5KYjF1bzF4NmpHLVZhT2t4QXFUMVZDLVh6OVRFNlR4R0xVQUlsTWlfZWJPRkJ5TDduemcyT2hrc0Q1OXBMWHFkZDNPSUNqM1V2dHJaNmVFanZiUm1HTUtxRGk4eGIyQTJ4azdkQXlteDdZM3JXNzZ3M3ZRZmJiQzQ3Zw?oc=5",
+        "source": "Pakistan Turkey Watch",
+        "published": "Fri, 02 Oct 2026 06:52:38 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pakistan",
+          "Chinese",
+          "BrahMos",
+          "defence",
+          "air defence"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "faafb88bdd7b88826143c77d",
         "mode": "geopolitico",
@@ -219,6 +199,24 @@
           "NAVTEX",
           "Doğu Akdeniz",
           "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "c23f0e236feacf20ecbf2dfa",
+        "mode": "geopolitico",
+        "title": "Oruç Reis yeniden Doğu Akdeniz’de: Çalışmalar 25 Ekim’e kadar sürecek - kibrisgercek.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0JOQXZWTG1xWWhiMTZVMEMwYTlmMU1HdFZFYklEWkF4UUQ0WUdDZU9QbTZncmRMQWNoNV83U1BMM1dsbjFGZjBCdzdRT0N1bENSSGI2Tk5HOXFsc3puMWFKVmlTSG5iVkRpVDVUSk1sZTlaOWRLbUZaLXUydDdxYk5mLXZ4aERBcG9Sam9ZcVdCdUQ1eXdnajdGMA?oc=5",
+        "source": "Turkish Greek Relations Deep Watch",
+        "published": "Fri, 02 Oct 2026 05:54:00 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Kibris",
+          "Doğu Akdeniz",
+          "Oruç Reis",
+          "ada"
         ],
         "content_type": "turkey_greece"
       },
@@ -275,6 +273,23 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "931782558d60882a93e2fdb9",
+        "mode": "geopolitico",
+        "title": "Yunanistan'da Oruç Reis paniği: Yunan basını Türkiye'nin NAVTEX'ini manşete taşıdı - A Haber",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVhXMms0Mk5EUVNYckFvZnRiWXRUd1ptekhiUUFMRnk1SGlsUEduNHExSEo4cXplVlh0LUtrc1ZpLXhhZTJ3OVkzbEdHX29BcEZFYnhZQmpkUUF6Z25kMlRjR25qcnU4a0gyeFpkZ0luTkhNQjFkQnR1ZFpqVG81a2ZfNHhXNnNnRERVamRDSERHNDVNNkZUUjdYRnh3RS03WjQtWkNVODJua21WWEZWa0JTb25QajQyWVBVaGtxQkJrT0Zt?oc=5",
+        "source": "Turkish Greek Relations Deep Watch",
+        "published": "Thu, 01 Oct 2026 13:53:09 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "NAVTEX",
+          "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "b413cdd3acf6b4f0a541c0f6",
         "mode": "geopolitico",
         "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
@@ -283,57 +298,6 @@
         "published": "Thu, 01 Oct 2026 07:59:00 GMT",
         "base_score": 90,
         "candidate_score": 93,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "kıta sahanlığı",
-          "MSB"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "d1458d67e1bc80156d1c6f93",
-        "mode": "geopolitico",
-        "title": "The Blogs: Israeli Arms on Full Display – Cyprus’s Message - The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTc3QUh1MWxiTmp2QlpOLV9LZjNONUktV1JTZEN5TVJhTFRvRGV6U21KWGxiTUxHbWczeEpVeFNnNzh4Ulc4dXlqUUxkMU5TR3Rlc3JpLUR1cjY3VXJ1MHBjaU54Vm8zelk0Y0ZPUG1lX2s4dUgtZWFkR183REhySWhjcw?oc=5",
-        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-        "published": "Thu, 01 Oct 2026 15:14:00 GMT",
-        "base_score": 84,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Israel",
-          "Israeli",
-          "Cyprus"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "8225619341b3911f6879ae8f",
-        "mode": "geopolitico",
-        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - Sabah",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzBGaUcwTjVFZnZUb3p3WFFHM2UxYWtoVndJVXZVZEMtdWtFYlBJY05jdWhiVFRnaExjSi1MOFJ0d2swRF90ZUpnQ204UWQ4YmUtRmFIMlVOMVhYQ2pHWjYxU1prVEhyQkgzVlFoUk9EV0x4M3BVXzI4dUttOTNiZnh0Sk14amJCWHJsS3d3QmdTa29WM0Jta0IxOWVXa0NnQmFLUjBuc19xdkZ3NnE2a1kzU1h5TWoyajF5YkMyRlFJekpJWmVlSTJUSTQ1dE5lS0pMcXZYNHpxck5yVkJXV21ZS0FpSUw0M0HSAeoBQVVfeXFMTkMwRmlHME41RWZ2VG96d1hRRzNlMWFraFZ3SVV2VWRDLXVrRWJQSWNOY3VoYlRUZ2hMY0otTDhSdHdrMERfdGVKZ0NtOFFkOGJlLUZhSDJVTjFYWENqR1o2MVNaa1RIckJIM1ZRaFJPRFdMeDNwVV8yOHVLbTkzYmZ4dEpNeGpiQlhybEt3d0JnU2tvVjNCbWtCMTllV2tDZ0JhS1IwbnNfcXZGdzZxNmtZM1NYeU1qMmoxeWJDMkZRSXpKSVplZUkyVEk0NXROZUtKTHF2WDR6cXJOclZCV1dtWUtBaUlMNDNB?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Thu, 01 Oct 2026 08:35:11 GMT",
-        "base_score": 86,
-        "candidate_score": 89,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "kıta sahanlığı",
-          "MSB"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "72cb795160e379a969f2c9b4",
-        "mode": "geopolitico",
-        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - TGRT Haber",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmxJeGQyMHFtNXBsdWR0dF9kTnZsTE1JM2dlUlVjQTh6cmR3RDdmaFU3ZDIzY2FSZ2g5VHRTZ21YZ3dyUHJpUm1tVHY5RVoxV2JCcTBoanVZSGlQTHU0LVNJZm9BckJ1aThZTXJ1NDdma29YTDZaRnRDUzdoYXZyUGVpNzdHNGpwSXAxbWZJQnhaOEdJbVRLeU54bEtNUUtVUFNPX2kxX0dsYklxMVBYR0dva3ktd0NfU2ViV1lvQ3paVlhW?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Thu, 01 Oct 2026 08:07:54 GMT",
-        "base_score": 86,
-        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "Yunanistan",
@@ -358,41 +322,6 @@
           "ποντιακός",
           "Παναγία Σουμελά",
           "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "046222c48dc0fd70963ad03e",
-        "mode": "pontos_voice",
-        "title": "Trabzon'un Arsin ilçesinde hesaplar değişti! Beklenen karar çıkmadı",
-        "url": "https://www.61saat.com/trabzonun-arsin-ilcesinde-hesaplar-degisti-beklenen-karar-cikmadi",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 02 Oct 2026 08:32:00 +0300",
-        "base_score": 64,
-        "candidate_score": 79,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "kültür",
-          "belediye başkanı",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "f74f19fe0810a9a19fd2f969",
-        "mode": "pontos_voice",
-        "title": "Οι γαλλικοί φάροι του Εύξεινου Πόντου, πέτρινοι φρουροί της ποντιακής ακτογραμμής - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1RsMzlGNUJBaVF5MlVFejVfUms0MUpfMU5la28yTjVybWVKaTVfV0txTkQzYk41b0pFSUNKaDJ2WG5uRVJUQ1dUbEtWeUdOZTJmcUEyYXR2a3FFWURpckp6bzFGaUZRQWk4MFc4TWM5S094UGpsalRVTDd1OGU1WVQzVVRGWEhxUTRHaFUtaTZyTUNNREZibk56RlpoUEQwSGdTb0REbFBfWEFOS2c?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Wed, 30 Sep 2026 07:16:09 GMT",
-        "base_score": 72,
-        "candidate_score": 72,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακή"
         ],
         "content_type": "news"
       },
@@ -446,6 +375,38 @@
           "Trabzon"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "2adf5cfe6df3e2ad647f2a18",
+        "mode": "pontos_voice",
+        "title": "4. Avrupa Sinema Günleri Trabzon'da başladı",
+        "url": "https://www.61saat.com/4-avrupa-sinema-gunleri-trabzonda-basladi",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 02 Oct 2026 10:09:00 +0300",
+        "base_score": 34,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "7b396dc0b411a4e140af76e9",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor taraftarlarından Ertuğrul Doğan’a destek! - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVG9GRWc2VkRXZE9QLXBKTXBReWdacHJ0N2hnaXJ1OXFlaFJKa1NXYlAxRUtMRTNqNFg0dXFTNzBHY1BNanhkNzlxaUluNFJ1aE9mR2lNZHI5cFlIeGxOVmg4SDZVS1VReGVlWDhnQy1JOThLNUhUWlJPQTkxeG12dlpFWUQzT1pDMGhlTzNta3g5OWphYXN0UTZCYw?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 02 Oct 2026 07:12:31 GMT",
+        "base_score": 33,
+        "candidate_score": 48,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon"
+        ],
+        "content_type": "news"
       }
     ]
   },
@@ -489,26 +450,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "3a3bcc1f7a3c30ef0958f275",
-      "mode": "sportdog",
-      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -628,23 +569,23 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f27a6d4c150aff7a44e75f96",
-      "mode": "sportdog",
-      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Wed, 30 Sep 2026 19:25:43 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
+      "external_id": "0ac84fabc43daeb1a02cffbd",
+      "mode": "geopolitico",
+      "title": "Can Pakistan’s Turkish-Chinese shield stop BrahMos? PAF airbases to get Aselsan-HQ-17AE air defence umbrella - theweek.in",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTZQb0p1N2NOMEI4b0NncllMa1pGVjRYcG9OZzlOYjZ2RVhuVVZBaXNxWmk5cmQxM085WTlwc2JhWGhya0tPajRqOGFYVFVKYTlpNHhLU0llcks3a2JoSVhXUU1vanRKME5jYmVmTWFyT0Y3YU53QVVvWHhSc0gxRkRFb05SU3lhYnphS1NPcG9iZGs3TjJnQ05ndHRFR2tiRHFLZDA0UFN1b0plUmtRa29PLTh0SE1SemdmQ2dfTEN1SkxUQ2QzYm4tX1RNT0tOdUpsZNIB2gFBVV95cUxNR1RzTWJJSDQxamFVNDRQdGhOQ1dlUUw1QmgycUdPTW9VZFdsWmw0MzhlRXoyOEtxcFloQm9POWEzX3h1dUJjcjhEYjdITmpuZjR1QnVZMnJSb1VNQU1Rcm5KYjF1bzF4NmpHLVZhT2t4QXFUMVZDLVh6OVRFNlR4R0xVQUlsTWlfZWJPRkJ5TDduemcyT2hrc0Q1OXBMWHFkZDNPSUNqM1V2dHJaNmVFanZiUm1HTUtxRGk4eGIyQTJ4azdkQXlteDdZM3JXNzZ3M3ZRZmJiQzQ3Zw?oc=5",
+      "source": "Pakistan Turkey Watch",
+      "published": "Fri, 02 Oct 2026 06:52:38 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
       "matched_keywords": [
-        "PAOK"
+        "Pakistan",
+        "Chinese",
+        "BrahMos",
+        "defence",
+        "air defence"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "news"
     },
     {
       "external_id": "faafb88bdd7b88826143c77d",
@@ -660,6 +601,24 @@
         "NAVTEX",
         "Doğu Akdeniz",
         "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "c23f0e236feacf20ecbf2dfa",
+      "mode": "geopolitico",
+      "title": "Oruç Reis yeniden Doğu Akdeniz’de: Çalışmalar 25 Ekim’e kadar sürecek - kibrisgercek.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0JOQXZWTG1xWWhiMTZVMEMwYTlmMU1HdFZFYklEWkF4UUQ0WUdDZU9QbTZncmRMQWNoNV83U1BMM1dsbjFGZjBCdzdRT0N1bENSSGI2Tk5HOXFsc3puMWFKVmlTSG5iVkRpVDVUSk1sZTlaOWRLbUZaLXUydDdxYk5mLXZ4aERBcG9Sam9ZcVdCdUQ1eXdnajdGMA?oc=5",
+      "source": "Turkish Greek Relations Deep Watch",
+      "published": "Fri, 02 Oct 2026 05:54:00 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Kibris",
+        "Doğu Akdeniz",
+        "Oruç Reis",
+        "ada"
       ],
       "content_type": "turkey_greece"
     },
@@ -716,6 +675,23 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "931782558d60882a93e2fdb9",
+      "mode": "geopolitico",
+      "title": "Yunanistan'da Oruç Reis paniği: Yunan basını Türkiye'nin NAVTEX'ini manşete taşıdı - A Haber",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVhXMms0Mk5EUVNYckFvZnRiWXRUd1ptekhiUUFMRnk1SGlsUEduNHExSEo4cXplVlh0LUtrc1ZpLXhhZTJ3OVkzbEdHX29BcEZFYnhZQmpkUUF6Z25kMlRjR25qcnU4a0gyeFpkZ0luTkhNQjFkQnR1ZFpqVG81a2ZfNHhXNnNnRERVamRDSERHNDVNNkZUUjdYRnh3RS03WjQtWkNVODJua21WWEZWa0JTb25QajQyWVBVaGtxQkJrT0Zt?oc=5",
+      "source": "Turkish Greek Relations Deep Watch",
+      "published": "Thu, 01 Oct 2026 13:53:09 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "NAVTEX",
+        "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "b413cdd3acf6b4f0a541c0f6",
       "mode": "geopolitico",
       "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
@@ -724,57 +700,6 @@
       "published": "Thu, 01 Oct 2026 07:59:00 GMT",
       "base_score": 90,
       "candidate_score": 93,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "kıta sahanlığı",
-        "MSB"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "d1458d67e1bc80156d1c6f93",
-      "mode": "geopolitico",
-      "title": "The Blogs: Israeli Arms on Full Display – Cyprus’s Message - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTc3QUh1MWxiTmp2QlpOLV9LZjNONUktV1JTZEN5TVJhTFRvRGV6U21KWGxiTUxHbWczeEpVeFNnNzh4Ulc4dXlqUUxkMU5TR3Rlc3JpLUR1cjY3VXJ1MHBjaU54Vm8zelk0Y0ZPUG1lX2s4dUgtZWFkR183REhySWhjcw?oc=5",
-      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-      "published": "Thu, 01 Oct 2026 15:14:00 GMT",
-      "base_score": 84,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Israel",
-        "Israeli",
-        "Cyprus"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "8225619341b3911f6879ae8f",
-      "mode": "geopolitico",
-      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' uyarısı: \"Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek\" | Video videosunu izle | Son Dakika Haberleri - Sabah",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzBGaUcwTjVFZnZUb3p3WFFHM2UxYWtoVndJVXZVZEMtdWtFYlBJY05jdWhiVFRnaExjSi1MOFJ0d2swRF90ZUpnQ204UWQ4YmUtRmFIMlVOMVhYQ2pHWjYxU1prVEhyQkgzVlFoUk9EV0x4M3BVXzI4dUttOTNiZnh0Sk14amJCWHJsS3d3QmdTa29WM0Jta0IxOWVXa0NnQmFLUjBuc19xdkZ3NnE2a1kzU1h5TWoyajF5YkMyRlFJekpJWmVlSTJUSTQ1dE5lS0pMcXZYNHpxck5yVkJXV21ZS0FpSUw0M0HSAeoBQVVfeXFMTkMwRmlHME41RWZ2VG96d1hRRzNlMWFraFZ3SVV2VWRDLXVrRWJQSWNOY3VoYlRUZ2hMY0otTDhSdHdrMERfdGVKZ0NtOFFkOGJlLUZhSDJVTjFYWENqR1o2MVNaa1RIckJIM1ZRaFJPRFdMeDNwVV8yOHVLbTkzYmZ4dEpNeGpiQlhybEt3d0JnU2tvVjNCbWtCMTllV2tDZ0JhS1IwbnNfcXZGdzZxNmtZM1NYeU1qMmoxeWJDMkZRSXpKSVplZUkyVEk0NXROZUtKTHF2WDR6cXJOclZCV1dtWUtBaUlMNDNB?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Thu, 01 Oct 2026 08:35:11 GMT",
-      "base_score": 86,
-      "candidate_score": 89,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "kıta sahanlığı",
-        "MSB"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "72cb795160e379a969f2c9b4",
-      "mode": "geopolitico",
-      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - TGRT Haber",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmxJeGQyMHFtNXBsdWR0dF9kTnZsTE1JM2dlUlVjQTh6cmR3RDdmaFU3ZDIzY2FSZ2g5VHRTZ21YZ3dyUHJpUm1tVHY5RVoxV2JCcTBoanVZSGlQTHU0LVNJZm9BckJ1aThZTXJ1NDdma29YTDZaRnRDUzdoYXZyUGVpNzdHNGpwSXAxbWZJQnhaOEdJbVRLeU54bEtNUUtVUFNPX2kxX0dsYklxMVBYR0dva3ktd0NfU2ViV1lvQ3paVlhW?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Thu, 01 Oct 2026 08:07:54 GMT",
-      "base_score": 86,
-      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "Yunanistan",
@@ -797,41 +722,6 @@
         "ποντιακός",
         "Παναγία Σουμελά",
         "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "046222c48dc0fd70963ad03e",
-      "mode": "pontos_voice",
-      "title": "Trabzon'un Arsin ilçesinde hesaplar değişti! Beklenen karar çıkmadı",
-      "url": "https://www.61saat.com/trabzonun-arsin-ilcesinde-hesaplar-degisti-beklenen-karar-cikmadi",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 02 Oct 2026 08:32:00 +0300",
-      "base_score": 64,
-      "candidate_score": 79,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "kültür",
-        "belediye başkanı",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "f74f19fe0810a9a19fd2f969",
-      "mode": "pontos_voice",
-      "title": "Οι γαλλικοί φάροι του Εύξεινου Πόντου, πέτρινοι φρουροί της ποντιακής ακτογραμμής - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1RsMzlGNUJBaVF5MlVFejVfUms0MUpfMU5la28yTjVybWVKaTVfV0txTkQzYk41b0pFSUNKaDJ2WG5uRVJUQ1dUbEtWeUdOZTJmcUEyYXR2a3FFWURpckp6bzFGaUZRQWk4MFc4TWM5S094UGpsalRVTDd1OGU1WVQzVVRGWEhxUTRHaFUtaTZyTUNNREZibk56RlpoUEQwSGdTb0REbFBfWEFOS2c?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Wed, 30 Sep 2026 07:16:09 GMT",
-      "base_score": 72,
-      "candidate_score": 72,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακή"
       ],
       "content_type": "news"
     },
@@ -882,6 +772,38 @@
       "matched_keywords": [
         "Trabzon",
         "tepki",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "2adf5cfe6df3e2ad647f2a18",
+      "mode": "pontos_voice",
+      "title": "4. Avrupa Sinema Günleri Trabzon'da başladı",
+      "url": "https://www.61saat.com/4-avrupa-sinema-gunleri-trabzonda-basladi",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 02 Oct 2026 10:09:00 +0300",
+      "base_score": 34,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "7b396dc0b411a4e140af76e9",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor taraftarlarından Ertuğrul Doğan’a destek! - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVG9GRWc2VkRXZE9QLXBKTXBReWdacHJ0N2hnaXJ1OXFlaFJKa1NXYlAxRUtMRTNqNFg0dXFTNzBHY1BNanhkNzlxaUluNFJ1aE9mR2lNZHI5cFlIeGxOVmg4SDZVS1VReGVlWDhnQy1JOThLNUhUWlJPQTkxeG12dlpFWUQzT1pDMGhlTzNta3g5OWphYXN0UTZCYw?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 02 Oct 2026 07:12:31 GMT",
+      "base_score": 33,
+      "candidate_score": 48,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
         "Trabzon"
       ],
       "content_type": "news"
