@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T17:27:42.945465+00:00",
+  "generated_at": "2026-10-02T17:50:50.422248+00:00",
   "counts": {
-    "sportdog": 4,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -27,6 +27,26 @@
         "team": "AEK",
         "readiness": "READY",
         "needs_second_source": false
+      },
+      {
+        "external_id": "3a3bcc1f7a3c30ef0958f275",
+        "mode": "sportdog",
+        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+        "base_score": 56,
+        "candidate_score": 67,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "9d2f8ce704b57a41fa680253",
@@ -366,6 +386,26 @@
       "team": "AEK",
       "readiness": "READY",
       "needs_second_source": false
+    },
+    {
+      "external_id": "3a3bcc1f7a3c30ef0958f275",
+      "mode": "sportdog",
+      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+      "base_score": 56,
+      "candidate_score": 67,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "9d2f8ce704b57a41fa680253",
