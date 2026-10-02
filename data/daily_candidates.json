@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T02:05:00.146949+00:00",
+  "generated_at": "2026-10-02T02:23:58.459648+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -46,26 +46,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "3a3bcc1f7a3c30ef0958f275",
-        "mode": "sportdog",
-        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-        "base_score": 56,
-        "candidate_score": 74,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -194,7 +174,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 30 Sep 2026 20:18:18 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -298,23 +278,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "deba3d39248f97e04d5aca4d",
-        "mode": "geopolitico",
-        "title": "Yunanistan’dan Kıbrıs mesajı: “Yeniden birleşme hedefiyle yanındayız” - bugunkibris.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1lsaG56elNxQk9tOElhRXpFUU5TQmpXb1BuQURha3hJUUtUeFlzRWVaNW10UVo1OWRyN2tDeUh0ZXVyRVZDR0ZyNE0wWGd2UEVQZU10V3VEdUllem1vWHpDRnpORWYxVlM4dVJSZ3d4T3NtNHlCamFZeGxZenpDU0d3V01qWHBrUGhNOUllQkhKYUp1?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 01 Oct 2026 12:50:03 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kibris",
-          "Kıbrıs"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "b413cdd3acf6b4f0a541c0f6",
         "mode": "geopolitico",
         "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
@@ -349,14 +312,31 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "72cb795160e379a969f2c9b4",
+        "external_id": "d1458d67e1bc80156d1c6f93",
         "mode": "geopolitico",
-        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - TGRT Haber",
+        "title": "The Blogs: Israeli Arms on Full Display – Cyprus’s Message - The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTc3QUh1MWxiTmp2QlpOLV9LZjNONUktV1JTZEN5TVJhTFRvRGV6U21KWGxiTUxHbWczeEpVeFNnNzh4Ulc4dXlqUUxkMU5TR3Rlc3JpLUR1cjY3VXJ1MHBjaU54Vm8zelk0Y0ZPUG1lX2s4dUgtZWFkR183REhySWhjcw?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Thu, 01 Oct 2026 15:14:00 GMT",
+        "base_score": 84,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Israel",
+          "Israeli",
+          "Cyprus"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "9347021f25c2c1e6c018df95",
+        "mode": "geopolitico",
+        "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - tgrthaber.com",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmxJeGQyMHFtNXBsdWR0dF9kTnZsTE1JM2dlUlVjQTh6cmR3RDdmaFU3ZDIzY2FSZ2g5VHRTZ21YZ3dyUHJpUm1tVHY5RVoxV2JCcTBoanVZSGlQTHU0LVNJZm9BckJ1aThZTXJ1NDdma29YTDZaRnRDUzdoYXZyUGVpNzdHNGpwSXAxbWZJQnhaOEdJbVRLeU54bEtNUUtVUFNPX2kxX0dsYklxMVBYR0dva3ktd0NfU2ViV1lvQ3paVlhW?oc=5",
         "source": "Eastern Mediterranean Turkey Watch",
         "published": "Thu, 01 Oct 2026 08:07:54 GMT",
         "base_score": 86,
-        "candidate_score": 92,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "Yunanistan",
@@ -516,26 +496,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "3a3bcc1f7a3c30ef0958f275",
-      "mode": "sportdog",
-      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-      "base_score": 56,
-      "candidate_score": 74,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "fc79359693818eb9da596719",
       "mode": "sportdog",
       "title": "Deal Between West Ham and Olympiacos Collapses for Mexican Captain - roundtable.io",
@@ -660,7 +620,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 30 Sep 2026 20:18:18 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -762,23 +722,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "deba3d39248f97e04d5aca4d",
-      "mode": "geopolitico",
-      "title": "Yunanistan’dan Kıbrıs mesajı: “Yeniden birleşme hedefiyle yanındayız” - bugunkibris.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1lsaG56elNxQk9tOElhRXpFUU5TQmpXb1BuQURha3hJUUtUeFlzRWVaNW10UVo1OWRyN2tDeUh0ZXVyRVZDR0ZyNE0wWGd2UEVQZU10V3VEdUllem1vWHpDRnpORWYxVlM4dVJSZ3d4T3NtNHlCamFZeGxZenpDU0d3V01qWHBrUGhNOUllQkhKYUp1?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 01 Oct 2026 12:50:03 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kibris",
-        "Kıbrıs"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "b413cdd3acf6b4f0a541c0f6",
       "mode": "geopolitico",
       "title": "MSB’den Yunanistan ve GKRY’ye kritik mesaj: Kıta sahanlığımızda izinsiz faaliyete izin verilmeyecek - Haber Global",
@@ -813,14 +756,31 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "72cb795160e379a969f2c9b4",
+      "external_id": "d1458d67e1bc80156d1c6f93",
       "mode": "geopolitico",
-      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - TGRT Haber",
+      "title": "The Blogs: Israeli Arms on Full Display – Cyprus’s Message - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTc3QUh1MWxiTmp2QlpOLV9LZjNONUktV1JTZEN5TVJhTFRvRGV6U21KWGxiTUxHbWczeEpVeFNnNzh4Ulc4dXlqUUxkMU5TR3Rlc3JpLUR1cjY3VXJ1MHBjaU54Vm8zelk0Y0ZPUG1lX2s4dUgtZWFkR183REhySWhjcw?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Thu, 01 Oct 2026 15:14:00 GMT",
+      "base_score": 84,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Israel",
+        "Israeli",
+        "Cyprus"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "9347021f25c2c1e6c018df95",
+      "mode": "geopolitico",
+      "title": "MSB'den Yunanistan ve GKRY'ye 'elektrik güzergahı' mesajı: Kıta sahanlığımızda hiçbir faaliyete izin verilmeyecek - tgrthaber.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmxJeGQyMHFtNXBsdWR0dF9kTnZsTE1JM2dlUlVjQTh6cmR3RDdmaFU3ZDIzY2FSZ2g5VHRTZ21YZ3dyUHJpUm1tVHY5RVoxV2JCcTBoanVZSGlQTHU0LVNJZm9BckJ1aThZTXJ1NDdma29YTDZaRnRDUzdoYXZyUGVpNzdHNGpwSXAxbWZJQnhaOEdJbVRLeU54bEtNUUtVUFNPX2kxX0dsYklxMVBYR0dva3ktd0NfU2ViV1lvQ3paVlhW?oc=5",
       "source": "Eastern Mediterranean Turkey Watch",
       "published": "Thu, 01 Oct 2026 08:07:54 GMT",
       "base_score": 86,
-      "candidate_score": 92,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "Yunanistan",
