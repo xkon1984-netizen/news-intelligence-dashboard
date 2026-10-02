@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:24:06.632242+00:00",
+  "generated_at": "2026-10-02T21:51:30.823358+00:00",
   "counts": {
     "sportdog": 5,
     "geopolitico": 8,
@@ -256,23 +256,6 @@
     ],
     "pontos_voice": [
       {
-        "external_id": "c42e9ab21873460e219ca7cb",
-        "mode": "pontos_voice",
-        "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPUS1rNm9wY1VfZ1hrVVhoVnZ1TUdZWUxKYld5NC1ISUt5NHJzV3BUMU55SVhWMW1nMUJxX2ZXZld3dkVuOVlsVnAxLVZjTy0wUkRJTGZkN0NSLXZ1LTJzcU15Y2s4aUJJLVN5RzhBTjl3TUJha25rZ01ZWGRtYlQyRmlaUHQwc3F5NG1Pc2dmWklReW8zS3pCaWZfVk9jRmNMUVZjTTZ3NUt2WFF5Y1poVEJNdHJKbjdzTjd5ejIyY2I2MGlTMVdwTWMwM1ZaRlY3VWpwNzNHNU9MaHNzYVZMMnRsRUFZS2Q5N3hHWjdndXFMV2tCX0M2X2pIUC1VbWVTa0ZHSGZYY3V2SER3eGpId05hTUtJYUFFYzNBamtKYXRZTXU3aVZJeEJBREtOZXowQW5ZM0dWd3lTWEVHa2pndGRKVXZQYzBoLTlz?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Fri, 02 Oct 2026 18:42:57 GMT",
-        "base_score": 95,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά",
-          "ιστορία"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "478699e9ee6d864d5a1a8f4a",
         "mode": "pontos_voice",
         "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
@@ -307,6 +290,23 @@
           "Τραπεζούντα",
           "Τραπεζούντας",
           "μοναστήρι"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "c42e9ab21873460e219ca7cb",
+        "mode": "pontos_voice",
+        "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPUS1rNm9wY1VfZ1hrVVhoVnZ1TUdZWUxKYld5NC1ISUt5NHJzV3BUMU55SVhWMW1nMUJxX2ZXZld3dkVuOVlsVnAxLVZjTy0wUkRJTGZkN0NSLXZ1LTJzcU15Y2s4aUJJLVN5RzhBTjl3TUJha25rZ01ZWGRtYlQyRmlaUHQwc3F5NG1Pc2dmWklReW8zS3pCaWZfVk9jRmNMUVZjTTZ3NUt2WFF5Y1poVEJNdHJKbjdzTjd5ejIyY2I2MGlTMVdwTWMwM1ZaRlY3VWpwNzNHNU9MaHNzYVZMMnRsRUFZS2Q5N3hHWjdndXFMV2tCX0M2X2pIUC1VbWVTa0ZHSGZYY3V2SER3eGpId05hTUtJYUFFYzNBamtKYXRZTXU3aVZJeEJBREtOZXowQW5ZM0dWd3lTWEVHa2pndGRKVXZQYzBoLTlz?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Fri, 02 Oct 2026 18:42:57 GMT",
+        "base_score": 95,
+        "candidate_score": 105,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Παναγία Σουμελά",
+          "Σουμελά",
+          "ιστορία"
         ],
         "content_type": "news"
       },
@@ -609,23 +609,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "c42e9ab21873460e219ca7cb",
-      "mode": "pontos_voice",
-      "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPUS1rNm9wY1VfZ1hrVVhoVnZ1TUdZWUxKYld5NC1ISUt5NHJzV3BUMU55SVhWMW1nMUJxX2ZXZld3dkVuOVlsVnAxLVZjTy0wUkRJTGZkN0NSLXZ1LTJzcU15Y2s4aUJJLVN5RzhBTjl3TUJha25rZ01ZWGRtYlQyRmlaUHQwc3F5NG1Pc2dmWklReW8zS3pCaWZfVk9jRmNMUVZjTTZ3NUt2WFF5Y1poVEJNdHJKbjdzTjd5ejIyY2I2MGlTMVdwTWMwM1ZaRlY3VWpwNzNHNU9MaHNzYVZMMnRsRUFZS2Q5N3hHWjdndXFMV2tCX0M2X2pIUC1VbWVTa0ZHSGZYY3V2SER3eGpId05hTUtJYUFFYzNBamtKYXRZTXU3aVZJeEJBREtOZXowQW5ZM0dWd3lTWEVHa2pndGRKVXZQYzBoLTlz?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Fri, 02 Oct 2026 18:42:57 GMT",
-      "base_score": 95,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά",
-        "ιστορία"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "478699e9ee6d864d5a1a8f4a",
       "mode": "pontos_voice",
       "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
@@ -660,6 +643,23 @@
         "Τραπεζούντα",
         "Τραπεζούντας",
         "μοναστήρι"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "c42e9ab21873460e219ca7cb",
+      "mode": "pontos_voice",
+      "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPUS1rNm9wY1VfZ1hrVVhoVnZ1TUdZWUxKYld5NC1ISUt5NHJzV3BUMU55SVhWMW1nMUJxX2ZXZld3dkVuOVlsVnAxLVZjTy0wUkRJTGZkN0NSLXZ1LTJzcU15Y2s4aUJJLVN5RzhBTjl3TUJha25rZ01ZWGRtYlQyRmlaUHQwc3F5NG1Pc2dmWklReW8zS3pCaWZfVk9jRmNMUVZjTTZ3NUt2WFF5Y1poVEJNdHJKbjdzTjd5ejIyY2I2MGlTMVdwTWMwM1ZaRlY3VWpwNzNHNU9MaHNzYVZMMnRsRUFZS2Q5N3hHWjdndXFMV2tCX0M2X2pIUC1VbWVTa0ZHSGZYY3V2SER3eGpId05hTUtJYUFFYzNBamtKYXRZTXU3aVZJeEJBREtOZXowQW5ZM0dWd3lTWEVHa2pndGRKVXZQYzBoLTlz?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Fri, 02 Oct 2026 18:42:57 GMT",
+      "base_score": 95,
+      "candidate_score": 105,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Παναγία Σουμελά",
+        "Σουμελά",
+        "ιστορία"
       ],
       "content_type": "news"
     },
