@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T08:30:03.591529+00:00",
+  "generated_at": "2026-10-02T08:51:37.558668+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -27,6 +27,26 @@
         "team": "AEK",
         "readiness": "READY",
         "needs_second_source": false
+      },
+      {
+        "external_id": "3a3bcc1f7a3c30ef0958f275",
+        "mode": "sportdog",
+        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "eb58b80f4eed06bc88b95ee0",
@@ -105,44 +125,6 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "963dea9e55553c1c99420837",
-        "mode": "sportdog",
-        "title": "PAOK - Manresa 93-78 - Flashscore.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZmSTkzVTZDV043RUVDQU12WHJhSFIya0dKUWV3LU5iazZQbWV2UG02OURMaE9hNE1uWS1nTU1ac21VX1JsQXozeUxseTFUeEhTcHd2UDNQa3FqTV9sa01VeTRhbXBHZUdWS3FEaUVOOG8tbUt4ZE9RZC1ySkoteQ?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Wed, 30 Sep 2026 20:44:45 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "d22a1ce8fc1756038819f0c4",
-        "mode": "sportdog",
-        "title": "EuroLeague roundup: Panathinaikos dominates ASVEL, Beşiktaş claims first win in Belgrade - Eurohoops",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2JZNkJGdGo4djF5NVhlZDk4Mmp0SG54TWxJYTJFOVBwVTJkUGhuUV9FQ1lZV2N4TTd0eEp1TzVudFJTUlNKQTRER0dXa284amxsaTdyLUlnUTVRVzhPRUM3UktNazB6S2V1Z2lkVWFVSVVBUng1eDZYemQyazdRVlA1OTFmaERaT0hXNlpWaThhZGs?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 30 Sep 2026 20:38:24 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -183,6 +165,24 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "f152b2e5a25aa8c21abb9626",
+        "mode": "geopolitico",
+        "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - Detay Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2w0Z2pUQ0I1ZW9GcEFuOFVHMl9SdElrcUM4VlkwNVRLX0dlODg1Wm93aWZGRUtyaFoxOGtvbURFblgzejAwVGo0bEZNM2FsdE5wYmEwaF9seUhFZVVfeFI4ZFZwSUMzdUlndXFTMWNvZl8yS2ZmNGd5WXJGcHFGRmgtbFh6TGlMQlNITXJXNmlYSUNidEVfTDRRMkszUFM5SWZPZ28tUlhYQWFHb1BBSDViUlBRemdValE?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 02 Oct 2026 06:18:00 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "NAVTEX",
+          "Doğu Akdeniz",
+          "Kıbrıs",
+          "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "c23f0e236feacf20ecbf2dfa",
         "mode": "geopolitico",
         "title": "Oruç Reis yeniden Doğu Akdeniz’de: Çalışmalar 25 Ekim’e kadar sürecek - kibrisgercek.com",
@@ -201,9 +201,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "e297e705ed8648d826151c1a",
+        "external_id": "72fdd27bfa725aaacc6b2a89",
         "mode": "geopolitico",
-        "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - Ege Alternatif",
+        "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - egealternatif.com",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGVROXN0Q1Ywa1owVW10b3M5alJHdHNZcnVWT3hZZ3BlSHN0UEFsYlA4clpvYlNHUm04N0wyTGFjcmp4V3VObEJnYXRPMjEwYzNhUFNyQkl2LUtOTzVNR0k4Uy10dDJUdlk1MGhoNTJFYldjaXNQbFNHdE15ajR5YlktMUgtS05RT2VOZHFqOEllaE5pTTBKRUVudkpoYzl6ZDlYcA?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 02 Oct 2026 02:27:00 GMT",
@@ -214,23 +214,6 @@
           "Ege",
           "Doğu Akdeniz",
           "Oruç Reis"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "ebd3a527349eaae4b6abd276",
-        "mode": "geopolitico",
-        "title": "Yunanistan'da Türkiye-İsrail gerilimi analizi: 27 Ekim seçimleri öncesi Suriye ve Doğu Akdeniz'de çatışma olabilir - TRHaber",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdkFIRFhTb19jUl9HNUhlbFV5aDU0OFYtQXFCbnVYQWRKVk13cmhPZTAxZlByZnNTWE9xeDlIYkdqMWVYbG93dVBUbWZoNXdURGRsQjRvM2x6V04yajFyRlc1YzBPOVo5UlI0NWQzRW5SUTYzLXlIVHJIOTBxeHp6TXp2ZzVVYmdnSGw1eU5jZFpfQUY2eXBmMkJoZEVLVlBhMzBhQUdKT0xIaEZSaEdUcy1qZUs3eWVQeGFWeU5xaXdGS1BpU1NzOTBkMXU2TnFnWWk5LWNTYUxKd3dOcW9IUVVVYm9fb2NtNUtMQ21NUnQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 02 Oct 2026 06:57:30 GMT",
-        "base_score": 94,
-        "candidate_score": 109,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz",
-          "gerilim"
         ],
         "content_type": "turkey_greece"
       },
@@ -334,9 +317,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "bd288b1cf299e4342ae01620",
+        "external_id": "a6ad8a9202bc31ec3c46725f",
         "mode": "pontos_voice",
-        "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - olympiobima.gr",
+        "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - Ολύμπιο Βήμα",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUxyWFZnY0Vkci05RVJNQUhxcDlwQ3FTaXJCVFRsRDZtWWVKdnVCd3dUbE1YNGFRaW5oVjA1cmo2M3BCYWE0UUpRUlJIdERsdXQwb0VVVVE5bC1GdUI1eXlhYU1VSEx0aXJwbGtmSmtMN1dneDc2ODlVS1RXRDJ4bmpOYTFqUQ?oc=5",
         "source": "Greek Press Pontic Watch",
         "published": "Thu, 01 Oct 2026 08:56:35 GMT",
@@ -428,6 +411,26 @@
       "needs_second_source": false
     },
     {
+      "external_id": "3a3bcc1f7a3c30ef0958f275",
+      "mode": "sportdog",
+      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "eb58b80f4eed06bc88b95ee0",
       "mode": "sportdog",
       "title": "Olympiacos put price tag on Super Eagles star Onyemaechi - Score Nigeria",
@@ -506,44 +509,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "963dea9e55553c1c99420837",
-      "mode": "sportdog",
-      "title": "PAOK - Manresa 93-78 - Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZmSTkzVTZDV043RUVDQU12WHJhSFIya0dKUWV3LU5iazZQbWV2UG02OURMaE9hNE1uWS1nTU1ac21VX1JsQXozeUxseTFUeEhTcHd2UDNQa3FqTV9sa01VeTRhbXBHZUdWS3FEaUVOOG8tbUt4ZE9RZC1ySkoteQ?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Wed, 30 Sep 2026 20:44:45 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "d22a1ce8fc1756038819f0c4",
-      "mode": "sportdog",
-      "title": "EuroLeague roundup: Panathinaikos dominates ASVEL, Beşiktaş claims first win in Belgrade - Eurohoops",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2JZNkJGdGo4djF5NVhlZDk4Mmp0SG54TWxJYTJFOVBwVTJkUGhuUV9FQ1lZV2N4TTd0eEp1TzVudFJTUlNKQTRER0dXa284amxsaTdyLUlnUTVRVzhPRUM3UktNazB6S2V1Z2lkVWFVSVVBUng1eDZYemQyazdRVlA1OTFmaERaT0hXNlpWaThhZGs?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 30 Sep 2026 20:38:24 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "0ac84fabc43daeb1a02cffbd",
       "mode": "geopolitico",
       "title": "Can Pakistan’s Turkish-Chinese shield stop BrahMos? PAF airbases to get Aselsan-HQ-17AE air defence umbrella - theweek.in",
@@ -580,6 +545,24 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "f152b2e5a25aa8c21abb9626",
+      "mode": "geopolitico",
+      "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - Detay Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2w0Z2pUQ0I1ZW9GcEFuOFVHMl9SdElrcUM4VlkwNVRLX0dlODg1Wm93aWZGRUtyaFoxOGtvbURFblgzejAwVGo0bEZNM2FsdE5wYmEwaF9seUhFZVVfeFI4ZFZwSUMzdUlndXFTMWNvZl8yS2ZmNGd5WXJGcHFGRmgtbFh6TGlMQlNITXJXNmlYSUNidEVfTDRRMkszUFM5SWZPZ28tUlhYQWFHb1BBSDViUlBRemdValE?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 02 Oct 2026 06:18:00 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "NAVTEX",
+        "Doğu Akdeniz",
+        "Kıbrıs",
+        "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "c23f0e236feacf20ecbf2dfa",
       "mode": "geopolitico",
       "title": "Oruç Reis yeniden Doğu Akdeniz’de: Çalışmalar 25 Ekim’e kadar sürecek - kibrisgercek.com",
@@ -598,9 +581,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "e297e705ed8648d826151c1a",
+      "external_id": "72fdd27bfa725aaacc6b2a89",
       "mode": "geopolitico",
-      "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - Ege Alternatif",
+      "title": "Türkiye, Doğu Akdeniz'de Oruç Reis ile araştırmalara başladı - egealternatif.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGVROXN0Q1Ywa1owVW10b3M5alJHdHNZcnVWT3hZZ3BlSHN0UEFsYlA4clpvYlNHUm04N0wyTGFjcmp4V3VObEJnYXRPMjEwYzNhUFNyQkl2LUtOTzVNR0k4Uy10dDJUdlk1MGhoNTJFYldjaXNQbFNHdE15ajR5YlktMUgtS05RT2VOZHFqOEllaE5pTTBKRUVudkpoYzl6ZDlYcA?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 02 Oct 2026 02:27:00 GMT",
@@ -611,23 +594,6 @@
         "Ege",
         "Doğu Akdeniz",
         "Oruç Reis"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "ebd3a527349eaae4b6abd276",
-      "mode": "geopolitico",
-      "title": "Yunanistan'da Türkiye-İsrail gerilimi analizi: 27 Ekim seçimleri öncesi Suriye ve Doğu Akdeniz'de çatışma olabilir - TRHaber",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdkFIRFhTb19jUl9HNUhlbFV5aDU0OFYtQXFCbnVYQWRKVk13cmhPZTAxZlByZnNTWE9xeDlIYkdqMWVYbG93dVBUbWZoNXdURGRsQjRvM2x6V04yajFyRlc1YzBPOVo5UlI0NWQzRW5SUTYzLXlIVHJIOTBxeHp6TXp2ZzVVYmdnSGw1eU5jZFpfQUY2eXBmMkJoZEVLVlBhMzBhQUdKT0xIaEZSaEdUcy1qZUs3eWVQeGFWeU5xaXdGS1BpU1NzOTBkMXU2TnFnWWk5LWNTYUxKd3dOcW9IUVVVYm9fb2NtNUtMQ21NUnQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 02 Oct 2026 06:57:30 GMT",
-      "base_score": 94,
-      "candidate_score": 109,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz",
-        "gerilim"
       ],
       "content_type": "turkey_greece"
     },
@@ -729,9 +695,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "bd288b1cf299e4342ae01620",
+      "external_id": "a6ad8a9202bc31ec3c46725f",
       "mode": "pontos_voice",
-      "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - olympiobima.gr",
+      "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - Ολύμπιο Βήμα",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUxyWFZnY0Vkci05RVJNQUhxcDlwQ3FTaXJCVFRsRDZtWWVKdnVCd3dUbE1YNGFRaW5oVjA1cmo2M3BCYWE0UUpRUlJIdERsdXQwb0VVVVE5bC1GdUI1eXlhYU1VSEx0aXJwbGtmSmtMN1dneDc2ODlVS1RXRDJ4bmpOYTFqUQ?oc=5",
       "source": "Greek Press Pontic Watch",
       "published": "Thu, 01 Oct 2026 08:56:35 GMT",
