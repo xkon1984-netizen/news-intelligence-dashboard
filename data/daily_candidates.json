@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T05:51:47.974296+00:00",
+  "generated_at": "2026-10-02T06:05:15.222069+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -66,6 +66,26 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "3a3bcc1f7a3c30ef0958f275",
+        "mode": "sportdog",
+        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -344,26 +364,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "ae69de5e11f7610d13bbf414",
-        "mode": "pontos_voice",
-        "title": "Fatih Altaylı’nın sözleri sonrası Trabzon’dan sert tepki",
-        "url": "https://www.61saat.com/fatih-altaylinin-sozleri-sonrasi-trabzondan-sert-tepki",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 02 Oct 2026 08:25:00 +0300",
-        "base_score": 68,
-        "candidate_score": 83,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "belediye başkanı",
-          "açıklama",
-          "tepki",
-          "tartışma",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "046222c48dc0fd70963ad03e",
         "mode": "pontos_voice",
         "title": "Trabzon'un Arsin ilçesinde hesaplar değişti! Beklenen karar çıkmadı",
@@ -411,6 +411,23 @@
         "matched_keywords": [
           "Trabzon",
           "milletvekili",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "4338b4be76edacb2f686f97f",
+        "mode": "pontos_voice",
+        "title": "Şalpazarı Belediye Başkanı Refik Kurukız’ın acı günü",
+        "url": "https://www.61saat.com/salpazari-belediye-baskani-refik-kurukizin-aci-gunu",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 02 Oct 2026 08:39:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "belediye başkanı",
           "Trabzon"
         ],
         "content_type": "news"
@@ -494,6 +511,26 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "3a3bcc1f7a3c30ef0958f275",
+      "mode": "sportdog",
+      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -768,26 +805,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "ae69de5e11f7610d13bbf414",
-      "mode": "pontos_voice",
-      "title": "Fatih Altaylı’nın sözleri sonrası Trabzon’dan sert tepki",
-      "url": "https://www.61saat.com/fatih-altaylinin-sozleri-sonrasi-trabzondan-sert-tepki",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 02 Oct 2026 08:25:00 +0300",
-      "base_score": 68,
-      "candidate_score": 83,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "belediye başkanı",
-        "açıklama",
-        "tepki",
-        "tartışma",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "046222c48dc0fd70963ad03e",
       "mode": "pontos_voice",
       "title": "Trabzon'un Arsin ilçesinde hesaplar değişti! Beklenen karar çıkmadı",
@@ -835,6 +852,23 @@
       "matched_keywords": [
         "Trabzon",
         "milletvekili",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "4338b4be76edacb2f686f97f",
+      "mode": "pontos_voice",
+      "title": "Şalpazarı Belediye Başkanı Refik Kurukız’ın acı günü",
+      "url": "https://www.61saat.com/salpazari-belediye-baskani-refik-kurukizin-aci-gunu",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 02 Oct 2026 08:39:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "belediye başkanı",
         "Trabzon"
       ],
       "content_type": "news"
