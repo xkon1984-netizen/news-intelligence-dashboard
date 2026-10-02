@@ -1,14 +1,299 @@
 {
-  "generated_at": "2026-10-02T10:20:12.661466+00:00",
+  "generated_at": "2026-10-02T10:25:52.969325+00:00",
   "counts": {
-    "sportdog": 0,
-    "geopolitico": 0,
-    "pontos_voice": 3
+    "sportdog": 6,
+    "geopolitico": 8,
+    "pontos_voice": 6
   },
   "modes": {
-    "sportdog": [],
-    "geopolitico": [],
+    "sportdog": [
+      {
+        "external_id": "c5d80af035e4378cd54f9802",
+        "mode": "sportdog",
+        "title": "AEK owner reveals Olympiacos arena deal and NBA Europe plans - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xZ1JRbVdOZzE0OUlHc2RaOGJTc3Y3VjVON29yZlpsaGZlR2psbk5lMkxjMmluaHE3ZnJmcUNoVkZSbzVnS2VOemVpM25sQUZsbEs2cnVjaHVkQXB3V0oyV1V0TVZ3SnI1bEE5NEpQazhWWWNNaTZRV213?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 16:22:30 GMT",
+        "base_score": 88,
+        "candidate_score": 117,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "AEK",
+          "Olympiacos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "AEK",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
+        "external_id": "7e28ff69f5a2846161e6f857",
+        "mode": "sportdog",
+        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "4f25644d56897228027cf304",
+        "mode": "sportdog",
+        "title": "Does an Arnaud Kalimuendo Loan Move Make Sense for Olympiacos? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamJoS0ZaWk53NVhTcXo1QnhaV1J1RGxZOExPQThuSkhTNm5VR1JIdVg5UTQ1WWQtSnZYdGxDZGNVcWdyaE5zRmdNZFNsUjhuMVNTX0VwWjNPYjlOSlZmdDJreVM3OUkzWnhteGNfUXhJcHVHMTlRMGJLSnJfQjgtVlJUMmVUTk10?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 00:23:00 GMT",
+        "base_score": 44,
+        "candidate_score": 52,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "loan"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "eb58b80f4eed06bc88b95ee0",
+        "mode": "sportdog",
+        "title": "Olympiacos put price tag on Super Eagles star Onyemaechi - Score Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX3FzYmwxRlk0RS1LaHRRR3hZM0hyUm9WQnMxbUNSQXNTc2ZKMzdLVDNaRDdwSVlzUHc5dXN3M0lBdm44Zm9ycmJfeVVfQTVTRWVLcFlwTWFCRTU5OTJHcWlpcy15ekFtZ1pQbWZhbVJWZi1QbTNwcVZrTm1Kd1dpRjFiZ1VUY1hwOUhodkdB?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 02 Oct 2026 06:48:35 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "7c4a1c8595d47f9a75b8c7b5",
+        "mode": "sportdog",
+        "title": "Panathinaikos vs Maccabi Tel Aviv – Preview & Prediction (Oct. 02, 2026) - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUhzMl91SURDMnZPZUZTcldxckN6VEtmV1lLUXBuNldiX2tkTTZadWtmaTE2bGxhb2RBVnQxSUt3dEo3dGpUZ2kwX1FXTnNySlVLZzRkOVhxUTQ0TTgxTTRnRHZObTdSRkY2OW5HekthUTRKOFdqUk9CX09WNmZka2hJNGlubmVNQ3ZManNORlY3MnRLYzVrQzhNNDA3dw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 09:14:03 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "80b43831b627fc246896dfea",
+        "mode": "sportdog",
+        "title": "Why Olympiacos' Bruno Onyemaechi Could Be a Good Fit for Real Betis - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTZwSjhldnoyLVlVVThNeGx5b0pTcFdIQ3ZsR251YnhYc0ZzVHJuYlR2N0NKeTBFZWtJRzF0em9Obm5mV0VPb3JwUjcyeGpLbHl3ak42cE1TMzI2ZjJHQXA5R1J1TlFEdW1ab2RFcVJJWkhXeWR5SWh2bXUtdWgtV3pZTnhYTl9MWkx3ZVdpaw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 01 Oct 2026 00:33:00 GMT",
+        "base_score": 31,
+        "candidate_score": 39,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      }
+    ],
+    "geopolitico": [
+      {
+        "external_id": "0ac84fabc43daeb1a02cffbd",
+        "mode": "geopolitico",
+        "title": "Can Pakistan’s Turkish-Chinese shield stop BrahMos? PAF airbases to get Aselsan-HQ-17AE air defence umbrella - theweek.in",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTZQb0p1N2NOMEI4b0NncllMa1pGVjRYcG9OZzlOYjZ2RVhuVVZBaXNxWmk5cmQxM085WTlwc2JhWGhya0tPajRqOGFYVFVKYTlpNHhLU0llcks3a2JoSVhXUU1vanRKME5jYmVmTWFyT0Y3YU53QVVvWHhSc0gxRkRFb05SU3lhYnphS1NPcG9iZGs3TjJnQ05ndHRFR2tiRHFLZDA0UFN1b0plUmtRa29PLTh0SE1SemdmQ2dfTEN1SkxUQ2QzYm4tX1RNT0tOdUpsZNIB2gFBVV95cUxNR1RzTWJJSDQxamFVNDRQdGhOQ1dlUUw1QmgycUdPTW9VZFdsWmw0MzhlRXoyOEtxcFloQm9POWEzX3h1dUJjcjhEYjdITmpuZjR1QnVZMnJSb1VNQU1Rcm5KYjF1bzF4NmpHLVZhT2t4QXFUMVZDLVh6OVRFNlR4R0xVQUlsTWlfZWJPRkJ5TDduemcyT2hrc0Q1OXBMWHFkZDNPSUNqM1V2dHJaNmVFanZiUm1HTUtxRGk4eGIyQTJ4azdkQXlteDdZM3JXNzZ3M3ZRZmJiQzQ3Zw?oc=5",
+        "source": "Pakistan Turkey Watch",
+        "published": "Fri, 02 Oct 2026 06:52:38 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pakistan",
+          "Chinese",
+          "BrahMos",
+          "defence",
+          "air defence"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "d5505ffd953c43340434dc26",
+        "mode": "geopolitico",
+        "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - giynikgazetesi.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2dadzhGN3ZROWFsbVJ0YzFrdFZGTkZMbzVYTFNJUFd4a3Jrc0NRTVg4UFZTbzY1dFRzdVk1YXR6TFFRcWtIcEVOSjRUUG0tZzItNFU5QkFFWVJCalQwaXJ0TmJ4WFVvME1HZHYzVlB3dDZlODJxbl9DT3MxbnRrMEJ6b3BneFE?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 02 Oct 2026 06:28:44 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "NAVTEX",
+          "Doğu Akdeniz",
+          "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "4896a20d3a848253d5514343",
+        "mode": "geopolitico",
+        "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - detaykibris.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2w0Z2pUQ0I1ZW9GcEFuOFVHMl9SdElrcUM4VlkwNVRLX0dlODg1Wm93aWZGRUtyaFoxOGtvbURFblgzejAwVGo0bEZNM2FsdE5wYmEwaF9seUhFZVVfeFI4ZFZwSUMzdUlndXFTMWNvZl8yS2ZmNGd5WXJGcHFGRmgtbFh6TGlMQlNITXJXNmlYSUNidEVfTDRRMkszUFM5SWZPZ28tUlhYQWFHb1BBSDViUlBRemdValE?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 02 Oct 2026 06:18:00 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Kibris",
+          "NAVTEX",
+          "Doğu Akdeniz",
+          "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "c23f0e236feacf20ecbf2dfa",
+        "mode": "geopolitico",
+        "title": "Oruç Reis yeniden Doğu Akdeniz’de: Çalışmalar 25 Ekim’e kadar sürecek - kibrisgercek.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0JOQXZWTG1xWWhiMTZVMEMwYTlmMU1HdFZFYklEWkF4UUQ0WUdDZU9QbTZncmRMQWNoNV83U1BMM1dsbjFGZjBCdzdRT0N1bENSSGI2Tk5HOXFsc3puMWFKVmlTSG5iVkRpVDVUSk1sZTlaOWRLbUZaLXUydDdxYk5mLXZ4aERBcG9Sam9ZcVdCdUQ1eXdnajdGMA?oc=5",
+        "source": "Turkish Greek Relations Deep Watch",
+        "published": "Fri, 02 Oct 2026 05:54:00 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Kibris",
+          "Doğu Akdeniz",
+          "Oruç Reis",
+          "ada"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "53129f36572eac2ce05a832d",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - CNN Türk",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 02 Oct 2026 05:14:39 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "Ankara",
+          "Atina",
+          "kriz",
+          "ada",
+          "kablo"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "65622715e07d2c1f0c7f018d",
+        "mode": "geopolitico",
+        "title": "AB, Yunanistan ve Güney Kıbrıs'ı Adalet Divanı'na sevk etti - NTV Haber",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVzROSjRnQUZIVVZUQjZsX3RPdkJuN3dWaWt3TS1TU0VCc0FDSU9IanUzRlBCZEFUbDNLSFNOblJCSWxOR2E0MWZtYnFvcmJjcld6ZENidmJ1UF8wQ3NtdTJscDU4QU43QTl0RnJPLTR3TVFBamZrT3JjbzBOeVVLMTdHQTYtWjAwRVlOTjRheF8wMTVveDRDVdIBngFBVV95cUxOOGc1c2ZRTS11WG1FS1VlU3pYRW1qWDJtU3lxMkwxeFVUSlFoeDdIbGNVTXZHLWRpVkFOM0ZvdHc1bkZ5dGZ3dk81cUNndnN1QjVvQWhVNUY4STJPSVJpSkF2cVVPZEoxUTVOcFBuV2F2QVc5bTBZSlhZTk1haHN4dzZGQ2VWSGxFNXVGOGpUNkR4RU8yZmdkR2JBa3h2QQ?oc=5",
+        "source": "NTV Turkey Greece Watch",
+        "published": "Fri, 02 Oct 2026 00:22:41 GMT",
+        "base_score": 98,
+        "candidate_score": 104,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "ada"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "931782558d60882a93e2fdb9",
+        "mode": "geopolitico",
+        "title": "Yunanistan'da Oruç Reis paniği: Yunan basını Türkiye'nin NAVTEX'ini manşete taşıdı - A Haber",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVhXMms0Mk5EUVNYckFvZnRiWXRUd1ptekhiUUFMRnk1SGlsUEduNHExSEo4cXplVlh0LUtrc1ZpLXhhZTJ3OVkzbEdHX29BcEZFYnhZQmpkUUF6Z25kMlRjR25qcnU4a0gyeFpkZ0luTkhNQjFkQnR1ZFpqVG81a2ZfNHhXNnNnRERVamRDSERHNDVNNkZUUjdYRnh3RS03WjQtWkNVODJua21WWEZWa0JTb25QajQyWVBVaGtxQkJrT0Zt?oc=5",
+        "source": "Turkish Greek Relations Deep Watch",
+        "published": "Thu, 01 Oct 2026 13:53:09 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "NAVTEX",
+          "Oruç Reis"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "74cdfb7a9a87386bf2614cb4",
+        "mode": "geopolitico",
+        "title": "MSB'den Yunanistan-GKRY elektrik kablosu uyarısı: \"Kıta sahanlığımızda izinsiz faaliyete izin vermeyiz\" - HaberGo",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOG1zT2dpbDZFV3hvc21nT0NkNlN3akJHZ0l0T3MtelhIV19veElSeFN2aWNubTRraVd4REJJWXE5RWQwNHcwaXRPRmpjaEVRc3ZmVHc1Q2FzWVhfckNuenF6eUQ0TmttcFdidjNhSmVFX29ucGYzNnJONWU3QjhvbkF4RV9UaEszZmlZREpQLXdkT3dPQlkyMEJsTzNoSnM2bEtUd2xHaUpDY05FMWFsNjVOZEhVWHh5dWNZVWN6TWhSRG83SGdaeVAyWUhUQdIB0wFBVV95cUxQTWk4ek9temMwOGFrU09SWVhFOU5mMkhiYjAzY0RMWXdvVk5sQkg3TnNEZThvWkJtQlZaaGcxTGR6d1dBelRMcnJkdE5tUmNVbGt2cmJHTy1qZFVXTlpIaVpwS1JDS3BnMDRvV3NyRUY1RVEyeW13NDJ6MDBqNVVDdUFQQUE3ZEtiSTdYd3VLZlEwNzlfVXJpYnBzbDF3YTRKeWt2elFFMlpjcVhoUi1NT2o0OWpPMHN3RVlLdmVqd1M0UmlTb0RYTmlJd0xFMWRvbU9r?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Thu, 01 Oct 2026 08:31:04 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "kıta sahanlığı",
+          "MSB",
+          "kablo"
+        ],
+        "content_type": "turkey_greece"
+      }
+    ],
     "pontos_voice": [
+      {
+        "external_id": "478699e9ee6d864d5a1a8f4a",
+        "mode": "pontos_voice",
+        "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 02 Oct 2026 08:20:55 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Sümela",
+          "Sümela Manastırı",
+          "Trabzon",
+          "manastır",
+          "manastır",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "aa7d622127d46177d25ceb16",
         "mode": "pontos_voice",
@@ -28,6 +313,23 @@
           "Maçka",
           "Trabzon",
           "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "a6ad8a9202bc31ec3c46725f",
+        "mode": "pontos_voice",
+        "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - Ολύμπιο Βήμα",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUxyWFZnY0Vkci05RVJNQUhxcDlwQ3FTaXJCVFRsRDZtWWVKdnVCd3dUbE1YNGFRaW5oVjA1cmo2M3BCYWE0UUpRUlJIdERsdXQwb0VVVVE5bC1GdUI1eXlhYU1VSEx0aXJwbGtmSmtMN1dneDc2ODlVS1RXRDJ4bmpOYTFqUQ?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Thu, 01 Oct 2026 08:56:35 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "ποντιακός",
+          "Παναγία Σουμελά",
+          "Σουμελά"
         ],
         "content_type": "news"
       },
@@ -67,10 +369,311 @@
           "vali"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "f11016d4981b7bd4cc60ca66",
+        "mode": "pontos_voice",
+        "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 02 Oct 2026 09:02:37 GMT",
+        "base_score": 47,
+        "candidate_score": 62,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "bakan",
+          "açıklama",
+          "Trabzon"
+        ],
+        "content_type": "news"
       }
     ]
   },
   "items": [
+    {
+      "external_id": "c5d80af035e4378cd54f9802",
+      "mode": "sportdog",
+      "title": "AEK owner reveals Olympiacos arena deal and NBA Europe plans - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xZ1JRbVdOZzE0OUlHc2RaOGJTc3Y3VjVON29yZlpsaGZlR2psbk5lMkxjMmluaHE3ZnJmcUNoVkZSbzVnS2VOemVpM25sQUZsbEs2cnVjaHVkQXB3V0oyV1V0TVZ3SnI1bEE5NEpQazhWWWNNaTZRV213?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 16:22:30 GMT",
+      "base_score": 88,
+      "candidate_score": 117,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "AEK",
+        "Olympiacos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "AEK",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
+      "external_id": "7e28ff69f5a2846161e6f857",
+      "mode": "sportdog",
+      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - fotmob.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "4f25644d56897228027cf304",
+      "mode": "sportdog",
+      "title": "Does an Arnaud Kalimuendo Loan Move Make Sense for Olympiacos? - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamJoS0ZaWk53NVhTcXo1QnhaV1J1RGxZOExPQThuSkhTNm5VR1JIdVg5UTQ1WWQtSnZYdGxDZGNVcWdyaE5zRmdNZFNsUjhuMVNTX0VwWjNPYjlOSlZmdDJreVM3OUkzWnhteGNfUXhJcHVHMTlRMGJLSnJfQjgtVlJUMmVUTk10?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 00:23:00 GMT",
+      "base_score": 44,
+      "candidate_score": 52,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "loan"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "eb58b80f4eed06bc88b95ee0",
+      "mode": "sportdog",
+      "title": "Olympiacos put price tag on Super Eagles star Onyemaechi - Score Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX3FzYmwxRlk0RS1LaHRRR3hZM0hyUm9WQnMxbUNSQXNTc2ZKMzdLVDNaRDdwSVlzUHc5dXN3M0lBdm44Zm9ycmJfeVVfQTVTRWVLcFlwTWFCRTU5OTJHcWlpcy15ekFtZ1pQbWZhbVJWZi1QbTNwcVZrTm1Kd1dpRjFiZ1VUY1hwOUhodkdB?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 02 Oct 2026 06:48:35 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "7c4a1c8595d47f9a75b8c7b5",
+      "mode": "sportdog",
+      "title": "Panathinaikos vs Maccabi Tel Aviv – Preview & Prediction (Oct. 02, 2026) - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUhzMl91SURDMnZPZUZTcldxckN6VEtmV1lLUXBuNldiX2tkTTZadWtmaTE2bGxhb2RBVnQxSUt3dEo3dGpUZ2kwX1FXTnNySlVLZzRkOVhxUTQ0TTgxTTRnRHZObTdSRkY2OW5HekthUTRKOFdqUk9CX09WNmZka2hJNGlubmVNQ3ZManNORlY3MnRLYzVrQzhNNDA3dw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 09:14:03 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "80b43831b627fc246896dfea",
+      "mode": "sportdog",
+      "title": "Why Olympiacos' Bruno Onyemaechi Could Be a Good Fit for Real Betis - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTZwSjhldnoyLVlVVThNeGx5b0pTcFdIQ3ZsR251YnhYc0ZzVHJuYlR2N0NKeTBFZWtJRzF0em9Obm5mV0VPb3JwUjcyeGpLbHl3ak42cE1TMzI2ZjJHQXA5R1J1TlFEdW1ab2RFcVJJWkhXeWR5SWh2bXUtdWgtV3pZTnhYTl9MWkx3ZVdpaw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 01 Oct 2026 00:33:00 GMT",
+      "base_score": 31,
+      "candidate_score": 39,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "0ac84fabc43daeb1a02cffbd",
+      "mode": "geopolitico",
+      "title": "Can Pakistan’s Turkish-Chinese shield stop BrahMos? PAF airbases to get Aselsan-HQ-17AE air defence umbrella - theweek.in",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTZQb0p1N2NOMEI4b0NncllMa1pGVjRYcG9OZzlOYjZ2RVhuVVZBaXNxWmk5cmQxM085WTlwc2JhWGhya0tPajRqOGFYVFVKYTlpNHhLU0llcks3a2JoSVhXUU1vanRKME5jYmVmTWFyT0Y3YU53QVVvWHhSc0gxRkRFb05SU3lhYnphS1NPcG9iZGs3TjJnQ05ndHRFR2tiRHFLZDA0UFN1b0plUmtRa29PLTh0SE1SemdmQ2dfTEN1SkxUQ2QzYm4tX1RNT0tOdUpsZNIB2gFBVV95cUxNR1RzTWJJSDQxamFVNDRQdGhOQ1dlUUw1QmgycUdPTW9VZFdsWmw0MzhlRXoyOEtxcFloQm9POWEzX3h1dUJjcjhEYjdITmpuZjR1QnVZMnJSb1VNQU1Rcm5KYjF1bzF4NmpHLVZhT2t4QXFUMVZDLVh6OVRFNlR4R0xVQUlsTWlfZWJPRkJ5TDduemcyT2hrc0Q1OXBMWHFkZDNPSUNqM1V2dHJaNmVFanZiUm1HTUtxRGk4eGIyQTJ4azdkQXlteDdZM3JXNzZ3M3ZRZmJiQzQ3Zw?oc=5",
+      "source": "Pakistan Turkey Watch",
+      "published": "Fri, 02 Oct 2026 06:52:38 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pakistan",
+        "Chinese",
+        "BrahMos",
+        "defence",
+        "air defence"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "d5505ffd953c43340434dc26",
+      "mode": "geopolitico",
+      "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - giynikgazetesi.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2dadzhGN3ZROWFsbVJ0YzFrdFZGTkZMbzVYTFNJUFd4a3Jrc0NRTVg4UFZTbzY1dFRzdVk1YXR6TFFRcWtIcEVOSjRUUG0tZzItNFU5QkFFWVJCalQwaXJ0TmJ4WFVvME1HZHYzVlB3dDZlODJxbl9DT3MxbnRrMEJ6b3BneFE?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 02 Oct 2026 06:28:44 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "NAVTEX",
+        "Doğu Akdeniz",
+        "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "4896a20d3a848253d5514343",
+      "mode": "geopolitico",
+      "title": "Türkiye Doğu Akdeniz'de yeni NAVTEX ilan etti! Yunan basını: 'Oruç Reis geri döndü' - detaykibris.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2w0Z2pUQ0I1ZW9GcEFuOFVHMl9SdElrcUM4VlkwNVRLX0dlODg1Wm93aWZGRUtyaFoxOGtvbURFblgzejAwVGo0bEZNM2FsdE5wYmEwaF9seUhFZVVfeFI4ZFZwSUMzdUlndXFTMWNvZl8yS2ZmNGd5WXJGcHFGRmgtbFh6TGlMQlNITXJXNmlYSUNidEVfTDRRMkszUFM5SWZPZ28tUlhYQWFHb1BBSDViUlBRemdValE?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 02 Oct 2026 06:18:00 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Kibris",
+        "NAVTEX",
+        "Doğu Akdeniz",
+        "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "c23f0e236feacf20ecbf2dfa",
+      "mode": "geopolitico",
+      "title": "Oruç Reis yeniden Doğu Akdeniz’de: Çalışmalar 25 Ekim’e kadar sürecek - kibrisgercek.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0JOQXZWTG1xWWhiMTZVMEMwYTlmMU1HdFZFYklEWkF4UUQ0WUdDZU9QbTZncmRMQWNoNV83U1BMM1dsbjFGZjBCdzdRT0N1bENSSGI2Tk5HOXFsc3puMWFKVmlTSG5iVkRpVDVUSk1sZTlaOWRLbUZaLXUydDdxYk5mLXZ4aERBcG9Sam9ZcVdCdUQ1eXdnajdGMA?oc=5",
+      "source": "Turkish Greek Relations Deep Watch",
+      "published": "Fri, 02 Oct 2026 05:54:00 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Kibris",
+        "Doğu Akdeniz",
+        "Oruç Reis",
+        "ada"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "53129f36572eac2ce05a832d",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - CNN Türk",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 02 Oct 2026 05:14:39 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "Ankara",
+        "Atina",
+        "kriz",
+        "ada",
+        "kablo"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "65622715e07d2c1f0c7f018d",
+      "mode": "geopolitico",
+      "title": "AB, Yunanistan ve Güney Kıbrıs'ı Adalet Divanı'na sevk etti - NTV Haber",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVzROSjRnQUZIVVZUQjZsX3RPdkJuN3dWaWt3TS1TU0VCc0FDSU9IanUzRlBCZEFUbDNLSFNOblJCSWxOR2E0MWZtYnFvcmJjcld6ZENidmJ1UF8wQ3NtdTJscDU4QU43QTl0RnJPLTR3TVFBamZrT3JjbzBOeVVLMTdHQTYtWjAwRVlOTjRheF8wMTVveDRDVdIBngFBVV95cUxOOGc1c2ZRTS11WG1FS1VlU3pYRW1qWDJtU3lxMkwxeFVUSlFoeDdIbGNVTXZHLWRpVkFOM0ZvdHc1bkZ5dGZ3dk81cUNndnN1QjVvQWhVNUY4STJPSVJpSkF2cVVPZEoxUTVOcFBuV2F2QVc5bTBZSlhZTk1haHN4dzZGQ2VWSGxFNXVGOGpUNkR4RU8yZmdkR2JBa3h2QQ?oc=5",
+      "source": "NTV Turkey Greece Watch",
+      "published": "Fri, 02 Oct 2026 00:22:41 GMT",
+      "base_score": 98,
+      "candidate_score": 104,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "ada"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "931782558d60882a93e2fdb9",
+      "mode": "geopolitico",
+      "title": "Yunanistan'da Oruç Reis paniği: Yunan basını Türkiye'nin NAVTEX'ini manşete taşıdı - A Haber",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVhXMms0Mk5EUVNYckFvZnRiWXRUd1ptekhiUUFMRnk1SGlsUEduNHExSEo4cXplVlh0LUtrc1ZpLXhhZTJ3OVkzbEdHX29BcEZFYnhZQmpkUUF6Z25kMlRjR25qcnU4a0gyeFpkZ0luTkhNQjFkQnR1ZFpqVG81a2ZfNHhXNnNnRERVamRDSERHNDVNNkZUUjdYRnh3RS03WjQtWkNVODJua21WWEZWa0JTb25QajQyWVBVaGtxQkJrT0Zt?oc=5",
+      "source": "Turkish Greek Relations Deep Watch",
+      "published": "Thu, 01 Oct 2026 13:53:09 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "NAVTEX",
+        "Oruç Reis"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "74cdfb7a9a87386bf2614cb4",
+      "mode": "geopolitico",
+      "title": "MSB'den Yunanistan-GKRY elektrik kablosu uyarısı: \"Kıta sahanlığımızda izinsiz faaliyete izin vermeyiz\" - HaberGo",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOG1zT2dpbDZFV3hvc21nT0NkNlN3akJHZ0l0T3MtelhIV19veElSeFN2aWNubTRraVd4REJJWXE5RWQwNHcwaXRPRmpjaEVRc3ZmVHc1Q2FzWVhfckNuenF6eUQ0TmttcFdidjNhSmVFX29ucGYzNnJONWU3QjhvbkF4RV9UaEszZmlZREpQLXdkT3dPQlkyMEJsTzNoSnM2bEtUd2xHaUpDY05FMWFsNjVOZEhVWHh5dWNZVWN6TWhSRG83SGdaeVAyWUhUQdIB0wFBVV95cUxQTWk4ek9temMwOGFrU09SWVhFOU5mMkhiYjAzY0RMWXdvVk5sQkg3TnNEZThvWkJtQlZaaGcxTGR6d1dBelRMcnJkdE5tUmNVbGt2cmJHTy1qZFVXTlpIaVpwS1JDS3BnMDRvV3NyRUY1RVEyeW13NDJ6MDBqNVVDdUFQQUE3ZEtiSTdYd3VLZlEwNzlfVXJpYnBzbDF3YTRKeWt2elFFMlpjcVhoUi1NT2o0OWpPMHN3RVlLdmVqd1M0UmlTb0RYTmlJd0xFMWRvbU9r?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Thu, 01 Oct 2026 08:31:04 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "kıta sahanlığı",
+        "MSB",
+        "kablo"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "478699e9ee6d864d5a1a8f4a",
+      "mode": "pontos_voice",
+      "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 02 Oct 2026 08:20:55 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Sümela",
+        "Sümela Manastırı",
+        "Trabzon",
+        "manastır",
+        "manastır",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
     {
       "external_id": "aa7d622127d46177d25ceb16",
       "mode": "pontos_voice",
@@ -90,6 +693,23 @@
         "Maçka",
         "Trabzon",
         "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "a6ad8a9202bc31ec3c46725f",
+      "mode": "pontos_voice",
+      "title": "Ποντιακός Σύλλογος Κατερίνης «Παναγία Σουμελά»: Πλούσια δράση και προσφορά - Ολύμπιο Βήμα",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUxyWFZnY0Vkci05RVJNQUhxcDlwQ3FTaXJCVFRsRDZtWWVKdnVCd3dUbE1YNGFRaW5oVjA1cmo2M3BCYWE0UUpRUlJIdERsdXQwb0VVVVE5bC1GdUI1eXlhYU1VSEx0aXJwbGtmSmtMN1dneDc2ODlVS1RXRDJ4bmpOYTFqUQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Thu, 01 Oct 2026 08:56:35 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "ποντιακός",
+        "Παναγία Σουμελά",
+        "Σουμελά"
       ],
       "content_type": "news"
     },
@@ -127,6 +747,24 @@
         "belediye başkanı",
         "Trabzon",
         "vali"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "f11016d4981b7bd4cc60ca66",
+      "mode": "pontos_voice",
+      "title": "Trabzonlu Bakan Uraloğlu’ndan sert açıklama! “Suçluyu koruma noktasında asla olmadık” - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakxpaEZmN1dFanJHeWdLcmZKZlFsVHo5RVVWaFl5b1p3OHpJdkRHYXlmSWJoR1ZibHdPb0FIbG1IaTNpOEdYODBSNlNubzkwNEdrekQ1aGlVZHlEUVZIVVhZOC1Ea2RMWVAwTjVRQjFoWVhic2E5d1Y4VDl1bVJ4LUMxMUVSd1RiaGhTajFKeFNMYm1CMjlqNG1RV1RnNVJ6VlZtd2dZZmFvbmhadlFkbkZreEtvS1NSWmJmQQ?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 02 Oct 2026 09:02:37 GMT",
+      "base_score": 47,
+      "candidate_score": 62,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "bakan",
+        "açıklama",
+        "Trabzon"
       ],
       "content_type": "news"
     }
