@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:26:01.866688+00:00",
+  "generated_at": "2026-10-03T08:54:54.273742+00:00",
   "counts": {
     "sportdog": 7,
     "geopolitico": 8,
@@ -28,9 +28,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "bc16acf3c009df063aa51cc3",
+        "external_id": "78a07c9d922c7eadcab382d7",
         "mode": "sportdog",
-        "title": "AEK Athens vs. PAOK (29 Nov, 2026) Live Score - africa.espn.com",
+        "title": "AEK Athens vs. PAOK (29 Nov, 2026) Live Score - ESPN",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tYVFvRmp6LUhWRGZEZGZlb0hYeHhMZHVtUllCZTFsNFpvb0N6ZGdieVZmOUpZMXp1bUVIblFJZm1fNTF1NU9ydGVheEFoYUdndWtnZ3pBWFlwMTFWRlhsYkpDdk8xQk9PYTBVQWhKZjdNbjB4T1NEVmpfb3VHQQ?oc=5",
         "source": "AEK Rumour Watch",
         "published": "Fri, 02 Oct 2026 06:15:11 GMT",
@@ -273,9 +273,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "53129f36572eac2ce05a832d",
+        "external_id": "a06bce78482ee517b91c22df",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - CNN Türk",
+        "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - cnnturk.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
         "source": "CNN Turk Greece Watch",
         "published": "Fri, 02 Oct 2026 05:14:39 GMT",
@@ -295,6 +295,23 @@
     ],
     "pontos_voice": [
       {
+        "external_id": "fd0f5220dcde5819beb56998",
+        "mode": "pontos_voice",
+        "title": "Στην παρέλαση της 28ης Οκτωβρίου το Κέντρο Νεότητας «Παναγία Σουμελά» Κύπρου - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEx0OTJxMDhuX1RkQmZUOEpWNUFqSzVPY1hONmFDa1dJR1Vya090VFZhWk5UdnBrcmRURTlzQS03RkF2S0I5OWZFZWp1bEZLd29NbDI4bF9QSmc0NXVjNk1tRDNQQUt1ckJNN1NTS1JUcEtOWEpKYm41eW9oTzdpXzB6N1lNTzBLeVJ3U1p3Y2libE9WdFo1OGR5NEo1VjlDc2owSk9McFdfdFdK?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 03 Oct 2026 08:33:25 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "Παναγία Σουμελά",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "685cecdaf71a75f1553bbca4",
         "mode": "pontos_voice",
         "title": "Trabzon'dan UNESCO Gastronomi yolunda güçlü adım",
@@ -312,26 +329,6 @@
           "Trabzon",
           "Karadeniz",
           "vali"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "478699e9ee6d864d5a1a8f4a",
-        "mode": "pontos_voice",
-        "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Fri, 02 Oct 2026 08:20:55 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Sümela",
-          "Sümela Manastırı",
-          "Trabzon",
-          "manastır",
-          "manastır",
-          "Trabzon"
         ],
         "content_type": "news"
       },
@@ -388,18 +385,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "32f31f85fa621cea3b0ae66e",
+        "external_id": "8f83422e5e375c0aba5d6f50",
         "mode": "pontos_voice",
-        "title": "Πόντος, 1919: «Τα ερημωθέντα χωριά είναι αναρίθμητα» – Η έκκληση της Αργυρούπολης στη Βρετανία - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTBwNjl5R2FjdU9vbEFvOVhnYm5QaDJNZjc1cThCVUdNM01HdVIwcGdaWkVvdE5Xc2h2RWRSWG1wWnZZcWhjUHVUaU01cGttcGhvQUdUVnRoRHpIbTZPZlozSjJrNHFlYW85X3NrOEhaYVE1OGc4X0lQZ1VpVU96dEt3aDVKX1FNdnotMXN0czl0OHFyQnZTUHB2LU1sZl9NMHBfcEU1eDhGWEpQRmQyYkdGOA?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Fri, 02 Oct 2026 18:02:04 GMT",
-        "base_score": 75,
-        "candidate_score": 81,
-        "priority": "High",
+        "title": "Rafet El Roman’dan dikkat çeken açıklama: “Salah bana kızabilir”",
+        "url": "https://www.61saat.com/rafet-el-romandan-dikkat-ceken-aciklama-salah-bana-kizabilir",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 03 Oct 2026 11:21:00 +0300",
+        "base_score": 52,
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
-          "Pontos",
-          "Πόντος"
+          "Trabzon",
+          "açıklama",
+          "Roma",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -427,9 +426,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "bc16acf3c009df063aa51cc3",
+      "external_id": "78a07c9d922c7eadcab382d7",
       "mode": "sportdog",
-      "title": "AEK Athens vs. PAOK (29 Nov, 2026) Live Score - africa.espn.com",
+      "title": "AEK Athens vs. PAOK (29 Nov, 2026) Live Score - ESPN",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tYVFvRmp6LUhWRGZEZGZlb0hYeHhMZHVtUllCZTFsNFpvb0N6ZGdieVZmOUpZMXp1bUVIblFJZm1fNTF1NU9ydGVheEFoYUdndWtnZ3pBWFlwMTFWRlhsYkpDdk8xQk9PYTBVQWhKZjdNbjB4T1NEVmpfb3VHQQ?oc=5",
       "source": "AEK Rumour Watch",
       "published": "Fri, 02 Oct 2026 06:15:11 GMT",
@@ -670,9 +669,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "53129f36572eac2ce05a832d",
+      "external_id": "a06bce78482ee517b91c22df",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - CNN Türk",
+      "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - cnnturk.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
       "source": "CNN Turk Greece Watch",
       "published": "Fri, 02 Oct 2026 05:14:39 GMT",
@@ -688,6 +687,23 @@
         "kablo"
       ],
       "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "fd0f5220dcde5819beb56998",
+      "mode": "pontos_voice",
+      "title": "Στην παρέλαση της 28ης Οκτωβρίου το Κέντρο Νεότητας «Παναγία Σουμελά» Κύπρου - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEx0OTJxMDhuX1RkQmZUOEpWNUFqSzVPY1hONmFDa1dJR1Vya090VFZhWk5UdnBrcmRURTlzQS03RkF2S0I5OWZFZWp1bEZLd29NbDI4bF9QSmc0NXVjNk1tRDNQQUt1ckJNN1NTS1JUcEtOWEpKYm41eW9oTzdpXzB6N1lNTzBLeVJ3U1p3Y2libE9WdFo1OGR5NEo1VjlDc2owSk9McFdfdFdK?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 03 Oct 2026 08:33:25 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "Παναγία Σουμελά",
+        "Σουμελά"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "685cecdaf71a75f1553bbca4",
@@ -707,26 +723,6 @@
         "Trabzon",
         "Karadeniz",
         "vali"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "478699e9ee6d864d5a1a8f4a",
-      "mode": "pontos_voice",
-      "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Fri, 02 Oct 2026 08:20:55 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Sümela",
-        "Sümela Manastırı",
-        "Trabzon",
-        "manastır",
-        "manastır",
-        "Trabzon"
       ],
       "content_type": "news"
     },
@@ -783,18 +779,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "32f31f85fa621cea3b0ae66e",
+      "external_id": "8f83422e5e375c0aba5d6f50",
       "mode": "pontos_voice",
-      "title": "Πόντος, 1919: «Τα ερημωθέντα χωριά είναι αναρίθμητα» – Η έκκληση της Αργυρούπολης στη Βρετανία - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTBwNjl5R2FjdU9vbEFvOVhnYm5QaDJNZjc1cThCVUdNM01HdVIwcGdaWkVvdE5Xc2h2RWRSWG1wWnZZcWhjUHVUaU01cGttcGhvQUdUVnRoRHpIbTZPZlozSjJrNHFlYW85X3NrOEhaYVE1OGc4X0lQZ1VpVU96dEt3aDVKX1FNdnotMXN0czl0OHFyQnZTUHB2LU1sZl9NMHBfcEU1eDhGWEpQRmQyYkdGOA?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Fri, 02 Oct 2026 18:02:04 GMT",
-      "base_score": 75,
-      "candidate_score": 81,
-      "priority": "High",
+      "title": "Rafet El Roman’dan dikkat çeken açıklama: “Salah bana kızabilir”",
+      "url": "https://www.61saat.com/rafet-el-romandan-dikkat-ceken-aciklama-salah-bana-kizabilir",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 03 Oct 2026 11:21:00 +0300",
+      "base_score": 52,
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
-        "Pontos",
-        "Πόντος"
+        "Trabzon",
+        "açıklama",
+        "Roma",
+        "Trabzon"
       ],
       "content_type": "news"
     }
