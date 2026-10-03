@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:52:43.931004+00:00",
+  "generated_at": "2026-10-03T12:01:19.911913+00:00",
   "counts": {
     "sportdog": 7,
     "geopolitico": 8,
@@ -126,9 +126,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "9d9f5dbc10e25cfd50ac9d34",
+        "external_id": "19908d845951babdc7fabce2",
         "mode": "sportdog",
-        "title": "Olympiacos put price on Super Eagles star Onyemaechi - scorenigeria.com.ng",
+        "title": "Olympiacos put price on Super Eagles star Onyemaechi - Score Nigeria",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX3FzYmwxRlk0RS1LaHRRR3hZM0hyUm9WQnMxbUNSQXNTc2ZKMzdLVDNaRDdwSVlzUHc5dXN3M0lBdm44Zm9ycmJfeVVfQTVTRWVLcFlwTWFCRTU5OTJHcWlpcy15ekFtZ1pQbWZhbVJWZi1QbTNwcVZrTm1Kd1dpRjFiZ1VUY1hwOUhodkdB?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 02 Oct 2026 06:48:35 GMT",
@@ -237,24 +237,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "c23f0e236feacf20ecbf2dfa",
-        "mode": "geopolitico",
-        "title": "Oruç Reis yeniden Doğu Akdeniz’de: Çalışmalar 25 Ekim’e kadar sürecek - kibrisgercek.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0JOQXZWTG1xWWhiMTZVMEMwYTlmMU1HdFZFYklEWkF4UUQ0WUdDZU9QbTZncmRMQWNoNV83U1BMM1dsbjFGZjBCdzdRT0N1bENSSGI2Tk5HOXFsc3puMWFKVmlTSG5iVkRpVDVUSk1sZTlaOWRLbUZaLXUydDdxYk5mLXZ4aERBcG9Sam9ZcVdCdUQ1eXdnajdGMA?oc=5",
-        "source": "Turkish Greek Relations Deep Watch",
-        "published": "Fri, 02 Oct 2026 05:54:00 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Kibris",
-          "Doğu Akdeniz",
-          "Oruç Reis",
-          "ada"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "e0a02fe32d9b5d75ab2d12e8",
         "mode": "geopolitico",
         "title": "Pakistan kills 5 TTP militants as violence escalates on Afghanistan border - The Times of India",
@@ -272,9 +254,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "ec3d8bd4d7687bdbd5691f17",
+        "external_id": "0bcc33dbdbbb896b06a25f2d",
         "mode": "geopolitico",
-        "title": "India kills Pakistani nationals near Punjab border, tensions simmer - TRT World",
+        "title": "India kills Pakistani nationals near Punjab border, tensions simmer - trtworld.com",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xREF2OGQweF9xbnNPTTJlVjhrYmtKUnNyU3pUZE1GRVJTcWxzUXRDX3dSalJRVXZtRjk2bmVMU1RTb2I2ckE5ZFg1MDJPQmp2MmhtaU5FdXI?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Fri, 02 Oct 2026 19:20:19 GMT",
@@ -288,6 +270,23 @@
           "Pakistani nationals"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "ebd3a527349eaae4b6abd276",
+        "mode": "geopolitico",
+        "title": "Yunanistan'da Türkiye-İsrail gerilimi analizi: 27 Ekim seçimleri öncesi Suriye ve Doğu Akdeniz'de çatışma olabilir - TRHaber",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdkFIRFhTb19jUl9HNUhlbFV5aDU0OFYtQXFCbnVYQWRKVk13cmhPZTAxZlByZnNTWE9xeDlIYkdqMWVYbG93dVBUbWZoNXdURGRsQjRvM2x6V04yajFyRlc1YzBPOVo5UlI0NWQzRW5SUTYzLXlIVHJIOTBxeHp6TXp2ZzVVYmdnSGw1eU5jZFpfQUY2eXBmMkJoZEVLVlBhMzBhQUdKT0xIaEZSaEdUcy1qZUs3eWVQeGFWeU5xaXdGS1BpU1NzOTBkMXU2TnFnWWk5LWNTYUxKd3dOcW9IUVVVYm9fb2NtNUtMQ21NUnQ?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Fri, 02 Oct 2026 06:57:30 GMT",
+        "base_score": 90,
+        "candidate_score": 93,
+        "priority": "High",
+        "matched_keywords": [
+          "Yunanistan",
+          "Doğu Akdeniz",
+          "gerilim"
+        ],
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -299,7 +298,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sat, 03 Oct 2026 08:33:25 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -344,27 +343,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "685cecdaf71a75f1553bbca4",
-        "mode": "pontos_voice",
-        "title": "Trabzon'dan UNESCO Gastronomi yolunda güçlü adım",
-        "url": "https://www.61saat.com/trabzondan-unesco-gastronomi-yolunda-guclu-adim",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 03 Oct 2026 10:44:00 +0300",
-        "base_score": 90,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Trabzon",
-          "kültür",
-          "anıt",
-          "UNESCO",
-          "Trabzon",
-          "Karadeniz",
-          "vali"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "32f31f85fa621cea3b0ae66e",
         "mode": "pontos_voice",
         "title": "Πόντος, 1919: «Τα ερημωθέντα χωριά είναι αναρίθμητα» – Η έκκληση της Αργυρούπολης στη Βρετανία - pontosnews.gr",
@@ -388,12 +366,29 @@
         "source": "61Saat Trabzon",
         "published": "Sat, 03 Oct 2026 11:21:00 +0300",
         "base_score": 52,
-        "candidate_score": 67,
+        "candidate_score": 62,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "açıklama",
           "Roma",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "12eae06820eadccb2dba6c2c",
+        "mode": "pontos_voice",
+        "title": "Başkan Genç'ten dolmuş esnafına güvence: Kimse mağdur olmayacak",
+        "url": "https://www.61saat.com/baskan-gencten-dolmus-esnafina-guvence-kimse-magdur-olmayacak",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 03 Oct 2026 13:36:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "belediye başkanı",
           "Trabzon"
         ],
         "content_type": "news"
@@ -520,9 +515,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "9d9f5dbc10e25cfd50ac9d34",
+      "external_id": "19908d845951babdc7fabce2",
       "mode": "sportdog",
-      "title": "Olympiacos put price on Super Eagles star Onyemaechi - scorenigeria.com.ng",
+      "title": "Olympiacos put price on Super Eagles star Onyemaechi - Score Nigeria",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX3FzYmwxRlk0RS1LaHRRR3hZM0hyUm9WQnMxbUNSQXNTc2ZKMzdLVDNaRDdwSVlzUHc5dXN3M0lBdm44Zm9ycmJfeVVfQTVTRWVLcFlwTWFCRTU5OTJHcWlpcy15ekFtZ1pQbWZhbVJWZi1QbTNwcVZrTm1Kd1dpRjFiZ1VUY1hwOUhodkdB?oc=5",
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 02 Oct 2026 06:48:35 GMT",
@@ -629,24 +624,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "c23f0e236feacf20ecbf2dfa",
-      "mode": "geopolitico",
-      "title": "Oruç Reis yeniden Doğu Akdeniz’de: Çalışmalar 25 Ekim’e kadar sürecek - kibrisgercek.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0JOQXZWTG1xWWhiMTZVMEMwYTlmMU1HdFZFYklEWkF4UUQ0WUdDZU9QbTZncmRMQWNoNV83U1BMM1dsbjFGZjBCdzdRT0N1bENSSGI2Tk5HOXFsc3puMWFKVmlTSG5iVkRpVDVUSk1sZTlaOWRLbUZaLXUydDdxYk5mLXZ4aERBcG9Sam9ZcVdCdUQ1eXdnajdGMA?oc=5",
-      "source": "Turkish Greek Relations Deep Watch",
-      "published": "Fri, 02 Oct 2026 05:54:00 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Kibris",
-        "Doğu Akdeniz",
-        "Oruç Reis",
-        "ada"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "e0a02fe32d9b5d75ab2d12e8",
       "mode": "geopolitico",
       "title": "Pakistan kills 5 TTP militants as violence escalates on Afghanistan border - The Times of India",
@@ -664,9 +641,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "ec3d8bd4d7687bdbd5691f17",
+      "external_id": "0bcc33dbdbbb896b06a25f2d",
       "mode": "geopolitico",
-      "title": "India kills Pakistani nationals near Punjab border, tensions simmer - TRT World",
+      "title": "India kills Pakistani nationals near Punjab border, tensions simmer - trtworld.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xREF2OGQweF9xbnNPTTJlVjhrYmtKUnNyU3pUZE1GRVJTcWxzUXRDX3dSalJRVXZtRjk2bmVMU1RTb2I2ckE5ZFg1MDJPQmp2MmhtaU5FdXI?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Fri, 02 Oct 2026 19:20:19 GMT",
@@ -682,6 +659,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "ebd3a527349eaae4b6abd276",
+      "mode": "geopolitico",
+      "title": "Yunanistan'da Türkiye-İsrail gerilimi analizi: 27 Ekim seçimleri öncesi Suriye ve Doğu Akdeniz'de çatışma olabilir - TRHaber",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdkFIRFhTb19jUl9HNUhlbFV5aDU0OFYtQXFCbnVYQWRKVk13cmhPZTAxZlByZnNTWE9xeDlIYkdqMWVYbG93dVBUbWZoNXdURGRsQjRvM2x6V04yajFyRlc1YzBPOVo5UlI0NWQzRW5SUTYzLXlIVHJIOTBxeHp6TXp2ZzVVYmdnSGw1eU5jZFpfQUY2eXBmMkJoZEVLVlBhMzBhQUdKT0xIaEZSaEdUcy1qZUs3eWVQeGFWeU5xaXdGS1BpU1NzOTBkMXU2TnFnWWk5LWNTYUxKd3dOcW9IUVVVYm9fb2NtNUtMQ21NUnQ?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Fri, 02 Oct 2026 06:57:30 GMT",
+      "base_score": 90,
+      "candidate_score": 93,
+      "priority": "High",
+      "matched_keywords": [
+        "Yunanistan",
+        "Doğu Akdeniz",
+        "gerilim"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "fd0f5220dcde5819beb56998",
       "mode": "pontos_voice",
       "title": "Στην παρέλαση της 28ης Οκτωβρίου το Κέντρο Νεότητας «Παναγία Σουμελά» Κύπρου - pontosnews.gr",
@@ -689,7 +683,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sat, 03 Oct 2026 08:33:25 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -734,27 +728,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "685cecdaf71a75f1553bbca4",
-      "mode": "pontos_voice",
-      "title": "Trabzon'dan UNESCO Gastronomi yolunda güçlü adım",
-      "url": "https://www.61saat.com/trabzondan-unesco-gastronomi-yolunda-guclu-adim",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 03 Oct 2026 10:44:00 +0300",
-      "base_score": 90,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Trabzon",
-        "kültür",
-        "anıt",
-        "UNESCO",
-        "Trabzon",
-        "Karadeniz",
-        "vali"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "32f31f85fa621cea3b0ae66e",
       "mode": "pontos_voice",
       "title": "Πόντος, 1919: «Τα ερημωθέντα χωριά είναι αναρίθμητα» – Η έκκληση της Αργυρούπολης στη Βρετανία - pontosnews.gr",
@@ -778,12 +751,29 @@
       "source": "61Saat Trabzon",
       "published": "Sat, 03 Oct 2026 11:21:00 +0300",
       "base_score": 52,
-      "candidate_score": 67,
+      "candidate_score": 62,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "açıklama",
         "Roma",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "12eae06820eadccb2dba6c2c",
+      "mode": "pontos_voice",
+      "title": "Başkan Genç'ten dolmuş esnafına güvence: Kimse mağdur olmayacak",
+      "url": "https://www.61saat.com/baskan-gencten-dolmus-esnafina-guvence-kimse-magdur-olmayacak",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 03 Oct 2026 13:36:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "belediye başkanı",
         "Trabzon"
       ],
       "content_type": "news"
