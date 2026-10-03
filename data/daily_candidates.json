@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:31:11.212496+00:00",
+  "generated_at": "2026-10-03T05:53:32.895050+00:00",
   "counts": {
     "sportdog": 5,
     "geopolitico": 8,
@@ -15,7 +15,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Sat, 03 Oct 2026 02:34:31 GMT",
         "base_score": 56,
-        "candidate_score": 89,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -24,8 +24,8 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "3a3bcc1f7a3c30ef0958f275",
@@ -340,18 +340,17 @@
         "content_type": "news"
       },
       {
-        "external_id": "015608c81f24d054590a4fee",
+        "external_id": "a0debe6c35e80d51ae20a9e6",
         "mode": "pontos_voice",
-        "title": "Trabzon’daki tartışmaya Avrupa’dan çarpıcı örnek",
-        "url": "https://www.61saat.com/trabzondaki-tartismaya-avrupadan-carpici-ornek",
+        "title": "Trabzonspor'da Onana için sürpriz plan",
+        "url": "https://www.61saat.com/trabzonsporda-onana-icin-surpriz-plan",
         "source": "61Saat Trabzon",
-        "published": "Sat, 03 Oct 2026 08:00:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
+        "published": "Sat, 03 Oct 2026 08:36:00 +0300",
+        "base_score": 34,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "tartışma",
           "Trabzon"
         ],
         "content_type": "news"
@@ -367,7 +366,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Sat, 03 Oct 2026 02:34:31 GMT",
       "base_score": 56,
-      "candidate_score": 89,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -376,8 +375,8 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "3a3bcc1f7a3c30ef0958f275",
@@ -688,18 +687,17 @@
       "content_type": "news"
     },
     {
-      "external_id": "015608c81f24d054590a4fee",
+      "external_id": "a0debe6c35e80d51ae20a9e6",
       "mode": "pontos_voice",
-      "title": "Trabzon’daki tartışmaya Avrupa’dan çarpıcı örnek",
-      "url": "https://www.61saat.com/trabzondaki-tartismaya-avrupadan-carpici-ornek",
+      "title": "Trabzonspor'da Onana için sürpriz plan",
+      "url": "https://www.61saat.com/trabzonsporda-onana-icin-surpriz-plan",
       "source": "61Saat Trabzon",
-      "published": "Sat, 03 Oct 2026 08:00:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
+      "published": "Sat, 03 Oct 2026 08:36:00 +0300",
+      "base_score": 34,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "tartışma",
         "Trabzon"
       ],
       "content_type": "news"
