@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T06:51:54.832828+00:00",
+  "generated_at": "2026-10-03T07:11:17.331256+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -64,26 +64,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "3a3bcc1f7a3c30ef0958f275",
-        "mode": "sportdog",
-        "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -221,9 +201,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "faafb88bdd7b88826143c77d",
+        "external_id": "d5505ffd953c43340434dc26",
         "mode": "geopolitico",
-        "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - Giynik Gazetesi",
+        "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - giynikgazetesi.com",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2dadzhGN3ZROWFsbVJ0YzFrdFZGTkZMbzVYTFNJUFd4a3Jrc0NRTVg4UFZTbzY1dFRzdVk1YXR6TFFRcWtIcEVOSjRUUG0tZzItNFU5QkFFWVJCalQwaXJ0TmJ4WFVvME1HZHYzVlB3dDZlODJxbl9DT3MxbnRrMEJ6b3BneFE?oc=5",
         "source": "Turkish Greek Relations Deep Watch",
         "published": "Fri, 02 Oct 2026 08:59:54 GMT",
@@ -275,23 +255,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "ebd3a527349eaae4b6abd276",
-        "mode": "geopolitico",
-        "title": "Yunanistan'da Türkiye-İsrail gerilimi analizi: 27 Ekim seçimleri öncesi Suriye ve Doğu Akdeniz'de çatışma olabilir - TRHaber",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdkFIRFhTb19jUl9HNUhlbFV5aDU0OFYtQXFCbnVYQWRKVk13cmhPZTAxZlByZnNTWE9xeDlIYkdqMWVYbG93dVBUbWZoNXdURGRsQjRvM2x6V04yajFyRlc1YzBPOVo5UlI0NWQzRW5SUTYzLXlIVHJIOTBxeHp6TXp2ZzVVYmdnSGw1eU5jZFpfQUY2eXBmMkJoZEVLVlBhMzBhQUdKT0xIaEZSaEdUcy1qZUs3eWVQeGFWeU5xaXdGS1BpU1NzOTBkMXU2TnFnWWk5LWNTYUxKd3dOcW9IUVVVYm9fb2NtNUtMQ21NUnQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 02 Oct 2026 06:57:30 GMT",
-        "base_score": 94,
-        "candidate_score": 97,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz",
-          "gerilim"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "ec3d8bd4d7687bdbd5691f17",
         "mode": "geopolitico",
         "title": "India kills Pakistani nationals near Punjab border, tensions simmer - TRT World",
@@ -308,6 +271,26 @@
           "Pakistani nationals"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "53129f36572eac2ce05a832d",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - CNN Türk",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
+        "source": "CNN Turk Greece Watch",
+        "published": "Fri, 02 Oct 2026 05:14:39 GMT",
+        "base_score": 91,
+        "candidate_score": 94,
+        "priority": "High",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "Ankara",
+          "Atina",
+          "kriz",
+          "ada",
+          "kablo"
+        ],
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -480,26 +463,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "3a3bcc1f7a3c30ef0958f275",
-      "mode": "sportdog",
-      "title": "FotMob rating - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWl9nMllhS29WeXhFcDJ5Y2ZQNjJxTzNxUjMyUVpfYzJFRmZSR3U1czZ6RjF4dmwtUlNOQ0ZyRGtwaC1JTzIzbWl4a0l2c0NkbnZpc2VMOF9pZHM5c2lDRVJQdDN0QmZlWWRUTjQwZThsYnpGekNpVWtzemZQVWRaQi1FcE05NVpKazdvcktMU1l6aTBDLWRyekN0Y3RQanM?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 01 Oct 2026 19:10:39 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "4f76b0a408fa8d35be473d3b",
       "mode": "sportdog",
       "title": "Real Betis Join Race for Olympiacos Defender Bruno Onyemeachi - brandiconimage.com",
@@ -631,9 +594,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "faafb88bdd7b88826143c77d",
+      "external_id": "d5505ffd953c43340434dc26",
       "mode": "geopolitico",
-      "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - Giynik Gazetesi",
+      "title": "Türkiye’den Oruç Reis için Doğu Akdeniz’de yeni NAVTEX - giynikgazetesi.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2dadzhGN3ZROWFsbVJ0YzFrdFZGTkZMbzVYTFNJUFd4a3Jrc0NRTVg4UFZTbzY1dFRzdVk1YXR6TFFRcWtIcEVOSjRUUG0tZzItNFU5QkFFWVJCalQwaXJ0TmJ4WFVvME1HZHYzVlB3dDZlODJxbl9DT3MxbnRrMEJ6b3BneFE?oc=5",
       "source": "Turkish Greek Relations Deep Watch",
       "published": "Fri, 02 Oct 2026 08:59:54 GMT",
@@ -685,23 +648,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "ebd3a527349eaae4b6abd276",
-      "mode": "geopolitico",
-      "title": "Yunanistan'da Türkiye-İsrail gerilimi analizi: 27 Ekim seçimleri öncesi Suriye ve Doğu Akdeniz'de çatışma olabilir - TRHaber",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdkFIRFhTb19jUl9HNUhlbFV5aDU0OFYtQXFCbnVYQWRKVk13cmhPZTAxZlByZnNTWE9xeDlIYkdqMWVYbG93dVBUbWZoNXdURGRsQjRvM2x6V04yajFyRlc1YzBPOVo5UlI0NWQzRW5SUTYzLXlIVHJIOTBxeHp6TXp2ZzVVYmdnSGw1eU5jZFpfQUY2eXBmMkJoZEVLVlBhMzBhQUdKT0xIaEZSaEdUcy1qZUs3eWVQeGFWeU5xaXdGS1BpU1NzOTBkMXU2TnFnWWk5LWNTYUxKd3dOcW9IUVVVYm9fb2NtNUtMQ21NUnQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 02 Oct 2026 06:57:30 GMT",
-      "base_score": 94,
-      "candidate_score": 97,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz",
-        "gerilim"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "ec3d8bd4d7687bdbd5691f17",
       "mode": "geopolitico",
       "title": "India kills Pakistani nationals near Punjab border, tensions simmer - TRT World",
@@ -718,6 +664,26 @@
         "Pakistani nationals"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "53129f36572eac2ce05a832d",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - CNN Türk",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
+      "source": "CNN Turk Greece Watch",
+      "published": "Fri, 02 Oct 2026 05:14:39 GMT",
+      "base_score": 91,
+      "candidate_score": 94,
+      "priority": "High",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "Ankara",
+        "Atina",
+        "kriz",
+        "ada",
+        "kablo"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "478699e9ee6d864d5a1a8f4a",
