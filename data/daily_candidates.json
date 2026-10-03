@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:55:04.364253+00:00",
+  "generated_at": "2026-10-03T01:23:21.667810+00:00",
   "counts": {
     "sportdog": 5,
     "geopolitico": 8,
@@ -36,7 +36,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 01 Oct 2026 19:10:39 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
@@ -233,19 +233,19 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "a3503d25a30d0738f79b28db",
+        "external_id": "65622715e07d2c1f0c7f018d",
         "mode": "geopolitico",
-        "title": "Oruç Reis Sahada: Doğu Akdeniz’de Kritik NAVTEX Hamlesi - sivas360.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3dEUVRYSjY1enE2TTVwaXVnbFZLSFFaRmJxVW5oRkNES1dWRDVtVXZ5Vm9aYnBNaG1iSG40NkpoYlpSSk5jZzg0SnZJVjd3NXh2TWV2anlrQ0kzRURBZUs4dnhlOXVZQm1wWEZja1lING5LZGF0ekp3NXBkeEw4dXUyNmVLTEJzUW5uRkJ4V2ZLYkF0?oc=5",
-        "source": "Turkish Greek Relations Deep Watch",
-        "published": "Thu, 01 Oct 2026 19:19:00 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
+        "title": "AB, Yunanistan ve Güney Kıbrıs'ı Adalet Divanı'na sevk etti - NTV Haber",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVzROSjRnQUZIVVZUQjZsX3RPdkJuN3dWaWt3TS1TU0VCc0FDSU9IanUzRlBCZEFUbDNLSFNOblJCSWxOR2E0MWZtYnFvcmJjcld6ZENidmJ1UF8wQ3NtdTJscDU4QU43QTl0RnJPLTR3TVFBamZrT3JjbzBOeVVLMTdHQTYtWjAwRVlOTjRheF8wMTVveDRDVdIBngFBVV95cUxOOGc1c2ZRTS11WG1FS1VlU3pYRW1qWDJtU3lxMkwxeFVUSlFoeDdIbGNVTXZHLWRpVkFOM0ZvdHc1bkZ5dGZ3dk81cUNndnN1QjVvQWhVNUY4STJPSVJpSkF2cVVPZEoxUTVOcFBuV2F2QVc5bTBZSlhZTk1haHN4dzZGQ2VWSGxFNXVGOGpUNkR4RU8yZmdkR2JBa3h2QQ?oc=5",
+        "source": "NTV Turkey Greece Watch",
+        "published": "Fri, 02 Oct 2026 00:22:41 GMT",
+        "base_score": 98,
+        "candidate_score": 101,
         "priority": "URGENT",
         "matched_keywords": [
-          "NAVTEX",
-          "Doğu Akdeniz",
-          "Oruç Reis",
+          "Yunanistan",
+          "Kıbrıs",
+          "Güney Kıbrıs",
           "ada"
         ],
         "content_type": "turkey_greece"
@@ -273,24 +273,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "c39f65dd280910cb1e4f668f",
-        "mode": "pontos_voice",
-        "title": "Άγιος Θεόδωρος Γαβράς: Ο ναός και το χαμένο μοναστήρι της Τραπεζούντας - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVBOdzZCeWljNjBsT2Y3WE9qQmJZSkpoMF9aelNkc2d0QS1wTFRZRnpzcEVpUGdkbDE0UHlLNDJtWXlGYllFMUJ3WHR4T3Vjc2NXVXNXRXA3WDlTeEhycXVGd2lBY3Zra1ZreVJQN1lGZ1M1WVM3dEwzSzMyaEpMSU5kYzM2c0hWcDFCOHJ6YXgySlVhS3A2eVVkYjZrVGdGcDMxX3NkQVg3SER6?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Fri, 02 Oct 2026 06:55:20 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "Τραπεζούντα",
-          "Τραπεζούντας",
-          "μοναστήρι"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "c42e9ab21873460e219ca7cb",
         "mode": "pontos_voice",
         "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
@@ -304,6 +286,24 @@
           "Παναγία Σουμελά",
           "Σουμελά",
           "ιστορία"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "c39f65dd280910cb1e4f668f",
+        "mode": "pontos_voice",
+        "title": "Άγιος Θεόδωρος Γαβράς: Ο ναός και το χαμένο μοναστήρι της Τραπεζούντας - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVBOdzZCeWljNjBsT2Y3WE9qQmJZSkpoMF9aelNkc2d0QS1wTFRZRnpzcEVpUGdkbDE0UHlLNDJtWXlGYllFMUJ3WHR4T3Vjc2NXVXNXRXA3WDlTeEhycXVGd2lBY3Zra1ZreVJQN1lGZ1M1WVM3dEwzSzMyaEpMSU5kYzM2c0hWcDFCOHJ6YXgySlVhS3A2eVVkYjZrVGdGcDMxX3NkQVg3SER6?oc=5",
+        "source": "Pontos News Watch",
+        "published": "Fri, 02 Oct 2026 06:55:20 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "Τραπεζούντα",
+          "Τραπεζούντας",
+          "μοναστήρι"
         ],
         "content_type": "news"
       },
@@ -390,7 +390,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 01 Oct 2026 19:10:39 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
@@ -585,19 +585,19 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "a3503d25a30d0738f79b28db",
+      "external_id": "65622715e07d2c1f0c7f018d",
       "mode": "geopolitico",
-      "title": "Oruç Reis Sahada: Doğu Akdeniz’de Kritik NAVTEX Hamlesi - sivas360.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3dEUVRYSjY1enE2TTVwaXVnbFZLSFFaRmJxVW5oRkNES1dWRDVtVXZ5Vm9aYnBNaG1iSG40NkpoYlpSSk5jZzg0SnZJVjd3NXh2TWV2anlrQ0kzRURBZUs4dnhlOXVZQm1wWEZja1lING5LZGF0ekp3NXBkeEw4dXUyNmVLTEJzUW5uRkJ4V2ZLYkF0?oc=5",
-      "source": "Turkish Greek Relations Deep Watch",
-      "published": "Thu, 01 Oct 2026 19:19:00 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
+      "title": "AB, Yunanistan ve Güney Kıbrıs'ı Adalet Divanı'na sevk etti - NTV Haber",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVzROSjRnQUZIVVZUQjZsX3RPdkJuN3dWaWt3TS1TU0VCc0FDSU9IanUzRlBCZEFUbDNLSFNOblJCSWxOR2E0MWZtYnFvcmJjcld6ZENidmJ1UF8wQ3NtdTJscDU4QU43QTl0RnJPLTR3TVFBamZrT3JjbzBOeVVLMTdHQTYtWjAwRVlOTjRheF8wMTVveDRDVdIBngFBVV95cUxOOGc1c2ZRTS11WG1FS1VlU3pYRW1qWDJtU3lxMkwxeFVUSlFoeDdIbGNVTXZHLWRpVkFOM0ZvdHc1bkZ5dGZ3dk81cUNndnN1QjVvQWhVNUY4STJPSVJpSkF2cVVPZEoxUTVOcFBuV2F2QVc5bTBZSlhZTk1haHN4dzZGQ2VWSGxFNXVGOGpUNkR4RU8yZmdkR2JBa3h2QQ?oc=5",
+      "source": "NTV Turkey Greece Watch",
+      "published": "Fri, 02 Oct 2026 00:22:41 GMT",
+      "base_score": 98,
+      "candidate_score": 101,
       "priority": "URGENT",
       "matched_keywords": [
-        "NAVTEX",
-        "Doğu Akdeniz",
-        "Oruç Reis",
+        "Yunanistan",
+        "Kıbrıs",
+        "Güney Kıbrıs",
         "ada"
       ],
       "content_type": "turkey_greece"
@@ -623,24 +623,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "c39f65dd280910cb1e4f668f",
-      "mode": "pontos_voice",
-      "title": "Άγιος Θεόδωρος Γαβράς: Ο ναός και το χαμένο μοναστήρι της Τραπεζούντας - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVBOdzZCeWljNjBsT2Y3WE9qQmJZSkpoMF9aelNkc2d0QS1wTFRZRnpzcEVpUGdkbDE0UHlLNDJtWXlGYllFMUJ3WHR4T3Vjc2NXVXNXRXA3WDlTeEhycXVGd2lBY3Zra1ZreVJQN1lGZ1M1WVM3dEwzSzMyaEpMSU5kYzM2c0hWcDFCOHJ6YXgySlVhS3A2eVVkYjZrVGdGcDMxX3NkQVg3SER6?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Fri, 02 Oct 2026 06:55:20 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "Τραπεζούντα",
-        "Τραπεζούντας",
-        "μοναστήρι"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "c42e9ab21873460e219ca7cb",
       "mode": "pontos_voice",
       "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
@@ -654,6 +636,24 @@
         "Παναγία Σουμελά",
         "Σουμελά",
         "ιστορία"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "c39f65dd280910cb1e4f668f",
+      "mode": "pontos_voice",
+      "title": "Άγιος Θεόδωρος Γαβράς: Ο ναός και το χαμένο μοναστήρι της Τραπεζούντας - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVBOdzZCeWljNjBsT2Y3WE9qQmJZSkpoMF9aelNkc2d0QS1wTFRZRnpzcEVpUGdkbDE0UHlLNDJtWXlGYllFMUJ3WHR4T3Vjc2NXVXNXRXA3WDlTeEhycXVGd2lBY3Zra1ZreVJQN1lGZ1M1WVM3dEwzSzMyaEpMSU5kYzM2c0hWcDFCOHJ6YXgySlVhS3A2eVVkYjZrVGdGcDMxX3NkQVg3SER6?oc=5",
+      "source": "Pontos News Watch",
+      "published": "Fri, 02 Oct 2026 06:55:20 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "Τραπεζούντα",
+        "Τραπεζούντας",
+        "μοναστήρι"
       ],
       "content_type": "news"
     },
