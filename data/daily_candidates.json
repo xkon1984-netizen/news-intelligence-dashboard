@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:23:22.048954+00:00",
+  "generated_at": "2026-10-03T10:52:43.931004+00:00",
   "counts": {
     "sportdog": 7,
     "geopolitico": 8,
@@ -7,26 +7,6 @@
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "bb584489dd34f5bb366d37d3",
-        "mode": "sportdog",
-        "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 03 Oct 2026 02:34:31 GMT",
-        "base_score": 56,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
       {
         "external_id": "78a07c9d922c7eadcab382d7",
         "mode": "sportdog",
@@ -44,6 +24,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "bb584489dd34f5bb366d37d3",
+        "mode": "sportdog",
+        "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sat, 03 Oct 2026 02:34:31 GMT",
+        "base_score": 56,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -126,9 +126,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "19908d845951babdc7fabce2",
+        "external_id": "9d9f5dbc10e25cfd50ac9d34",
         "mode": "sportdog",
-        "title": "Olympiacos put price on Super Eagles star Onyemaechi - Score Nigeria",
+        "title": "Olympiacos put price on Super Eagles star Onyemaechi - scorenigeria.com.ng",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX3FzYmwxRlk0RS1LaHRRR3hZM0hyUm9WQnMxbUNSQXNTc2ZKMzdLVDNaRDdwSVlzUHc5dXN3M0lBdm44Zm9ycmJfeVVfQTVTRWVLcFlwTWFCRTU5OTJHcWlpcy15ekFtZ1pQbWZhbVJWZi1QbTNwcVZrTm1Kd1dpRjFiZ1VUY1hwOUhodkdB?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 02 Oct 2026 06:48:35 GMT",
@@ -255,6 +255,23 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "e0a02fe32d9b5d75ab2d12e8",
+        "mode": "geopolitico",
+        "title": "Pakistan kills 5 TTP militants as violence escalates on Afghanistan border - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVURzdzZkQ1NDeEN3TkVQOU9BVlZNMkNlbTROZGx2bXpwc0w2eU5WSk1MY1hNX2t2QWlNTDY1bGhMUk52UGJncjlIQlRLV2pYYloxVU4wSGlUYWtKd0t0Q3d0MUxIMGlDNGNRMWVTenhDQUpVV2Vta3JWVm5KM3dodnEtcWdlSUkxOXhRZWZDeHJrR2RCVkQzaURFck5rQUl4c0phR1ExMHhPdWRMelVSR0hWTERQV0I0MFFmUUNmOXJORWhCMHlWOHFTX3BJa2IxSnNROHg5ODJjZTREUXpUbG5PdGJjTWRXMW5J0gHwAUFVX3lxTE9aN0tteG9wcHBtNmlBNWVoaFpLQVRpeExTVzlReWxISnpRM1BNdFR1Yjl3VFlPc1hUX2dhc0xXUy1XVzZDRDNoUmotZEpwcEY5bmlVNkpHMWxoeXk4WFVmd3ExR21NdGpadjRCVWt2M1ByQmE1cjBKRjBDQWZ3N3ZsMWdRSFlTMmVhaF9rQmFHT1NyWWgtcTZLVmdaLVRidWowZnZxeUpWcVNnTlJzNHV5ck5FLTUzMW5WemxmZEpVd1FnZXZscTdrc3F0Zktfb2dlc0VqTTVlak5NakxtbXFJcGc5NTJpN0Npb2JQWVFobA?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sat, 03 Oct 2026 10:38:00 GMT",
+        "base_score": 82,
+        "candidate_score": 97,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "TTP"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "ec3d8bd4d7687bdbd5691f17",
         "mode": "geopolitico",
         "title": "India kills Pakistani nationals near Punjab border, tensions simmer - TRT World",
@@ -271,26 +288,6 @@
           "Pakistani nationals"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "a06bce78482ee517b91c22df",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - cnnturk.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
-        "source": "CNN Turk Greece Watch",
-        "published": "Fri, 02 Oct 2026 05:14:39 GMT",
-        "base_score": 91,
-        "candidate_score": 94,
-        "priority": "High",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "Ankara",
-          "Atina",
-          "kriz",
-          "ada",
-          "kablo"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -308,27 +305,6 @@
           "Pontos",
           "Παναγία Σουμελά",
           "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "685cecdaf71a75f1553bbca4",
-        "mode": "pontos_voice",
-        "title": "Trabzon'dan UNESCO Gastronomi yolunda güçlü adım",
-        "url": "https://www.61saat.com/trabzondan-unesco-gastronomi-yolunda-guclu-adim",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 03 Oct 2026 10:44:00 +0300",
-        "base_score": 90,
-        "candidate_score": 105,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Trabzon",
-          "kültür",
-          "anıt",
-          "UNESCO",
-          "Trabzon",
-          "Karadeniz",
-          "vali"
         ],
         "content_type": "news"
       },
@@ -364,6 +340,27 @@
           "Παναγία Σουμελά",
           "Σουμελά",
           "ιστορία"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "685cecdaf71a75f1553bbca4",
+        "mode": "pontos_voice",
+        "title": "Trabzon'dan UNESCO Gastronomi yolunda güçlü adım",
+        "url": "https://www.61saat.com/trabzondan-unesco-gastronomi-yolunda-guclu-adim",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 03 Oct 2026 10:44:00 +0300",
+        "base_score": 90,
+        "candidate_score": 100,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Trabzon",
+          "kültür",
+          "anıt",
+          "UNESCO",
+          "Trabzon",
+          "Karadeniz",
+          "vali"
         ],
         "content_type": "news"
       },
@@ -405,26 +402,6 @@
   },
   "items": [
     {
-      "external_id": "bb584489dd34f5bb366d37d3",
-      "mode": "sportdog",
-      "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 03 Oct 2026 02:34:31 GMT",
-      "base_score": 56,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "78a07c9d922c7eadcab382d7",
       "mode": "sportdog",
       "title": "AEK Athens vs. PAOK (29 Nov, 2026) Live Score - ESPN",
@@ -441,6 +418,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "bb584489dd34f5bb366d37d3",
+      "mode": "sportdog",
+      "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sat, 03 Oct 2026 02:34:31 GMT",
+      "base_score": 56,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -523,9 +520,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "19908d845951babdc7fabce2",
+      "external_id": "9d9f5dbc10e25cfd50ac9d34",
       "mode": "sportdog",
-      "title": "Olympiacos put price on Super Eagles star Onyemaechi - Score Nigeria",
+      "title": "Olympiacos put price on Super Eagles star Onyemaechi - scorenigeria.com.ng",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX3FzYmwxRlk0RS1LaHRRR3hZM0hyUm9WQnMxbUNSQXNTc2ZKMzdLVDNaRDdwSVlzUHc5dXN3M0lBdm44Zm9ycmJfeVVfQTVTRWVLcFlwTWFCRTU5OTJHcWlpcy15ekFtZ1pQbWZhbVJWZi1QbTNwcVZrTm1Kd1dpRjFiZ1VUY1hwOUhodkdB?oc=5",
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 02 Oct 2026 06:48:35 GMT",
@@ -650,6 +647,23 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "e0a02fe32d9b5d75ab2d12e8",
+      "mode": "geopolitico",
+      "title": "Pakistan kills 5 TTP militants as violence escalates on Afghanistan border - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVURzdzZkQ1NDeEN3TkVQOU9BVlZNMkNlbTROZGx2bXpwc0w2eU5WSk1MY1hNX2t2QWlNTDY1bGhMUk52UGJncjlIQlRLV2pYYloxVU4wSGlUYWtKd0t0Q3d0MUxIMGlDNGNRMWVTenhDQUpVV2Vta3JWVm5KM3dodnEtcWdlSUkxOXhRZWZDeHJrR2RCVkQzaURFck5rQUl4c0phR1ExMHhPdWRMelVSR0hWTERQV0I0MFFmUUNmOXJORWhCMHlWOHFTX3BJa2IxSnNROHg5ODJjZTREUXpUbG5PdGJjTWRXMW5J0gHwAUFVX3lxTE9aN0tteG9wcHBtNmlBNWVoaFpLQVRpeExTVzlReWxISnpRM1BNdFR1Yjl3VFlPc1hUX2dhc0xXUy1XVzZDRDNoUmotZEpwcEY5bmlVNkpHMWxoeXk4WFVmd3ExR21NdGpadjRCVWt2M1ByQmE1cjBKRjBDQWZ3N3ZsMWdRSFlTMmVhaF9rQmFHT1NyWWgtcTZLVmdaLVRidWowZnZxeUpWcVNnTlJzNHV5ck5FLTUzMW5WemxmZEpVd1FnZXZscTdrc3F0Zktfb2dlc0VqTTVlak5NakxtbXFJcGc5NTJpN0Npb2JQWVFobA?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sat, 03 Oct 2026 10:38:00 GMT",
+      "base_score": 82,
+      "candidate_score": 97,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "TTP"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "ec3d8bd4d7687bdbd5691f17",
       "mode": "geopolitico",
       "title": "India kills Pakistani nationals near Punjab border, tensions simmer - TRT World",
@@ -668,26 +682,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "a06bce78482ee517b91c22df",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de kablo krizinde yeni perde: Ankaradan izin şartı Atinadan provokasyon - cnnturk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNampTeTA5ZVJ2djI0dVU0XzhlOWRXdDFvRDJyWHFtN2RMYnNfbm5hVVpjMXU1dnM0enFtRW1MOG9vZVhlckJDbTl6ekJkSk1TTS1FWVhoX2NQZEVpRzlUY0FRU0s5ZzRDMDYzU2RibUN0ODFJMVRzRkFmbWFjV1dVSmVfZE9DQ1dwVTR5UHFqVVpCZXpmMDhTUTk3WnBweDdfODU4Z0o2ZHdXT2huaUpxRUJBNlVNbklNSTJ1VQ?oc=5",
-      "source": "CNN Turk Greece Watch",
-      "published": "Fri, 02 Oct 2026 05:14:39 GMT",
-      "base_score": 91,
-      "candidate_score": 94,
-      "priority": "High",
-      "matched_keywords": [
-        "Doğu Akdeniz",
-        "Ankara",
-        "Atina",
-        "kriz",
-        "ada",
-        "kablo"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "fd0f5220dcde5819beb56998",
       "mode": "pontos_voice",
       "title": "Στην παρέλαση της 28ης Οκτωβρίου το Κέντρο Νεότητας «Παναγία Σουμελά» Κύπρου - pontosnews.gr",
@@ -701,27 +695,6 @@
         "Pontos",
         "Παναγία Σουμελά",
         "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "685cecdaf71a75f1553bbca4",
-      "mode": "pontos_voice",
-      "title": "Trabzon'dan UNESCO Gastronomi yolunda güçlü adım",
-      "url": "https://www.61saat.com/trabzondan-unesco-gastronomi-yolunda-guclu-adim",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 03 Oct 2026 10:44:00 +0300",
-      "base_score": 90,
-      "candidate_score": 105,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Trabzon",
-        "kültür",
-        "anıt",
-        "UNESCO",
-        "Trabzon",
-        "Karadeniz",
-        "vali"
       ],
       "content_type": "news"
     },
@@ -757,6 +730,27 @@
         "Παναγία Σουμελά",
         "Σουμελά",
         "ιστορία"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "685cecdaf71a75f1553bbca4",
+      "mode": "pontos_voice",
+      "title": "Trabzon'dan UNESCO Gastronomi yolunda güçlü adım",
+      "url": "https://www.61saat.com/trabzondan-unesco-gastronomi-yolunda-guclu-adim",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 03 Oct 2026 10:44:00 +0300",
+      "base_score": 90,
+      "candidate_score": 100,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Trabzon",
+        "kültür",
+        "anıt",
+        "UNESCO",
+        "Trabzon",
+        "Karadeniz",
+        "vali"
       ],
       "content_type": "news"
     },
