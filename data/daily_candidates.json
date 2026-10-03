@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T02:00:31.082935+00:00",
+  "generated_at": "2026-10-03T02:25:28.146509+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -273,26 +273,6 @@
     ],
     "pontos_voice": [
       {
-        "external_id": "b5b4b6aca6479f660c2b3974",
-        "mode": "pontos_voice",
-        "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - haber61.net",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Fri, 02 Oct 2026 08:20:55 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Sümela",
-          "Sümela Manastırı",
-          "Trabzon",
-          "manastır",
-          "manastır",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "c42e9ab21873460e219ca7cb",
         "mode": "pontos_voice",
         "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
@@ -306,6 +286,26 @@
           "Παναγία Σουμελά",
           "Σουμελά",
           "ιστορία"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "478699e9ee6d864d5a1a8f4a",
+        "mode": "pontos_voice",
+        "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 02 Oct 2026 08:20:55 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Sümela",
+          "Sümela Manastırı",
+          "Trabzon",
+          "manastır",
+          "manastır",
+          "Trabzon"
         ],
         "content_type": "news"
       },
@@ -352,7 +352,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 02 Oct 2026 18:02:04 GMT",
         "base_score": 75,
-        "candidate_score": 85,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -643,26 +643,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "b5b4b6aca6479f660c2b3974",
-      "mode": "pontos_voice",
-      "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - haber61.net",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Fri, 02 Oct 2026 08:20:55 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Sümela",
-        "Sümela Manastırı",
-        "Trabzon",
-        "manastır",
-        "manastır",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "c42e9ab21873460e219ca7cb",
       "mode": "pontos_voice",
       "title": "Παναγία Σουμελά: Όταν η ιστορία και η μνήμη χρειάζονται άδεια - Ορθόδοξος Τύπος",
@@ -676,6 +656,26 @@
         "Παναγία Σουμελά",
         "Σουμελά",
         "ιστορία"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "478699e9ee6d864d5a1a8f4a",
+      "mode": "pontos_voice",
+      "title": "Trabzon’un simgesi Sümela Manastırı doğa tutkunlarının ilk rotasında - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUVmcWxJcFRDMlJTZHFhSHJCOXJQcVBNbHRpRDZvNUNoNTdrU2lNWkR2N2xEWk1oT214aFdBcEJXRjF2N1o3aU1ZaTN4blVUamRtcDJXYUlJRjNNbDk2NGI1YjZkRkZhR2JGMlozc0tBUWZwNDYzZXg1Z3pGU2ZNc2xHS1RmUnNKbWE1aVQyVmVtZ3N2RG1GZG5QRTZfU0NfWUZETVBnNWh4aXc?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 02 Oct 2026 08:20:55 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Sümela",
+        "Sümela Manastırı",
+        "Trabzon",
+        "manastır",
+        "manastır",
+        "Trabzon"
       ],
       "content_type": "news"
     },
@@ -722,7 +722,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 02 Oct 2026 18:02:04 GMT",
       "base_score": 75,
-      "candidate_score": 85,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
