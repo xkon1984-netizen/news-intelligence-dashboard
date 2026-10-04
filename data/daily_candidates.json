@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T04:30:53.106468+00:00",
+  "generated_at": "2026-10-04T10:55:13.787161+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 03 Oct 2026 14:18:06 GMT",
         "base_score": 62,
-        "candidate_score": 88,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -27,26 +27,6 @@
         "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
-      },
-      {
-        "external_id": "bb584489dd34f5bb366d37d3",
-        "mode": "sportdog",
-        "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 03 Oct 2026 02:34:31 GMT",
-        "base_score": 56,
-        "candidate_score": 77,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
       },
       {
         "external_id": "48451701c688533200236e62",
@@ -71,6 +51,26 @@
         "needs_second_source": true
       },
       {
+        "external_id": "5d17a07ff14081e61d7839cb",
+        "mode": "sportdog",
+        "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - thesportingbase.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sat, 03 Oct 2026 02:34:31 GMT",
+        "base_score": 56,
+        "candidate_score": 74,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "08c48dd66b354831ef94173a",
         "mode": "sportdog",
         "title": "Ανακοίνωσε κι άλλη μεταγραφή στο... 90' ο Λεβαδειακός - Πρώην του Άρη - Sportdog",
@@ -78,7 +78,7 @@
         "source": "Sportdog Greek Transfer Scenarios",
         "published": "Sat, 03 Oct 2026 23:41:00 GMT",
         "base_score": 32,
-        "candidate_score": 56,
+        "candidate_score": 52,
         "priority": "Normal",
         "matched_keywords": [
           "μεταγραφή"
@@ -129,9 +129,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "d3331d1f85c62e208cb92abb",
+        "external_id": "f27a6d4c150aff7a44e75f96",
         "mode": "sportdog",
-        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - rsca.be",
+        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Sat, 03 Oct 2026 08:35:13 GMT",
@@ -148,54 +148,73 @@
         "needs_second_source": true
       },
       {
-        "external_id": "aa6887dcf95f1a6fe48a9a36",
+        "external_id": "e63a4bf7289b6fb67b336a86",
         "mode": "sportdog",
-        "title": "The “invincible” mindset: Obradovic has Panathinaikos heading in the right direction - skweek.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTFpRDlwWWRna09sMnN0N3VlN3E0ek5YTU1veGpTRm9wRWh2a290MjdERmgzR0t1UVY3VWp4ektKZXBWRDV0RDZHOFRrblhUNXI1MG1tZ21FbjQxbTdJRkIyMnRNTXdUOFNpRVhXZmgzeENaUXRvMDBoaFVIekl2NzRodFpORVBpMndvaV9tOTd2TF9sZ0RFRHc0R0JqNDVfQUpnWjRPeEFqTUpzaEdkdjVmZVhMOHM?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 02 Oct 2026 22:54:26 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "74819bb708efda2bbd4684b9",
-        "mode": "sportdog",
-        "title": "Panathinaikos BC AKTOR – Maccabi Rapyd Tel Aviv 90-67 - paobc.gr",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fVHFlSGJjeHl4ejdFVW5VWEFMdFhCLWxDaWc4bTlhLVQ0ZTVDTXViZlZ6YWxPU05YanZ2MHAyRGNQSUpTVnFWbUhEX0pFRXZ4T2VrVjNXRnoxcnhmaW93OXAzcXNwUjZsZUdISm96YnpUNUUwYUJ0QWpnMWtRQQ?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 02 Oct 2026 22:03:46 GMT",
+        "title": "Olympiacos Piraeus - AC Milan - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDBJNVItejFhTDNSaU9WZVU1UEZUOU1WeEgwdDd4SlFhUEFRVS03RkEyR2FLTXJHTlZRU2Z5UzZqV0RiOWtJa1FPWGZSWnZVMGZGN3ZZcHNRcThMMFpudWd1YWVfeUVzUV9pZ29XSG1qdkl5WHNEZThaOFBJTUJOZXNiekhibnBFQVY3ZzcyeEZmQQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sat, 03 Oct 2026 04:32:37 GMT",
         "base_score": 31,
         "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos"
+          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Panathinaikos",
+        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
     ],
     "geopolitico": [
       {
-        "external_id": "068c5fc0a1fcc5dbe994a519",
+        "external_id": "cc67607d55ef6f493c0d2efe",
         "mode": "geopolitico",
-        "title": "Atina’nın kablo planı…. Ankara Oruç Reis’le sahada… Doğu Akdeniz’de satranç - mobil.hurriyet.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVVGdm05cm9SSDV4SUlVMk5Pd3hyelMwOExDS2o1dmRYWVFxQ195dWFKOTRvS0tOZkNxS3BqWHNqZFBITDNzVXZGMHllVWowQ3pxX0tMbnAwMjVnUlBoWURkSkxHbl9STjVsdFZPOU0tVHNabVRESlhaTTIwWDJwazNGVE1mOUoxaW52RVNJU2twM0NyVXA2WW0tZXhpSWQzVXpneU5nOVJfbTRmTjZxVmFOWQ?oc=5",
+        "title": "Adalar Denizi’nde Türkiye-Yunanistan NOTAM Gerilimi - ssbulten.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTFrZ2ZtWUdEenl2NU5rRkx6SVI2dllfaXp6MWVsQTNjZURXV3pkQzR2dExwTDZ1NUR2LXpsWTE0V3psbnlDZHEzWHUtN1doeE1xZXZ1OG9kUGJVeUNGSlBFYXJaSlhtQVNIRkRWTzZjQjVEOEdVc1ZEZFV4V1Nlb3E1dS1uZHVWX1QzZXViUnpzUjBsM3NvZmVB?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sun, 04 Oct 2026 10:34:29 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "NOTAM",
+          "gerilim",
+          "ada",
+          "adalar"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "2e12408d911b394a5d5ff09f",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz’de GSI gerilimi: Türkiye’nin şartı Yunan basınının gündeminde - ankaranethaber.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGgwSWJ4ZFV0VU9aaTZ0bnRYZWNXY0oySUFyeHpnV0Q5QW1Eek5uNGxUMWhsblBjbHZGMXJNME1Hc1d4YlR2MktkWFB2dFMxR3dPeW91dENyYXFmZ1VnanM3UEUtZEdNUmZiR1RHV01pZWxCUGRPaFFzcVoyeDRQRGNLdDVwNE9jX2dIVEN4SlF6anRUWURQRkpfZkh1bEI0MklpcQ?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sun, 04 Oct 2026 06:34:00 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "GSI",
+          "Doğu Akdeniz",
+          "Ankara",
+          "gerilim",
+          "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "07b542e6a0414c1590d50b32",
+        "mode": "geopolitico",
+        "title": "Atina’nın kablo planı…. Ankara Oruç Reis’le sahada… Doğu Akdeniz’de satranç - Hürriyet",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEY3MWJ1M0c0aHRESmlJVG5LLTRYaUc5d0N5MjZLVjdPNmU4dWk3Y2hidGZ1M05wOTliQ1BMSEpIQ3kwX28wRHFleUg0cVZ2Mkw0TS1FZGNzbkpQdnVFNmY1a0lFWXliS3B4b0NwMlVEQVNvYXZOUkFFbDczQk05T3ZaaWxibUN3TkNuZ1BWQ3BHOEVBdW1ZRUhxeEVyb2RZT0dLMlZwc0trMUtnc05DM2JR?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Sun, 04 Oct 2026 04:00:00 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Doğu Akdeniz",
@@ -208,51 +227,33 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "39d214ed996015d31f391a62",
+        "external_id": "52cd3c186910e36e6d8cc0a2",
         "mode": "geopolitico",
-        "title": "Türkiye ile Yunanistan arasında NOTAM krizi! 'Bu tatbikat gerçek bir savaşa dönüşebilir!' - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVJ4SzhaUHVHZWJFYjl4Yy11SUVmUkx1NEhvSWlIaG9ENlBnemw4WC1xQmtraTBJU3hZNjFxTDNPTHdwTlg5RHJrV0d2SEQ5UTYwand0dGwyWVNhNld2S2pRYTNWY1JsSTBpXzloYVdCdVRmc0kzM3VZcW43a3lOek9nTWdkZWJaRFhzRnI2Z3FwYi0xWXJldzZXWXVBamZpU1ozZVlPN0xvWThtZ0swTFl6ZnVlS2NJNXJZaDl1REtRX3pSTmZjM3dfclLSAcgBQVVfeXFMT0c5MGFvRC1hbU1EcE9LWkc0TjZGLUVTQXpERmQ5SHBHZXdJOFJaMkc1c19XWm15cWhHNnhWSFp5RXFHazZvbU02LWk0SVF0Z2kxZTNBSEwtQjRVdTBCM3VlT1lFV25oRGZURlI3RExhaXNNTDF1dkowMndleFZQaFpDVXNmMXV2UjZ4QlVjaHN1Zjd0Ulk4LXdlNjJFSnl2dThtN0RwS1pkOXhjN09JRHprUWpuYVlBUkVhTzJyV290andXMnlEbFk?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sun, 04 Oct 2026 03:40:30 GMT",
-        "base_score": 96,
-        "candidate_score": 111,
-        "priority": "URGENT",
+        "title": "Ankara ile Atina arasında kablo gerilim! Doğu Akdeniz’de gözler bu projeye çevrildi - ankaranethaber.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE9xZGpIZzVPajltWXh1bkZ2SGlIZEc3cUZPUS1lQmZtWWpwNlpBSVFXdzZrdHF2OVVBTGVfRFdfQUExRDRmSjNvbzJDQ2dhUUUxMjNYXzdUMXVUTVpYQXFXRXgtV0RtNzdaMDRKMUpkeDV5aXg5emx3dXlycU5NT2FNWk03SWlTQThESTItSVpmM0ZzRDVILUt1QWtMckdnMnhvVzgwT1QzRV9PVU9QdFd3?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Sat, 03 Oct 2026 06:30:00 GMT",
+        "base_score": 90,
+        "candidate_score": 93,
+        "priority": "High",
         "matched_keywords": [
-          "Yunanistan",
-          "NOTAM",
-          "kriz",
-          "tatbikat"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "2a64337a9d463c9b75ada9ed",
-        "mode": "geopolitico",
-        "title": "Oruç Reis’in Doğu Akdeniz’deki faaliyetleri Rum basınında: Yunanistan’dan tepki - Kıbrıs Türk Haber",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMlBlUDljWE5zWDFzWGJuUEtsYzMtckdpQUNOY2FQTkZFNE9QX1VGbjNnVlU0ci1iTXpYblU4aXd5SXRRS19URGtrVC12Ri1LWVlwRzlOOHBsQm5Lbm1YdVZZTnl3SW1tNDFiM1ZpWVNoTkExX2hpd3JNTzAxQnRabkhvd0JObUJScmF5R19HamYycERaazU1VUxETUQ2VEpRcmpCTQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 03 Oct 2026 13:13:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
           "Doğu Akdeniz",
-          "Kıbrıs",
-          "Oruç Reis",
-          "tepki"
+          "Ankara",
+          "Atina",
+          "gerilim",
+          "kablo"
         ],
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "cc17aaf8869bb5e1fd630f25",
+        "external_id": "efdf5c8bdd98cee7abd2d209",
         "mode": "geopolitico",
-        "title": "Pakistan Army Chief Calls Airstrikes in Afghanistan ‘Targeted Counterterrorism Actions’ - kabulnow.com",
+        "title": "Pakistan Army Chief Calls Airstrikes in Afghanistan ‘Targeted Counterterrorism Actions’ - KabulNow",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUc5SWxQS2tFcHVPdzk2QXRfdVlhUVA0aHFsUGZOZFVGUU5GbW1WZjlLb0pFbGlJSXB3Z2dJem5VVmkwRENjcGdyZVp2QTNwb25uV3FGa3djX0txMWl2RDBhbXA0dWVRTDZWNGpjVk1kRTcyZFRBSEx6SXlNZUpJUG16UjNYZ0RNU05rUTFldDhnRHJacU9fM1lVTDVJdGZ5VHpoSTBkR3gzSzR6ekJkSTBsV0tVZw?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sat, 03 Oct 2026 12:02:13 GMT",
         "base_score": 88,
-        "candidate_score": 94,
+        "candidate_score": 91,
         "priority": "High",
         "matched_keywords": [
           "Pakistan",
@@ -263,64 +264,46 @@
         "content_type": "news"
       },
       {
-        "external_id": "e0a02fe32d9b5d75ab2d12e8",
+        "external_id": "6a9ec20abf22ebc0e0c87c28",
         "mode": "geopolitico",
-        "title": "Pakistan kills 5 TTP militants as violence escalates on Afghanistan border - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVURzdzZkQ1NDeEN3TkVQOU9BVlZNMkNlbTROZGx2bXpwc0w2eU5WSk1MY1hNX2t2QWlNTDY1bGhMUk52UGJncjlIQlRLV2pYYloxVU4wSGlUYWtKd0t0Q3d0MUxIMGlDNGNRMWVTenhDQUpVV2Vta3JWVm5KM3dodnEtcWdlSUkxOXhRZWZDeHJrR2RCVkQzaURFck5rQUl4c0phR1ExMHhPdWRMelVSR0hWTERQV0I0MFFmUUNmOXJORWhCMHlWOHFTX3BJa2IxSnNROHg5ODJjZTREUXpUbG5PdGJjTWRXMW5J0gHwAUFVX3lxTE9aN0tteG9wcHBtNmlBNWVoaFpLQVRpeExTVzlReWxISnpRM1BNdFR1Yjl3VFlPc1hUX2dhc0xXUy1XVzZDRDNoUmotZEpwcEY5bmlVNkpHMWxoeXk4WFVmd3ExR21NdGpadjRCVWt2M1ByQmE1cjBKRjBDQWZ3N3ZsMWdRSFlTMmVhaF9rQmFHT1NyWWgtcTZLVmdaLVRidWowZnZxeUpWcVNnTlJzNHV5ck5FLTUzMW5WemxmZEpVd1FnZXZscTdrc3F0Zktfb2dlc0VqTTVlak5NakxtbXFJcGc5NTJpN0Npb2JQWVFobA?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sat, 03 Oct 2026 10:38:00 GMT",
-        "base_score": 82,
-        "candidate_score": 88,
-        "priority": "High",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "TTP"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "7a5031f44f5db798c48a7e50",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Namık Tan — Namık Tan | Jeopolitik sınamalara finansal sıkışma eklendi - T24",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWU1cXFKcEZqdkdHZVdpMFZQRThDM1p6NV9zTExNTmlybkFyc1NjRkZsWF93OVpJdS1iakh5NmZMUDRZYTVMcVlTT0J3ckFtcEF6RzY5emlLMkNmamFSVjVKVUJYRm11Q1hWWUVSQjdOU0lpc0lqLVlfUEowaW1Ta0JJTGV5ZkxNaHBUVTBXY0I3V01q?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Sat, 03 Oct 2026 21:00:00 GMT",
+        "title": "[ANALYST WATCH] Σταύρος Λυγερός — Ο καταξιωμένος Δημοσιογράφος και Συγγραφέας Σταύρος Λυγερός σε μια ξεχωριστή συνέντευξη - olympia.gr",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOC1aZUc4YjhaT2txamMwUTViOGZaNFlFVThVYmI1bUlsbWNGQW51Mkh1N21SMWxpWklYTXRYZFUtMXNzQnB3aDctWXJLV1Vmd2R5TGZab3UxWHJhT3pra3ZZX2ZPcTJ3YW1tY3AwWERIVVpQV19BTVpZWGJ2OXZZNGEyanZ1UW9VV29tR0tOWUd5dHpYZVZEQmJveHNuaHloWUJBb1hqRnJEWnNJSkpyaFBidjk1TmxJM05XeV9QQWNETUUx?oc=5",
+        "source": "Analysts Watch · Greece",
+        "published": "Sun, 04 Oct 2026 10:20:06 GMT",
         "base_score": 75,
-        "candidate_score": 85,
+        "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
-          "Namık Tan",
-          "Namık Tan"
+          "Σταύρος Λυγερός",
+          "Σταύρος Λυγερός"
         ],
         "content_type": "analyst"
       },
       {
-        "external_id": "84ee028b668336b7b7de43f7",
+        "external_id": "c78d956f9f9d909b22bf7911",
         "mode": "geopolitico",
-        "title": "Pakistan Army High Command Reshuffle: 11 Major Generals Promoted to Lieutenant General - DefenceXP",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWk03QndZOExlbjI4WEFDVEU2ZmtxajRZQmItNG93WFlmNlF5RUFGeWc3Y3dZN0VYWGprUTJCNldDaVRvWi1UNi16Q2VfM2gwa01TV2dOYnQ0MGEwTTRfWWtuLUU3dEFnbGZmZXpJZ1dFaWJCQkNHQnFHeWNEUXo2dVdEMzE2cTdqMkVfNHJ5Wm1uMjN6?oc=5",
-        "source": "DefenceXP India Watch",
-        "published": "Sun, 04 Oct 2026 02:54:09 GMT",
-        "base_score": 69,
-        "candidate_score": 84,
+        "title": "[ANALYST WATCH] Cihat Yaycı — Müstafi Tümamiral Prof. Dr. Cihat Yaycı: Türkiye cumhuriyeti cumhurbaşkanı Erdoğan “İki devlet ve KKTC’nin tanınması” diyor, KKTC cumhurbaşkanı Erhürman “federasyon” diyor! - Milli Gazete",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVmttRnRmVGJ4T1VJQ1RzYmtjNFBQbWI4RE1YemlOazJUNlgyWjRmSW1uZUMxNHVhYnJEOWwwS1NtcjJJdEdjY0VCNTgyQzRRcDFyNExXM0F3cmo4d01nY0NRM0NZTjJpYTV0Yms5SG1VbXI3Qm9QUW9QYTdhaDhZTFFrclVCQk5KU1hrU2VtS1FJZ1pqZC00endaV3JLSHlGbWJObHV4Sl9FN194OFB0T1VoTDJnaUR3ZldOb2wyU3Z4cmpYa29WQnhzdjNpZDd4RnRvSEVDQ2h3V3AzYkFYcFMyNng4SC15MkdF?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Sun, 04 Oct 2026 10:14:00 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
-          "Pakistan",
-          "Pakistan Army",
-          "defence"
+          "Cihat Yaycı",
+          "Cihat Yaycı"
         ],
-        "content_type": "news"
+        "content_type": "analyst"
       },
       {
-        "external_id": "2ad2d700efc4e52af1487a45",
+        "external_id": "855ecc7aa5d2447ca53b3d68",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Hakan Çelik — GSO Meclisinde Hakan Çelik sesleri! Ayakkabı sektörünün sesi olmaya devam edecek… - Referans Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0RWeFprUmFORmlkNHZBUV96eFBFakhwM0JCTHNaR3NiMG9iaFFjWlo0YldFbjZTSG0tM3lQMzF0djlXb010Tk11N1pFVDV4dFBpYTZzZ1VPRE1Fd0d3ejRnQkhZa0ktSG92RU9JN0oxaVhPVDB6djA1d2x3UHl6b1JVaFl1RmVyeXAxYmxPR24wOUlDNldGT3BLck44OXZueE1xX2xScnVrNklXZmpkcmkweE5kZw?oc=5",
+        "title": "[ANALYST WATCH] Hakan Çelik — Hakan Çelik’ten Kocaeli Kitap Fuarı’na övgü: “Türkiye’ye öncülük eden bir fuar” - Özgün Kocaeli Gazetesi",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbTlzVUJGQlYxUEN0dENoSC1UUUZBQTV0cXg0YnRZUVFlWFZ5c1VJTUl2Y3A0a0ZQaFRHSVNoWTNMRDNDUUNoZzlwTG9EemhfS1ZtOXBORnpHRUtFLVF4X3NPMm5ObXRoOEdKaFM4T3RRQ0Z3QVRURFVCRGlyWFR2Nm1qdWNCaHN1Q1JkekVuOVpNd0RUTG55bl84TmVBMVdHRWNwTEltSEI?oc=5",
         "source": "Analysts Watch · Turkey",
-        "published": "Sat, 03 Oct 2026 10:38:00 GMT",
+        "published": "Sun, 04 Oct 2026 07:50:00 GMT",
         "base_score": 75,
-        "candidate_score": 81,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Hakan Çelik",
@@ -365,73 +348,72 @@
         "content_type": "news"
       },
       {
-        "external_id": "32f31f85fa621cea3b0ae66e",
+        "external_id": "0704784d00520b2951804736",
         "mode": "pontos_voice",
-        "title": "Πόντος, 1919: «Τα ερημωθέντα χωριά είναι αναρίθμητα» – Η έκκληση της Αργυρούπολης στη Βρετανία - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTBwNjl5R2FjdU9vbEFvOVhnYm5QaDJNZjc1cThCVUdNM01HdVIwcGdaWkVvdE5Xc2h2RWRSWG1wWnZZcWhjUHVUaU01cGttcGhvQUdUVnRoRHpIbTZPZlozSjJrNHFlYW85X3NrOEhaYVE1OGc4X0lQZ1VpVU96dEt3aDVKX1FNdnotMXN0czl0OHFyQnZTUHB2LU1sZl9NMHBfcEU1eDhGWEpQRmQyYkdGOA?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Fri, 02 Oct 2026 18:02:04 GMT",
-        "base_score": 75,
-        "candidate_score": 75,
+        "title": "Başkan Genç’ten Ağasar Kültür Evi’ne destek",
+        "url": "https://www.61saat.com/baskan-gencten-agasar-kultur-evine-destek",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 04 Oct 2026 12:03:00 +0300",
+        "base_score": 64,
+        "candidate_score": 79,
         "priority": "High",
         "matched_keywords": [
-          "Pontos",
-          "Πόντος"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "6ba8eb3a772cc67a63cc7c38",
-        "mode": "pontos_voice",
-        "title": "Trabzon’da Avrupa Sinema Günleri siyaseti hareketlendirdi: “Kabul edilemez”",
-        "url": "https://www.61saat.com/trabzonda-avrupa-sinema-gunleri-siyaseti-hareketlendirdi-kabul-edilemez",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 03 Oct 2026 15:50:00 +0300",
-        "base_score": 59,
-        "candidate_score": 65,
-        "priority": "Normal",
-        "matched_keywords": [
           "Trabzon",
-          "açıklama",
-          "tepki",
+          "kültür",
+          "belediye başkanı",
           "Trabzon",
           "dil"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "001506ea3572acadf59e2eba",
+        "external_id": "53b3f253a6f569ff1c4166a3",
         "mode": "pontos_voice",
-        "title": "Belediye başkanı Trabzon'da tedavi altına alındı!",
-        "url": "https://www.61saat.com/belediye-baskani-trabzonda-tedavi-altina-alindi",
+        "title": "Trabzon’da iki kitap okurla buluştu",
+        "url": "https://www.61saat.com/trabzonda-iki-kitap-okurla-bulustu",
         "source": "61Saat Trabzon",
-        "published": "Sat, 03 Oct 2026 20:25:00 +0300",
-        "base_score": 55,
+        "published": "Sun, 04 Oct 2026 13:32:00 +0300",
+        "base_score": 46,
         "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Gümüşhane",
-          "belediye başkanı",
+          "anıt",
           "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "35d73cf77c0e3b3ebac52953",
+        "external_id": "f1ac47cf155c90ca414c90f3",
         "mode": "pontos_voice",
-        "title": "Gün birlik olma günüdür! Başkan Genç'ten Ertuğrul Doğan'a destek",
-        "url": "https://www.61saat.com/gun-birlik-olma-gunudur-baskan-gencten-ertugrul-dogana-destek",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 03 Oct 2026 16:45:00 +0300",
-        "base_score": 53,
-        "candidate_score": 59,
+        "title": "“Trabzonspor şehitlerimizin kulübüdür” diyerek destek verdiler - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFFXNW9LN3ZMc3dqTmI4OTZJWEJGQmdtT0Q4UTNUd29WZGhxYzFmVHRzdFF4SnJkdzVyendua283YkpZMFVFMFdsOExVb1RDaF9CVHpMdHhYaGctVWlaeWF1Nk0zVHFZNjgyV3liNTU4NFZtYk1KUUpGMHVOXzBjVUFNSmR2c0ZSQ0VqYjlaOVd3REJ0M3M4clhrNVFtaUpU?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Sun, 04 Oct 2026 08:19:00 GMT",
+        "base_score": 42,
+        "candidate_score": 57,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
           "Trabzon",
           "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "ab7e3b577082ee2864cb4f78",
+        "mode": "pontos_voice",
+        "title": "Trabzon AB Bilgi Merkezi’nden Avrupa Sinema Günleri açıklaması “Film seçimlerini büyükelçilikler yapıyor”",
+        "url": "https://www.61saat.com/trabzon-ab-bilgi-merkezinden-avrupa-sinema-gunleri-aciklamasi-film-secimlerini-buyukelcilikler-yapiyor",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 04 Oct 2026 13:36:00 +0300",
+        "base_score": 40,
+        "candidate_score": 55,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "açıklama",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -446,7 +428,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 03 Oct 2026 14:18:06 GMT",
       "base_score": 62,
-      "candidate_score": 88,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -458,26 +440,6 @@
       "team": "Olympiacos",
       "readiness": "READY",
       "needs_second_source": false
-    },
-    {
-      "external_id": "bb584489dd34f5bb366d37d3",
-      "mode": "sportdog",
-      "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 03 Oct 2026 02:34:31 GMT",
-      "base_score": 56,
-      "candidate_score": 77,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
     },
     {
       "external_id": "48451701c688533200236e62",
@@ -502,6 +464,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "5d17a07ff14081e61d7839cb",
+      "mode": "sportdog",
+      "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - thesportingbase.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sat, 03 Oct 2026 02:34:31 GMT",
+      "base_score": 56,
+      "candidate_score": 74,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "08c48dd66b354831ef94173a",
       "mode": "sportdog",
       "title": "Ανακοίνωσε κι άλλη μεταγραφή στο... 90' ο Λεβαδειακός - Πρώην του Άρη - Sportdog",
@@ -509,7 +491,7 @@
       "source": "Sportdog Greek Transfer Scenarios",
       "published": "Sat, 03 Oct 2026 23:41:00 GMT",
       "base_score": 32,
-      "candidate_score": 56,
+      "candidate_score": 52,
       "priority": "Normal",
       "matched_keywords": [
         "μεταγραφή"
@@ -560,9 +542,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "d3331d1f85c62e208cb92abb",
+      "external_id": "f27a6d4c150aff7a44e75f96",
       "mode": "sportdog",
-      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - rsca.be",
+      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Sat, 03 Oct 2026 08:35:13 GMT",
@@ -579,52 +561,71 @@
       "needs_second_source": true
     },
     {
-      "external_id": "aa6887dcf95f1a6fe48a9a36",
+      "external_id": "e63a4bf7289b6fb67b336a86",
       "mode": "sportdog",
-      "title": "The “invincible” mindset: Obradovic has Panathinaikos heading in the right direction - skweek.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTFpRDlwWWRna09sMnN0N3VlN3E0ek5YTU1veGpTRm9wRWh2a290MjdERmgzR0t1UVY3VWp4ektKZXBWRDV0RDZHOFRrblhUNXI1MG1tZ21FbjQxbTdJRkIyMnRNTXdUOFNpRVhXZmgzeENaUXRvMDBoaFVIekl2NzRodFpORVBpMndvaV9tOTd2TF9sZ0RFRHc0R0JqNDVfQUpnWjRPeEFqTUpzaEdkdjVmZVhMOHM?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 02 Oct 2026 22:54:26 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "74819bb708efda2bbd4684b9",
-      "mode": "sportdog",
-      "title": "Panathinaikos BC AKTOR – Maccabi Rapyd Tel Aviv 90-67 - paobc.gr",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fVHFlSGJjeHl4ejdFVW5VWEFMdFhCLWxDaWc4bTlhLVQ0ZTVDTXViZlZ6YWxPU05YanZ2MHAyRGNQSUpTVnFWbUhEX0pFRXZ4T2VrVjNXRnoxcnhmaW93OXAzcXNwUjZsZUdISm96YnpUNUUwYUJ0QWpnMWtRQQ?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 02 Oct 2026 22:03:46 GMT",
+      "title": "Olympiacos Piraeus - AC Milan - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDBJNVItejFhTDNSaU9WZVU1UEZUOU1WeEgwdDd4SlFhUEFRVS03RkEyR2FLTXJHTlZRU2Z5UzZqV0RiOWtJa1FPWGZSWnZVMGZGN3ZZcHNRcThMMFpudWd1YWVfeUVzUV9pZ29XSG1qdkl5WHNEZThaOFBJTUJOZXNiekhibnBFQVY3ZzcyeEZmQQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sat, 03 Oct 2026 04:32:37 GMT",
       "base_score": 31,
       "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos"
+        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Panathinaikos",
+      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
     {
-      "external_id": "068c5fc0a1fcc5dbe994a519",
+      "external_id": "cc67607d55ef6f493c0d2efe",
       "mode": "geopolitico",
-      "title": "Atina’nın kablo planı…. Ankara Oruç Reis’le sahada… Doğu Akdeniz’de satranç - mobil.hurriyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVVGdm05cm9SSDV4SUlVMk5Pd3hyelMwOExDS2o1dmRYWVFxQ195dWFKOTRvS0tOZkNxS3BqWHNqZFBITDNzVXZGMHllVWowQ3pxX0tMbnAwMjVnUlBoWURkSkxHbl9STjVsdFZPOU0tVHNabVRESlhaTTIwWDJwazNGVE1mOUoxaW52RVNJU2twM0NyVXA2WW0tZXhpSWQzVXpneU5nOVJfbTRmTjZxVmFOWQ?oc=5",
+      "title": "Adalar Denizi’nde Türkiye-Yunanistan NOTAM Gerilimi - ssbulten.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTFrZ2ZtWUdEenl2NU5rRkx6SVI2dllfaXp6MWVsQTNjZURXV3pkQzR2dExwTDZ1NUR2LXpsWTE0V3psbnlDZHEzWHUtN1doeE1xZXZ1OG9kUGJVeUNGSlBFYXJaSlhtQVNIRkRWTzZjQjVEOEdVc1ZEZFV4V1Nlb3E1dS1uZHVWX1QzZXViUnpzUjBsM3NvZmVB?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sun, 04 Oct 2026 10:34:29 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "NOTAM",
+        "gerilim",
+        "ada",
+        "adalar"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "2e12408d911b394a5d5ff09f",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz’de GSI gerilimi: Türkiye’nin şartı Yunan basınının gündeminde - ankaranethaber.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGgwSWJ4ZFV0VU9aaTZ0bnRYZWNXY0oySUFyeHpnV0Q5QW1Eek5uNGxUMWhsblBjbHZGMXJNME1Hc1d4YlR2MktkWFB2dFMxR3dPeW91dENyYXFmZ1VnanM3UEUtZEdNUmZiR1RHV01pZWxCUGRPaFFzcVoyeDRQRGNLdDVwNE9jX2dIVEN4SlF6anRUWURQRkpfZkh1bEI0MklpcQ?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sun, 04 Oct 2026 06:34:00 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "GSI",
+        "Doğu Akdeniz",
+        "Ankara",
+        "gerilim",
+        "GSI"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "07b542e6a0414c1590d50b32",
+      "mode": "geopolitico",
+      "title": "Atina’nın kablo planı…. Ankara Oruç Reis’le sahada… Doğu Akdeniz’de satranç - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEY3MWJ1M0c0aHRESmlJVG5LLTRYaUc5d0N5MjZLVjdPNmU4dWk3Y2hidGZ1M05wOTliQ1BMSEpIQ3kwX28wRHFleUg0cVZ2Mkw0TS1FZGNzbkpQdnVFNmY1a0lFWXliS3B4b0NwMlVEQVNvYXZOUkFFbDczQk05T3ZaaWxibUN3TkNuZ1BWQ3BHOEVBdW1ZRUhxeEVyb2RZT0dLMlZwc0trMUtnc05DM2JR?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Sun, 04 Oct 2026 04:00:00 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Doğu Akdeniz",
@@ -637,51 +638,33 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "39d214ed996015d31f391a62",
+      "external_id": "52cd3c186910e36e6d8cc0a2",
       "mode": "geopolitico",
-      "title": "Türkiye ile Yunanistan arasında NOTAM krizi! 'Bu tatbikat gerçek bir savaşa dönüşebilir!' - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVJ4SzhaUHVHZWJFYjl4Yy11SUVmUkx1NEhvSWlIaG9ENlBnemw4WC1xQmtraTBJU3hZNjFxTDNPTHdwTlg5RHJrV0d2SEQ5UTYwand0dGwyWVNhNld2S2pRYTNWY1JsSTBpXzloYVdCdVRmc0kzM3VZcW43a3lOek9nTWdkZWJaRFhzRnI2Z3FwYi0xWXJldzZXWXVBamZpU1ozZVlPN0xvWThtZ0swTFl6ZnVlS2NJNXJZaDl1REtRX3pSTmZjM3dfclLSAcgBQVVfeXFMT0c5MGFvRC1hbU1EcE9LWkc0TjZGLUVTQXpERmQ5SHBHZXdJOFJaMkc1c19XWm15cWhHNnhWSFp5RXFHazZvbU02LWk0SVF0Z2kxZTNBSEwtQjRVdTBCM3VlT1lFV25oRGZURlI3RExhaXNNTDF1dkowMndleFZQaFpDVXNmMXV2UjZ4QlVjaHN1Zjd0Ulk4LXdlNjJFSnl2dThtN0RwS1pkOXhjN09JRHprUWpuYVlBUkVhTzJyV290andXMnlEbFk?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sun, 04 Oct 2026 03:40:30 GMT",
-      "base_score": 96,
-      "candidate_score": 111,
-      "priority": "URGENT",
+      "title": "Ankara ile Atina arasında kablo gerilim! Doğu Akdeniz’de gözler bu projeye çevrildi - ankaranethaber.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE9xZGpIZzVPajltWXh1bkZ2SGlIZEc3cUZPUS1lQmZtWWpwNlpBSVFXdzZrdHF2OVVBTGVfRFdfQUExRDRmSjNvbzJDQ2dhUUUxMjNYXzdUMXVUTVpYQXFXRXgtV0RtNzdaMDRKMUpkeDV5aXg5emx3dXlycU5NT2FNWk03SWlTQThESTItSVpmM0ZzRDVILUt1QWtMckdnMnhvVzgwT1QzRV9PVU9QdFd3?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Sat, 03 Oct 2026 06:30:00 GMT",
+      "base_score": 90,
+      "candidate_score": 93,
+      "priority": "High",
       "matched_keywords": [
-        "Yunanistan",
-        "NOTAM",
-        "kriz",
-        "tatbikat"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "2a64337a9d463c9b75ada9ed",
-      "mode": "geopolitico",
-      "title": "Oruç Reis’in Doğu Akdeniz’deki faaliyetleri Rum basınında: Yunanistan’dan tepki - Kıbrıs Türk Haber",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMlBlUDljWE5zWDFzWGJuUEtsYzMtckdpQUNOY2FQTkZFNE9QX1VGbjNnVlU0ci1iTXpYblU4aXd5SXRRS19URGtrVC12Ri1LWVlwRzlOOHBsQm5Lbm1YdVZZTnl3SW1tNDFiM1ZpWVNoTkExX2hpd3JNTzAxQnRabkhvd0JObUJScmF5R19HamYycERaazU1VUxETUQ2VEpRcmpCTQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 03 Oct 2026 13:13:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
         "Doğu Akdeniz",
-        "Kıbrıs",
-        "Oruç Reis",
-        "tepki"
+        "Ankara",
+        "Atina",
+        "gerilim",
+        "kablo"
       ],
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "cc17aaf8869bb5e1fd630f25",
+      "external_id": "efdf5c8bdd98cee7abd2d209",
       "mode": "geopolitico",
-      "title": "Pakistan Army Chief Calls Airstrikes in Afghanistan ‘Targeted Counterterrorism Actions’ - kabulnow.com",
+      "title": "Pakistan Army Chief Calls Airstrikes in Afghanistan ‘Targeted Counterterrorism Actions’ - KabulNow",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUc5SWxQS2tFcHVPdzk2QXRfdVlhUVA0aHFsUGZOZFVGUU5GbW1WZjlLb0pFbGlJSXB3Z2dJem5VVmkwRENjcGdyZVp2QTNwb25uV3FGa3djX0txMWl2RDBhbXA0dWVRTDZWNGpjVk1kRTcyZFRBSEx6SXlNZUpJUG16UjNYZ0RNU05rUTFldDhnRHJacU9fM1lVTDVJdGZ5VHpoSTBkR3gzSzR6ekJkSTBsV0tVZw?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sat, 03 Oct 2026 12:02:13 GMT",
       "base_score": 88,
-      "candidate_score": 94,
+      "candidate_score": 91,
       "priority": "High",
       "matched_keywords": [
         "Pakistan",
@@ -692,64 +675,46 @@
       "content_type": "news"
     },
     {
-      "external_id": "e0a02fe32d9b5d75ab2d12e8",
+      "external_id": "6a9ec20abf22ebc0e0c87c28",
       "mode": "geopolitico",
-      "title": "Pakistan kills 5 TTP militants as violence escalates on Afghanistan border - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVURzdzZkQ1NDeEN3TkVQOU9BVlZNMkNlbTROZGx2bXpwc0w2eU5WSk1MY1hNX2t2QWlNTDY1bGhMUk52UGJncjlIQlRLV2pYYloxVU4wSGlUYWtKd0t0Q3d0MUxIMGlDNGNRMWVTenhDQUpVV2Vta3JWVm5KM3dodnEtcWdlSUkxOXhRZWZDeHJrR2RCVkQzaURFck5rQUl4c0phR1ExMHhPdWRMelVSR0hWTERQV0I0MFFmUUNmOXJORWhCMHlWOHFTX3BJa2IxSnNROHg5ODJjZTREUXpUbG5PdGJjTWRXMW5J0gHwAUFVX3lxTE9aN0tteG9wcHBtNmlBNWVoaFpLQVRpeExTVzlReWxISnpRM1BNdFR1Yjl3VFlPc1hUX2dhc0xXUy1XVzZDRDNoUmotZEpwcEY5bmlVNkpHMWxoeXk4WFVmd3ExR21NdGpadjRCVWt2M1ByQmE1cjBKRjBDQWZ3N3ZsMWdRSFlTMmVhaF9rQmFHT1NyWWgtcTZLVmdaLVRidWowZnZxeUpWcVNnTlJzNHV5ck5FLTUzMW5WemxmZEpVd1FnZXZscTdrc3F0Zktfb2dlc0VqTTVlak5NakxtbXFJcGc5NTJpN0Npb2JQWVFobA?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sat, 03 Oct 2026 10:38:00 GMT",
-      "base_score": 82,
-      "candidate_score": 88,
-      "priority": "High",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "TTP"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "7a5031f44f5db798c48a7e50",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Namık Tan — Namık Tan | Jeopolitik sınamalara finansal sıkışma eklendi - T24",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWU1cXFKcEZqdkdHZVdpMFZQRThDM1p6NV9zTExNTmlybkFyc1NjRkZsWF93OVpJdS1iakh5NmZMUDRZYTVMcVlTT0J3ckFtcEF6RzY5emlLMkNmamFSVjVKVUJYRm11Q1hWWUVSQjdOU0lpc0lqLVlfUEowaW1Ta0JJTGV5ZkxNaHBUVTBXY0I3V01q?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Sat, 03 Oct 2026 21:00:00 GMT",
+      "title": "[ANALYST WATCH] Σταύρος Λυγερός — Ο καταξιωμένος Δημοσιογράφος και Συγγραφέας Σταύρος Λυγερός σε μια ξεχωριστή συνέντευξη - olympia.gr",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOC1aZUc4YjhaT2txamMwUTViOGZaNFlFVThVYmI1bUlsbWNGQW51Mkh1N21SMWxpWklYTXRYZFUtMXNzQnB3aDctWXJLV1Vmd2R5TGZab3UxWHJhT3pra3ZZX2ZPcTJ3YW1tY3AwWERIVVpQV19BTVpZWGJ2OXZZNGEyanZ1UW9VV29tR0tOWUd5dHpYZVZEQmJveHNuaHloWUJBb1hqRnJEWnNJSkpyaFBidjk1TmxJM05XeV9QQWNETUUx?oc=5",
+      "source": "Analysts Watch · Greece",
+      "published": "Sun, 04 Oct 2026 10:20:06 GMT",
       "base_score": 75,
-      "candidate_score": 85,
+      "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
-        "Namık Tan",
-        "Namık Tan"
+        "Σταύρος Λυγερός",
+        "Σταύρος Λυγερός"
       ],
       "content_type": "analyst"
     },
     {
-      "external_id": "84ee028b668336b7b7de43f7",
+      "external_id": "c78d956f9f9d909b22bf7911",
       "mode": "geopolitico",
-      "title": "Pakistan Army High Command Reshuffle: 11 Major Generals Promoted to Lieutenant General - DefenceXP",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWk03QndZOExlbjI4WEFDVEU2ZmtxajRZQmItNG93WFlmNlF5RUFGeWc3Y3dZN0VYWGprUTJCNldDaVRvWi1UNi16Q2VfM2gwa01TV2dOYnQ0MGEwTTRfWWtuLUU3dEFnbGZmZXpJZ1dFaWJCQkNHQnFHeWNEUXo2dVdEMzE2cTdqMkVfNHJ5Wm1uMjN6?oc=5",
-      "source": "DefenceXP India Watch",
-      "published": "Sun, 04 Oct 2026 02:54:09 GMT",
-      "base_score": 69,
-      "candidate_score": 84,
+      "title": "[ANALYST WATCH] Cihat Yaycı — Müstafi Tümamiral Prof. Dr. Cihat Yaycı: Türkiye cumhuriyeti cumhurbaşkanı Erdoğan “İki devlet ve KKTC’nin tanınması” diyor, KKTC cumhurbaşkanı Erhürman “federasyon” diyor! - Milli Gazete",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVmttRnRmVGJ4T1VJQ1RzYmtjNFBQbWI4RE1YemlOazJUNlgyWjRmSW1uZUMxNHVhYnJEOWwwS1NtcjJJdEdjY0VCNTgyQzRRcDFyNExXM0F3cmo4d01nY0NRM0NZTjJpYTV0Yms5SG1VbXI3Qm9QUW9QYTdhaDhZTFFrclVCQk5KU1hrU2VtS1FJZ1pqZC00endaV3JLSHlGbWJObHV4Sl9FN194OFB0T1VoTDJnaUR3ZldOb2wyU3Z4cmpYa29WQnhzdjNpZDd4RnRvSEVDQ2h3V3AzYkFYcFMyNng4SC15MkdF?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Sun, 04 Oct 2026 10:14:00 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
-        "Pakistan",
-        "Pakistan Army",
-        "defence"
+        "Cihat Yaycı",
+        "Cihat Yaycı"
       ],
-      "content_type": "news"
+      "content_type": "analyst"
     },
     {
-      "external_id": "2ad2d700efc4e52af1487a45",
+      "external_id": "855ecc7aa5d2447ca53b3d68",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Hakan Çelik — GSO Meclisinde Hakan Çelik sesleri! Ayakkabı sektörünün sesi olmaya devam edecek… - Referans Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0RWeFprUmFORmlkNHZBUV96eFBFakhwM0JCTHNaR3NiMG9iaFFjWlo0YldFbjZTSG0tM3lQMzF0djlXb010Tk11N1pFVDV4dFBpYTZzZ1VPRE1Fd0d3ejRnQkhZa0ktSG92RU9JN0oxaVhPVDB6djA1d2x3UHl6b1JVaFl1RmVyeXAxYmxPR24wOUlDNldGT3BLck44OXZueE1xX2xScnVrNklXZmpkcmkweE5kZw?oc=5",
+      "title": "[ANALYST WATCH] Hakan Çelik — Hakan Çelik’ten Kocaeli Kitap Fuarı’na övgü: “Türkiye’ye öncülük eden bir fuar” - Özgün Kocaeli Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbTlzVUJGQlYxUEN0dENoSC1UUUZBQTV0cXg0YnRZUVFlWFZ5c1VJTUl2Y3A0a0ZQaFRHSVNoWTNMRDNDUUNoZzlwTG9EemhfS1ZtOXBORnpHRUtFLVF4X3NPMm5ObXRoOEdKaFM4T3RRQ0Z3QVRURFVCRGlyWFR2Nm1qdWNCaHN1Q1JkekVuOVpNd0RUTG55bl84TmVBMVdHRWNwTEltSEI?oc=5",
       "source": "Analysts Watch · Turkey",
-      "published": "Sat, 03 Oct 2026 10:38:00 GMT",
+      "published": "Sun, 04 Oct 2026 07:50:00 GMT",
       "base_score": 75,
-      "candidate_score": 81,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Hakan Çelik",
@@ -792,73 +757,72 @@
       "content_type": "news"
     },
     {
-      "external_id": "32f31f85fa621cea3b0ae66e",
+      "external_id": "0704784d00520b2951804736",
       "mode": "pontos_voice",
-      "title": "Πόντος, 1919: «Τα ερημωθέντα χωριά είναι αναρίθμητα» – Η έκκληση της Αργυρούπολης στη Βρετανία - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTBwNjl5R2FjdU9vbEFvOVhnYm5QaDJNZjc1cThCVUdNM01HdVIwcGdaWkVvdE5Xc2h2RWRSWG1wWnZZcWhjUHVUaU01cGttcGhvQUdUVnRoRHpIbTZPZlozSjJrNHFlYW85X3NrOEhaYVE1OGc4X0lQZ1VpVU96dEt3aDVKX1FNdnotMXN0czl0OHFyQnZTUHB2LU1sZl9NMHBfcEU1eDhGWEpQRmQyYkdGOA?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Fri, 02 Oct 2026 18:02:04 GMT",
-      "base_score": 75,
-      "candidate_score": 75,
+      "title": "Başkan Genç’ten Ağasar Kültür Evi’ne destek",
+      "url": "https://www.61saat.com/baskan-gencten-agasar-kultur-evine-destek",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 04 Oct 2026 12:03:00 +0300",
+      "base_score": 64,
+      "candidate_score": 79,
       "priority": "High",
       "matched_keywords": [
-        "Pontos",
-        "Πόντος"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "6ba8eb3a772cc67a63cc7c38",
-      "mode": "pontos_voice",
-      "title": "Trabzon’da Avrupa Sinema Günleri siyaseti hareketlendirdi: “Kabul edilemez”",
-      "url": "https://www.61saat.com/trabzonda-avrupa-sinema-gunleri-siyaseti-hareketlendirdi-kabul-edilemez",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 03 Oct 2026 15:50:00 +0300",
-      "base_score": 59,
-      "candidate_score": 65,
-      "priority": "Normal",
-      "matched_keywords": [
         "Trabzon",
-        "açıklama",
-        "tepki",
+        "kültür",
+        "belediye başkanı",
         "Trabzon",
         "dil"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "001506ea3572acadf59e2eba",
+      "external_id": "53b3f253a6f569ff1c4166a3",
       "mode": "pontos_voice",
-      "title": "Belediye başkanı Trabzon'da tedavi altına alındı!",
-      "url": "https://www.61saat.com/belediye-baskani-trabzonda-tedavi-altina-alindi",
+      "title": "Trabzon’da iki kitap okurla buluştu",
+      "url": "https://www.61saat.com/trabzonda-iki-kitap-okurla-bulustu",
       "source": "61Saat Trabzon",
-      "published": "Sat, 03 Oct 2026 20:25:00 +0300",
-      "base_score": 55,
+      "published": "Sun, 04 Oct 2026 13:32:00 +0300",
+      "base_score": 46,
       "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Gümüşhane",
-        "belediye başkanı",
+        "anıt",
         "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "35d73cf77c0e3b3ebac52953",
+      "external_id": "f1ac47cf155c90ca414c90f3",
       "mode": "pontos_voice",
-      "title": "Gün birlik olma günüdür! Başkan Genç'ten Ertuğrul Doğan'a destek",
-      "url": "https://www.61saat.com/gun-birlik-olma-gunudur-baskan-gencten-ertugrul-dogana-destek",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 03 Oct 2026 16:45:00 +0300",
-      "base_score": 53,
-      "candidate_score": 59,
+      "title": "“Trabzonspor şehitlerimizin kulübüdür” diyerek destek verdiler - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFFXNW9LN3ZMc3dqTmI4OTZJWEJGQmdtT0Q4UTNUd29WZGhxYzFmVHRzdFF4SnJkdzVyendua283YkpZMFVFMFdsOExVb1RDaF9CVHpMdHhYaGctVWlaeWF1Nk0zVHFZNjgyV3liNTU4NFZtYk1KUUpGMHVOXzBjVUFNSmR2c0ZSQ0VqYjlaOVd3REJ0M3M4clhrNVFtaUpU?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Sun, 04 Oct 2026 08:19:00 GMT",
+      "base_score": 42,
+      "candidate_score": 57,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
         "Trabzon",
         "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "ab7e3b577082ee2864cb4f78",
+      "mode": "pontos_voice",
+      "title": "Trabzon AB Bilgi Merkezi’nden Avrupa Sinema Günleri açıklaması “Film seçimlerini büyükelçilikler yapıyor”",
+      "url": "https://www.61saat.com/trabzon-ab-bilgi-merkezinden-avrupa-sinema-gunleri-aciklamasi-film-secimlerini-buyukelcilikler-yapiyor",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 04 Oct 2026 13:36:00 +0300",
+      "base_score": 40,
+      "candidate_score": 55,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "açıklama",
+        "Trabzon"
       ],
       "content_type": "news"
     }
