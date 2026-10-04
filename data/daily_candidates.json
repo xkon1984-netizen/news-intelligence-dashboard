@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T22:41:12.029759+00:00",
+  "generated_at": "2026-10-04T23:01:24.951577+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -135,6 +135,25 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Sun, 04 Oct 2026 14:17:18 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "4fdde702060af9ca41fc91b6",
+        "mode": "sportdog",
+        "title": "KK Bosna v PAOK 06/10/2026, Player stats - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1ZMSGtQMS1fbFlfYmhLOEtFSlZ1S08zdXRLNUlla2FzX3RyeTJGR2NRU2lQd2NNY0ZzWFNlTDh0V3BjX1VtcmhRZGFlMmRCUDNOWVBnbHdnUmJLVWNVOC1PczI1Ym5aa3ZBeXZXQXRqT21vRDRZVmtxOGY5azFvNHU0dEJxY2xuVXJZdkNBQWE2QzB3UmRLSDFfWmJ6dw?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 04 Oct 2026 11:36:36 GMT",
         "base_score": 31,
         "candidate_score": 45,
         "priority": "Normal",
@@ -366,7 +385,7 @@
         "source": "Haber61 Trabzon",
         "published": "Sun, 04 Oct 2026 19:55:49 GMT",
         "base_score": 53,
-        "candidate_score": 68,
+        "candidate_score": 63,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -542,6 +561,25 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Sun, 04 Oct 2026 14:17:18 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "4fdde702060af9ca41fc91b6",
+      "mode": "sportdog",
+      "title": "KK Bosna v PAOK 06/10/2026, Player stats - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1ZMSGtQMS1fbFlfYmhLOEtFSlZ1S08zdXRLNUlla2FzX3RyeTJGR2NRU2lQd2NNY0ZzWFNlTDh0V3BjX1VtcmhRZGFlMmRCUDNOWVBnbHdnUmJLVWNVOC1PczI1Ym5aa3ZBeXZXQXRqT21vRDRZVmtxOGY5azFvNHU0dEJxY2xuVXJZdkNBQWE2QzB3UmRLSDFfWmJ6dw?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 04 Oct 2026 11:36:36 GMT",
       "base_score": 31,
       "candidate_score": 45,
       "priority": "Normal",
@@ -769,7 +807,7 @@
       "source": "Haber61 Trabzon",
       "published": "Sun, 04 Oct 2026 19:55:49 GMT",
       "base_score": 53,
-      "candidate_score": 68,
+      "candidate_score": 63,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
