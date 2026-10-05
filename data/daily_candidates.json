@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T07:27:47.548972+00:00",
+  "generated_at": "2026-10-05T07:54:35.690071+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -24,6 +24,26 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "b5edb332fbcf8ffcb98d6ef6",
+        "mode": "sportdog",
+        "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 04 Oct 2026 20:19:07 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -145,6 +165,24 @@
     ],
     "geopolitico": [
       {
+        "external_id": "09d15b4176c1c44641d5fa0e",
+        "mode": "geopolitico",
+        "title": "Yunanistan: Güney Kıbrıs ile Yunanistan arasındaki elektrik bağlantısı, programlandığı şekilde ilerleyecek - Kıbrıs Postası",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN3BOdVBlaUFoeDR4SDV0N2FkbU1pSFRkbzdYQ0dZYmZQVnpDbmlfYnNFRUJaYU45OUhrSmtOVS1uamFMQmhrWm9ZWmtxcWJnTzRkZExlREhYN2U0UHJUX1lJYkZtZVZyRTNfZEptdkxXSENwamNTSzFkbzF5YXVDdGVEeWRCTl9qaVdGRUx0MDRjOHZWTzZSNnFLSl9ORWdLSGw3VmNickhkRDZrOGE2cXlRQXFxZTdsNG9kMjNhNW1DalZpMk44Y2VVU3dpQUJEbkctcS1xeGtyTERoOW4wZTVxSjlGZV90dU5qQnhKV3M?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Mon, 05 Oct 2026 06:00:00 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "elektrik bağlantısı"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "05257a507520c8b8a3b33e59",
         "mode": "geopolitico",
         "title": "Güney Kıbrıs ve Yunanistan enerji krizi için AB’den mali esneklik istiyor - Bugün Kıbrıs",
@@ -185,25 +223,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "cc67607d55ef6f493c0d2efe",
-        "mode": "geopolitico",
-        "title": "Adalar Denizi’nde Türkiye-Yunanistan NOTAM Gerilimi - ssbulten.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTFrZ2ZtWUdEenl2NU5rRkx6SVI2dllfaXp6MWVsQTNjZURXV3pkQzR2dExwTDZ1NUR2LXpsWTE0V3psbnlDZHEzWHUtN1doeE1xZXZ1OG9kUGJVeUNGSlBFYXJaSlhtQVNIRkRWTzZjQjVEOEdVc1ZEZFV4V1Nlb3E1dS1uZHVWX1QzZXViUnpzUjBsM3NvZmVB?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sun, 04 Oct 2026 22:05:13 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "NOTAM",
-          "gerilim",
-          "ada",
-          "adalar"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "2e12408d911b394a5d5ff09f",
         "mode": "geopolitico",
         "title": "Doğu Akdeniz’de GSI gerilimi: Türkiye’nin şartı Yunan basınının gündeminde - ankaranethaber.com",
@@ -219,25 +238,6 @@
           "Ankara",
           "gerilim",
           "GSI"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "160bb5a0444714bacf128cf2",
-        "mode": "geopolitico",
-        "title": "Ege'de savaş alarmı! Türkiye-Yunanistan arasında NOTAM krizi: “Tatbikat sıcak çatışmaya dönüşebilir” - A Haber",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVlCS0R3b0M0YWNHX2FWdUZ5cWZsZGtQM2FtNEVfM1dYSTRXTHNsOEVkWE91Z0thcExJUWZUbFJreEhBdFMyX2w3V0d0RWRqNzV1N1BKMWJYSWlReG5GajgwSjFJSmF5ZlVjUVBsUldCNmtHU3N1ZWY0TmJxY2ZJSzBmT3VvdzNFVl8wMzRUdC1IcDFx?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Sun, 04 Oct 2026 01:48:20 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Ege",
-          "NOTAM",
-          "kriz",
-          "tatbikat"
         ],
         "content_type": "turkey_greece"
       },
@@ -289,6 +289,22 @@
           "gerilim"
         ],
         "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "289af2ee57a684eada4dcc32",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - hurriyet.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUZHel9yN0hMczA3VHdWbDF0Q0psRkVya1FHTFl4NnJuVGh6QWtrZDhLZVhmVnVmM3EzOERwSGFIQ2E3X05McU9fTzQtbDloX1d3VkhKZWhKOFc2UUJQb3MzcUNUVzVtRUN4LUh2aUYxbXpDZFk3Q0MxZGhsNU52dTdLdjlOOGJfN01IZjMyS3B3VklTOGNrQU1Wb1RDNlJfMzQ1bW94SzY?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Mon, 05 Oct 2026 03:18:00 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -317,7 +333,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sun, 04 Oct 2026 13:50:29 GMT",
         "base_score": 75,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -360,6 +376,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "33b67aa8667c3dee5f20b91c",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor maçı öncesi Samsunspor’da flaş gelişme",
+        "url": "https://www.61saat.com/trabzonspor-maci-oncesi-samsunsporda-flas-gelisme",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 10:45:00 +0300",
+        "base_score": 46,
+        "candidate_score": 61,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "Karadeniz"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "b34d1c945e463b1d5cdd4e29",
         "mode": "pontos_voice",
         "title": "Trabzonlu olunca, hedef tahtasına koyuldu! Hikmet Öksüzoğlu kimdir?",
@@ -373,23 +406,6 @@
           "Trabzon",
           "tartışma",
           "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "da964d88340d5da96cb29c8b",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da flaş iddia! Çek çalındı, 1 milyon liraya yakın bedeli vardı",
-        "url": "https://www.61saat.com/trabzonda-flas-iddia-cek-calindi-1-milyon-liraya-yakin-bedeli-vardi",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 05 Oct 2026 09:29:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "dil"
         ],
         "content_type": "news"
       }
@@ -413,6 +429,26 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "b5edb332fbcf8ffcb98d6ef6",
+      "mode": "sportdog",
+      "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 04 Oct 2026 20:19:07 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -532,6 +568,24 @@
       "needs_second_source": true
     },
     {
+      "external_id": "09d15b4176c1c44641d5fa0e",
+      "mode": "geopolitico",
+      "title": "Yunanistan: Güney Kıbrıs ile Yunanistan arasındaki elektrik bağlantısı, programlandığı şekilde ilerleyecek - Kıbrıs Postası",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN3BOdVBlaUFoeDR4SDV0N2FkbU1pSFRkbzdYQ0dZYmZQVnpDbmlfYnNFRUJaYU45OUhrSmtOVS1uamFMQmhrWm9ZWmtxcWJnTzRkZExlREhYN2U0UHJUX1lJYkZtZVZyRTNfZEptdkxXSENwamNTSzFkbzF5YXVDdGVEeWRCTl9qaVdGRUx0MDRjOHZWTzZSNnFLSl9ORWdLSGw3VmNickhkRDZrOGE2cXlRQXFxZTdsNG9kMjNhNW1DalZpMk44Y2VVU3dpQUJEbkctcS1xeGtyTERoOW4wZTVxSjlGZV90dU5qQnhKV3M?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Mon, 05 Oct 2026 06:00:00 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "elektrik bağlantısı"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "05257a507520c8b8a3b33e59",
       "mode": "geopolitico",
       "title": "Güney Kıbrıs ve Yunanistan enerji krizi için AB’den mali esneklik istiyor - Bugün Kıbrıs",
@@ -572,25 +626,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "cc67607d55ef6f493c0d2efe",
-      "mode": "geopolitico",
-      "title": "Adalar Denizi’nde Türkiye-Yunanistan NOTAM Gerilimi - ssbulten.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTFrZ2ZtWUdEenl2NU5rRkx6SVI2dllfaXp6MWVsQTNjZURXV3pkQzR2dExwTDZ1NUR2LXpsWTE0V3psbnlDZHEzWHUtN1doeE1xZXZ1OG9kUGJVeUNGSlBFYXJaSlhtQVNIRkRWTzZjQjVEOEdVc1ZEZFV4V1Nlb3E1dS1uZHVWX1QzZXViUnpzUjBsM3NvZmVB?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sun, 04 Oct 2026 22:05:13 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "NOTAM",
-        "gerilim",
-        "ada",
-        "adalar"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "2e12408d911b394a5d5ff09f",
       "mode": "geopolitico",
       "title": "Doğu Akdeniz’de GSI gerilimi: Türkiye’nin şartı Yunan basınının gündeminde - ankaranethaber.com",
@@ -606,25 +641,6 @@
         "Ankara",
         "gerilim",
         "GSI"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "160bb5a0444714bacf128cf2",
-      "mode": "geopolitico",
-      "title": "Ege'de savaş alarmı! Türkiye-Yunanistan arasında NOTAM krizi: “Tatbikat sıcak çatışmaya dönüşebilir” - A Haber",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVlCS0R3b0M0YWNHX2FWdUZ5cWZsZGtQM2FtNEVfM1dYSTRXTHNsOEVkWE91Z0thcExJUWZUbFJreEhBdFMyX2w3V0d0RWRqNzV1N1BKMWJYSWlReG5GajgwSjFJSmF5ZlVjUVBsUldCNmtHU3N1ZWY0TmJxY2ZJSzBmT3VvdzNFVl8wMzRUdC1IcDFx?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Sun, 04 Oct 2026 01:48:20 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Ege",
-        "NOTAM",
-        "kriz",
-        "tatbikat"
       ],
       "content_type": "turkey_greece"
     },
@@ -678,6 +694,22 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "289af2ee57a684eada4dcc32",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - hurriyet.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUZHel9yN0hMczA3VHdWbDF0Q0psRkVya1FHTFl4NnJuVGh6QWtrZDhLZVhmVnVmM3EzOERwSGFIQ2E3X05McU9fTzQtbDloX1d3VkhKZWhKOFc2UUJQb3MzcUNUVzVtRUN4LUh2aUYxbXpDZFk3Q0MxZGhsNU52dTdLdjlOOGJfN01IZjMyS3B3VklTOGNrQU1Wb1RDNlJfMzQ1bW94SzY?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Mon, 05 Oct 2026 03:18:00 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
+    },
+    {
       "external_id": "fd0f5220dcde5819beb56998",
       "mode": "pontos_voice",
       "title": "Στην παρέλαση της 28ης Οκτωβρίου το Κέντρο Νεότητας «Παναγία Σουμελά» Κύπρου - pontosnews.gr",
@@ -702,7 +734,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sun, 04 Oct 2026 13:50:29 GMT",
       "base_score": 75,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -745,6 +777,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "33b67aa8667c3dee5f20b91c",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor maçı öncesi Samsunspor’da flaş gelişme",
+      "url": "https://www.61saat.com/trabzonspor-maci-oncesi-samsunsporda-flas-gelisme",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 10:45:00 +0300",
+      "base_score": 46,
+      "candidate_score": 61,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "Karadeniz"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "b34d1c945e463b1d5cdd4e29",
       "mode": "pontos_voice",
       "title": "Trabzonlu olunca, hedef tahtasına koyuldu! Hikmet Öksüzoğlu kimdir?",
@@ -758,23 +807,6 @@
         "Trabzon",
         "tartışma",
         "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "da964d88340d5da96cb29c8b",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da flaş iddia! Çek çalındı, 1 milyon liraya yakın bedeli vardı",
-      "url": "https://www.61saat.com/trabzonda-flas-iddia-cek-calindi-1-milyon-liraya-yakin-bedeli-vardi",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 05 Oct 2026 09:29:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "dil"
       ],
       "content_type": "news"
     }
