@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-10-05T11:41:03.033984+00:00",
+  "generated_at": "2026-10-05T12:03:47.330210+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "d83ab67a10a456fc59620736",
+        "mode": "sportdog",
+        "title": "Panathinaikos Chicago - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 04 Oct 2026 23:52:24 GMT",
+        "base_score": 56,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
       {
         "external_id": "bb584489dd34f5bb366d37d3",
         "mode": "sportdog",
@@ -28,9 +48,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "8914cc9f6bae1240b416a277",
+        "external_id": "b5edb332fbcf8ffcb98d6ef6",
         "mode": "sportdog",
-        "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - fotmob.com",
+        "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Sun, 04 Oct 2026 20:19:07 GMT",
@@ -45,25 +65,6 @@
         "editorial_type": "Team News",
         "team": "PAOK",
         "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "aa808a4d318ac4004ac795b4",
-        "mode": "sportdog",
-        "title": "PAOK v BC Roma 03/11/2026, Player stats - Flashscore.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkZHOUU5M0l6Qm9NQS1qVTY2eEdJTkNoT2pOdmRXNEdQbG9Ncnd3eWJLXzZqbi1MRGNKR1ZiUHZHa3RhQnN3RGlUU2JGTGM2ZldPSFJ0QmtWRTBEMzV1RHlEeWx4dUFyVFBGZjhjeEN6d1lCb0RUWkJQZV9NeGNtSmxqS0hSWGh2c1R1VnNKVmlpd1FsNjdYcHZBUUw?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sun, 04 Oct 2026 23:13:38 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -86,12 +87,31 @@
         "needs_second_source": true
       },
       {
-        "external_id": "c4f6d73992f7b7412ef42491",
+        "external_id": "73b3917a45c6a2959e7d6962",
         "mode": "sportdog",
-        "title": "Motiejunas officially moves to PAOK for the rest of the season - eurohoops.net",
+        "title": "Motiejunas officially moves to PAOK for the rest of the season - Eurohoops",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Sun, 04 Oct 2026 14:17:18 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "4fdde702060af9ca41fc91b6",
+        "mode": "sportdog",
+        "title": "KK Bosna v PAOK 06/10/2026, Player stats - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1ZMSGtQMS1fbFlfYmhLOEtFSlZ1S08zdXRLNUlla2FzX3RyeTJGR2NRU2lQd2NNY0ZzWFNlTDh0V3BjX1VtcmhRZGFlMmRCUDNOWVBnbHdnUmJLVWNVOC1PczI1Ym5aa3ZBeXZXQXRqT21vRDRZVmtxOGY5azFvNHU0dEJxY2xuVXJZdkNBQWE2QzB3UmRLSDFfWmJ6dw?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 04 Oct 2026 11:36:36 GMT",
         "base_score": 31,
         "candidate_score": 42,
         "priority": "Normal",
@@ -256,22 +276,20 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "999fb0cb2d8ed5fb48086977",
+        "external_id": "284cfa48c5475bafe93d456d",
         "mode": "geopolitico",
-        "title": "Με «καυτή» ατζέντα ο Ρούμπιο στην Αθήνα: Ενέργεια, καλώδιο GSI, Τουρκία και F-35 - Ανιχνεύσεις.gr",
-        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSHJFeS03WDY1cm1VOWp6bmEtSXVCNC1BRU41TDMyMWEwTzFwWE8zMmQyeGFIWG5za3Bqak5nV2dWejNXRHdVMTgtSEMzNVd0T096RVZKWFBrdHdldXNfTlNaY3hydGV1NERBa1V5X295TWZMRFBxZ09Fd1Fac0NLQUdZZTkxMlZ4bTZ5ZWFNVnhZSnhxcW5tZlhaRUJDeFpDX3lGNEx5enFQaXozWFEybVBuaVd3Wk1OOVVQckVsbm10UHdMWWJ3Zm1DYk9mOUlpT1FQSTNEaEZrdjZzT1B2T0dXaFBxOWtxak5rUEkwNGx3N0U3VGNvUHdBT21NNHZSZ2t4YmhZbkVuWWJHbmxsOTNMczJjR0dGTlVPOFRfdFNHVmlWUWZybXpxVGFTVjJYN3E0c1dLRnhzQQ?oc=5",
-        "source": "Greek Defence Security Watch",
-        "published": "Mon, 05 Oct 2026 09:02:00 GMT",
-        "base_score": 71,
-        "candidate_score": 86,
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi kendisini tekzip etti: AKP, fon vurgunu için Meclis araştırmasından vazgeçti - birgun.net",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWcyV0Rxa2NMUzRmVEJTbG9KeFIybW9mbzVTcHRXYkxpSkpQWDhwUTZmT01TOUZzR090b0FpZ25LWmttWS11QmZkLTE0dVhCLUF4TWNjWXQ1OWhVeDdKS1luZFp4eG9Mcno3QkpNS2kyZGhsVDh1eTFTZ051RkV6SEo1YVl3RmlKQlExcmVqc25kdEhzZUxMb0dudHp3dk1lU1h6MG9OdkVsT3h6d1BLLUE5c2lNZ2tNZjRpSVJrMmFhX2FVaXc?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Mon, 05 Oct 2026 08:24:00 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
-          "GSI",
-          "F-35",
-          "F-35",
-          "GSI"
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
         ],
-        "content_type": "news"
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -324,6 +342,42 @@
         "content_type": "news"
       },
       {
+        "external_id": "0e63f419bc15f520e8ca08ba",
+        "mode": "pontos_voice",
+        "title": "Süleyman Soylu, Trabzonlularla buluştu! Fon vurgunuyla ilgili çok sert sözler...",
+        "url": "https://www.61saat.com/suleyman-soylu-trabzonlularla-bulustu-fon-vurgunuyla-ilgili-cok-sert-sozler",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 14:40:00 +0300",
+        "base_score": 62,
+        "candidate_score": 77,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "milletvekili",
+          "bakan",
+          "tepki",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "57f8508b2deeb51c7a550d5c",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da mimarlığın değişmeyen sorunları masaya yatırıldı",
+        "url": "https://www.61saat.com/trabzonda-mimarligin-degismeyen-sorunlari-masaya-yatirildi",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 14:44:00 +0300",
+        "base_score": 46,
+        "candidate_score": 61,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "kültür",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "da138abc80d558265b64581c",
         "mode": "pontos_voice",
         "title": "Genç mimarlara Trabzon’dan destek: Yeni akademi hayata geçiyor",
@@ -339,44 +393,30 @@
           "Trabzon"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "63192e15f89958d6d027e73d",
-        "mode": "pontos_voice",
-        "title": "Belgeselin yönetmeni anlattı: Trabzon’daki 180 yıllık dostluk ekrana taşınıyor",
-        "url": "https://www.61saat.com/belgeselin-yonetmeni-anlatti-trabzondaki-180-yillik-dostluk-ekrana-tasiniyor",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 05 Oct 2026 14:29:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "93ea3c84373e55d5f4d4bc55",
-        "mode": "pontos_voice",
-        "title": "Olası bir depreme ne kadar hazırız? YENİ Partili Suiçmez'den soru önergesi",
-        "url": "https://www.61saat.com/olasi-bir-depreme-ne-kadar-haziriz-yeni-partili-suicmezden-soru-onergesi",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 05 Oct 2026 14:24:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "milletvekili",
-          "Trabzon"
-        ],
-        "content_type": "news"
       }
     ]
   },
   "items": [
+    {
+      "external_id": "d83ab67a10a456fc59620736",
+      "mode": "sportdog",
+      "title": "Panathinaikos Chicago - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 04 Oct 2026 23:52:24 GMT",
+      "base_score": 56,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
     {
       "external_id": "bb584489dd34f5bb366d37d3",
       "mode": "sportdog",
@@ -398,9 +438,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "8914cc9f6bae1240b416a277",
+      "external_id": "b5edb332fbcf8ffcb98d6ef6",
       "mode": "sportdog",
-      "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - fotmob.com",
+      "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Sun, 04 Oct 2026 20:19:07 GMT",
@@ -415,25 +455,6 @@
       "editorial_type": "Team News",
       "team": "PAOK",
       "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "aa808a4d318ac4004ac795b4",
-      "mode": "sportdog",
-      "title": "PAOK v BC Roma 03/11/2026, Player stats - Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkZHOUU5M0l6Qm9NQS1qVTY2eEdJTkNoT2pOdmRXNEdQbG9Ncnd3eWJLXzZqbi1MRGNKR1ZiUHZHa3RhQnN3RGlUU2JGTGM2ZldPSFJ0QmtWRTBEMzV1RHlEeWx4dUFyVFBGZjhjeEN6d1lCb0RUWkJQZV9NeGNtSmxqS0hSWGh2c1R1VnNKVmlpd1FsNjdYcHZBUUw?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sun, 04 Oct 2026 23:13:38 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -456,12 +477,31 @@
       "needs_second_source": true
     },
     {
-      "external_id": "c4f6d73992f7b7412ef42491",
+      "external_id": "73b3917a45c6a2959e7d6962",
       "mode": "sportdog",
-      "title": "Motiejunas officially moves to PAOK for the rest of the season - eurohoops.net",
+      "title": "Motiejunas officially moves to PAOK for the rest of the season - Eurohoops",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Sun, 04 Oct 2026 14:17:18 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "4fdde702060af9ca41fc91b6",
+      "mode": "sportdog",
+      "title": "KK Bosna v PAOK 06/10/2026, Player stats - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1ZMSGtQMS1fbFlfYmhLOEtFSlZ1S08zdXRLNUlla2FzX3RyeTJGR2NRU2lQd2NNY0ZzWFNlTDh0V3BjX1VtcmhRZGFlMmRCUDNOWVBnbHdnUmJLVWNVOC1PczI1Ym5aa3ZBeXZXQXRqT21vRDRZVmtxOGY5azFvNHU0dEJxY2xuVXJZdkNBQWE2QzB3UmRLSDFfWmJ6dw?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 04 Oct 2026 11:36:36 GMT",
       "base_score": 31,
       "candidate_score": 42,
       "priority": "Normal",
@@ -624,22 +664,20 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "999fb0cb2d8ed5fb48086977",
+      "external_id": "284cfa48c5475bafe93d456d",
       "mode": "geopolitico",
-      "title": "Με «καυτή» ατζέντα ο Ρούμπιο στην Αθήνα: Ενέργεια, καλώδιο GSI, Τουρκία και F-35 - Ανιχνεύσεις.gr",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSHJFeS03WDY1cm1VOWp6bmEtSXVCNC1BRU41TDMyMWEwTzFwWE8zMmQyeGFIWG5za3Bqak5nV2dWejNXRHdVMTgtSEMzNVd0T096RVZKWFBrdHdldXNfTlNaY3hydGV1NERBa1V5X295TWZMRFBxZ09Fd1Fac0NLQUdZZTkxMlZ4bTZ5ZWFNVnhZSnhxcW5tZlhaRUJDeFpDX3lGNEx5enFQaXozWFEybVBuaVd3Wk1OOVVQckVsbm10UHdMWWJ3Zm1DYk9mOUlpT1FQSTNEaEZrdjZzT1B2T0dXaFBxOWtxak5rUEkwNGx3N0U3VGNvUHdBT21NNHZSZ2t4YmhZbkVuWWJHbmxsOTNMczJjR0dGTlVPOFRfdFNHVmlWUWZybXpxVGFTVjJYN3E0c1dLRnhzQQ?oc=5",
-      "source": "Greek Defence Security Watch",
-      "published": "Mon, 05 Oct 2026 09:02:00 GMT",
-      "base_score": 71,
-      "candidate_score": 86,
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi kendisini tekzip etti: AKP, fon vurgunu için Meclis araştırmasından vazgeçti - birgun.net",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWcyV0Rxa2NMUzRmVEJTbG9KeFIybW9mbzVTcHRXYkxpSkpQWDhwUTZmT01TOUZzR090b0FpZ25LWmttWS11QmZkLTE0dVhCLUF4TWNjWXQ1OWhVeDdKS1luZFp4eG9Mcno3QkpNS2kyZGhsVDh1eTFTZ051RkV6SEo1YVl3RmlKQlExcmVqc25kdEhzZUxMb0dudHp3dk1lU1h6MG9OdkVsT3h6d1BLLUE5c2lNZ2tNZjRpSVJrMmFhX2FVaXc?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Mon, 05 Oct 2026 08:24:00 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
-        "GSI",
-        "F-35",
-        "F-35",
-        "GSI"
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
       ],
-      "content_type": "news"
+      "content_type": "analyst"
     },
     {
       "external_id": "ff9dc912e8dff7ea75b11e2d",
@@ -690,6 +728,42 @@
       "content_type": "news"
     },
     {
+      "external_id": "0e63f419bc15f520e8ca08ba",
+      "mode": "pontos_voice",
+      "title": "Süleyman Soylu, Trabzonlularla buluştu! Fon vurgunuyla ilgili çok sert sözler...",
+      "url": "https://www.61saat.com/suleyman-soylu-trabzonlularla-bulustu-fon-vurgunuyla-ilgili-cok-sert-sozler",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 14:40:00 +0300",
+      "base_score": 62,
+      "candidate_score": 77,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "milletvekili",
+        "bakan",
+        "tepki",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "57f8508b2deeb51c7a550d5c",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da mimarlığın değişmeyen sorunları masaya yatırıldı",
+      "url": "https://www.61saat.com/trabzonda-mimarligin-degismeyen-sorunlari-masaya-yatirildi",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 14:44:00 +0300",
+      "base_score": 46,
+      "candidate_score": 61,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "kültür",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "da138abc80d558265b64581c",
       "mode": "pontos_voice",
       "title": "Genç mimarlara Trabzon’dan destek: Yeni akademi hayata geçiyor",
@@ -702,40 +776,6 @@
       "matched_keywords": [
         "Trabzon",
         "kültür",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "63192e15f89958d6d027e73d",
-      "mode": "pontos_voice",
-      "title": "Belgeselin yönetmeni anlattı: Trabzon’daki 180 yıllık dostluk ekrana taşınıyor",
-      "url": "https://www.61saat.com/belgeselin-yonetmeni-anlatti-trabzondaki-180-yillik-dostluk-ekrana-tasiniyor",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 05 Oct 2026 14:29:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "93ea3c84373e55d5f4d4bc55",
-      "mode": "pontos_voice",
-      "title": "Olası bir depreme ne kadar hazırız? YENİ Partili Suiçmez'den soru önergesi",
-      "url": "https://www.61saat.com/olasi-bir-depreme-ne-kadar-haziriz-yeni-partili-suicmezden-soru-onergesi",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 05 Oct 2026 14:24:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "milletvekili",
         "Trabzon"
       ],
       "content_type": "news"
