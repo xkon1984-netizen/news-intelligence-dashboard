@@ -1,32 +1,12 @@
 {
-  "generated_at": "2026-10-05T08:28:42.649145+00:00",
+  "generated_at": "2026-10-05T08:55:03.270719+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "d83ab67a10a456fc59620736",
-        "mode": "sportdog",
-        "title": "Panathinaikos Chicago - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sun, 04 Oct 2026 23:52:24 GMT",
-        "base_score": 56,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
       {
         "external_id": "bb584489dd34f5bb366d37d3",
         "mode": "sportdog",
@@ -242,6 +222,22 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "284cfa48c5475bafe93d456d",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi kendisini tekzip etti: AKP, fon vurgunu için Meclis araştırmasından vazgeçti - birgun.net",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWcyV0Rxa2NMUzRmVEJTbG9KeFIybW9mbzVTcHRXYkxpSkpQWDhwUTZmT01TOUZzR090b0FpZ25LWmttWS11QmZkLTE0dVhCLUF4TWNjWXQ1OWhVeDdKS1luZFp4eG9Mcno3QkpNS2kyZGhsVDh1eTFTZ051RkV6SEo1YVl3RmlKQlExcmVqc25kdEhzZUxMb0dudHp3dk1lU1h6MG9OdkVsT3h6d1BLLUE5c2lNZ2tNZjRpSVJrMmFhX2FVaXc?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Mon, 05 Oct 2026 08:24:00 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
+      },
+      {
         "external_id": "10210f541197950a521f1270",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
@@ -289,39 +285,25 @@
           "gerilim"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "52ccbf5aafc0451e7bad5af7",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUZHel9yN0hMczA3VHdWbDF0Q0psRkVya1FHTFl4NnJuVGh6QWtrZDhLZVhmVnVmM3EzOERwSGFIQ2E3X05McU9fTzQtbDloX1d3VkhKZWhKOFc2UUJQb3MzcUNUVzVtRUN4LUh2aUYxbXpDZFk3Q0MxZGhsNU52dTdLdjlOOGJfN01IZjMyS3B3VklTOGNrQU1Wb1RDNlJfMzQ1bW94SzY?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Mon, 05 Oct 2026 03:18:00 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
       {
-        "external_id": "fd0f5220dcde5819beb56998",
+        "external_id": "0ad9064a21f1034e6d1ccf54",
         "mode": "pontos_voice",
-        "title": "Στην παρέλαση της 28ης Οκτωβρίου το Κέντρο Νεότητας «Παναγία Σουμελά» Κύπρου - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEx0OTJxMDhuX1RkQmZUOEpWNUFqSzVPY1hONmFDa1dJR1Vya090VFZhWk5UdnBrcmRURTlzQS03RkF2S0I5OWZFZWp1bEZLd29NbDI4bF9QSmc0NXVjNk1tRDNQQUt1ckJNN1NTS1JUcEtOWEpKYm41eW9oTzdpXzB6N1lNTzBLeVJ3U1p3Y2libE9WdFo1OGR5NEo1VjlDc2owSk9McFdfdFdK?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Sat, 03 Oct 2026 08:33:25 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
+        "title": "Doğu Karadeniz'den yapılan ihracat 1 milyar 290 milyon doları aştı",
+        "url": "https://www.61saat.com/dogu-karadenizden-yapilan-ihracat-1-milyar-290-milyon-dolari-asti",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 11:33:00 +0300",
+        "base_score": 67,
+        "candidate_score": 82,
+        "priority": "High",
         "matched_keywords": [
-          "Pontos",
-          "Παναγία Σουμελά",
-          "Σουμελά"
+          "Trabzon",
+          "Gümüşhane",
+          "Rize",
+          "Trabzon",
+          "Karadeniz"
         ],
         "content_type": "news"
       },
@@ -376,35 +358,35 @@
         "content_type": "news"
       },
       {
-        "external_id": "33b67aa8667c3dee5f20b91c",
+        "external_id": "fba29c73b9d0ed9509bddc7d",
         "mode": "pontos_voice",
-        "title": "Trabzonspor maçı öncesi Samsunspor’da flaş gelişme",
-        "url": "https://www.61saat.com/trabzonspor-maci-oncesi-samsunsporda-flas-gelisme",
+        "title": "“Davet edilmek itibar ölçüsü değil” Trabzon'da Ortahisar Belediyesine sert tepki!",
+        "url": "https://www.61saat.com/davet-edilmek-itibar-olcusu-degil-trabzonda-ortahisar-belediyesine-sert-tepki",
         "source": "61Saat Trabzon",
-        "published": "Mon, 05 Oct 2026 10:45:00 +0300",
-        "base_score": 46,
-        "candidate_score": 61,
+        "published": "Mon, 05 Oct 2026 11:35:00 +0300",
+        "base_score": 53,
+        "candidate_score": 68,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
+          "tepki",
           "Trabzon",
-          "Karadeniz"
+          "dil"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "b34d1c945e463b1d5cdd4e29",
+        "external_id": "32952a5cac150a0ff0c02637",
         "mode": "pontos_voice",
-        "title": "Trabzonlu olunca, hedef tahtasına koyuldu! Hikmet Öksüzoğlu kimdir?",
-        "url": "https://www.61saat.com/trabzonlu-olunca-hedef-tahtasina-koyuldu-hikmet-oksuzoglu-kimdir",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 05 Oct 2026 09:34:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
+        "title": "Eski Trabzonsporlu için özel çalışma! Teknik direktörü devreye girdi - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFBZeG5ONXE4LTBNWTdWdjBCRlJnMDN1eEY1Y0MyUjBwZ3dCMDU2WENCeTVyZU1abHNPVlV6X0ktbVVwaHpYcDFiU0Q2VjF5NDhyOVBoLXREd09xbHB0eHpXVlptaUVkbDI3ZHlmbUYyOFEzRWtYVklrczM5RXItampYRUE4OXBCeWlXX0pJUkhlQ1ctUXEtcS1uSjJYUnEydVFBcUQzeVBXVERsWUY4?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Mon, 05 Oct 2026 08:36:17 GMT",
+        "base_score": 33,
+        "candidate_score": 48,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "tartışma",
           "Trabzon"
         ],
         "content_type": "news"
@@ -412,26 +394,6 @@
     ]
   },
   "items": [
-    {
-      "external_id": "d83ab67a10a456fc59620736",
-      "mode": "sportdog",
-      "title": "Panathinaikos Chicago - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sun, 04 Oct 2026 23:52:24 GMT",
-      "base_score": 56,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
     {
       "external_id": "bb584489dd34f5bb366d37d3",
       "mode": "sportdog",
@@ -645,6 +607,22 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "284cfa48c5475bafe93d456d",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi kendisini tekzip etti: AKP, fon vurgunu için Meclis araştırmasından vazgeçti - birgun.net",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWcyV0Rxa2NMUzRmVEJTbG9KeFIybW9mbzVTcHRXYkxpSkpQWDhwUTZmT01TOUZzR090b0FpZ25LWmttWS11QmZkLTE0dVhCLUF4TWNjWXQ1OWhVeDdKS1luZFp4eG9Mcno3QkpNS2kyZGhsVDh1eTFTZ051RkV6SEo1YVl3RmlKQlExcmVqc25kdEhzZUxMb0dudHp3dk1lU1h6MG9OdkVsT3h6d1BLLUE5c2lNZ2tNZjRpSVJrMmFhX2FVaXc?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Mon, 05 Oct 2026 08:24:00 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
+    },
+    {
       "external_id": "10210f541197950a521f1270",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
@@ -694,35 +672,21 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "52ccbf5aafc0451e7bad5af7",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUZHel9yN0hMczA3VHdWbDF0Q0psRkVya1FHTFl4NnJuVGh6QWtrZDhLZVhmVnVmM3EzOERwSGFIQ2E3X05McU9fTzQtbDloX1d3VkhKZWhKOFc2UUJQb3MzcUNUVzVtRUN4LUh2aUYxbXpDZFk3Q0MxZGhsNU52dTdLdjlOOGJfN01IZjMyS3B3VklTOGNrQU1Wb1RDNlJfMzQ1bW94SzY?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Mon, 05 Oct 2026 03:18:00 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
+      "external_id": "0ad9064a21f1034e6d1ccf54",
+      "mode": "pontos_voice",
+      "title": "Doğu Karadeniz'den yapılan ihracat 1 milyar 290 milyon doları aştı",
+      "url": "https://www.61saat.com/dogu-karadenizden-yapilan-ihracat-1-milyar-290-milyon-dolari-asti",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 11:33:00 +0300",
+      "base_score": 67,
+      "candidate_score": 82,
       "priority": "High",
       "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "fd0f5220dcde5819beb56998",
-      "mode": "pontos_voice",
-      "title": "Στην παρέλαση της 28ης Οκτωβρίου το Κέντρο Νεότητας «Παναγία Σουμελά» Κύπρου - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEx0OTJxMDhuX1RkQmZUOEpWNUFqSzVPY1hONmFDa1dJR1Vya090VFZhWk5UdnBrcmRURTlzQS03RkF2S0I5OWZFZWp1bEZLd29NbDI4bF9QSmc0NXVjNk1tRDNQQUt1ckJNN1NTS1JUcEtOWEpKYm41eW9oTzdpXzB6N1lNTzBLeVJ3U1p3Y2libE9WdFo1OGR5NEo1VjlDc2owSk9McFdfdFdK?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Sat, 03 Oct 2026 08:33:25 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "Παναγία Σουμελά",
-        "Σουμελά"
+        "Trabzon",
+        "Gümüşhane",
+        "Rize",
+        "Trabzon",
+        "Karadeniz"
       ],
       "content_type": "news"
     },
@@ -777,35 +741,35 @@
       "content_type": "news"
     },
     {
-      "external_id": "33b67aa8667c3dee5f20b91c",
+      "external_id": "fba29c73b9d0ed9509bddc7d",
       "mode": "pontos_voice",
-      "title": "Trabzonspor maçı öncesi Samsunspor’da flaş gelişme",
-      "url": "https://www.61saat.com/trabzonspor-maci-oncesi-samsunsporda-flas-gelisme",
+      "title": "“Davet edilmek itibar ölçüsü değil” Trabzon'da Ortahisar Belediyesine sert tepki!",
+      "url": "https://www.61saat.com/davet-edilmek-itibar-olcusu-degil-trabzonda-ortahisar-belediyesine-sert-tepki",
       "source": "61Saat Trabzon",
-      "published": "Mon, 05 Oct 2026 10:45:00 +0300",
-      "base_score": 46,
-      "candidate_score": 61,
+      "published": "Mon, 05 Oct 2026 11:35:00 +0300",
+      "base_score": 53,
+      "candidate_score": 68,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
+        "tepki",
         "Trabzon",
-        "Karadeniz"
+        "dil"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "b34d1c945e463b1d5cdd4e29",
+      "external_id": "32952a5cac150a0ff0c02637",
       "mode": "pontos_voice",
-      "title": "Trabzonlu olunca, hedef tahtasına koyuldu! Hikmet Öksüzoğlu kimdir?",
-      "url": "https://www.61saat.com/trabzonlu-olunca-hedef-tahtasina-koyuldu-hikmet-oksuzoglu-kimdir",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 05 Oct 2026 09:34:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
+      "title": "Eski Trabzonsporlu için özel çalışma! Teknik direktörü devreye girdi - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFBZeG5ONXE4LTBNWTdWdjBCRlJnMDN1eEY1Y0MyUjBwZ3dCMDU2WENCeTVyZU1abHNPVlV6X0ktbVVwaHpYcDFiU0Q2VjF5NDhyOVBoLXREd09xbHB0eHpXVlptaUVkbDI3ZHlmbUYyOFEzRWtYVklrczM5RXItampYRUE4OXBCeWlXX0pJUkhlQ1ctUXEtcS1uSjJYUnEydVFBcUQzeVBXVERsWUY4?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Mon, 05 Oct 2026 08:36:17 GMT",
+      "base_score": 33,
+      "candidate_score": 48,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "tartışma",
         "Trabzon"
       ],
       "content_type": "news"
