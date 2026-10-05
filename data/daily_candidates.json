@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-05T10:27:57.192486+00:00",
+  "generated_at": "2026-10-05T10:54:28.151971+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "d81306647d5ecdfc0563f5c8",
+        "external_id": "d83ab67a10a456fc59620736",
         "mode": "sportdog",
-        "title": "Panathinaikos Chicago - transfermarkt.com",
+        "title": "Panathinaikos Chicago - Transfermarkt",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
         "source": "Panathinaikos Rumour Watch",
         "published": "Sun, 04 Oct 2026 23:52:24 GMT",
@@ -48,9 +48,29 @@
         "needs_second_source": true
       },
       {
-        "external_id": "d9cbf34ebd497da75bc74c71",
+        "external_id": "8914cc9f6bae1240b416a277",
         "mode": "sportdog",
-        "title": "Goals per 90 - Aris Thessaloniki stats for Super League 1 2025/2026 - FotMob",
+        "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - fotmob.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 04 Oct 2026 20:19:07 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "8de1837c00c85a8fbd5c482f",
+        "mode": "sportdog",
+        "title": "Goals per 90 - Aris Thessaloniki stats for Super League 1 2025/2026 - fotmob.com",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalNUb1M4TUd2TDFHVkd3MVFoQVIybXZ1VnBIbWpuVW81ZTMzTXZsSjNiTlk5MWQyYlkyLUlZeVJPSWpEcTEyZzluREV2N20wOEVCaGNzSm9UX0JQXzRkb2xULVgwaXd4T2tCeHp1Yl9sWWdmekJ0OGZvdGFaUVl6c2F4b1d4YkNUc3M4YnlWSnQ4VjBCdzBMTjBBYVFqcUxZM1hUYTVpNGhBM3pLNzA3d01vRUotclgy?oc=5",
         "source": "Aris Rumour Watch",
         "published": "Sat, 03 Oct 2026 23:34:58 GMT",
@@ -87,25 +107,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "aa808a4d318ac4004ac795b4",
-        "mode": "sportdog",
-        "title": "PAOK v BC Roma 03/11/2026, Player stats - Flashscore.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkZHOUU5M0l6Qm9NQS1qVTY2eEdJTkNoT2pOdmRXNEdQbG9Ncnd3eWJLXzZqbi1MRGNKR1ZiUHZHa3RhQnN3RGlUU2JGTGM2ZldPSFJ0QmtWRTBEMzV1RHlEeWx4dUFyVFBGZjhjeEN6d1lCb0RUWkJQZV9NeGNtSmxqS0hSWGh2c1R1VnNKVmlpd1FsNjdYcHZBUUw?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sun, 04 Oct 2026 23:13:38 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "58618a298b738e316d3c88d6",
         "mode": "sportdog",
         "title": "Donatas Motiejunas Joins PAOK - paokbc.gr",
@@ -125,12 +126,31 @@
         "needs_second_source": true
       },
       {
-        "external_id": "73b3917a45c6a2959e7d6962",
+        "external_id": "c4f6d73992f7b7412ef42491",
         "mode": "sportdog",
-        "title": "Motiejunas officially moves to PAOK for the rest of the season - Eurohoops",
+        "title": "Motiejunas officially moves to PAOK for the rest of the season - eurohoops.net",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Sun, 04 Oct 2026 14:17:18 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "4fdde702060af9ca41fc91b6",
+        "mode": "sportdog",
+        "title": "KK Bosna v PAOK 06/10/2026, Player stats - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1ZMSGtQMS1fbFlfYmhLOEtFSlZ1S08zdXRLNUlla2FzX3RyeTJGR2NRU2lQd2NNY0ZzWFNlTDh0V3BjX1VtcmhRZGFlMmRCUDNOWVBnbHdnUmJLVWNVOC1PczI1Ym5aa3ZBeXZXQXRqT21vRDRZVmtxOGY5azFvNHU0dEJxY2xuVXJZdkNBQWE2QzB3UmRLSDFfWmJ6dw?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 04 Oct 2026 11:36:36 GMT",
         "base_score": 31,
         "candidate_score": 42,
         "priority": "Normal",
@@ -223,9 +243,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "acea9f0b0b696d57382e612d",
+        "external_id": "07a2a6a1477768f745a855e4",
         "mode": "geopolitico",
-        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - greekcitytimes.com",
+        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
         "source": "Cyprus Eastern Mediterranean Watch",
         "published": "Mon, 05 Oct 2026 09:44:32 GMT",
@@ -400,17 +420,18 @@
         "content_type": "news"
       },
       {
-        "external_id": "d06049f9e69fc70d7b6a5443",
+        "external_id": "e0f0fa94571e00153bfd022b",
         "mode": "pontos_voice",
-        "title": "Trabzon’da yağışlı hava etkili olacak! Meteoroloji haftalık hava durumu tahminini açıkladı - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbE5hV0ZFX0lxUlhhNS03aEdnSUI5SzJ2MnMxT2JRRjRhTEFKczdYS3N3dVRrSE9JYTg4QnA0VnlCSUplTzZkcktoTU5aRmpLLUJTbXoyblAyWkc1Q2dVOEFtcE5YbGliZzZ6ZlhkTFRsUlg2OGZjLXRES0lMWVpYdDl4NXZhM1VUREtSTndodnBMdjhOOTVRSFltcmRJRVZ5SDJkTjZ5R1pfZjRvT0FfbmFTS3pZT284Z3hndEVSQnpCSlQ5SnNn?oc=5",
+        "title": "Trabzonspor'un golcü ismi sakatlandı! Açıklama geldi - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTBYdXZfUVM3WTNIUW5wblg2d1ktay1JdlltdU1RM1JhcjFtbVNZR19OM1Z4dUhVMjVMRXZjdzU1XzZCMUxiUTM2bWdNdm1mWkJyd3hpVHE0VEFEcnFoRHpkbXNHa1FhSGpHWkVpOElVaG1qbmQybEZOcnRxZVExM1Rfc1RQSkJfQWJGWlNJSUZLT1ZWQUI5cWN3?oc=5",
         "source": "Haber61 Trabzon",
-        "published": "Mon, 05 Oct 2026 09:26:44 GMT",
-        "base_score": 33,
-        "candidate_score": 48,
+        "published": "Mon, 05 Oct 2026 10:29:39 GMT",
+        "base_score": 38,
+        "candidate_score": 53,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
+          "açıklama",
           "Trabzon"
         ],
         "content_type": "news"
@@ -419,9 +440,9 @@
   },
   "items": [
     {
-      "external_id": "d81306647d5ecdfc0563f5c8",
+      "external_id": "d83ab67a10a456fc59620736",
       "mode": "sportdog",
-      "title": "Panathinaikos Chicago - transfermarkt.com",
+      "title": "Panathinaikos Chicago - Transfermarkt",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
       "source": "Panathinaikos Rumour Watch",
       "published": "Sun, 04 Oct 2026 23:52:24 GMT",
@@ -459,9 +480,29 @@
       "needs_second_source": true
     },
     {
-      "external_id": "d9cbf34ebd497da75bc74c71",
+      "external_id": "8914cc9f6bae1240b416a277",
       "mode": "sportdog",
-      "title": "Goals per 90 - Aris Thessaloniki stats for Super League 1 2025/2026 - FotMob",
+      "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - fotmob.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 04 Oct 2026 20:19:07 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "8de1837c00c85a8fbd5c482f",
+      "mode": "sportdog",
+      "title": "Goals per 90 - Aris Thessaloniki stats for Super League 1 2025/2026 - fotmob.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalNUb1M4TUd2TDFHVkd3MVFoQVIybXZ1VnBIbWpuVW81ZTMzTXZsSjNiTlk5MWQyYlkyLUlZeVJPSWpEcTEyZzluREV2N20wOEVCaGNzSm9UX0JQXzRkb2xULVgwaXd4T2tCeHp1Yl9sWWdmekJ0OGZvdGFaUVl6c2F4b1d4YkNUc3M4YnlWSnQ4VjBCdzBMTjBBYVFqcUxZM1hUYTVpNGhBM3pLNzA3d01vRUotclgy?oc=5",
       "source": "Aris Rumour Watch",
       "published": "Sat, 03 Oct 2026 23:34:58 GMT",
@@ -498,25 +539,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "aa808a4d318ac4004ac795b4",
-      "mode": "sportdog",
-      "title": "PAOK v BC Roma 03/11/2026, Player stats - Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkZHOUU5M0l6Qm9NQS1qVTY2eEdJTkNoT2pOdmRXNEdQbG9Ncnd3eWJLXzZqbi1MRGNKR1ZiUHZHa3RhQnN3RGlUU2JGTGM2ZldPSFJ0QmtWRTBEMzV1RHlEeWx4dUFyVFBGZjhjeEN6d1lCb0RUWkJQZV9NeGNtSmxqS0hSWGh2c1R1VnNKVmlpd1FsNjdYcHZBUUw?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sun, 04 Oct 2026 23:13:38 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "58618a298b738e316d3c88d6",
       "mode": "sportdog",
       "title": "Donatas Motiejunas Joins PAOK - paokbc.gr",
@@ -536,12 +558,31 @@
       "needs_second_source": true
     },
     {
-      "external_id": "73b3917a45c6a2959e7d6962",
+      "external_id": "c4f6d73992f7b7412ef42491",
       "mode": "sportdog",
-      "title": "Motiejunas officially moves to PAOK for the rest of the season - Eurohoops",
+      "title": "Motiejunas officially moves to PAOK for the rest of the season - eurohoops.net",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Sun, 04 Oct 2026 14:17:18 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "4fdde702060af9ca41fc91b6",
+      "mode": "sportdog",
+      "title": "KK Bosna v PAOK 06/10/2026, Player stats - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1ZMSGtQMS1fbFlfYmhLOEtFSlZ1S08zdXRLNUlla2FzX3RyeTJGR2NRU2lQd2NNY0ZzWFNlTDh0V3BjX1VtcmhRZGFlMmRCUDNOWVBnbHdnUmJLVWNVOC1PczI1Ym5aa3ZBeXZXQXRqT21vRDRZVmtxOGY5azFvNHU0dEJxY2xuVXJZdkNBQWE2QzB3UmRLSDFfWmJ6dw?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 04 Oct 2026 11:36:36 GMT",
       "base_score": 31,
       "candidate_score": 42,
       "priority": "Normal",
@@ -632,9 +673,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "acea9f0b0b696d57382e612d",
+      "external_id": "07a2a6a1477768f745a855e4",
       "mode": "geopolitico",
-      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - greekcitytimes.com",
+      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
       "source": "Cyprus Eastern Mediterranean Watch",
       "published": "Mon, 05 Oct 2026 09:44:32 GMT",
@@ -807,17 +848,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "d06049f9e69fc70d7b6a5443",
+      "external_id": "e0f0fa94571e00153bfd022b",
       "mode": "pontos_voice",
-      "title": "Trabzon’da yağışlı hava etkili olacak! Meteoroloji haftalık hava durumu tahminini açıkladı - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbE5hV0ZFX0lxUlhhNS03aEdnSUI5SzJ2MnMxT2JRRjRhTEFKczdYS3N3dVRrSE9JYTg4QnA0VnlCSUplTzZkcktoTU5aRmpLLUJTbXoyblAyWkc1Q2dVOEFtcE5YbGliZzZ6ZlhkTFRsUlg2OGZjLXRES0lMWVpYdDl4NXZhM1VUREtSTndodnBMdjhOOTVRSFltcmRJRVZ5SDJkTjZ5R1pfZjRvT0FfbmFTS3pZT284Z3hndEVSQnpCSlQ5SnNn?oc=5",
+      "title": "Trabzonspor'un golcü ismi sakatlandı! Açıklama geldi - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTBYdXZfUVM3WTNIUW5wblg2d1ktay1JdlltdU1RM1JhcjFtbVNZR19OM1Z4dUhVMjVMRXZjdzU1XzZCMUxiUTM2bWdNdm1mWkJyd3hpVHE0VEFEcnFoRHpkbXNHa1FhSGpHWkVpOElVaG1qbmQybEZOcnRxZVExM1Rfc1RQSkJfQWJGWlNJSUZLT1ZWQUI5cWN3?oc=5",
       "source": "Haber61 Trabzon",
-      "published": "Mon, 05 Oct 2026 09:26:44 GMT",
-      "base_score": 33,
-      "candidate_score": 48,
+      "published": "Mon, 05 Oct 2026 10:29:39 GMT",
+      "base_score": 38,
+      "candidate_score": 53,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
+        "açıklama",
         "Trabzon"
       ],
       "content_type": "news"
