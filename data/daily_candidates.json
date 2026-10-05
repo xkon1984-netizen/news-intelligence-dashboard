@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T06:36:29.614666+00:00",
+  "generated_at": "2026-10-05T07:03:14.006604+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -24,26 +24,6 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "b5edb332fbcf8ffcb98d6ef6",
-        "mode": "sportdog",
-        "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sun, 04 Oct 2026 20:19:07 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -224,9 +204,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "160bb5a0444714bacf128cf2",
+        "external_id": "fa7fd38d21dd762cc101b4e2",
         "mode": "geopolitico",
-        "title": "Ege'de savaş alarmı! Türkiye-Yunanistan arasında NOTAM krizi: “Tatbikat sıcak çatışmaya dönüşebilir” - A Haber",
+        "title": "Ege'de savaş alarmı! Türkiye-Yunanistan arasında NOTAM krizi: “Tatbikat sıcak çatışmaya dönüşebilir” - ahaber.com.tr",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVlCS0R3b0M0YWNHX2FWdUZ5cWZsZGtQM2FtNEVfM1dYSTRXTHNsOEVkWE91Z0thcExJUWZUbFJreEhBdFMyX2w3V0d0RWRqNzV1N1BKMWJYSWlReG5GajgwSjFJSmF5ZlVjUVBsUldCNmtHU3N1ZWY0TmJxY2ZJSzBmT3VvdzNFVl8wMzRUdC1IcDFx?oc=5",
         "source": "Eastern Mediterranean Turkey Watch",
         "published": "Sun, 04 Oct 2026 01:48:20 GMT",
@@ -250,7 +230,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sun, 04 Oct 2026 12:55:00 GMT",
         "base_score": 88,
-        "candidate_score": 94,
+        "candidate_score": 91,
         "priority": "High",
         "matched_keywords": [
           "GSI",
@@ -261,9 +241,25 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "a8c24fcce5c06dc3766ebbb5",
+        "external_id": "44ccac51ce273ed2be631576",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi fonda büyük işlem yapan kişi sayısını açıkladı: 'Kelleler kopacak' - Haber Sunum",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Erdoğan kimlerin biletini kesecek? Abdulkadir Selvi'den 'kelle koparacak' çıkışı - Şok Gazetesi",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHRLNEpHXzEweDZha2dkNFNNMXhTeDJEWjF5WHFRdEdJTER0Qm44dDFXdnVzQ29LMGZqaGtDSFNrYzZUU015VGUwZExZZWxxQ1RCbGNGMl9DT0V4RnpUcTlVVFRYYlRvU3pXdzJYbkEtd3h6QlZBa1BNVWlFNzJzWjVZV1F4UUkyN3JhY28zNkZZby1fOWV0SXVEZUpBN0dTbFNHRFdPZ2pzcTQ?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Mon, 05 Oct 2026 06:33:00 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
+      },
+      {
+        "external_id": "10bf673ef63efdee72b7f0b8",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi fonda büyük işlem yapan kişi sayısını açıkladı: 'Kelleler kopacak' - habersunum.com",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXlTREg1bVN4ZG5vaUVfU25EZ055VXlCU0N2S0ZYb19lbXp1YUNkU0JwM0RxamtPd1JDZ1BZR1RtRE9DV2Q2TzNEZUgyai1tR1p0Z2tjaTFRRy1XTG5aaG9scm01RGNJRzlBZlZUa015QVhRSm5zZlo3V2tBYUN3b25GN2wwcGZTMzlvRHZRdEx3Q3Z0dnlBTHhQYTdoYUNxVGF6LXprQTJUUWVFTkZrTXNfbGc?oc=5",
         "source": "Analysts Watch · Turkey",
         "published": "Mon, 05 Oct 2026 06:25:03 GMT",
@@ -277,36 +273,21 @@
         "content_type": "analyst"
       },
       {
-        "external_id": "289af2ee57a684eada4dcc32",
+        "external_id": "d1f6b02c702b97204453fee6",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - hurriyet.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUZHel9yN0hMczA3VHdWbDF0Q0psRkVya1FHTFl4NnJuVGh6QWtrZDhLZVhmVnVmM3EzOERwSGFIQ2E3X05McU9fTzQtbDloX1d3VkhKZWhKOFc2UUJQb3MzcUNUVzVtRUN4LUh2aUYxbXpDZFk3Q0MxZGhsNU52dTdLdjlOOGJfN01IZjMyS3B3VklTOGNrQU1Wb1RDNlJfMzQ1bW94SzY?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Mon, 05 Oct 2026 03:18:00 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
+        "title": "Zafer Özcivan: Ege ve Doğu Akdeniz’de Gerilim Değil, Hukuk Konuşmalı - Akdenizmanset",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTlSc0F6bG42Y1ZYZkZnSXJTaV9yX1NTZjJVamV6eWtFci1HbUxvVTl5SnpjOW5rVlZfOWVNR3VseXRaWFpYU2puZHRoS2RyR2NWUnRBdlFXQTVVLUF4aXpZSDB6UWRfbzR1enF0cW15LUNiTjluSE94bE12b2VXMVRESHc0TlViRXBDbA?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Sun, 04 Oct 2026 07:00:00 GMT",
+        "base_score": 84,
+        "candidate_score": 87,
         "priority": "High",
         "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
+          "Ege",
+          "Doğu Akdeniz",
+          "gerilim"
         ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "530d1ffff3a5f0d50fb56891",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Namık Tan — AK Parti Sözcüsü Ömer Çelik’ten Namık Tan’a tepki! - malatyadan.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUE3V2ZNckp4djFIMVpQRi1KdTIyTmZCWWFKc0FJNzVqdFlCd2lxdXNKeXBzZlZkcWtSWGdOMmpCRzJ3MlctNTJHMW1LcVJubFJOWHE5akxoLUpfNUtuejlMNnAxazA0cVk1VTFiSFRHckgzanpzRFFlNlJrN0NaUFUzbHFSZw?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Mon, 05 Oct 2026 02:22:54 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "Namık Tan",
-          "Namık Tan"
-        ],
-        "content_type": "analyst"
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -360,46 +341,47 @@
         "content_type": "news"
       },
       {
+        "external_id": "e30a892e3a132bf420461b01",
+        "mode": "pontos_voice",
+        "title": "Anahtar Parti Trabzon’da muhtarlarla buluştu: “Yerel yönetimin gerçek fotoğrafını sahadan çekiyoruz”",
+        "url": "https://www.61saat.com/anahtar-parti-trabzonda-muhtarlarla-bulustu-yerel-yonetimin-gercek-fotografini-sahadan-cekiyoruz",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 09:55:00 +0300",
+        "base_score": 55,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "Maçka",
+          "Çaykara",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "b34d1c945e463b1d5cdd4e29",
+        "mode": "pontos_voice",
+        "title": "Trabzonlu olunca, hedef tahtasına koyuldu! Hikmet Öksüzoğlu kimdir?",
+        "url": "https://www.61saat.com/trabzonlu-olunca-hedef-tahtasina-koyuldu-hikmet-oksuzoglu-kimdir",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 09:34:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "tartışma",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "da964d88340d5da96cb29c8b",
         "mode": "pontos_voice",
         "title": "Trabzon'da flaş iddia! Çek çalındı, 1 milyon liraya yakın bedeli vardı",
         "url": "https://www.61saat.com/trabzonda-flas-iddia-cek-calindi-1-milyon-liraya-yakin-bedeli-vardi",
         "source": "61Saat Trabzon",
         "published": "Mon, 05 Oct 2026 09:29:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "6a9f7f0267fcc188732f8a6b",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da gözaltına alınmıştı, adliyeye sevk edildi",
-        "url": "https://www.61saat.com/trabzonda-gozaltina-alinmisti-adliyeye-sevk-edildi",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 05 Oct 2026 08:59:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "d934286bf24663634ecd2d86",
-        "mode": "pontos_voice",
-        "title": "Trabzon’da sağanak geliyor! Gece saatlerine dikkat",
-        "url": "https://www.61saat.com/trabzonda-saganak-geliyor-gece-saatlerine-dikkat",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 05 Oct 2026 08:45:00 +0300",
         "base_score": 44,
         "candidate_score": 59,
         "priority": "Normal",
@@ -430,26 +412,6 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "b5edb332fbcf8ffcb98d6ef6",
-      "mode": "sportdog",
-      "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sun, 04 Oct 2026 20:19:07 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -628,9 +590,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "160bb5a0444714bacf128cf2",
+      "external_id": "fa7fd38d21dd762cc101b4e2",
       "mode": "geopolitico",
-      "title": "Ege'de savaş alarmı! Türkiye-Yunanistan arasında NOTAM krizi: “Tatbikat sıcak çatışmaya dönüşebilir” - A Haber",
+      "title": "Ege'de savaş alarmı! Türkiye-Yunanistan arasında NOTAM krizi: “Tatbikat sıcak çatışmaya dönüşebilir” - ahaber.com.tr",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVlCS0R3b0M0YWNHX2FWdUZ5cWZsZGtQM2FtNEVfM1dYSTRXTHNsOEVkWE91Z0thcExJUWZUbFJreEhBdFMyX2w3V0d0RWRqNzV1N1BKMWJYSWlReG5GajgwSjFJSmF5ZlVjUVBsUldCNmtHU3N1ZWY0TmJxY2ZJSzBmT3VvdzNFVl8wMzRUdC1IcDFx?oc=5",
       "source": "Eastern Mediterranean Turkey Watch",
       "published": "Sun, 04 Oct 2026 01:48:20 GMT",
@@ -654,7 +616,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sun, 04 Oct 2026 12:55:00 GMT",
       "base_score": 88,
-      "candidate_score": 94,
+      "candidate_score": 91,
       "priority": "High",
       "matched_keywords": [
         "GSI",
@@ -665,9 +627,25 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "a8c24fcce5c06dc3766ebbb5",
+      "external_id": "44ccac51ce273ed2be631576",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi fonda büyük işlem yapan kişi sayısını açıkladı: 'Kelleler kopacak' - Haber Sunum",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Erdoğan kimlerin biletini kesecek? Abdulkadir Selvi'den 'kelle koparacak' çıkışı - Şok Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHRLNEpHXzEweDZha2dkNFNNMXhTeDJEWjF5WHFRdEdJTER0Qm44dDFXdnVzQ29LMGZqaGtDSFNrYzZUU015VGUwZExZZWxxQ1RCbGNGMl9DT0V4RnpUcTlVVFRYYlRvU3pXdzJYbkEtd3h6QlZBa1BNVWlFNzJzWjVZV1F4UUkyN3JhY28zNkZZby1fOWV0SXVEZUpBN0dTbFNHRFdPZ2pzcTQ?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Mon, 05 Oct 2026 06:33:00 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
+    },
+    {
+      "external_id": "10bf673ef63efdee72b7f0b8",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi fonda büyük işlem yapan kişi sayısını açıkladı: 'Kelleler kopacak' - habersunum.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXlTREg1bVN4ZG5vaUVfU25EZ055VXlCU0N2S0ZYb19lbXp1YUNkU0JwM0RxamtPd1JDZ1BZR1RtRE9DV2Q2TzNEZUgyai1tR1p0Z2tjaTFRRy1XTG5aaG9scm01RGNJRzlBZlZUa015QVhRSm5zZlo3V2tBYUN3b25GN2wwcGZTMzlvRHZRdEx3Q3Z0dnlBTHhQYTdoYUNxVGF6LXprQTJUUWVFTkZrTXNfbGc?oc=5",
       "source": "Analysts Watch · Turkey",
       "published": "Mon, 05 Oct 2026 06:25:03 GMT",
@@ -681,36 +659,21 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "289af2ee57a684eada4dcc32",
+      "external_id": "d1f6b02c702b97204453fee6",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - hurriyet.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUZHel9yN0hMczA3VHdWbDF0Q0psRkVya1FHTFl4NnJuVGh6QWtrZDhLZVhmVnVmM3EzOERwSGFIQ2E3X05McU9fTzQtbDloX1d3VkhKZWhKOFc2UUJQb3MzcUNUVzVtRUN4LUh2aUYxbXpDZFk3Q0MxZGhsNU52dTdLdjlOOGJfN01IZjMyS3B3VklTOGNrQU1Wb1RDNlJfMzQ1bW94SzY?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Mon, 05 Oct 2026 03:18:00 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
+      "title": "Zafer Özcivan: Ege ve Doğu Akdeniz’de Gerilim Değil, Hukuk Konuşmalı - Akdenizmanset",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTlSc0F6bG42Y1ZYZkZnSXJTaV9yX1NTZjJVamV6eWtFci1HbUxvVTl5SnpjOW5rVlZfOWVNR3VseXRaWFpYU2puZHRoS2RyR2NWUnRBdlFXQTVVLUF4aXpZSDB6UWRfbzR1enF0cW15LUNiTjluSE94bE12b2VXMVRESHc0TlViRXBDbA?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Sun, 04 Oct 2026 07:00:00 GMT",
+      "base_score": 84,
+      "candidate_score": 87,
       "priority": "High",
       "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
+        "Ege",
+        "Doğu Akdeniz",
+        "gerilim"
       ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "530d1ffff3a5f0d50fb56891",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Namık Tan — AK Parti Sözcüsü Ömer Çelik’ten Namık Tan’a tepki! - malatyadan.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUE3V2ZNckp4djFIMVpQRi1KdTIyTmZCWWFKc0FJNzVqdFlCd2lxdXNKeXBzZlZkcWtSWGdOMmpCRzJ3MlctNTJHMW1LcVJubFJOWHE5akxoLUpfNUtuejlMNnAxazA0cVk1VTFiSFRHckgzanpzRFFlNlJrN0NaUFUzbHFSZw?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Mon, 05 Oct 2026 02:22:54 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "Namık Tan",
-        "Namık Tan"
-      ],
-      "content_type": "analyst"
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "fd0f5220dcde5819beb56998",
@@ -762,46 +725,47 @@
       "content_type": "news"
     },
     {
+      "external_id": "e30a892e3a132bf420461b01",
+      "mode": "pontos_voice",
+      "title": "Anahtar Parti Trabzon’da muhtarlarla buluştu: “Yerel yönetimin gerçek fotoğrafını sahadan çekiyoruz”",
+      "url": "https://www.61saat.com/anahtar-parti-trabzonda-muhtarlarla-bulustu-yerel-yonetimin-gercek-fotografini-sahadan-cekiyoruz",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 09:55:00 +0300",
+      "base_score": 55,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "Maçka",
+        "Çaykara",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "b34d1c945e463b1d5cdd4e29",
+      "mode": "pontos_voice",
+      "title": "Trabzonlu olunca, hedef tahtasına koyuldu! Hikmet Öksüzoğlu kimdir?",
+      "url": "https://www.61saat.com/trabzonlu-olunca-hedef-tahtasina-koyuldu-hikmet-oksuzoglu-kimdir",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 09:34:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "tartışma",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "da964d88340d5da96cb29c8b",
       "mode": "pontos_voice",
       "title": "Trabzon'da flaş iddia! Çek çalındı, 1 milyon liraya yakın bedeli vardı",
       "url": "https://www.61saat.com/trabzonda-flas-iddia-cek-calindi-1-milyon-liraya-yakin-bedeli-vardi",
       "source": "61Saat Trabzon",
       "published": "Mon, 05 Oct 2026 09:29:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "6a9f7f0267fcc188732f8a6b",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da gözaltına alınmıştı, adliyeye sevk edildi",
-      "url": "https://www.61saat.com/trabzonda-gozaltina-alinmisti-adliyeye-sevk-edildi",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 05 Oct 2026 08:59:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "d934286bf24663634ecd2d86",
-      "mode": "pontos_voice",
-      "title": "Trabzon’da sağanak geliyor! Gece saatlerine dikkat",
-      "url": "https://www.61saat.com/trabzonda-saganak-geliyor-gece-saatlerine-dikkat",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 05 Oct 2026 08:45:00 +0300",
       "base_score": 44,
       "candidate_score": 59,
       "priority": "Normal",
