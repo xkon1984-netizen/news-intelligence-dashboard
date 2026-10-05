@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T15:28:29.195700+00:00",
+  "generated_at": "2026-10-05T15:55:40.126066+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -27,26 +27,6 @@
         "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
-      },
-      {
-        "external_id": "d83ab67a10a456fc59620736",
-        "mode": "sportdog",
-        "title": "Panathinaikos Chicago - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sun, 04 Oct 2026 23:52:24 GMT",
-        "base_score": 56,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
       },
       {
         "external_id": "b5edb332fbcf8ffcb98d6ef6",
@@ -126,21 +106,21 @@
         "needs_second_source": true
       },
       {
-        "external_id": "6cc2e9bd8ba975a30d04f1a3",
+        "external_id": "6407149cdd0022d5f53bdb12",
         "mode": "sportdog",
-        "title": "Iraklis Panathinaikos 08 November 2026 Live Score and Match Summary - Yeni Şafak English",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3dVcDdnTm14RUdyOXhnV01xTWZkRC1OVEYwQVBxenFENVBDa3V2NUZmZFcxaElfdFZfbW5oM0pudmRScU1QdE1CbVZ3NjBUS0dKRzQzcXo4X180SFo4OVFRQkxTOG1IN1RlXzJXS3RTS2RRX0JaSkg4LUJobExmU2lsRGZTZDBv?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sun, 04 Oct 2026 05:06:53 GMT",
+        "title": "Olympiacos Piraeus - Galatasaray - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUFGNGFSSEJRRXdncjFIZnlLWkMtbVR5NlFqWEhWVlk3VXNLRGJoUkZCWTJjTzNSWkhlOVVkUEFsdU5PV29kUm1feFpXWVVRQzVUbmRrZUFZZWE4VG9Ka3Z2WFpfanI2NGNWLVRKQVZwUWRSUjFCQ19odmV5c0dKZHVfbWJHZ2NJcHNuaXppRk4xQXZJTFE?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 04 Oct 2026 10:28:42 GMT",
         "base_score": 31,
-        "candidate_score": 39,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos"
+          "Olympiacos"
         ],
         "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Panathinaikos",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
@@ -184,6 +164,26 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "07a2a6a1477768f745a855e4",
+        "mode": "geopolitico",
+        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
+        "source": "Cyprus Eastern Mediterranean Watch",
+        "published": "Mon, 05 Oct 2026 13:42:01 GMT",
+        "base_score": 94,
+        "candidate_score": 109,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "F-35",
+          "weapons",
+          "energy",
+          "Ankara",
+          "F-35"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "fa0ddb5243d2cdeee004fef3",
         "mode": "geopolitico",
         "title": "Atina’nın kablo planı…. Ankara Oruç Reis’le sahada… Doğu Akdeniz’de satranç - Haber Kıbrıs",
@@ -203,26 +203,6 @@
           "kablo"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "07a2a6a1477768f745a855e4",
-        "mode": "geopolitico",
-        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
-        "source": "Cyprus Eastern Mediterranean Watch",
-        "published": "Mon, 05 Oct 2026 09:44:32 GMT",
-        "base_score": 94,
-        "candidate_score": 104,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "F-35",
-          "weapons",
-          "energy",
-          "Ankara",
-          "F-35"
-        ],
-        "content_type": "news"
       },
       {
         "external_id": "28f6d4afb884b14fdcfc2bb6",
@@ -300,7 +280,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Mon, 05 Oct 2026 12:44:29 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -423,26 +403,6 @@
       "needs_second_source": false
     },
     {
-      "external_id": "d83ab67a10a456fc59620736",
-      "mode": "sportdog",
-      "title": "Panathinaikos Chicago - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sun, 04 Oct 2026 23:52:24 GMT",
-      "base_score": 56,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "b5edb332fbcf8ffcb98d6ef6",
       "mode": "sportdog",
       "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
@@ -520,21 +480,21 @@
       "needs_second_source": true
     },
     {
-      "external_id": "6cc2e9bd8ba975a30d04f1a3",
+      "external_id": "6407149cdd0022d5f53bdb12",
       "mode": "sportdog",
-      "title": "Iraklis Panathinaikos 08 November 2026 Live Score and Match Summary - Yeni Şafak English",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3dVcDdnTm14RUdyOXhnV01xTWZkRC1OVEYwQVBxenFENVBDa3V2NUZmZFcxaElfdFZfbW5oM0pudmRScU1QdE1CbVZ3NjBUS0dKRzQzcXo4X180SFo4OVFRQkxTOG1IN1RlXzJXS3RTS2RRX0JaSkg4LUJobExmU2lsRGZTZDBv?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sun, 04 Oct 2026 05:06:53 GMT",
+      "title": "Olympiacos Piraeus - Galatasaray - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUFGNGFSSEJRRXdncjFIZnlLWkMtbVR5NlFqWEhWVlk3VXNLRGJoUkZCWTJjTzNSWkhlOVVkUEFsdU5PV29kUm1feFpXWVVRQzVUbmRrZUFZZWE4VG9Ka3Z2WFpfanI2NGNWLVRKQVZwUWRSUjFCQ19odmV5c0dKZHVfbWJHZ2NJcHNuaXppRk4xQXZJTFE?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 04 Oct 2026 10:28:42 GMT",
       "base_score": 31,
-      "candidate_score": 39,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos"
+        "Olympiacos"
       ],
       "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Panathinaikos",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -576,6 +536,26 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "07a2a6a1477768f745a855e4",
+      "mode": "geopolitico",
+      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
+      "source": "Cyprus Eastern Mediterranean Watch",
+      "published": "Mon, 05 Oct 2026 13:42:01 GMT",
+      "base_score": 94,
+      "candidate_score": 109,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "F-35",
+        "weapons",
+        "energy",
+        "Ankara",
+        "F-35"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "fa0ddb5243d2cdeee004fef3",
       "mode": "geopolitico",
       "title": "Atina’nın kablo planı…. Ankara Oruç Reis’le sahada… Doğu Akdeniz’de satranç - Haber Kıbrıs",
@@ -595,26 +575,6 @@
         "kablo"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "07a2a6a1477768f745a855e4",
-      "mode": "geopolitico",
-      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
-      "source": "Cyprus Eastern Mediterranean Watch",
-      "published": "Mon, 05 Oct 2026 09:44:32 GMT",
-      "base_score": 94,
-      "candidate_score": 104,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "F-35",
-        "weapons",
-        "energy",
-        "Ankara",
-        "F-35"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "28f6d4afb884b14fdcfc2bb6",
@@ -690,7 +650,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Mon, 05 Oct 2026 12:44:29 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
