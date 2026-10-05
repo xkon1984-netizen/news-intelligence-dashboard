@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:00:18.346901+00:00",
+  "generated_at": "2026-10-05T13:31:06.494051+00:00",
   "counts": {
     "sportdog": 5,
     "geopolitico": 8,
@@ -35,7 +35,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sun, 04 Oct 2026 19:05:05 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -131,7 +131,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 05 Oct 2026 10:05:50 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -161,9 +161,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "acea9f0b0b696d57382e612d",
+        "external_id": "07a2a6a1477768f745a855e4",
         "mode": "geopolitico",
-        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - greekcitytimes.com",
+        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
         "source": "Cyprus Eastern Mediterranean Watch",
         "published": "Mon, 05 Oct 2026 09:44:32 GMT",
@@ -179,6 +179,23 @@
           "F-35"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "28f6d4afb884b14fdcfc2bb6",
+        "mode": "geopolitico",
+        "title": "Litvanya Cumhurbaşkanı Nauseda ile Yunanistan Başbakanı Miçotakis Atina’da görüştü - Canlı Gaste",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWIwaXQ2Rnc5aDJLUF9IUFhfUkNBZGhXZE1iUF9uWjJuZmpwcXNxODlQLTRaMmZtNDdVYlNNSk1MeG44X1F1YUh6M0hrZGZBX2RlT0h4RjRXVkN2RDV5Q0MwTDdwcVBHVjdpZ1VLNFYzZzctUGV3aXJJNlNkZVB0cnk4SW5wM3h5UEhDNjRGT00yR0tUdlVabjExcmNrZWJWOEc0OUthY0pNbUFQd0FiMDlIUlYyckRx?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Mon, 05 Oct 2026 13:15:41 GMT",
+        "base_score": 81,
+        "candidate_score": 96,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Miçotakis",
+          "Atina"
+        ],
+        "content_type": "turkey_greece"
       },
       {
         "external_id": "a25c01e60d2d7dc384a9e07b",
@@ -218,7 +235,7 @@
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwZ0JRS3kwaUF2ZnhtNUpiWFNUM05zenNEOUFjRDZpZ3o1M01VMjl0Vy01azNEVmxtdnpab0JCWWNwRWtZd3Q1djNMTFFDQlJ2SjFhVTIzR2p1TUdwbC1RNkltZWUtXzhrZ0h4TUJOZkNRWlFicnJQbmZGMUpMcmxjY2V0alZIRFJTdkcyMTVESVVWd1pYeUhib1VlTmQ1MU9vM1R3czhwX29pWjM3RkRvMGNQODFFTGY1ZWp2VGJlaTZSbVgzY05CWWg?oc=5",
         "source": "Analysts Watch · Turkey",
-        "published": "Mon, 05 Oct 2026 07:00:10 GMT",
+        "published": "Mon, 05 Oct 2026 07:00:00 GMT",
         "base_score": 75,
         "candidate_score": 85,
         "priority": "High",
@@ -227,23 +244,6 @@
           "Abdulkadir Selvi"
         ],
         "content_type": "analyst"
-      },
-      {
-        "external_id": "84ee028b668336b7b7de43f7",
-        "mode": "geopolitico",
-        "title": "Pakistan Army High Command Reshuffle: 11 Major Generals Promoted to Lieutenant General - DefenceXP",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWk03QndZOExlbjI4WEFDVEU2ZmtxajRZQmItNG93WFlmNlF5RUFGeWc3Y3dZN0VYWGprUTJCNldDaVRvWi1UNi16Q2VfM2gwa01TV2dOYnQ0MGEwTTRfWWtuLUU3dEFnbGZmZXpJZ1dFaWJCQkNHQnFHeWNEUXo2dVdEMzE2cTdqMkVfNHJ5Wm1uMjN6?oc=5",
-        "source": "DefenceXP India Watch",
-        "published": "Mon, 05 Oct 2026 12:17:34 GMT",
-        "base_score": 69,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "Pakistan",
-          "Pakistan Army",
-          "defence"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -317,6 +317,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "2fe5db875ee531db4357886b",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da ölümlü kaza sonrası trafik resmen durdu!",
+        "url": "https://www.61saat.com/trabzonda-olumlu-kaza-sonrasi-trafik-resmen-durdu",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 16:15:00 +0300",
+        "base_score": 57,
+        "candidate_score": 72,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "Maçka",
+          "Gümüşhane",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "b393df2ecdc1f6b6b6ce9401",
         "mode": "pontos_voice",
         "title": "İsveç Büyükelçiliğinden KTÜ’ye Ziyaret",
@@ -331,23 +349,6 @@
           "Of",
           "Trabzon",
           "Karadeniz"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "f0c72dc810bbb81f75e238d3",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da korku dolu anlar! Tünel içinde alev aldı... 1 kişi hayatını kaybetti",
-        "url": "https://www.61saat.com/trabzonda-korku-dolu-anlar-tunel-icinde-alev-aldi-1-kisi-hayatini-kaybetti",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 05 Oct 2026 15:00:00 +0300",
-        "base_score": 46,
-        "candidate_score": 61,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Maçka",
-          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -382,7 +383,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sun, 04 Oct 2026 19:05:05 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -476,7 +477,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 05 Oct 2026 10:05:50 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -506,9 +507,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "acea9f0b0b696d57382e612d",
+      "external_id": "07a2a6a1477768f745a855e4",
       "mode": "geopolitico",
-      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - greekcitytimes.com",
+      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
       "source": "Cyprus Eastern Mediterranean Watch",
       "published": "Mon, 05 Oct 2026 09:44:32 GMT",
@@ -524,6 +525,23 @@
         "F-35"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "28f6d4afb884b14fdcfc2bb6",
+      "mode": "geopolitico",
+      "title": "Litvanya Cumhurbaşkanı Nauseda ile Yunanistan Başbakanı Miçotakis Atina’da görüştü - Canlı Gaste",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWIwaXQ2Rnc5aDJLUF9IUFhfUkNBZGhXZE1iUF9uWjJuZmpwcXNxODlQLTRaMmZtNDdVYlNNSk1MeG44X1F1YUh6M0hrZGZBX2RlT0h4RjRXVkN2RDV5Q0MwTDdwcVBHVjdpZ1VLNFYzZzctUGV3aXJJNlNkZVB0cnk4SW5wM3h5UEhDNjRGT00yR0tUdlVabjExcmNrZWJWOEc0OUthY0pNbUFQd0FiMDlIUlYyckRx?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Mon, 05 Oct 2026 13:15:41 GMT",
+      "base_score": 81,
+      "candidate_score": 96,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Miçotakis",
+        "Atina"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "a25c01e60d2d7dc384a9e07b",
@@ -563,7 +581,7 @@
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwZ0JRS3kwaUF2ZnhtNUpiWFNUM05zenNEOUFjRDZpZ3o1M01VMjl0Vy01azNEVmxtdnpab0JCWWNwRWtZd3Q1djNMTFFDQlJ2SjFhVTIzR2p1TUdwbC1RNkltZWUtXzhrZ0h4TUJOZkNRWlFicnJQbmZGMUpMcmxjY2V0alZIRFJTdkcyMTVESVVWd1pYeUhib1VlTmQ1MU9vM1R3czhwX29pWjM3RkRvMGNQODFFTGY1ZWp2VGJlaTZSbVgzY05CWWg?oc=5",
       "source": "Analysts Watch · Turkey",
-      "published": "Mon, 05 Oct 2026 07:00:10 GMT",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
       "base_score": 75,
       "candidate_score": 85,
       "priority": "High",
@@ -572,23 +590,6 @@
         "Abdulkadir Selvi"
       ],
       "content_type": "analyst"
-    },
-    {
-      "external_id": "84ee028b668336b7b7de43f7",
-      "mode": "geopolitico",
-      "title": "Pakistan Army High Command Reshuffle: 11 Major Generals Promoted to Lieutenant General - DefenceXP",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWk03QndZOExlbjI4WEFDVEU2ZmtxajRZQmItNG93WFlmNlF5RUFGeWc3Y3dZN0VYWGprUTJCNldDaVRvWi1UNi16Q2VfM2gwa01TV2dOYnQ0MGEwTTRfWWtuLUU3dEFnbGZmZXpJZ1dFaWJCQkNHQnFHeWNEUXo2dVdEMzE2cTdqMkVfNHJ5Wm1uMjN6?oc=5",
-      "source": "DefenceXP India Watch",
-      "published": "Mon, 05 Oct 2026 12:17:34 GMT",
-      "base_score": 69,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "Pakistan",
-        "Pakistan Army",
-        "defence"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "a2bfec1c7f403a88d3f82dc3",
@@ -660,6 +661,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "2fe5db875ee531db4357886b",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da ölümlü kaza sonrası trafik resmen durdu!",
+      "url": "https://www.61saat.com/trabzonda-olumlu-kaza-sonrasi-trafik-resmen-durdu",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 16:15:00 +0300",
+      "base_score": 57,
+      "candidate_score": 72,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "Maçka",
+        "Gümüşhane",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "b393df2ecdc1f6b6b6ce9401",
       "mode": "pontos_voice",
       "title": "İsveç Büyükelçiliğinden KTÜ’ye Ziyaret",
@@ -674,23 +693,6 @@
         "Of",
         "Trabzon",
         "Karadeniz"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "f0c72dc810bbb81f75e238d3",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da korku dolu anlar! Tünel içinde alev aldı... 1 kişi hayatını kaybetti",
-      "url": "https://www.61saat.com/trabzonda-korku-dolu-anlar-tunel-icinde-alev-aldi-1-kisi-hayatini-kaybetti",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 05 Oct 2026 15:00:00 +0300",
-      "base_score": 46,
-      "candidate_score": 61,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Maçka",
-        "Trabzon"
       ],
       "content_type": "news"
     }
