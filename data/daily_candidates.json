@@ -1,12 +1,33 @@
 {
-  "generated_at": "2026-10-05T13:31:06.494051+00:00",
+  "generated_at": "2026-10-05T13:56:34.918375+00:00",
   "counts": {
-    "sportdog": 5,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "8f6916afe36a405aa5160c5d",
+        "mode": "sportdog",
+        "title": "Transfers: Olympiacos Showing Interest in Hicham Boudaoui - Africa Top Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXB3OHBIOGZtaHBDUFM3eXJ6dDZULWE0aEZiMS0zNXU1N3pydUN1c2w3TjFrOUZkdjlSSkpvVW1vejZmejJmVG9jd2k2Mlk0S3dlOVIwdDBNb3lEeld1eFpZUEMtd0FvM2V0dWVaMFRUbElwVENnYjJYQVhPRlhfd1Ryak0zSUhXdVJwMGg2bmZ0QQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 05 Oct 2026 13:29:59 GMT",
+        "base_score": 81,
+        "candidate_score": 126,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Olympiacos",
+          "transfer",
+          "transfers"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
       {
         "external_id": "b5edb332fbcf8ffcb98d6ef6",
         "mode": "sportdog",
@@ -47,9 +68,9 @@
         "needs_second_source": true
       },
       {
-        "external_id": "73b3917a45c6a2959e7d6962",
+        "external_id": "c4f6d73992f7b7412ef42491",
         "mode": "sportdog",
-        "title": "Motiejunas officially moves to PAOK for the rest of the season - Eurohoops",
+        "title": "Motiejunas officially moves to PAOK for the rest of the season - eurohoops.net",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Sun, 04 Oct 2026 14:17:18 GMT",
@@ -161,9 +182,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "07a2a6a1477768f745a855e4",
+        "external_id": "acea9f0b0b696d57382e612d",
         "mode": "geopolitico",
-        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
+        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - greekcitytimes.com",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
         "source": "Cyprus Eastern Mediterranean Watch",
         "published": "Mon, 05 Oct 2026 09:44:32 GMT",
@@ -198,6 +219,22 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "5df3739eff92cd585aff1944",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Michael Rubin — Why Fanatics CEO Michael Rubin is doubling down on sports betting - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEhpeWNjZmdEOThNd2xqelB0bWJvaTJzOGFPWndxaWYweFd3R3pVc0x1RjdrcEhXMUplUXlpMnhMcVNKQW4taXpSV0ZZUE5xYWNLODNzUEVReWJ3bDNTX3hYN1hUOHdjSVQySGFRVU02TXZ0SlZ2ZExLeUJTY201bHJzUzlzNmxnbFNMWnIwbnlFYmdTM2p0eVUzZW4tTmNOeTc1N2dEQnZkcEZMdi1vbzB3?oc=5",
+        "source": "Analysts Watch · United States",
+        "published": "Mon, 05 Oct 2026 13:39:59 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Michael Rubin",
+          "Michael Rubin"
+        ],
+        "content_type": "analyst"
+      },
+      {
         "external_id": "a25c01e60d2d7dc384a9e07b",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi’den fonda büyük işlem yapan kişilerle ilgili iddia: Kelleler kopacak - Turkish Post Haber",
@@ -220,22 +257,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWcyV0Rxa2NMUzRmVEJTbG9KeFIybW9mbzVTcHRXYkxpSkpQWDhwUTZmT01TOUZzR090b0FpZ25LWmttWS11QmZkLTE0dVhCLUF4TWNjWXQ1OWhVeDdKS1luZFp4eG9Mcno3QkpNS2kyZGhsVDh1eTFTZ051RkV6SEo1YVl3RmlKQlExcmVqc25kdEhzZUxMb0dudHp3dk1lU1h6MG9OdkVsT3h6d1BLLUE5c2lNZ2tNZjRpSVJrMmFhX2FVaXc?oc=5",
         "source": "Analysts Watch · Turkey",
         "published": "Mon, 05 Oct 2026 08:24:00 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "10210f541197950a521f1270",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwZ0JRS3kwaUF2ZnhtNUpiWFNUM05zenNEOUFjRDZpZ3o1M01VMjl0Vy01azNEVmxtdnpab0JCWWNwRWtZd3Q1djNMTFFDQlJ2SjFhVTIzR2p1TUdwbC1RNkltZWUtXzhrZ0h4TUJOZkNRWlFicnJQbmZGMUpMcmxjY2V0alZIRFJTdkcyMTVESVVWd1pYeUhib1VlTmQ1MU9vM1R3czhwX29pWjM3RkRvMGNQODFFTGY1ZWp2VGJlaTZSbVgzY05CWWg?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Mon, 05 Oct 2026 07:00:00 GMT",
         "base_score": 75,
         "candidate_score": 85,
         "priority": "High",
@@ -356,6 +377,27 @@
   },
   "items": [
     {
+      "external_id": "8f6916afe36a405aa5160c5d",
+      "mode": "sportdog",
+      "title": "Transfers: Olympiacos Showing Interest in Hicham Boudaoui - Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXB3OHBIOGZtaHBDUFM3eXJ6dDZULWE0aEZiMS0zNXU1N3pydUN1c2w3TjFrOUZkdjlSSkpvVW1vejZmejJmVG9jd2k2Mlk0S3dlOVIwdDBNb3lEeld1eFpZUEMtd0FvM2V0dWVaMFRUbElwVENnYjJYQVhPRlhfd1Ryak0zSUhXdVJwMGg2bmZ0QQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 05 Oct 2026 13:29:59 GMT",
+      "base_score": 81,
+      "candidate_score": 126,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Olympiacos",
+        "transfer",
+        "transfers"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "b5edb332fbcf8ffcb98d6ef6",
       "mode": "sportdog",
       "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
@@ -395,9 +437,9 @@
       "needs_second_source": true
     },
     {
-      "external_id": "73b3917a45c6a2959e7d6962",
+      "external_id": "c4f6d73992f7b7412ef42491",
       "mode": "sportdog",
-      "title": "Motiejunas officially moves to PAOK for the rest of the season - Eurohoops",
+      "title": "Motiejunas officially moves to PAOK for the rest of the season - eurohoops.net",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Sun, 04 Oct 2026 14:17:18 GMT",
@@ -507,9 +549,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "07a2a6a1477768f745a855e4",
+      "external_id": "acea9f0b0b696d57382e612d",
       "mode": "geopolitico",
-      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
+      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - greekcitytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
       "source": "Cyprus Eastern Mediterranean Watch",
       "published": "Mon, 05 Oct 2026 09:44:32 GMT",
@@ -544,6 +586,22 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "5df3739eff92cd585aff1944",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Michael Rubin — Why Fanatics CEO Michael Rubin is doubling down on sports betting - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEhpeWNjZmdEOThNd2xqelB0bWJvaTJzOGFPWndxaWYweFd3R3pVc0x1RjdrcEhXMUplUXlpMnhMcVNKQW4taXpSV0ZZUE5xYWNLODNzUEVReWJ3bDNTX3hYN1hUOHdjSVQySGFRVU02TXZ0SlZ2ZExLeUJTY201bHJzUzlzNmxnbFNMWnIwbnlFYmdTM2p0eVUzZW4tTmNOeTc1N2dEQnZkcEZMdi1vbzB3?oc=5",
+      "source": "Analysts Watch · United States",
+      "published": "Mon, 05 Oct 2026 13:39:59 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Michael Rubin",
+        "Michael Rubin"
+      ],
+      "content_type": "analyst"
+    },
+    {
       "external_id": "a25c01e60d2d7dc384a9e07b",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi’den fonda büyük işlem yapan kişilerle ilgili iddia: Kelleler kopacak - Turkish Post Haber",
@@ -566,22 +624,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWcyV0Rxa2NMUzRmVEJTbG9KeFIybW9mbzVTcHRXYkxpSkpQWDhwUTZmT01TOUZzR090b0FpZ25LWmttWS11QmZkLTE0dVhCLUF4TWNjWXQ1OWhVeDdKS1luZFp4eG9Mcno3QkpNS2kyZGhsVDh1eTFTZ051RkV6SEo1YVl3RmlKQlExcmVqc25kdEhzZUxMb0dudHp3dk1lU1h6MG9OdkVsT3h6d1BLLUE5c2lNZ2tNZjRpSVJrMmFhX2FVaXc?oc=5",
       "source": "Analysts Watch · Turkey",
       "published": "Mon, 05 Oct 2026 08:24:00 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "10210f541197950a521f1270",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwZ0JRS3kwaUF2ZnhtNUpiWFNUM05zenNEOUFjRDZpZ3o1M01VMjl0Vy01azNEVmxtdnpab0JCWWNwRWtZd3Q1djNMTFFDQlJ2SjFhVTIzR2p1TUdwbC1RNkltZWUtXzhrZ0h4TUJOZkNRWlFicnJQbmZGMUpMcmxjY2V0alZIRFJTdkcyMTVESVVWd1pYeUhib1VlTmQ1MU9vM1R3czhwX29pWjM3RkRvMGNQODFFTGY1ZWp2VGJlaTZSbVgzY05CWWg?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
       "base_score": 75,
       "candidate_score": 85,
       "priority": "High",
