@@ -1,32 +1,12 @@
 {
-  "generated_at": "2026-10-05T12:32:23.951685+00:00",
+  "generated_at": "2026-10-05T13:00:18.346901+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "bb584489dd34f5bb366d37d3",
-        "mode": "sportdog",
-        "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sun, 04 Oct 2026 00:34:57 GMT",
-        "base_score": 56,
-        "candidate_score": 74,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "deal"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
       {
         "external_id": "b5edb332fbcf8ffcb98d6ef6",
         "mode": "sportdog",
@@ -188,7 +168,7 @@
         "source": "Cyprus Eastern Mediterranean Watch",
         "published": "Mon, 05 Oct 2026 09:44:32 GMT",
         "base_score": 94,
-        "candidate_score": 109,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -201,25 +181,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "2e12408d911b394a5d5ff09f",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz’de GSI gerilimi: Türkiye’nin şartı Yunan basınının gündeminde - ankaranethaber.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGgwSWJ4ZFV0VU9aaTZ0bnRYZWNXY0oySUFyeHpnV0Q5QW1Eek5uNGxUMWhsblBjbHZGMXJNME1Hc1d4YlR2MktkWFB2dFMxR3dPeW91dENyYXFmZ1VnanM3UEUtZEdNUmZiR1RHV01pZWxCUGRPaFFzcVoyeDRQRGNLdDVwNE9jX2dIVEN4SlF6anRUWURQRkpfZkh1bEI0MklpcQ?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Sun, 04 Oct 2026 06:34:00 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "GSI",
-          "Doğu Akdeniz",
-          "Ankara",
-          "gerilim",
-          "GSI"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "a25c01e60d2d7dc384a9e07b",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi’den fonda büyük işlem yapan kişilerle ilgili iddia: Kelleler kopacak - Turkish Post Haber",
@@ -227,30 +188,13 @@
         "source": "Analysts Watch · Turkey",
         "published": "Mon, 05 Oct 2026 09:34:17 GMT",
         "base_score": 75,
-        "candidate_score": 90,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Abdulkadir Selvi",
           "Abdulkadir Selvi"
         ],
         "content_type": "analyst"
-      },
-      {
-        "external_id": "d1f6b02c702b97204453fee6",
-        "mode": "geopolitico",
-        "title": "Zafer Özcivan: Ege ve Doğu Akdeniz’de Gerilim Değil, Hukuk Konuşmalı - Akdenizmanset",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTlSc0F6bG42Y1ZYZkZnSXJTaV9yX1NTZjJVamV6eWtFci1HbUxvVTl5SnpjOW5rVlZfOWVNR3VseXRaWFpYU2puZHRoS2RyR2NWUnRBdlFXQTVVLUF4aXpZSDB6UWRfbzR1enF0cW15LUNiTjluSE94bE12b2VXMVRESHc0TlViRXBDbA?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Sun, 04 Oct 2026 07:00:00 GMT",
-        "base_score": 84,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "Ege",
-          "Doğu Akdeniz",
-          "gerilim"
-        ],
-        "content_type": "turkey_greece"
       },
       {
         "external_id": "284cfa48c5475bafe93d456d",
@@ -267,9 +211,60 @@
           "Abdulkadir Selvi"
         ],
         "content_type": "analyst"
+      },
+      {
+        "external_id": "10210f541197950a521f1270",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwZ0JRS3kwaUF2ZnhtNUpiWFNUM05zenNEOUFjRDZpZ3o1M01VMjl0Vy01azNEVmxtdnpab0JCWWNwRWtZd3Q1djNMTFFDQlJ2SjFhVTIzR2p1TUdwbC1RNkltZWUtXzhrZ0h4TUJOZkNRWlFicnJQbmZGMUpMcmxjY2V0alZIRFJTdkcyMTVESVVWd1pYeUhib1VlTmQ1MU9vM1R3czhwX29pWjM3RkRvMGNQODFFTGY1ZWp2VGJlaTZSbVgzY05CWWg?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Mon, 05 Oct 2026 07:00:10 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
+      },
+      {
+        "external_id": "84ee028b668336b7b7de43f7",
+        "mode": "geopolitico",
+        "title": "Pakistan Army High Command Reshuffle: 11 Major Generals Promoted to Lieutenant General - DefenceXP",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWk03QndZOExlbjI4WEFDVEU2ZmtxajRZQmItNG93WFlmNlF5RUFGeWc3Y3dZN0VYWGprUTJCNldDaVRvWi1UNi16Q2VfM2gwa01TV2dOYnQ0MGEwTTRfWWtuLUU3dEFnbGZmZXpJZ1dFaWJCQkNHQnFHeWNEUXo2dVdEMzE2cTdqMkVfNHJ5Wm1uMjN6?oc=5",
+        "source": "DefenceXP India Watch",
+        "published": "Mon, 05 Oct 2026 12:17:34 GMT",
+        "base_score": 69,
+        "candidate_score": 84,
+        "priority": "High",
+        "matched_keywords": [
+          "Pakistan",
+          "Pakistan Army",
+          "defence"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "a2bfec1c7f403a88d3f82dc3",
+        "mode": "pontos_voice",
+        "title": "Λευκόπετρα Ξάνθης: Αποκαλύφθηκε η ποντιακή λύρα που έγινε τοπόσημο μνήμης - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQS1wZmNXek10cVhIWlRhQmlaaU9QaHBlWFZXTVNYMWp5U2l6VXdzcWZfRVdnVmF3R1dEajdmUTRpdE5kaDUyQ2hsMksyVVAyRTMycDVoVGc3c3RReWhsMnpIb3RwUzZvOHlBc1NmeU9uZENvQ3JzYlNHX2JFMVh5ejBfY0tMblFrRDhJa29uLU5kWUlmMEZfd1c0NnRRSWVkZXZVM0VLOFpOMUwwN2tBcDFieDVyQQ?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Mon, 05 Oct 2026 12:44:29 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακή",
+          "ποντιακή λύρα",
+          "λύρα"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "ff9dc912e8dff7ea75b11e2d",
         "mode": "pontos_voice",
@@ -303,22 +298,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "52c67211a32074c7dbe1bf00",
-        "mode": "pontos_voice",
-        "title": "Καλλιθέα: Οι Πόντιοι αντάμωσαν στη Δαβάκη – Βραβεύτηκε ο Νίκος Ζουρνατζίδης - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUdQYmNKbjdEVGY5cFBwS1Zoc2JUZDVUVS1rZEJ1a1FsT2tOZG00bUpVaDl2X0hKQzhYUDdpaW9VT3JPUDZfaC1BcEtnWE1qdUVVOGlrQ0pJNUwybTNzZEp5UnI5QTRGbUYxUnl5WWFLcjVWRTAwS0FMcjRqLS1memlBc1gxUXI2TF9PMW1pZnZxckxpQnNHdG10MFo3QVBkVE1lODlNMm5DcEdI?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Sun, 04 Oct 2026 11:49:20 GMT",
-        "base_score": 75,
-        "candidate_score": 78,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "Πόντιοι"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "0e63f419bc15f520e8ca08ba",
         "mode": "pontos_voice",
         "title": "Süleyman Soylu, Trabzonlularla buluştu! Fon vurgunuyla ilgili çok sert sözler...",
@@ -338,6 +317,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "b393df2ecdc1f6b6b6ce9401",
+        "mode": "pontos_voice",
+        "title": "İsveç Büyükelçiliğinden KTÜ’ye Ziyaret",
+        "url": "https://www.61saat.com/isvec-buyukelciliginden-ktuye-ziyaret",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 15:48:00 +0300",
+        "base_score": 53,
+        "candidate_score": 68,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Of",
+          "Trabzon",
+          "Karadeniz"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "f0c72dc810bbb81f75e238d3",
         "mode": "pontos_voice",
         "title": "Trabzon'da korku dolu anlar! Tünel içinde alev aldı... 1 kişi hayatını kaybetti",
@@ -353,47 +350,10 @@
           "Trabzon"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "57f8508b2deeb51c7a550d5c",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da mimarlığın değişmeyen sorunları masaya yatırıldı",
-        "url": "https://www.61saat.com/trabzonda-mimarligin-degismeyen-sorunlari-masaya-yatirildi",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 05 Oct 2026 14:44:00 +0300",
-        "base_score": 46,
-        "candidate_score": 61,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "kültür",
-          "Trabzon"
-        ],
-        "content_type": "news"
       }
     ]
   },
   "items": [
-    {
-      "external_id": "bb584489dd34f5bb366d37d3",
-      "mode": "sportdog",
-      "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODZsQzRxUEFiaV9SSkdxb3FhakRDUjZBcWl4a0JiUG91bEtwU2Jpb09SdE5ldkl5UjhZTWk5NmNkRHZSZ29Ubk1xbHg0cHhleHlleE1HVzAxYVVpcS1kTG02RUsxdzNEREYtWHVFMmFBN1YyWXZLcVB2eDl0S2ZHSmNwVy1xSlA2V2pKSUFrMFl0c0lqc19sTlN2dUZVRnJTOS1JcktuS05Fb29pVDVRMGp0d2wxZXc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sun, 04 Oct 2026 00:34:57 GMT",
-      "base_score": 56,
-      "candidate_score": 74,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "deal"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
     {
       "external_id": "b5edb332fbcf8ffcb98d6ef6",
       "mode": "sportdog",
@@ -553,7 +513,7 @@
       "source": "Cyprus Eastern Mediterranean Watch",
       "published": "Mon, 05 Oct 2026 09:44:32 GMT",
       "base_score": 94,
-      "candidate_score": 109,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -566,25 +526,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "2e12408d911b394a5d5ff09f",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz’de GSI gerilimi: Türkiye’nin şartı Yunan basınının gündeminde - ankaranethaber.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGgwSWJ4ZFV0VU9aaTZ0bnRYZWNXY0oySUFyeHpnV0Q5QW1Eek5uNGxUMWhsblBjbHZGMXJNME1Hc1d4YlR2MktkWFB2dFMxR3dPeW91dENyYXFmZ1VnanM3UEUtZEdNUmZiR1RHV01pZWxCUGRPaFFzcVoyeDRQRGNLdDVwNE9jX2dIVEN4SlF6anRUWURQRkpfZkh1bEI0MklpcQ?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Sun, 04 Oct 2026 06:34:00 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "GSI",
-        "Doğu Akdeniz",
-        "Ankara",
-        "gerilim",
-        "GSI"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "a25c01e60d2d7dc384a9e07b",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi’den fonda büyük işlem yapan kişilerle ilgili iddia: Kelleler kopacak - Turkish Post Haber",
@@ -592,30 +533,13 @@
       "source": "Analysts Watch · Turkey",
       "published": "Mon, 05 Oct 2026 09:34:17 GMT",
       "base_score": 75,
-      "candidate_score": 90,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Abdulkadir Selvi",
         "Abdulkadir Selvi"
       ],
       "content_type": "analyst"
-    },
-    {
-      "external_id": "d1f6b02c702b97204453fee6",
-      "mode": "geopolitico",
-      "title": "Zafer Özcivan: Ege ve Doğu Akdeniz’de Gerilim Değil, Hukuk Konuşmalı - Akdenizmanset",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTlSc0F6bG42Y1ZYZkZnSXJTaV9yX1NTZjJVamV6eWtFci1HbUxvVTl5SnpjOW5rVlZfOWVNR3VseXRaWFpYU2puZHRoS2RyR2NWUnRBdlFXQTVVLUF4aXpZSDB6UWRfbzR1enF0cW15LUNiTjluSE94bE12b2VXMVRESHc0TlViRXBDbA?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Sun, 04 Oct 2026 07:00:00 GMT",
-      "base_score": 84,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "Ege",
-        "Doğu Akdeniz",
-        "gerilim"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "284cfa48c5475bafe93d456d",
@@ -632,6 +556,57 @@
         "Abdulkadir Selvi"
       ],
       "content_type": "analyst"
+    },
+    {
+      "external_id": "10210f541197950a521f1270",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwZ0JRS3kwaUF2ZnhtNUpiWFNUM05zenNEOUFjRDZpZ3o1M01VMjl0Vy01azNEVmxtdnpab0JCWWNwRWtZd3Q1djNMTFFDQlJ2SjFhVTIzR2p1TUdwbC1RNkltZWUtXzhrZ0h4TUJOZkNRWlFicnJQbmZGMUpMcmxjY2V0alZIRFJTdkcyMTVESVVWd1pYeUhib1VlTmQ1MU9vM1R3czhwX29pWjM3RkRvMGNQODFFTGY1ZWp2VGJlaTZSbVgzY05CWWg?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Mon, 05 Oct 2026 07:00:10 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
+    },
+    {
+      "external_id": "84ee028b668336b7b7de43f7",
+      "mode": "geopolitico",
+      "title": "Pakistan Army High Command Reshuffle: 11 Major Generals Promoted to Lieutenant General - DefenceXP",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWk03QndZOExlbjI4WEFDVEU2ZmtxajRZQmItNG93WFlmNlF5RUFGeWc3Y3dZN0VYWGprUTJCNldDaVRvWi1UNi16Q2VfM2gwa01TV2dOYnQ0MGEwTTRfWWtuLUU3dEFnbGZmZXpJZ1dFaWJCQkNHQnFHeWNEUXo2dVdEMzE2cTdqMkVfNHJ5Wm1uMjN6?oc=5",
+      "source": "DefenceXP India Watch",
+      "published": "Mon, 05 Oct 2026 12:17:34 GMT",
+      "base_score": 69,
+      "candidate_score": 84,
+      "priority": "High",
+      "matched_keywords": [
+        "Pakistan",
+        "Pakistan Army",
+        "defence"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "a2bfec1c7f403a88d3f82dc3",
+      "mode": "pontos_voice",
+      "title": "Λευκόπετρα Ξάνθης: Αποκαλύφθηκε η ποντιακή λύρα που έγινε τοπόσημο μνήμης - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQS1wZmNXek10cVhIWlRhQmlaaU9QaHBlWFZXTVNYMWp5U2l6VXdzcWZfRVdnVmF3R1dEajdmUTRpdE5kaDUyQ2hsMksyVVAyRTMycDVoVGc3c3RReWhsMnpIb3RwUzZvOHlBc1NmeU9uZENvQ3JzYlNHX2JFMVh5ejBfY0tMblFrRDhJa29uLU5kWUlmMEZfd1c0NnRRSWVkZXZVM0VLOFpOMUwwN2tBcDFieDVyQQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Mon, 05 Oct 2026 12:44:29 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "ποντιακή",
+        "ποντιακή λύρα",
+        "λύρα"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "ff9dc912e8dff7ea75b11e2d",
@@ -666,22 +641,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "52c67211a32074c7dbe1bf00",
-      "mode": "pontos_voice",
-      "title": "Καλλιθέα: Οι Πόντιοι αντάμωσαν στη Δαβάκη – Βραβεύτηκε ο Νίκος Ζουρνατζίδης - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUdQYmNKbjdEVGY5cFBwS1Zoc2JUZDVUVS1rZEJ1a1FsT2tOZG00bUpVaDl2X0hKQzhYUDdpaW9VT3JPUDZfaC1BcEtnWE1qdUVVOGlrQ0pJNUwybTNzZEp5UnI5QTRGbUYxUnl5WWFLcjVWRTAwS0FMcjRqLS1memlBc1gxUXI2TF9PMW1pZnZxckxpQnNHdG10MFo3QVBkVE1lODlNMm5DcEdI?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Sun, 04 Oct 2026 11:49:20 GMT",
-      "base_score": 75,
-      "candidate_score": 78,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Πόντιοι"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "0e63f419bc15f520e8ca08ba",
       "mode": "pontos_voice",
       "title": "Süleyman Soylu, Trabzonlularla buluştu! Fon vurgunuyla ilgili çok sert sözler...",
@@ -701,6 +660,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "b393df2ecdc1f6b6b6ce9401",
+      "mode": "pontos_voice",
+      "title": "İsveç Büyükelçiliğinden KTÜ’ye Ziyaret",
+      "url": "https://www.61saat.com/isvec-buyukelciliginden-ktuye-ziyaret",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 15:48:00 +0300",
+      "base_score": 53,
+      "candidate_score": 68,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Of",
+        "Trabzon",
+        "Karadeniz"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "f0c72dc810bbb81f75e238d3",
       "mode": "pontos_voice",
       "title": "Trabzon'da korku dolu anlar! Tünel içinde alev aldı... 1 kişi hayatını kaybetti",
@@ -713,23 +690,6 @@
       "matched_keywords": [
         "Trabzon",
         "Maçka",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "57f8508b2deeb51c7a550d5c",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da mimarlığın değişmeyen sorunları masaya yatırıldı",
-      "url": "https://www.61saat.com/trabzonda-mimarligin-degismeyen-sorunlari-masaya-yatirildi",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 05 Oct 2026 14:44:00 +0300",
-      "base_score": 46,
-      "candidate_score": 61,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "kültür",
         "Trabzon"
       ],
       "content_type": "news"
