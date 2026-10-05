@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:44:05.899731+00:00",
+  "generated_at": "2026-10-05T06:05:09.924552+00:00",
   "counts": {
     "sportdog": 7,
     "geopolitico": 8,
@@ -223,9 +223,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "289af2ee57a684eada4dcc32",
+        "external_id": "52ccbf5aafc0451e7bad5af7",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - hurriyet.com.tr",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUZHel9yN0hMczA3VHdWbDF0Q0psRkVya1FHTFl4NnJuVGh6QWtrZDhLZVhmVnVmM3EzOERwSGFIQ2E3X05McU9fTzQtbDloX1d3VkhKZWhKOFc2UUJQb3MzcUNUVzVtRUN4LUh2aUYxbXpDZFk3Q0MxZGhsNU52dTdLdjlOOGJfN01IZjMyS3B3VklTOGNrQU1Wb1RDNlJfMzQ1bW94SzY?oc=5",
         "source": "Analysts Watch · Turkey",
         "published": "Mon, 05 Oct 2026 03:18:00 GMT",
@@ -255,9 +255,9 @@
         "content_type": "analyst"
       },
       {
-        "external_id": "a08f8e83eead28f4d1786aab",
+        "external_id": "06a24f2ce2d28723d84876d0",
         "mode": "geopolitico",
-        "title": "Pakistan Army’s Drone MoU With US Firm Powerus Triggers Concerns Over Ukraine Drone Tech Transfer and Terror Links - defence.in",
+        "title": "Pakistan Army’s Drone MoU With US Firm Powerus Triggers Concerns Over Ukraine Drone Tech Transfer and Terror Links - Defence.in",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdHptVFFWY1NhRU1hZ3Uxa0l4LW1Dc21tT1VTLTBhaHA2UHlvWXRKWnY1YzZRVkhtM2o2QnhKUFg3a1JLZU9saTM0UDViMFVZdjZJdVpPUlZBMHBSbzZlVFpXWUttTGlJWlhrR3RtSzQzS3U0aklVY0NpdUNGOGVDNTJ6Sm5lMHh6WjVGbkJsWGNRX3d4THRHRzE4c3ZyRkhVa1BIQ25ZSFNmLXV4QUpGRmEzWVJBRUxVQ0theXNPRjRtbXdZU3pNZVp2NEQ2MWlUaUl6VWhlaDVaZE1Ia1Rmbg?oc=5",
         "source": "Pakistan Security Watch",
         "published": "Sun, 04 Oct 2026 16:48:37 GMT",
@@ -331,11 +331,45 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sun, 04 Oct 2026 11:49:20 GMT",
         "base_score": 75,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
           "Πόντιοι"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "6a9f7f0267fcc188732f8a6b",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da gözaltına alınmıştı, adliyeye sevk edildi",
+        "url": "https://www.61saat.com/trabzonda-gozaltina-alinmisti-adliyeye-sevk-edildi",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 08:59:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "d934286bf24663634ecd2d86",
+        "mode": "pontos_voice",
+        "title": "Trabzon’da sağanak geliyor! Gece saatlerine dikkat",
+        "url": "https://www.61saat.com/trabzonda-saganak-geliyor-gece-saatlerine-dikkat",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 05 Oct 2026 08:45:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "dil"
         ],
         "content_type": "news"
       },
@@ -353,41 +387,6 @@
           "Trabzon",
           "tepki",
           "anıt",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "7a0596728b01f3e8ec1618d3",
-        "mode": "pontos_voice",
-        "title": "Peş peşe korkutan depremler! Trabzonlu profesörden kritik açıklama geldi - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0U2V3dpcFRvMVNWWFI2TGVCNzZHMUloN3lpblhrRkVNSHNXVW5FeldMSUVzSUFSWmhmNXVfdUpNU0kzU3pUckRTa0hHVVdwRFBUQ0RTeEdqbkZTZ3p1TGNzNm9SbHN4R1dDNW9oNEdlOWF1VGlGRmdLNzVYV2FJOUxBa3Q3YldzVEdod0dxWEtaak8zN3lMRlNiVTE4a2VnSF96dnVSSGdnZzJYNlE?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sun, 04 Oct 2026 13:30:32 GMT",
-        "base_score": 45,
-        "candidate_score": 51,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Of",
-          "açıklama",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "64995ec6da3671e52d44620c",
-        "mode": "pontos_voice",
-        "title": "Rafet El Roman Trabzonspor formasıyla sahneye Çıktı! Salah’a mesaj gönderdi - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1VUT1NFSkNnTUpYTlhsdm5JaHJjWmN3Vkt6cnhoRU02MkIydmtTMHR5aWFmOXpXeWdkUEpNZ21IMFJDZC0tRXJERWFkQnEwRjJ5SFYwQjZybkY5RE9lN25oX2ZnYmhycU5jemhtN3Q1MmkwcjV5OWlXS1UwVHNNalNCQzhfMTU5dEJZY1pzRzBpQVZzd1NrLXp3Yl9ZdkxCZzZCcXgtSXEtQlMzTkRvLTlDRGhseDZy?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sun, 04 Oct 2026 20:10:00 GMT",
-        "base_score": 44,
-        "candidate_score": 50,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Roma",
           "Trabzon"
         ],
         "content_type": "news"
@@ -609,9 +608,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "289af2ee57a684eada4dcc32",
+      "external_id": "52ccbf5aafc0451e7bad5af7",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - hurriyet.com.tr",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — O paraları getirecekler başka bir yolu yok | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUZHel9yN0hMczA3VHdWbDF0Q0psRkVya1FHTFl4NnJuVGh6QWtrZDhLZVhmVnVmM3EzOERwSGFIQ2E3X05McU9fTzQtbDloX1d3VkhKZWhKOFc2UUJQb3MzcUNUVzVtRUN4LUh2aUYxbXpDZFk3Q0MxZGhsNU52dTdLdjlOOGJfN01IZjMyS3B3VklTOGNrQU1Wb1RDNlJfMzQ1bW94SzY?oc=5",
       "source": "Analysts Watch · Turkey",
       "published": "Mon, 05 Oct 2026 03:18:00 GMT",
@@ -641,9 +640,9 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "a08f8e83eead28f4d1786aab",
+      "external_id": "06a24f2ce2d28723d84876d0",
       "mode": "geopolitico",
-      "title": "Pakistan Army’s Drone MoU With US Firm Powerus Triggers Concerns Over Ukraine Drone Tech Transfer and Terror Links - defence.in",
+      "title": "Pakistan Army’s Drone MoU With US Firm Powerus Triggers Concerns Over Ukraine Drone Tech Transfer and Terror Links - Defence.in",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdHptVFFWY1NhRU1hZ3Uxa0l4LW1Dc21tT1VTLTBhaHA2UHlvWXRKWnY1YzZRVkhtM2o2QnhKUFg3a1JLZU9saTM0UDViMFVZdjZJdVpPUlZBMHBSbzZlVFpXWUttTGlJWlhrR3RtSzQzS3U0aklVY0NpdUNGOGVDNTJ6Sm5lMHh6WjVGbkJsWGNRX3d4THRHRzE4c3ZyRkhVa1BIQ25ZSFNmLXV4QUpGRmEzWVJBRUxVQ0theXNPRjRtbXdZU3pNZVp2NEQ2MWlUaUl6VWhlaDVaZE1Ia1Rmbg?oc=5",
       "source": "Pakistan Security Watch",
       "published": "Sun, 04 Oct 2026 16:48:37 GMT",
@@ -715,11 +714,45 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sun, 04 Oct 2026 11:49:20 GMT",
       "base_score": 75,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
         "Πόντιοι"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "6a9f7f0267fcc188732f8a6b",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da gözaltına alınmıştı, adliyeye sevk edildi",
+      "url": "https://www.61saat.com/trabzonda-gozaltina-alinmisti-adliyeye-sevk-edildi",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 08:59:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "d934286bf24663634ecd2d86",
+      "mode": "pontos_voice",
+      "title": "Trabzon’da sağanak geliyor! Gece saatlerine dikkat",
+      "url": "https://www.61saat.com/trabzonda-saganak-geliyor-gece-saatlerine-dikkat",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 05 Oct 2026 08:45:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "dil"
       ],
       "content_type": "news"
     },
@@ -737,41 +770,6 @@
         "Trabzon",
         "tepki",
         "anıt",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "7a0596728b01f3e8ec1618d3",
-      "mode": "pontos_voice",
-      "title": "Peş peşe korkutan depremler! Trabzonlu profesörden kritik açıklama geldi - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0U2V3dpcFRvMVNWWFI2TGVCNzZHMUloN3lpblhrRkVNSHNXVW5FeldMSUVzSUFSWmhmNXVfdUpNU0kzU3pUckRTa0hHVVdwRFBUQ0RTeEdqbkZTZ3p1TGNzNm9SbHN4R1dDNW9oNEdlOWF1VGlGRmdLNzVYV2FJOUxBa3Q3YldzVEdod0dxWEtaak8zN3lMRlNiVTE4a2VnSF96dnVSSGdnZzJYNlE?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sun, 04 Oct 2026 13:30:32 GMT",
-      "base_score": 45,
-      "candidate_score": 51,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Of",
-        "açıklama",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "64995ec6da3671e52d44620c",
-      "mode": "pontos_voice",
-      "title": "Rafet El Roman Trabzonspor formasıyla sahneye Çıktı! Salah’a mesaj gönderdi - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1VUT1NFSkNnTUpYTlhsdm5JaHJjWmN3Vkt6cnhoRU02MkIydmtTMHR5aWFmOXpXeWdkUEpNZ21IMFJDZC0tRXJERWFkQnEwRjJ5SFYwQjZybkY5RE9lN25oX2ZnYmhycU5jemhtN3Q1MmkwcjV5OWlXS1UwVHNNalNCQzhfMTU5dEJZY1pzRzBpQVZzd1NrLXp3Yl9ZdkxCZzZCcXgtSXEtQlMzTkRvLTlDRGhseDZy?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sun, 04 Oct 2026 20:10:00 GMT",
-      "base_score": 44,
-      "candidate_score": 50,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Roma",
         "Trabzon"
       ],
       "content_type": "news"
