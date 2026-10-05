@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:54:42.368213+00:00",
+  "generated_at": "2026-10-05T10:27:57.192486+00:00",
   "counts": {
     "sportdog": 8,
     "geopolitico": 8,
@@ -7,6 +7,26 @@
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "d81306647d5ecdfc0563f5c8",
+        "mode": "sportdog",
+        "title": "Panathinaikos Chicago - transfermarkt.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 04 Oct 2026 23:52:24 GMT",
+        "base_score": 56,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
       {
         "external_id": "bb584489dd34f5bb366d37d3",
         "mode": "sportdog",
@@ -24,26 +44,6 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "b5edb332fbcf8ffcb98d6ef6",
-        "mode": "sportdog",
-        "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sun, 04 Oct 2026 20:19:07 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -87,6 +87,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "aa808a4d318ac4004ac795b4",
+        "mode": "sportdog",
+        "title": "PAOK v BC Roma 03/11/2026, Player stats - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkZHOUU5M0l6Qm9NQS1qVTY2eEdJTkNoT2pOdmRXNEdQbG9Ncnd3eWJLXzZqbi1MRGNKR1ZiUHZHa3RhQnN3RGlUU2JGTGM2ZldPSFJ0QmtWRTBEMzV1RHlEeWx4dUFyVFBGZjhjeEN6d1lCb0RUWkJQZV9NeGNtSmxqS0hSWGh2c1R1VnNKVmlpd1FsNjdYcHZBUUw?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 04 Oct 2026 23:13:38 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "58618a298b738e316d3c88d6",
         "mode": "sportdog",
         "title": "Donatas Motiejunas Joins PAOK - paokbc.gr",
@@ -112,25 +131,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Sun, 04 Oct 2026 14:17:18 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "4fdde702060af9ca41fc91b6",
-        "mode": "sportdog",
-        "title": "KK Bosna v PAOK 06/10/2026, Player stats - Flashscore.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1ZMSGtQMS1fbFlfYmhLOEtFSlZ1S08zdXRLNUlla2FzX3RyeTJGR2NRU2lQd2NNY0ZzWFNlTDh0V3BjX1VtcmhRZGFlMmRCUDNOWVBnbHdnUmJLVWNVOC1PczI1Ym5aa3ZBeXZXQXRqT21vRDRZVmtxOGY5azFvNHU0dEJxY2xuVXJZdkNBQWE2QzB3UmRLSDFfWmJ6dw?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sun, 04 Oct 2026 11:36:36 GMT",
         "base_score": 31,
         "candidate_score": 42,
         "priority": "Normal",
@@ -223,9 +223,9 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "07a2a6a1477768f745a855e4",
+        "external_id": "acea9f0b0b696d57382e612d",
         "mode": "geopolitico",
-        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
+        "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - greekcitytimes.com",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
         "source": "Cyprus Eastern Mediterranean Watch",
         "published": "Mon, 05 Oct 2026 09:44:32 GMT",
@@ -241,6 +241,24 @@
           "F-35"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "e78cb6de5382a030c7cd73de",
+        "mode": "geopolitico",
+        "title": "Ege Denizi'nde uçan bir Türk savaş uçağını ve aynı anda Yunan radarlarının bölgenin net görüntüsünü kaybetmeye başladığını hayal edin. - ssbulten.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNN21JdjRzbXJJdlZMd0l1ZktCUXN3ekJSNlBiMnNqbV9tdGxSemRST3FZcmh2N3RWREF6Z1N6SmJwN1VYbDNWejNJQU5zWHFWOTAwbUNOaTdPMDAxUmt1NzhjM2JSa2lUMk9DbUZ5XzhsZjJKMV84aEJfc01hZzVBaXE5ZlV3bXFhbmRSV2phQi0zVWtPczI4VXk4bU5JSmtzUjhWVVR4bmQ0dnRmREwzQkdEejEtOERTbTQ3TEVjbGRTZVJINGlnZ3pUc0ljM0steXczVDhmTTBIZ2d2SmFBbGt6cEx3el9kMmgxWnJOTVFUaUFJZnkzVzhMZDZsbHlnWXFORlM3MA?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Mon, 05 Oct 2026 05:04:33 GMT",
+        "base_score": 94,
+        "candidate_score": 104,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Ege",
+          "Ege Denizi",
+          "ada",
+          "savaş uçağı"
+        ],
+        "content_type": "turkey_greece"
       },
       {
         "external_id": "2e12408d911b394a5d5ff09f",
@@ -284,22 +302,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWcyV0Rxa2NMUzRmVEJTbG9KeFIybW9mbzVTcHRXYkxpSkpQWDhwUTZmT01TOUZzR090b0FpZ25LWmttWS11QmZkLTE0dVhCLUF4TWNjWXQ1OWhVeDdKS1luZFp4eG9Mcno3QkpNS2kyZGhsVDh1eTFTZ051RkV6SEo1YVl3RmlKQlExcmVqc25kdEhzZUxMb0dudHp3dk1lU1h6MG9OdkVsT3h6d1BLLUE5c2lNZ2tNZjRpSVJrMmFhX2FVaXc?oc=5",
         "source": "Analysts Watch · Turkey",
         "published": "Mon, 05 Oct 2026 08:24:00 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "10210f541197950a521f1270",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwZ0JRS3kwaUF2ZnhtNUpiWFNUM05zenNEOUFjRDZpZ3o1M01VMjl0Vy01azNEVmxtdnpab0JCWWNwRWtZd3Q1djNMTFFDQlJ2SjFhVTIzR2p1TUdwbC1RNkltZWUtXzhrZ0h4TUJOZkNRWlFicnJQbmZGMUpMcmxjY2V0alZIRFJTdkcyMTVESVVWd1pYeUhib1VlTmQ1MU9vM1R3czhwX29pWjM3RkRvMGNQODFFTGY1ZWp2VGJlaTZSbVgzY05CWWg?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Mon, 05 Oct 2026 07:00:10 GMT",
         "base_score": 75,
         "candidate_score": 90,
         "priority": "High",
@@ -417,6 +419,26 @@
   },
   "items": [
     {
+      "external_id": "d81306647d5ecdfc0563f5c8",
+      "mode": "sportdog",
+      "title": "Panathinaikos Chicago - transfermarkt.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWVKcjhJdGR2SnRCTEUwZm82eEtneGpYclc4eVNzeHQ5djJzaXJGak9rOXl1RHlHS1VZSW8zMkhtYUphZ2lCQ2tkTUdEVHJTYTRmRjhudHVzc2phR1hPSUZCajFTc0dPc2dDN3R2ZmZRa3R6Mk8xUWlfNXZlWTU5Vk1ieWlTUWc?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 04 Oct 2026 23:52:24 GMT",
+      "base_score": 56,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "bb584489dd34f5bb366d37d3",
       "mode": "sportdog",
       "title": "NBA: Panathinaikos Plots Audacious Jokić Raid—but $360m Denver Deal Should Kill the Dream - The Sporting Base",
@@ -433,26 +455,6 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "b5edb332fbcf8ffcb98d6ef6",
-      "mode": "sportdog",
-      "title": "Defensive contributions per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21oMk9hX0EyV0dlVzY1MVNCMExhdzEyMExxS1k2MUQxbG9kVkZLcWo2RkZxZmhiVmxUUmt6WjZINUFNZXdzNnIyWnBEYnBzYXZUV0JjWWU4V2FCd3ZyRWVZRkJUWVBlYko1RXhuTENKZzFhUzVwaU1DWEoxVmo5MTVfLUJMRl9jLXdOTlhfUzd2eTF1aVlJWGZMVi1SdmprR0w1UjV5eXlMR1JzaTJPLXNMeFBjZGZ5NUpMTi1R?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sun, 04 Oct 2026 20:19:07 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -496,6 +498,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "aa808a4d318ac4004ac795b4",
+      "mode": "sportdog",
+      "title": "PAOK v BC Roma 03/11/2026, Player stats - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkZHOUU5M0l6Qm9NQS1qVTY2eEdJTkNoT2pOdmRXNEdQbG9Ncnd3eWJLXzZqbi1MRGNKR1ZiUHZHa3RhQnN3RGlUU2JGTGM2ZldPSFJ0QmtWRTBEMzV1RHlEeWx4dUFyVFBGZjhjeEN6d1lCb0RUWkJQZV9NeGNtSmxqS0hSWGh2c1R1VnNKVmlpd1FsNjdYcHZBUUw?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 04 Oct 2026 23:13:38 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "58618a298b738e316d3c88d6",
       "mode": "sportdog",
       "title": "Donatas Motiejunas Joins PAOK - paokbc.gr",
@@ -521,25 +542,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnB2dkFWSzg1OTkxM3VFV1ZTbjY5bXFMbXlSZ2tkV3hrbXEyOWplY0RRSkdtbWZTbHRoQndzSExKS2FfQzIwM3gyLW90TUxvbmozWGtIMkpkYTJ6dlVjTHJNeVJ0dlhtNHNTNEEtUWlpVzBqT3lLRnN0OGRodlE4Tmk3U0NyNHJ0UWRyRw?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Sun, 04 Oct 2026 14:17:18 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "4fdde702060af9ca41fc91b6",
-      "mode": "sportdog",
-      "title": "KK Bosna v PAOK 06/10/2026, Player stats - Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1ZMSGtQMS1fbFlfYmhLOEtFSlZ1S08zdXRLNUlla2FzX3RyeTJGR2NRU2lQd2NNY0ZzWFNlTDh0V3BjX1VtcmhRZGFlMmRCUDNOWVBnbHdnUmJLVWNVOC1PczI1Ym5aa3ZBeXZXQXRqT21vRDRZVmtxOGY5azFvNHU0dEJxY2xuVXJZdkNBQWE2QzB3UmRLSDFfWmJ6dw?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sun, 04 Oct 2026 11:36:36 GMT",
       "base_score": 31,
       "candidate_score": 42,
       "priority": "Normal",
@@ -630,9 +632,9 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "07a2a6a1477768f745a855e4",
+      "external_id": "acea9f0b0b696d57382e612d",
       "mode": "geopolitico",
-      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - Greek City Times",
+      "title": "Rubio heads to Athens, not Ankara, as Greece pushes for F-35s, new weapons and energy backing - greekcitytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlJRM1NDVHhQbG4xdlJEM0ZHUkcxLTRvRXB6Rkh1aWFycEwtN2RVeE9XUGpDT2FVX21wa2VuZzV3WWNaWE9qaW93d1Q3Uy1sbDZ6M1ZWTEdvaUVTdW9uNENsd25udEp6WVl5VTJnWUNQWmF3UFU2LXF2Vzl3NXVjcHY1S2c5OWtYU3lj?oc=5",
       "source": "Cyprus Eastern Mediterranean Watch",
       "published": "Mon, 05 Oct 2026 09:44:32 GMT",
@@ -648,6 +650,24 @@
         "F-35"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "e78cb6de5382a030c7cd73de",
+      "mode": "geopolitico",
+      "title": "Ege Denizi'nde uçan bir Türk savaş uçağını ve aynı anda Yunan radarlarının bölgenin net görüntüsünü kaybetmeye başladığını hayal edin. - ssbulten.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNN21JdjRzbXJJdlZMd0l1ZktCUXN3ekJSNlBiMnNqbV9tdGxSemRST3FZcmh2N3RWREF6Z1N6SmJwN1VYbDNWejNJQU5zWHFWOTAwbUNOaTdPMDAxUmt1NzhjM2JSa2lUMk9DbUZ5XzhsZjJKMV84aEJfc01hZzVBaXE5ZlV3bXFhbmRSV2phQi0zVWtPczI4VXk4bU5JSmtzUjhWVVR4bmQ0dnRmREwzQkdEejEtOERTbTQ3TEVjbGRTZVJINGlnZ3pUc0ljM0steXczVDhmTTBIZ2d2SmFBbGt6cEx3el9kMmgxWnJOTVFUaUFJZnkzVzhMZDZsbHlnWXFORlM3MA?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Mon, 05 Oct 2026 05:04:33 GMT",
+      "base_score": 94,
+      "candidate_score": 104,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Ege",
+        "Ege Denizi",
+        "ada",
+        "savaş uçağı"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "2e12408d911b394a5d5ff09f",
@@ -691,22 +711,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWcyV0Rxa2NMUzRmVEJTbG9KeFIybW9mbzVTcHRXYkxpSkpQWDhwUTZmT01TOUZzR090b0FpZ25LWmttWS11QmZkLTE0dVhCLUF4TWNjWXQ1OWhVeDdKS1luZFp4eG9Mcno3QkpNS2kyZGhsVDh1eTFTZ051RkV6SEo1YVl3RmlKQlExcmVqc25kdEhzZUxMb0dudHp3dk1lU1h6MG9OdkVsT3h6d1BLLUE5c2lNZ2tNZjRpSVJrMmFhX2FVaXc?oc=5",
       "source": "Analysts Watch · Turkey",
       "published": "Mon, 05 Oct 2026 08:24:00 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "10210f541197950a521f1270",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Fatma Betül Sayan Kaya ve Fon Krizi Sonrası Abdulkadir Selvi Açıkladı: “Cumhurbaşkanı Kelle Koparacak” - Onedio",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwZ0JRS3kwaUF2ZnhtNUpiWFNUM05zenNEOUFjRDZpZ3o1M01VMjl0Vy01azNEVmxtdnpab0JCWWNwRWtZd3Q1djNMTFFDQlJ2SjFhVTIzR2p1TUdwbC1RNkltZWUtXzhrZ0h4TUJOZkNRWlFicnJQbmZGMUpMcmxjY2V0alZIRFJTdkcyMTVESVVWd1pYeUhib1VlTmQ1MU9vM1R3czhwX29pWjM3RkRvMGNQODFFTGY1ZWp2VGJlaTZSbVgzY05CWWg?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Mon, 05 Oct 2026 07:00:10 GMT",
       "base_score": 75,
       "candidate_score": 90,
       "priority": "High",
