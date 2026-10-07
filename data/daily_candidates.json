@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T14:38:04.587349+00:00",
+  "generated_at": "2026-10-07T20:10:43.282890+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Wed, 07 Oct 2026 13:13:01 GMT",
         "base_score": 75,
-        "candidate_score": 106,
+        "candidate_score": 101,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -36,7 +36,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 06 Oct 2026 21:50:56 GMT",
         "base_score": 76,
-        "candidate_score": 102,
+        "candidate_score": 99,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -58,31 +58,11 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 06 Oct 2026 22:27:13 GMT",
         "base_score": 56,
-        "candidate_score": 82,
+        "candidate_score": 79,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
           "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "c1442f46b76098979a730d45",
-        "mode": "sportdog",
-        "title": "Tzolakis already proving Hull City's £20m Olympiacos deal was inspired business - Hull Live",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNk55WlcwUDhQbTJYeWZ4U3VlMW9LTllsZjZmTHdqa3B2QVFZRFRWeFNjc242azZRZ2szN01DcEU0VVhTaWtaOGphcjFISnVETUxiZDRBZDBkY2VEakRwVkFuTk81WFNaZXFrdXdMek5wQ1hQMGt0SWluRWg4S0FSZ1YtcDkzWmxsU0xLRURfY2NIa3BySk1wSjRSeUViYVNreFVJdUVGdw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 06 Oct 2026 04:00:00 GMT",
-        "base_score": 56,
-        "candidate_score": 74,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "deal"
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
@@ -111,21 +91,22 @@
         "needs_second_source": true
       },
       {
-        "external_id": "3998f875cb662f02d41c0735",
+        "external_id": "6e0decb9b000a4a0dd33c71f",
         "mode": "sportdog",
-        "title": "We need a solution with NBA: Panathinaikos owner - Sportstar",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmRpNkhZOUNFSmVxeXpiYjNNZU40b2RzM3hSUndTVjBLTmN5bUQ1LXBuQjRTMFNMQ292aDl1bngybWpwcFlNX0FLODFOZ2ZQY0lIZDZvMGtTVVdwaVNWc3lJU2pNdkozeXNWWnJGS0p4Y2lvT0owTmVhSjlVWnR2SjVwVXhyeG5PcXZ2Vi00Y2twZXk3d2VLdGJwQVJQaDJ6UFB3WUJ1TlV1ZmdKVFdrOEthTnRxekJ4eHJKbTRkV1JKTTBuRllMYlREc08yRFFQ0gHXAUFVX3lxTE5PTldITVVtX3ZEWTE0ZmZnc2drMjZvT05VcDRQcjZuVU1uRVZRbURuZk1nNWRXRU1NUk9sODNFNFpWQnRCX1FlZVVVbnU0TDZZRTU2azVKZDdmOHg3d3ZIaHBvWm1tSDNzM0RTQmpUYTM5aHJsWGVZUWQ1QWdIaHNvVlVVMlQ3Ukw5bGRUdTFlNnc3R190Y0ZTZXlEVkEwYURJUGpXY01UeE16cTludTVSN2pnY2UxRG1MVlNhYm9FN1FNb3FxbnU5X2cyYlZKbDZFWkxaUEs4?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 07 Oct 2026 12:16:57 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
+        "title": "Qarabag forward Ali Ibrahim to attend Olympiacos trial - Operativ Məlumat Mərkəzi",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUtpcmRmQ0xXWV9oYVY4cXlETmFraG01LU83NmxtTVI2akpNQXNIRVNRUkhTRXJGNldsN0Y1TVVWdWR5eUFzeXpOUzJBYkRiWWVOdTRiaDZEVFIzeUZMU2ZPSy1ydVhCMWRKZWxJbGhBd2JDOGVyQXZLQnVTenZmUXM1Q3ZhODQzT0NVS2VJTWlQOTB1?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Wed, 07 Oct 2026 11:00:00 GMT",
+        "base_score": 39,
+        "candidate_score": 53,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos"
+          "Olympiacos",
+          "forward"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Panathinaikos",
+        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -150,6 +131,44 @@
         "needs_second_source": true
       },
       {
+        "external_id": "3998f875cb662f02d41c0735",
+        "mode": "sportdog",
+        "title": "We need a solution with NBA: Panathinaikos owner - Sportstar",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmRpNkhZOUNFSmVxeXpiYjNNZU40b2RzM3hSUndTVjBLTmN5bUQ1LXBuQjRTMFNMQ292aDl1bngybWpwcFlNX0FLODFOZ2ZQY0lIZDZvMGtTVVdwaVNWc3lJU2pNdkozeXNWWnJGS0p4Y2lvT0owTmVhSjlVWnR2SjVwVXhyeG5PcXZ2Vi00Y2twZXk3d2VLdGJwQVJQaDJ6UFB3WUJ1TlV1ZmdKVFdrOEthTnRxekJ4eHJKbTRkV1JKTTBuRllMYlREc08yRFFQ0gHXAUFVX3lxTE5PTldITVVtX3ZEWTE0ZmZnc2drMjZvT05VcDRQcjZuVU1uRVZRbURuZk1nNWRXRU1NUk9sODNFNFpWQnRCX1FlZVVVbnU0TDZZRTU2azVKZDdmOHg3d3ZIaHBvWm1tSDNzM0RTQmpUYTM5aHJsWGVZUWQ1QWdIaHNvVlVVMlQ3Ukw5bGRUdTFlNnc3R190Y0ZTZXlEVkEwYURJUGpXY01UeE16cTludTVSN2pnY2UxRG1MVlNhYm9FN1FNb3FxbnU5X2cyYlZKbDZFWkxaUEs4?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 07 Oct 2026 12:16:57 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "f27a6d4c150aff7a44e75f96",
+        "mode": "sportdog",
+        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Wed, 07 Oct 2026 00:24:42 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "d44d6835f75ac19aa01a34c9",
         "mode": "sportdog",
         "title": "Nick Calathes After PAOK’s Thriller Over KK Bosna: “I Want to Keep Playing, But One Day I’d Like to Be a Coach” - TalkBasket.net",
@@ -157,7 +176,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Tue, 06 Oct 2026 23:44:32 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -188,23 +207,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "33d73575f13809ccb85c63ab",
-        "mode": "geopolitico",
-        "title": "Egypt, Lebanon, Oman, Greece, Cyprus keen to join IMEC; ministerial meet likely later this year: France - The Tribune",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQjhPazZYVHNjZnZ0ZGc2LVdCTldzdHRuUjB2QUNHdG0xTnJQdEdRT2xXV2treEZKNXdiNFh2cEtfem55Yi1rV042U3FTZjZVUURNcW5mX0FyQWJUS1pyd2VDN3ludmtaN2dqcl9RNVZEM3pENHB0TUNuZEt5LXBQXzlseWx3NUNTTXk5SzZLU2Y0aVU3QWJfd0l3dllTU1lBZG5zUUtOc2pIbVJxUkNJQkU4MmthOVNMZllsM1NrYnQ5dnF3OGxUVFU2cHlXQWpRT2lnSdIB2AFBVV95cUxOQ09PbHpzSHJkUmRLMFNxdks3Z1p2a3dhLWdwT2NZUzVsZnZLNmM2VTU5ZWQxYkpUc3J0QjVKSC1rMVZEYVJENVdiU2kzYmIxd05OemxOaG1raGEtdVc0Z2s3Wmx4UzRlVEstY1FVdGhrME0wYjY1dWhjRWcxZlVHQWJMMzZiOGljM2p4VHZRRGhwekk2aUtReDE5Skx0WU53eDhsWDdmSDFlWERvQURWekk3eUQyYy1LT0ZoSXlwSExLQlN0dE5hVVZWYmstbGw5MDdiUWdLWFE?oc=5",
-        "source": "Greece India Strategic Watch",
-        "published": "Tue, 06 Oct 2026 14:00:56 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Cyprus",
-          "IMEC"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "a747fe3a38bfd697f2e792f3",
         "mode": "geopolitico",
         "title": "Marco Rubio Atina’da: Gündemde Kıbrıs, enerji ve Doğu Akdeniz var - Bugün Kıbrıs",
@@ -219,23 +221,6 @@
           "Kıbrıs",
           "Atina",
           "enerji"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "7e00cb8e25bf9ad6deda2b7c",
-        "mode": "geopolitico",
-        "title": "Yunanistan'dan Türkiye sınırında provokatif hamle! Dendias'ın planı deşifre oldu: 522 yeni tahkimat yolda! 2030'u işaret ettiler - SuperHaber",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWUt5NlVHZzl5c1ZyVE9KUGpfdndqMVNLTGREVW56eGRwTnFaOHc2UHBuSWxHYXNfWVJrV0hPaU1zRmc3eURBS0U0TUZOc2toNXROSVNtSWJBMEtaQ0RIS3UyRy1sV2tIeUFJaS1LSnUwaS1Sb1pQUmV0TlJXd3dzUWJCeDNoRUpCdkJLb1lWSHFhWUx1cjVkSFpzR2c0ay12ZEdTcG1jV0RpNWlKbGZhdlhuUG5SMTZ1M0YwMtIBwgFBVV95cUxOZkhMN0VjNjNhdFFSNFlMc0tDNkZydHBqTDdMN3JPSEVZVk9VZ2Q2YnBVeGVjWG00dHc0elc2LUVHS2JwRDMwYVk2Z0oxVWZtN0tZTW5GY01qMGROZ0o1ajJpR1pVUlhfOFcxTERZRnBpOXhlWG5SRklBR2E2RFBoNzNDRGdLQTZSRXVmdUJCUHUyZ2d6SFFIdlIxYlN4d2dQMGl1N3BSc0JiNU1EZ0ZCWHBOdzA1OU53X2loTi0waDVqZw?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 07 Oct 2026 12:55:00 GMT",
-        "base_score": 81,
-        "candidate_score": 96,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Dendias",
-          "sınır"
         ],
         "content_type": "turkey_greece"
       },
@@ -258,6 +243,39 @@
         "content_type": "news"
       },
       {
+        "external_id": "ead5b19135106456113b0d87",
+        "mode": "geopolitico",
+        "title": "Yunanistan'dan Türkiye sınırında provokatif hamle! Dendias'ın planı deşifre oldu: 522 yeni tahkimat yolda! 2030'u işaret ettiler - SuperHaber",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkhMN0VjNjNhdFFSNFlMc0tDNkZydHBqTDdMN3JPSEVZVk9VZ2Q2YnBVeGVjWG00dHc0elc2LUVHS2JwRDMwYVk2Z0oxVWZtN0tZTW5GY01qMGROZ0o1ajJpR1pVUlhfOFcxTERZRnBpOXhlWG5SRklBR2E2RFBoNzNDRGdLQTZSRXVmdUJCUHUyZ2d6SFFIdlIxYlN4d2dQMGl1N3BSc0JiNU1EZ0ZCWHBOdzA1OU53X2loTi0waDVqZ9IBwgFBVV95cUxOZkhMN0VjNjNhdFFSNFlMc0tDNkZydHBqTDdMN3JPSEVZVk9VZ2Q2YnBVeGVjWG00dHc0elc2LUVHS2JwRDMwYVk2Z0oxVWZtN0tZTW5GY01qMGROZ0o1ajJpR1pVUlhfOFcxTERZRnBpOXhlWG5SRklBR2E2RFBoNzNDRGdLQTZSRXVmdUJCUHUyZ2d6SFFIdlIxYlN4d2dQMGl1N3BSc0JiNU1EZ0ZCWHBOdzA1OU53X2loTi0waDVqZw?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 07 Oct 2026 12:55:00 GMT",
+        "base_score": 81,
+        "candidate_score": 91,
+        "priority": "High",
+        "matched_keywords": [
+          "Yunanistan",
+          "Dendias",
+          "sınır"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "78d3af633671e26ad7225c57",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi, SPK'ya sordu: Fon rezaleti neden yaşandı haberi - Borsanın Gündemi",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1RhRW5BLUtmNFQzelhRT0g5U2RORmNieW0xRG12LW9KTVYxOGhaelVIUldPU2ctR3ZsSTZ4ZHdZaWxycHVwQ1hPdjN6aDk1Mk54UGl0a3dsYm90T3hLTGNoS2h6cmdGWEVfY3pvQmNkTWxyTVVKWjJEOXd3UzNTUW5JVmFKWjk4VXRuYzA5WnQ0dVJaaTZnamNBUUlWc0VqSmJF?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Wed, 07 Oct 2026 18:02:02 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
+      },
+      {
         "external_id": "6b19e3885f079637b2c66b82",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: İzmir Büyükşehir Belediyesi ilk kez AK Parti’ye geçecek - Bundle",
@@ -265,7 +283,7 @@
         "source": "Analysts Watch · Turkey",
         "published": "Wed, 07 Oct 2026 13:24:40 GMT",
         "base_score": 75,
-        "candidate_score": 90,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Abdulkadir Selvi",
@@ -281,7 +299,7 @@
         "source": "Analysts Watch · United States",
         "published": "Wed, 07 Oct 2026 12:36:02 GMT",
         "base_score": 75,
-        "candidate_score": 90,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Michael Rubin",
@@ -290,23 +308,58 @@
         "content_type": "analyst"
       },
       {
-        "external_id": "78d3af633671e26ad7225c57",
+        "external_id": "e835efff48f0f7561d71ef59",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi, SPK'ya sordu: Fon rezaleti neden yaşandı haberi - Borsanın Gündemi",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1RhRW5BLUtmNFQzelhRT0g5U2RORmNieW0xRG12LW9KTVYxOGhaelVIUldPU2ctR3ZsSTZ4ZHdZaWxycHVwQ1hPdjN6aDk1Mk54UGl0a3dsYm90T3hLTGNoS2h6cmdGWEVfY3pvQmNkTWxyTVVKWjJEOXd3UzNTUW5JVmFKWjk4VXRuYzA5WnQ0dVJaaTZnamNBUUlWc0VqSmJF?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Wed, 07 Oct 2026 11:40:14 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
+        "title": "Rubio-Gerapetritis görüşmesi: “Kıbrıs, Doğu Akdeniz güvenliğinin ayrılmaz parçası” - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVlfbld0N05EVllLM0o3M3RnZ0NyZlhHT3VVQ1Nad1l0NUhrRXJiVllXVk8xSTRmdDhuYjVKSm9CdXo0dDZqbVBHQWRfWDUyWVBsUzZyTkhrb3JDd3ppU0NTcVpFN1JkRmZRM3NfZXhWTTc0OUdiY0Yydkp5S2s3N0V0NEZ1Y2h4U0IxSlRHYzZURFJpNEs2eTZJbmcwWWJHSURqVFBn?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 07 Oct 2026 10:39:34 GMT",
+        "base_score": 79,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
+          "Doğu Akdeniz",
+          "Kıbrıs",
+          "görüşme"
         ],
-        "content_type": "analyst"
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "ca0eadb6c3b32517d08a3c84",
+        "mode": "pontos_voice",
+        "title": "Παναγία Σουμελά στον Πόντο: Το παρεκκλήσι που φρενάρει το τελεφερίκ - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0hjczFQbE4xel9XUUswT0x6b2tGaVdGODVCSmhSVVVNMV9UeG15RFVaNlUyc0dURlNfTURiT3dnRjFBUjBrTC1ZRkY5aFFnOHhOSlJJUjk0ejVsT0hQM3R1SXVxRGRqMGNKMEF1UFB0SDg1UEpHM1ZtVmI2NGcyak1hWGp1QnZsYUpzVjlMUHBsb1FZX1dJRkoxV01vcHJYQ3luOXZDVE8wNGc?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Wed, 07 Oct 2026 19:33:23 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "Παναγία Σουμελά",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "a8e3ac23ba99ce43d14ec2c2",
+        "mode": "pontos_voice",
+        "title": "Τραπεζούντα: Χωρίς τελεφερίκ η Παναγία Σουμελά - Newsbomb",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlpGSTdxaVdpWmdZTG9zemFqaGx5SXkyQ21yQmFvTVpRbW03aU85STg0QnFfbHl4M2RLVmMtZ1ZxT0JPbnJDb0ZFMzI5QmRSTm51THZZaDRCWDJqa0gybWhBTVkxaVJKWmtYOHhCS0p3U2J0ZmtkQ29uY1hRYkk4b3U0TW5BNVRQS3RNV2lrQzhpMlpwaUlDWHVB?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Wed, 07 Oct 2026 15:48:09 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Παναγία Σουμελά",
+          "Σουμελά",
+          "Τραπεζούντα"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "b04dc43a5ec50839224f3561",
         "mode": "pontos_voice",
@@ -315,87 +368,13 @@
         "source": "Greek Press Pontic Watch",
         "published": "Wed, 07 Oct 2026 10:34:13 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
           "ποντιακή",
           "ΠΟΕ",
           "νεολαία"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "7121ec645b1d39c91add80ed",
-        "mode": "pontos_voice",
-        "title": "40 χρόνια «Οι Αργοναύτες»: Μεγάλη ποντιακή γιορτή στην Κολωνία με την Ένωση Ποντίων Σουρμένων - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFQ0OTVCUU9mVDJXY3BMb1pEbE5RTEYybGFtclkzTWd3RHBHWUszb3o4cWViWG9NLUxoM2oyTmlVdlo4WHdYVkxscnJSLWdMaTJDS3VwbmNVWGZRVjl6Qm1GdndMRU5UdGhtV25lUmMzUF9QWjh3eUNSOFlFaENxemkwRjFUTnhEa1BMWTZkelR2c0M0N0IyZFUwNUQyVV9ZazdKYncwNA?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Tue, 06 Oct 2026 06:57:53 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "Ένωση Ποντίων"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "6f20c6e75b597dc362fbfe84",
-        "mode": "pontos_voice",
-        "title": "Η Ποντιακή Λύρα απέκτησε τη δική της θέση στη Λευκόπετρα Ξάνθης – Σε κλίμα συγκίνησης τα αποκαλυπτήρια του μνημείου - Φωνή της Ξάνθης",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMUNlcmJiWXdsZTJMV2pTVXZMOFFGSVpDaTV2VzIwTlRhajhIVjJ4azhnTWhhQmtOVlJ0N2pNWTRMcl9zU3VHdHVYSlBWUjEtY0xrUnBROEQ4THdBdEFScWxfYWFiU3l2QWlDNmZ0QThHVDRtdi1WTTRHdVhUb3UtRGUzMEFyY1c2S2RYdlNsdGRYbUwyVE5ib1B2QXFiQUkweC1MSWNjbXE0V3gtcGstbVVBbUpEakxscjRWODdQZzRBNnVnd2RnbTVpT0E5T2lxUXBjNWhNb2dVYlpRNGlZNXNFZ3ZtM2gxbGlpcnB30gHuAUFVX3lxTE8xQ2VyYmJZd2xlMkxXalNVdkw4UUZJWkNpNXZXMjBOVGFqOEhWMnhrOGdNaGFCa05WUnQ3ak1ZNExyX3NTdUd0dVhKUFZSMS1jTGtScFE4RDhMd0F0QVJxbF9hYWJTeXZBaUM2ZnRBOEdUNG12LVZNNEd1WFRvdS1EZTMwQXJjVzZLZFh2U2x0ZFhtTDJUTmJvUHZBcWJBSTB4LUxJY2NtcTRXeC1way1tVUFtSkRqTGxyNFY4N1BnNEE2dWd3ZGdtNWlPQTlPaXFRcGM1aE1vZ1ViWlE0aVk1c0Vndm0zaDFsaWlycHc?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Tue, 06 Oct 2026 02:42:21 GMT",
-        "base_score": 98,
-        "candidate_score": 98,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "ποντιακή",
-          "ποντιακή λύρα",
-          "λύρα",
-          "μνημείο"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "f66658cf80fbcfab167709c8",
-        "mode": "pontos_voice",
-        "title": "YENİ Parti Trabzon Milletvekili Suiçmez’den Trabzon’da kadın cinayetlerine tepki: “İlgilileri göreve davet ediyorum”",
-        "url": "https://www.61saat.com/yeni-parti-trabzon-milletvekili-suicmezden-trabzonda-kadin-cinayetlerine-tepki-ilgilileri-goreve-davet-ediyorum",
-        "source": "61Saat Trabzon",
-        "published": "Wed, 07 Oct 2026 15:21:00 +0300",
-        "base_score": 77,
-        "candidate_score": 92,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "milletvekili",
-          "açıklama",
-          "tepki",
-          "Trabzon",
-          "Karadeniz",
-          "vali"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "cf8959d680f57ddae594d2c2",
-        "mode": "pontos_voice",
-        "title": "Personel sayısı düştü, hukuk işlerinde bütçe tartışması! Ortahisar'ın performans programı ile ilgili flaş yorumlar",
-        "url": "https://www.61saat.com/personel-sayisi-dustu-hukuk-islerinde-butce-tartismasi-ortahisarin-performans-programi-ile-ilgili-flas-yorumlar",
-        "source": "61Saat Trabzon",
-        "published": "Wed, 07 Oct 2026 14:48:00 +0300",
-        "base_score": 67,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "Rumlar",
-          "tartışma",
-          "Trabzon"
         ],
         "content_type": "news"
       },
@@ -407,12 +386,48 @@
         "source": "61Saat Trabzon",
         "published": "Wed, 07 Oct 2026 16:27:00 +0300",
         "base_score": 64,
-        "candidate_score": 79,
+        "candidate_score": 74,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
           "kültür",
           "tartışma",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "d389e322229c07b57eb0adc3",
+        "mode": "pontos_voice",
+        "title": "Trabzon’da İŞKUR adıyla iş vaadi: Önce para sonra iş",
+        "url": "https://www.61saat.com/trabzonda-iskur-adiyla-is-vaadi-once-para-sonra-is",
+        "source": "61Saat Trabzon",
+        "published": "Wed, 07 Oct 2026 22:32:00 +0300",
+        "base_score": 55,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "anıt",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "a8f70bbabcf8a767292fa9f8",
+        "mode": "pontos_voice",
+        "title": "Başkan Kaya o muhtara yüklendi! Bize tek başvurusu var, 'Oğlumu işe alın'",
+        "url": "https://www.61saat.com/baskan-kaya-o-muhtara-yuklendi-bize-tek-basvurusu-var-oglumu-ise-alin",
+        "source": "61Saat Trabzon",
+        "published": "Wed, 07 Oct 2026 15:28:00 +0300",
+        "base_score": 53,
+        "candidate_score": 63,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Ordu",
           "Trabzon",
           "dil"
         ],
@@ -429,7 +444,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Wed, 07 Oct 2026 13:13:01 GMT",
       "base_score": 75,
-      "candidate_score": 106,
+      "candidate_score": 101,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -450,7 +465,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 06 Oct 2026 21:50:56 GMT",
       "base_score": 76,
-      "candidate_score": 102,
+      "candidate_score": 99,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -472,31 +487,11 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 06 Oct 2026 22:27:13 GMT",
       "base_score": 56,
-      "candidate_score": 82,
+      "candidate_score": 79,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
         "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "c1442f46b76098979a730d45",
-      "mode": "sportdog",
-      "title": "Tzolakis already proving Hull City's £20m Olympiacos deal was inspired business - Hull Live",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNk55WlcwUDhQbTJYeWZ4U3VlMW9LTllsZjZmTHdqa3B2QVFZRFRWeFNjc242azZRZ2szN01DcEU0VVhTaWtaOGphcjFISnVETUxiZDRBZDBkY2VEakRwVkFuTk81WFNaZXFrdXdMek5wQ1hQMGt0SWluRWg4S0FSZ1YtcDkzWmxsU0xLRURfY2NIa3BySk1wSjRSeUViYVNreFVJdUVGdw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 06 Oct 2026 04:00:00 GMT",
-      "base_score": 56,
-      "candidate_score": 74,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "deal"
       ],
       "content_type": "news",
       "editorial_type": "Transfer Report",
@@ -525,21 +520,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "3998f875cb662f02d41c0735",
+      "external_id": "6e0decb9b000a4a0dd33c71f",
       "mode": "sportdog",
-      "title": "We need a solution with NBA: Panathinaikos owner - Sportstar",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmRpNkhZOUNFSmVxeXpiYjNNZU40b2RzM3hSUndTVjBLTmN5bUQ1LXBuQjRTMFNMQ292aDl1bngybWpwcFlNX0FLODFOZ2ZQY0lIZDZvMGtTVVdwaVNWc3lJU2pNdkozeXNWWnJGS0p4Y2lvT0owTmVhSjlVWnR2SjVwVXhyeG5PcXZ2Vi00Y2twZXk3d2VLdGJwQVJQaDJ6UFB3WUJ1TlV1ZmdKVFdrOEthTnRxekJ4eHJKbTRkV1JKTTBuRllMYlREc08yRFFQ0gHXAUFVX3lxTE5PTldITVVtX3ZEWTE0ZmZnc2drMjZvT05VcDRQcjZuVU1uRVZRbURuZk1nNWRXRU1NUk9sODNFNFpWQnRCX1FlZVVVbnU0TDZZRTU2azVKZDdmOHg3d3ZIaHBvWm1tSDNzM0RTQmpUYTM5aHJsWGVZUWQ1QWdIaHNvVlVVMlQ3Ukw5bGRUdTFlNnc3R190Y0ZTZXlEVkEwYURJUGpXY01UeE16cTludTVSN2pnY2UxRG1MVlNhYm9FN1FNb3FxbnU5X2cyYlZKbDZFWkxaUEs4?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 07 Oct 2026 12:16:57 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
+      "title": "Qarabag forward Ali Ibrahim to attend Olympiacos trial - Operativ Məlumat Mərkəzi",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUtpcmRmQ0xXWV9oYVY4cXlETmFraG01LU83NmxtTVI2akpNQXNIRVNRUkhTRXJGNldsN0Y1TVVWdWR5eUFzeXpOUzJBYkRiWWVOdTRiaDZEVFIzeUZMU2ZPSy1ydVhCMWRKZWxJbGhBd2JDOGVyQXZLQnVTenZmUXM1Q3ZhODQzT0NVS2VJTWlQOTB1?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Wed, 07 Oct 2026 11:00:00 GMT",
+      "base_score": 39,
+      "candidate_score": 53,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos"
+        "Olympiacos",
+        "forward"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Panathinaikos",
+      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -564,6 +560,44 @@
       "needs_second_source": true
     },
     {
+      "external_id": "3998f875cb662f02d41c0735",
+      "mode": "sportdog",
+      "title": "We need a solution with NBA: Panathinaikos owner - Sportstar",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmRpNkhZOUNFSmVxeXpiYjNNZU40b2RzM3hSUndTVjBLTmN5bUQ1LXBuQjRTMFNMQ292aDl1bngybWpwcFlNX0FLODFOZ2ZQY0lIZDZvMGtTVVdwaVNWc3lJU2pNdkozeXNWWnJGS0p4Y2lvT0owTmVhSjlVWnR2SjVwVXhyeG5PcXZ2Vi00Y2twZXk3d2VLdGJwQVJQaDJ6UFB3WUJ1TlV1ZmdKVFdrOEthTnRxekJ4eHJKbTRkV1JKTTBuRllMYlREc08yRFFQ0gHXAUFVX3lxTE5PTldITVVtX3ZEWTE0ZmZnc2drMjZvT05VcDRQcjZuVU1uRVZRbURuZk1nNWRXRU1NUk9sODNFNFpWQnRCX1FlZVVVbnU0TDZZRTU2azVKZDdmOHg3d3ZIaHBvWm1tSDNzM0RTQmpUYTM5aHJsWGVZUWQ1QWdIaHNvVlVVMlQ3Ukw5bGRUdTFlNnc3R190Y0ZTZXlEVkEwYURJUGpXY01UeE16cTludTVSN2pnY2UxRG1MVlNhYm9FN1FNb3FxbnU5X2cyYlZKbDZFWkxaUEs4?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 07 Oct 2026 12:16:57 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "f27a6d4c150aff7a44e75f96",
+      "mode": "sportdog",
+      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Wed, 07 Oct 2026 00:24:42 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "d44d6835f75ac19aa01a34c9",
       "mode": "sportdog",
       "title": "Nick Calathes After PAOK’s Thriller Over KK Bosna: “I Want to Keep Playing, But One Day I’d Like to Be a Coach” - TalkBasket.net",
@@ -571,7 +605,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Tue, 06 Oct 2026 23:44:32 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -600,23 +634,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "33d73575f13809ccb85c63ab",
-      "mode": "geopolitico",
-      "title": "Egypt, Lebanon, Oman, Greece, Cyprus keen to join IMEC; ministerial meet likely later this year: France - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQjhPazZYVHNjZnZ0ZGc2LVdCTldzdHRuUjB2QUNHdG0xTnJQdEdRT2xXV2treEZKNXdiNFh2cEtfem55Yi1rV042U3FTZjZVUURNcW5mX0FyQWJUS1pyd2VDN3ludmtaN2dqcl9RNVZEM3pENHB0TUNuZEt5LXBQXzlseWx3NUNTTXk5SzZLU2Y0aVU3QWJfd0l3dllTU1lBZG5zUUtOc2pIbVJxUkNJQkU4MmthOVNMZllsM1NrYnQ5dnF3OGxUVFU2cHlXQWpRT2lnSdIB2AFBVV95cUxOQ09PbHpzSHJkUmRLMFNxdks3Z1p2a3dhLWdwT2NZUzVsZnZLNmM2VTU5ZWQxYkpUc3J0QjVKSC1rMVZEYVJENVdiU2kzYmIxd05OemxOaG1raGEtdVc0Z2s3Wmx4UzRlVEstY1FVdGhrME0wYjY1dWhjRWcxZlVHQWJMMzZiOGljM2p4VHZRRGhwekk2aUtReDE5Skx0WU53eDhsWDdmSDFlWERvQURWekk3eUQyYy1LT0ZoSXlwSExLQlN0dE5hVVZWYmstbGw5MDdiUWdLWFE?oc=5",
-      "source": "Greece India Strategic Watch",
-      "published": "Tue, 06 Oct 2026 14:00:56 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "Cyprus",
-        "IMEC"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "a747fe3a38bfd697f2e792f3",
       "mode": "geopolitico",
       "title": "Marco Rubio Atina’da: Gündemde Kıbrıs, enerji ve Doğu Akdeniz var - Bugün Kıbrıs",
@@ -631,23 +648,6 @@
         "Kıbrıs",
         "Atina",
         "enerji"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "7e00cb8e25bf9ad6deda2b7c",
-      "mode": "geopolitico",
-      "title": "Yunanistan'dan Türkiye sınırında provokatif hamle! Dendias'ın planı deşifre oldu: 522 yeni tahkimat yolda! 2030'u işaret ettiler - SuperHaber",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWUt5NlVHZzl5c1ZyVE9KUGpfdndqMVNLTGREVW56eGRwTnFaOHc2UHBuSWxHYXNfWVJrV0hPaU1zRmc3eURBS0U0TUZOc2toNXROSVNtSWJBMEtaQ0RIS3UyRy1sV2tIeUFJaS1LSnUwaS1Sb1pQUmV0TlJXd3dzUWJCeDNoRUpCdkJLb1lWSHFhWUx1cjVkSFpzR2c0ay12ZEdTcG1jV0RpNWlKbGZhdlhuUG5SMTZ1M0YwMtIBwgFBVV95cUxOZkhMN0VjNjNhdFFSNFlMc0tDNkZydHBqTDdMN3JPSEVZVk9VZ2Q2YnBVeGVjWG00dHc0elc2LUVHS2JwRDMwYVk2Z0oxVWZtN0tZTW5GY01qMGROZ0o1ajJpR1pVUlhfOFcxTERZRnBpOXhlWG5SRklBR2E2RFBoNzNDRGdLQTZSRXVmdUJCUHUyZ2d6SFFIdlIxYlN4d2dQMGl1N3BSc0JiNU1EZ0ZCWHBOdzA1OU53X2loTi0waDVqZw?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 07 Oct 2026 12:55:00 GMT",
-      "base_score": 81,
-      "candidate_score": 96,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Dendias",
-        "sınır"
       ],
       "content_type": "turkey_greece"
     },
@@ -670,6 +670,39 @@
       "content_type": "news"
     },
     {
+      "external_id": "ead5b19135106456113b0d87",
+      "mode": "geopolitico",
+      "title": "Yunanistan'dan Türkiye sınırında provokatif hamle! Dendias'ın planı deşifre oldu: 522 yeni tahkimat yolda! 2030'u işaret ettiler - SuperHaber",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkhMN0VjNjNhdFFSNFlMc0tDNkZydHBqTDdMN3JPSEVZVk9VZ2Q2YnBVeGVjWG00dHc0elc2LUVHS2JwRDMwYVk2Z0oxVWZtN0tZTW5GY01qMGROZ0o1ajJpR1pVUlhfOFcxTERZRnBpOXhlWG5SRklBR2E2RFBoNzNDRGdLQTZSRXVmdUJCUHUyZ2d6SFFIdlIxYlN4d2dQMGl1N3BSc0JiNU1EZ0ZCWHBOdzA1OU53X2loTi0waDVqZ9IBwgFBVV95cUxOZkhMN0VjNjNhdFFSNFlMc0tDNkZydHBqTDdMN3JPSEVZVk9VZ2Q2YnBVeGVjWG00dHc0elc2LUVHS2JwRDMwYVk2Z0oxVWZtN0tZTW5GY01qMGROZ0o1ajJpR1pVUlhfOFcxTERZRnBpOXhlWG5SRklBR2E2RFBoNzNDRGdLQTZSRXVmdUJCUHUyZ2d6SFFIdlIxYlN4d2dQMGl1N3BSc0JiNU1EZ0ZCWHBOdzA1OU53X2loTi0waDVqZw?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 07 Oct 2026 12:55:00 GMT",
+      "base_score": 81,
+      "candidate_score": 91,
+      "priority": "High",
+      "matched_keywords": [
+        "Yunanistan",
+        "Dendias",
+        "sınır"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "78d3af633671e26ad7225c57",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi, SPK'ya sordu: Fon rezaleti neden yaşandı haberi - Borsanın Gündemi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1RhRW5BLUtmNFQzelhRT0g5U2RORmNieW0xRG12LW9KTVYxOGhaelVIUldPU2ctR3ZsSTZ4ZHdZaWxycHVwQ1hPdjN6aDk1Mk54UGl0a3dsYm90T3hLTGNoS2h6cmdGWEVfY3pvQmNkTWxyTVVKWjJEOXd3UzNTUW5JVmFKWjk4VXRuYzA5WnQ0dVJaaTZnamNBUUlWc0VqSmJF?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Wed, 07 Oct 2026 18:02:02 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
+    },
+    {
       "external_id": "6b19e3885f079637b2c66b82",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi: İzmir Büyükşehir Belediyesi ilk kez AK Parti’ye geçecek - Bundle",
@@ -677,7 +710,7 @@
       "source": "Analysts Watch · Turkey",
       "published": "Wed, 07 Oct 2026 13:24:40 GMT",
       "base_score": 75,
-      "candidate_score": 90,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Abdulkadir Selvi",
@@ -693,7 +726,7 @@
       "source": "Analysts Watch · United States",
       "published": "Wed, 07 Oct 2026 12:36:02 GMT",
       "base_score": 75,
-      "candidate_score": 90,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Michael Rubin",
@@ -702,20 +735,55 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "78d3af633671e26ad7225c57",
+      "external_id": "e835efff48f0f7561d71ef59",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi, SPK'ya sordu: Fon rezaleti neden yaşandı haberi - Borsanın Gündemi",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1RhRW5BLUtmNFQzelhRT0g5U2RORmNieW0xRG12LW9KTVYxOGhaelVIUldPU2ctR3ZsSTZ4ZHdZaWxycHVwQ1hPdjN6aDk1Mk54UGl0a3dsYm90T3hLTGNoS2h6cmdGWEVfY3pvQmNkTWxyTVVKWjJEOXd3UzNTUW5JVmFKWjk4VXRuYzA5WnQ0dVJaaTZnamNBUUlWc0VqSmJF?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Wed, 07 Oct 2026 11:40:14 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
+      "title": "Rubio-Gerapetritis görüşmesi: “Kıbrıs, Doğu Akdeniz güvenliğinin ayrılmaz parçası” - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVlfbld0N05EVllLM0o3M3RnZ0NyZlhHT3VVQ1Nad1l0NUhrRXJiVllXVk8xSTRmdDhuYjVKSm9CdXo0dDZqbVBHQWRfWDUyWVBsUzZyTkhrb3JDd3ppU0NTcVpFN1JkRmZRM3NfZXhWTTc0OUdiY0Yydkp5S2s3N0V0NEZ1Y2h4U0IxSlRHYzZURFJpNEs2eTZJbmcwWWJHSURqVFBn?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 07 Oct 2026 10:39:34 GMT",
+      "base_score": 79,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
+        "Doğu Akdeniz",
+        "Kıbrıs",
+        "görüşme"
       ],
-      "content_type": "analyst"
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "ca0eadb6c3b32517d08a3c84",
+      "mode": "pontos_voice",
+      "title": "Παναγία Σουμελά στον Πόντο: Το παρεκκλήσι που φρενάρει το τελεφερίκ - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0hjczFQbE4xel9XUUswT0x6b2tGaVdGODVCSmhSVVVNMV9UeG15RFVaNlUyc0dURlNfTURiT3dnRjFBUjBrTC1ZRkY5aFFnOHhOSlJJUjk0ejVsT0hQM3R1SXVxRGRqMGNKMEF1UFB0SDg1UEpHM1ZtVmI2NGcyak1hWGp1QnZsYUpzVjlMUHBsb1FZX1dJRkoxV01vcHJYQ3luOXZDVE8wNGc?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Wed, 07 Oct 2026 19:33:23 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "Παναγία Σουμελά",
+        "Σουμελά"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "a8e3ac23ba99ce43d14ec2c2",
+      "mode": "pontos_voice",
+      "title": "Τραπεζούντα: Χωρίς τελεφερίκ η Παναγία Σουμελά - Newsbomb",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlpGSTdxaVdpWmdZTG9zemFqaGx5SXkyQ21yQmFvTVpRbW03aU85STg0QnFfbHl4M2RLVmMtZ1ZxT0JPbnJDb0ZFMzI5QmRSTm51THZZaDRCWDJqa0gybWhBTVkxaVJKWmtYOHhCS0p3U2J0ZmtkQ29uY1hRYkk4b3U0TW5BNVRQS3RNV2lrQzhpMlpwaUlDWHVB?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Wed, 07 Oct 2026 15:48:09 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Παναγία Σουμελά",
+        "Σουμελά",
+        "Τραπεζούντα"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "b04dc43a5ec50839224f3561",
@@ -725,87 +793,13 @@
       "source": "Greek Press Pontic Watch",
       "published": "Wed, 07 Oct 2026 10:34:13 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
         "ποντιακή",
         "ΠΟΕ",
         "νεολαία"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "7121ec645b1d39c91add80ed",
-      "mode": "pontos_voice",
-      "title": "40 χρόνια «Οι Αργοναύτες»: Μεγάλη ποντιακή γιορτή στην Κολωνία με την Ένωση Ποντίων Σουρμένων - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFQ0OTVCUU9mVDJXY3BMb1pEbE5RTEYybGFtclkzTWd3RHBHWUszb3o4cWViWG9NLUxoM2oyTmlVdlo4WHdYVkxscnJSLWdMaTJDS3VwbmNVWGZRVjl6Qm1GdndMRU5UdGhtV25lUmMzUF9QWjh3eUNSOFlFaENxemkwRjFUTnhEa1BMWTZkelR2c0M0N0IyZFUwNUQyVV9ZazdKYncwNA?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Tue, 06 Oct 2026 06:57:53 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "Ένωση Ποντίων"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "6f20c6e75b597dc362fbfe84",
-      "mode": "pontos_voice",
-      "title": "Η Ποντιακή Λύρα απέκτησε τη δική της θέση στη Λευκόπετρα Ξάνθης – Σε κλίμα συγκίνησης τα αποκαλυπτήρια του μνημείου - Φωνή της Ξάνθης",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMUNlcmJiWXdsZTJMV2pTVXZMOFFGSVpDaTV2VzIwTlRhajhIVjJ4azhnTWhhQmtOVlJ0N2pNWTRMcl9zU3VHdHVYSlBWUjEtY0xrUnBROEQ4THdBdEFScWxfYWFiU3l2QWlDNmZ0QThHVDRtdi1WTTRHdVhUb3UtRGUzMEFyY1c2S2RYdlNsdGRYbUwyVE5ib1B2QXFiQUkweC1MSWNjbXE0V3gtcGstbVVBbUpEakxscjRWODdQZzRBNnVnd2RnbTVpT0E5T2lxUXBjNWhNb2dVYlpRNGlZNXNFZ3ZtM2gxbGlpcnB30gHuAUFVX3lxTE8xQ2VyYmJZd2xlMkxXalNVdkw4UUZJWkNpNXZXMjBOVGFqOEhWMnhrOGdNaGFCa05WUnQ3ak1ZNExyX3NTdUd0dVhKUFZSMS1jTGtScFE4RDhMd0F0QVJxbF9hYWJTeXZBaUM2ZnRBOEdUNG12LVZNNEd1WFRvdS1EZTMwQXJjVzZLZFh2U2x0ZFhtTDJUTmJvUHZBcWJBSTB4LUxJY2NtcTRXeC1way1tVUFtSkRqTGxyNFY4N1BnNEE2dWd3ZGdtNWlPQTlPaXFRcGM1aE1vZ1ViWlE0aVk1c0Vndm0zaDFsaWlycHc?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Tue, 06 Oct 2026 02:42:21 GMT",
-      "base_score": 98,
-      "candidate_score": 98,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "ποντιακή",
-        "ποντιακή λύρα",
-        "λύρα",
-        "μνημείο"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "f66658cf80fbcfab167709c8",
-      "mode": "pontos_voice",
-      "title": "YENİ Parti Trabzon Milletvekili Suiçmez’den Trabzon’da kadın cinayetlerine tepki: “İlgilileri göreve davet ediyorum”",
-      "url": "https://www.61saat.com/yeni-parti-trabzon-milletvekili-suicmezden-trabzonda-kadin-cinayetlerine-tepki-ilgilileri-goreve-davet-ediyorum",
-      "source": "61Saat Trabzon",
-      "published": "Wed, 07 Oct 2026 15:21:00 +0300",
-      "base_score": 77,
-      "candidate_score": 92,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "milletvekili",
-        "açıklama",
-        "tepki",
-        "Trabzon",
-        "Karadeniz",
-        "vali"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "cf8959d680f57ddae594d2c2",
-      "mode": "pontos_voice",
-      "title": "Personel sayısı düştü, hukuk işlerinde bütçe tartışması! Ortahisar'ın performans programı ile ilgili flaş yorumlar",
-      "url": "https://www.61saat.com/personel-sayisi-dustu-hukuk-islerinde-butce-tartismasi-ortahisarin-performans-programi-ile-ilgili-flas-yorumlar",
-      "source": "61Saat Trabzon",
-      "published": "Wed, 07 Oct 2026 14:48:00 +0300",
-      "base_score": 67,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "Rumlar",
-        "tartışma",
-        "Trabzon"
       ],
       "content_type": "news"
     },
@@ -817,12 +811,48 @@
       "source": "61Saat Trabzon",
       "published": "Wed, 07 Oct 2026 16:27:00 +0300",
       "base_score": 64,
-      "candidate_score": 79,
+      "candidate_score": 74,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
         "kültür",
         "tartışma",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "d389e322229c07b57eb0adc3",
+      "mode": "pontos_voice",
+      "title": "Trabzon’da İŞKUR adıyla iş vaadi: Önce para sonra iş",
+      "url": "https://www.61saat.com/trabzonda-iskur-adiyla-is-vaadi-once-para-sonra-is",
+      "source": "61Saat Trabzon",
+      "published": "Wed, 07 Oct 2026 22:32:00 +0300",
+      "base_score": 55,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "anıt",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "a8f70bbabcf8a767292fa9f8",
+      "mode": "pontos_voice",
+      "title": "Başkan Kaya o muhtara yüklendi! Bize tek başvurusu var, 'Oğlumu işe alın'",
+      "url": "https://www.61saat.com/baskan-kaya-o-muhtara-yuklendi-bize-tek-basvurusu-var-oglumu-ise-alin",
+      "source": "61Saat Trabzon",
+      "published": "Wed, 07 Oct 2026 15:28:00 +0300",
+      "base_score": 53,
+      "candidate_score": 63,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Ordu",
         "Trabzon",
         "dil"
       ],
