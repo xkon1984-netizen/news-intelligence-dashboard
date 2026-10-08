@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-10-08T13:47:21.522481+00:00",
+  "generated_at": "2026-10-08T19:33:27.625932+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "2909e953525d7a82a3f870df",
+        "mode": "sportdog",
+        "title": "Olympiacos hit back at Panathinaikos after complaint, bring up Mathias Lessort case - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnp0YWd6QjctUUtyOGZ1dUpjYzJSTVhNM3FGZmhnMDBMaFpwak4xZl9INWZUTERBLWJ3V2dWX1RydE5fR0poYTBYeDIzVHB2RS0zTzluTjNlZ2VMbmdhSFR2NENYbGlFSVJfVHpPY29zY1A3d29LaWhwQXZhNTh0ZnFQX1Z2Q1BSOGR6TEZDanhFRkNfVUxIaWJXcXotTkFFc1VwXzZtam92Sy1kVmJsTTZDUzdyOUhsWHVYSHFlZw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 08 Oct 2026 18:13:35 GMT",
+        "base_score": 62,
+        "candidate_score": 93,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
       {
         "external_id": "cefa3651e4657f76983e11e9",
         "mode": "sportdog",
@@ -15,7 +35,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Wed, 07 Oct 2026 13:13:01 GMT",
         "base_score": 75,
-        "candidate_score": 94,
+        "candidate_score": 91,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -29,12 +49,12 @@
         "needs_second_source": false
       },
       {
-        "external_id": "3a06abac891589042912f179",
+        "external_id": "fee0fb9741163261dbe320d8",
         "mode": "sportdog",
-        "title": "Olympiacos FC - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBySDRZZmxwdnl2OXlLVTJYZEw5NGRjaGVQbjg2Z2tDa3Ytb2hlSW1Nd2g1WFU3cFIwcXpnVjBsZ3haVkdidXFnZTQ2X1pTNE5Nck5ERzdUcHVmNkwyMXUyeUVJZlE2ZkhtNW1oWmx3QW9FNHl6Nm4zYkZwMA?oc=5",
+        "title": "Olympiacos Piraeus U19 - Wertvollste Abgänge (Detailed view) | Page 2 - Transfermarkt",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVGRSdXhyNjQtZjhMY0VPdDhpdTNTeHl1X2l5ZlBrdnRNc2JUQWlFLVhNdjlCYVo4U2E2ODRqaVViVUZBd1VvTGdGOV85bjNVU1FqaDF0YzdLOE0zSXVzZEwzYlpBNEZBcm9vOERlUm45MkttajJ5QnA0QlpYV25BNVBpVFhzbnBkd0I1aTR2ZGZUS0RtandHZEFSVFQwRENkV0Q4aUlmSFNhMlJYZmRvUF8yTFhvWE1BLXRHTFJhdG5wSDY5QmFEWUJPUQ?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 07 Oct 2026 21:12:35 GMT",
+        "published": "Thu, 08 Oct 2026 07:16:30 GMT",
         "base_score": 56,
         "candidate_score": 82,
         "priority": "High",
@@ -49,6 +69,46 @@
         "needs_second_source": true
       },
       {
+        "external_id": "221a0c2a3c96594e3d9e56eb",
+        "mode": "sportdog",
+        "title": "AEK Athens vs. Shakhtar Donetsk Live Stream of UEFA Champions League - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUQ0pmYndqT2J3V2J0R3VIeFdNVGVqWXFTa2NKZVpnYU1JTlJsb2x1UTJXa2ZEbm5FaGdNTTNhc2VLeC1tdEJtU3VfZnd5R3FFT1dkbUt0bUNXazV2Y29zRkpTcWZlQno5eHNYY1gzYw?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Thu, 08 Oct 2026 16:39:33 GMT",
+        "base_score": 50,
+        "candidate_score": 73,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "9f578bd754cb37ce140f23a8",
+        "mode": "sportdog",
+        "title": "Qarabag's Ali Ibrahim travels to Greece for Olympiacos trial - İdman.Biz",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92RTFVd3RwUjJIZ3hUcEQ4MmpPcHNGU2hRbmJCYkdDemFPNWlDV1hwbjF4eE1nQ1JVdUc3WEtBUTR3bGVtX3Q5MmlOVkhBNmNwRmFyOHNGYVpkTzZ2?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 08 Oct 2026 12:30:00 GMT",
+        "base_score": 38,
+        "candidate_score": 56,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "Greece"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "41515cae3a91e1680d157c5d",
         "mode": "sportdog",
         "title": "Panathinaikos owner urges Euroleague, NBA to find path forward - Sports Business Journal",
@@ -56,7 +116,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 08 Oct 2026 11:00:00 GMT",
         "base_score": 39,
-        "candidate_score": 62,
+        "candidate_score": 53,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
@@ -65,7 +125,7 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -76,7 +136,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Thu, 08 Oct 2026 00:05:38 GMT",
         "base_score": 41,
-        "candidate_score": 55,
+        "candidate_score": 52,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -96,7 +156,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Wed, 07 Oct 2026 08:35:18 GMT",
         "base_score": 41,
-        "candidate_score": 52,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -109,45 +169,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "6e0decb9b000a4a0dd33c71f",
-        "mode": "sportdog",
-        "title": "Qarabag forward Ali Ibrahim to attend Olympiacos trial - Operativ Məlumat Mərkəzi",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUtpcmRmQ0xXWV9oYVY4cXlETmFraG01LU83NmxtTVI2akpNQXNIRVNRUkhTRXJGNldsN0Y1TVVWdWR5eUFzeXpOUzJBYkRiWWVOdTRiaDZEVFIzeUZMU2ZPSy1ydVhCMWRKZWxJbGhBd2JDOGVyQXZLQnVTenZmUXM1Q3ZhODQzT0NVS2VJTWlQOTB1?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 07 Oct 2026 11:00:00 GMT",
-        "base_score": 39,
-        "candidate_score": 50,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "forward"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "46e7ccddc869265de8e39442",
-        "mode": "sportdog",
-        "title": "Mexicans in Europe: The Big Headache 'Ant' González Faces on His Return to Olympiacos - Al Bat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd25YN25ybUE5b1h4Z0duTkV2eC03NjVzdVB0bl9mWG5sQXJoZklqWXR1TlBDNDJqd1FIclNMNG9ib0tjRllMLW9uT1VXUFVKR3RUV29xaUtaR1ZILWYyZ3NMNGtkLXdCR2VsVkRSbVJtekplZ095ZTBmX1J5em9icE1nOFQ1dUhaZ01VaXQ3WVRDZ21GTUJwZ0JjWnd4eVRzTW8zczEzcXIyTnNmMmI2c1VGc2p6Z05kUXlJT21FV3poUkl0UGkyeGVnSdIB0AFBVV95cUxQekxURkEzUzdhcWxjMU9NbXpqSXhCc1NSMkVuWFNYcTFneHhiQ1lEQ1VjOUo3YmIxOTZqY2YwaV9ZOUQ3VlhXZjh1Y2tKMFhMam5CdV9fYm5NTXJLLWlySGVHZjEtS1VISGJmLUtuUVZqTVlTM1MtUUdrZVVzZTB2T2VYbFFKUXpQdUxqeTBTVmJUeFdxVjRqRkxCaGpYYW1IWmwxY2JMeG94OV9oUVdscF9IbEZTMGYzcmg1dk5OdUFOQTduWVBOWHpZdlI5VjB6?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 08 Oct 2026 05:25:14 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "6d88af6425021578a732b5b5",
         "mode": "sportdog",
         "title": "Basketball-We need a solution with the NBA, says Panathinaikos owner - Devdiscourse",
@@ -155,7 +176,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 07 Oct 2026 21:25:11 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -169,14 +190,32 @@
     ],
     "geopolitico": [
       {
+        "external_id": "c1f4270bb6ffbcd12ca80078",
+        "mode": "geopolitico",
+        "title": "Alleged Pakistan Air Force Strikes on Houthis Test Saudi Defence Alliance - Defence Security Asia",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15VG9RcndfMUFYcTcyMzByZ19FeFk3cGVFblZwY2hBZnAtZGpTNDRHSUVfaFlCdUxlS05pRHZ2UjNWSTlCdzZlSG42UndzTGFPQnBjQUN3?oc=5",
+        "source": "Pakistan Turkey Watch",
+        "published": "Thu, 08 Oct 2026 17:34:07 GMT",
+        "base_score": 98,
+        "candidate_score": 113,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pakistan",
+          "Ege",
+          "Pakistan Air Force",
+          "defence"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "324743cf759cec0593373058",
         "mode": "geopolitico",
         "title": "ABD Dışişleri Bakanı Rubio, Yunanistan Başbakanı Miçotakis ile görüştü: Gündemde enerji ve savunma işbirliği var - ssbulten.com.tr",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUZUUEN6eDhBSHBEZ3dKdzRmdXFEZk1mYzJKOW9MelFqYjNpZnlrT1FGUWxVTHVaVDhWbGM5Z19SMWNnWF9pQWVvUFI4enBON0VhRGtGd01Bbmx4Wm9iZFBOeEZ6eWMzSThNQ2FDanZoSkMyNW9mWXZlaTdmZzJab1A0c0NkYUxLdE81d0UtSGtTN0RYQ2FUb2dIR3VuMy11Q254dGFfMmNNTzZ2ejdKNkRLQmRFYXA5UkZ2RjBRd3dJeWdIY0NGcTBLZUp2MEM3VjliaEprek1oYWkydFNmNGVmQXB2ZWtwT2c?oc=5",
         "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 08 Oct 2026 11:29:54 GMT",
+        "published": "Thu, 08 Oct 2026 11:30:07 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -188,6 +227,26 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "779d2d49f6f821528b8a1080",
+        "mode": "geopolitico",
+        "title": "Yunanistan-Güney Kıbrıs-İsrail elektrik hattında kritik gelişme: Yunanistan GSI için istediği formülü uygulayabilir mi? - Bundle",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ1RQcGJsTXR6Tk1EdTRFa0xaQlhnZkFfV0NtR3J1YWdvS3VudUNHdWpSTmtLRGVVV1laVXRRTjRzODF0cEtQcm1QZkRJWXdmRWVHdEhhZ1VrQk5nU0NXSlZhblJ2QmpUQ19KNDlrdThJODZwMXJxTnNEbnNhQTNRMnhpZUEyTWVsZldmUTd5QW9sUmNKaWNCN2QyMDczRXd6MlJHU1p5WUZ0cGRrSHhMVERtYXZjdm1FV1IxWVFkMWs3bk1pdi1pZFJJNUJNTnVfYVZVakdxQ2I0OHkwdUFDXzA0RmZvbnBsUF96MUZHVnF0VlhTaXhzNnNYc1Q5NWJfWG55aVZYUkRxU1oybU1pVmd3OA?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 08 Oct 2026 10:45:45 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "GSI",
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "elektrik hattı",
+          "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "1e8d94c204b6793c99f435a0",
         "mode": "geopolitico",
         "title": "Rubio Atina’da konuştu: Gündemde Ege, Kıbrıs, Türkiye ve F-35 vardı! - Milli Gazete",
@@ -195,7 +254,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 08 Oct 2026 08:31:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Ege",
@@ -214,7 +273,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 08 Oct 2026 06:36:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -225,95 +284,60 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "02a3e418d021c2709f83b408",
+        "external_id": "08fab137956846ee5f35650b",
         "mode": "geopolitico",
-        "title": "Turkey expects no change in Israel's foreign policy after elections, FM Hakan Fidan says - The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GMWZ6TzUxNkkxLV9GWVZWa3ByVjdraC1iTDZZQ2tXNzd5Q0Fibm0xM0FTdXBSdjI5bHBRX2ZBTW5PN3JLY1kzS1FwQmxlV18zcnY2MDBwRGV5MUpE?oc=5",
-        "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
-        "published": "Thu, 08 Oct 2026 12:42:05 GMT",
-        "base_score": 88,
-        "candidate_score": 103,
+        "title": "Rubio Atina’da temaslarda bulundu: F-35 ve Türk-Yunan gerilimi masada! - Haber 7",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnhILUJjNDBTZXFLd1V1N3dPQ18xdWc2UzFKT05rQlRVWEpXeWMxU1ExWE5VUG5ybVhEcTFMMHdaODBMR1oxSkZrNnY5LVF4VV9yTTJSVGRwcU4xLTNsVE9OLXhJLVRfcVVyWm5KZnZtRWFkelpIVlRBcmphWEVSdXp2Rkl5SlItNUNZa0c2bDVqeV9qdkJNS2dkVXFnOTRRdlJMNHlRc0pVMF9RbVhnak93?oc=5",
+        "source": "Haber7 Greece Watch",
+        "published": "Thu, 08 Oct 2026 10:31:00 GMT",
+        "base_score": 95,
+        "candidate_score": 101,
         "priority": "URGENT",
         "matched_keywords": [
-          "Israel",
-          "Fidan",
-          "Turkey",
-          "Fidan"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "32d35e391a03fd42b0153879",
-        "mode": "geopolitico",
-        "title": "Türkiye ile gerilime yol açan Yunanistan-Kıbrıs elektrik projesinde yeni adım - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEhCaFpCQUFEaUV4aDNwcUV2VXc2VkNYcFlpRVdoZ2tZM1ZLeTdLRDgyZ1VJTEtJQUI0VHgzQmlXU2NFbi1JcXA1WDJtYWdQckI2UEtKVS1sSlB5aHg1U2RhOURRTF9WSUNQZkpybzF6TjlZcFU0NV9pMGlaY0pvNXU4SlNqeXBWS1RKNHpNMkFOLThXUF8xZnpuMHJHTW5nejFQN2k5YjZta2R0WVBnRERB?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 08 Oct 2026 12:03:55 GMT",
-        "base_score": 88,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "gerilim"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "c1f7edd02cc9e7eb809012f3",
-        "mode": "geopolitico",
-        "title": "Marco Rubio, Miçotakis ile enerji ve savunma işbirliğini görüştü - dokuz8HABER",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVF9TaGhKN083QzZsWWVoS1RKUUdRdzhpblNkaFc2QUNUN0JDdUFCZ25OZUhWdm1udnRyZkNjVzZMU0tPNklyZUF6dUhBbjhKVnpZTFFEVnBlVFVkSGltRGF0by1IaVhCVmJianp5QWtfSlROakU2X0tuQlI0Z3lVckM0RXNiZGhINUJSTzF0dHZCN0FOX1Fn0gGXAUFVX3lxTE1UX1NoaEo3TzdDNmxZZWhLVEpRR1F3OGluU2RoVzZBQ1Q3QkN1QUJnbk5lSFZ2bW52dHJmQ2NXNkxTS082SXJlQXp1SEFuOEpWellMUURWcGVUVWRIaW1EYXRvLUhpWEJWYmJqenlBa19KVE5qRTZfS25CUjRneVVyQzRFc2JkaEg1QlJPMXR0dkI3QU5fUWc?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 08 Oct 2026 10:49:03 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Miçotakis",
-          "savunma",
-          "savunma işbirliği",
-          "enerji"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "3ee88045332cec639700ded9",
-        "mode": "geopolitico",
-        "title": "Houthis Strike Aden Airport as Turkey and Pakistan Prepare Troop Deployment - Israel Defense",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlWmg1a1lLOUwwN2c2dzNORUpJRWdQX2V1OGE1cVp1LVBtVXd4YUxuMWNSSDRFWHJtaDFvaVRCblFIRVdXQ0lYYUVjLTFMRUhwZ29kVjVQdG0?oc=5",
-        "source": "Pakistan Turkey Watch",
-        "published": "Thu, 08 Oct 2026 08:21:42 GMT",
-        "base_score": 80,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Israel",
-          "Pakistan",
-          "Turkey",
-          "defense"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "7a9685864130172b0969d495",
-        "mode": "geopolitico",
-        "title": "Rubio Atinada! ABD-Yunanistan Görüşmesinde Savunma ve Enerji Gündemi - CNN Türk",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT29Tem1rSTZkaXpwOXF1RXB3Q0tiVGVCcC1tSVFnTFpNdmRQWGtNZTAyVkN2X3AxdERJZEpBNDUxMzk0OFZpd21QN0RuRm1nRzFST1o0UFRXcVFmdXo5c1BnR1diVmNUcUM5RTVBYmo0N0JOYU5NSnpoTVIzVlhpdnNSUWV4RUpLcktvaGFib21zYU1lUThudUdaYmV0SUk?oc=5",
-        "source": "CNN Turk Greece Watch",
-        "published": "Wed, 07 Oct 2026 22:07:00 GMT",
-        "base_score": 84,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
+          "F-35",
+          "Türk-Yunan",
           "Atina",
-          "görüşme",
+          "gerilim",
           "ada",
-          "savunma",
-          "enerji"
+          "F-35"
         ],
         "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "c921b3b97b9ac1962f400f32",
+        "mode": "geopolitico",
+        "title": "India, Greece deepens maritime defence cooperation, discuss coastal security and shipbuilding - Defence Watch",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTGxfUlJfeXdWTjExcmxVN0Y2Q3ZKNExPb3I4dmdnYjFrYV9VbzRDYk0wYlJIcTctRjJBYlBNcnVTNENJMzlNXzJ2Nk9nc2NpcWxNY0Z3MU5ISmVKVUpFdVZmcWNEbTNsMlg0WFdidjBjVnNtcEJDNjB4cUY2N011VFhVZTN0NV9RUWMxaHk1TTJUQk1XYm9lRmVzMTh5MTRsREluVkRrd1ZpNDRCalc3OUltQ0hZM1NBZ2E5SV9MT2xILWZHaW1MREp0WUVMalRtSWZGeklDcC0yRnVm0gHqAUFVX3lxTE5waEQ5NjgzNWZiNHBaeHdpTnd2UGxRd0hNcVFNWW1iOWFSV21YNW9XQ1FUZUdVX3dpcjkzejJfdFhJcktfU1JabnlaazN6eG1sT0pPU2dpWTRMcllUMEpDd3ZMbW84NnAzVjFfb1NLdlhETF9uY3dsN0VMaUxaV0VQQjZuRHpOYlpDcGFMVmNkTm9tZWVrMUZmRXQyMEdWY2xYTTdmR1R4a0dxUWpGcGtFNEZkeWNFQ2FXMm42XzFSLWRiOFNQdUhidmRERktFRmdCNUY5NG1vcVl0T1J5amhPVXdPVlVKeG9aZw?oc=5",
+        "source": "Greece India Strategic Watch",
+        "published": "Thu, 08 Oct 2026 14:38:19 GMT",
+        "base_score": 90,
+        "candidate_score": 100,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "India",
+          "defence",
+          "defence cooperation"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "c9479fba42f7cac9ee9aac11",
+        "mode": "geopolitico",
+        "title": "India, Greece discuss defence and strategic cooperation - OrissaPOST",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMXowOURXZHdqanlhNFI3NkJJb3JBQTFGOHlfSk1ScWQxYm8zY2xTeDI3M1lVU3U4WmtsNEZQQlV5ZnJmVlh0c0VWVlQ3SDBLNnFPZXZjNllxYlZrSWR3a3MxX29wQU1Mbi0wUUFHTkRoTWQ4OTk2MWpJNndMREZNR2tMS0lZc0QzSEHSAYoBQVVfeXFMUDF6MDlEV2R3amp5YTRSNzZCSW9yQUExRjh5X0pNUnFkMWJvM2NsU3gyNzNZVVN1OFprbDRGUEJVeWZyZlZYdHNFVlZUN0gwSzZxT2V2YzZZcWJWa0lkd2tzMV9vcEFNTG4tMFFBR05EaE1kODk5NjFqSTZ3TERGTUdrTEtJWXNEM0hB?oc=5",
+        "source": "Greece India Strategic Watch",
+        "published": "Thu, 08 Oct 2026 14:00:37 GMT",
+        "base_score": 90,
+        "candidate_score": 100,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "India",
+          "defence",
+          "strategic cooperation"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -342,7 +366,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Wed, 07 Oct 2026 10:34:13 GMT",
         "base_score": 100,
-        "candidate_score": 103,
+        "candidate_score": 100,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -360,7 +384,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Wed, 07 Oct 2026 20:10:56 GMT",
         "base_score": 86,
-        "candidate_score": 92,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -369,59 +393,80 @@
         "content_type": "news"
       },
       {
-        "external_id": "fd07bef4af05a4e953592732",
+        "external_id": "7af43a6daea84f3ab44943be",
         "mode": "pontos_voice",
-        "title": "Trabzon'da günübirlik tesis alanları için otopark kararı!",
-        "url": "https://www.61saat.com/trabzonda-gunubirlik-tesis-alanlari-icin-otopark-karari",
+        "title": "Vehbi Koç müjdeyi verdi! Of’ta dev eğitim yatırımı",
+        "url": "https://www.61saat.com/vehbi-koc-mujdeyi-verdi-ofta-dev-egitim-yatirimi",
         "source": "61Saat Trabzon",
-        "published": "Thu, 08 Oct 2026 14:15:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
+        "published": "Thu, 08 Oct 2026 19:55:00 +0300",
+        "base_score": 51,
+        "candidate_score": 66,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "8916c842fdb631d9e6f4ddba",
-        "mode": "pontos_voice",
-        "title": "TTSO Meclis Başkanı Eren oda seçimlerine katılacak üyelere başarılar diledi",
-        "url": "https://www.61saat.com/ttso-meclis-baskani-eren-oda-secimlerine-katilacak-uyelere-basarilar-diledi",
-        "source": "61Saat Trabzon",
-        "published": "Thu, 08 Oct 2026 14:09:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "55d07e20b4700c55ac0cbe89",
-        "mode": "pontos_voice",
-        "title": "Büyükşehir’den kömür tesislerine net mesaj",
-        "url": "https://www.61saat.com/buyuksehirden-komur-tesislerine-net-mesaj",
-        "source": "61Saat Trabzon",
-        "published": "Thu, 08 Oct 2026 15:38:00 +0300",
-        "base_score": 40,
-        "candidate_score": 55,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "açıklama",
+          "Of",
+          "milletvekili",
           "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "ca7e9800ac2bf03a2831add6",
+        "mode": "pontos_voice",
+        "title": "YENİ PARTİ TRABZON İL BAŞKANI MUSTAFA BAK SORULARI YANITLIYOR",
+        "url": "https://www.61saat.com/yeni-parti-trabzon-il-baskani-mustafa-bak-sorulari-yanitliyor",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 08 Oct 2026 20:10:00 +0300",
+        "base_score": 46,
+        "candidate_score": 61,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "anit",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "87bb1d5b58d630a40b500ad1",
+        "mode": "pontos_voice",
+        "title": "Trabzonlu Ahmet Muhammet İnan’ın cenazesi teslim edildi",
+        "url": "https://www.61saat.com/trabzonlu-ahmet-muhammet-inanin-cenazesi-teslim-edildi",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 08 Oct 2026 20:56:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "dil"
         ],
         "content_type": "news"
       }
     ]
   },
   "items": [
+    {
+      "external_id": "2909e953525d7a82a3f870df",
+      "mode": "sportdog",
+      "title": "Olympiacos hit back at Panathinaikos after complaint, bring up Mathias Lessort case - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnp0YWd6QjctUUtyOGZ1dUpjYzJSTVhNM3FGZmhnMDBMaFpwak4xZl9INWZUTERBLWJ3V2dWX1RydE5fR0poYTBYeDIzVHB2RS0zTzluTjNlZ2VMbmdhSFR2NENYbGlFSVJfVHpPY29zY1A3d29LaWhwQXZhNTh0ZnFQX1Z2Q1BSOGR6TEZDanhFRkNfVUxIaWJXcXotTkFFc1VwXzZtam92Sy1kVmJsTTZDUzdyOUhsWHVYSHFlZw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 08 Oct 2026 18:13:35 GMT",
+      "base_score": 62,
+      "candidate_score": 93,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
     {
       "external_id": "cefa3651e4657f76983e11e9",
       "mode": "sportdog",
@@ -430,7 +475,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Wed, 07 Oct 2026 13:13:01 GMT",
       "base_score": 75,
-      "candidate_score": 94,
+      "candidate_score": 91,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -444,12 +489,12 @@
       "needs_second_source": false
     },
     {
-      "external_id": "3a06abac891589042912f179",
+      "external_id": "fee0fb9741163261dbe320d8",
       "mode": "sportdog",
-      "title": "Olympiacos FC - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBySDRZZmxwdnl2OXlLVTJYZEw5NGRjaGVQbjg2Z2tDa3Ytb2hlSW1Nd2g1WFU3cFIwcXpnVjBsZ3haVkdidXFnZTQ2X1pTNE5Nck5ERzdUcHVmNkwyMXUyeUVJZlE2ZkhtNW1oWmx3QW9FNHl6Nm4zYkZwMA?oc=5",
+      "title": "Olympiacos Piraeus U19 - Wertvollste Abgänge (Detailed view) | Page 2 - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVGRSdXhyNjQtZjhMY0VPdDhpdTNTeHl1X2l5ZlBrdnRNc2JUQWlFLVhNdjlCYVo4U2E2ODRqaVViVUZBd1VvTGdGOV85bjNVU1FqaDF0YzdLOE0zSXVzZEwzYlpBNEZBcm9vOERlUm45MkttajJ5QnA0QlpYV25BNVBpVFhzbnBkd0I1aTR2ZGZUS0RtandHZEFSVFQwRENkV0Q4aUlmSFNhMlJYZmRvUF8yTFhvWE1BLXRHTFJhdG5wSDY5QmFEWUJPUQ?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 07 Oct 2026 21:12:35 GMT",
+      "published": "Thu, 08 Oct 2026 07:16:30 GMT",
       "base_score": 56,
       "candidate_score": 82,
       "priority": "High",
@@ -464,6 +509,46 @@
       "needs_second_source": true
     },
     {
+      "external_id": "221a0c2a3c96594e3d9e56eb",
+      "mode": "sportdog",
+      "title": "AEK Athens vs. Shakhtar Donetsk Live Stream of UEFA Champions League - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUQ0pmYndqT2J3V2J0R3VIeFdNVGVqWXFTa2NKZVpnYU1JTlJsb2x1UTJXa2ZEbm5FaGdNTTNhc2VLeC1tdEJtU3VfZnd5R3FFT1dkbUt0bUNXazV2Y29zRkpTcWZlQno5eHNYY1gzYw?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Thu, 08 Oct 2026 16:39:33 GMT",
+      "base_score": 50,
+      "candidate_score": 73,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "9f578bd754cb37ce140f23a8",
+      "mode": "sportdog",
+      "title": "Qarabag's Ali Ibrahim travels to Greece for Olympiacos trial - İdman.Biz",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92RTFVd3RwUjJIZ3hUcEQ4MmpPcHNGU2hRbmJCYkdDemFPNWlDV1hwbjF4eE1nQ1JVdUc3WEtBUTR3bGVtX3Q5MmlOVkhBNmNwRmFyOHNGYVpkTzZ2?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 08 Oct 2026 12:30:00 GMT",
+      "base_score": 38,
+      "candidate_score": 56,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "Greece"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "41515cae3a91e1680d157c5d",
       "mode": "sportdog",
       "title": "Panathinaikos owner urges Euroleague, NBA to find path forward - Sports Business Journal",
@@ -471,7 +556,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 08 Oct 2026 11:00:00 GMT",
       "base_score": 39,
-      "candidate_score": 62,
+      "candidate_score": 53,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
@@ -480,7 +565,7 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Panathinaikos",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -491,7 +576,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Thu, 08 Oct 2026 00:05:38 GMT",
       "base_score": 41,
-      "candidate_score": 55,
+      "candidate_score": 52,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -511,7 +596,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Wed, 07 Oct 2026 08:35:18 GMT",
       "base_score": 41,
-      "candidate_score": 52,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -524,45 +609,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "6e0decb9b000a4a0dd33c71f",
-      "mode": "sportdog",
-      "title": "Qarabag forward Ali Ibrahim to attend Olympiacos trial - Operativ Məlumat Mərkəzi",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUtpcmRmQ0xXWV9oYVY4cXlETmFraG01LU83NmxtTVI2akpNQXNIRVNRUkhTRXJGNldsN0Y1TVVWdWR5eUFzeXpOUzJBYkRiWWVOdTRiaDZEVFIzeUZMU2ZPSy1ydVhCMWRKZWxJbGhBd2JDOGVyQXZLQnVTenZmUXM1Q3ZhODQzT0NVS2VJTWlQOTB1?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 07 Oct 2026 11:00:00 GMT",
-      "base_score": 39,
-      "candidate_score": 50,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "forward"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "46e7ccddc869265de8e39442",
-      "mode": "sportdog",
-      "title": "Mexicans in Europe: The Big Headache 'Ant' González Faces on His Return to Olympiacos - Al Bat",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd25YN25ybUE5b1h4Z0duTkV2eC03NjVzdVB0bl9mWG5sQXJoZklqWXR1TlBDNDJqd1FIclNMNG9ib0tjRllMLW9uT1VXUFVKR3RUV29xaUtaR1ZILWYyZ3NMNGtkLXdCR2VsVkRSbVJtekplZ095ZTBmX1J5em9icE1nOFQ1dUhaZ01VaXQ3WVRDZ21GTUJwZ0JjWnd4eVRzTW8zczEzcXIyTnNmMmI2c1VGc2p6Z05kUXlJT21FV3poUkl0UGkyeGVnSdIB0AFBVV95cUxQekxURkEzUzdhcWxjMU9NbXpqSXhCc1NSMkVuWFNYcTFneHhiQ1lEQ1VjOUo3YmIxOTZqY2YwaV9ZOUQ3VlhXZjh1Y2tKMFhMam5CdV9fYm5NTXJLLWlySGVHZjEtS1VISGJmLUtuUVZqTVlTM1MtUUdrZVVzZTB2T2VYbFFKUXpQdUxqeTBTVmJUeFdxVjRqRkxCaGpYYW1IWmwxY2JMeG94OV9oUVdscF9IbEZTMGYzcmg1dk5OdUFOQTduWVBOWHpZdlI5VjB6?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 08 Oct 2026 05:25:14 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "6d88af6425021578a732b5b5",
       "mode": "sportdog",
       "title": "Basketball-We need a solution with the NBA, says Panathinaikos owner - Devdiscourse",
@@ -570,7 +616,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 07 Oct 2026 21:25:11 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -582,14 +628,32 @@
       "needs_second_source": true
     },
     {
+      "external_id": "c1f4270bb6ffbcd12ca80078",
+      "mode": "geopolitico",
+      "title": "Alleged Pakistan Air Force Strikes on Houthis Test Saudi Defence Alliance - Defence Security Asia",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15VG9RcndfMUFYcTcyMzByZ19FeFk3cGVFblZwY2hBZnAtZGpTNDRHSUVfaFlCdUxlS05pRHZ2UjNWSTlCdzZlSG42UndzTGFPQnBjQUN3?oc=5",
+      "source": "Pakistan Turkey Watch",
+      "published": "Thu, 08 Oct 2026 17:34:07 GMT",
+      "base_score": 98,
+      "candidate_score": 113,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pakistan",
+        "Ege",
+        "Pakistan Air Force",
+        "defence"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "324743cf759cec0593373058",
       "mode": "geopolitico",
       "title": "ABD Dışişleri Bakanı Rubio, Yunanistan Başbakanı Miçotakis ile görüştü: Gündemde enerji ve savunma işbirliği var - ssbulten.com.tr",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUZUUEN6eDhBSHBEZ3dKdzRmdXFEZk1mYzJKOW9MelFqYjNpZnlrT1FGUWxVTHVaVDhWbGM5Z19SMWNnWF9pQWVvUFI4enBON0VhRGtGd01Bbmx4Wm9iZFBOeEZ6eWMzSThNQ2FDanZoSkMyNW9mWXZlaTdmZzJab1A0c0NkYUxLdE81d0UtSGtTN0RYQ2FUb2dIR3VuMy11Q254dGFfMmNNTzZ2ejdKNkRLQmRFYXA5UkZ2RjBRd3dJeWdIY0NGcTBLZUp2MEM3VjliaEprek1oYWkydFNmNGVmQXB2ZWtwT2c?oc=5",
       "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 08 Oct 2026 11:29:54 GMT",
+      "published": "Thu, 08 Oct 2026 11:30:07 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -601,6 +665,26 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "779d2d49f6f821528b8a1080",
+      "mode": "geopolitico",
+      "title": "Yunanistan-Güney Kıbrıs-İsrail elektrik hattında kritik gelişme: Yunanistan GSI için istediği formülü uygulayabilir mi? - Bundle",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ1RQcGJsTXR6Tk1EdTRFa0xaQlhnZkFfV0NtR3J1YWdvS3VudUNHdWpSTmtLRGVVV1laVXRRTjRzODF0cEtQcm1QZkRJWXdmRWVHdEhhZ1VrQk5nU0NXSlZhblJ2QmpUQ19KNDlrdThJODZwMXJxTnNEbnNhQTNRMnhpZUEyTWVsZldmUTd5QW9sUmNKaWNCN2QyMDczRXd6MlJHU1p5WUZ0cGRrSHhMVERtYXZjdm1FV1IxWVFkMWs3bk1pdi1pZFJJNUJNTnVfYVZVakdxQ2I0OHkwdUFDXzA0RmZvbnBsUF96MUZHVnF0VlhTaXhzNnNYc1Q5NWJfWG55aVZYUkRxU1oybU1pVmd3OA?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 08 Oct 2026 10:45:45 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "GSI",
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "elektrik hattı",
+        "GSI"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "1e8d94c204b6793c99f435a0",
       "mode": "geopolitico",
       "title": "Rubio Atina’da konuştu: Gündemde Ege, Kıbrıs, Türkiye ve F-35 vardı! - Milli Gazete",
@@ -608,7 +692,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 08 Oct 2026 08:31:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Ege",
@@ -627,7 +711,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 08 Oct 2026 06:36:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -638,95 +722,60 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "02a3e418d021c2709f83b408",
+      "external_id": "08fab137956846ee5f35650b",
       "mode": "geopolitico",
-      "title": "Turkey expects no change in Israel's foreign policy after elections, FM Hakan Fidan says - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GMWZ6TzUxNkkxLV9GWVZWa3ByVjdraC1iTDZZQ2tXNzd5Q0Fibm0xM0FTdXBSdjI5bHBRX2ZBTW5PN3JLY1kzS1FwQmxlV18zcnY2MDBwRGV5MUpE?oc=5",
-      "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
-      "published": "Thu, 08 Oct 2026 12:42:05 GMT",
-      "base_score": 88,
-      "candidate_score": 103,
+      "title": "Rubio Atina’da temaslarda bulundu: F-35 ve Türk-Yunan gerilimi masada! - Haber 7",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnhILUJjNDBTZXFLd1V1N3dPQ18xdWc2UzFKT05rQlRVWEpXeWMxU1ExWE5VUG5ybVhEcTFMMHdaODBMR1oxSkZrNnY5LVF4VV9yTTJSVGRwcU4xLTNsVE9OLXhJLVRfcVVyWm5KZnZtRWFkelpIVlRBcmphWEVSdXp2Rkl5SlItNUNZa0c2bDVqeV9qdkJNS2dkVXFnOTRRdlJMNHlRc0pVMF9RbVhnak93?oc=5",
+      "source": "Haber7 Greece Watch",
+      "published": "Thu, 08 Oct 2026 10:31:00 GMT",
+      "base_score": 95,
+      "candidate_score": 101,
       "priority": "URGENT",
       "matched_keywords": [
-        "Israel",
-        "Fidan",
-        "Turkey",
-        "Fidan"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "32d35e391a03fd42b0153879",
-      "mode": "geopolitico",
-      "title": "Türkiye ile gerilime yol açan Yunanistan-Kıbrıs elektrik projesinde yeni adım - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEhCaFpCQUFEaUV4aDNwcUV2VXc2VkNYcFlpRVdoZ2tZM1ZLeTdLRDgyZ1VJTEtJQUI0VHgzQmlXU2NFbi1JcXA1WDJtYWdQckI2UEtKVS1sSlB5aHg1U2RhOURRTF9WSUNQZkpybzF6TjlZcFU0NV9pMGlaY0pvNXU4SlNqeXBWS1RKNHpNMkFOLThXUF8xZnpuMHJHTW5nejFQN2k5YjZta2R0WVBnRERB?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 08 Oct 2026 12:03:55 GMT",
-      "base_score": 88,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "gerilim"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "c1f7edd02cc9e7eb809012f3",
-      "mode": "geopolitico",
-      "title": "Marco Rubio, Miçotakis ile enerji ve savunma işbirliğini görüştü - dokuz8HABER",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVF9TaGhKN083QzZsWWVoS1RKUUdRdzhpblNkaFc2QUNUN0JDdUFCZ25OZUhWdm1udnRyZkNjVzZMU0tPNklyZUF6dUhBbjhKVnpZTFFEVnBlVFVkSGltRGF0by1IaVhCVmJianp5QWtfSlROakU2X0tuQlI0Z3lVckM0RXNiZGhINUJSTzF0dHZCN0FOX1Fn0gGXAUFVX3lxTE1UX1NoaEo3TzdDNmxZZWhLVEpRR1F3OGluU2RoVzZBQ1Q3QkN1QUJnbk5lSFZ2bW52dHJmQ2NXNkxTS082SXJlQXp1SEFuOEpWellMUURWcGVUVWRIaW1EYXRvLUhpWEJWYmJqenlBa19KVE5qRTZfS25CUjRneVVyQzRFc2JkaEg1QlJPMXR0dkI3QU5fUWc?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 08 Oct 2026 10:49:03 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Miçotakis",
-        "savunma",
-        "savunma işbirliği",
-        "enerji"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "3ee88045332cec639700ded9",
-      "mode": "geopolitico",
-      "title": "Houthis Strike Aden Airport as Turkey and Pakistan Prepare Troop Deployment - Israel Defense",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlWmg1a1lLOUwwN2c2dzNORUpJRWdQX2V1OGE1cVp1LVBtVXd4YUxuMWNSSDRFWHJtaDFvaVRCblFIRVdXQ0lYYUVjLTFMRUhwZ29kVjVQdG0?oc=5",
-      "source": "Pakistan Turkey Watch",
-      "published": "Thu, 08 Oct 2026 08:21:42 GMT",
-      "base_score": 80,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Israel",
-        "Pakistan",
-        "Turkey",
-        "defense"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "7a9685864130172b0969d495",
-      "mode": "geopolitico",
-      "title": "Rubio Atinada! ABD-Yunanistan Görüşmesinde Savunma ve Enerji Gündemi - CNN Türk",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT29Tem1rSTZkaXpwOXF1RXB3Q0tiVGVCcC1tSVFnTFpNdmRQWGtNZTAyVkN2X3AxdERJZEpBNDUxMzk0OFZpd21QN0RuRm1nRzFST1o0UFRXcVFmdXo5c1BnR1diVmNUcUM5RTVBYmo0N0JOYU5NSnpoTVIzVlhpdnNSUWV4RUpLcktvaGFib21zYU1lUThudUdaYmV0SUk?oc=5",
-      "source": "CNN Turk Greece Watch",
-      "published": "Wed, 07 Oct 2026 22:07:00 GMT",
-      "base_score": 84,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
+        "F-35",
+        "Türk-Yunan",
         "Atina",
-        "görüşme",
+        "gerilim",
         "ada",
-        "savunma",
-        "enerji"
+        "F-35"
       ],
       "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "c921b3b97b9ac1962f400f32",
+      "mode": "geopolitico",
+      "title": "India, Greece deepens maritime defence cooperation, discuss coastal security and shipbuilding - Defence Watch",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTGxfUlJfeXdWTjExcmxVN0Y2Q3ZKNExPb3I4dmdnYjFrYV9VbzRDYk0wYlJIcTctRjJBYlBNcnVTNENJMzlNXzJ2Nk9nc2NpcWxNY0Z3MU5ISmVKVUpFdVZmcWNEbTNsMlg0WFdidjBjVnNtcEJDNjB4cUY2N011VFhVZTN0NV9RUWMxaHk1TTJUQk1XYm9lRmVzMTh5MTRsREluVkRrd1ZpNDRCalc3OUltQ0hZM1NBZ2E5SV9MT2xILWZHaW1MREp0WUVMalRtSWZGeklDcC0yRnVm0gHqAUFVX3lxTE5waEQ5NjgzNWZiNHBaeHdpTnd2UGxRd0hNcVFNWW1iOWFSV21YNW9XQ1FUZUdVX3dpcjkzejJfdFhJcktfU1JabnlaazN6eG1sT0pPU2dpWTRMcllUMEpDd3ZMbW84NnAzVjFfb1NLdlhETF9uY3dsN0VMaUxaV0VQQjZuRHpOYlpDcGFMVmNkTm9tZWVrMUZmRXQyMEdWY2xYTTdmR1R4a0dxUWpGcGtFNEZkeWNFQ2FXMm42XzFSLWRiOFNQdUhidmRERktFRmdCNUY5NG1vcVl0T1J5amhPVXdPVlVKeG9aZw?oc=5",
+      "source": "Greece India Strategic Watch",
+      "published": "Thu, 08 Oct 2026 14:38:19 GMT",
+      "base_score": 90,
+      "candidate_score": 100,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "India",
+        "defence",
+        "defence cooperation"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "c9479fba42f7cac9ee9aac11",
+      "mode": "geopolitico",
+      "title": "India, Greece discuss defence and strategic cooperation - OrissaPOST",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMXowOURXZHdqanlhNFI3NkJJb3JBQTFGOHlfSk1ScWQxYm8zY2xTeDI3M1lVU3U4WmtsNEZQQlV5ZnJmVlh0c0VWVlQ3SDBLNnFPZXZjNllxYlZrSWR3a3MxX29wQU1Mbi0wUUFHTkRoTWQ4OTk2MWpJNndMREZNR2tMS0lZc0QzSEHSAYoBQVVfeXFMUDF6MDlEV2R3amp5YTRSNzZCSW9yQUExRjh5X0pNUnFkMWJvM2NsU3gyNzNZVVN1OFprbDRGUEJVeWZyZlZYdHNFVlZUN0gwSzZxT2V2YzZZcWJWa0lkd2tzMV9vcEFNTG4tMFFBR05EaE1kODk5NjFqSTZ3TERGTUdrTEtJWXNEM0hB?oc=5",
+      "source": "Greece India Strategic Watch",
+      "published": "Thu, 08 Oct 2026 14:00:37 GMT",
+      "base_score": 90,
+      "candidate_score": 100,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "India",
+        "defence",
+        "strategic cooperation"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "a8e3ac23ba99ce43d14ec2c2",
@@ -753,7 +802,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Wed, 07 Oct 2026 10:34:13 GMT",
       "base_score": 100,
-      "candidate_score": 103,
+      "candidate_score": 100,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -771,7 +820,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Wed, 07 Oct 2026 20:10:56 GMT",
       "base_score": 86,
-      "candidate_score": 92,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -780,53 +829,54 @@
       "content_type": "news"
     },
     {
-      "external_id": "fd07bef4af05a4e953592732",
+      "external_id": "7af43a6daea84f3ab44943be",
       "mode": "pontos_voice",
-      "title": "Trabzon'da günübirlik tesis alanları için otopark kararı!",
-      "url": "https://www.61saat.com/trabzonda-gunubirlik-tesis-alanlari-icin-otopark-karari",
+      "title": "Vehbi Koç müjdeyi verdi! Of’ta dev eğitim yatırımı",
+      "url": "https://www.61saat.com/vehbi-koc-mujdeyi-verdi-ofta-dev-egitim-yatirimi",
       "source": "61Saat Trabzon",
-      "published": "Thu, 08 Oct 2026 14:15:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
+      "published": "Thu, 08 Oct 2026 19:55:00 +0300",
+      "base_score": 51,
+      "candidate_score": 66,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "8916c842fdb631d9e6f4ddba",
-      "mode": "pontos_voice",
-      "title": "TTSO Meclis Başkanı Eren oda seçimlerine katılacak üyelere başarılar diledi",
-      "url": "https://www.61saat.com/ttso-meclis-baskani-eren-oda-secimlerine-katilacak-uyelere-basarilar-diledi",
-      "source": "61Saat Trabzon",
-      "published": "Thu, 08 Oct 2026 14:09:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "55d07e20b4700c55ac0cbe89",
-      "mode": "pontos_voice",
-      "title": "Büyükşehir’den kömür tesislerine net mesaj",
-      "url": "https://www.61saat.com/buyuksehirden-komur-tesislerine-net-mesaj",
-      "source": "61Saat Trabzon",
-      "published": "Thu, 08 Oct 2026 15:38:00 +0300",
-      "base_score": 40,
-      "candidate_score": 55,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "açıklama",
+        "Of",
+        "milletvekili",
         "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "ca7e9800ac2bf03a2831add6",
+      "mode": "pontos_voice",
+      "title": "YENİ PARTİ TRABZON İL BAŞKANI MUSTAFA BAK SORULARI YANITLIYOR",
+      "url": "https://www.61saat.com/yeni-parti-trabzon-il-baskani-mustafa-bak-sorulari-yanitliyor",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 08 Oct 2026 20:10:00 +0300",
+      "base_score": 46,
+      "candidate_score": 61,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "anit",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "87bb1d5b58d630a40b500ad1",
+      "mode": "pontos_voice",
+      "title": "Trabzonlu Ahmet Muhammet İnan’ın cenazesi teslim edildi",
+      "url": "https://www.61saat.com/trabzonlu-ahmet-muhammet-inanin-cenazesi-teslim-edildi",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 08 Oct 2026 20:56:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "dil"
       ],
       "content_type": "news"
     }
