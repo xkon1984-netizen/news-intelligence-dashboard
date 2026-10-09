@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T13:10:04.017623+00:00",
+  "generated_at": "2026-10-09T18:54:36.766735+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 09 Oct 2026 08:50:14 GMT",
         "base_score": 56,
-        "candidate_score": 86,
+        "candidate_score": 82,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -24,8 +24,8 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "2909e953525d7a82a3f870df",
@@ -68,6 +68,44 @@
         "needs_second_source": true
       },
       {
+        "external_id": "62fc01ba10c2760a2997f876",
+        "mode": "sportdog",
+        "title": "~$!【ReGaRdEr TV】 Olympiacos-Anadolu Efes En Direct Streaming 28.07.2026 - Узнай Москву",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQbnNUNWlLcDNCazhVRjdHeUNoMDd3TDFWUUZPT3ZYbTdKQndaQ2E1dE9EbE1lU0JBT0NnQTJReTFwTHVyTm5hWUc3TDhpbjlMd3BjOW16SlN4S0tpNTZNeW1sbEJBdmtqRnlmekxIOTF3MGlMWk5JQnZsd0tmRUJWWlY5bmV5T1RvRTludE5SckN1MkQ2cDNqLXlobkJXSE8xR2JONTYxb0xZTlBSTlFSWjByTlE0T3A1MEk1NTBIU1JSS21kbmlKUlZlamI0UFpiaFVULTBUSG95WlFPdGNEZVBoZWwtUzFmWVhIbG5QeTFUYWVVc1o3Wk5IMEMzX3lxTzctUU9SaGJTSk9lc3FUYlFrVzhMcmdEbjBqT0wwaVduSzFtRVMtQU5RdVUtSkpZMHphZjJlWExxOGFaYzBfTmowdnlnU3NVOWlfVjQyUDcwWnRwLWxFZVBGNjcyUnlXcjd2UFFraHhvUQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 09 Oct 2026 18:45:02 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "b5c97dd2e1483c2c0c98a803",
+        "mode": "sportdog",
+        "title": "~!%%$▷[~dIRECT#LIVE] Anadolu Efes-Olympiacos en direct 28 Juillet 2026 - Узнай Москву",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNVFhkNXQwa25jZGotMWh2NDVwbzlYazBUVTVyZTlRd24tV3dVT3RrRnduQkdCRDhRaWQ2LUk4SHlBS05MdHh2TlBPNnVsSlZ3Q3RLMk9seTh0amUya3YyS0RQNjRhOHR4T2Q0RFZ0MlBfdWJiOC13OXNuZUplejd5TWZCV01QcjlnejFrajFyTlpsSXQ3T0I4MGJrc3BuaGFkUS1iUDJzSjRTb3F4N0drQklvYUJEdUh1R25LSmdRam5xbV9BVXhKRk1DQUJyMjJ1OHViQ0JLVTJsbktKLVJPSk50WjA4US1nRmpXWHdGVTFYVGJmbVNkUGZRMl9xdjJqWDlPSVB6ZUdnTUNNeUFBZDVGOTNzbWxsWFVFMjFNbzg0Nzk5SlZrX2VzTFB4dk1NUjg5ZUtJQXh4WE9qcjhfektBRFFEZzB6VUNIOURNbDNtT3lRa0lPdlZPXzIyaWkxNmZvcXpQclBpQQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 09 Oct 2026 18:45:02 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "6f46e45d13a4c30b0fcda93f",
         "mode": "sportdog",
         "title": "Can Anyone Stop THIS Panathinaikos?! / Video - BasketNews.com",
@@ -75,7 +113,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 09 Oct 2026 10:57:00 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -87,46 +125,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "41515cae3a91e1680d157c5d",
-        "mode": "sportdog",
-        "title": "Panathinaikos owner urges Euroleague, NBA to find path forward - Sports Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXJ6SFEzYUQ5N3JpZjZSM2Fka3dORlY0V1FnY3NWRloxMGpxNHFKVkRFUEpQeGtYb3FIZkxUUmc4bElSSUxJUHpjV2xIZHMwci01b2Q4Q29FNjVnVGIxTENkaWM0b2hpRjdINmNIanQ0cFN0bzlfVE55T3JTaFlMZHRHNENOUFRUODJFdS1PYW9RS205bzlEbjFzXy1YRmZJSGI1R3lWSjVwVWJiakphTnpxSW1VUUU3aUJvUg?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 08 Oct 2026 12:08:17 GMT",
-        "base_score": 39,
-        "candidate_score": 50,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "forward"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "9f578bd754cb37ce140f23a8",
-        "mode": "sportdog",
-        "title": "Qarabag's Ali Ibrahim travels to Greece for Olympiacos trial - İdman.Biz",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92RTFVd3RwUjJIZ3hUcEQ4MmpPcHNGU2hRbmJCYkdDemFPNWlDV1hwbjF4eE1nQ1JVdUc3WEtBUTR3bGVtX3Q5MmlOVkhBNmNwRmFyOHNGYVpkTzZ2?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 08 Oct 2026 12:30:00 GMT",
-        "base_score": 38,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "Greece"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "c6bc0d1c2c516f839f443e7d",
         "mode": "sportdog",
         "title": "Panathinaikos look unstoppable and lay down a challenge to their rivals! - skweek.com",
@@ -134,7 +132,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 08 Oct 2026 22:50:45 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -153,7 +151,26 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 08 Oct 2026 21:19:00 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "be6239552afbcf4e055b6a32",
+        "mode": "sportdog",
+        "title": "Panathinaikos record best EuroLeague start in 19 years with win over Fenerbahce - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnYyYXl2RWhBV0taMkVwOHlMMkJRZS1IWlZnRTZvYXN5VHZIMFQzV3R4eHdUT3BhbU5Dd2RwWk11WTBENTlEYXhSNlIyZlFSZUFDQmhBei1zUFEyb1RTZHZJUGI1QzJHd0tnTnNLY2xRX2RsMDBKUTBnVmVscVNNQ2JRLTB0cnNxLWs0OEkxOVN2VnlhdUJuWHJUSzFTazJwQUhsZ1ZUbU5RSUxtdzNhVUxTOHFwWC1hNlJR?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 08 Oct 2026 20:22:00 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -193,7 +210,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 09 Oct 2026 08:42:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -211,7 +228,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 09 Oct 2026 07:52:35 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -230,7 +247,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 09 Oct 2026 06:02:15 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Ege",
@@ -247,7 +264,7 @@
         "source": "Pakistan Security Watch",
         "published": "Fri, 09 Oct 2026 08:30:25 GMT",
         "base_score": 99,
-        "candidate_score": 109,
+        "candidate_score": 105,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -258,77 +275,71 @@
         "content_type": "news"
       },
       {
-        "external_id": "3c96e28f81c07118de9ca490",
+        "external_id": "795b1fc6033a5a2f18b5068d",
         "mode": "geopolitico",
-        "title": "Imran Khan Will Get No Relief Through Long March, Warns Pakistan Defence Minister Khawaja Asif - FM Bharat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHNOUmd0a2NKcGt2RHluUjRNSXpwLXgtVjVMSkdkUUppSDVHS0U4d0g4SEEzdnFaRFMycWc2NngyMGIzMTFvQ0NYQ0IyaTZVYmhiekNNREdacFhtTVZUWXZUQl9HNG5uX0pjV1plQ2ZDU2Zja2FzVTFCc1hxb3RRVUdveFRHOURlTWtWNFl0MVRwRGI2Y0RaS0VvRnU4MjJuZFk1RTZ0djlycXhxdGF0RktUUVdCNUVacE8zMm9kLVB2ci03LXc?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Fri, 09 Oct 2026 03:56:53 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
+        "title": "Alleged Pakistan Air Force Strikes on Houthis Test Saudi Defence Alliance - Defence Security Asia",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUI3dE01NTZTUXRxeTFiRFlfcUhvV0NwVGFNaFAzckZtSFRUeE4ySW5EcEZJYVhGZ2t4WkdfTkY5ZlZPRnB6RDkzbHNHZGNtWWRBcUZjRHlycmZFOVZiNkZMLUpvSDRxSE90LTUyRDNuQktSaUxzbE15ZkhGUXZfc1RFTjRfMVZaN2V2OWVreUVDcTQ3cVB3?oc=5",
+        "source": "Pakistan Turkey Watch",
+        "published": "Thu, 08 Oct 2026 17:34:07 GMT",
+        "base_score": 98,
+        "candidate_score": 101,
         "priority": "URGENT",
         "matched_keywords": [
-          "Bharat",
           "Pakistan",
-          "Pakistan defence",
+          "Ege",
+          "Pakistan Air Force",
           "defence"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "3a42e202d49c2075ff00ece9",
+        "external_id": "067054547b6dc7fab7689d54",
         "mode": "geopolitico",
-        "title": "PM Modi Meets Greek PM Mitsotakis on India AI Impact Summit 2026 Sidelines, Review Strategic Partnership Progress - DD News",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVFSY1BlVEZMQlZVTWVfcDg0RXVPclJJWmJ2eVJtUjFGMHp0ZllBOUk0RTdPempqT2xoTGxxTkJGM09PRG1fX2FKY0tleFlJVy1UTDJqVTVKZjgtT0wySDJheDhuVjRVYl8ydl8wR1B4UThLNk5hRXVvZlg0c3RZNTVLZy1pQUQxb2dUU0FhdkxEUWhQUnV2Yi13VFhROGFjanNjVksyVVVzVmtfa1h6a0x0OGFWTm5ZbXY4czNHeHZFN2NmUUh2VFl5d0Z0R0Nzd3d4Vw?oc=5",
-        "source": "Greece India Strategic Watch",
-        "published": "Thu, 08 Oct 2026 18:46:24 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
+        "title": "Missing Israeli hiker found dead on Greece's Mount Olympus after nearly three weeks - Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tckN2TWJfeFFPZ2V1ckJnWHluYnZuWnJQdFRGMnJsWWZraFlNTWJKNkxuUGhKZ1RlczhaSzN1ZXdwMTlBUEJORXB5MV9BOFFZYzNMWXF3?oc=5",
+        "source": "Ynet Greece Turkey Cyprus IMEC Watch",
+        "published": "Fri, 09 Oct 2026 13:16:18 GMT",
+        "base_score": 84,
+        "candidate_score": 94,
+        "priority": "High",
         "matched_keywords": [
-          "India",
-          "Mitsotakis",
-          "Modi",
-          "strategic partnership"
+          "Greece",
+          "Israel",
+          "Israeli"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "324743cf759cec0593373058",
+        "external_id": "8485c3fcbe83c90f9c6907b4",
         "mode": "geopolitico",
-        "title": "ABD Dışişleri Bakanı Rubio, Yunanistan Başbakanı Miçotakis ile görüştü: Gündemde enerji ve savunma işbirliği var - ssbulten.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUZUUEN6eDhBSHBEZ3dKdzRmdXFEZk1mYzJKOW9MelFqYjNpZnlrT1FGUWxVTHVaVDhWbGM5Z19SMWNnWF9pQWVvUFI4enBON0VhRGtGd01Bbmx4Wm9iZFBOeEZ6eWMzSThNQ2FDanZoSkMyNW9mWXZlaTdmZzJab1A0c0NkYUxLdE81d0UtSGtTN0RYQ2FUb2dIR3VuMy11Q254dGFfMmNNTzZ2ejdKNkRLQmRFYXA5UkZ2RjBRd3dJeWdIY0NGcTBLZUp2MEM3VjliaEprek1oYWkydFNmNGVmQXB2ZWtwT2c?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 08 Oct 2026 11:30:07 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
+        "title": "Missing Israeli hiker found dead in Greece after three weeks - The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGlCTHBiZ0dkV1Npd0VNdHJIT1h2cWNEejFfeTRkUVZTajFRQjVueHpZR1dTQUpRRXI0VjE2LURucGJUTFI4RDVsazhYNmgtZWtjamxwbGk2NWNqdjFaZnRrX3RjNW93WUl4UEh5dUE2N3dPVnJ0ME1Pc3kxTzBfOF94dTFmaDJBbkJyMk9mLUVKU0Y1TEJjMklvWHl4eWUyMFJIWG91bWRPUQ?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Fri, 09 Oct 2026 13:03:11 GMT",
+        "base_score": 84,
+        "candidate_score": 94,
+        "priority": "High",
         "matched_keywords": [
-          "Yunanistan",
-          "Miçotakis",
-          "savunma",
-          "savunma işbirliği",
-          "enerji"
+          "Greece",
+          "Israel",
+          "Israeli"
         ],
-        "content_type": "turkey_greece"
+        "content_type": "news"
       },
       {
-        "external_id": "779d2d49f6f821528b8a1080",
+        "external_id": "88155286ed9b31ee08141a51",
         "mode": "geopolitico",
-        "title": "Yunanistan-Güney Kıbrıs-İsrail elektrik hattında kritik gelişme: Yunanistan GSI için istediği formülü uygulayabilir mi? - Bundle",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ1RQcGJsTXR6Tk1EdTRFa0xaQlhnZkFfV0NtR3J1YWdvS3VudUNHdWpSTmtLRGVVV1laVXRRTjRzODF0cEtQcm1QZkRJWXdmRWVHdEhhZ1VrQk5nU0NXSlZhblJ2QmpUQ19KNDlrdThJODZwMXJxTnNEbnNhQTNRMnhpZUEyTWVsZldmUTd5QW9sUmNKaWNCN2QyMDczRXd6MlJHU1p5WUZ0cGRrSHhMVERtYXZjdm1FV1IxWVFkMWs3bk1pdi1pZFJJNUJNTnVfYVZVakdxQ2I0OHkwdUFDXzA0RmZvbnBsUF96MUZHVnF0VlhTaXhzNnNYc1Q5NWJfWG55aVZYUkRxU1oybU1pVmd3OA?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Thu, 08 Oct 2026 10:45:45 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
+        "title": "ABD Dışişleri Bakanı Rubio: Türk-Yunan savaşı kimse için iyi olmaz, F-35 sorunu çözülmedi - Gazete Oksijen",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNekhnS3FYTVhvUmhKdzJDUEFMVkE5dHlna2NjQm1RbVM5Q3FlNF9kS0FxOV9JSnYycDZEb3RGS3VsOW9vcHV3QXVKTENtXzdEYXNIOE1uaExMOGQwbUNjNWpvNEUyWUFiMFI5R2c2RUNlZXdoWlZuNGlMZnRkT2dydjRpd2ZmZUZ3RFZPWnQ3VlV3dTFFQktXOVpJSGV2TEtycmZWYkJTUE5IR3p2TkVZSF9BOVdJRFc2ek0tY2c4MTViQTJw?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Fri, 09 Oct 2026 15:57:13 GMT",
+        "base_score": 78,
+        "candidate_score": 93,
+        "priority": "High",
         "matched_keywords": [
-          "Yunanistan",
-          "GSI",
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "elektrik hattı",
-          "GSI"
+          "F-35",
+          "Türk-Yunan",
+          "F-35"
         ],
         "content_type": "turkey_greece"
       }
@@ -342,7 +353,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 09 Oct 2026 12:06:11 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -354,19 +365,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "a8e3ac23ba99ce43d14ec2c2",
+        "external_id": "4a6445a98d3480ef74ae5ce9",
         "mode": "pontos_voice",
-        "title": "Τραπεζούντα: Χωρίς τελεφερίκ η Παναγία Σουμελά - Newsbomb",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlpGSTdxaVdpWmdZTG9zemFqaGx5SXkyQ21yQmFvTVpRbW03aU85STg0QnFfbHl4M2RLVmMtZ1ZxT0JPbnJDb0ZFMzI5QmRSTm51THZZaDRCWDJqa0gybWhBTVkxaVJKWmtYOHhCS0p3U2J0ZmtkQ29uY1hRYkk4b3U0TW5BNVRQS3RNV2lrQzhpMlpwaUlDWHVB?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 07 Oct 2026 15:48:09 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
+        "title": "Η Ένωση Ποντίων Αμβούργου γιορτάζει 49 χρόνια παράδοσης με επετειακό χορό - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM19oUDBiMTM0SndPZEtxYkhxWnB6MFd6SXBHQzlpQVhQVzhqSjRhM2dVRGR3RGxCMl9kY3VpbjAyanlUVnpVY1lCanIwX2lxM2JxSzEtaWFkeHNhTmVUQUYySkVSakhYQzhSZXlzSG41WjdObzZ1cFVOOW51RXpHWkZSSmxRbzVMeEhaeE5Ncm9FNWoxT25YMzNtMkpRbVZOLXRTLTBpdE9FY1BqeUxR?oc=5",
+        "source": "Greek Press Pontic Culture Watch",
+        "published": "Fri, 09 Oct 2026 17:19:07 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
         "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά",
-          "Τραπεζούντα"
+          "Pontos",
+          "Ένωση Ποντίων",
+          "παράδοση"
         ],
         "content_type": "news"
       },
@@ -378,7 +389,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Thu, 08 Oct 2026 19:30:31 GMT",
         "base_score": 86,
-        "candidate_score": 92,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -388,59 +399,52 @@
         "content_type": "news"
       },
       {
-        "external_id": "9245036c535529c14a97a688",
+        "external_id": "901fc7166d1da13565f3770a",
         "mode": "pontos_voice",
-        "title": "Trabzon Şehir Hastanesi’nin açılışı neden ertelendi? Suiçmez’den Bakan Memişoğlu’na yanıt çağrısı",
-        "url": "https://www.61saat.com/trabzon-sehir-hastanesinin-acilisi-neden-ertelendi-suicmezden-bakan-memisogluna-yanit-cagrisi",
+        "title": "Παναγία Σουμελά στον Πόντο: Το παρεκκλήσι που φρενάρει το τελεφερίκ - η ναυτεμπορικη",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdURPTTdnREZ0cVhjVUhzeTVfLXRSWndLc0VMQmdOOWZlUkdfQWdETWlLeHNfWjBaMTRfZTF5cnUyMW1BNzdCdVhUTjVmQlMxbWRCZjlWdWxDdjVGcnpleVJHNFo5OElFc1ZSaGptTWxxX1BQRXFjRU5iX19HWTlvanZSdWR1dG5uNHdZWmRFTU56YXFNUVJ6UnI5SnlmTGVhT2RWaDJ2VGR0QlkzTUtRRQ?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Wed, 07 Oct 2026 20:10:56 GMT",
+        "base_score": 86,
+        "candidate_score": 86,
+        "priority": "High",
+        "matched_keywords": [
+          "Παναγία Σουμελά",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "32b72f120d43b2943e4463fd",
+        "mode": "pontos_voice",
+        "title": "Okul saldırıları sonrası Trabzon'daki okullarda yeni önlem",
+        "url": "https://www.61saat.com/okul-saldirilari-sonrasi-trabzondaki-okullarda-yeni-onlem",
         "source": "61Saat Trabzon",
-        "published": "Fri, 09 Oct 2026 13:08:00 +0300",
-        "base_score": 77,
-        "candidate_score": 87,
+        "published": "Fri, 09 Oct 2026 19:50:00 +0300",
+        "base_score": 57,
+        "candidate_score": 72,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
-          "Of",
-          "milletvekili",
-          "bakan",
-          "açıklama",
-          "anıt",
+          "Rumlar",
           "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "5fb7a97c040c9c7b8e3e259d",
+        "external_id": "50d0a0026e3af358868c0a11",
         "mode": "pontos_voice",
-        "title": "TMO'dan fındığın fiyatını arttırabilecek karar! Trabzon milletvekili açıkladı",
-        "url": "https://www.61saat.com/tmodan-findigin-fiyatini-arttirabilecek-karar-trabzon-milletvekili-acikladi",
+        "title": "Trabzon'da üniversite öğrencileri Gazze'ye destek için bir araya geldi",
+        "url": "https://www.61saat.com/trabzonda-universite-ogrencileri-gazzeye-destek-icin-bir-araya-geldi",
         "source": "61Saat Trabzon",
-        "published": "Fri, 09 Oct 2026 15:11:00 +0300",
-        "base_score": 51,
-        "candidate_score": 66,
+        "published": "Fri, 09 Oct 2026 20:32:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
-          "milletvekili",
+          "Giresun",
           "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "aa6b86943f484cfda763e03f",
-        "mode": "pontos_voice",
-        "title": "Samsunspor'da Thorsten Fink'ten Salah açıklaması! Alan ve zaman verirseniz",
-        "url": "https://www.61saat.com/samsunsporda-thorsten-finkten-salah-aciklamasi-alan-ve-zaman-verirseniz",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 09 Oct 2026 15:23:00 +0300",
-        "base_score": 49,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "açıklama",
-          "Trabzon",
-          "dil"
         ],
         "content_type": "news"
       }
@@ -455,7 +459,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 09 Oct 2026 08:50:14 GMT",
       "base_score": 56,
-      "candidate_score": 86,
+      "candidate_score": 82,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -464,8 +468,8 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "2909e953525d7a82a3f870df",
@@ -508,6 +512,44 @@
       "needs_second_source": true
     },
     {
+      "external_id": "62fc01ba10c2760a2997f876",
+      "mode": "sportdog",
+      "title": "~$!【ReGaRdEr TV】 Olympiacos-Anadolu Efes En Direct Streaming 28.07.2026 - Узнай Москву",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQbnNUNWlLcDNCazhVRjdHeUNoMDd3TDFWUUZPT3ZYbTdKQndaQ2E1dE9EbE1lU0JBT0NnQTJReTFwTHVyTm5hWUc3TDhpbjlMd3BjOW16SlN4S0tpNTZNeW1sbEJBdmtqRnlmekxIOTF3MGlMWk5JQnZsd0tmRUJWWlY5bmV5T1RvRTludE5SckN1MkQ2cDNqLXlobkJXSE8xR2JONTYxb0xZTlBSTlFSWjByTlE0T3A1MEk1NTBIU1JSS21kbmlKUlZlamI0UFpiaFVULTBUSG95WlFPdGNEZVBoZWwtUzFmWVhIbG5QeTFUYWVVc1o3Wk5IMEMzX3lxTzctUU9SaGJTSk9lc3FUYlFrVzhMcmdEbjBqT0wwaVduSzFtRVMtQU5RdVUtSkpZMHphZjJlWExxOGFaYzBfTmowdnlnU3NVOWlfVjQyUDcwWnRwLWxFZVBGNjcyUnlXcjd2UFFraHhvUQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 09 Oct 2026 18:45:02 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "b5c97dd2e1483c2c0c98a803",
+      "mode": "sportdog",
+      "title": "~!%%$▷[~dIRECT#LIVE] Anadolu Efes-Olympiacos en direct 28 Juillet 2026 - Узнай Москву",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNVFhkNXQwa25jZGotMWh2NDVwbzlYazBUVTVyZTlRd24tV3dVT3RrRnduQkdCRDhRaWQ2LUk4SHlBS05MdHh2TlBPNnVsSlZ3Q3RLMk9seTh0amUya3YyS0RQNjRhOHR4T2Q0RFZ0MlBfdWJiOC13OXNuZUplejd5TWZCV01QcjlnejFrajFyTlpsSXQ3T0I4MGJrc3BuaGFkUS1iUDJzSjRTb3F4N0drQklvYUJEdUh1R25LSmdRam5xbV9BVXhKRk1DQUJyMjJ1OHViQ0JLVTJsbktKLVJPSk50WjA4US1nRmpXWHdGVTFYVGJmbVNkUGZRMl9xdjJqWDlPSVB6ZUdnTUNNeUFBZDVGOTNzbWxsWFVFMjFNbzg0Nzk5SlZrX2VzTFB4dk1NUjg5ZUtJQXh4WE9qcjhfektBRFFEZzB6VUNIOURNbDNtT3lRa0lPdlZPXzIyaWkxNmZvcXpQclBpQQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 09 Oct 2026 18:45:02 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "6f46e45d13a4c30b0fcda93f",
       "mode": "sportdog",
       "title": "Can Anyone Stop THIS Panathinaikos?! / Video - BasketNews.com",
@@ -515,7 +557,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 09 Oct 2026 10:57:00 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -527,46 +569,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "41515cae3a91e1680d157c5d",
-      "mode": "sportdog",
-      "title": "Panathinaikos owner urges Euroleague, NBA to find path forward - Sports Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXJ6SFEzYUQ5N3JpZjZSM2Fka3dORlY0V1FnY3NWRloxMGpxNHFKVkRFUEpQeGtYb3FIZkxUUmc4bElSSUxJUHpjV2xIZHMwci01b2Q4Q29FNjVnVGIxTENkaWM0b2hpRjdINmNIanQ0cFN0bzlfVE55T3JTaFlMZHRHNENOUFRUODJFdS1PYW9RS205bzlEbjFzXy1YRmZJSGI1R3lWSjVwVWJiakphTnpxSW1VUUU3aUJvUg?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 08 Oct 2026 12:08:17 GMT",
-      "base_score": 39,
-      "candidate_score": 50,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "forward"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "9f578bd754cb37ce140f23a8",
-      "mode": "sportdog",
-      "title": "Qarabag's Ali Ibrahim travels to Greece for Olympiacos trial - İdman.Biz",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92RTFVd3RwUjJIZ3hUcEQ4MmpPcHNGU2hRbmJCYkdDemFPNWlDV1hwbjF4eE1nQ1JVdUc3WEtBUTR3bGVtX3Q5MmlOVkhBNmNwRmFyOHNGYVpkTzZ2?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 08 Oct 2026 12:30:00 GMT",
-      "base_score": 38,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "Greece"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "c6bc0d1c2c516f839f443e7d",
       "mode": "sportdog",
       "title": "Panathinaikos look unstoppable and lay down a challenge to their rivals! - skweek.com",
@@ -574,7 +576,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 08 Oct 2026 22:50:45 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -593,7 +595,26 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 08 Oct 2026 21:19:00 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "be6239552afbcf4e055b6a32",
+      "mode": "sportdog",
+      "title": "Panathinaikos record best EuroLeague start in 19 years with win over Fenerbahce - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnYyYXl2RWhBV0taMkVwOHlMMkJRZS1IWlZnRTZvYXN5VHZIMFQzV3R4eHdUT3BhbU5Dd2RwWk11WTBENTlEYXhSNlIyZlFSZUFDQmhBei1zUFEyb1RTZHZJUGI1QzJHd0tnTnNLY2xRX2RsMDBKUTBnVmVscVNNQ2JRLTB0cnNxLWs0OEkxOVN2VnlhdUJuWHJUSzFTazJwQUhsZ1ZUbU5RSUxtdzNhVUxTOHFwWC1hNlJR?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 08 Oct 2026 20:22:00 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -631,7 +652,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 09 Oct 2026 08:42:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -649,7 +670,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 09 Oct 2026 07:52:35 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -668,7 +689,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 09 Oct 2026 06:02:15 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Ege",
@@ -685,7 +706,7 @@
       "source": "Pakistan Security Watch",
       "published": "Fri, 09 Oct 2026 08:30:25 GMT",
       "base_score": 99,
-      "candidate_score": 109,
+      "candidate_score": 105,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -696,77 +717,71 @@
       "content_type": "news"
     },
     {
-      "external_id": "3c96e28f81c07118de9ca490",
+      "external_id": "795b1fc6033a5a2f18b5068d",
       "mode": "geopolitico",
-      "title": "Imran Khan Will Get No Relief Through Long March, Warns Pakistan Defence Minister Khawaja Asif - FM Bharat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHNOUmd0a2NKcGt2RHluUjRNSXpwLXgtVjVMSkdkUUppSDVHS0U4d0g4SEEzdnFaRFMycWc2NngyMGIzMTFvQ0NYQ0IyaTZVYmhiekNNREdacFhtTVZUWXZUQl9HNG5uX0pjV1plQ2ZDU2Zja2FzVTFCc1hxb3RRVUdveFRHOURlTWtWNFl0MVRwRGI2Y0RaS0VvRnU4MjJuZFk1RTZ0djlycXhxdGF0RktUUVdCNUVacE8zMm9kLVB2ci03LXc?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Fri, 09 Oct 2026 03:56:53 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
+      "title": "Alleged Pakistan Air Force Strikes on Houthis Test Saudi Defence Alliance - Defence Security Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUI3dE01NTZTUXRxeTFiRFlfcUhvV0NwVGFNaFAzckZtSFRUeE4ySW5EcEZJYVhGZ2t4WkdfTkY5ZlZPRnB6RDkzbHNHZGNtWWRBcUZjRHlycmZFOVZiNkZMLUpvSDRxSE90LTUyRDNuQktSaUxzbE15ZkhGUXZfc1RFTjRfMVZaN2V2OWVreUVDcTQ3cVB3?oc=5",
+      "source": "Pakistan Turkey Watch",
+      "published": "Thu, 08 Oct 2026 17:34:07 GMT",
+      "base_score": 98,
+      "candidate_score": 101,
       "priority": "URGENT",
       "matched_keywords": [
-        "Bharat",
         "Pakistan",
-        "Pakistan defence",
+        "Ege",
+        "Pakistan Air Force",
         "defence"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "3a42e202d49c2075ff00ece9",
+      "external_id": "067054547b6dc7fab7689d54",
       "mode": "geopolitico",
-      "title": "PM Modi Meets Greek PM Mitsotakis on India AI Impact Summit 2026 Sidelines, Review Strategic Partnership Progress - DD News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVFSY1BlVEZMQlZVTWVfcDg0RXVPclJJWmJ2eVJtUjFGMHp0ZllBOUk0RTdPempqT2xoTGxxTkJGM09PRG1fX2FKY0tleFlJVy1UTDJqVTVKZjgtT0wySDJheDhuVjRVYl8ydl8wR1B4UThLNk5hRXVvZlg0c3RZNTVLZy1pQUQxb2dUU0FhdkxEUWhQUnV2Yi13VFhROGFjanNjVksyVVVzVmtfa1h6a0x0OGFWTm5ZbXY4czNHeHZFN2NmUUh2VFl5d0Z0R0Nzd3d4Vw?oc=5",
-      "source": "Greece India Strategic Watch",
-      "published": "Thu, 08 Oct 2026 18:46:24 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
+      "title": "Missing Israeli hiker found dead on Greece's Mount Olympus after nearly three weeks - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tckN2TWJfeFFPZ2V1ckJnWHluYnZuWnJQdFRGMnJsWWZraFlNTWJKNkxuUGhKZ1RlczhaSzN1ZXdwMTlBUEJORXB5MV9BOFFZYzNMWXF3?oc=5",
+      "source": "Ynet Greece Turkey Cyprus IMEC Watch",
+      "published": "Fri, 09 Oct 2026 13:16:18 GMT",
+      "base_score": 84,
+      "candidate_score": 94,
+      "priority": "High",
       "matched_keywords": [
-        "India",
-        "Mitsotakis",
-        "Modi",
-        "strategic partnership"
+        "Greece",
+        "Israel",
+        "Israeli"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "324743cf759cec0593373058",
+      "external_id": "8485c3fcbe83c90f9c6907b4",
       "mode": "geopolitico",
-      "title": "ABD Dışişleri Bakanı Rubio, Yunanistan Başbakanı Miçotakis ile görüştü: Gündemde enerji ve savunma işbirliği var - ssbulten.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUZUUEN6eDhBSHBEZ3dKdzRmdXFEZk1mYzJKOW9MelFqYjNpZnlrT1FGUWxVTHVaVDhWbGM5Z19SMWNnWF9pQWVvUFI4enBON0VhRGtGd01Bbmx4Wm9iZFBOeEZ6eWMzSThNQ2FDanZoSkMyNW9mWXZlaTdmZzJab1A0c0NkYUxLdE81d0UtSGtTN0RYQ2FUb2dIR3VuMy11Q254dGFfMmNNTzZ2ejdKNkRLQmRFYXA5UkZ2RjBRd3dJeWdIY0NGcTBLZUp2MEM3VjliaEprek1oYWkydFNmNGVmQXB2ZWtwT2c?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 08 Oct 2026 11:30:07 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
+      "title": "Missing Israeli hiker found dead in Greece after three weeks - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGlCTHBiZ0dkV1Npd0VNdHJIT1h2cWNEejFfeTRkUVZTajFRQjVueHpZR1dTQUpRRXI0VjE2LURucGJUTFI4RDVsazhYNmgtZWtjamxwbGk2NWNqdjFaZnRrX3RjNW93WUl4UEh5dUE2N3dPVnJ0ME1Pc3kxTzBfOF94dTFmaDJBbkJyMk9mLUVKU0Y1TEJjMklvWHl4eWUyMFJIWG91bWRPUQ?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Fri, 09 Oct 2026 13:03:11 GMT",
+      "base_score": 84,
+      "candidate_score": 94,
+      "priority": "High",
       "matched_keywords": [
-        "Yunanistan",
-        "Miçotakis",
-        "savunma",
-        "savunma işbirliği",
-        "enerji"
+        "Greece",
+        "Israel",
+        "Israeli"
       ],
-      "content_type": "turkey_greece"
+      "content_type": "news"
     },
     {
-      "external_id": "779d2d49f6f821528b8a1080",
+      "external_id": "88155286ed9b31ee08141a51",
       "mode": "geopolitico",
-      "title": "Yunanistan-Güney Kıbrıs-İsrail elektrik hattında kritik gelişme: Yunanistan GSI için istediği formülü uygulayabilir mi? - Bundle",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ1RQcGJsTXR6Tk1EdTRFa0xaQlhnZkFfV0NtR3J1YWdvS3VudUNHdWpSTmtLRGVVV1laVXRRTjRzODF0cEtQcm1QZkRJWXdmRWVHdEhhZ1VrQk5nU0NXSlZhblJ2QmpUQ19KNDlrdThJODZwMXJxTnNEbnNhQTNRMnhpZUEyTWVsZldmUTd5QW9sUmNKaWNCN2QyMDczRXd6MlJHU1p5WUZ0cGRrSHhMVERtYXZjdm1FV1IxWVFkMWs3bk1pdi1pZFJJNUJNTnVfYVZVakdxQ2I0OHkwdUFDXzA0RmZvbnBsUF96MUZHVnF0VlhTaXhzNnNYc1Q5NWJfWG55aVZYUkRxU1oybU1pVmd3OA?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Thu, 08 Oct 2026 10:45:45 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
+      "title": "ABD Dışişleri Bakanı Rubio: Türk-Yunan savaşı kimse için iyi olmaz, F-35 sorunu çözülmedi - Gazete Oksijen",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNekhnS3FYTVhvUmhKdzJDUEFMVkE5dHlna2NjQm1RbVM5Q3FlNF9kS0FxOV9JSnYycDZEb3RGS3VsOW9vcHV3QXVKTENtXzdEYXNIOE1uaExMOGQwbUNjNWpvNEUyWUFiMFI5R2c2RUNlZXdoWlZuNGlMZnRkT2dydjRpd2ZmZUZ3RFZPWnQ3VlV3dTFFQktXOVpJSGV2TEtycmZWYkJTUE5IR3p2TkVZSF9BOVdJRFc2ek0tY2c4MTViQTJw?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Fri, 09 Oct 2026 15:57:13 GMT",
+      "base_score": 78,
+      "candidate_score": 93,
+      "priority": "High",
       "matched_keywords": [
-        "Yunanistan",
-        "GSI",
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "elektrik hattı",
-        "GSI"
+        "F-35",
+        "Türk-Yunan",
+        "F-35"
       ],
       "content_type": "turkey_greece"
     },
@@ -778,7 +793,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 09 Oct 2026 12:06:11 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -790,19 +805,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "a8e3ac23ba99ce43d14ec2c2",
+      "external_id": "4a6445a98d3480ef74ae5ce9",
       "mode": "pontos_voice",
-      "title": "Τραπεζούντα: Χωρίς τελεφερίκ η Παναγία Σουμελά - Newsbomb",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlpGSTdxaVdpWmdZTG9zemFqaGx5SXkyQ21yQmFvTVpRbW03aU85STg0QnFfbHl4M2RLVmMtZ1ZxT0JPbnJDb0ZFMzI5QmRSTm51THZZaDRCWDJqa0gybWhBTVkxaVJKWmtYOHhCS0p3U2J0ZmtkQ29uY1hRYkk4b3U0TW5BNVRQS3RNV2lrQzhpMlpwaUlDWHVB?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 07 Oct 2026 15:48:09 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
+      "title": "Η Ένωση Ποντίων Αμβούργου γιορτάζει 49 χρόνια παράδοσης με επετειακό χορό - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM19oUDBiMTM0SndPZEtxYkhxWnB6MFd6SXBHQzlpQVhQVzhqSjRhM2dVRGR3RGxCMl9kY3VpbjAyanlUVnpVY1lCanIwX2lxM2JxSzEtaWFkeHNhTmVUQUYySkVSakhYQzhSZXlzSG41WjdObzZ1cFVOOW51RXpHWkZSSmxRbzVMeEhaeE5Ncm9FNWoxT25YMzNtMkpRbVZOLXRTLTBpdE9FY1BqeUxR?oc=5",
+      "source": "Greek Press Pontic Culture Watch",
+      "published": "Fri, 09 Oct 2026 17:19:07 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
       "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά",
-        "Τραπεζούντα"
+        "Pontos",
+        "Ένωση Ποντίων",
+        "παράδοση"
       ],
       "content_type": "news"
     },
@@ -814,7 +829,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Thu, 08 Oct 2026 19:30:31 GMT",
       "base_score": 86,
-      "candidate_score": 92,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -824,59 +839,52 @@
       "content_type": "news"
     },
     {
-      "external_id": "9245036c535529c14a97a688",
+      "external_id": "901fc7166d1da13565f3770a",
       "mode": "pontos_voice",
-      "title": "Trabzon Şehir Hastanesi’nin açılışı neden ertelendi? Suiçmez’den Bakan Memişoğlu’na yanıt çağrısı",
-      "url": "https://www.61saat.com/trabzon-sehir-hastanesinin-acilisi-neden-ertelendi-suicmezden-bakan-memisogluna-yanit-cagrisi",
+      "title": "Παναγία Σουμελά στον Πόντο: Το παρεκκλήσι που φρενάρει το τελεφερίκ - η ναυτεμπορικη",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdURPTTdnREZ0cVhjVUhzeTVfLXRSWndLc0VMQmdOOWZlUkdfQWdETWlLeHNfWjBaMTRfZTF5cnUyMW1BNzdCdVhUTjVmQlMxbWRCZjlWdWxDdjVGcnpleVJHNFo5OElFc1ZSaGptTWxxX1BQRXFjRU5iX19HWTlvanZSdWR1dG5uNHdZWmRFTU56YXFNUVJ6UnI5SnlmTGVhT2RWaDJ2VGR0QlkzTUtRRQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Wed, 07 Oct 2026 20:10:56 GMT",
+      "base_score": 86,
+      "candidate_score": 86,
+      "priority": "High",
+      "matched_keywords": [
+        "Παναγία Σουμελά",
+        "Σουμελά"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "32b72f120d43b2943e4463fd",
+      "mode": "pontos_voice",
+      "title": "Okul saldırıları sonrası Trabzon'daki okullarda yeni önlem",
+      "url": "https://www.61saat.com/okul-saldirilari-sonrasi-trabzondaki-okullarda-yeni-onlem",
       "source": "61Saat Trabzon",
-      "published": "Fri, 09 Oct 2026 13:08:00 +0300",
-      "base_score": 77,
-      "candidate_score": 87,
+      "published": "Fri, 09 Oct 2026 19:50:00 +0300",
+      "base_score": 57,
+      "candidate_score": 72,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
-        "Of",
-        "milletvekili",
-        "bakan",
-        "açıklama",
-        "anıt",
+        "Rumlar",
         "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "5fb7a97c040c9c7b8e3e259d",
+      "external_id": "50d0a0026e3af358868c0a11",
       "mode": "pontos_voice",
-      "title": "TMO'dan fındığın fiyatını arttırabilecek karar! Trabzon milletvekili açıkladı",
-      "url": "https://www.61saat.com/tmodan-findigin-fiyatini-arttirabilecek-karar-trabzon-milletvekili-acikladi",
+      "title": "Trabzon'da üniversite öğrencileri Gazze'ye destek için bir araya geldi",
+      "url": "https://www.61saat.com/trabzonda-universite-ogrencileri-gazzeye-destek-icin-bir-araya-geldi",
       "source": "61Saat Trabzon",
-      "published": "Fri, 09 Oct 2026 15:11:00 +0300",
-      "base_score": 51,
-      "candidate_score": 66,
+      "published": "Fri, 09 Oct 2026 20:32:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
-        "milletvekili",
+        "Giresun",
         "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "aa6b86943f484cfda763e03f",
-      "mode": "pontos_voice",
-      "title": "Samsunspor'da Thorsten Fink'ten Salah açıklaması! Alan ve zaman verirseniz",
-      "url": "https://www.61saat.com/samsunsporda-thorsten-finkten-salah-aciklamasi-alan-ve-zaman-verirseniz",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 09 Oct 2026 15:23:00 +0300",
-      "base_score": 49,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "açıklama",
-        "Trabzon",
-        "dil"
       ],
       "content_type": "news"
     }
