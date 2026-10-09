@@ -1,397 +1,51 @@
 {
-  "generated_at": "2026-10-08T19:33:27.625932+00:00",
+  "generated_at": "2026-10-09T00:12:36.833854+00:00",
   "counts": {
-    "sportdog": 9,
-    "geopolitico": 8,
-    "pontos_voice": 6
+    "sportdog": 0,
+    "geopolitico": 2,
+    "pontos_voice": 3
   },
   "modes": {
-    "sportdog": [
-      {
-        "external_id": "2909e953525d7a82a3f870df",
-        "mode": "sportdog",
-        "title": "Olympiacos hit back at Panathinaikos after complaint, bring up Mathias Lessort case - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnp0YWd6QjctUUtyOGZ1dUpjYzJSTVhNM3FGZmhnMDBMaFpwak4xZl9INWZUTERBLWJ3V2dWX1RydE5fR0poYTBYeDIzVHB2RS0zTzluTjNlZ2VMbmdhSFR2NENYbGlFSVJfVHpPY29zY1A3d29LaWhwQXZhNTh0ZnFQX1Z2Q1BSOGR6TEZDanhFRkNfVUxIaWJXcXotTkFFc1VwXzZtam92Sy1kVmJsTTZDUzdyOUhsWHVYSHFlZw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 08 Oct 2026 18:13:35 GMT",
-        "base_score": 62,
-        "candidate_score": 93,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "cefa3651e4657f76983e11e9",
-        "mode": "sportdog",
-        "title": "Bonzie Colson: Olympiacos talks, Hapoel approach, verdict on Panathinaikos - skweek.com",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMFYxTmE3ZHZpbzdlYnQzWGQxN0FNbkpadFRWQ0hYVTBNVUQ4Z3NUYkE1THVTcG5TUWJJbkxLcVhNU0dkZ0RPa1VoMmJJcG9uRXY1QldvOF91Yk5UVVduMXY4aGktaENscHQxTV9JVW1qOC00RW5qOElEWGRPcmRmNmpCZ0pWbkt0Z3BMNV95a04wbDR4N25FWGpCQlNGTGJhZWhJT2UtYVhxblhWTHMxM2JIcVkyX2czWWZaWDVLeFVwNF9GbkUtWVhWM2duUkpDUXc?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 07 Oct 2026 13:13:01 GMT",
-        "base_score": 75,
-        "candidate_score": 91,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "Panathinaikos",
-          "talks"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "fee0fb9741163261dbe320d8",
-        "mode": "sportdog",
-        "title": "Olympiacos Piraeus U19 - Wertvollste Abgänge (Detailed view) | Page 2 - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVGRSdXhyNjQtZjhMY0VPdDhpdTNTeHl1X2l5ZlBrdnRNc2JUQWlFLVhNdjlCYVo4U2E2ODRqaVViVUZBd1VvTGdGOV85bjNVU1FqaDF0YzdLOE0zSXVzZEwzYlpBNEZBcm9vOERlUm45MkttajJ5QnA0QlpYV25BNVBpVFhzbnBkd0I1aTR2ZGZUS0RtandHZEFSVFQwRENkV0Q4aUlmSFNhMlJYZmRvUF8yTFhvWE1BLXRHTFJhdG5wSDY5QmFEWUJPUQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 08 Oct 2026 07:16:30 GMT",
-        "base_score": 56,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "221a0c2a3c96594e3d9e56eb",
-        "mode": "sportdog",
-        "title": "AEK Athens vs. Shakhtar Donetsk Live Stream of UEFA Champions League - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUQ0pmYndqT2J3V2J0R3VIeFdNVGVqWXFTa2NKZVpnYU1JTlJsb2x1UTJXa2ZEbm5FaGdNTTNhc2VLeC1tdEJtU3VfZnd5R3FFT1dkbUt0bUNXazV2Y29zRkpTcWZlQno5eHNYY1gzYw?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Thu, 08 Oct 2026 16:39:33 GMT",
-        "base_score": 50,
-        "candidate_score": 73,
-        "priority": "High",
-        "matched_keywords": [
-          "AEK",
-          "Champions League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "9f578bd754cb37ce140f23a8",
-        "mode": "sportdog",
-        "title": "Qarabag's Ali Ibrahim travels to Greece for Olympiacos trial - İdman.Biz",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92RTFVd3RwUjJIZ3hUcEQ4MmpPcHNGU2hRbmJCYkdDemFPNWlDV1hwbjF4eE1nQ1JVdUc3WEtBUTR3bGVtX3Q5MmlOVkhBNmNwRmFyOHNGYVpkTzZ2?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 08 Oct 2026 12:30:00 GMT",
-        "base_score": 38,
-        "candidate_score": 56,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "Greece"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "41515cae3a91e1680d157c5d",
-        "mode": "sportdog",
-        "title": "Panathinaikos owner urges Euroleague, NBA to find path forward - Sports Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXJ6SFEzYUQ5N3JpZjZSM2Fka3dORlY0V1FnY3NWRloxMGpxNHFKVkRFUEpQeGtYb3FIZkxUUmc4bElSSUxJUHpjV2xIZHMwci01b2Q4Q29FNjVnVGIxTENkaWM0b2hpRjdINmNIanQ0cFN0bzlfVE55T3JTaFlMZHRHNENOUFRUODJFdS1PYW9RS205bzlEbjFzXy1YRmZJSGI1R3lWSjVwVWJiakphTnpxSW1VUUU3aUJvUg?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 08 Oct 2026 11:00:00 GMT",
-        "base_score": 39,
-        "candidate_score": 53,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "forward"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "1240d2be0101dc2b066e2ff9",
-        "mode": "sportdog",
-        "title": "▶️ Watch PAOK vs Kalamata Live Stream | Predictions & Tips - 12 Oct - FootballPredictions.NET",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01TGVpRWpMdWozWjFRUE55VVh5ZTNtcXlIQzZ6NWJtX0F4c1JlNk9leWVqem01bDhYZTkzSzY2b1dxNW8za1huWmhfSGNBTi1ZTXFNLXBjVXRZSGE5VzN5QnhQaFZUemQtYlN0cnpTQUt2Rjh1bG9uNG9CMWI?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Thu, 08 Oct 2026 00:05:38 GMT",
-        "base_score": 41,
-        "candidate_score": 52,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK",
-          "football"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "93d3f3cdb6a4e51105cc166a",
-        "mode": "sportdog",
-        "title": "100 Years of PAOK: Football and Society - PAOKFC",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzZFS0pvX0FFbGVNQnhDbjBkSzZua2tpOEx6M3hmdVd6ODJQNnZfOW82VUh0QjZaRG9vR2tMOTVMTm9MV0FEUVpRVUdRNW9NeFZ1T2tBVWl0NHlkX0FvdnQ5Yl92X3VWUU9QSVZUZXVwQ1pRZUhEYzlMbzhqSDVyZld2RDhCdw?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Wed, 07 Oct 2026 08:35:18 GMT",
-        "base_score": 41,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK",
-          "football"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "6d88af6425021578a732b5b5",
-        "mode": "sportdog",
-        "title": "Basketball-We need a solution with the NBA, says Panathinaikos owner - Devdiscourse",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkxQdXEwRHlOSHNQUWhPUUJ6T2tTWjVFZGVCSzY1WGV5bHRlZ0JzWTVoUXZ5cDVXU3RwUXk5VnNjS0JfZmJ4ZTZMSHdsSjg3YTRmSlVUOVdWdnNsMFRvbXN6OFpBaXVaM2tiWlRlQkcyTnpZLVctOXMweUVXQnZSd2xvallzeTRqWnJpZDRXT1J6c3hwWWViaEVCTG1OT2F6UDhZOWYxVnhvNUxQRFo5SXFsbEx5MUJNdGg3RW80dWsycVJMOTFYcFN30gHKAUFVX3lxTE1OTFB1cTBEeU5Ic1BRaE9RQnpPa1NaNUVkZUJLNjVYZXlsdGVnQnNZNWhRdnlwNVdTdHBReTlWc2NLQl9mYnhlNkxId2xKODdhNGZKVVQ5V1Z2c2wwVG9tc3o4WkFpdVoza2JaVGVCRzJOelktVy05czB5RVdCdlJ3bG9qWXN5NGpacmlkNFdPUnpzeHBZZWJoRUJMbU5PYXpQOFk5ZjFWeG81TFBEWjlJcWxsTHkxQk10aDdFbzR1azJxUkw5MVhwU3c?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 07 Oct 2026 21:25:11 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      }
-    ],
+    "sportdog": [],
     "geopolitico": [
       {
-        "external_id": "c1f4270bb6ffbcd12ca80078",
+        "external_id": "f4ad19a75f0a25021b7e7fa9",
         "mode": "geopolitico",
-        "title": "Alleged Pakistan Air Force Strikes on Houthis Test Saudi Defence Alliance - Defence Security Asia",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15VG9RcndfMUFYcTcyMzByZ19FeFk3cGVFblZwY2hBZnAtZGpTNDRHSUVfaFlCdUxlS05pRHZ2UjNWSTlCdzZlSG42UndzTGFPQnBjQUN3?oc=5",
-        "source": "Pakistan Turkey Watch",
-        "published": "Thu, 08 Oct 2026 17:34:07 GMT",
-        "base_score": 98,
-        "candidate_score": 113,
-        "priority": "URGENT",
+        "title": "Turkey’s foreign minister says Ankara weighing Saudi defense support, rules out offensive role",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/10/08/turkeys-foreign-minister-says-ankara-weighing-saudi-defense-support-rules-out-offensive-role/",
+        "source": "Defense News",
+        "published": "Thu, 08 Oct 2026 13:07:36 +0000",
+        "base_score": 72,
+        "candidate_score": 78,
+        "priority": "High",
         "matched_keywords": [
           "Pakistan",
-          "Ege",
-          "Pakistan Air Force",
-          "defence"
+          "Turkey",
+          "defence",
+          "defense",
+          "Ankara"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "324743cf759cec0593373058",
+        "external_id": "ca0b2b94a5358d5002a3f486",
         "mode": "geopolitico",
-        "title": "ABD Dışişleri Bakanı Rubio, Yunanistan Başbakanı Miçotakis ile görüştü: Gündemde enerji ve savunma işbirliği var - ssbulten.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUZUUEN6eDhBSHBEZ3dKdzRmdXFEZk1mYzJKOW9MelFqYjNpZnlrT1FGUWxVTHVaVDhWbGM5Z19SMWNnWF9pQWVvUFI4enBON0VhRGtGd01Bbmx4Wm9iZFBOeEZ6eWMzSThNQ2FDanZoSkMyNW9mWXZlaTdmZzJab1A0c0NkYUxLdE81d0UtSGtTN0RYQ2FUb2dIR3VuMy11Q254dGFfMmNNTzZ2ejdKNkRLQmRFYXA5UkZ2RjBRd3dJeWdIY0NGcTBLZUp2MEM3VjliaEprek1oYWkydFNmNGVmQXB2ZWtwT2c?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 08 Oct 2026 11:30:07 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Miçotakis",
-          "savunma",
-          "savunma işbirliği",
-          "enerji"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "779d2d49f6f821528b8a1080",
-        "mode": "geopolitico",
-        "title": "Yunanistan-Güney Kıbrıs-İsrail elektrik hattında kritik gelişme: Yunanistan GSI için istediği formülü uygulayabilir mi? - Bundle",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ1RQcGJsTXR6Tk1EdTRFa0xaQlhnZkFfV0NtR3J1YWdvS3VudUNHdWpSTmtLRGVVV1laVXRRTjRzODF0cEtQcm1QZkRJWXdmRWVHdEhhZ1VrQk5nU0NXSlZhblJ2QmpUQ19KNDlrdThJODZwMXJxTnNEbnNhQTNRMnhpZUEyTWVsZldmUTd5QW9sUmNKaWNCN2QyMDczRXd6MlJHU1p5WUZ0cGRrSHhMVERtYXZjdm1FV1IxWVFkMWs3bk1pdi1pZFJJNUJNTnVfYVZVakdxQ2I0OHkwdUFDXzA0RmZvbnBsUF96MUZHVnF0VlhTaXhzNnNYc1Q5NWJfWG55aVZYUkRxU1oybU1pVmd3OA?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 08 Oct 2026 10:45:45 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "GSI",
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "elektrik hattı",
-          "GSI"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "1e8d94c204b6793c99f435a0",
-        "mode": "geopolitico",
-        "title": "Rubio Atina’da konuştu: Gündemde Ege, Kıbrıs, Türkiye ve F-35 vardı! - Milli Gazete",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVJhMmRDRTZmUVU4ZGM2NzgwMVNXV0VYR3BDN1ozWEVOZWNITmNuUmlUU3RHaG1fNGJPY2xJWGNha1Uxa0xpSXlkeGVGbS11Z1N6eTBjV3I3MXJ4QmNWSGFuc2t1cl9TWDFLZmFMd3JCMVBfb181c0lWaGU5QjE5LWVBSWZzSG9qZENKNHhHMU5ROHBfV3pZM0NZeVJBR3k4LWphUHNsOG4?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 08 Oct 2026 08:31:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Ege",
-          "F-35",
-          "Kıbrıs",
-          "Atina",
-          "F-35"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "d61f325ea93774342ace99d6",
-        "mode": "geopolitico",
-        "title": "Kıbrıs, Yunanistan ve Mısır Doğu Akdeniz'de enerji iş birliğini güçlendiriyor - ΚΥΠΕ",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNd3J2OG40eE5ZdkN4RzdDV1JJcVZDRjRJdTBEdmQxRFZjOWtEcGpWYnltb2R4Sy03TUdkZ1VGdTRmeHVFelc0Zy1sRzVqdHBpdFhZQ184U0VBWFFEMkdZWWtEVnpxZ18zRnkxVF9HajhDT0dzaTVZb2FLSENGOU05bDdkRjJ1d3VTUllpZ2RiVHJyVDVYLU5RSVo4Z1hMZ3BWMllwemRHR1IxUlNBdWhZMGxyXzZPSnd4YWFWQlJ6YTk4eEJWREVwb2JJYWx0bUNvWUJncTQzTTBzRFJ5bkl4eTlhdjdkUHFqSzRjT1pwOUVCb21BeVJCdFllTU8yRXNrdWZZZHNn?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 08 Oct 2026 06:36:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "enerji"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "08fab137956846ee5f35650b",
-        "mode": "geopolitico",
-        "title": "Rubio Atina’da temaslarda bulundu: F-35 ve Türk-Yunan gerilimi masada! - Haber 7",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnhILUJjNDBTZXFLd1V1N3dPQ18xdWc2UzFKT05rQlRVWEpXeWMxU1ExWE5VUG5ybVhEcTFMMHdaODBMR1oxSkZrNnY5LVF4VV9yTTJSVGRwcU4xLTNsVE9OLXhJLVRfcVVyWm5KZnZtRWFkelpIVlRBcmphWEVSdXp2Rkl5SlItNUNZa0c2bDVqeV9qdkJNS2dkVXFnOTRRdlJMNHlRc0pVMF9RbVhnak93?oc=5",
-        "source": "Haber7 Greece Watch",
-        "published": "Thu, 08 Oct 2026 10:31:00 GMT",
-        "base_score": 95,
-        "candidate_score": 101,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "F-35",
-          "Türk-Yunan",
-          "Atina",
-          "gerilim",
-          "ada",
-          "F-35"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "c921b3b97b9ac1962f400f32",
-        "mode": "geopolitico",
-        "title": "India, Greece deepens maritime defence cooperation, discuss coastal security and shipbuilding - Defence Watch",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTGxfUlJfeXdWTjExcmxVN0Y2Q3ZKNExPb3I4dmdnYjFrYV9VbzRDYk0wYlJIcTctRjJBYlBNcnVTNENJMzlNXzJ2Nk9nc2NpcWxNY0Z3MU5ISmVKVUpFdVZmcWNEbTNsMlg0WFdidjBjVnNtcEJDNjB4cUY2N011VFhVZTN0NV9RUWMxaHk1TTJUQk1XYm9lRmVzMTh5MTRsREluVkRrd1ZpNDRCalc3OUltQ0hZM1NBZ2E5SV9MT2xILWZHaW1MREp0WUVMalRtSWZGeklDcC0yRnVm0gHqAUFVX3lxTE5waEQ5NjgzNWZiNHBaeHdpTnd2UGxRd0hNcVFNWW1iOWFSV21YNW9XQ1FUZUdVX3dpcjkzejJfdFhJcktfU1JabnlaazN6eG1sT0pPU2dpWTRMcllUMEpDd3ZMbW84NnAzVjFfb1NLdlhETF9uY3dsN0VMaUxaV0VQQjZuRHpOYlpDcGFMVmNkTm9tZWVrMUZmRXQyMEdWY2xYTTdmR1R4a0dxUWpGcGtFNEZkeWNFQ2FXMm42XzFSLWRiOFNQdUhidmRERktFRmdCNUY5NG1vcVl0T1J5amhPVXdPVlVKeG9aZw?oc=5",
-        "source": "Greece India Strategic Watch",
-        "published": "Thu, 08 Oct 2026 14:38:19 GMT",
-        "base_score": 90,
-        "candidate_score": 100,
-        "priority": "URGENT",
+        "title": "Rubio says US, Greece to jointly combat security threats",
+        "url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
+        "source": "Defense News",
+        "published": "Wed, 07 Oct 2026 18:25:10 +0000",
+        "base_score": 61,
+        "candidate_score": 64,
+        "priority": "Normal",
         "matched_keywords": [
           "Greece",
-          "India",
-          "defence",
-          "defence cooperation"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "c9479fba42f7cac9ee9aac11",
-        "mode": "geopolitico",
-        "title": "India, Greece discuss defence and strategic cooperation - OrissaPOST",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMXowOURXZHdqanlhNFI3NkJJb3JBQTFGOHlfSk1ScWQxYm8zY2xTeDI3M1lVU3U4WmtsNEZQQlV5ZnJmVlh0c0VWVlQ3SDBLNnFPZXZjNllxYlZrSWR3a3MxX29wQU1Mbi0wUUFHTkRoTWQ4OTk2MWpJNndMREZNR2tMS0lZc0QzSEHSAYoBQVVfeXFMUDF6MDlEV2R3amp5YTRSNzZCSW9yQUExRjh5X0pNUnFkMWJvM2NsU3gyNzNZVVN1OFprbDRGUEJVeWZyZlZYdHNFVlZUN0gwSzZxT2V2YzZZcWJWa0lkd2tzMV9vcEFNTG4tMFFBR05EaE1kODk5NjFqSTZ3TERGTUdrTEtJWXNEM0hB?oc=5",
-        "source": "Greece India Strategic Watch",
-        "published": "Thu, 08 Oct 2026 14:00:37 GMT",
-        "base_score": 90,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "India",
-          "defence",
-          "strategic cooperation"
+          "terrorism",
+          "counterterrorism"
         ],
         "content_type": "news"
       }
     ],
     "pontos_voice": [
-      {
-        "external_id": "a8e3ac23ba99ce43d14ec2c2",
-        "mode": "pontos_voice",
-        "title": "Τραπεζούντα: Χωρίς τελεφερίκ η Παναγία Σουμελά - Newsbomb",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlpGSTdxaVdpWmdZTG9zemFqaGx5SXkyQ21yQmFvTVpRbW03aU85STg0QnFfbHl4M2RLVmMtZ1ZxT0JPbnJDb0ZFMzI5QmRSTm51THZZaDRCWDJqa0gybWhBTVkxaVJKWmtYOHhCS0p3U2J0ZmtkQ29uY1hRYkk4b3U0TW5BNVRQS3RNV2lrQzhpMlpwaUlDWHVB?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 07 Oct 2026 15:48:09 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά",
-          "Τραπεζούντα"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "b04dc43a5ec50839224f3561",
-        "mode": "pontos_voice",
-        "title": "ΠΕΝ Νοτίου Ελλάδος & Νήσων της ΠΟΕ: Στη Νίκαια η 1η Ποντιακή Βραδιά Νεολαίας - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTZrclNheHZzU2E1LU1Ca3FwOXQ4OGI5VUVWdVI0Q055VVlkZTN0UTllc3VtMTgwdldIMllRQkUxVFZWTGxSb2tIM0pUOFVMeGs3WEd1TGxUVkxKelZrRWdGLURIWkRsMWxLMUhqN2hnVW56di1mVHJZYWUwR2hlOEFPMHp2Q0FuWHR2cUYwcXEtU1lJ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 07 Oct 2026 10:34:13 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "ΠΟΕ",
-          "νεολαία"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "901fc7166d1da13565f3770a",
-        "mode": "pontos_voice",
-        "title": "Παναγία Σουμελά στον Πόντο: Το παρεκκλήσι που φρενάρει το τελεφερίκ - η ναυτεμπορικη",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdURPTTdnREZ0cVhjVUhzeTVfLXRSWndLc0VMQmdOOWZlUkdfQWdETWlLeHNfWjBaMTRfZTF5cnUyMW1BNzdCdVhUTjVmQlMxbWRCZjlWdWxDdjVGcnpleVJHNFo5OElFc1ZSaGptTWxxX1BQRXFjRU5iX19HWTlvanZSdWR1dG5uNHdZWmRFTU56YXFNUVJ6UnI5SnlmTGVhT2RWaDJ2VGR0QlkzTUtRRQ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 07 Oct 2026 20:10:56 GMT",
-        "base_score": 86,
-        "candidate_score": 89,
-        "priority": "High",
-        "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά"
-        ],
-        "content_type": "news"
-      },
       {
         "external_id": "7af43a6daea84f3ab44943be",
         "mode": "pontos_voice",
@@ -400,7 +54,7 @@
         "source": "61Saat Trabzon",
         "published": "Thu, 08 Oct 2026 19:55:00 +0300",
         "base_score": 51,
-        "candidate_score": 66,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -418,7 +72,7 @@
         "source": "61Saat Trabzon",
         "published": "Thu, 08 Oct 2026 20:10:00 +0300",
         "base_score": 46,
-        "candidate_score": 61,
+        "candidate_score": 56,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -435,7 +89,7 @@
         "source": "61Saat Trabzon",
         "published": "Thu, 08 Oct 2026 20:56:00 +0300",
         "base_score": 44,
-        "candidate_score": 59,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -448,383 +102,38 @@
   },
   "items": [
     {
-      "external_id": "2909e953525d7a82a3f870df",
-      "mode": "sportdog",
-      "title": "Olympiacos hit back at Panathinaikos after complaint, bring up Mathias Lessort case - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnp0YWd6QjctUUtyOGZ1dUpjYzJSTVhNM3FGZmhnMDBMaFpwak4xZl9INWZUTERBLWJ3V2dWX1RydE5fR0poYTBYeDIzVHB2RS0zTzluTjNlZ2VMbmdhSFR2NENYbGlFSVJfVHpPY29zY1A3d29LaWhwQXZhNTh0ZnFQX1Z2Q1BSOGR6TEZDanhFRkNfVUxIaWJXcXotTkFFc1VwXzZtam92Sy1kVmJsTTZDUzdyOUhsWHVYSHFlZw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 08 Oct 2026 18:13:35 GMT",
-      "base_score": 62,
-      "candidate_score": 93,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "cefa3651e4657f76983e11e9",
-      "mode": "sportdog",
-      "title": "Bonzie Colson: Olympiacos talks, Hapoel approach, verdict on Panathinaikos - skweek.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMFYxTmE3ZHZpbzdlYnQzWGQxN0FNbkpadFRWQ0hYVTBNVUQ4Z3NUYkE1THVTcG5TUWJJbkxLcVhNU0dkZ0RPa1VoMmJJcG9uRXY1QldvOF91Yk5UVVduMXY4aGktaENscHQxTV9JVW1qOC00RW5qOElEWGRPcmRmNmpCZ0pWbkt0Z3BMNV95a04wbDR4N25FWGpCQlNGTGJhZWhJT2UtYVhxblhWTHMxM2JIcVkyX2czWWZaWDVLeFVwNF9GbkUtWVhWM2duUkpDUXc?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 07 Oct 2026 13:13:01 GMT",
-      "base_score": 75,
-      "candidate_score": 91,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "Panathinaikos",
-        "talks"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "fee0fb9741163261dbe320d8",
-      "mode": "sportdog",
-      "title": "Olympiacos Piraeus U19 - Wertvollste Abgänge (Detailed view) | Page 2 - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVGRSdXhyNjQtZjhMY0VPdDhpdTNTeHl1X2l5ZlBrdnRNc2JUQWlFLVhNdjlCYVo4U2E2ODRqaVViVUZBd1VvTGdGOV85bjNVU1FqaDF0YzdLOE0zSXVzZEwzYlpBNEZBcm9vOERlUm45MkttajJ5QnA0QlpYV25BNVBpVFhzbnBkd0I1aTR2ZGZUS0RtandHZEFSVFQwRENkV0Q4aUlmSFNhMlJYZmRvUF8yTFhvWE1BLXRHTFJhdG5wSDY5QmFEWUJPUQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 08 Oct 2026 07:16:30 GMT",
-      "base_score": 56,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "221a0c2a3c96594e3d9e56eb",
-      "mode": "sportdog",
-      "title": "AEK Athens vs. Shakhtar Donetsk Live Stream of UEFA Champions League - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUQ0pmYndqT2J3V2J0R3VIeFdNVGVqWXFTa2NKZVpnYU1JTlJsb2x1UTJXa2ZEbm5FaGdNTTNhc2VLeC1tdEJtU3VfZnd5R3FFT1dkbUt0bUNXazV2Y29zRkpTcWZlQno5eHNYY1gzYw?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Thu, 08 Oct 2026 16:39:33 GMT",
-      "base_score": 50,
-      "candidate_score": 73,
-      "priority": "High",
-      "matched_keywords": [
-        "AEK",
-        "Champions League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "9f578bd754cb37ce140f23a8",
-      "mode": "sportdog",
-      "title": "Qarabag's Ali Ibrahim travels to Greece for Olympiacos trial - İdman.Biz",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92RTFVd3RwUjJIZ3hUcEQ4MmpPcHNGU2hRbmJCYkdDemFPNWlDV1hwbjF4eE1nQ1JVdUc3WEtBUTR3bGVtX3Q5MmlOVkhBNmNwRmFyOHNGYVpkTzZ2?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 08 Oct 2026 12:30:00 GMT",
-      "base_score": 38,
-      "candidate_score": 56,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "Greece"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "41515cae3a91e1680d157c5d",
-      "mode": "sportdog",
-      "title": "Panathinaikos owner urges Euroleague, NBA to find path forward - Sports Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXJ6SFEzYUQ5N3JpZjZSM2Fka3dORlY0V1FnY3NWRloxMGpxNHFKVkRFUEpQeGtYb3FIZkxUUmc4bElSSUxJUHpjV2xIZHMwci01b2Q4Q29FNjVnVGIxTENkaWM0b2hpRjdINmNIanQ0cFN0bzlfVE55T3JTaFlMZHRHNENOUFRUODJFdS1PYW9RS205bzlEbjFzXy1YRmZJSGI1R3lWSjVwVWJiakphTnpxSW1VUUU3aUJvUg?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 08 Oct 2026 11:00:00 GMT",
-      "base_score": 39,
-      "candidate_score": 53,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "forward"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "1240d2be0101dc2b066e2ff9",
-      "mode": "sportdog",
-      "title": "▶️ Watch PAOK vs Kalamata Live Stream | Predictions & Tips - 12 Oct - FootballPredictions.NET",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01TGVpRWpMdWozWjFRUE55VVh5ZTNtcXlIQzZ6NWJtX0F4c1JlNk9leWVqem01bDhYZTkzSzY2b1dxNW8za1huWmhfSGNBTi1ZTXFNLXBjVXRZSGE5VzN5QnhQaFZUemQtYlN0cnpTQUt2Rjh1bG9uNG9CMWI?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Thu, 08 Oct 2026 00:05:38 GMT",
-      "base_score": 41,
-      "candidate_score": 52,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK",
-        "football"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "93d3f3cdb6a4e51105cc166a",
-      "mode": "sportdog",
-      "title": "100 Years of PAOK: Football and Society - PAOKFC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzZFS0pvX0FFbGVNQnhDbjBkSzZua2tpOEx6M3hmdVd6ODJQNnZfOW82VUh0QjZaRG9vR2tMOTVMTm9MV0FEUVpRVUdRNW9NeFZ1T2tBVWl0NHlkX0FvdnQ5Yl92X3VWUU9QSVZUZXVwQ1pRZUhEYzlMbzhqSDVyZld2RDhCdw?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Wed, 07 Oct 2026 08:35:18 GMT",
-      "base_score": 41,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK",
-        "football"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "6d88af6425021578a732b5b5",
-      "mode": "sportdog",
-      "title": "Basketball-We need a solution with the NBA, says Panathinaikos owner - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkxQdXEwRHlOSHNQUWhPUUJ6T2tTWjVFZGVCSzY1WGV5bHRlZ0JzWTVoUXZ5cDVXU3RwUXk5VnNjS0JfZmJ4ZTZMSHdsSjg3YTRmSlVUOVdWdnNsMFRvbXN6OFpBaXVaM2tiWlRlQkcyTnpZLVctOXMweUVXQnZSd2xvallzeTRqWnJpZDRXT1J6c3hwWWViaEVCTG1OT2F6UDhZOWYxVnhvNUxQRFo5SXFsbEx5MUJNdGg3RW80dWsycVJMOTFYcFN30gHKAUFVX3lxTE1OTFB1cTBEeU5Ic1BRaE9RQnpPa1NaNUVkZUJLNjVYZXlsdGVnQnNZNWhRdnlwNVdTdHBReTlWc2NLQl9mYnhlNkxId2xKODdhNGZKVVQ5V1Z2c2wwVG9tc3o4WkFpdVoza2JaVGVCRzJOelktVy05czB5RVdCdlJ3bG9qWXN5NGpacmlkNFdPUnpzeHBZZWJoRUJMbU5PYXpQOFk5ZjFWeG81TFBEWjlJcWxsTHkxQk10aDdFbzR1azJxUkw5MVhwU3c?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 07 Oct 2026 21:25:11 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "c1f4270bb6ffbcd12ca80078",
+      "external_id": "f4ad19a75f0a25021b7e7fa9",
       "mode": "geopolitico",
-      "title": "Alleged Pakistan Air Force Strikes on Houthis Test Saudi Defence Alliance - Defence Security Asia",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15VG9RcndfMUFYcTcyMzByZ19FeFk3cGVFblZwY2hBZnAtZGpTNDRHSUVfaFlCdUxlS05pRHZ2UjNWSTlCdzZlSG42UndzTGFPQnBjQUN3?oc=5",
-      "source": "Pakistan Turkey Watch",
-      "published": "Thu, 08 Oct 2026 17:34:07 GMT",
-      "base_score": 98,
-      "candidate_score": 113,
-      "priority": "URGENT",
+      "title": "Turkey’s foreign minister says Ankara weighing Saudi defense support, rules out offensive role",
+      "url": "https://www.defensenews.com/global/mideast-africa/2026/10/08/turkeys-foreign-minister-says-ankara-weighing-saudi-defense-support-rules-out-offensive-role/",
+      "source": "Defense News",
+      "published": "Thu, 08 Oct 2026 13:07:36 +0000",
+      "base_score": 72,
+      "candidate_score": 78,
+      "priority": "High",
       "matched_keywords": [
         "Pakistan",
-        "Ege",
-        "Pakistan Air Force",
-        "defence"
+        "Turkey",
+        "defence",
+        "defense",
+        "Ankara"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "324743cf759cec0593373058",
+      "external_id": "ca0b2b94a5358d5002a3f486",
       "mode": "geopolitico",
-      "title": "ABD Dışişleri Bakanı Rubio, Yunanistan Başbakanı Miçotakis ile görüştü: Gündemde enerji ve savunma işbirliği var - ssbulten.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUZUUEN6eDhBSHBEZ3dKdzRmdXFEZk1mYzJKOW9MelFqYjNpZnlrT1FGUWxVTHVaVDhWbGM5Z19SMWNnWF9pQWVvUFI4enBON0VhRGtGd01Bbmx4Wm9iZFBOeEZ6eWMzSThNQ2FDanZoSkMyNW9mWXZlaTdmZzJab1A0c0NkYUxLdE81d0UtSGtTN0RYQ2FUb2dIR3VuMy11Q254dGFfMmNNTzZ2ejdKNkRLQmRFYXA5UkZ2RjBRd3dJeWdIY0NGcTBLZUp2MEM3VjliaEprek1oYWkydFNmNGVmQXB2ZWtwT2c?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 08 Oct 2026 11:30:07 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Miçotakis",
-        "savunma",
-        "savunma işbirliği",
-        "enerji"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "779d2d49f6f821528b8a1080",
-      "mode": "geopolitico",
-      "title": "Yunanistan-Güney Kıbrıs-İsrail elektrik hattında kritik gelişme: Yunanistan GSI için istediği formülü uygulayabilir mi? - Bundle",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ1RQcGJsTXR6Tk1EdTRFa0xaQlhnZkFfV0NtR3J1YWdvS3VudUNHdWpSTmtLRGVVV1laVXRRTjRzODF0cEtQcm1QZkRJWXdmRWVHdEhhZ1VrQk5nU0NXSlZhblJ2QmpUQ19KNDlrdThJODZwMXJxTnNEbnNhQTNRMnhpZUEyTWVsZldmUTd5QW9sUmNKaWNCN2QyMDczRXd6MlJHU1p5WUZ0cGRrSHhMVERtYXZjdm1FV1IxWVFkMWs3bk1pdi1pZFJJNUJNTnVfYVZVakdxQ2I0OHkwdUFDXzA0RmZvbnBsUF96MUZHVnF0VlhTaXhzNnNYc1Q5NWJfWG55aVZYUkRxU1oybU1pVmd3OA?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 08 Oct 2026 10:45:45 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "GSI",
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "elektrik hattı",
-        "GSI"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "1e8d94c204b6793c99f435a0",
-      "mode": "geopolitico",
-      "title": "Rubio Atina’da konuştu: Gündemde Ege, Kıbrıs, Türkiye ve F-35 vardı! - Milli Gazete",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVJhMmRDRTZmUVU4ZGM2NzgwMVNXV0VYR3BDN1ozWEVOZWNITmNuUmlUU3RHaG1fNGJPY2xJWGNha1Uxa0xpSXlkeGVGbS11Z1N6eTBjV3I3MXJ4QmNWSGFuc2t1cl9TWDFLZmFMd3JCMVBfb181c0lWaGU5QjE5LWVBSWZzSG9qZENKNHhHMU5ROHBfV3pZM0NZeVJBR3k4LWphUHNsOG4?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 08 Oct 2026 08:31:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Ege",
-        "F-35",
-        "Kıbrıs",
-        "Atina",
-        "F-35"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "d61f325ea93774342ace99d6",
-      "mode": "geopolitico",
-      "title": "Kıbrıs, Yunanistan ve Mısır Doğu Akdeniz'de enerji iş birliğini güçlendiriyor - ΚΥΠΕ",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNd3J2OG40eE5ZdkN4RzdDV1JJcVZDRjRJdTBEdmQxRFZjOWtEcGpWYnltb2R4Sy03TUdkZ1VGdTRmeHVFelc0Zy1sRzVqdHBpdFhZQ184U0VBWFFEMkdZWWtEVnpxZ18zRnkxVF9HajhDT0dzaTVZb2FLSENGOU05bDdkRjJ1d3VTUllpZ2RiVHJyVDVYLU5RSVo4Z1hMZ3BWMllwemRHR1IxUlNBdWhZMGxyXzZPSnd4YWFWQlJ6YTk4eEJWREVwb2JJYWx0bUNvWUJncTQzTTBzRFJ5bkl4eTlhdjdkUHFqSzRjT1pwOUVCb21BeVJCdFllTU8yRXNrdWZZZHNn?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 08 Oct 2026 06:36:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "enerji"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "08fab137956846ee5f35650b",
-      "mode": "geopolitico",
-      "title": "Rubio Atina’da temaslarda bulundu: F-35 ve Türk-Yunan gerilimi masada! - Haber 7",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnhILUJjNDBTZXFLd1V1N3dPQ18xdWc2UzFKT05rQlRVWEpXeWMxU1ExWE5VUG5ybVhEcTFMMHdaODBMR1oxSkZrNnY5LVF4VV9yTTJSVGRwcU4xLTNsVE9OLXhJLVRfcVVyWm5KZnZtRWFkelpIVlRBcmphWEVSdXp2Rkl5SlItNUNZa0c2bDVqeV9qdkJNS2dkVXFnOTRRdlJMNHlRc0pVMF9RbVhnak93?oc=5",
-      "source": "Haber7 Greece Watch",
-      "published": "Thu, 08 Oct 2026 10:31:00 GMT",
-      "base_score": 95,
-      "candidate_score": 101,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "F-35",
-        "Türk-Yunan",
-        "Atina",
-        "gerilim",
-        "ada",
-        "F-35"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "c921b3b97b9ac1962f400f32",
-      "mode": "geopolitico",
-      "title": "India, Greece deepens maritime defence cooperation, discuss coastal security and shipbuilding - Defence Watch",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTGxfUlJfeXdWTjExcmxVN0Y2Q3ZKNExPb3I4dmdnYjFrYV9VbzRDYk0wYlJIcTctRjJBYlBNcnVTNENJMzlNXzJ2Nk9nc2NpcWxNY0Z3MU5ISmVKVUpFdVZmcWNEbTNsMlg0WFdidjBjVnNtcEJDNjB4cUY2N011VFhVZTN0NV9RUWMxaHk1TTJUQk1XYm9lRmVzMTh5MTRsREluVkRrd1ZpNDRCalc3OUltQ0hZM1NBZ2E5SV9MT2xILWZHaW1MREp0WUVMalRtSWZGeklDcC0yRnVm0gHqAUFVX3lxTE5waEQ5NjgzNWZiNHBaeHdpTnd2UGxRd0hNcVFNWW1iOWFSV21YNW9XQ1FUZUdVX3dpcjkzejJfdFhJcktfU1JabnlaazN6eG1sT0pPU2dpWTRMcllUMEpDd3ZMbW84NnAzVjFfb1NLdlhETF9uY3dsN0VMaUxaV0VQQjZuRHpOYlpDcGFMVmNkTm9tZWVrMUZmRXQyMEdWY2xYTTdmR1R4a0dxUWpGcGtFNEZkeWNFQ2FXMm42XzFSLWRiOFNQdUhidmRERktFRmdCNUY5NG1vcVl0T1J5amhPVXdPVlVKeG9aZw?oc=5",
-      "source": "Greece India Strategic Watch",
-      "published": "Thu, 08 Oct 2026 14:38:19 GMT",
-      "base_score": 90,
-      "candidate_score": 100,
-      "priority": "URGENT",
+      "title": "Rubio says US, Greece to jointly combat security threats",
+      "url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
+      "source": "Defense News",
+      "published": "Wed, 07 Oct 2026 18:25:10 +0000",
+      "base_score": 61,
+      "candidate_score": 64,
+      "priority": "Normal",
       "matched_keywords": [
         "Greece",
-        "India",
-        "defence",
-        "defence cooperation"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "c9479fba42f7cac9ee9aac11",
-      "mode": "geopolitico",
-      "title": "India, Greece discuss defence and strategic cooperation - OrissaPOST",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMXowOURXZHdqanlhNFI3NkJJb3JBQTFGOHlfSk1ScWQxYm8zY2xTeDI3M1lVU3U4WmtsNEZQQlV5ZnJmVlh0c0VWVlQ3SDBLNnFPZXZjNllxYlZrSWR3a3MxX29wQU1Mbi0wUUFHTkRoTWQ4OTk2MWpJNndMREZNR2tMS0lZc0QzSEHSAYoBQVVfeXFMUDF6MDlEV2R3amp5YTRSNzZCSW9yQUExRjh5X0pNUnFkMWJvM2NsU3gyNzNZVVN1OFprbDRGUEJVeWZyZlZYdHNFVlZUN0gwSzZxT2V2YzZZcWJWa0lkd2tzMV9vcEFNTG4tMFFBR05EaE1kODk5NjFqSTZ3TERGTUdrTEtJWXNEM0hB?oc=5",
-      "source": "Greece India Strategic Watch",
-      "published": "Thu, 08 Oct 2026 14:00:37 GMT",
-      "base_score": 90,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "India",
-        "defence",
-        "strategic cooperation"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "a8e3ac23ba99ce43d14ec2c2",
-      "mode": "pontos_voice",
-      "title": "Τραπεζούντα: Χωρίς τελεφερίκ η Παναγία Σουμελά - Newsbomb",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlpGSTdxaVdpWmdZTG9zemFqaGx5SXkyQ21yQmFvTVpRbW03aU85STg0QnFfbHl4M2RLVmMtZ1ZxT0JPbnJDb0ZFMzI5QmRSTm51THZZaDRCWDJqa0gybWhBTVkxaVJKWmtYOHhCS0p3U2J0ZmtkQ29uY1hRYkk4b3U0TW5BNVRQS3RNV2lrQzhpMlpwaUlDWHVB?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 07 Oct 2026 15:48:09 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά",
-        "Τραπεζούντα"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "b04dc43a5ec50839224f3561",
-      "mode": "pontos_voice",
-      "title": "ΠΕΝ Νοτίου Ελλάδος & Νήσων της ΠΟΕ: Στη Νίκαια η 1η Ποντιακή Βραδιά Νεολαίας - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTZrclNheHZzU2E1LU1Ca3FwOXQ4OGI5VUVWdVI0Q055VVlkZTN0UTllc3VtMTgwdldIMllRQkUxVFZWTGxSb2tIM0pUOFVMeGs3WEd1TGxUVkxKelZrRWdGLURIWkRsMWxLMUhqN2hnVW56di1mVHJZYWUwR2hlOEFPMHp2Q0FuWHR2cUYwcXEtU1lJ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 07 Oct 2026 10:34:13 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "ΠΟΕ",
-        "νεολαία"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "901fc7166d1da13565f3770a",
-      "mode": "pontos_voice",
-      "title": "Παναγία Σουμελά στον Πόντο: Το παρεκκλήσι που φρενάρει το τελεφερίκ - η ναυτεμπορικη",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdURPTTdnREZ0cVhjVUhzeTVfLXRSWndLc0VMQmdOOWZlUkdfQWdETWlLeHNfWjBaMTRfZTF5cnUyMW1BNzdCdVhUTjVmQlMxbWRCZjlWdWxDdjVGcnpleVJHNFo5OElFc1ZSaGptTWxxX1BQRXFjRU5iX19HWTlvanZSdWR1dG5uNHdZWmRFTU56YXFNUVJ6UnI5SnlmTGVhT2RWaDJ2VGR0QlkzTUtRRQ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 07 Oct 2026 20:10:56 GMT",
-      "base_score": 86,
-      "candidate_score": 89,
-      "priority": "High",
-      "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά"
+        "terrorism",
+        "counterterrorism"
       ],
       "content_type": "news"
     },
@@ -836,7 +145,7 @@
       "source": "61Saat Trabzon",
       "published": "Thu, 08 Oct 2026 19:55:00 +0300",
       "base_score": 51,
-      "candidate_score": 66,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -854,7 +163,7 @@
       "source": "61Saat Trabzon",
       "published": "Thu, 08 Oct 2026 20:10:00 +0300",
       "base_score": 46,
-      "candidate_score": 61,
+      "candidate_score": 56,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -871,7 +180,7 @@
       "source": "61Saat Trabzon",
       "published": "Thu, 08 Oct 2026 20:56:00 +0300",
       "base_score": 44,
-      "candidate_score": 59,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
