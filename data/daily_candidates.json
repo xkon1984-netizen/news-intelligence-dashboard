@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T14:51:05.910040+00:00",
+  "generated_at": "2026-10-10T18:59:33.285827+00:00",
   "counts": {
     "sportdog": 10,
     "geopolitico": 8,
@@ -24,6 +24,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "5b3b134dfed99c18df8ca6ec",
+        "mode": "sportdog",
+        "title": "AEK Athens vs OFI Crete: Greek Super League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJeFhobXVjcFh4S1ZiVThnaFpNX1hKMGlTMzk5WVJ0aTZEZVdvOEJ0NVQyTlNIMW1ZNFJVbGZXZVdMX3JUTzJVWUZXSVRmTVhRRktZWjY3RFoxMm9LNE9rUUZwcVlxdw?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sat, 10 Oct 2026 17:15:20 GMT",
+        "base_score": 56,
+        "candidate_score": 79,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -64,26 +84,6 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "538cbf5ed594f464c1d8b76e",
-        "mode": "sportdog",
-        "title": "Goals prevented - PAOK Thessaloniki stats for Super League 1 2025/2026 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeGU0STVUc2M4bHZIa3dqZWZGTmkzbkhWWHIwbnR1VFQ3U3Z1VTJOdUY0N0FVWEhMR0o4b2RRMGNRT1pfTFRZY1dybUhpLUxzNWxhUlRTN2lOWjZZSDNGLWRTVmNobi1NNDNPRktwTzhiOXRNQkFDYm43cDAwZHBBYldnaU1ETjE4YjRfdVo1dmc1dXZJLVI3eXVPRWpRTkc4OTNBVFFGVmxBNzVDdnAxY3h2TDJrSHBiRG1UdVpncloxNWpzWWRYNmN0aTVwXzlzYVE?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Fri, 09 Oct 2026 03:12:34 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -192,7 +192,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 09 Oct 2026 10:57:00 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -213,7 +213,7 @@
         "source": "Pakistan Security Watch",
         "published": "Sat, 10 Oct 2026 12:30:05 GMT",
         "base_score": 99,
-        "candidate_score": 114,
+        "candidate_score": 109,
         "priority": "URGENT",
         "matched_keywords": [
           "Pakistan",
@@ -231,7 +231,7 @@
         "source": "Pakistan Security Watch",
         "published": "Sat, 10 Oct 2026 10:07:32 GMT",
         "base_score": 97,
-        "candidate_score": 107,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pakistan",
@@ -269,7 +269,7 @@
         "source": "Pakistan Security Watch",
         "published": "Sat, 10 Oct 2026 13:30:19 GMT",
         "base_score": 77,
-        "candidate_score": 92,
+        "candidate_score": 87,
         "priority": "High",
         "matched_keywords": [
           "Pakistan",
@@ -278,40 +278,6 @@
           "counterterrorism"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "5bf6ca912f0bfd01c720d30f",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı: Mekke Anlaşması'nın gerçek değeri kriz anında görülecek - Türkinform",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVBJOG1WSDU2OTlYaVVzbV9KalI2QVpUQVpYeTFNLWlCQTlySWRJYTR0RlBSZklEdElJYm1hZjFvQUN1aVNzTnVBd2huTGgwcFlGNW9rZkxRVDNrZU5oUUNYSG1JbWFLQ1MtbkJCQWNYVlpTc25hci1vOGNoRnh4SlNPdmpYNzY0LUZtZ0lVcF9mWDgyZjJB?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Sat, 10 Oct 2026 12:06:00 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Cihat Yaycı",
-          "Cihat Yaycı"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "aaf2734c7e17230dfaf12aca",
-        "mode": "geopolitico",
-        "title": "Yunanistan'dan F-16 ve F-35 filosu için yeni silah tedariki hazırlığı - Tabya Dijital",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzVXZXJHbThRMGozUnc4d0Viemx5azY2aGlLeXZ1SWlFZzE5OHBBLXJweUNrN0Qtd1BsRUtXNnJKZ2txU19DekE2Y1VXeUFZU1JNWXdqN2FTay1pMk14NnRLV2dyT3Atbl9WUFI2a1V5T0Z2THJmdVN6YlF5b0lxT3Zia2RnNEZ4VElWUjJyWkgwV1RtMmFpYTlR?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Fri, 09 Oct 2026 10:27:58 GMT",
-        "base_score": 86,
-        "candidate_score": 89,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "F-35",
-          "F-16",
-          "F-35"
-        ],
-        "content_type": "turkey_greece"
       },
       {
         "external_id": "067054547b6dc7fab7689d54",
@@ -346,9 +312,59 @@
           "Israeli"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "5bf6ca912f0bfd01c720d30f",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı: Mekke Anlaşması'nın gerçek değeri kriz anında görülecek - Türkinform",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVBJOG1WSDU2OTlYaVVzbV9KalI2QVpUQVpYeTFNLWlCQTlySWRJYTR0RlBSZklEdElJYm1hZjFvQUN1aVNzTnVBd2huTGgwcFlGNW9rZkxRVDNrZU5oUUNYSG1JbWFLQ1MtbkJCQWNYVlpTc25hci1vOGNoRnh4SlNPdmpYNzY0LUZtZ0lVcF9mWDgyZjJB?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Sat, 10 Oct 2026 12:06:00 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Cihat Yaycı",
+          "Cihat Yaycı"
+        ],
+        "content_type": "analyst"
+      },
+      {
+        "external_id": "f8f2c3c013c1bccbce92db43",
+        "mode": "geopolitico",
+        "title": "Maritime Security And Defence Industrial Cooperation In Focus As Defence Secretary To Visit Cyprus, Greece Next Week - Swarajya",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMFgwNXdoWGNmUmZTdEdsN1Fwa2N2bkJxSW03aHY0bmNfblFpX1ZNSGpROFUyenloZUhQbUs3bGlQUjZUSExtVGI4NllZUW1RdDV2QVFkWTRYak92VDlSNVpoOVlud1djWjBYcFZfS2l1SmdpOXpkNkMtc1AzRTE0ckgyem9JTkluQzNpa0lXQ0s2U2pBWTUwUEtNaS00X1hqMWZXc21JU2RjRDh0RjhtQnp5WFhoWUQ0UDFGb3FWVU5ER2RFNVRwdGIxWllzbzJmNkV6blpFZzZHQTZvWlZxai15eE80T1BySUlTZmNQZEbSAfABQVVfeXFMUDBYMDV3aFhjZlJmU3RHbDdRcGtjdm5CcUltN2h2NG5jX25RaV9WTUhqUThVMnp5aGVIUG1LN2xpUFI2VEhMbVRiODZZWVFtUXQ1dkFRZFk0WGpPdlQ5UjVaaDlZbndXY1owWHBWX0tpdUpnaTl6ZDZDLXNQM0UxNHJIMnpvSU5JbkMzaWtJV0NLNlNqQVk1MFBLTWktNF9YajFmV3NtSVNkY0Q4dEY4bUJ6eVhYaFlENFAxRm9xVlVOREdkRTVUcHRiMVpZc28yZjZFem5aRWc2R0E2b1pWcWoteXhPNE9QcklJU2ZjUGRG?oc=5",
+        "source": "Greece India Strategic Watch",
+        "published": "Sat, 10 Oct 2026 11:44:17 GMT",
+        "base_score": 72,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "Greece",
+          "Cyprus",
+          "defence"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "3b75836376eb6dd85920d9b8",
+        "mode": "pontos_voice",
+        "title": "Παναγία Σουμελά Αλεθρικού: Εγκαινιάστηκε σε κλίμα κατάνυξης ο ναός – Η μητέρα των προσφύγων ένωσε τον πόνο Ποντίων και Κυπρίων - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnduZWcwNjVCZFBTeVRMTHZFRTAwWS1LN2tLUklVSUNRMHhxR1FiZEhVMXpzdUloZmRYNWUyWGwtUURpaVlCRWpUNjlreXdLNHZaYlpZR2FwanVWRkk2WExQNmxqdnZlNXRJVVpFT2lIcjBnQXBUVTVaU2owcFllMlNhVHRBUE45MkZTeGt5OWVmRjYwTE9iNlBoNG14VnRWQUZMTEtXZHVGTEk?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 10 Oct 2026 17:18:52 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "Παναγία Σουμελά",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "3dcee8abef6422f0444abf86",
         "mode": "pontos_voice",
@@ -357,7 +373,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sat, 10 Oct 2026 07:03:09 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -374,7 +390,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 09 Oct 2026 12:06:11 GMT",
         "base_score": 100,
-        "candidate_score": 103,
+        "candidate_score": 100,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -382,22 +398,6 @@
           "Ποντιακός Ελληνισμός",
           "ποντιακός ελληνισμός",
           "Ένωση Ποντίων"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "a6a5a354e731f20b13df7c76",
-        "mode": "pontos_voice",
-        "title": "Ποντιακή διάλεκτος: Μπορεί η τεχνολογία να την κρατήσει ζωντανή στις νεότερες γενιές; - η ναυτεμπορικη",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1FwWkZOU3U3VjNicWZPeXNmMXB0bWo2NVFNSGZNRVdJb0RkV09uOXdObEo1TDVYb2tLaG0zZWwtMGNYQkdWcjN5aGJIYm5FT1U4Ry1selVobjFVSFFlMm1KbXk1aXNmNUE3RndEVHo5ZjFKYjF4LXNsNm9jNXRINENKUFZyRF80MklfbVBUdmdVS2dlWE9EVmR0dEgxWHdJbVE1ZWhQT3RYR29GVlduZFg3aHQzbnd6c2UxNk1uekFaTV90WWRaSw?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Sat, 10 Oct 2026 11:26:30 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "ποντιακή",
-          "ποντιακή διάλεκτος"
         ],
         "content_type": "news"
       },
@@ -426,7 +426,7 @@
         "source": "61Saat Trabzon",
         "published": "Sat, 10 Oct 2026 15:30:00 +0300",
         "base_score": 52,
-        "candidate_score": 67,
+        "candidate_score": 62,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -437,19 +437,18 @@
         "content_type": "news"
       },
       {
-        "external_id": "0f21e7b4887055febad74c76",
+        "external_id": "dca55e50540254286fc892f1",
         "mode": "pontos_voice",
-        "title": "BBP Trabzon İl Başkanı Adem Aydın'dan Araklı Belediye Başkanı'na sert çıkış! İstifaya davet etti",
-        "url": "https://www.61saat.com/bbp-trabzon-il-baskani-adem-aydindan-arakli-belediye-baskanina-sert-cikis-istifaya-davet-etti",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 10 Oct 2026 14:21:00 +0300",
-        "base_score": 53,
-        "candidate_score": 63,
+        "title": "Trabzonspor yenilgisi sonrası Fink’ten ayrılık sorusuna yanıt - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYnVPUWxkU1A0SzhLcVB2S3dFdkhVd2stSnppbzg3bVc5V3pjakM0ZDBXTTd5dldVOEFOdGpHc2hIRldkbUs3Q2VVUllsSDQ1NVlNbnZaQmg2aDJQUzdoYVRmeEhqaXhhN1B5OW5ITUJjSTlqNWttS1ZwTzRsVnF1RThyUExCSDhtTWNqeXNVSlZfLWxYa0ZQV0tDejR5ZDNlTlEzRXJfSQ?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Sat, 10 Oct 2026 17:10:46 GMT",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
-          "tepki",
+          "anıt",
           "Trabzon"
         ],
         "content_type": "news"
@@ -474,6 +473,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "5b3b134dfed99c18df8ca6ec",
+      "mode": "sportdog",
+      "title": "AEK Athens vs OFI Crete: Greek Super League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJeFhobXVjcFh4S1ZiVThnaFpNX1hKMGlTMzk5WVJ0aTZEZVdvOEJ0NVQyTlNIMW1ZNFJVbGZXZVdMX3JUTzJVWUZXSVRmTVhRRktZWjY3RFoxMm9LNE9rUUZwcVlxdw?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sat, 10 Oct 2026 17:15:20 GMT",
+      "base_score": 56,
+      "candidate_score": 79,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -514,26 +533,6 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "538cbf5ed594f464c1d8b76e",
-      "mode": "sportdog",
-      "title": "Goals prevented - PAOK Thessaloniki stats for Super League 1 2025/2026 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeGU0STVUc2M4bHZIa3dqZWZGTmkzbkhWWHIwbnR1VFQ3U3Z1VTJOdUY0N0FVWEhMR0o4b2RRMGNRT1pfTFRZY1dybUhpLUxzNWxhUlRTN2lOWjZZSDNGLWRTVmNobi1NNDNPRktwTzhiOXRNQkFDYm43cDAwZHBBYldnaU1ETjE4YjRfdVo1dmc1dXZJLVI3eXVPRWpRTkc4OTNBVFFGVmxBNzVDdnAxY3h2TDJrSHBiRG1UdVpncloxNWpzWWRYNmN0aTVwXzlzYVE?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Fri, 09 Oct 2026 03:12:34 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -642,7 +641,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 09 Oct 2026 10:57:00 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -661,7 +660,7 @@
       "source": "Pakistan Security Watch",
       "published": "Sat, 10 Oct 2026 12:30:05 GMT",
       "base_score": 99,
-      "candidate_score": 114,
+      "candidate_score": 109,
       "priority": "URGENT",
       "matched_keywords": [
         "Pakistan",
@@ -679,7 +678,7 @@
       "source": "Pakistan Security Watch",
       "published": "Sat, 10 Oct 2026 10:07:32 GMT",
       "base_score": 97,
-      "candidate_score": 107,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pakistan",
@@ -717,7 +716,7 @@
       "source": "Pakistan Security Watch",
       "published": "Sat, 10 Oct 2026 13:30:19 GMT",
       "base_score": 77,
-      "candidate_score": 92,
+      "candidate_score": 87,
       "priority": "High",
       "matched_keywords": [
         "Pakistan",
@@ -726,40 +725,6 @@
         "counterterrorism"
       ],
       "content_type": "news"
-    },
-    {
-      "external_id": "5bf6ca912f0bfd01c720d30f",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı: Mekke Anlaşması'nın gerçek değeri kriz anında görülecek - Türkinform",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVBJOG1WSDU2OTlYaVVzbV9KalI2QVpUQVpYeTFNLWlCQTlySWRJYTR0RlBSZklEdElJYm1hZjFvQUN1aVNzTnVBd2huTGgwcFlGNW9rZkxRVDNrZU5oUUNYSG1JbWFLQ1MtbkJCQWNYVlpTc25hci1vOGNoRnh4SlNPdmpYNzY0LUZtZ0lVcF9mWDgyZjJB?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Sat, 10 Oct 2026 12:06:00 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Cihat Yaycı",
-        "Cihat Yaycı"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "aaf2734c7e17230dfaf12aca",
-      "mode": "geopolitico",
-      "title": "Yunanistan'dan F-16 ve F-35 filosu için yeni silah tedariki hazırlığı - Tabya Dijital",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzVXZXJHbThRMGozUnc4d0Viemx5azY2aGlLeXZ1SWlFZzE5OHBBLXJweUNrN0Qtd1BsRUtXNnJKZ2txU19DekE2Y1VXeUFZU1JNWXdqN2FTay1pMk14NnRLV2dyT3Atbl9WUFI2a1V5T0Z2THJmdVN6YlF5b0lxT3Zia2RnNEZ4VElWUjJyWkgwV1RtMmFpYTlR?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Fri, 09 Oct 2026 10:27:58 GMT",
-      "base_score": 86,
-      "candidate_score": 89,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "F-35",
-        "F-16",
-        "F-35"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "067054547b6dc7fab7689d54",
@@ -796,6 +761,56 @@
       "content_type": "news"
     },
     {
+      "external_id": "5bf6ca912f0bfd01c720d30f",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı: Mekke Anlaşması'nın gerçek değeri kriz anında görülecek - Türkinform",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVBJOG1WSDU2OTlYaVVzbV9KalI2QVpUQVpYeTFNLWlCQTlySWRJYTR0RlBSZklEdElJYm1hZjFvQUN1aVNzTnVBd2huTGgwcFlGNW9rZkxRVDNrZU5oUUNYSG1JbWFLQ1MtbkJCQWNYVlpTc25hci1vOGNoRnh4SlNPdmpYNzY0LUZtZ0lVcF9mWDgyZjJB?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Sat, 10 Oct 2026 12:06:00 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Cihat Yaycı",
+        "Cihat Yaycı"
+      ],
+      "content_type": "analyst"
+    },
+    {
+      "external_id": "f8f2c3c013c1bccbce92db43",
+      "mode": "geopolitico",
+      "title": "Maritime Security And Defence Industrial Cooperation In Focus As Defence Secretary To Visit Cyprus, Greece Next Week - Swarajya",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMFgwNXdoWGNmUmZTdEdsN1Fwa2N2bkJxSW03aHY0bmNfblFpX1ZNSGpROFUyenloZUhQbUs3bGlQUjZUSExtVGI4NllZUW1RdDV2QVFkWTRYak92VDlSNVpoOVlud1djWjBYcFZfS2l1SmdpOXpkNkMtc1AzRTE0ckgyem9JTkluQzNpa0lXQ0s2U2pBWTUwUEtNaS00X1hqMWZXc21JU2RjRDh0RjhtQnp5WFhoWUQ0UDFGb3FWVU5ER2RFNVRwdGIxWllzbzJmNkV6blpFZzZHQTZvWlZxai15eE80T1BySUlTZmNQZEbSAfABQVVfeXFMUDBYMDV3aFhjZlJmU3RHbDdRcGtjdm5CcUltN2h2NG5jX25RaV9WTUhqUThVMnp5aGVIUG1LN2xpUFI2VEhMbVRiODZZWVFtUXQ1dkFRZFk0WGpPdlQ5UjVaaDlZbndXY1owWHBWX0tpdUpnaTl6ZDZDLXNQM0UxNHJIMnpvSU5JbkMzaWtJV0NLNlNqQVk1MFBLTWktNF9YajFmV3NtSVNkY0Q4dEY4bUJ6eVhYaFlENFAxRm9xVlVOREdkRTVUcHRiMVpZc28yZjZFem5aRWc2R0E2b1pWcWoteXhPNE9QcklJU2ZjUGRG?oc=5",
+      "source": "Greece India Strategic Watch",
+      "published": "Sat, 10 Oct 2026 11:44:17 GMT",
+      "base_score": 72,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "Greece",
+        "Cyprus",
+        "defence"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "3b75836376eb6dd85920d9b8",
+      "mode": "pontos_voice",
+      "title": "Παναγία Σουμελά Αλεθρικού: Εγκαινιάστηκε σε κλίμα κατάνυξης ο ναός – Η μητέρα των προσφύγων ένωσε τον πόνο Ποντίων και Κυπρίων - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnduZWcwNjVCZFBTeVRMTHZFRTAwWS1LN2tLUklVSUNRMHhxR1FiZEhVMXpzdUloZmRYNWUyWGwtUURpaVlCRWpUNjlreXdLNHZaYlpZR2FwanVWRkk2WExQNmxqdnZlNXRJVVpFT2lIcjBnQXBUVTVaU2owcFllMlNhVHRBUE45MkZTeGt5OWVmRjYwTE9iNlBoNG14VnRWQUZMTEtXZHVGTEk?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 10 Oct 2026 17:18:52 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "Παναγία Σουμελά",
+        "Σουμελά"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "3dcee8abef6422f0444abf86",
       "mode": "pontos_voice",
       "title": "Η Παναγία Σουμελά ένωσε τους Έλληνες της Μόσχας με πίστη και μνήμη από τον Πόντο - pontosnews.gr",
@@ -803,7 +818,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sat, 10 Oct 2026 07:03:09 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -820,7 +835,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 09 Oct 2026 12:06:11 GMT",
       "base_score": 100,
-      "candidate_score": 103,
+      "candidate_score": 100,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -828,22 +843,6 @@
         "Ποντιακός Ελληνισμός",
         "ποντιακός ελληνισμός",
         "Ένωση Ποντίων"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "a6a5a354e731f20b13df7c76",
-      "mode": "pontos_voice",
-      "title": "Ποντιακή διάλεκτος: Μπορεί η τεχνολογία να την κρατήσει ζωντανή στις νεότερες γενιές; - η ναυτεμπορικη",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1FwWkZOU3U3VjNicWZPeXNmMXB0bWo2NVFNSGZNRVdJb0RkV09uOXdObEo1TDVYb2tLaG0zZWwtMGNYQkdWcjN5aGJIYm5FT1U4Ry1selVobjFVSFFlMm1KbXk1aXNmNUE3RndEVHo5ZjFKYjF4LXNsNm9jNXRINENKUFZyRF80MklfbVBUdmdVS2dlWE9EVmR0dEgxWHdJbVE1ZWhQT3RYR29GVlduZFg3aHQzbnd6c2UxNk1uekFaTV90WWRaSw?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Sat, 10 Oct 2026 11:26:30 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "ποντιακή",
-        "ποντιακή διάλεκτος"
       ],
       "content_type": "news"
     },
@@ -872,7 +871,7 @@
       "source": "61Saat Trabzon",
       "published": "Sat, 10 Oct 2026 15:30:00 +0300",
       "base_score": 52,
-      "candidate_score": 67,
+      "candidate_score": 62,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -883,19 +882,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "0f21e7b4887055febad74c76",
+      "external_id": "dca55e50540254286fc892f1",
       "mode": "pontos_voice",
-      "title": "BBP Trabzon İl Başkanı Adem Aydın'dan Araklı Belediye Başkanı'na sert çıkış! İstifaya davet etti",
-      "url": "https://www.61saat.com/bbp-trabzon-il-baskani-adem-aydindan-arakli-belediye-baskanina-sert-cikis-istifaya-davet-etti",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 10 Oct 2026 14:21:00 +0300",
-      "base_score": 53,
-      "candidate_score": 63,
+      "title": "Trabzonspor yenilgisi sonrası Fink’ten ayrılık sorusuna yanıt - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYnVPUWxkU1A0SzhLcVB2S3dFdkhVd2stSnppbzg3bVc5V3pjakM0ZDBXTTd5dldVOEFOdGpHc2hIRldkbUs3Q2VVUllsSDQ1NVlNbnZaQmg2aDJQUzdoYVRmeEhqaXhhN1B5OW5ITUJjSTlqNWttS1ZwTzRsVnF1RThyUExCSDhtTWNqeXNVSlZfLWxYa0ZQV0tDejR5ZDNlTlEzRXJfSQ?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Sat, 10 Oct 2026 17:10:46 GMT",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
-        "tepki",
+        "anıt",
         "Trabzon"
       ],
       "content_type": "news"
