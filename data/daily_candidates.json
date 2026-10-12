@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T09:10:08.659944+00:00",
+  "generated_at": "2026-10-12T19:00:36.035816+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 15,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -14,26 +14,6 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQelBVZS04Z2ttWHNvRWJneDF4OGFJWmloWEt5UmJ1S1RqZ0g3Z3VlWXJiLWszRlg3ZUtDV2Faal9qUFJXbmZVNWpjT2x6Tlp6cS0zWEFnX3RweHZQOVdxNUgwZlZWdjluSFdSbERCNEFCeTlpNlJRYTdleDBEbkJLNE83dW1LWkR1LXMwbmQ4T3NUdFdFanE1QXBYSHYwaXJNVVA1akJ3WXJFNWVlZHQ5cm9TNFZPdw?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 12 Oct 2026 05:09:50 GMT",
-        "base_score": 62,
-        "candidate_score": 88,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "b272f91350a6230724b2a8a5",
-        "mode": "sportdog",
-        "title": "Olympiacos Beat Panathinaikos 1-0 in Eternal Derby Despite Playing with 10 Men - Greek City Times",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2pBdnEzc2wwZHlSa194bTFVUnFpaFBEZ1FlUTBPQU9SaHlVeTVIVXZWOXBFZ0FraEVscGpsWGNybjhlUEN5SEdDMVctam9raW5vOTk1Vm9wdWVjTGN3Q0tEaFV0cU9mNS0wRS1GNU5lN2l6NmQtWU5fVTY4X2pxY3hteXREeDIwUVd5OHJ5U1l3RWNjdnNzNGIzTG1pWmJvNFBPWURKa29DUnUwUEZ2QjBB?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 11 Oct 2026 20:19:46 GMT",
         "base_score": 62,
         "candidate_score": 84,
         "priority": "High",
@@ -48,23 +28,22 @@
         "needs_second_source": true
       },
       {
-        "external_id": "8b7fdba99f0e2e90b0c46d1e",
+        "external_id": "b272f91350a6230724b2a8a5",
         "mode": "sportdog",
-        "title": "Aris Thessaloniki - Volos FC, 11/10/2026 - Super League 1 - Match sheet - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xRGY4SmVWamlFTzVyYk51bjhyNEU0WEFvXzVSN19uTkRXVW9pSkw3akJKZ21kOHdfYmlqYnBvWDdVU1l5bUFZYkQ5YTNfMENVeE1wa1pCR0ZTTmhGYWwybDV1Q2wyTkZHZXZPRVFvb0JtRzdiRDNpdw?oc=5",
-        "source": "Aris Rumour Watch",
-        "published": "Sat, 10 Oct 2026 22:41:33 GMT",
-        "base_score": 72,
-        "candidate_score": 84,
+        "title": "Olympiacos Beat Panathinaikos 1-0 in Eternal Derby Despite Playing with 10 Men - Greek City Times",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2pBdnEzc2wwZHlSa194bTFVUnFpaFBEZ1FlUTBPQU9SaHlVeTVIVXZWOXBFZ0FraEVscGpsWGNybjhlUEN5SEdDMVctam9raW5vOTk1Vm9wdWVjTGN3Q0tEaFV0cU9mNS0wRS1GNU5lN2l6NmQtWU5fVTY4X2pxY3hteXREeDIwUVd5OHJ5U1l3RWNjdnNzNGIzTG1pWmJvNFBPWURKa29DUnUwUEZ2QjBB?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 11 Oct 2026 20:19:46 GMT",
+        "base_score": 62,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
-          "Aris",
-          "transfer",
-          "Super League"
+          "Olympiacos",
+          "Panathinaikos"
         ],
         "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Aris",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -89,6 +68,106 @@
         "needs_second_source": true
       },
       {
+        "external_id": "e2798021f8ba0400b919bdb2",
+        "mode": "sportdog",
+        "title": "PAOK vs Kalamata: Greek Super League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwRl9BRTJzX0xtY1RCNzd2THNIVi0tZjBuWkFXcEpIUWk1RHBmRGxrbGoxWEd5cjIyVzVTVjRNbEN1c01xZlBLSmU3V21rdE44SFRfUFk1OXBURXFUZ3lZTFZlMA?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Mon, 12 Oct 2026 18:09:35 GMT",
+        "base_score": 56,
+        "candidate_score": 79,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "ec5864fc73f201e4bc5d829b",
+        "mode": "sportdog",
+        "title": "Goals conceded per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcG1vRi0zUFNsZUFUR3dsWkd2NVRQcjhqUUNqT2w4a0w3cElTQ1lKWjNNTWN0Y3VaUGtlRzBQT0NSRGxyc1o2aXh1RDF4cWlpeW43SjFiTDRqVW00M2FpRk5JVkgxZFhfelR0SVBMUTlEY3FvVFNGNzhUVWpyQkZ4dFVNZ3NqNzZGallKdzVxUTRXMENZT2ZSX01mQkMwVjhKeEVLRmlYUHd6djdfdUE?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Mon, 12 Oct 2026 13:47:56 GMT",
+        "base_score": 56,
+        "candidate_score": 74,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "be6e969ae7591bce0d6ed5d8",
+        "mode": "sportdog",
+        "title": "Penalties awarded - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWtGTE83SEVEY0F2ZUpMMmJINmZUMElBUmVONGxCenNHUUJDSVk2Z1k1NEI0Q3F6SnhJa0lJN3NHOTRFcVJaT3c3NzdTWG1Tb3JZVm5FMTNxZGVEa3B0aHFXUm9EdWNYUm53UjE2X3ItaEw3MTFpN1cwOERkRWxjNlpaY0NWaTg1T0QtVzlHLWV4dzhUV3phNTlUZEpfaTJ5WG9EbUNqV3RNRXc?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Mon, 12 Oct 2026 13:04:49 GMT",
+        "base_score": 56,
+        "candidate_score": 74,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "1da2fd9a62021abd5bbf95bf",
+        "mode": "sportdog",
+        "title": "Olympiakos vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwV296SzJ3QmdvdlhtRDlzenNGMlI2aG9EY3hDOUU2LTFpYTlwcXA1ZVNoUDA3c2NmM1h6dzJxQXVnN1BXSlVfWTE4VjhUN3Y2cERrWmZvMHF3c0VIbHhleDByRQ?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Mon, 12 Oct 2026 10:07:39 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "adaadd0f3f79586d68087d2e",
+        "mode": "sportdog",
+        "title": "Shots per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUxBNFd3V3k5ZVNadEJfS0NldzR0eVJlTDBYLTU5WGJ5OEcyS3lfQ2Nzb3RPOHRjOUVaQThkYTZpLTVNS19ScEdGQkEzcXVTV0hHTXdSTHlJRTZ3Ull3ZVFWTF9URmJ0NERHLUUtcXZ3VGN0V0ZvY3V0TEZJV1BlRnVZV0lfZEFMNU9MVDdiVmxURTk2UHA4NzZCQVljRUswN2FVUXpfdDh6a0d1WXZ5a0dLSDRSUQ?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 11 Oct 2026 13:03:10 GMT",
+        "base_score": 56,
+        "candidate_score": 67,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "1c1c17d260360b5835a6fbd4",
         "mode": "sportdog",
         "title": "Interceptions per match - AEK Athens stats for Super League 1 2026/2027 - FotMob",
@@ -96,7 +175,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sun, 11 Oct 2026 10:10:41 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -116,7 +195,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sun, 11 Oct 2026 09:59:30 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -129,43 +208,42 @@
         "needs_second_source": true
       },
       {
-        "external_id": "2b3ba52106ed37b0c84188a1",
+        "external_id": "f2318c583d1875157cf4bdf5",
         "mode": "sportdog",
-        "title": "xG conceded - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGNQMWo1aGdiTDc1NHp0TEE3ZXJWaUc4T3BkRVlUYVd1QTRrSGdoSFcyQ1hkWGdwTU1MbVB0WVp0eUdHTmRQVHlsVlZDbUtUclVEWXpEMkZSaHl6T1pqN1lEcExDRzFqZDY1MTBJUF9PRkZmTzZ6aGk2TFhDR215SUlLM25NWjV6LVRMMW9RZEtZcUFYa1VYY3JROFl1VW82NVhtUUQxc0lnV3g5eGxaREppQ01wSGhRUlBLY2dR?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Sun, 11 Oct 2026 05:37:36 GMT",
-        "base_score": 56,
-        "candidate_score": 67,
+        "title": "PAOK vs Kalamata Prediction, Betting Tips, Lineups & Odds | 12 Oct 2026 - Sportsgambler",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDhycDhvMkpBYlhVZWFtcElha2llQldlWkRZUmV2QzFQV1RpSFdoUG9TWTVMcy1wRjNIYU1qaXhLRTJFYVQ0RThUd3NjS3lrUmtXemZ5R0dHMkdZQUpRNFY5ako4NVFXeTV2WkdZS3lNN29oUlU5cU1oVzl4dTJQYTVWVkxzX2x6aWRXM1BpR3NhcTVoTGQzU09BcnQwblZjUjU4MVRVVQ?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Mon, 12 Oct 2026 18:16:28 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
-          "AEK",
-          "Super League"
+          "PAOK"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
+        "team": "PAOK",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
-        "external_id": "decd5f7011088fa8d2fcbdf9",
+        "external_id": "13f394bfee19185a51998c97",
         "mode": "sportdog",
-        "title": "Expected assists (xA) - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXNFWWh4aUY2cDFYZk5zby1YZVZydi1zMVp0a28zeWh1b0VBbm5lTENEaWt2UVF6WFI0blpSSWpKUDh0cU9FQ29KbU1hZVU5bmpUUVF2SUk0SG80WVNhS0FESVp3MWp0eXAyQjVxdW1uZzc5bjRSYnctbUVaUkNQU0d0dVJ3elo4VzdQNHdTOG96WFg1ZHNoYTk5UlJBT0FoYzdHTU51TTdBWG8?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Sun, 11 Oct 2026 04:47:02 GMT",
-        "base_score": 56,
-        "candidate_score": 67,
+        "title": "Big chances missed - Aris Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQW5HUS1hbHdzMWhaRUVfU29rZDNKcHV4TEJzbWl2cTU0WGNMUGlEM1pUMVR5LVh6dTM3bFNUOXNXa3ptNnl0NDZzYmxvTFhCaWw0M25MRy11V2hLMUZCRDB1bDc4RXdyWS0xbkRSWVRlZXR5VnJLTUhhMzFfSkk3eDNYcl8xQUlZLVBkM3A2X3NPYlZ1YVp6WDZLd1hxTGJFYmFTemhRemZadUx6c1F5ZFVJTUdWQQ?oc=5",
+        "source": "Aris Rumour Watch",
+        "published": "Sun, 11 Oct 2026 21:58:41 GMT",
+        "base_score": 48,
+        "candidate_score": 51,
         "priority": "Normal",
         "matched_keywords": [
-          "AEK",
+          "Aris",
           "Super League"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
+        "team": "Aris",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -189,32 +267,31 @@
         "needs_second_source": true
       },
       {
-        "external_id": "3d4ce6b25d6997f6fb1770aa",
+        "external_id": "6f3ba613013487a7d71bd8ca",
         "mode": "sportdog",
-        "title": "FotMob rating - Aris Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmdNT0MyUG9VV2ZnTmdmbExsZHZibXprRF9zTElhaVIxdGpMc1N0bUtNZlc0NjUyTHNadVBobXFOeXZQeTdYWG9TR1VqckpLWUFpbHA0S2R1blVCbWVrS0xqdmpjaEZYWVBadVc5d3dISy14bVVPNGVwMHRKTmdhSk1LM0JOWE5uSzJVWFNpcjZwckVUNVBvSXhiSVBQam93TGc?oc=5",
-        "source": "Aris Rumour Watch",
-        "published": "Sun, 11 Oct 2026 06:36:55 GMT",
-        "base_score": 48,
-        "candidate_score": 51,
+        "title": "Dimitris Giannakopoulos continues to dream of Nikola Jokic joining Panathinaikos - TalkBasket.net",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWE5uYkdFTU1JbUlXb25YVkp0Vm1QaDNUWkZWYzl3d25ySTI5b0YwUnowM3VDblRCVEw1RHhES0I3ZlJETS1KNG5vV0JVNEhWcF9JcXNyOUNMbHU2bGRhcXlZNzVfUGlDU1k2UjlyTDRCcnMzeVpGQVAtRVhIS2htbWdlNmdGdURaTWhaNTNrOEVmdTlrRlpRT0VvZ0F3NHpROVUzWFAtdlVCUHU4clNjdGt3V2l4UnB2SFJ1TNIBvAFBVV95cUxPWE5uYkdFTU1JbUlXb25YVkp0Vm1QaDNUWkZWYzl3d25ySTI5b0YwUnowM3VDblRCVEw1RHhES0I3ZlJETS1KNG5vV0JVNEhWcF9JcXNyOUNMbHU2bGRhcXlZNzVfUGlDU1k2UjlyTDRCcnMzeVpGQVAtRVhIS2htbWdlNmdGdURaTWhaNTNrOEVmdTlrRlpRT0VvZ0F3NHpROVUzWFAtdlVCUHU4clNjdGt3V2l4UnB2SFJ1TA?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Mon, 12 Oct 2026 12:26:21 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
-          "Aris",
-          "Super League"
+          "Panathinaikos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Aris",
+        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
       {
-        "external_id": "1b9b1bb7cc5489228244343f",
+        "external_id": "3c611b5bc7f6a6c7c89b5809",
         "mode": "sportdog",
-        "title": "Marinakis hails Olympiacos derby win in video call - VAVEL.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3E0aUtkbHVSNmdBWkNUQloxeW13d2ZaSG9RREtYd3BzRV9meUtNZ25GOU5JSTNWbm9SZGhfeGFCM1hWMVBoTXVlUERyMGFuZUR6YTJxeG5rbTJISG9yZWlDdGJkLUFvR091QUNVOTNXdlJCMERvTlZpSzRZN0VsV01rSXo3cWtHaHM4RGRXcmFEU210QV9EWGlMeERheExfRTNjWFZMS1BTVGVXaHE1b2xjVm5LR0VmakRIclBxVQ?oc=5",
+        "title": "Ajax - Olympiacos Piraeus 1-0 - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlNpdUN0c2dZcjFweWN1RFVJMDZnZXE1NmNVendhQm1hb3ktVVUtU0RiYjJGakZCSlRWRU5ZVGkzTnFPVzhYYTZRelJrQ0xtSTQ4MzA3c2pTUXpDVS1RZng3NDVJWUZIOEtfUExELVJiVFVEMWVGR1VwSU12ZVRNakp6eFVfeXk5UmM1LQ?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 11 Oct 2026 22:56:33 GMT",
+        "published": "Mon, 12 Oct 2026 08:05:56 GMT",
         "base_score": 31,
         "candidate_score": 45,
         "priority": "Normal",
@@ -230,6 +307,23 @@
     ],
     "geopolitico": [
       {
+        "external_id": "984abfd974bf6bc78baf10b3",
+        "mode": "geopolitico",
+        "title": "Yunanistan: Altı Türk İHA'sı Ege üzerinde hava sahasını ihlal etti - ssbulten.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEdQWnE2cldzX2J2bVhobnhBeGs2OWpFNXRfRkFTN0FkQlZIUFhHdVp2MXkySm9RS2hMY0VabGhkLTZZc2JSMTRPY0E0eGZMazVreUI4cVhacGVjYkVLLXZUdXh3UlRMU0lCZ1ZRSXJSdXV0TEpUVmQtYlpCWkNwME5rTDhkUFFmbE1SQkpoaS11dzA1OGs0Qk5YNHRObVRWWGV1VGc3MUdOT3do?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Mon, 12 Oct 2026 14:54:26 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Ege",
+          "hava sahası"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "c2251782ae7b41f7905008a3",
         "mode": "geopolitico",
         "title": "Kuzeyde doğal gaz hattı, güneyde savunma ve enerji hattı: Doğu Akdeniz’de gerilim büyüyor - Bugün Kıbrıs",
@@ -237,7 +331,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 12 Oct 2026 05:36:21 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Doğu Akdeniz",
@@ -250,146 +344,141 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "c79cde5b61cd1b60ef047270",
+        "external_id": "ce67d10b33344b9e6209934d",
         "mode": "geopolitico",
-        "title": "Pakistani, Chinese armies to hold joint training exercise in Xinjiang this month - Arab News PK",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTBtaGJHbjhyQnBwMGVLS3gxX3QxdUVwSW9JaF9fNFBkc0NxTVdXbUVDNEc0elFQU3FCRWpnRHZQdXlBLVU3SE1sd0NCdFg1M3M5RWlaT2p0WlNJU2lDU3FjODFFOEIxbE5DelVGaVMzVmpPR3RBc2lmNlQwY2l5SXBzbFhFUmFZY182LXRVYmlJZU9BR2s4NkJfODdYN0dnMkx5eUtscGdfSVZJZy1DUjY2bV9oRnQycGJhbg?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sun, 11 Oct 2026 16:40:35 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
+        "title": "India sells air defense missiles to Tajikistan, Turkmenistan in Central Asia push",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/12/india-sells-air-defense-missiles-to-tajikistan-turkmenistan-in-central-asia-push/",
+        "source": "Defense News",
+        "published": "Mon, 12 Oct 2026 16:49:35 +0000",
+        "base_score": 82,
+        "candidate_score": 97,
         "priority": "URGENT",
         "matched_keywords": [
+          "India",
+          "China",
+          "defense",
+          "air defense"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "31b13805f8b06dde1f7188f1",
+        "mode": "geopolitico",
+        "title": "Yunanistan, sosyal medya kullanımında 15 yaş sınırı getiriyor - Kıbrıs Türk Haber",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWx0NkRyY0dBY3o1Z2haUDZNRjhFbmlzUTFMNVBoME5JRFBFT0NqWG5rWDl6d0k5cndHbEhPVTBjWWIzTzV5Z1JIOTYyWGxmdGNrTy1XUVNxWDJBSmZNM1ozVzRiNTI1c09raC1LR1VZYm5yQlJ0dDc5YXFDRUt2NnVwT2h0QmJ4d0xBa3YxaHo?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Mon, 12 Oct 2026 17:05:00 GMT",
+        "base_score": 81,
+        "candidate_score": 96,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "sınır"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "2eac588093a44fee3596099a",
+        "mode": "geopolitico",
+        "title": "Two Pakistan Army Pilots Martyred as Training Aircraft Crashes in Quetta - Balochistan Pulse",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmFXMTBRcWNjWFctMWVGaXk0RkNRbnM3Q3BxdnhDWDk5U084ZVNBcVN1QllMdDBNdTAzNWNSNXVmYmxKRFRMeWRqd1d4NlhQXzRFbmh6bGh1R1JZZ2M2RjhUV0g1MzJkdUpVa0tiX2llTXlVVXBrM3RJQVZPemN5WWxYV1JXRFBrNFBVY1ZkbkxPTWNLajYzbW1RQ2pDdXZyVk1rbtIBpAFBVV95cUxNbmFXMTBRcWNjWFctMWVGaXk0RkNRbnM3Q3BxdnhDWDk5U084ZVNBcVN1QllMdDBNdTAzNWNSNXVmYmxKRFRMeWRqd1d4NlhQXzRFbmh6bGh1R1JZZ2M2RjhUV0g1MzJkdUpVa0tiX2llTXlVVXBrM3RJQVZPemN5WWxYV1JXRFBrNFBVY1ZkbkxPTWNLajYzbW1RQ2pDdXZyVk1rbg?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Mon, 12 Oct 2026 11:38:21 GMT",
+        "base_score": 80,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
           "Pakistan",
-          "Pakistani",
-          "Chinese",
-          "Xinjiang",
+          "Pakistan Army",
+          "Balochistan",
           "training"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "6acd5fe5db7950953944ffd6",
+        "external_id": "a1e640782b96312881588438",
         "mode": "geopolitico",
-        "title": "India's Defence Diplomacy Eyes The Mediterranean: Cyprus, Greece and the BrahMos Make Turkey Nervous - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUUxZY0xTSFVfR1ZmNHlqdk85X3VPNG9QUXluWUhsbmkxOElxZEgyVUlrdmxrRFI3bnJOcURRZndFU0xpRjgxSGlmaUZWdDQzQjdpS0szaUhtSEltcEVhYW84MWdKVFlJTmtBeFBPWktpMEY2Rl9qdTJtbzRlVE1yOEZGRkJ5bV9wbl9yaVhmdnJod3ZHNE83akNuQ0xjOV9tTVRqQVNfMXpNb0NRQk5BOE1wb2VhczhCX1ZkLU93T3k0ZDZpdktWaDEyTHgxNXYwZjMySlVlV0ZUY3F0V3AyUUhoUllzcjFJQWNJdG8tTEFXZ0M4SklzSE1WbFUwRGU0WXgzbEln0gGLAkFVX3lxTE1FVjB3UERGazNhVEM1ZXI1aEpNby1PSkxHaGJTSmNHMEhvWHpac09MUXNmWEpVZTlLRVB4RHpxa2pLeU1YX3dVMUNSQ0hiY2lYWXdxTS1kOHAxOVN1OGJQVUM4WFFNcXp6TFhnb0h4TE1NX1JuakpCamlpQUFNMl9LOGVOaHE3ZTJCeVR0WlJUNy1VdnlyWU9LcmNEU0YtV2thaUdMTXFSMF9fVzEtYWZzVUxMeVVsX29OLWpuT3Y3WGlUaHVpTVFVbkMtcmNCM3NKNl9nWG9ncWNFWEFkSndxRzkyTHAtNFNDV0RPaXUxV2xWSVFVYkR1UHRaZGYtcmdYLUlUTjA5bXNVNA?oc=5",
-        "source": "Greece India Strategic Watch",
-        "published": "Sun, 11 Oct 2026 11:52:15 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
+        "title": "Greece Signs $4 Billion Deal with US to Upgrade F-16 Fighter Jets - Israel Defense",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrRXRFS0FCdWRRTGRMMVVuQlpmRTlxWi1BLWV3d29SQm11ZWh1RGg4WTRMWWt0SWpRUElKR296cC1JMk4wc3RlNzdQaHNQV1lKWU1lZFhqelM?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Sun, 11 Oct 2026 14:26:47 GMT",
+        "base_score": 86,
+        "candidate_score": 89,
+        "priority": "High",
         "matched_keywords": [
           "Greece",
-          "India",
-          "Cyprus",
-          "BrahMos",
-          "Turkey",
-          "defence"
+          "Israel",
+          "defense",
+          "F-16"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "52dd44580b5db09bcd45e20b",
+        "external_id": "4ee16b961fcf1a379c31c94c",
         "mode": "geopolitico",
-        "title": "Güney Kıbrıs, Doğu Akdeniz'de 205 milyon euroluk askeri üs projesine hazırlanıyor. - Mersin Haber",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tdjU5V21RYXF2VDg0QUZsRXZSNExyaF9VZVRYWGE2R2p0UUh2NVg2SmdVNlp1eDRxWjMzWllrUWs4ZDhId3c4Z0VpNkQxa25ERnNDZ3N3d9IBV0FVX3lxTE0tdjU5V21RYXF2VDg0QUZsRXZSNExyaF9VZVRYWGE2R2p0UUh2NVg2SmdVNlp1eDRxWjMzWllrUWs4ZDhId3c4Z0VpNkQxa25ERnNDZ3N3dw?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Sun, 11 Oct 2026 08:13:32 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "askeri"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "0c0ba89932fab5380786ab8e",
-        "mode": "geopolitico",
-        "title": "India Seeks To Deepen Mediterranean Defence Engagement As Defence Secretary Visits Cyprus And Greece - ETV Bharat",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQWtkZXZXLUlraGw3cG1Yd1lrOGR4WUtINVUtMHA4VUVUcXZLOEYzcnJRMjBkZHJRQXR6Z3lndm9UWmtxY3BfQVpBZTB3eG96SU9tOHNKNjQ3RTBxTjBpZnRZREpMdWJDWkFid2J2TDVUTjAzVnBJQW4zbm5HOEc5NWV0X0Y5UFZMeElvUy1qUVYxU1Vob0NxbWt2a0otRWp0RHVWa24walVTTnBIeTc2RW54ZkVSeHRCRUpRRFZVLVlLaXF2RXBJQk0tTXBxVTRLVW9Cbm5EeVZzc2J6NW9iQ3hyWWhWTlQ3bjgzXzJ0TdIB9AFBVV95cUxNT3RmellzWmFpSXhId0IyV25CZEhnX3NITkRBa1ZlSHFOTk14a0JYSldRM1lwaEFqQWFXWXY1a0o3N045MTYwRkJiMGw4dE10VkJ2MXB0ZWo5SHFSQkxDRTRkRUtEalZGcEVUSExxWGZuM2JIOUphYkNZaXhra2xxNlg2RkxacDNUZ096dlhxaU9ST0N0bXppbE9ISkdTRF9DN253a2hEQXhpdHVWLWZtcnE2MGNpNEhvYm1DTjE1akpTRVVRbzN2RHNudnRoZ0xYdmRCN0pTZmRfTXF1cElaMUdhN3drWWpydEsyRXZzYlNjWFI5?oc=5",
-        "source": "Greece India Strategic Watch",
-        "published": "Sun, 11 Oct 2026 04:23:38 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "India",
-          "Bharat",
-          "Cyprus",
-          "defence"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "2055e9b6db20ee55672099b3",
-        "mode": "geopolitico",
-        "title": "Türkiye’nin F-35 ihtimali Yunanistan’ı karıştırdı! Miçotakis’ten olay sözler: “Trump’ın yakasından tutup...” - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaXpILThpZGVGekx1NlpucXlkMFhrSGZNX3VjYmVWbDhSSzFFZ09nMWg4UFFFTV9ld25aRFZpajVsSjZGSTRhdkduc2lGWmJqUm82MDVXOEJiLUxDMlVMS1NHV0ZEMEViWE5QRFNSZV9UcTJMOVdPTWR6TmpRLWc5MVg4T1BwSXZyVGU2cEpfLUctclo2U2Y0bk1Rbl9TanlEajZRTHpTdV9iN1MxV202X1k1MjN0VkNVZGNXb0tySm1USU1ULUE0REJnaUNGajE3X0l5ZDNxNnZTQlBO0gHfAUFVX3lxTE1UTHZjY1VZRGNiUVhJX0lwbUNwOXZCeldwQzhSQUk1RUp0Z1VCYmgxLUJKZXVnOW5ILXo0c2ktdF9aTmNSUGY3blRscTB0NGRWMng0WE1fbWNkdEdDRjJfd0k2ZHVRSEJQVVpWS0ZpUTkyeFprOUd5bEkxRzFpUkltNWI4NFlLczVLQmhmMTlPXzJjZ2ZnOUJIdEQtZ25IX1EtWGU3dHNDTU9qeE5LUmVGVktic3hXUGZMNHBZUUxobDRrZ2RQakZIQ3Q4R3UzeXg5NXhQb2hYbGFmbjJtV0k?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Sun, 11 Oct 2026 03:40:13 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "F-35",
-          "Miçotakis",
-          "F-35"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "4de9679e28b46c0fc06e009d",
-        "mode": "geopolitico",
-        "title": "Στρατηγική συμμαχία: Καλώδιο με στήριξη Ρούμπιο και γαλλική φόρμουλα, τι θα γίνει με τη NAVTEX και τα εμπόδια που βάζει η Τουρκία - AegeaNews",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPa3lPbUJHRXVyWlp3ZHRYelNMR0lEOWIxX041Z2Y3UnloZVV1Y3RvMUNQYW9vaXRKZmxnSXNYdWVfRDYzeElZdEk0UEc2VHAzUXBKdVJQVi0tZGtNVjBjWWtqVHBjV2JySzRiTGJ6TG4xWFJIQlRySno3M3YyQ1RzdVBzbVh0UDZ3clpCMUpDWEVMSnZCbDFOZnR0MWpRRzNFVHJTTDlKazFZQm0tRDJPTnVDRzI5MlBSQUpySUxpYWhWQVdJeWdzWDdfbzR5OUZFb2hsYkZTS2FZeUtUVmdZcVhFNlRuTXU5WS0wVGs5b0VJaUNVMWc?oc=5",
-        "source": "Dodecanese Security Migration Watch",
-        "published": "Sun, 11 Oct 2026 17:40:41 GMT",
-        "base_score": 96,
-        "candidate_score": 102,
-        "priority": "URGENT",
+        "title": "Six Turkish drones cross into Greek airspace over Aegean - The Defence Blog",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXVfVmFNRFhoQzlVZzFxb3N5QWE1SUtIcURkSzRmb1hSai16OWMzNTJ4dmRJbFFlUV9YT29MTVhZMnU2M0U5OTYxSVNVSC1lTkwySDRVX2Z0ZU50WFpORUtKa3ViY3VpMjNWUHFvZHg4QXdreU9RX3FPeXVaZzlPRHJaZGdYSlhDZnfSAY8BQVVfeXFMTlJqdzV0ajF3cklvSzIyQVRtMFZwa1VUNGlQWVhLV096a2R1ckRvYTNvT0pyRFRNYVpiRWdPMENMMGQ2a2xyZEhvNWZhU0hhYzdBdnJiVGhrLVdaekxTTjI5VVU5NmlBdDB6NkY3Y1BYM1VPWjlqM1lnQ3FWeUhSTWJGZ25fYm9hdm1pdGFMZ0k?oc=5",
+        "source": "F35 Drone Navy Watch",
+        "published": "Mon, 12 Oct 2026 12:02:27 GMT",
+        "base_score": 77,
+        "candidate_score": 87,
+        "priority": "High",
         "matched_keywords": [
           "Aegean",
           "Ege",
-          "NAVTEX"
+          "defence",
+          "drone"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "3141796716a69e1ae2c3d14d",
+        "external_id": "241f4826cb6115dc0b3ba538",
         "mode": "geopolitico",
-        "title": "Iran Remains Active in Southern Syria: Local Networks and an Ongoing Threat to Israel - Alma Research and Education Center",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2djS2dHRmVnQ204dHpMRDdmNUJiaE5FR1JtZTc3WGctc19ZVFpCYXJHVW1YUTg3V3drVEVaUEZlTzBzREEwTjVwSHlldHF3ZHNNclI3dWhsZ1ZJUmktSG42UXBNRXRZdUlrSXlTVVNDNXN1RzM5ekV2OGhzRmtMT2E2VkNwcVEydVhRUEVBLTdEbDVTR2VZRFNKMWhEQnBvdkdYQ21NVWxhU2dTZmc?oc=5",
-        "source": "Alma Research Israel Regional Security Watch",
-        "published": "Sun, 11 Oct 2026 10:34:47 GMT",
-        "base_score": 88,
-        "candidate_score": 91,
+        "title": "Yunanistan medyasında F-35 menzili üzerinden İstanbul ve Ankara hedef alındı - Yeni Birlik",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHc3SG9JVndpaHFVYzcwbzZiVk1iZnZTbjBZcjNIRWFoQzhZU21qUENIbEhfMUEyUklRUlNzVHZNY09iWnhYekE2ck1PdlNyVC0zNkVtOWg0QmdYWjA5eFBkUUEweE9SeVJ4S3Joek5IbmI3TDl4Z2cyVmxCTThjRmZjRkJlNXBiNF92el9FS0U1bkhhZTJaY0hZTzZmT2RRSGJfMHdPMjFxMXQtUGRfbWxNaDJSWUxra2pz?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Sun, 11 Oct 2026 18:58:28 GMT",
+        "base_score": 84,
+        "candidate_score": 87,
         "priority": "High",
         "matched_keywords": [
-          "Israel",
-          "Syria",
-          "Iran",
-          "research",
-          "education"
+          "Yunanistan",
+          "F-35",
+          "Ankara",
+          "F-35"
         ],
-        "content_type": "news"
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "65f1906efb9fd8a571a3f446",
+        "mode": "pontos_voice",
+        "title": "Σύλλογος Ποντίων Μεταμόρφωσης «Ο Εύξεινος Πόντος»: Υποδέχτηκε τα Ιερά Λείψανα των Αγίων Ραφαήλ, Νικολάου και Ειρήνης - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaTI2S01qYlI5cjNUMG1EQVdrVFRDM3hlaGxGLVZoLUlxSFRBZzRLaEpPb0w5bkNqUHF1cjBWblNCbUJIYjZGMGloaGdBX0xJVlFUY3Y4ZHByVm9yT0pLTUktY0dyZFBsNFJtQjZOUnROM3FNLTg1TU1UTk4tcVhCT3lydlo3VVVXNUI1c3dZWGY5c3lmWkY1LTdNek5FRHY4d05KZnlYVm12NS1GYkxQQUxMVFhCeFVydVJIdVRyM3Fjc29VYWktQkVlVkF6S280WGc?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Mon, 12 Oct 2026 18:41:07 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "Πόντος",
+          "Σύλλογος Ποντίων",
+          "Εύξεινος Πόντος"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "d8f50291a5b02ce1bc848a05",
         "mode": "pontos_voice",
         "title": "Στέλλα Παπαλάμπρου: Η ποντιακή μουσική μπήκε στη ζωή μου σαν ένα βαθύ προσωπικό κάλεσμα - pontosnews.gr",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdTZPUEwzZ3FXaU0yZHp6Nl9KbzFKVW9qN1oxTWw4WUt1VjVWazRhYlYxblgydk56VWRkV1ZwTkVSWnZNa3pjaUNqREg3OEpDRlJaaDR4T2ZJUGJtT3B4akNjSWU2UUk0WWFUVzhGUkJqaWhCaXN5MndDVzAtVnpVMExPa2xQcDlRR24xOVkxcHVoWk0wZ0FkdHlNOTI2NHNQV0E?oc=5",
-        "source": "Pontos News Watch",
+        "source": "Greek Press Pontic Watch",
         "published": "Sun, 11 Oct 2026 17:06:34 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -399,92 +488,70 @@
         "content_type": "news"
       },
       {
-        "external_id": "3b75836376eb6dd85920d9b8",
+        "external_id": "ce96ee3f6f5b8b19406e5e58",
         "mode": "pontos_voice",
-        "title": "Παναγία Σουμελά Αλεθρικού: Εγκαινιάστηκε σε κλίμα κατάνυξης ο ναός – Η μητέρα των προσφύγων ένωσε τον πόνο Ποντίων και Κυπρίων - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnduZWcwNjVCZFBTeVRMTHZFRTAwWS1LN2tLUklVSUNRMHhxR1FiZEhVMXpzdUloZmRYNWUyWGwtUURpaVlCRWpUNjlreXdLNHZaYlpZR2FwanVWRkk2WExQNmxqdnZlNXRJVVpFT2lIcjBnQXBUVTVaU2owcFllMlNhVHRBUE45MkZTeGt5OWVmRjYwTE9iNlBoNG14VnRWQUZMTEtXZHVGTEk?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Sat, 10 Oct 2026 17:18:52 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
+        "title": "Η Παναγία Σουμελά ένωσε τους Έλληνες της Μόσχας με μνήμη από τον Πόντο - Thita News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3A4SzlQdDdMZ1JTMUhHZFFXR3dGOU14M3NGWVZFcnpXLXpaeG4zTEl0WC1uRjRnTTBTWlYzbVdoMEJqQzcxcGcwbncyb25NeW9uYkdDMmEzeXBFVVJlRFVqZXJQWlloYkRNWWFtR0gyaVFWWk82TjVOb08yWFlnRzlMQjcteEtiVnBrRTZNa0pJZlVYT0JRbHY0OFVXUQ?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sun, 11 Oct 2026 14:15:30 GMT",
+        "base_score": 86,
+        "candidate_score": 89,
+        "priority": "High",
         "matched_keywords": [
-          "Pontos",
           "Παναγία Σουμελά",
           "Σουμελά"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "60b8d29786d443f1f7f3efa2",
+        "external_id": "963b828beab7c185ec1cf7de",
         "mode": "pontos_voice",
-        "title": "Ποντιακή διάλεκτος: Μπορεί η τεχνολογία να την κρατήσει ζωντανή στις νεότερες γενιές; - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcjZPbzlna2c4NXFBeDFudk1QZ0syRmx2bjFDWkEyX1VmSkdETXpvRFVZVFkyTDd2d3dWQkZKMk9kX3pxTmJMVHF4UW1kb2RlMHotYjZRZ2s5bU9vYXhoVnFIbkJFY0diLUdGd0xibzJEbm10ZmtHM1lqZERXRWIzcEdVMXNHckRPZlhsVUJ4cVRGbmxNcmtiQ0dnZVhoQkJTeEJvTUloRXBueVY2aEJCeFVfNjA?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Sat, 10 Oct 2026 10:32:45 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
+        "title": "Trabzon'da 40 öğrenciye 7'şer bin TL ödül verilecek! Tek şart...",
+        "url": "https://www.61saat.com/trabzonda-40-ogrenciye-7ser-bin-tl-odul-verilecek-tek-sart",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 12 Oct 2026 20:30:00 +0300",
+        "base_score": 52,
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "ποντιακή διάλεκτος"
+          "Trabzon",
+          "kültür",
+          "açıklama",
+          "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "ea2ac77ed9d1df11e03348d5",
+        "external_id": "4a5e56f942900b0c2f52cd9b",
         "mode": "pontos_voice",
-        "title": "Trabzon’da belediye başkanını kınadılar",
-        "url": "https://www.61saat.com/trabzonda-belediye-baskanini-kinadilar",
+        "title": "Trabzon'da 7 kişiye 146 bin TL ceza kesildi",
+        "url": "https://www.61saat.com/trabzonda-7-kisiye-146-bin-tl-ceza-kesildi",
         "source": "61Saat Trabzon",
-        "published": "Mon, 12 Oct 2026 09:54:00 +0300",
-        "base_score": 68,
-        "candidate_score": 83,
-        "priority": "High",
+        "published": "Mon, 12 Oct 2026 21:51:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
-          "açıklama",
-          "tartışma",
           "Trabzon",
           "dil"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "a8b599a41a21c5a6c052f095",
+        "external_id": "07d8e3b21a57b847e8812e66",
         "mode": "pontos_voice",
-        "title": "Uzaydan gelen sinyaller Trabzon'da yakalandı",
-        "url": "https://www.61saat.com/ktulu-ogrenciler-uzaydan-gelen-sinyalleri-yakaladi",
+        "title": "Trabzonlu isme CHP İstanbul'da önemli görev!",
+        "url": "https://www.61saat.com/trabzonlu-isme-chp-istanbulda-onemli-gorev",
         "source": "61Saat Trabzon",
-        "published": "Mon, 12 Oct 2026 10:49:00 +0300",
-        "base_score": 53,
-        "candidate_score": 68,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Of",
-          "Trabzon",
-          "Karadeniz"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "3291e099e3a015640ca2dca9",
-        "mode": "pontos_voice",
-        "title": "Trabzon’a turist akını sürüyor! Bir ülke 400 bini aştı",
-        "url": "https://www.61saat.com/trabzona-turist-akini-suruyor-bir-ulke-400-bini-asti",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 12 Oct 2026 10:24:00 +0300",
-        "base_score": 53,
-        "candidate_score": 68,
+        "published": "Mon, 12 Oct 2026 19:50:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "milletvekili",
-          "Trabzon",
-          "dil"
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -499,26 +566,6 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 12 Oct 2026 05:09:50 GMT",
       "base_score": 62,
-      "candidate_score": 88,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "b272f91350a6230724b2a8a5",
-      "mode": "sportdog",
-      "title": "Olympiacos Beat Panathinaikos 1-0 in Eternal Derby Despite Playing with 10 Men - Greek City Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2pBdnEzc2wwZHlSa194bTFVUnFpaFBEZ1FlUTBPQU9SaHlVeTVIVXZWOXBFZ0FraEVscGpsWGNybjhlUEN5SEdDMVctam9raW5vOTk1Vm9wdWVjTGN3Q0tEaFV0cU9mNS0wRS1GNU5lN2l6NmQtWU5fVTY4X2pxY3hteXREeDIwUVd5OHJ5U1l3RWNjdnNzNGIzTG1pWmJvNFBPWURKa29DUnUwUEZ2QjBB?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 11 Oct 2026 20:19:46 GMT",
-      "base_score": 62,
       "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
@@ -532,23 +579,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "8b7fdba99f0e2e90b0c46d1e",
+      "external_id": "b272f91350a6230724b2a8a5",
       "mode": "sportdog",
-      "title": "Aris Thessaloniki - Volos FC, 11/10/2026 - Super League 1 - Match sheet - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xRGY4SmVWamlFTzVyYk51bjhyNEU0WEFvXzVSN19uTkRXVW9pSkw3akJKZ21kOHdfYmlqYnBvWDdVU1l5bUFZYkQ5YTNfMENVeE1wa1pCR0ZTTmhGYWwybDV1Q2wyTkZHZXZPRVFvb0JtRzdiRDNpdw?oc=5",
-      "source": "Aris Rumour Watch",
-      "published": "Sat, 10 Oct 2026 22:41:33 GMT",
-      "base_score": 72,
-      "candidate_score": 84,
+      "title": "Olympiacos Beat Panathinaikos 1-0 in Eternal Derby Despite Playing with 10 Men - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2pBdnEzc2wwZHlSa194bTFVUnFpaFBEZ1FlUTBPQU9SaHlVeTVIVXZWOXBFZ0FraEVscGpsWGNybjhlUEN5SEdDMVctam9raW5vOTk1Vm9wdWVjTGN3Q0tEaFV0cU9mNS0wRS1GNU5lN2l6NmQtWU5fVTY4X2pxY3hteXREeDIwUVd5OHJ5U1l3RWNjdnNzNGIzTG1pWmJvNFBPWURKa29DUnUwUEZ2QjBB?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 11 Oct 2026 20:19:46 GMT",
+      "base_score": 62,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
-        "Aris",
-        "transfer",
-        "Super League"
+        "Olympiacos",
+        "Panathinaikos"
       ],
       "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Aris",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -573,6 +619,106 @@
       "needs_second_source": true
     },
     {
+      "external_id": "e2798021f8ba0400b919bdb2",
+      "mode": "sportdog",
+      "title": "PAOK vs Kalamata: Greek Super League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwRl9BRTJzX0xtY1RCNzd2THNIVi0tZjBuWkFXcEpIUWk1RHBmRGxrbGoxWEd5cjIyVzVTVjRNbEN1c01xZlBLSmU3V21rdE44SFRfUFk1OXBURXFUZ3lZTFZlMA?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Mon, 12 Oct 2026 18:09:35 GMT",
+      "base_score": 56,
+      "candidate_score": 79,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "ec5864fc73f201e4bc5d829b",
+      "mode": "sportdog",
+      "title": "Goals conceded per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcG1vRi0zUFNsZUFUR3dsWkd2NVRQcjhqUUNqT2w4a0w3cElTQ1lKWjNNTWN0Y3VaUGtlRzBQT0NSRGxyc1o2aXh1RDF4cWlpeW43SjFiTDRqVW00M2FpRk5JVkgxZFhfelR0SVBMUTlEY3FvVFNGNzhUVWpyQkZ4dFVNZ3NqNzZGallKdzVxUTRXMENZT2ZSX01mQkMwVjhKeEVLRmlYUHd6djdfdUE?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Mon, 12 Oct 2026 13:47:56 GMT",
+      "base_score": 56,
+      "candidate_score": 74,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "be6e969ae7591bce0d6ed5d8",
+      "mode": "sportdog",
+      "title": "Penalties awarded - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWtGTE83SEVEY0F2ZUpMMmJINmZUMElBUmVONGxCenNHUUJDSVk2Z1k1NEI0Q3F6SnhJa0lJN3NHOTRFcVJaT3c3NzdTWG1Tb3JZVm5FMTNxZGVEa3B0aHFXUm9EdWNYUm53UjE2X3ItaEw3MTFpN1cwOERkRWxjNlpaY0NWaTg1T0QtVzlHLWV4dzhUV3phNTlUZEpfaTJ5WG9EbUNqV3RNRXc?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Mon, 12 Oct 2026 13:04:49 GMT",
+      "base_score": 56,
+      "candidate_score": 74,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "1da2fd9a62021abd5bbf95bf",
+      "mode": "sportdog",
+      "title": "Olympiakos vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwV296SzJ3QmdvdlhtRDlzenNGMlI2aG9EY3hDOUU2LTFpYTlwcXA1ZVNoUDA3c2NmM1h6dzJxQXVnN1BXSlVfWTE4VjhUN3Y2cERrWmZvMHF3c0VIbHhleDByRQ?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Mon, 12 Oct 2026 10:07:39 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "adaadd0f3f79586d68087d2e",
+      "mode": "sportdog",
+      "title": "Shots per 90 - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUxBNFd3V3k5ZVNadEJfS0NldzR0eVJlTDBYLTU5WGJ5OEcyS3lfQ2Nzb3RPOHRjOUVaQThkYTZpLTVNS19ScEdGQkEzcXVTV0hHTXdSTHlJRTZ3Ull3ZVFWTF9URmJ0NERHLUUtcXZ3VGN0V0ZvY3V0TEZJV1BlRnVZV0lfZEFMNU9MVDdiVmxURTk2UHA4NzZCQVljRUswN2FVUXpfdDh6a0d1WXZ5a0dLSDRSUQ?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 11 Oct 2026 13:03:10 GMT",
+      "base_score": 56,
+      "candidate_score": 67,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "1c1c17d260360b5835a6fbd4",
       "mode": "sportdog",
       "title": "Interceptions per match - AEK Athens stats for Super League 1 2026/2027 - FotMob",
@@ -580,7 +726,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sun, 11 Oct 2026 10:10:41 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -600,7 +746,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sun, 11 Oct 2026 09:59:30 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -613,43 +759,42 @@
       "needs_second_source": true
     },
     {
-      "external_id": "2b3ba52106ed37b0c84188a1",
+      "external_id": "f2318c583d1875157cf4bdf5",
       "mode": "sportdog",
-      "title": "xG conceded - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGNQMWo1aGdiTDc1NHp0TEE3ZXJWaUc4T3BkRVlUYVd1QTRrSGdoSFcyQ1hkWGdwTU1MbVB0WVp0eUdHTmRQVHlsVlZDbUtUclVEWXpEMkZSaHl6T1pqN1lEcExDRzFqZDY1MTBJUF9PRkZmTzZ6aGk2TFhDR215SUlLM25NWjV6LVRMMW9RZEtZcUFYa1VYY3JROFl1VW82NVhtUUQxc0lnV3g5eGxaREppQ01wSGhRUlBLY2dR?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Sun, 11 Oct 2026 05:37:36 GMT",
-      "base_score": 56,
-      "candidate_score": 67,
+      "title": "PAOK vs Kalamata Prediction, Betting Tips, Lineups & Odds | 12 Oct 2026 - Sportsgambler",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDhycDhvMkpBYlhVZWFtcElha2llQldlWkRZUmV2QzFQV1RpSFdoUG9TWTVMcy1wRjNIYU1qaXhLRTJFYVQ0RThUd3NjS3lrUmtXemZ5R0dHMkdZQUpRNFY5ako4NVFXeTV2WkdZS3lNN29oUlU5cU1oVzl4dTJQYTVWVkxzX2x6aWRXM1BpR3NhcTVoTGQzU09BcnQwblZjUjU4MVRVVQ?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Mon, 12 Oct 2026 18:16:28 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
-        "AEK",
-        "Super League"
+        "PAOK"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
+      "team": "PAOK",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
-      "external_id": "decd5f7011088fa8d2fcbdf9",
+      "external_id": "13f394bfee19185a51998c97",
       "mode": "sportdog",
-      "title": "Expected assists (xA) - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXNFWWh4aUY2cDFYZk5zby1YZVZydi1zMVp0a28zeWh1b0VBbm5lTENEaWt2UVF6WFI0blpSSWpKUDh0cU9FQ29KbU1hZVU5bmpUUVF2SUk0SG80WVNhS0FESVp3MWp0eXAyQjVxdW1uZzc5bjRSYnctbUVaUkNQU0d0dVJ3elo4VzdQNHdTOG96WFg1ZHNoYTk5UlJBT0FoYzdHTU51TTdBWG8?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Sun, 11 Oct 2026 04:47:02 GMT",
-      "base_score": 56,
-      "candidate_score": 67,
+      "title": "Big chances missed - Aris Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQW5HUS1hbHdzMWhaRUVfU29rZDNKcHV4TEJzbWl2cTU0WGNMUGlEM1pUMVR5LVh6dTM3bFNUOXNXa3ptNnl0NDZzYmxvTFhCaWw0M25MRy11V2hLMUZCRDB1bDc4RXdyWS0xbkRSWVRlZXR5VnJLTUhhMzFfSkk3eDNYcl8xQUlZLVBkM3A2X3NPYlZ1YVp6WDZLd1hxTGJFYmFTemhRemZadUx6c1F5ZFVJTUdWQQ?oc=5",
+      "source": "Aris Rumour Watch",
+      "published": "Sun, 11 Oct 2026 21:58:41 GMT",
+      "base_score": 48,
+      "candidate_score": 51,
       "priority": "Normal",
       "matched_keywords": [
-        "AEK",
+        "Aris",
         "Super League"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
+      "team": "Aris",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -673,32 +818,31 @@
       "needs_second_source": true
     },
     {
-      "external_id": "3d4ce6b25d6997f6fb1770aa",
+      "external_id": "6f3ba613013487a7d71bd8ca",
       "mode": "sportdog",
-      "title": "FotMob rating - Aris Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmdNT0MyUG9VV2ZnTmdmbExsZHZibXprRF9zTElhaVIxdGpMc1N0bUtNZlc0NjUyTHNadVBobXFOeXZQeTdYWG9TR1VqckpLWUFpbHA0S2R1blVCbWVrS0xqdmpjaEZYWVBadVc5d3dISy14bVVPNGVwMHRKTmdhSk1LM0JOWE5uSzJVWFNpcjZwckVUNVBvSXhiSVBQam93TGc?oc=5",
-      "source": "Aris Rumour Watch",
-      "published": "Sun, 11 Oct 2026 06:36:55 GMT",
-      "base_score": 48,
-      "candidate_score": 51,
+      "title": "Dimitris Giannakopoulos continues to dream of Nikola Jokic joining Panathinaikos - TalkBasket.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWE5uYkdFTU1JbUlXb25YVkp0Vm1QaDNUWkZWYzl3d25ySTI5b0YwUnowM3VDblRCVEw1RHhES0I3ZlJETS1KNG5vV0JVNEhWcF9JcXNyOUNMbHU2bGRhcXlZNzVfUGlDU1k2UjlyTDRCcnMzeVpGQVAtRVhIS2htbWdlNmdGdURaTWhaNTNrOEVmdTlrRlpRT0VvZ0F3NHpROVUzWFAtdlVCUHU4clNjdGt3V2l4UnB2SFJ1TNIBvAFBVV95cUxPWE5uYkdFTU1JbUlXb25YVkp0Vm1QaDNUWkZWYzl3d25ySTI5b0YwUnowM3VDblRCVEw1RHhES0I3ZlJETS1KNG5vV0JVNEhWcF9JcXNyOUNMbHU2bGRhcXlZNzVfUGlDU1k2UjlyTDRCcnMzeVpGQVAtRVhIS2htbWdlNmdGdURaTWhaNTNrOEVmdTlrRlpRT0VvZ0F3NHpROVUzWFAtdlVCUHU4clNjdGt3V2l4UnB2SFJ1TA?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Mon, 12 Oct 2026 12:26:21 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
-        "Aris",
-        "Super League"
+        "Panathinaikos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Aris",
+      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
     {
-      "external_id": "1b9b1bb7cc5489228244343f",
+      "external_id": "3c611b5bc7f6a6c7c89b5809",
       "mode": "sportdog",
-      "title": "Marinakis hails Olympiacos derby win in video call - VAVEL.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3E0aUtkbHVSNmdBWkNUQloxeW13d2ZaSG9RREtYd3BzRV9meUtNZ25GOU5JSTNWbm9SZGhfeGFCM1hWMVBoTXVlUERyMGFuZUR6YTJxeG5rbTJISG9yZWlDdGJkLUFvR091QUNVOTNXdlJCMERvTlZpSzRZN0VsV01rSXo3cWtHaHM4RGRXcmFEU210QV9EWGlMeERheExfRTNjWFZMS1BTVGVXaHE1b2xjVm5LR0VmakRIclBxVQ?oc=5",
+      "title": "Ajax - Olympiacos Piraeus 1-0 - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlNpdUN0c2dZcjFweWN1RFVJMDZnZXE1NmNVendhQm1hb3ktVVUtU0RiYjJGakZCSlRWRU5ZVGkzTnFPVzhYYTZRelJrQ0xtSTQ4MzA3c2pTUXpDVS1RZng3NDVJWUZIOEtfUExELVJiVFVEMWVGR1VwSU12ZVRNakp6eFVfeXk5UmM1LQ?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 11 Oct 2026 22:56:33 GMT",
+      "published": "Mon, 12 Oct 2026 08:05:56 GMT",
       "base_score": 31,
       "candidate_score": 45,
       "priority": "Normal",
@@ -712,6 +856,23 @@
       "needs_second_source": true
     },
     {
+      "external_id": "984abfd974bf6bc78baf10b3",
+      "mode": "geopolitico",
+      "title": "Yunanistan: Altı Türk İHA'sı Ege üzerinde hava sahasını ihlal etti - ssbulten.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEdQWnE2cldzX2J2bVhobnhBeGs2OWpFNXRfRkFTN0FkQlZIUFhHdVp2MXkySm9RS2hMY0VabGhkLTZZc2JSMTRPY0E0eGZMazVreUI4cVhacGVjYkVLLXZUdXh3UlRMU0lCZ1ZRSXJSdXV0TEpUVmQtYlpCWkNwME5rTDhkUFFmbE1SQkpoaS11dzA1OGs0Qk5YNHRObVRWWGV1VGc3MUdOT3do?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Mon, 12 Oct 2026 14:54:26 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Ege",
+        "hava sahası"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "c2251782ae7b41f7905008a3",
       "mode": "geopolitico",
       "title": "Kuzeyde doğal gaz hattı, güneyde savunma ve enerji hattı: Doğu Akdeniz’de gerilim büyüyor - Bugün Kıbrıs",
@@ -719,7 +880,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 12 Oct 2026 05:36:21 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Doğu Akdeniz",
@@ -732,132 +893,127 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "c79cde5b61cd1b60ef047270",
+      "external_id": "ce67d10b33344b9e6209934d",
       "mode": "geopolitico",
-      "title": "Pakistani, Chinese armies to hold joint training exercise in Xinjiang this month - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTBtaGJHbjhyQnBwMGVLS3gxX3QxdUVwSW9JaF9fNFBkc0NxTVdXbUVDNEc0elFQU3FCRWpnRHZQdXlBLVU3SE1sd0NCdFg1M3M5RWlaT2p0WlNJU2lDU3FjODFFOEIxbE5DelVGaVMzVmpPR3RBc2lmNlQwY2l5SXBzbFhFUmFZY182LXRVYmlJZU9BR2s4NkJfODdYN0dnMkx5eUtscGdfSVZJZy1DUjY2bV9oRnQycGJhbg?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sun, 11 Oct 2026 16:40:35 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
+      "title": "India sells air defense missiles to Tajikistan, Turkmenistan in Central Asia push",
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/10/12/india-sells-air-defense-missiles-to-tajikistan-turkmenistan-in-central-asia-push/",
+      "source": "Defense News",
+      "published": "Mon, 12 Oct 2026 16:49:35 +0000",
+      "base_score": 82,
+      "candidate_score": 97,
       "priority": "URGENT",
       "matched_keywords": [
+        "India",
+        "China",
+        "defense",
+        "air defense"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "31b13805f8b06dde1f7188f1",
+      "mode": "geopolitico",
+      "title": "Yunanistan, sosyal medya kullanımında 15 yaş sınırı getiriyor - Kıbrıs Türk Haber",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWx0NkRyY0dBY3o1Z2haUDZNRjhFbmlzUTFMNVBoME5JRFBFT0NqWG5rWDl6d0k5cndHbEhPVTBjWWIzTzV5Z1JIOTYyWGxmdGNrTy1XUVNxWDJBSmZNM1ozVzRiNTI1c09raC1LR1VZYm5yQlJ0dDc5YXFDRUt2NnVwT2h0QmJ4d0xBa3YxaHo?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Mon, 12 Oct 2026 17:05:00 GMT",
+      "base_score": 81,
+      "candidate_score": 96,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kıbrıs",
+        "sınır"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "2eac588093a44fee3596099a",
+      "mode": "geopolitico",
+      "title": "Two Pakistan Army Pilots Martyred as Training Aircraft Crashes in Quetta - Balochistan Pulse",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmFXMTBRcWNjWFctMWVGaXk0RkNRbnM3Q3BxdnhDWDk5U084ZVNBcVN1QllMdDBNdTAzNWNSNXVmYmxKRFRMeWRqd1d4NlhQXzRFbmh6bGh1R1JZZ2M2RjhUV0g1MzJkdUpVa0tiX2llTXlVVXBrM3RJQVZPemN5WWxYV1JXRFBrNFBVY1ZkbkxPTWNLajYzbW1RQ2pDdXZyVk1rbtIBpAFBVV95cUxNbmFXMTBRcWNjWFctMWVGaXk0RkNRbnM3Q3BxdnhDWDk5U084ZVNBcVN1QllMdDBNdTAzNWNSNXVmYmxKRFRMeWRqd1d4NlhQXzRFbmh6bGh1R1JZZ2M2RjhUV0g1MzJkdUpVa0tiX2llTXlVVXBrM3RJQVZPemN5WWxYV1JXRFBrNFBVY1ZkbkxPTWNLajYzbW1RQ2pDdXZyVk1rbg?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Mon, 12 Oct 2026 11:38:21 GMT",
+      "base_score": 80,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
         "Pakistan",
-        "Pakistani",
-        "Chinese",
-        "Xinjiang",
+        "Pakistan Army",
+        "Balochistan",
         "training"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "6acd5fe5db7950953944ffd6",
+      "external_id": "a1e640782b96312881588438",
       "mode": "geopolitico",
-      "title": "India's Defence Diplomacy Eyes The Mediterranean: Cyprus, Greece and the BrahMos Make Turkey Nervous - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUUxZY0xTSFVfR1ZmNHlqdk85X3VPNG9QUXluWUhsbmkxOElxZEgyVUlrdmxrRFI3bnJOcURRZndFU0xpRjgxSGlmaUZWdDQzQjdpS0szaUhtSEltcEVhYW84MWdKVFlJTmtBeFBPWktpMEY2Rl9qdTJtbzRlVE1yOEZGRkJ5bV9wbl9yaVhmdnJod3ZHNE83akNuQ0xjOV9tTVRqQVNfMXpNb0NRQk5BOE1wb2VhczhCX1ZkLU93T3k0ZDZpdktWaDEyTHgxNXYwZjMySlVlV0ZUY3F0V3AyUUhoUllzcjFJQWNJdG8tTEFXZ0M4SklzSE1WbFUwRGU0WXgzbEln0gGLAkFVX3lxTE1FVjB3UERGazNhVEM1ZXI1aEpNby1PSkxHaGJTSmNHMEhvWHpac09MUXNmWEpVZTlLRVB4RHpxa2pLeU1YX3dVMUNSQ0hiY2lYWXdxTS1kOHAxOVN1OGJQVUM4WFFNcXp6TFhnb0h4TE1NX1JuakpCamlpQUFNMl9LOGVOaHE3ZTJCeVR0WlJUNy1VdnlyWU9LcmNEU0YtV2thaUdMTXFSMF9fVzEtYWZzVUxMeVVsX29OLWpuT3Y3WGlUaHVpTVFVbkMtcmNCM3NKNl9nWG9ncWNFWEFkSndxRzkyTHAtNFNDV0RPaXUxV2xWSVFVYkR1UHRaZGYtcmdYLUlUTjA5bXNVNA?oc=5",
-      "source": "Greece India Strategic Watch",
-      "published": "Sun, 11 Oct 2026 11:52:15 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
+      "title": "Greece Signs $4 Billion Deal with US to Upgrade F-16 Fighter Jets - Israel Defense",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrRXRFS0FCdWRRTGRMMVVuQlpmRTlxWi1BLWV3d29SQm11ZWh1RGg4WTRMWWt0SWpRUElKR296cC1JMk4wc3RlNzdQaHNQV1lKWU1lZFhqelM?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Sun, 11 Oct 2026 14:26:47 GMT",
+      "base_score": 86,
+      "candidate_score": 89,
+      "priority": "High",
       "matched_keywords": [
         "Greece",
-        "India",
-        "Cyprus",
-        "BrahMos",
-        "Turkey",
-        "defence"
+        "Israel",
+        "defense",
+        "F-16"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "52dd44580b5db09bcd45e20b",
+      "external_id": "4ee16b961fcf1a379c31c94c",
       "mode": "geopolitico",
-      "title": "Güney Kıbrıs, Doğu Akdeniz'de 205 milyon euroluk askeri üs projesine hazırlanıyor. - Mersin Haber",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tdjU5V21RYXF2VDg0QUZsRXZSNExyaF9VZVRYWGE2R2p0UUh2NVg2SmdVNlp1eDRxWjMzWllrUWs4ZDhId3c4Z0VpNkQxa25ERnNDZ3N3d9IBV0FVX3lxTE0tdjU5V21RYXF2VDg0QUZsRXZSNExyaF9VZVRYWGE2R2p0UUh2NVg2SmdVNlp1eDRxWjMzWllrUWs4ZDhId3c4Z0VpNkQxa25ERnNDZ3N3dw?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Sun, 11 Oct 2026 08:13:32 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
+      "title": "Six Turkish drones cross into Greek airspace over Aegean - The Defence Blog",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXVfVmFNRFhoQzlVZzFxb3N5QWE1SUtIcURkSzRmb1hSai16OWMzNTJ4dmRJbFFlUV9YT29MTVhZMnU2M0U5OTYxSVNVSC1lTkwySDRVX2Z0ZU50WFpORUtKa3ViY3VpMjNWUHFvZHg4QXdreU9RX3FPeXVaZzlPRHJaZGdYSlhDZnfSAY8BQVVfeXFMTlJqdzV0ajF3cklvSzIyQVRtMFZwa1VUNGlQWVhLV096a2R1ckRvYTNvT0pyRFRNYVpiRWdPMENMMGQ2a2xyZEhvNWZhU0hhYzdBdnJiVGhrLVdaekxTTjI5VVU5NmlBdDB6NkY3Y1BYM1VPWjlqM1lnQ3FWeUhSTWJGZ25fYm9hdm1pdGFMZ0k?oc=5",
+      "source": "F35 Drone Navy Watch",
+      "published": "Mon, 12 Oct 2026 12:02:27 GMT",
+      "base_score": 77,
+      "candidate_score": 87,
+      "priority": "High",
       "matched_keywords": [
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "askeri"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "0c0ba89932fab5380786ab8e",
-      "mode": "geopolitico",
-      "title": "India Seeks To Deepen Mediterranean Defence Engagement As Defence Secretary Visits Cyprus And Greece - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQWtkZXZXLUlraGw3cG1Yd1lrOGR4WUtINVUtMHA4VUVUcXZLOEYzcnJRMjBkZHJRQXR6Z3lndm9UWmtxY3BfQVpBZTB3eG96SU9tOHNKNjQ3RTBxTjBpZnRZREpMdWJDWkFid2J2TDVUTjAzVnBJQW4zbm5HOEc5NWV0X0Y5UFZMeElvUy1qUVYxU1Vob0NxbWt2a0otRWp0RHVWa24walVTTnBIeTc2RW54ZkVSeHRCRUpRRFZVLVlLaXF2RXBJQk0tTXBxVTRLVW9Cbm5EeVZzc2J6NW9iQ3hyWWhWTlQ3bjgzXzJ0TdIB9AFBVV95cUxNT3RmellzWmFpSXhId0IyV25CZEhnX3NITkRBa1ZlSHFOTk14a0JYSldRM1lwaEFqQWFXWXY1a0o3N045MTYwRkJiMGw4dE10VkJ2MXB0ZWo5SHFSQkxDRTRkRUtEalZGcEVUSExxWGZuM2JIOUphYkNZaXhra2xxNlg2RkxacDNUZ096dlhxaU9ST0N0bXppbE9ISkdTRF9DN253a2hEQXhpdHVWLWZtcnE2MGNpNEhvYm1DTjE1akpTRVVRbzN2RHNudnRoZ0xYdmRCN0pTZmRfTXF1cElaMUdhN3drWWpydEsyRXZzYlNjWFI5?oc=5",
-      "source": "Greece India Strategic Watch",
-      "published": "Sun, 11 Oct 2026 04:23:38 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "India",
-        "Bharat",
-        "Cyprus",
-        "defence"
+        "Aegean",
+        "Ege",
+        "defence",
+        "drone"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "2055e9b6db20ee55672099b3",
+      "external_id": "241f4826cb6115dc0b3ba538",
       "mode": "geopolitico",
-      "title": "Türkiye’nin F-35 ihtimali Yunanistan’ı karıştırdı! Miçotakis’ten olay sözler: “Trump’ın yakasından tutup...” - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaXpILThpZGVGekx1NlpucXlkMFhrSGZNX3VjYmVWbDhSSzFFZ09nMWg4UFFFTV9ld25aRFZpajVsSjZGSTRhdkduc2lGWmJqUm82MDVXOEJiLUxDMlVMS1NHV0ZEMEViWE5QRFNSZV9UcTJMOVdPTWR6TmpRLWc5MVg4T1BwSXZyVGU2cEpfLUctclo2U2Y0bk1Rbl9TanlEajZRTHpTdV9iN1MxV202X1k1MjN0VkNVZGNXb0tySm1USU1ULUE0REJnaUNGajE3X0l5ZDNxNnZTQlBO0gHfAUFVX3lxTE1UTHZjY1VZRGNiUVhJX0lwbUNwOXZCeldwQzhSQUk1RUp0Z1VCYmgxLUJKZXVnOW5ILXo0c2ktdF9aTmNSUGY3blRscTB0NGRWMng0WE1fbWNkdEdDRjJfd0k2ZHVRSEJQVVpWS0ZpUTkyeFprOUd5bEkxRzFpUkltNWI4NFlLczVLQmhmMTlPXzJjZ2ZnOUJIdEQtZ25IX1EtWGU3dHNDTU9qeE5LUmVGVktic3hXUGZMNHBZUUxobDRrZ2RQakZIQ3Q4R3UzeXg5NXhQb2hYbGFmbjJtV0k?oc=5",
+      "title": "Yunanistan medyasında F-35 menzili üzerinden İstanbul ve Ankara hedef alındı - Yeni Birlik",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHc3SG9JVndpaHFVYzcwbzZiVk1iZnZTbjBZcjNIRWFoQzhZU21qUENIbEhfMUEyUklRUlNzVHZNY09iWnhYekE2ck1PdlNyVC0zNkVtOWg0QmdYWjA5eFBkUUEweE9SeVJ4S3Joek5IbmI3TDl4Z2cyVmxCTThjRmZjRkJlNXBiNF92el9FS0U1bkhhZTJaY0hZTzZmT2RRSGJfMHdPMjFxMXQtUGRfbWxNaDJSWUxra2pz?oc=5",
       "source": "Turkish Greek Defence Watch",
-      "published": "Sun, 11 Oct 2026 03:40:13 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
+      "published": "Sun, 11 Oct 2026 18:58:28 GMT",
+      "base_score": 84,
+      "candidate_score": 87,
+      "priority": "High",
       "matched_keywords": [
         "Yunanistan",
         "F-35",
-        "Miçotakis",
+        "Ankara",
         "F-35"
       ],
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "4de9679e28b46c0fc06e009d",
-      "mode": "geopolitico",
-      "title": "Στρατηγική συμμαχία: Καλώδιο με στήριξη Ρούμπιο και γαλλική φόρμουλα, τι θα γίνει με τη NAVTEX και τα εμπόδια που βάζει η Τουρκία - AegeaNews",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPa3lPbUJHRXVyWlp3ZHRYelNMR0lEOWIxX041Z2Y3UnloZVV1Y3RvMUNQYW9vaXRKZmxnSXNYdWVfRDYzeElZdEk0UEc2VHAzUXBKdVJQVi0tZGtNVjBjWWtqVHBjV2JySzRiTGJ6TG4xWFJIQlRySno3M3YyQ1RzdVBzbVh0UDZ3clpCMUpDWEVMSnZCbDFOZnR0MWpRRzNFVHJTTDlKazFZQm0tRDJPTnVDRzI5MlBSQUpySUxpYWhWQVdJeWdzWDdfbzR5OUZFb2hsYkZTS2FZeUtUVmdZcVhFNlRuTXU5WS0wVGs5b0VJaUNVMWc?oc=5",
-      "source": "Dodecanese Security Migration Watch",
-      "published": "Sun, 11 Oct 2026 17:40:41 GMT",
-      "base_score": 96,
-      "candidate_score": 102,
+      "external_id": "65f1906efb9fd8a571a3f446",
+      "mode": "pontos_voice",
+      "title": "Σύλλογος Ποντίων Μεταμόρφωσης «Ο Εύξεινος Πόντος»: Υποδέχτηκε τα Ιερά Λείψανα των Αγίων Ραφαήλ, Νικολάου και Ειρήνης - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaTI2S01qYlI5cjNUMG1EQVdrVFRDM3hlaGxGLVZoLUlxSFRBZzRLaEpPb0w5bkNqUHF1cjBWblNCbUJIYjZGMGloaGdBX0xJVlFUY3Y4ZHByVm9yT0pLTUktY0dyZFBsNFJtQjZOUnROM3FNLTg1TU1UTk4tcVhCT3lydlo3VVVXNUI1c3dZWGY5c3lmWkY1LTdNek5FRHY4d05KZnlYVm12NS1GYkxQQUxMVFhCeFVydVJIdVRyM3Fjc29VYWktQkVlVkF6S280WGc?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Mon, 12 Oct 2026 18:41:07 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
       "priority": "URGENT",
       "matched_keywords": [
-        "Aegean",
-        "Ege",
-        "NAVTEX"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "3141796716a69e1ae2c3d14d",
-      "mode": "geopolitico",
-      "title": "Iran Remains Active in Southern Syria: Local Networks and an Ongoing Threat to Israel - Alma Research and Education Center",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2djS2dHRmVnQ204dHpMRDdmNUJiaE5FR1JtZTc3WGctc19ZVFpCYXJHVW1YUTg3V3drVEVaUEZlTzBzREEwTjVwSHlldHF3ZHNNclI3dWhsZ1ZJUmktSG42UXBNRXRZdUlrSXlTVVNDNXN1RzM5ekV2OGhzRmtMT2E2VkNwcVEydVhRUEVBLTdEbDVTR2VZRFNKMWhEQnBvdkdYQ21NVWxhU2dTZmc?oc=5",
-      "source": "Alma Research Israel Regional Security Watch",
-      "published": "Sun, 11 Oct 2026 10:34:47 GMT",
-      "base_score": 88,
-      "candidate_score": 91,
-      "priority": "High",
-      "matched_keywords": [
-        "Israel",
-        "Syria",
-        "Iran",
-        "research",
-        "education"
+        "Pontos",
+        "Πόντος",
+        "Σύλλογος Ποντίων",
+        "Εύξεινος Πόντος"
       ],
       "content_type": "news"
     },
@@ -866,10 +1022,10 @@
       "mode": "pontos_voice",
       "title": "Στέλλα Παπαλάμπρου: Η ποντιακή μουσική μπήκε στη ζωή μου σαν ένα βαθύ προσωπικό κάλεσμα - pontosnews.gr",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdTZPUEwzZ3FXaU0yZHp6Nl9KbzFKVW9qN1oxTWw4WUt1VjVWazRhYlYxblgydk56VWRkV1ZwTkVSWnZNa3pjaUNqREg3OEpDRlJaaDR4T2ZJUGJtT3B4akNjSWU2UUk0WWFUVzhGUkJqaWhCaXN5MndDVzAtVnpVMExPa2xQcDlRR24xOVkxcHVoWk0wZ0FkdHlNOTI2NHNQV0E?oc=5",
-      "source": "Pontos News Watch",
+      "source": "Greek Press Pontic Watch",
       "published": "Sun, 11 Oct 2026 17:06:34 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -879,92 +1035,70 @@
       "content_type": "news"
     },
     {
-      "external_id": "3b75836376eb6dd85920d9b8",
+      "external_id": "ce96ee3f6f5b8b19406e5e58",
       "mode": "pontos_voice",
-      "title": "Παναγία Σουμελά Αλεθρικού: Εγκαινιάστηκε σε κλίμα κατάνυξης ο ναός – Η μητέρα των προσφύγων ένωσε τον πόνο Ποντίων και Κυπρίων - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnduZWcwNjVCZFBTeVRMTHZFRTAwWS1LN2tLUklVSUNRMHhxR1FiZEhVMXpzdUloZmRYNWUyWGwtUURpaVlCRWpUNjlreXdLNHZaYlpZR2FwanVWRkk2WExQNmxqdnZlNXRJVVpFT2lIcjBnQXBUVTVaU2owcFllMlNhVHRBUE45MkZTeGt5OWVmRjYwTE9iNlBoNG14VnRWQUZMTEtXZHVGTEk?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Sat, 10 Oct 2026 17:18:52 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
+      "title": "Η Παναγία Σουμελά ένωσε τους Έλληνες της Μόσχας με μνήμη από τον Πόντο - Thita News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3A4SzlQdDdMZ1JTMUhHZFFXR3dGOU14M3NGWVZFcnpXLXpaeG4zTEl0WC1uRjRnTTBTWlYzbVdoMEJqQzcxcGcwbncyb25NeW9uYkdDMmEzeXBFVVJlRFVqZXJQWlloYkRNWWFtR0gyaVFWWk82TjVOb08yWFlnRzlMQjcteEtiVnBrRTZNa0pJZlVYT0JRbHY0OFVXUQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sun, 11 Oct 2026 14:15:30 GMT",
+      "base_score": 86,
+      "candidate_score": 89,
+      "priority": "High",
       "matched_keywords": [
-        "Pontos",
         "Παναγία Σουμελά",
         "Σουμελά"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "60b8d29786d443f1f7f3efa2",
+      "external_id": "963b828beab7c185ec1cf7de",
       "mode": "pontos_voice",
-      "title": "Ποντιακή διάλεκτος: Μπορεί η τεχνολογία να την κρατήσει ζωντανή στις νεότερες γενιές; - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcjZPbzlna2c4NXFBeDFudk1QZ0syRmx2bjFDWkEyX1VmSkdETXpvRFVZVFkyTDd2d3dWQkZKMk9kX3pxTmJMVHF4UW1kb2RlMHotYjZRZ2s5bU9vYXhoVnFIbkJFY0diLUdGd0xibzJEbm10ZmtHM1lqZERXRWIzcEdVMXNHckRPZlhsVUJ4cVRGbmxNcmtiQ0dnZVhoQkJTeEJvTUloRXBueVY2aEJCeFVfNjA?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Sat, 10 Oct 2026 10:32:45 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
+      "title": "Trabzon'da 40 öğrenciye 7'şer bin TL ödül verilecek! Tek şart...",
+      "url": "https://www.61saat.com/trabzonda-40-ogrenciye-7ser-bin-tl-odul-verilecek-tek-sart",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 12 Oct 2026 20:30:00 +0300",
+      "base_score": 52,
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "ποντιακή διάλεκτος"
+        "Trabzon",
+        "kültür",
+        "açıklama",
+        "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "ea2ac77ed9d1df11e03348d5",
+      "external_id": "4a5e56f942900b0c2f52cd9b",
       "mode": "pontos_voice",
-      "title": "Trabzon’da belediye başkanını kınadılar",
-      "url": "https://www.61saat.com/trabzonda-belediye-baskanini-kinadilar",
+      "title": "Trabzon'da 7 kişiye 146 bin TL ceza kesildi",
+      "url": "https://www.61saat.com/trabzonda-7-kisiye-146-bin-tl-ceza-kesildi",
       "source": "61Saat Trabzon",
-      "published": "Mon, 12 Oct 2026 09:54:00 +0300",
-      "base_score": 68,
-      "candidate_score": 83,
-      "priority": "High",
+      "published": "Mon, 12 Oct 2026 21:51:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
-        "açıklama",
-        "tartışma",
         "Trabzon",
         "dil"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "a8b599a41a21c5a6c052f095",
+      "external_id": "07d8e3b21a57b847e8812e66",
       "mode": "pontos_voice",
-      "title": "Uzaydan gelen sinyaller Trabzon'da yakalandı",
-      "url": "https://www.61saat.com/ktulu-ogrenciler-uzaydan-gelen-sinyalleri-yakaladi",
+      "title": "Trabzonlu isme CHP İstanbul'da önemli görev!",
+      "url": "https://www.61saat.com/trabzonlu-isme-chp-istanbulda-onemli-gorev",
       "source": "61Saat Trabzon",
-      "published": "Mon, 12 Oct 2026 10:49:00 +0300",
-      "base_score": 53,
-      "candidate_score": 68,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Of",
-        "Trabzon",
-        "Karadeniz"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "3291e099e3a015640ca2dca9",
-      "mode": "pontos_voice",
-      "title": "Trabzon’a turist akını sürüyor! Bir ülke 400 bini aştı",
-      "url": "https://www.61saat.com/trabzona-turist-akini-suruyor-bir-ulke-400-bini-asti",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 12 Oct 2026 10:24:00 +0300",
-      "base_score": 53,
-      "candidate_score": 68,
+      "published": "Mon, 12 Oct 2026 19:50:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "milletvekili",
-        "Trabzon",
-        "dil"
+        "Trabzon"
       ],
       "content_type": "news"
     }
