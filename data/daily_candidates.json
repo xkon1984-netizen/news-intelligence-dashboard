@@ -1,49 +1,69 @@
 {
-  "generated_at": "2026-10-13T20:46:42.453155+00:00",
+  "generated_at": "2026-10-14T00:01:22.107573+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 12,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "bf6b4e9c4ec5c6870c4fd6c9",
+        "external_id": "864288f677afb7a50abe4a98",
         "mode": "sportdog",
-        "title": "Panathinaikos vs. FK Borac Live Stream of UEFA Conference League - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvWUZicUhoUmxTR1VsOXc2MEFyZmp4TWdFQm5wYVRNRHFDZDdXZm5PXzdqdXVLYVBuZ2tKQnZGMDZhcGs5Mk5laTN0Mkd2YnNMQ3NlWE9BMkJsUk5yVEQ0NElsbTVMa1lwWVJjMjg2UDhfWjFmOVdr?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Tue, 13 Oct 2026 18:17:12 GMT",
+        "title": "Shakhtar Donetsk vs AEK Athens: UEFA Champions League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNbDBXSlgxQll1WktlLXJsVnRrOWhyZlBUZjZSMnZVbmlXcTktekNaRHdNT0tJUTE4TWpzc0NuMGJBekZSNDZ3Y1o4UGNTSnJaMUU2eGZob2pJT0x2b2VXcHZoTQ?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Tue, 13 Oct 2026 22:52:30 GMT",
         "base_score": 50,
         "candidate_score": 73,
         "priority": "High",
         "matched_keywords": [
-          "Panathinaikos",
-          "Conference League"
+          "AEK",
+          "Champions League"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Panathinaikos",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
       {
-        "external_id": "f35cf6679b8560c305e4d21f",
+        "external_id": "ba2d5ee7ed0f9e81da83689b",
         "mode": "sportdog",
-        "title": "Expected goals on target (xGOT) - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW5aRlV6SlZEaVNRZ1ViWmpobWxqN3gwOEZWZncyaFZWYlB5b3Vjc2VXVUxqTkhFcTd4TVQwRG1SWjJhbGMtcnJfbGY4ODVYb2F2RzVvNzhlVkdDMWtGa18tUUlTak56OFk0ejY4UFBJV2lEbFdmZy1Ob1l1NGtVX1pPRDBfNDhmcWticmROQV8zY3RiTVhzdDBMOUYxbVdTa1JRQnR0NENFSWNnaDJoaDMzRQ?oc=5",
+        "title": "Injury Concerns Haunt Marseille Ahead of Olympiacos Clash - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUd6b3ZzYXZicWJWZlA4OGhSYThqNTRrM09GRVhDQ2lPYy12WmNBWUZfaGpaR0NzRlVBVkwydHczenNmcnFBMXFJcTRydjVQa1NXOURLM1JuVUVZOE1nN282cTI2RjF1STBkdnNaQlpGMWpuYjd4NVdsSE8teUZCUFB3UmRYbm1KZWZSUVhKcw?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 13 Oct 2026 07:09:15 GMT",
+        "published": "Tue, 13 Oct 2026 21:44:59 GMT",
+        "base_score": 41,
+        "candidate_score": 73,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "injury"
+        ],
+        "content_type": "news",
+        "editorial_type": "Injury",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "fa9dbcb6f6cc8396cac580c8",
+        "mode": "sportdog",
+        "title": "Clean sheets - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDZSTno4V3ktUEd0YUptVkpvT2d1WmNETkxFZmVRdVk4MHRXbHJCa2VmUl9ya2RsbWVWQ3ppaVZrcGNSNVREWDd4dUV2bXBjSVoyS1kwdlV5RVJoSllqTU9DM0VUV3FmampXZUF2c19FUW5RYVNxaWFEdVl6ZlQ2Q3JmWDBXTGh5RmhUNUdFN1VYZGxoSjBMSkx1Q0Zzb0FHbV94R2lpU2NlbUdHMnc?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Tue, 13 Oct 2026 12:50:42 GMT",
         "base_score": 56,
         "candidate_score": 70,
         "priority": "High",
         "matched_keywords": [
-          "Olympiacos",
+          "PAOK",
           "Super League"
         ],
         "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
+        "editorial_type": "Team News",
+        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -108,32 +128,12 @@
         "needs_second_source": true
       },
       {
-        "external_id": "5cb8d4c0823f09125e561df1",
-        "mode": "sportdog",
-        "title": "Why Shakhtar Donetsk are playing AEK Athens at Chelsea’s Stamford Bridge this week - talkSPORT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVRweUFwUjQtMnA1dWFfUUtDLWlBeHpkYnZzR0FhTmRfMDdGaERIYVc2dS04djg2b2ZLWWYwYXZyRlBKYnluNWRidzFBVjlwcnhQZFZOeGljdF9GZVJjSDZpbzNXakZUcFJ3aWpReXFmeEhVam5CVTBtUVg4ZnF0QVBUTWtPd0hhbUYxeFBLYkUtN3hpMUE?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Tue, 13 Oct 2026 12:48:02 GMT",
-        "base_score": 44,
-        "candidate_score": 62,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "talks"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "54d722efb984d8ce6aa7a637",
         "mode": "sportdog",
         "title": "▶️ Watch Shakhtar Donetsk vs AEK Athens Live Stream | Predictions & Tips - 14 Oct - FootballPredictions.NET",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHpvOXRWbEI3djRDR2pFeGttei0xN1lzaDg3c192NnNUTS1oVmdpQnBHYVJSeHhYTk0tOWpZUHZmUEJDaXNXMjZZc20tNHVOSkp1MjlBYlg1amcwSEg4bHI2am5KWGFqVWZxaE1ZOUh5VUZuWUNTOUZwWnkydWY2cHBZb1hzNlVteGlGaEoxWQ?oc=5",
         "source": "AEK Rumour Watch",
-        "published": "Tue, 13 Oct 2026 13:17:53 GMT",
+        "published": "Tue, 13 Oct 2026 19:55:23 GMT",
         "base_score": 41,
         "candidate_score": 59,
         "priority": "Normal",
@@ -144,6 +144,45 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "5cb8d4c0823f09125e561df1",
+        "mode": "sportdog",
+        "title": "Why Shakhtar Donetsk are playing AEK Athens at Chelsea’s Stamford Bridge this week - talkSPORT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVRweUFwUjQtMnA1dWFfUUtDLWlBeHpkYnZzR0FhTmRfMDdGaERIYVc2dS04djg2b2ZLWWYwYXZyRlBKYnluNWRidzFBVjlwcnhQZFZOeGljdF9GZVJjSDZpbzNXakZUcFJ3aWpReXFmeEhVam5CVTBtUVg4ZnF0QVBUTWtPd0hhbUYxeFBLYkUtN3hpMUE?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Tue, 13 Oct 2026 12:48:02 GMT",
+        "base_score": 44,
+        "candidate_score": 58,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "talks"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "d2797906a2bac4eb1776a9de",
+        "mode": "sportdog",
+        "title": "Panathinaikos outshoot Partizan 72-55 in Euroleague - Sofascore",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVVyc3lSQlR6bURTUkh0cXhERWtzR1V4UE1oMzNkOUt3eFR4cG5RcUlzem4xR0JMZnZBTkswU3doUEtSUVZpTnkzcWlPdnZNSUFQbU5yZEc5aDVBNm16OG9xNFdNUWY2b0dBb2JoUlBiREpBcmF2NEh0dWtRbnUzYzJRWkR1NVU?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Tue, 13 Oct 2026 21:18:42 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -203,25 +242,6 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "a192dcb67b6e7660d0d4cfbb",
-        "mode": "sportdog",
-        "title": "Preview: Shakhtar Donetsk vs AEK Athens - prediction, team news, lineups - Sports Mole",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQzFmWnEybFJqb1VVUmFfRHp2WXR5VWhMajgtOW1zX2hSRnJKUjI5cDdqSUZid055dmV4eDItdHB2c0g5dnRpa2x4V082TE5XWk1FenhHSHR5blJqUDNqVlNtMl9IOFVYenNZajdOOUxnMmYya3FzTGpMMENtcDdxS1htS0JHenZJX0hmdmdZWElMRzUxZ21aNDBZRmxveTllX0tvRktxX1ZHbldtTTY2aXJ2VDlCU3k0d3A1bGM2STNhcWltTHpWYUNsd0YzekVLeTIxNDl4Rnp6NDg?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Mon, 12 Oct 2026 11:28:00 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -233,7 +253,7 @@
         "source": "Middle East Forum Watch",
         "published": "Tue, 13 Oct 2026 20:03:03 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Israel",
@@ -254,7 +274,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Tue, 13 Oct 2026 14:36:49 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -272,7 +292,7 @@
         "source": "Alma Research Israel Regional Security Watch",
         "published": "Tue, 13 Oct 2026 13:15:09 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Israel",
@@ -332,7 +352,7 @@
         "source": "Pakistan Security Watch",
         "published": "Tue, 13 Oct 2026 03:11:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -344,19 +364,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "984abfd974bf6bc78baf10b3",
+        "external_id": "7791fa525f23d2ca588e7c8b",
         "mode": "geopolitico",
-        "title": "Yunanistan: Altı Türk İHA'sı Ege üzerinde hava sahasını ihlal etti - ssbulten.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEdQWnE2cldzX2J2bVhobnhBeGs2OWpFNXRfRkFTN0FkQlZIUFhHdVp2MXkySm9RS2hMY0VabGhkLTZZc2JSMTRPY0E0eGZMazVreUI4cVhacGVjYkVLLXZUdXh3UlRMU0lCZ1ZRSXJSdXV0TEpUVmQtYlpCWkNwME5rTDhkUFFmbE1SQkpoaS11dzA1OGs0Qk5YNHRObVRWWGV1VGc3MUdOT3do?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Mon, 12 Oct 2026 14:54:26 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
+        "title": "Güney Kıbrıs Türkiye'yi AB'ye şikayet edecek: Ankara'nın KKTC'ye boru hattı planı rahatsızlık yarattı - Gazete Oksijen",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2VPZEc3RTVVNnc2RkZ2ZE52X1NaZVZLVU5VWU92a3dFbGNnUFJPYmRBRExvUDlCZ3VGczl6ZWp5bmRnVjBwaFhULXNwWlhIZ2VPb2ZZcnFuMmxkRTZsWWxGMlZBSmpBZDFlT1dQVGVnSVRVZjJRcm5rRU5KR2lIUkp5R3ozQlBpQ0xvOE92cFNKbjlVTE5kekRxb21PNGJJNHNoWU9oSktvY1J5VWFZRkVKZHZGNl85ODBUcXpFSXBZRUhNYnVGM2x6S2l4amJk?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Tue, 13 Oct 2026 23:22:14 GMT",
+        "base_score": 81,
+        "candidate_score": 96,
         "priority": "URGENT",
         "matched_keywords": [
-          "Yunanistan",
-          "Ege",
-          "hava sahası"
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "Ankara"
         ],
         "content_type": "turkey_greece"
       },
@@ -368,7 +388,7 @@
         "source": "Greece Israel Strategic Watch",
         "published": "Tue, 13 Oct 2026 13:17:31 GMT",
         "base_score": 90,
-        "candidate_score": 100,
+        "candidate_score": 96,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -423,29 +443,11 @@
         "source": "Greek Press Pontic Watch",
         "published": "Mon, 12 Oct 2026 15:06:23 GMT",
         "base_score": 69,
-        "candidate_score": 72,
-        "priority": "High",
+        "candidate_score": 69,
+        "priority": "Normal",
         "matched_keywords": [
           "Pontos",
           "ποντιακός"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "e5c60da29da03e4c36557261",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor'da eğlenceli anlar! Cenk Özkacar'a sordular, Salah ve Ronaldo yanıtı dikkat çekti",
-        "url": "https://www.61saat.com/trabzonsporda-eglenceli-anlar-cenk-ozkacara-sordular-salah-ve-ronaldo-yaniti-dikkat-cekti",
-        "source": "61Saat Trabzon",
-        "published": "Tue, 13 Oct 2026 21:00:00 +0300",
-        "base_score": 55,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "Ordu",
-          "anıt",
-          "Trabzon"
         ],
         "content_type": "news"
       },
@@ -457,12 +459,30 @@
         "source": "61Saat Trabzon",
         "published": "Tue, 13 Oct 2026 17:22:00 +0300",
         "base_score": 60,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 66,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "milliyetçi",
           "MHP",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e5c60da29da03e4c36557261",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor'da eğlenceli anlar! Cenk Özkacar'a sordular, Salah ve Ronaldo yanıtı dikkat çekti",
+        "url": "https://www.61saat.com/trabzonsporda-eglenceli-anlar-cenk-ozkacara-sordular-salah-ve-ronaldo-yaniti-dikkat-cekti",
+        "source": "61Saat Trabzon",
+        "published": "Tue, 13 Oct 2026 21:00:00 +0300",
+        "base_score": 55,
+        "candidate_score": 65,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Ordu",
+          "anıt",
           "Trabzon"
         ],
         "content_type": "news"
@@ -475,7 +495,7 @@
         "source": "61Saat Trabzon",
         "published": "Tue, 13 Oct 2026 22:00:00 +0300",
         "base_score": 52,
-        "candidate_score": 67,
+        "candidate_score": 62,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -489,42 +509,62 @@
   },
   "items": [
     {
-      "external_id": "bf6b4e9c4ec5c6870c4fd6c9",
+      "external_id": "864288f677afb7a50abe4a98",
       "mode": "sportdog",
-      "title": "Panathinaikos vs. FK Borac Live Stream of UEFA Conference League - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvWUZicUhoUmxTR1VsOXc2MEFyZmp4TWdFQm5wYVRNRHFDZDdXZm5PXzdqdXVLYVBuZ2tKQnZGMDZhcGs5Mk5laTN0Mkd2YnNMQ3NlWE9BMkJsUk5yVEQ0NElsbTVMa1lwWVJjMjg2UDhfWjFmOVdr?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Tue, 13 Oct 2026 18:17:12 GMT",
+      "title": "Shakhtar Donetsk vs AEK Athens: UEFA Champions League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNbDBXSlgxQll1WktlLXJsVnRrOWhyZlBUZjZSMnZVbmlXcTktekNaRHdNT0tJUTE4TWpzc0NuMGJBekZSNDZ3Y1o4UGNTSnJaMUU2eGZob2pJT0x2b2VXcHZoTQ?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Tue, 13 Oct 2026 22:52:30 GMT",
       "base_score": 50,
       "candidate_score": 73,
       "priority": "High",
       "matched_keywords": [
-        "Panathinaikos",
-        "Conference League"
+        "AEK",
+        "Champions League"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Panathinaikos",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
     {
-      "external_id": "f35cf6679b8560c305e4d21f",
+      "external_id": "ba2d5ee7ed0f9e81da83689b",
       "mode": "sportdog",
-      "title": "Expected goals on target (xGOT) - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW5aRlV6SlZEaVNRZ1ViWmpobWxqN3gwOEZWZncyaFZWYlB5b3Vjc2VXVUxqTkhFcTd4TVQwRG1SWjJhbGMtcnJfbGY4ODVYb2F2RzVvNzhlVkdDMWtGa18tUUlTak56OFk0ejY4UFBJV2lEbFdmZy1Ob1l1NGtVX1pPRDBfNDhmcWticmROQV8zY3RiTVhzdDBMOUYxbVdTa1JRQnR0NENFSWNnaDJoaDMzRQ?oc=5",
+      "title": "Injury Concerns Haunt Marseille Ahead of Olympiacos Clash - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUd6b3ZzYXZicWJWZlA4OGhSYThqNTRrM09GRVhDQ2lPYy12WmNBWUZfaGpaR0NzRlVBVkwydHczenNmcnFBMXFJcTRydjVQa1NXOURLM1JuVUVZOE1nN282cTI2RjF1STBkdnNaQlpGMWpuYjd4NVdsSE8teUZCUFB3UmRYbm1KZWZSUVhKcw?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 13 Oct 2026 07:09:15 GMT",
+      "published": "Tue, 13 Oct 2026 21:44:59 GMT",
+      "base_score": 41,
+      "candidate_score": 73,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "injury"
+      ],
+      "content_type": "news",
+      "editorial_type": "Injury",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "fa9dbcb6f6cc8396cac580c8",
+      "mode": "sportdog",
+      "title": "Clean sheets - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDZSTno4V3ktUEd0YUptVkpvT2d1WmNETkxFZmVRdVk4MHRXbHJCa2VmUl9ya2RsbWVWQ3ppaVZrcGNSNVREWDd4dUV2bXBjSVoyS1kwdlV5RVJoSllqTU9DM0VUV3FmampXZUF2c19FUW5RYVNxaWFEdVl6ZlQ2Q3JmWDBXTGh5RmhUNUdFN1VYZGxoSjBMSkx1Q0Zzb0FHbV94R2lpU2NlbUdHMnc?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Tue, 13 Oct 2026 12:50:42 GMT",
       "base_score": 56,
       "candidate_score": 70,
       "priority": "High",
       "matched_keywords": [
-        "Olympiacos",
+        "PAOK",
         "Super League"
       ],
       "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
+      "editorial_type": "Team News",
+      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -589,32 +629,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "5cb8d4c0823f09125e561df1",
-      "mode": "sportdog",
-      "title": "Why Shakhtar Donetsk are playing AEK Athens at Chelsea’s Stamford Bridge this week - talkSPORT",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVRweUFwUjQtMnA1dWFfUUtDLWlBeHpkYnZzR0FhTmRfMDdGaERIYVc2dS04djg2b2ZLWWYwYXZyRlBKYnluNWRidzFBVjlwcnhQZFZOeGljdF9GZVJjSDZpbzNXakZUcFJ3aWpReXFmeEhVam5CVTBtUVg4ZnF0QVBUTWtPd0hhbUYxeFBLYkUtN3hpMUE?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Tue, 13 Oct 2026 12:48:02 GMT",
-      "base_score": 44,
-      "candidate_score": 62,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "talks"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "54d722efb984d8ce6aa7a637",
       "mode": "sportdog",
       "title": "▶️ Watch Shakhtar Donetsk vs AEK Athens Live Stream | Predictions & Tips - 14 Oct - FootballPredictions.NET",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHpvOXRWbEI3djRDR2pFeGttei0xN1lzaDg3c192NnNUTS1oVmdpQnBHYVJSeHhYTk0tOWpZUHZmUEJDaXNXMjZZc20tNHVOSkp1MjlBYlg1amcwSEg4bHI2am5KWGFqVWZxaE1ZOUh5VUZuWUNTOUZwWnkydWY2cHBZb1hzNlVteGlGaEoxWQ?oc=5",
       "source": "AEK Rumour Watch",
-      "published": "Tue, 13 Oct 2026 13:17:53 GMT",
+      "published": "Tue, 13 Oct 2026 19:55:23 GMT",
       "base_score": 41,
       "candidate_score": 59,
       "priority": "Normal",
@@ -625,6 +645,45 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "5cb8d4c0823f09125e561df1",
+      "mode": "sportdog",
+      "title": "Why Shakhtar Donetsk are playing AEK Athens at Chelsea’s Stamford Bridge this week - talkSPORT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVRweUFwUjQtMnA1dWFfUUtDLWlBeHpkYnZzR0FhTmRfMDdGaERIYVc2dS04djg2b2ZLWWYwYXZyRlBKYnluNWRidzFBVjlwcnhQZFZOeGljdF9GZVJjSDZpbzNXakZUcFJ3aWpReXFmeEhVam5CVTBtUVg4ZnF0QVBUTWtPd0hhbUYxeFBLYkUtN3hpMUE?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Tue, 13 Oct 2026 12:48:02 GMT",
+      "base_score": 44,
+      "candidate_score": 58,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "talks"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "d2797906a2bac4eb1776a9de",
+      "mode": "sportdog",
+      "title": "Panathinaikos outshoot Partizan 72-55 in Euroleague - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVVyc3lSQlR6bURTUkh0cXhERWtzR1V4UE1oMzNkOUt3eFR4cG5RcUlzem4xR0JMZnZBTkswU3doUEtSUVZpTnkzcWlPdnZNSUFQbU5yZEc5aDVBNm16OG9xNFdNUWY2b0dBb2JoUlBiREpBcmF2NEh0dWtRbnUzYzJRWkR1NVU?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Tue, 13 Oct 2026 21:18:42 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -686,25 +745,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "a192dcb67b6e7660d0d4cfbb",
-      "mode": "sportdog",
-      "title": "Preview: Shakhtar Donetsk vs AEK Athens - prediction, team news, lineups - Sports Mole",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQzFmWnEybFJqb1VVUmFfRHp2WXR5VWhMajgtOW1zX2hSRnJKUjI5cDdqSUZid055dmV4eDItdHB2c0g5dnRpa2x4V082TE5XWk1FenhHSHR5blJqUDNqVlNtMl9IOFVYenNZajdOOUxnMmYya3FzTGpMMENtcDdxS1htS0JHenZJX0hmdmdZWElMRzUxZ21aNDBZRmxveTllX0tvRktxX1ZHbldtTTY2aXJ2VDlCU3k0d3A1bGM2STNhcWltTHpWYUNsd0YzekVLeTIxNDl4Rnp6NDg?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Mon, 12 Oct 2026 11:28:00 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "62db8ea9be9b1c4084ec799a",
       "mode": "geopolitico",
       "title": "Morocco Turns Israeli Weapons Technology Into Defense Industry as Algeria Watches - Middle East Forum",
@@ -712,7 +752,7 @@
       "source": "Middle East Forum Watch",
       "published": "Tue, 13 Oct 2026 20:03:03 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Israel",
@@ -733,7 +773,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Tue, 13 Oct 2026 14:36:49 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -751,7 +791,7 @@
       "source": "Alma Research Israel Regional Security Watch",
       "published": "Tue, 13 Oct 2026 13:15:09 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Israel",
@@ -811,7 +851,7 @@
       "source": "Pakistan Security Watch",
       "published": "Tue, 13 Oct 2026 03:11:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -823,19 +863,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "984abfd974bf6bc78baf10b3",
+      "external_id": "7791fa525f23d2ca588e7c8b",
       "mode": "geopolitico",
-      "title": "Yunanistan: Altı Türk İHA'sı Ege üzerinde hava sahasını ihlal etti - ssbulten.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEdQWnE2cldzX2J2bVhobnhBeGs2OWpFNXRfRkFTN0FkQlZIUFhHdVp2MXkySm9RS2hMY0VabGhkLTZZc2JSMTRPY0E0eGZMazVreUI4cVhacGVjYkVLLXZUdXh3UlRMU0lCZ1ZRSXJSdXV0TEpUVmQtYlpCWkNwME5rTDhkUFFmbE1SQkpoaS11dzA1OGs0Qk5YNHRObVRWWGV1VGc3MUdOT3do?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Mon, 12 Oct 2026 14:54:26 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
+      "title": "Güney Kıbrıs Türkiye'yi AB'ye şikayet edecek: Ankara'nın KKTC'ye boru hattı planı rahatsızlık yarattı - Gazete Oksijen",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2VPZEc3RTVVNnc2RkZ2ZE52X1NaZVZLVU5VWU92a3dFbGNnUFJPYmRBRExvUDlCZ3VGczl6ZWp5bmRnVjBwaFhULXNwWlhIZ2VPb2ZZcnFuMmxkRTZsWWxGMlZBSmpBZDFlT1dQVGVnSVRVZjJRcm5rRU5KR2lIUkp5R3ozQlBpQ0xvOE92cFNKbjlVTE5kekRxb21PNGJJNHNoWU9oSktvY1J5VWFZRkVKZHZGNl85ODBUcXpFSXBZRUhNYnVGM2x6S2l4amJk?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Tue, 13 Oct 2026 23:22:14 GMT",
+      "base_score": 81,
+      "candidate_score": 96,
       "priority": "URGENT",
       "matched_keywords": [
-        "Yunanistan",
-        "Ege",
-        "hava sahası"
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "Ankara"
       ],
       "content_type": "turkey_greece"
     },
@@ -847,7 +887,7 @@
       "source": "Greece Israel Strategic Watch",
       "published": "Tue, 13 Oct 2026 13:17:31 GMT",
       "base_score": 90,
-      "candidate_score": 100,
+      "candidate_score": 96,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -900,29 +940,11 @@
       "source": "Greek Press Pontic Watch",
       "published": "Mon, 12 Oct 2026 15:06:23 GMT",
       "base_score": 69,
-      "candidate_score": 72,
-      "priority": "High",
+      "candidate_score": 69,
+      "priority": "Normal",
       "matched_keywords": [
         "Pontos",
         "ποντιακός"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "e5c60da29da03e4c36557261",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor'da eğlenceli anlar! Cenk Özkacar'a sordular, Salah ve Ronaldo yanıtı dikkat çekti",
-      "url": "https://www.61saat.com/trabzonsporda-eglenceli-anlar-cenk-ozkacara-sordular-salah-ve-ronaldo-yaniti-dikkat-cekti",
-      "source": "61Saat Trabzon",
-      "published": "Tue, 13 Oct 2026 21:00:00 +0300",
-      "base_score": 55,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "Ordu",
-        "anıt",
-        "Trabzon"
       ],
       "content_type": "news"
     },
@@ -934,12 +956,30 @@
       "source": "61Saat Trabzon",
       "published": "Tue, 13 Oct 2026 17:22:00 +0300",
       "base_score": 60,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 66,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "milliyetçi",
         "MHP",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e5c60da29da03e4c36557261",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor'da eğlenceli anlar! Cenk Özkacar'a sordular, Salah ve Ronaldo yanıtı dikkat çekti",
+      "url": "https://www.61saat.com/trabzonsporda-eglenceli-anlar-cenk-ozkacara-sordular-salah-ve-ronaldo-yaniti-dikkat-cekti",
+      "source": "61Saat Trabzon",
+      "published": "Tue, 13 Oct 2026 21:00:00 +0300",
+      "base_score": 55,
+      "candidate_score": 65,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Ordu",
+        "anıt",
         "Trabzon"
       ],
       "content_type": "news"
@@ -952,7 +992,7 @@
       "source": "61Saat Trabzon",
       "published": "Tue, 13 Oct 2026 22:00:00 +0300",
       "base_score": 52,
-      "candidate_score": 67,
+      "candidate_score": 62,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
