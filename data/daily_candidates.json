@@ -1,29 +1,70 @@
 {
-  "generated_at": "2026-10-14T09:49:48.594921+00:00",
+  "generated_at": "2026-10-14T14:45:26.071598+00:00",
   "counts": {
-    "sportdog": 12,
+    "sportdog": 15,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "bf6b4e9c4ec5c6870c4fd6c9",
+        "external_id": "37e8d12c29d1b0ae3f7ed9ef",
         "mode": "sportdog",
-        "title": "Panathinaikos vs. FK Borac Live Stream of UEFA Conference League - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvWUZicUhoUmxTR1VsOXc2MEFyZmp4TWdFQm5wYVRNRHFDZDdXZm5PXzdqdXVLYVBuZ2tKQnZGMDZhcGs5Mk5laTN0Mkd2YnNMQ3NlWE9BMkJsUk5yVEQ0NElsbTVMa1lwWVJjMjg2UDhfWjFmOVdr?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 14 Oct 2026 07:28:45 GMT",
-        "base_score": 50,
-        "candidate_score": 73,
+        "title": "Hoffenheim targets Olympiacos defender Panagiotis Retsos - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDVqNTRfQUM3QXY3NVl5WVE4bjZGMWJsOGNldW9obEtuQi12dHNHUEI3MVZaZEU1SElvc2ZXZTJ5c1J4Q3lKdm1NY05VcUZkcDVqR2pmdWk0YTVQYllwZnVwRTBUN2hlWFV3akRkUzZOdTlIT1F0SkR5ZnRMX0o0T1VoSUE4dkJXVlVCcWc1cWZMOFpSd3E0?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Tue, 13 Oct 2026 12:05:00 GMT",
+        "base_score": 66,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
-          "Panathinaikos",
-          "Conference League"
+          "Olympiacos",
+          "transfer",
+          "defender"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
+        "external_id": "7d8986bccc67aa81ae301533",
+        "mode": "sportdog",
+        "title": "Kenneth Vargas Transfer from Hearts to AEK Athens - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWldJQUlQQXJLS3dFWGxxR1NnYlVUeUlOYVhzT0hjQjF1dVNMQV90MjE5U1VqREVkVE14N185bFo5eHpTZjBGRDVOOWk0TG9BdkRmTEs5OEcyR3d2d0ZmTGVKdmhrX0t5MFRIWnYwQjNtdHJXMGtNWWR5aHFsWDJkb3k3LWR4ZlU?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Tue, 13 Oct 2026 18:07:41 GMT",
+        "base_score": 58,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "864288f677afb7a50abe4a98",
+        "mode": "sportdog",
+        "title": "Shakhtar Donetsk vs AEK Athens: UEFA Champions League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNbDBXSlgxQll1WktlLXJsVnRrOWhyZlBUZjZSMnZVbmlXcTktekNaRHdNT0tJUTE4TWpzc0NuMGJBekZSNDZ3Y1o4UGNTSnJaMUU2eGZob2pJT0x2b2VXcHZoTQ?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Wed, 14 Oct 2026 08:51:05 GMT",
+        "base_score": 50,
+        "candidate_score": 68,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Panathinaikos",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -68,66 +109,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "f35cf6679b8560c305e4d21f",
-        "mode": "sportdog",
-        "title": "Expected goals on target (xGOT) - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW5aRlV6SlZEaVNRZ1ViWmpobWxqN3gwOEZWZncyaFZWYlB5b3Vjc2VXVUxqTkhFcTd4TVQwRG1SWjJhbGMtcnJfbGY4ODVYb2F2RzVvNzhlVkdDMWtGa18tUUlTak56OFk0ejY4UFBJV2lEbFdmZy1Ob1l1NGtVX1pPRDBfNDhmcWticmROQV8zY3RiTVhzdDBMOUYxbVdTa1JRQnR0NENFSWNnaDJoaDMzRQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 13 Oct 2026 07:09:15 GMT",
-        "base_score": 56,
-        "candidate_score": 67,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "92b238d595df1a0d093bf3d7",
-        "mode": "sportdog",
-        "title": "Save percentage - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1ZBNnVMakE0NEFIYzh5cFdKaHh4bkRSdFNQMUF1cmxESldVTzdTQm5zcEVwVTc0aEJyampyWk5UZTRUNjJJT0JUYVdyMXpjdVpzVGgtVExxWW5DSkxibWJvQU00cU5LdkM4SVlhMmxWMS1LVGZYdFd5UDA3QURjUEZLYjhXV0hwWFJvdHg1Q3Nwb2g1Qy1JODZmVFpxa3F5d1Y3T2VfUmZBaGs?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Tue, 13 Oct 2026 06:16:39 GMT",
-        "base_score": 56,
-        "candidate_score": 67,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "864288f677afb7a50abe4a98",
-        "mode": "sportdog",
-        "title": "Shakhtar Donetsk vs AEK Athens: UEFA Champions League stats & head-to-head - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNbDBXSlgxQll1WktlLXJsVnRrOWhyZlBUZjZSMnZVbmlXcTktekNaRHdNT0tJUTE4TWpzc0NuMGJBekZSNDZ3Y1o4UGNTSnJaMUU2eGZob2pJT0x2b2VXcHZoTQ?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Tue, 13 Oct 2026 23:01:05 GMT",
-        "base_score": 50,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "Champions League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "ba2d5ee7ed0f9e81da83689b",
         "mode": "sportdog",
         "title": "Injury Concerns Haunt Marseille Ahead of Olympiacos Clash - Yahoo Sports",
@@ -148,6 +129,46 @@
         "needs_second_source": true
       },
       {
+        "external_id": "f35cf6679b8560c305e4d21f",
+        "mode": "sportdog",
+        "title": "Expected goals on target (xGOT) - Olympiacos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW5aRlV6SlZEaVNRZ1ViWmpobWxqN3gwOEZWZncyaFZWYlB5b3Vjc2VXVUxqTkhFcTd4TVQwRG1SWjJhbGMtcnJfbGY4ODVYb2F2RzVvNzhlVkdDMWtGa18tUUlTak56OFk0ejY4UFBJV2lEbFdmZy1Ob1l1NGtVX1pPRDBfNDhmcWticmROQV8zY3RiTVhzdDBMOUYxbVdTa1JRQnR0NENFSWNnaDJoaDMzRQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Tue, 13 Oct 2026 07:09:15 GMT",
+        "base_score": 56,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "92b238d595df1a0d093bf3d7",
+        "mode": "sportdog",
+        "title": "Save percentage - AEK Athens stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1ZBNnVMakE0NEFIYzh5cFdKaHh4bkRSdFNQMUF1cmxESldVTzdTQm5zcEVwVTc0aEJyampyWk5UZTRUNjJJT0JUYVdyMXpjdVpzVGgtVExxWW5DSkxibWJvQU00cU5LdkM4SVlhMmxWMS1LVGZYdFd5UDA3QURjUEZLYjhXV0hwWFJvdHg1Q3Nwb2g1Qy1JODZmVFpxa3F5d1Y3T2VfUmZBaGs?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Tue, 13 Oct 2026 06:16:39 GMT",
+        "base_score": 56,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "deec5200649e26823a5a76dc",
         "mode": "sportdog",
         "title": "▶️ Watch PAOK vs Iraklis Live Stream | Predictions & Tips - 18 Oct - FootballPredictions.NET",
@@ -155,7 +176,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Wed, 14 Oct 2026 05:44:24 GMT",
         "base_score": 41,
-        "candidate_score": 59,
+        "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -164,26 +185,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "54d722efb984d8ce6aa7a637",
-        "mode": "sportdog",
-        "title": "▶️ Watch Shakhtar Donetsk vs AEK Athens Live Stream | Predictions & Tips - 14 Oct - FootballPredictions.NET",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHpvOXRWbEI3djRDR2pFeGttei0xN1lzaDg3c192NnNUTS1oVmdpQnBHYVJSeHhYTk0tOWpZUHZmUEJDaXNXMjZZc20tNHVOSkp1MjlBYlg1amcwSEg4bHI2am5KWGFqVWZxaE1ZOUh5VUZuWUNTOUZwWnkydWY2cHBZb1hzNlVteGlGaEoxWQ?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Wed, 14 Oct 2026 04:45:32 GMT",
-        "base_score": 41,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "football"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -208,12 +209,88 @@
         "needs_second_source": true
       },
       {
-        "external_id": "2974822167da4d46d003b451",
+        "external_id": "7e51486e8785106b44c7e91f",
         "mode": "sportdog",
-        "title": "Marseille vs Olympiacos Prediction, Betting Tips, Lineups & Odds | 15 Oct 2026 - Sportsgambler",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0hleE9URVZ0dHR2aERpdXBPVEFoeV8ydDBsaHBMSEg5a1lDMW5ZQ08zazVNMzkxeEtKWXZfbXVQNnQzMjM5cXdTcElXT3VYd3JFTk1ySXhzMnI1NWFFVFNmX2gtcFF5eV91c0ZZdmdTa2FYUVg1Vjk4OHY5bkdDbUpoNjU5UjJJSS1YdXloQ0FVNXB3UWRhcF9mS19ZaDluYjhtcktYUmgwM25ydVpxUw?oc=5",
+        "title": "Anthony Goldwire vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTAzNDNkeFhMN1h3S3JJSTlWUldVdHhibE9WSmlwS1Zzc190QnZ6VWdYX1lKRnYwSUs1RndaTy1sUUlYNVhHYlROa3NlbzNOZnh5NzNGTERZa0dReXR6MGxacHBDQnl3dDdxbFBNT2J4S25IaDMtNGlGRWh2WFptOVA2Vl8xOEdyUVlfYWlpUmJuS1AzeUNoa1dwVQ?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 14 Oct 2026 11:43:29 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "fe109210d9e42cc7ba02d92e",
+        "mode": "sportdog",
+        "title": "Pierric Poupet vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2FPMHVMM2tPeE9vZG52NjRndWVBOE5tRXZPN1lTaDcyOHFGWVVKdVdxbGVOUldtTlNwQUxkc3A0MDJMcmFHc1dxR2ZZUjN5ZFlMV3JtekZ6cEE2YklDYTRmek1uLWdEb2dUVlhKN0c4ZFRVVXlfczQyY2wyQ1RjTl9xWmJic0VTZXhUTDNEM1Z4eTE4bDYzZXl0THZyX1pB?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 14 Oct 2026 11:25:26 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "640fe672806dd8e2c4029ab3",
+        "mode": "sportdog",
+        "title": "Julian Gamble vs PAOK mateco: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnBvU0o1YVVVamp0OHdjUlJkWkU2WnluRm1URFFjY0h0RWd6SGY5UkRQVWtjaWx1NHdtRnpXUEc1dUQ1R2xJNkRUTXdsRmE0N0hYQkxpc0N6WHU0X3pyTC1EdnVwNk5hZjN4STdiNWZHVG45bTlfa0w0bmg4MmoyZWIzb0ZpU2ZjcmJYYTV3?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Wed, 14 Oct 2026 11:09:28 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "060c46a5354daba4cf97abcf",
+        "mode": "sportdog",
+        "title": "Eduardo Cota vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXktTXlkdHFhNFRUYVh2RGtmQmk4TGI4bW16R3FnTlN3UF9VYU5TMDdoSTd5R3lqN1lRNXZ4QkhhRUJJblRTV2tab2xnMFFXZDFaTGFNbm1CTnRpTHdXNndnZGNRYnVJai1DOTVJNDg1eTdleGJMYVJoaUYyY3RxeTRhQXdXd1JKM3c4elFmdDVwMzMxRy1QS3VZN1g?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 14 Oct 2026 11:05:09 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "276bccd2e71588ec373d78d0",
+        "mode": "sportdog",
+        "title": "Michael Andersen vs Olympiacos Piraeus: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWNYTnBXSmV2anVrNzBRVVVOR0QwNjU5b3JnT3kwZHdXUy1ITFFJY0FwMzFmYUhRdmxXeTVHRHphQTBNanJMU0hoZFAtckhGenVHOGlQTXp5V3NMbHFnRUgzRlp3OERFZkdxTkFobVdKR0hxenRHLTRkbl8xNEtmNEV4Rk1hbnRzMnM5NkpnVHc3ekhXQ3FCRA?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 14 Oct 2026 02:27:24 GMT",
+        "published": "Wed, 14 Oct 2026 11:03:40 GMT",
         "base_score": 31,
         "candidate_score": 49,
         "priority": "Normal",
@@ -221,32 +298,32 @@
           "Olympiacos"
         ],
         "content_type": "news",
-        "editorial_type": "Team News",
+        "editorial_type": "Match / Analysis",
         "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "d2797906a2bac4eb1776a9de",
-        "mode": "sportdog",
-        "title": "Panathinaikos outshoot Partizan 72-55 in Euroleague - Sofascore",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVVyc3lSQlR6bURTUkh0cXhERWtzR1V4UE1oMzNkOUt3eFR4cG5RcUlzem4xR0JMZnZBTkswU3doUEtSUVZpTnkzcWlPdnZNSUFQbU5yZEc5aDVBNm16OG9xNFdNUWY2b0dBb2JoUlBiREpBcmF2NEh0dWtRbnUzYzJRWkR1NVU?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Tue, 13 Oct 2026 21:18:42 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "08811c75d7c9935bf4c3aeea",
+        "mode": "geopolitico",
+        "title": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar addressed the ISSI International Conference on “Pakistan’s Evolving Counterterrorism Landscape: TTP, Cross-Border Threats and Regional Security” in Islamabad today. - Ministry of Foreign Affairs",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQNEZHTk02NUk1bkd4RGpTNnJFRDN3QjI0bEY2WDFfVU9iMjNwa2lKcTl3YnNndmtvazNyVE1RdTlfZVgtYzZhNFF1X3JWMWpiQjF1UEdyNWRwZWtjdzRVZV9Vd2wwb0pmSnRvdy04bzlqY3ZmMEJzUTdWQ01xS3RlWG9zRzhJNWtuT0g1QVp2cHBBb0llaWdrcW1GNGZOWDhPNkVZRktSOHNLd3ZPdFJBN05oRE01VzBIWTVVRklEZ3c1V2xwNnFuOURJQlFYb3NMNVNHblRPRGlaSE54S2VvNDNfMHRmRmFHRm9DNW5STVdNYjRjOEE1N2JZdWM3X2l5NEVlcmRzNFIzS0xJYlFISVRSU3dQZXJUSHIxUkkxMEY4bThrMURiTUlFTkdQdnpPT0F4MnlzM0t6OGtPcWhYSUNKQnpTZm9ybDM0QTVFV1dyaXpHcXAzLWhpNml2MWxBWlpfdlZXUQ?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Wed, 14 Oct 2026 10:52:35 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pakistan",
+          "Islamabad",
+          "TTP",
+          "terrorism",
+          "counterterrorism"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "30871415d3ae4682966755e4",
         "mode": "geopolitico",
@@ -255,7 +332,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Wed, 14 Oct 2026 05:32:27 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -272,7 +349,7 @@
         "source": "Middle East Forum Watch",
         "published": "Tue, 13 Oct 2026 20:03:03 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Israel",
@@ -290,7 +367,7 @@
         "mode": "geopolitico",
         "title": "Türkiye’nin Karşı Kıyısında İsrail’in Yunanistan ve Güney Kıbrıs’taki Askeri Ağı - Fokus+",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTQ2dlZrQnRaTEZHMDh5Q0dtSEZGX0JsWGV3RHJocHFTMjVsVUZqbDRrS3dwWHA2Z2diYmpFX0hmMWJNS2tyLURvQ19SQVlZYmFDblhqN3cyNUNZZW1PMEJFWEh5WVVrdGhlTHBtLWo1QkdSQWRlMXlHNW0tUWJPdXN6bENYUzZTQ0lwMHlLc19pMGxyTnZvUWtzTFFiUEUwSEpsTm1HLU1fOVJtQldqNGFoSDR1MU8w?oc=5",
-        "source": "Turkey Greece Breaking Watch",
+        "source": "Turkish Greek Defence Watch",
         "published": "Tue, 13 Oct 2026 14:36:49 GMT",
         "base_score": 100,
         "candidate_score": 103,
@@ -345,42 +422,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "576968571deb9da5af167553",
-        "mode": "geopolitico",
-        "title": "Press Release – International Conference ‘Pakistan’s Evolving Counterterrorism Landscape: TTP, Cross-Border Threats and Regional Security’ - Institute of Strategic Studies Islamabad (ISSI)",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ2FzWllFZGtlU3AxS04zcU8wLXJ4S0JmanBhN002dmFHTHJmUGJPazRWZVYyamJBNFp0U2NkZEZPSk9PVUd4UUhJeTBMSkMtMHpuR0dSMjYxUUlhMWt5a1kwcHktWVlzX1JWdnVZbVk4UUhVR1JMcXJrcWJhVVVlQUh4Zi1tZHRIZzk0anFORF9vYy1BcWlqUUJlR2pNX1Jnc0xfYjJDN1lONHNjSENZaGhIbWFEY3N2aVpWeVpMaVFWMGxhR19oZFRNc3o4WDFmR21hbnZ4R2RPTm9acURtTkRFX0FKcWM?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Tue, 13 Oct 2026 10:39:37 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pakistan",
-          "Islamabad",
-          "TTP",
-          "terrorism",
-          "counterterrorism"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "7791fa525f23d2ca588e7c8b",
-        "mode": "geopolitico",
-        "title": "Güney Kıbrıs Türkiye'yi AB'ye şikayet edecek: Ankara'nın KKTC'ye boru hattı planı rahatsızlık yarattı - Gazete Oksijen",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2VPZEc3RTVVNnc2RkZ2ZE52X1NaZVZLVU5VWU92a3dFbGNnUFJPYmRBRExvUDlCZ3VGczl6ZWp5bmRnVjBwaFhULXNwWlhIZ2VPb2ZZcnFuMmxkRTZsWWxGMlZBSmpBZDFlT1dQVGVnSVRVZjJRcm5rRU5KR2lIUkp5R3ozQlBpQ0xvOE92cFNKbjlVTE5kekRxb21PNGJJNHNoWU9oSktvY1J5VWFZRkVKZHZGNl85ODBUcXpFSXBZRUhNYnVGM2x6S2l4amJk?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 14 Oct 2026 08:34:45 GMT",
-        "base_score": 81,
-        "candidate_score": 96,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "Ankara"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "9096ca094ffcb34532561a62",
         "mode": "geopolitico",
         "title": "China-Pakistan Military-Strategic Collusion: Capabilities, Functions, and Implications for India - orfonline.org",
@@ -396,9 +437,44 @@
           "China"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "59ee20c971a252d0310e0467",
+        "mode": "geopolitico",
+        "title": "Israel and Greece are expanding their military cooperation. The benefits for each country differ - Defence24.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT0x1VjA3Q1V6Z2xIZHBOVzBGekQ1VUtJVk40Um5ZNWk1TUpxQmZCb185VnRWeWUxazFEc2dXQUF6SmpKM1ZHSm1RcEQ2TXp6T1Z1RFZJdWlKNmx3NmFNVTY3SVRDNndlTVBhLS13NlZSUlh3ZkVyd0VZdm5zbkZnWlZ1dFlRcFdVNmN6dEY3NnlKN1QwNktWNGU5YzFKQUhSQjBQX2ExQlZWN0pXX2FlYWpaNER2QVJoMHZ6OXV6THJuN3pQSVB6Ng?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Tue, 13 Oct 2026 13:17:31 GMT",
+        "base_score": 90,
+        "candidate_score": 93,
+        "priority": "High",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "defence",
+          "military cooperation"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "39b4793e065d33302f06a1ae",
+        "mode": "pontos_voice",
+        "title": "Παναγία Σουμελά: Η Τραπεζούντα ζητά επιστροφή κειμηλίων - Μεταφέρθηκαν το 1925 - Sigmalive",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSjNjMWtXbWV5cEtJcXRibGN4MmxBWFJwY3NOd194eDFMbkVheWhPcVRNQ1N0WHZreVc3dTJpdWY5TlI1OEppR3I3OUNMTFhzY2xKT1NncVRxZ1A0T1lWcVVzNWhWbDkyX3QxMWV6bkhPYkZzb1lFbk5uWmtseVlUQVdkQzFCZi1uazdZa2dJbUxYZHE3SnEyR1hZY3NyVi03R05QNjZvSUwwek85dnY5aEVKVHlrdXloT2w4MFdFVGdKcXBiNUFGcnF3?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Wed, 14 Oct 2026 14:32:48 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Παναγία Σουμελά",
+          "Σουμελά",
+          "Τραπεζούντα"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "2847e1aa2099a31f2a5dc8bd",
         "mode": "pontos_voice",
@@ -407,7 +483,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Tue, 13 Oct 2026 17:45:02 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -435,74 +511,54 @@
         "content_type": "news"
       },
       {
-        "external_id": "5def7bf8f78d75cf5e975e3f",
+        "external_id": "7b837f3de8dfd67e53fc3152",
         "mode": "pontos_voice",
-        "title": "Prof. Dr. Sonay Çevik, Trabzon’un kayıp sokaklarını anlattı",
-        "url": "https://www.61saat.com/prof-dr-sonay-cevik-trabzonun-kayip-sokaklarini-anlatti",
+        "title": "Trabzon'da dolmuş zammının perde arkası! “55 lira istediler...”",
+        "url": "https://www.61saat.com/trabzonda-dolmus-zamminin-perde-arkasi-55-lira-istediler",
         "source": "61Saat Trabzon",
-        "published": "Wed, 14 Oct 2026 10:09:00 +0300",
-        "base_score": 64,
-        "candidate_score": 79,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "kültür",
-          "müze",
-          "Of",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "69cffed6317a5c481fc2aff2",
-        "mode": "pontos_voice",
-        "title": "Trabzon’da uzay mesaisi! Öğrenciler ISS yayınlarını çözdü",
-        "url": "https://www.61saat.com/trabzonda-uzay-mesaisi-ogrenciler-iss-yayinlarini-cozdu",
-        "source": "61Saat Trabzon",
-        "published": "Wed, 14 Oct 2026 12:07:00 +0300",
+        "published": "Wed, 14 Oct 2026 15:21:00 +0300",
         "base_score": 53,
         "candidate_score": 68,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
+          "belediye başkanı",
           "Trabzon",
-          "Karadeniz"
+          "dil"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "7498a4ed905ed2042b5acf99",
+        "external_id": "23da0fe06f3482ab128d0a0d",
         "mode": "pontos_voice",
-        "title": "Trabzonspor’a iki ayrı sevk",
-        "url": "https://www.61saat.com/trabzonspora-iki-ayri-sevk",
+        "title": "Trabzon'da ulaşım zammına Zorlu'dan tepki! “Bunu halka yansıtmak zorunda mıyız?”",
+        "url": "https://www.61saat.com/trabzonda-ulasim-zammina-zorludan-tepki-bunu-halka-yansitmak-zorunda-miyiz",
         "source": "61Saat Trabzon",
-        "published": "Wed, 14 Oct 2026 11:54:00 +0300",
-        "base_score": 51,
-        "candidate_score": 66,
+        "published": "Wed, 14 Oct 2026 15:51:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
-          "Trabzon",
-          "dil"
+          "tepki",
+          "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "b46f923d802d2fe5845e334e",
+        "external_id": "a3e2e5d9b33b56dcccbd083a",
         "mode": "pontos_voice",
-        "title": "Trabzonspor PFDK’ya sevk edildi! İki maddeden PFDK'ya - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2VHbjd5Qy03Vk9Ib2drS2ppZmlVQ1RsS1JlUFVIaUtZMVRFQ3dXUVpOTkMtRjVWVHE0X3FWejlkUk1yTkhJdV9IZVk4akZvajV5MGtud3lWWnNsaFZNWVRmSHBldGJkNXpFaHNiRndkY0QzSFZnZkpKaVRVTmQ0TnlzSUdNb2xKamNqdHMwOHUwbDVrWjdWTkNmaw?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Wed, 14 Oct 2026 08:29:14 GMT",
-        "base_score": 42,
-        "candidate_score": 57,
+        "title": "İYİ Parti lideri Trabzon’a geliyor",
+        "url": "https://www.61saat.com/iyi-parti-lideri-trabzona-geliyor",
+        "source": "61Saat Trabzon",
+        "published": "Wed, 14 Oct 2026 15:37:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "dil"
+          "milletvekili",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -510,22 +566,63 @@
   },
   "items": [
     {
-      "external_id": "bf6b4e9c4ec5c6870c4fd6c9",
+      "external_id": "37e8d12c29d1b0ae3f7ed9ef",
       "mode": "sportdog",
-      "title": "Panathinaikos vs. FK Borac Live Stream of UEFA Conference League - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvWUZicUhoUmxTR1VsOXc2MEFyZmp4TWdFQm5wYVRNRHFDZDdXZm5PXzdqdXVLYVBuZ2tKQnZGMDZhcGs5Mk5laTN0Mkd2YnNMQ3NlWE9BMkJsUk5yVEQ0NElsbTVMa1lwWVJjMjg2UDhfWjFmOVdr?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 14 Oct 2026 07:28:45 GMT",
-      "base_score": 50,
-      "candidate_score": 73,
+      "title": "Hoffenheim targets Olympiacos defender Panagiotis Retsos - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDVqNTRfQUM3QXY3NVl5WVE4bjZGMWJsOGNldW9obEtuQi12dHNHUEI3MVZaZEU1SElvc2ZXZTJ5c1J4Q3lKdm1NY05VcUZkcDVqR2pmdWk0YTVQYllwZnVwRTBUN2hlWFV3akRkUzZOdTlIT1F0SkR5ZnRMX0o0T1VoSUE4dkJXVlVCcWc1cWZMOFpSd3E0?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Tue, 13 Oct 2026 12:05:00 GMT",
+      "base_score": 66,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
-        "Panathinaikos",
-        "Conference League"
+        "Olympiacos",
+        "transfer",
+        "defender"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
+      "external_id": "7d8986bccc67aa81ae301533",
+      "mode": "sportdog",
+      "title": "Kenneth Vargas Transfer from Hearts to AEK Athens - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWldJQUlQQXJLS3dFWGxxR1NnYlVUeUlOYVhzT0hjQjF1dVNMQV90MjE5U1VqREVkVE14N185bFo5eHpTZjBGRDVOOWk0TG9BdkRmTEs5OEcyR3d2d0ZmTGVKdmhrX0t5MFRIWnYwQjNtdHJXMGtNWWR5aHFsWDJkb3k3LWR4ZlU?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Tue, 13 Oct 2026 18:07:41 GMT",
+      "base_score": 58,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "864288f677afb7a50abe4a98",
+      "mode": "sportdog",
+      "title": "Shakhtar Donetsk vs AEK Athens: UEFA Champions League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNbDBXSlgxQll1WktlLXJsVnRrOWhyZlBUZjZSMnZVbmlXcTktekNaRHdNT0tJUTE4TWpzc0NuMGJBekZSNDZ3Y1o4UGNTSnJaMUU2eGZob2pJT0x2b2VXcHZoTQ?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Wed, 14 Oct 2026 08:51:05 GMT",
+      "base_score": 50,
+      "candidate_score": 68,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Panathinaikos",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -570,66 +667,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f35cf6679b8560c305e4d21f",
-      "mode": "sportdog",
-      "title": "Expected goals on target (xGOT) - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW5aRlV6SlZEaVNRZ1ViWmpobWxqN3gwOEZWZncyaFZWYlB5b3Vjc2VXVUxqTkhFcTd4TVQwRG1SWjJhbGMtcnJfbGY4ODVYb2F2RzVvNzhlVkdDMWtGa18tUUlTak56OFk0ejY4UFBJV2lEbFdmZy1Ob1l1NGtVX1pPRDBfNDhmcWticmROQV8zY3RiTVhzdDBMOUYxbVdTa1JRQnR0NENFSWNnaDJoaDMzRQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 13 Oct 2026 07:09:15 GMT",
-      "base_score": 56,
-      "candidate_score": 67,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "92b238d595df1a0d093bf3d7",
-      "mode": "sportdog",
-      "title": "Save percentage - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1ZBNnVMakE0NEFIYzh5cFdKaHh4bkRSdFNQMUF1cmxESldVTzdTQm5zcEVwVTc0aEJyampyWk5UZTRUNjJJT0JUYVdyMXpjdVpzVGgtVExxWW5DSkxibWJvQU00cU5LdkM4SVlhMmxWMS1LVGZYdFd5UDA3QURjUEZLYjhXV0hwWFJvdHg1Q3Nwb2g1Qy1JODZmVFpxa3F5d1Y3T2VfUmZBaGs?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Tue, 13 Oct 2026 06:16:39 GMT",
-      "base_score": 56,
-      "candidate_score": 67,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "864288f677afb7a50abe4a98",
-      "mode": "sportdog",
-      "title": "Shakhtar Donetsk vs AEK Athens: UEFA Champions League stats & head-to-head - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNbDBXSlgxQll1WktlLXJsVnRrOWhyZlBUZjZSMnZVbmlXcTktekNaRHdNT0tJUTE4TWpzc0NuMGJBekZSNDZ3Y1o4UGNTSnJaMUU2eGZob2pJT0x2b2VXcHZoTQ?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Tue, 13 Oct 2026 23:01:05 GMT",
-      "base_score": 50,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "Champions League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "ba2d5ee7ed0f9e81da83689b",
       "mode": "sportdog",
       "title": "Injury Concerns Haunt Marseille Ahead of Olympiacos Clash - Yahoo Sports",
@@ -650,6 +687,46 @@
       "needs_second_source": true
     },
     {
+      "external_id": "f35cf6679b8560c305e4d21f",
+      "mode": "sportdog",
+      "title": "Expected goals on target (xGOT) - Olympiacos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW5aRlV6SlZEaVNRZ1ViWmpobWxqN3gwOEZWZncyaFZWYlB5b3Vjc2VXVUxqTkhFcTd4TVQwRG1SWjJhbGMtcnJfbGY4ODVYb2F2RzVvNzhlVkdDMWtGa18tUUlTak56OFk0ejY4UFBJV2lEbFdmZy1Ob1l1NGtVX1pPRDBfNDhmcWticmROQV8zY3RiTVhzdDBMOUYxbVdTa1JRQnR0NENFSWNnaDJoaDMzRQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Tue, 13 Oct 2026 07:09:15 GMT",
+      "base_score": 56,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "92b238d595df1a0d093bf3d7",
+      "mode": "sportdog",
+      "title": "Save percentage - AEK Athens stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1ZBNnVMakE0NEFIYzh5cFdKaHh4bkRSdFNQMUF1cmxESldVTzdTQm5zcEVwVTc0aEJyampyWk5UZTRUNjJJT0JUYVdyMXpjdVpzVGgtVExxWW5DSkxibWJvQU00cU5LdkM4SVlhMmxWMS1LVGZYdFd5UDA3QURjUEZLYjhXV0hwWFJvdHg1Q3Nwb2g1Qy1JODZmVFpxa3F5d1Y3T2VfUmZBaGs?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Tue, 13 Oct 2026 06:16:39 GMT",
+      "base_score": 56,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "deec5200649e26823a5a76dc",
       "mode": "sportdog",
       "title": "▶️ Watch PAOK vs Iraklis Live Stream | Predictions & Tips - 18 Oct - FootballPredictions.NET",
@@ -657,7 +734,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Wed, 14 Oct 2026 05:44:24 GMT",
       "base_score": 41,
-      "candidate_score": 59,
+      "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -666,26 +743,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "54d722efb984d8ce6aa7a637",
-      "mode": "sportdog",
-      "title": "▶️ Watch Shakhtar Donetsk vs AEK Athens Live Stream | Predictions & Tips - 14 Oct - FootballPredictions.NET",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHpvOXRWbEI3djRDR2pFeGttei0xN1lzaDg3c192NnNUTS1oVmdpQnBHYVJSeHhYTk0tOWpZUHZmUEJDaXNXMjZZc20tNHVOSkp1MjlBYlg1amcwSEg4bHI2am5KWGFqVWZxaE1ZOUh5VUZuWUNTOUZwWnkydWY2cHBZb1hzNlVteGlGaEoxWQ?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Wed, 14 Oct 2026 04:45:32 GMT",
-      "base_score": 41,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "football"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -710,12 +767,88 @@
       "needs_second_source": true
     },
     {
-      "external_id": "2974822167da4d46d003b451",
+      "external_id": "7e51486e8785106b44c7e91f",
       "mode": "sportdog",
-      "title": "Marseille vs Olympiacos Prediction, Betting Tips, Lineups & Odds | 15 Oct 2026 - Sportsgambler",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0hleE9URVZ0dHR2aERpdXBPVEFoeV8ydDBsaHBMSEg5a1lDMW5ZQ08zazVNMzkxeEtKWXZfbXVQNnQzMjM5cXdTcElXT3VYd3JFTk1ySXhzMnI1NWFFVFNmX2gtcFF5eV91c0ZZdmdTa2FYUVg1Vjk4OHY5bkdDbUpoNjU5UjJJSS1YdXloQ0FVNXB3UWRhcF9mS19ZaDluYjhtcktYUmgwM25ydVpxUw?oc=5",
+      "title": "Anthony Goldwire vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTAzNDNkeFhMN1h3S3JJSTlWUldVdHhibE9WSmlwS1Zzc190QnZ6VWdYX1lKRnYwSUs1RndaTy1sUUlYNVhHYlROa3NlbzNOZnh5NzNGTERZa0dReXR6MGxacHBDQnl3dDdxbFBNT2J4S25IaDMtNGlGRWh2WFptOVA2Vl8xOEdyUVlfYWlpUmJuS1AzeUNoa1dwVQ?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 14 Oct 2026 11:43:29 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "fe109210d9e42cc7ba02d92e",
+      "mode": "sportdog",
+      "title": "Pierric Poupet vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2FPMHVMM2tPeE9vZG52NjRndWVBOE5tRXZPN1lTaDcyOHFGWVVKdVdxbGVOUldtTlNwQUxkc3A0MDJMcmFHc1dxR2ZZUjN5ZFlMV3JtekZ6cEE2YklDYTRmek1uLWdEb2dUVlhKN0c4ZFRVVXlfczQyY2wyQ1RjTl9xWmJic0VTZXhUTDNEM1Z4eTE4bDYzZXl0THZyX1pB?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 14 Oct 2026 11:25:26 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "640fe672806dd8e2c4029ab3",
+      "mode": "sportdog",
+      "title": "Julian Gamble vs PAOK mateco: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnBvU0o1YVVVamp0OHdjUlJkWkU2WnluRm1URFFjY0h0RWd6SGY5UkRQVWtjaWx1NHdtRnpXUEc1dUQ1R2xJNkRUTXdsRmE0N0hYQkxpc0N6WHU0X3pyTC1EdnVwNk5hZjN4STdiNWZHVG45bTlfa0w0bmg4MmoyZWIzb0ZpU2ZjcmJYYTV3?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Wed, 14 Oct 2026 11:09:28 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "060c46a5354daba4cf97abcf",
+      "mode": "sportdog",
+      "title": "Eduardo Cota vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXktTXlkdHFhNFRUYVh2RGtmQmk4TGI4bW16R3FnTlN3UF9VYU5TMDdoSTd5R3lqN1lRNXZ4QkhhRUJJblRTV2tab2xnMFFXZDFaTGFNbm1CTnRpTHdXNndnZGNRYnVJai1DOTVJNDg1eTdleGJMYVJoaUYyY3RxeTRhQXdXd1JKM3c4elFmdDVwMzMxRy1QS3VZN1g?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 14 Oct 2026 11:05:09 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "276bccd2e71588ec373d78d0",
+      "mode": "sportdog",
+      "title": "Michael Andersen vs Olympiacos Piraeus: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWNYTnBXSmV2anVrNzBRVVVOR0QwNjU5b3JnT3kwZHdXUy1ITFFJY0FwMzFmYUhRdmxXeTVHRHphQTBNanJMU0hoZFAtckhGenVHOGlQTXp5V3NMbHFnRUgzRlp3OERFZkdxTkFobVdKR0hxenRHLTRkbl8xNEtmNEV4Rk1hbnRzMnM5NkpnVHc3ekhXQ3FCRA?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 14 Oct 2026 02:27:24 GMT",
+      "published": "Wed, 14 Oct 2026 11:03:40 GMT",
       "base_score": 31,
       "candidate_score": 49,
       "priority": "Normal",
@@ -723,29 +856,29 @@
         "Olympiacos"
       ],
       "content_type": "news",
-      "editorial_type": "Team News",
+      "editorial_type": "Match / Analysis",
       "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
     {
-      "external_id": "d2797906a2bac4eb1776a9de",
-      "mode": "sportdog",
-      "title": "Panathinaikos outshoot Partizan 72-55 in Euroleague - Sofascore",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVVyc3lSQlR6bURTUkh0cXhERWtzR1V4UE1oMzNkOUt3eFR4cG5RcUlzem4xR0JMZnZBTkswU3doUEtSUVZpTnkzcWlPdnZNSUFQbU5yZEc5aDVBNm16OG9xNFdNUWY2b0dBb2JoUlBiREpBcmF2NEh0dWtRbnUzYzJRWkR1NVU?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Tue, 13 Oct 2026 21:18:42 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
+      "external_id": "08811c75d7c9935bf4c3aeea",
+      "mode": "geopolitico",
+      "title": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar addressed the ISSI International Conference on “Pakistan’s Evolving Counterterrorism Landscape: TTP, Cross-Border Threats and Regional Security” in Islamabad today. - Ministry of Foreign Affairs",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQNEZHTk02NUk1bkd4RGpTNnJFRDN3QjI0bEY2WDFfVU9iMjNwa2lKcTl3YnNndmtvazNyVE1RdTlfZVgtYzZhNFF1X3JWMWpiQjF1UEdyNWRwZWtjdzRVZV9Vd2wwb0pmSnRvdy04bzlqY3ZmMEJzUTdWQ01xS3RlWG9zRzhJNWtuT0g1QVp2cHBBb0llaWdrcW1GNGZOWDhPNkVZRktSOHNLd3ZPdFJBN05oRE01VzBIWTVVRklEZ3c1V2xwNnFuOURJQlFYb3NMNVNHblRPRGlaSE54S2VvNDNfMHRmRmFHRm9DNW5STVdNYjRjOEE1N2JZdWM3X2l5NEVlcmRzNFIzS0xJYlFISVRSU3dQZXJUSHIxUkkxMEY4bThrMURiTUlFTkdQdnpPT0F4MnlzM0t6OGtPcWhYSUNKQnpTZm9ybDM0QTVFV1dyaXpHcXAzLWhpNml2MWxBWlpfdlZXUQ?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Wed, 14 Oct 2026 10:52:35 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Panathinaikos"
+        "Pakistan",
+        "Islamabad",
+        "TTP",
+        "terrorism",
+        "counterterrorism"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "news"
     },
     {
       "external_id": "30871415d3ae4682966755e4",
@@ -755,7 +888,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Wed, 14 Oct 2026 05:32:27 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -772,7 +905,7 @@
       "source": "Middle East Forum Watch",
       "published": "Tue, 13 Oct 2026 20:03:03 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Israel",
@@ -790,7 +923,7 @@
       "mode": "geopolitico",
       "title": "Türkiye’nin Karşı Kıyısında İsrail’in Yunanistan ve Güney Kıbrıs’taki Askeri Ağı - Fokus+",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTQ2dlZrQnRaTEZHMDh5Q0dtSEZGX0JsWGV3RHJocHFTMjVsVUZqbDRrS3dwWHA2Z2diYmpFX0hmMWJNS2tyLURvQ19SQVlZYmFDblhqN3cyNUNZZW1PMEJFWEh5WVVrdGhlTHBtLWo1QkdSQWRlMXlHNW0tUWJPdXN6bENYUzZTQ0lwMHlLc19pMGxyTnZvUWtzTFFiUEUwSEpsTm1HLU1fOVJtQldqNGFoSDR1MU8w?oc=5",
-      "source": "Turkey Greece Breaking Watch",
+      "source": "Turkish Greek Defence Watch",
       "published": "Tue, 13 Oct 2026 14:36:49 GMT",
       "base_score": 100,
       "candidate_score": 103,
@@ -845,42 +978,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "576968571deb9da5af167553",
-      "mode": "geopolitico",
-      "title": "Press Release – International Conference ‘Pakistan’s Evolving Counterterrorism Landscape: TTP, Cross-Border Threats and Regional Security’ - Institute of Strategic Studies Islamabad (ISSI)",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ2FzWllFZGtlU3AxS04zcU8wLXJ4S0JmanBhN002dmFHTHJmUGJPazRWZVYyamJBNFp0U2NkZEZPSk9PVUd4UUhJeTBMSkMtMHpuR0dSMjYxUUlhMWt5a1kwcHktWVlzX1JWdnVZbVk4UUhVR1JMcXJrcWJhVVVlQUh4Zi1tZHRIZzk0anFORF9vYy1BcWlqUUJlR2pNX1Jnc0xfYjJDN1lONHNjSENZaGhIbWFEY3N2aVpWeVpMaVFWMGxhR19oZFRNc3o4WDFmR21hbnZ4R2RPTm9acURtTkRFX0FKcWM?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Tue, 13 Oct 2026 10:39:37 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pakistan",
-        "Islamabad",
-        "TTP",
-        "terrorism",
-        "counterterrorism"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "7791fa525f23d2ca588e7c8b",
-      "mode": "geopolitico",
-      "title": "Güney Kıbrıs Türkiye'yi AB'ye şikayet edecek: Ankara'nın KKTC'ye boru hattı planı rahatsızlık yarattı - Gazete Oksijen",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2VPZEc3RTVVNnc2RkZ2ZE52X1NaZVZLVU5VWU92a3dFbGNnUFJPYmRBRExvUDlCZ3VGczl6ZWp5bmRnVjBwaFhULXNwWlhIZ2VPb2ZZcnFuMmxkRTZsWWxGMlZBSmpBZDFlT1dQVGVnSVRVZjJRcm5rRU5KR2lIUkp5R3ozQlBpQ0xvOE92cFNKbjlVTE5kekRxb21PNGJJNHNoWU9oSktvY1J5VWFZRkVKZHZGNl85ODBUcXpFSXBZRUhNYnVGM2x6S2l4amJk?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 14 Oct 2026 08:34:45 GMT",
-      "base_score": 81,
-      "candidate_score": 96,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "Ankara"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "9096ca094ffcb34532561a62",
       "mode": "geopolitico",
       "title": "China-Pakistan Military-Strategic Collusion: Capabilities, Functions, and Implications for India - orfonline.org",
@@ -898,6 +995,41 @@
       "content_type": "news"
     },
     {
+      "external_id": "59ee20c971a252d0310e0467",
+      "mode": "geopolitico",
+      "title": "Israel and Greece are expanding their military cooperation. The benefits for each country differ - Defence24.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT0x1VjA3Q1V6Z2xIZHBOVzBGekQ1VUtJVk40Um5ZNWk1TUpxQmZCb185VnRWeWUxazFEc2dXQUF6SmpKM1ZHSm1RcEQ2TXp6T1Z1RFZJdWlKNmx3NmFNVTY3SVRDNndlTVBhLS13NlZSUlh3ZkVyd0VZdm5zbkZnWlZ1dFlRcFdVNmN6dEY3NnlKN1QwNktWNGU5YzFKQUhSQjBQX2ExQlZWN0pXX2FlYWpaNER2QVJoMHZ6OXV6THJuN3pQSVB6Ng?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Tue, 13 Oct 2026 13:17:31 GMT",
+      "base_score": 90,
+      "candidate_score": 93,
+      "priority": "High",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "defence",
+        "military cooperation"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "39b4793e065d33302f06a1ae",
+      "mode": "pontos_voice",
+      "title": "Παναγία Σουμελά: Η Τραπεζούντα ζητά επιστροφή κειμηλίων - Μεταφέρθηκαν το 1925 - Sigmalive",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSjNjMWtXbWV5cEtJcXRibGN4MmxBWFJwY3NOd194eDFMbkVheWhPcVRNQ1N0WHZreVc3dTJpdWY5TlI1OEppR3I3OUNMTFhzY2xKT1NncVRxZ1A0T1lWcVVzNWhWbDkyX3QxMWV6bkhPYkZzb1lFbk5uWmtseVlUQVdkQzFCZi1uazdZa2dJbUxYZHE3SnEyR1hZY3NyVi03R05QNjZvSUwwek85dnY5aEVKVHlrdXloT2w4MFdFVGdKcXBiNUFGcnF3?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Wed, 14 Oct 2026 14:32:48 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Παναγία Σουμελά",
+        "Σουμελά",
+        "Τραπεζούντα"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "2847e1aa2099a31f2a5dc8bd",
       "mode": "pontos_voice",
       "title": "Παναγία Σουμελά: Ο θησαυρός που έφυγε για την Άγκυρα – Τα κειμήλια που ζητούν να επιστρέψουν στον Πόντο - pontosnews.gr",
@@ -905,7 +1037,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Tue, 13 Oct 2026 17:45:02 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -933,74 +1065,54 @@
       "content_type": "news"
     },
     {
-      "external_id": "5def7bf8f78d75cf5e975e3f",
+      "external_id": "7b837f3de8dfd67e53fc3152",
       "mode": "pontos_voice",
-      "title": "Prof. Dr. Sonay Çevik, Trabzon’un kayıp sokaklarını anlattı",
-      "url": "https://www.61saat.com/prof-dr-sonay-cevik-trabzonun-kayip-sokaklarini-anlatti",
+      "title": "Trabzon'da dolmuş zammının perde arkası! “55 lira istediler...”",
+      "url": "https://www.61saat.com/trabzonda-dolmus-zamminin-perde-arkasi-55-lira-istediler",
       "source": "61Saat Trabzon",
-      "published": "Wed, 14 Oct 2026 10:09:00 +0300",
-      "base_score": 64,
-      "candidate_score": 79,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "kültür",
-        "müze",
-        "Of",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "69cffed6317a5c481fc2aff2",
-      "mode": "pontos_voice",
-      "title": "Trabzon’da uzay mesaisi! Öğrenciler ISS yayınlarını çözdü",
-      "url": "https://www.61saat.com/trabzonda-uzay-mesaisi-ogrenciler-iss-yayinlarini-cozdu",
-      "source": "61Saat Trabzon",
-      "published": "Wed, 14 Oct 2026 12:07:00 +0300",
+      "published": "Wed, 14 Oct 2026 15:21:00 +0300",
       "base_score": 53,
       "candidate_score": 68,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
+        "belediye başkanı",
         "Trabzon",
-        "Karadeniz"
+        "dil"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "7498a4ed905ed2042b5acf99",
+      "external_id": "23da0fe06f3482ab128d0a0d",
       "mode": "pontos_voice",
-      "title": "Trabzonspor’a iki ayrı sevk",
-      "url": "https://www.61saat.com/trabzonspora-iki-ayri-sevk",
+      "title": "Trabzon'da ulaşım zammına Zorlu'dan tepki! “Bunu halka yansıtmak zorunda mıyız?”",
+      "url": "https://www.61saat.com/trabzonda-ulasim-zammina-zorludan-tepki-bunu-halka-yansitmak-zorunda-miyiz",
       "source": "61Saat Trabzon",
-      "published": "Wed, 14 Oct 2026 11:54:00 +0300",
-      "base_score": 51,
-      "candidate_score": 66,
+      "published": "Wed, 14 Oct 2026 15:51:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
-        "Trabzon",
-        "dil"
+        "tepki",
+        "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "b46f923d802d2fe5845e334e",
+      "external_id": "a3e2e5d9b33b56dcccbd083a",
       "mode": "pontos_voice",
-      "title": "Trabzonspor PFDK’ya sevk edildi! İki maddeden PFDK'ya - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2VHbjd5Qy03Vk9Ib2drS2ppZmlVQ1RsS1JlUFVIaUtZMVRFQ3dXUVpOTkMtRjVWVHE0X3FWejlkUk1yTkhJdV9IZVk4akZvajV5MGtud3lWWnNsaFZNWVRmSHBldGJkNXpFaHNiRndkY0QzSFZnZkpKaVRVTmQ0TnlzSUdNb2xKamNqdHMwOHUwbDVrWjdWTkNmaw?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Wed, 14 Oct 2026 08:29:14 GMT",
-      "base_score": 42,
-      "candidate_score": 57,
+      "title": "İYİ Parti lideri Trabzon’a geliyor",
+      "url": "https://www.61saat.com/iyi-parti-lideri-trabzona-geliyor",
+      "source": "61Saat Trabzon",
+      "published": "Wed, 14 Oct 2026 15:37:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "dil"
+        "milletvekili",
+        "Trabzon"
       ],
       "content_type": "news"
     }
