@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:38:44.748818+00:00",
+  "generated_at": "2026-10-15T05:13:49.004325+00:00",
   "counts": {
     "sportdog": 15,
     "geopolitico": 8,
@@ -8,6 +8,27 @@
   "modes": {
     "sportdog": [
       {
+        "external_id": "4e50b0365411153a4e1366ba",
+        "mode": "sportdog",
+        "title": "Super League Transfers - All Rumours and Latest News - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pbE5hUURHaGM4NDBHb19CT3RRcEU2NkNnR0NFVm9LVkk0X3hWbEtBUWNvYmd4UDdldktxTHdZNmoyeFpnTnByZGhabmFPV1VoWDRqVGpoSFplTGt4b1VBSjFLcw?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Wed, 14 Oct 2026 12:03:04 GMT",
+        "base_score": 78,
+        "candidate_score": 108,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "transfer",
+          "transfers",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
         "external_id": "9fd1398e8743a437a45af05e",
         "mode": "sportdog",
         "title": "(LivE!) Shakhtar Donetsk - AEK Athens UEFA Champions League Football Live stream - Universidad de Córdoba (UCO)",
@@ -15,7 +36,7 @@
         "source": "AEK Rumour Watch",
         "published": "Wed, 14 Oct 2026 18:52:13 GMT",
         "base_score": 60,
-        "candidate_score": 78,
+        "candidate_score": 74,
         "priority": "High",
         "matched_keywords": [
           "AEK",
@@ -36,7 +57,7 @@
         "source": "AEK Rumour Watch",
         "published": "Wed, 14 Oct 2026 18:21:28 GMT",
         "base_score": 60,
-        "candidate_score": 78,
+        "candidate_score": 74,
         "priority": "High",
         "matched_keywords": [
           "AEK",
@@ -45,27 +66,6 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "8ddc450026d07a29c648ab7b",
-        "mode": "sportdog",
-        "title": "[!LIVESTREAMs!]Tv] Shakhtar Donetsk vs AEK Athens UEFA Champions League Football Opening Match 2026 Stream - Universidad de Córdoba (UCO)",
-        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPaVJDUUw0MlNCaFU5Um84cXR4eXo4T3pIX3RxWF9DamlkS3ZQUHZ3LS15VVZNUVpjeXRMT21mSU5DSjNFRXJSbHZmS0JqWG0yTkhIM2JfMkNsQmlrUzlEUUJxQ3haUC16cXVodjF4dE16WG9PZWlqRXhXcDBmTHZaNnFOTnBLN2RQWWNSX2JFZTh1WmVKb2pCX0s3MlNORVBmVEk1NE9FZlFxeXdqNXRTdi1aWXFwUVVlRE53MjRmLTFNNTB6Z1dJbHZQVVAzWjZBNVZMd0hfeHlmMFFadzFOUDJmamFxM0tfOXhkTjZYWVJPTVpXZEh0X3pablRkQm9sd1l6cjFPNV9ZVUxBUjNwZlRLQzgweWdGTkNIRDZROG1xcC1vaEtwRi1EeGd4cmtORjF6M25YR3MxR3BmMFpONG8zZi1zekZENC0zcGFtcHlnRGdYOF8xSDNR?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Wed, 14 Oct 2026 18:11:22 GMT",
-        "base_score": 60,
-        "candidate_score": 78,
-        "priority": "High",
-        "matched_keywords": [
-          "AEK",
-          "Champions League",
-          "football"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
         "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -78,7 +78,7 @@
         "source": "AEK Rumour Watch",
         "published": "Wed, 14 Oct 2026 18:05:17 GMT",
         "base_score": 60,
-        "candidate_score": 78,
+        "candidate_score": 74,
         "priority": "High",
         "matched_keywords": [
           "AEK",
@@ -92,35 +92,36 @@
         "needs_second_source": true
       },
       {
-        "external_id": "dadc3a93ecd416fe969978eb",
+        "external_id": "4ef606bd8e8a43e3ca5030cd",
         "mode": "sportdog",
-        "title": "Possession won final 3rd per match - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakJfTC1xWmd6VUw2eW4wTk1YVXdHLWI4aXAxMUtMMDQyeHBFQ1ptLVZ3Ql92VGVfWmthQVViME5iODdnZ1FmUjAtbU5mcmZ6cy1iSGRZQjIwX3dKUksydG15ZUtWTm1RU1JUZ19Lb25jdlRXUzJWM1ZQSk1ObjVsZ2ZYZ2pkWkNGa0x2Zm1YZk1YcWVtMlQ5ekt6NC00QQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 13 Oct 2026 12:52:15 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
+        "title": "[WATℂℍLIVE]DAℤℕ!] FC Shakhtar Donetsk vs AEK Athens UEFA Champions League Football 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ - Universidad de Córdoba (UCO)",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQaWt2OWNaVVh3OWhtZERnR3hxV1puVktKVVRMdnlqb2Rrd3NveWJkMGV3a2RXRXNERTllRmRvbVB0XzNZNkpBYko4dGFfSHZkSHdsV3V0QlIyenk3Rkg5Zl9aajBpY3JMMnFGZ0VoZGFCRUxob1pjN1pGM09fU3c0bTMxc1RmSklKUUcwYmJSem5tUkU0MW85dUJERFU3TkVha3BvMWpMcEZYT0l3OU05NU5BM29waVBJN3h6Yk9ZU2dtbmx6bndsYndVM1o2b2NzcXJLR1Y0eHFoZGNYdUFVbk9MZjlZZ0VXMGtOWFIxU2g5RXlmeDRSTGFkSUhKbWxfeWJTTF9xN3dFNl8xRmY4d0xqbUFsY0JqN0FXVGU3cE4zUXpPQml6MTZmU29ibjJnaTdOa1k3NVAtZGU3UkU1Y0YyQUNxcjlJdUsxMWkwdmE3blQ0UlE?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Wed, 14 Oct 2026 17:56:13 GMT",
+        "base_score": 60,
+        "candidate_score": 74,
+        "priority": "High",
         "matched_keywords": [
-          "Olympiacos",
-          "Super League"
+          "AEK",
+          "Champions League",
+          "football"
         ],
         "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
       {
-        "external_id": "fa9dbcb6f6cc8396cac580c8",
+        "external_id": "1cd472ae6b388d8572f22d0e",
         "mode": "sportdog",
-        "title": "Clean sheets - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDZSTno4V3ktUEd0YUptVkpvT2d1WmNETkxFZmVRdVk4MHRXbHJCa2VmUl9ya2RsbWVWQ3ppaVZrcGNSNVREWDd4dUV2bXBjSVoyS1kwdlV5RVJoSllqTU9DM0VUV3FmampXZUF2c19FUW5RYVNxaWFEdVl6ZlQ2Q3JmWDBXTGh5RmhUNUdFN1VYZGxoSjBMSkx1Q0Zzb0FHbV94R2lpU2NlbUdHMnc?oc=5",
+        "title": "Penalties conceded - PAOK Thessaloniki stats for Super League 1 2025/2026 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXlqZlBENGJXVGFyMnBHdXkyZFR6SGJaWkFoSkRrNXV3T3lrdG82U1VnNFQyZ1pxd2MzZnJmdzJ5R0l0QmxHcTIyZEJFZzlVYjlwSjJtMHkyWjNHSXlzMExUUzlkU2NZRkNCcWxUVTdqNEUzNUdPS0NxSk9oRUZwLXRWM0Z0NTFtWmhUZkloNkRGS0N1d2tSMHRnVG1PQ2hTM0tqd2hMQkRjdDVGSHhMREptNXlBa0ZtZExnUG5OUzdMdw?oc=5",
         "source": "PAOK Rumour Watch",
-        "published": "Tue, 13 Oct 2026 12:50:42 GMT",
+        "published": "Wed, 14 Oct 2026 11:28:16 GMT",
         "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
+        "candidate_score": 70,
+        "priority": "High",
         "matched_keywords": [
           "PAOK",
           "Super League"
@@ -139,7 +140,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 13 Oct 2026 21:44:59 GMT",
         "base_score": 41,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -148,7 +149,7 @@
         "content_type": "news",
         "editorial_type": "Injury",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -212,6 +213,82 @@
         "needs_second_source": true
       },
       {
+        "external_id": "f50921e15329d2b9f69706d7",
+        "mode": "sportdog",
+        "title": "Periklis Kouroupakis vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUjlyRzZiTnhabFNhTlNMSy0tQlhKR1pKY3BLQzY3RmVScGFNalB4NjNoQUpESWJ0MmwwOF81TWFvVlJUczZwUV94THF2OUFtQ0w1WWp3UmtKaGc4UlktWldtREVlUGRkd0NEdGt3Sk5Va2ZvenVEazlfWjg4VDZlY2VyZFIzT2Z3YjFIa0ZDbWZMZ1JBaXZXNmE3RHpyMDZQSi1qeThVNWtxUQ?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 15 Oct 2026 00:41:58 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "0a63d1a29e07a87c3e1acc95",
+        "mode": "sportdog",
+        "title": "Bryce Cotton vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzktUnNxYlo5aFhkVVdoaGJBbnJfaFp6V0JzeTFjMzFYdHVLeHNndXowZ1VUUm0zMlh0Q29yOG0tSmltV2NkcXVBVThSV0lYYk5EaV93TnNxLXNoUUd4ZG9WQTNqZ3lRRzQ2aVpxbGZZcnN5NlZlck1PZEFMX0x4S3ozOGRmTm0yNDhYVER2QXV0Z2pMU1VwV3BZNmF2Uk0?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 14 Oct 2026 23:30:36 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "5baaa31863cce9f60c375944",
+        "mode": "sportdog",
+        "title": "Ante Masic vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRjdNbmxReHVzeDN0ak5pQlNYNzhlQjRBMGU5c1JSRGhXRlZFYmJxbzA3X0tQTTlDLW5jX3BjUldPNGJNLWVielZiUlY1NVFUcHljVm9BU2NqZVI4LTVsZkdaUjJPUnRZRW5RWHZjRkxkTkxyT2pRUzYzZlU4N3hrREZxZUJBdHlkSGxacHllUHhZWC1DMkYxYllROA?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 14 Oct 2026 22:02:38 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "70c1cb9c600690ce41fa734c",
+        "mode": "sportdog",
+        "title": "Eddie Gill vs Olympiacos Piraeus: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZENFOFR5Smc3a3BmWmZZWTNRLTlWSzFJdDZFNlFZYWVkREZ0eG94cnNXbE16aEI4NmdaUTdJc1dyWURpRVhfMmtfLWNzYVNtZjRYN09KbDBobzQzaGtBX05rQmNLMlFKTXBIRGpsUGRBWUFhSXhUU3h2RlFxLTZOUzN6Ty11VFRGdnpleGhES3FSZw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Wed, 14 Oct 2026 21:23:30 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "32786c98bf17ce501d561f66",
         "mode": "sportdog",
         "title": "Leon Bailey Left Out by Olympiacos From Squad Travelling to Marseille - roundtable.io",
@@ -219,7 +296,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Wed, 14 Oct 2026 21:03:18 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -229,85 +306,26 @@
         "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "f96b7e4da1944e3e749bc101",
-        "mode": "sportdog",
-        "title": "Kamil Chanas vs PAOK mateco: stats, game log - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnJ4UGxkdW9mZERhLXhOeVhBNjNIOHhqMHBtVzFfVG4yaE1pZUxJYkRGRjhVLW8xeVVNOUl2ck5odHRhLXlsVXVHZHBBVy1QTWswNmJYTEJkZVl5dnJra1ljc0Focnk0NXU0YUJkaUs3VTVXanpKalFsMF9Ra1Z2c2MxMTM4cnBsbWc?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Wed, 14 Oct 2026 19:26:20 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "557265a32e53e2a8716a048c",
-        "mode": "sportdog",
-        "title": "Asik Omer Faruk vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUI5QWNoUmN6RlZ5VzRhVjAwQWVOYWF5dVZHWXQzMDJpbzVtLXEtUG9acjloLTdJci1CSHZrZjNQa1ZqT0I4RElRdGhYTUJBUFl6T0JIT3Y4Si1kQk5PRXZuUXc5b24tSHdCbFBIWXNRQm5NS21lOXdFR3hYMl9wejdKLVU0TmtpYXF1YVlpODhZSXZZRzV4dWtTSVNtUU1XT2c?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 14 Oct 2026 18:49:28 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "124160aaee063d60426a6b86",
-        "mode": "sportdog",
-        "title": "Damian Jeszke vs PAOK mateco: stats, game log - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZURFeTdJclNwMkc3VlFYeUl2dmJsdlVkSzBvTEpOd1l2UXlNTG1tVUMwTFd0WWhpUG92bzNIOEZXY2l1OTlVTnVVcFo5dFZ5S3MwcEFtYVhqdkZvcjE4dG50TU1nTDQwUmxHclRpdVl2TDl3Z2lZRENiQ0stOG9EVlhPMXVFSlV3S0g3YXc4V0JYRU1HUHc?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Wed, 14 Oct 2026 17:09:25 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "f631fba00a6feb8c7ea5af04",
-        "mode": "sportdog",
-        "title": "Tim Ohlbrecht vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmRaM3A2WWZsQWY3OEZxN0NMWngwNmdaM2g1NjRHOUVqd2dUdUk5Rk9VRWZjWlVlT19wZXRITGFXdG1KZ2t6U3Y2T0FKQWttRzdqcWVHNm1ybWxHQ0JaUXlDZXBuc09IaVg3a2JZc2VwLWdWX21FM0pjUXR2d3lTZXhyU0hSLV9NNzl2UG8wLV9GVEg5YW4wUTFKRTUxRWc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 14 Oct 2026 16:41:27 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "a52ed686958f97bcbab1556f",
+        "mode": "geopolitico",
+        "title": "Yunanistan, İsrail ve Güney Kıbrıs Hattı Ne Yapmak İstiyor? - Yozgat Çamlık Gazetesi",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZE51Qi1Cd28tOF81YjVnejdPWWVwSlhFcFFEbWxoREQyaF9vd3R1OW5lMDA3VDFERWVINGFBOU5HWGVWc2hyUkhDbWthNDVMZ0hHMzEtMEp2TzVQNFZNQkxkcWZPS2hfcEpqeDd2LXg3Z1hfSFpMbEVXRnFMSEVsRTBnSnIzZHJHWkRsMTZkSHRKWkNXWXV2SzNYdUhhRXFPSTNBbnhNbS0?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 15 Oct 2026 04:30:00 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "Güney Kıbrıs"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "f428b80841d08f77c699e04a",
         "mode": "geopolitico",
@@ -316,7 +334,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Wed, 14 Oct 2026 19:31:36 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -334,7 +352,7 @@
         "source": "Pakistan Security Watch",
         "published": "Wed, 14 Oct 2026 10:52:35 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pakistan",
@@ -346,14 +364,31 @@
         "content_type": "news"
       },
       {
-        "external_id": "b3e87a2a9d1b326808f41244",
+        "external_id": "30871415d3ae4682966755e4",
         "mode": "geopolitico",
-        "title": "Nexans firmasının Yunanistan-GKRY-İsrail elektrik hattı projesi için Yunan makamlarına başvurduğu iddiası - www.ensondakika.com.tr",
+        "title": "Güney Kıbrıs üslerini genişletiyor... Yunanistan'dan deniz aracında Osmanlı göndermesi - Odatv",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONnYwUGxaQ3QzMEp4NjNYMmdfQUxhMHl2NmJDVHVVakxKOFZPMDNpNGhSNjI5UVpSOU9SNE93RExLUlJwWFFXMFlvekNQS3lKb1d4RkIxUjVtRW1NR3l1ZTNBNWlCZDhEeDA5WnUxcWR5aTVjak1zaV9yd3plZUprOVg0OUdBWGZPQ01rbm5PYzdJQm1uYUtLX0tjN053OHNVRFVlaDV3R0RBVGEzbG5jdHhiZ0UyMUE0dHV2bWJ3?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 14 Oct 2026 05:32:27 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "Güney Kıbrıs"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "8317ef36ed3cdb51c87dc8ea",
+        "mode": "geopolitico",
+        "title": "Nexans firmasının Yunanistan-GKRY-İsrail elektrik hattı projesi için Yunan makamlarına başvurduğu iddiası - https://www.ensondakika.com.tr/",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT3MtS3EzNXYySHBKbk8xZUM2WVlNVFNCMm1VMEJNWW82RmxLX3lYSzk3ak5sb1ZXbDFyODdmdjlYczN3eWp5Uy1uaDNPd2JzN3liam5hZk9VTnJzQllZM0R2QnpydDNzZlhvVUg0LTAwaTNrMWJuMjV6UnVic21YRzRzNDNUWVNtdEhuOEZPcEZ5QzdwOXc5dTlWN0ctZ1h6QzZrVE9PNDlPZUl6ODVYZ0I3ZHVTZmlCaVBfenhpNGJJdmxTRXg1VTllcUJ1N3pmVkQ3dWJ0SFY0ZGxf?oc=5",
         "source": "Turkish Greek Relations Deep Watch",
         "published": "Wed, 14 Oct 2026 19:32:02 GMT",
         "base_score": 94,
-        "candidate_score": 104,
+        "candidate_score": 100,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -361,27 +396,6 @@
           "Nexans"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "62db8ea9be9b1c4084ec799a",
-        "mode": "geopolitico",
-        "title": "Morocco Turns Israeli Weapons Technology Into Defense Industry as Algeria Watches - Middle East Forum",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjRISXRISnNxQlFPYXRkRnVEdHZ3S1o5T0RaR1UtZzA5NmF5M0t6Yk4tTXFSUU5PSUJPcENaVVowZUNSQ2lUeUVBS0F4WGN4eVRfN0VrODBZX0xhbnpiSk8tdGU1bzBaSk0zVVVDX3AxNUdmbDBfRGZEanFmVWt1SHhRWUJHYkxjVk1OWDFOckpQSHBjUVNCOWkxNlpmenk3MGVYR0JFSVF4ZEpsOGMxTkYyeWw0dEk?oc=5",
-        "source": "Middle East Forum Watch",
-        "published": "Tue, 13 Oct 2026 20:03:03 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Israel",
-          "Israeli",
-          "defense",
-          "weapons",
-          "technology",
-          "industry",
-          "defense industry"
-        ],
-        "content_type": "news"
       },
       {
         "external_id": "4a3c3c34dedd00d183a09ac1",
@@ -401,6 +415,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "1f3ff0f7dad922abb01aae52",
+        "mode": "geopolitico",
+        "title": "GSI: Έτοιμο το γαλλικό πλοίο – Η NAVTEX και ο παράγοντας Τουρκία - Sigmalive",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0FPMkJNZ2piR1p1TWxLVGlkVlF5SFdzOFE1Z0RRLWNrUXZFZmZhZzV6Z0kwS05jVXY2SVlzcU1PQ3ZmSDhGaWlkUnFYbUJDdHNuajloOHlaS3MwNG5fNkR2Z0lLRzcybXhaRkZzdFJWbC13UDNsQ09NQUlRTFNXUnd6UVpTYjBSV3Nrbm91Um1FdzU5Y2N0alZfQmtJYUh2UE9GTGJObkg?oc=5",
+        "source": "Dodecanese Security Migration Watch",
+        "published": "Thu, 15 Oct 2026 04:35:48 GMT",
+        "base_score": 78,
+        "candidate_score": 93,
+        "priority": "High",
+        "matched_keywords": [
+          "NAVTEX",
+          "GSI",
+          "GSI"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "9096ca094ffcb34532561a62",
         "mode": "geopolitico",
         "title": "China-Pakistan Military-Strategic Collusion: Capabilities, Functions, and Implications for India - orfonline.org",
@@ -416,41 +447,6 @@
           "China"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "51fe11c3047442504d7399a2",
-        "mode": "geopolitico",
-        "title": "Ελλάδα – Κύπρος: Επανέναρξη εργασιών για τον GSI με έκδοση NAVTEX - Defence-point.gr",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVhHUWpabVZ6Tmx0V196VDd5cWp2SVJTWnlPOGs3cHM1am9BMVNKeVFBSk1PTTRpakREZFppQ2pYak1UaWN5YkRGenEzMmt3TnF6M3hUNzlyNW9mSzFEbXdDWVQwRnNyOEpRZWJlU0plUjNON0IyZ3M4MWV4X292dFBQNHVtY3J6N3NIcXNGSFRPQ3VPM3c?oc=5",
-        "source": "Defence Point National Watch",
-        "published": "Wed, 14 Oct 2026 17:03:44 GMT",
-        "base_score": 82,
-        "candidate_score": 92,
-        "priority": "High",
-        "matched_keywords": [
-          "NAVTEX",
-          "GSI",
-          "defence",
-          "GSI"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "7791fa525f23d2ca588e7c8b",
-        "mode": "geopolitico",
-        "title": "Güney Kıbrıs Türkiye'yi AB'ye şikayet edecek: Ankara'nın KKTC'ye boru hattı planı rahatsızlık yarattı - Gazete Oksijen",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2VPZEc3RTVVNnc2RkZ2ZE52X1NaZVZLVU5VWU92a3dFbGNnUFJPYmRBRExvUDlCZ3VGczl6ZWp5bmRnVjBwaFhULXNwWlhIZ2VPb2ZZcnFuMmxkRTZsWWxGMlZBSmpBZDFlT1dQVGVnSVRVZjJRcm5rRU5KR2lIUkp5R3ozQlBpQ0xvOE92cFNKbjlVTE5kekRxb21PNGJJNHNoWU9oSktvY1J5VWFZRkVKZHZGNl85ODBUcXpFSXBZRUhNYnVGM2x6S2l4amJk?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 14 Oct 2026 08:34:45 GMT",
-        "base_score": 81,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "Ankara"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -462,7 +458,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Wed, 14 Oct 2026 18:40:15 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -506,38 +502,18 @@
         "content_type": "news"
       },
       {
-        "external_id": "0b7e05a5688e0e559173504c",
+        "external_id": "c6f15fcf448985aceb2a5618",
         "mode": "pontos_voice",
-        "title": "Thomas Reis açıkladı! Salah oynayacak mı?",
-        "url": "https://www.61saat.com/thomas-reis-ve-aral-simsir-basin-toplantisinda-konusuyor",
-        "source": "61Saat Trabzon",
-        "published": "Wed, 14 Oct 2026 20:00:00 +0300",
-        "base_score": 52,
-        "candidate_score": 62,
-        "priority": "Normal",
+        "title": "Τουρκία: Η Τραπεζούντα ζητεί την επιστροφή κειμηλίων της Παναγίας Σουμελά που μεταφέρθηκαν στην Άγκυρα το 1925 - Μακεδονικό Πρακτορείο Ειδήσεων",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZE1LUWpIeEphWFREUnd3VDdZdnpOTVBodGI2cWRLd2VaSjBMWXNhRVloZmFDYjdHcFFoYlNuZWNBSjZ4SU9MTWd5SnRXS21ONGk0TGp3TFBkNG56NTRaOGE4OUZic2NNRDBhUEcteV96TUhkdXBHUlRTWWlybFpkaE9MS2JzeUVkaFlZYmVzVDVEbTZ2ckF6TC1VUjJtVnJtdzkzRUVTekVVc1VLT3lyRFZpbVk4SEs5Q0dDcVZ2eFdPVFo3RTFfaC00d2hDeGRRTXdVRk1oUkZtQThzcnoxRHBISEdtUQ?oc=5",
+        "source": "ANA MPA Pontic Watch",
+        "published": "Wed, 14 Oct 2026 14:52:11 GMT",
+        "base_score": 77,
+        "candidate_score": 83,
+        "priority": "High",
         "matched_keywords": [
-          "Trabzon",
-          "açıklama",
-          "anıt",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "9a68c7dedf834748a3f034b0",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da palamut fiyatları dibe vurdu! Vatandaş sevindi, balıkçılar isyan etti",
-        "url": "https://www.61saat.com/trabzonda-palamut-fiyatlari-dibe-vurdu-vatandas-sevindi-balikcilar-isyan-etti",
-        "source": "61Saat Trabzon",
-        "published": "Wed, 14 Oct 2026 22:20:00 +0300",
-        "base_score": 51,
-        "candidate_score": 61,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Of",
-          "tartışma",
-          "Trabzon"
+          "Σουμελά",
+          "Τραπεζούντα"
         ],
         "content_type": "news"
       },
@@ -558,10 +534,49 @@
           "dil"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "0b7e05a5688e0e559173504c",
+        "mode": "pontos_voice",
+        "title": "Thomas Reis açıkladı! Salah oynayacak mı?",
+        "url": "https://www.61saat.com/thomas-reis-ve-aral-simsir-basin-toplantisinda-konusuyor",
+        "source": "61Saat Trabzon",
+        "published": "Wed, 14 Oct 2026 20:00:00 +0300",
+        "base_score": 52,
+        "candidate_score": 58,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "açıklama",
+          "anıt",
+          "Trabzon"
+        ],
+        "content_type": "news"
       }
     ]
   },
   "items": [
+    {
+      "external_id": "4e50b0365411153a4e1366ba",
+      "mode": "sportdog",
+      "title": "Super League Transfers - All Rumours and Latest News - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pbE5hUURHaGM4NDBHb19CT3RRcEU2NkNnR0NFVm9LVkk0X3hWbEtBUWNvYmd4UDdldktxTHdZNmoyeFpnTnByZGhabmFPV1VoWDRqVGpoSFplTGt4b1VBSjFLcw?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Wed, 14 Oct 2026 12:03:04 GMT",
+      "base_score": 78,
+      "candidate_score": 108,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "transfer",
+        "transfers",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
     {
       "external_id": "9fd1398e8743a437a45af05e",
       "mode": "sportdog",
@@ -570,7 +585,7 @@
       "source": "AEK Rumour Watch",
       "published": "Wed, 14 Oct 2026 18:52:13 GMT",
       "base_score": 60,
-      "candidate_score": 78,
+      "candidate_score": 74,
       "priority": "High",
       "matched_keywords": [
         "AEK",
@@ -591,7 +606,7 @@
       "source": "AEK Rumour Watch",
       "published": "Wed, 14 Oct 2026 18:21:28 GMT",
       "base_score": 60,
-      "candidate_score": 78,
+      "candidate_score": 74,
       "priority": "High",
       "matched_keywords": [
         "AEK",
@@ -600,27 +615,6 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "8ddc450026d07a29c648ab7b",
-      "mode": "sportdog",
-      "title": "[!LIVESTREAMs!]Tv] Shakhtar Donetsk vs AEK Athens UEFA Champions League Football Opening Match 2026 Stream - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPaVJDUUw0MlNCaFU5Um84cXR4eXo4T3pIX3RxWF9DamlkS3ZQUHZ3LS15VVZNUVpjeXRMT21mSU5DSjNFRXJSbHZmS0JqWG0yTkhIM2JfMkNsQmlrUzlEUUJxQ3haUC16cXVodjF4dE16WG9PZWlqRXhXcDBmTHZaNnFOTnBLN2RQWWNSX2JFZTh1WmVKb2pCX0s3MlNORVBmVEk1NE9FZlFxeXdqNXRTdi1aWXFwUVVlRE53MjRmLTFNNTB6Z1dJbHZQVVAzWjZBNVZMd0hfeHlmMFFadzFOUDJmamFxM0tfOXhkTjZYWVJPTVpXZEh0X3pablRkQm9sd1l6cjFPNV9ZVUxBUjNwZlRLQzgweWdGTkNIRDZROG1xcC1vaEtwRi1EeGd4cmtORjF6M25YR3MxR3BmMFpONG8zZi1zekZENC0zcGFtcHlnRGdYOF8xSDNR?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Wed, 14 Oct 2026 18:11:22 GMT",
-      "base_score": 60,
-      "candidate_score": 78,
-      "priority": "High",
-      "matched_keywords": [
-        "AEK",
-        "Champions League",
-        "football"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
       "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -633,7 +627,7 @@
       "source": "AEK Rumour Watch",
       "published": "Wed, 14 Oct 2026 18:05:17 GMT",
       "base_score": 60,
-      "candidate_score": 78,
+      "candidate_score": 74,
       "priority": "High",
       "matched_keywords": [
         "AEK",
@@ -647,35 +641,36 @@
       "needs_second_source": true
     },
     {
-      "external_id": "dadc3a93ecd416fe969978eb",
+      "external_id": "4ef606bd8e8a43e3ca5030cd",
       "mode": "sportdog",
-      "title": "Possession won final 3rd per match - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakJfTC1xWmd6VUw2eW4wTk1YVXdHLWI4aXAxMUtMMDQyeHBFQ1ptLVZ3Ql92VGVfWmthQVViME5iODdnZ1FmUjAtbU5mcmZ6cy1iSGRZQjIwX3dKUksydG15ZUtWTm1RU1JUZ19Lb25jdlRXUzJWM1ZQSk1ObjVsZ2ZYZ2pkWkNGa0x2Zm1YZk1YcWVtMlQ5ekt6NC00QQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 13 Oct 2026 12:52:15 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
+      "title": "[WATℂℍLIVE]DAℤℕ!] FC Shakhtar Donetsk vs AEK Athens UEFA Champions League Football 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ - Universidad de Córdoba (UCO)",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQaWt2OWNaVVh3OWhtZERnR3hxV1puVktKVVRMdnlqb2Rrd3NveWJkMGV3a2RXRXNERTllRmRvbVB0XzNZNkpBYko4dGFfSHZkSHdsV3V0QlIyenk3Rkg5Zl9aajBpY3JMMnFGZ0VoZGFCRUxob1pjN1pGM09fU3c0bTMxc1RmSklKUUcwYmJSem5tUkU0MW85dUJERFU3TkVha3BvMWpMcEZYT0l3OU05NU5BM29waVBJN3h6Yk9ZU2dtbmx6bndsYndVM1o2b2NzcXJLR1Y0eHFoZGNYdUFVbk9MZjlZZ0VXMGtOWFIxU2g5RXlmeDRSTGFkSUhKbWxfeWJTTF9xN3dFNl8xRmY4d0xqbUFsY0JqN0FXVGU3cE4zUXpPQml6MTZmU29ibjJnaTdOa1k3NVAtZGU3UkU1Y0YyQUNxcjlJdUsxMWkwdmE3blQ0UlE?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Wed, 14 Oct 2026 17:56:13 GMT",
+      "base_score": 60,
+      "candidate_score": 74,
+      "priority": "High",
       "matched_keywords": [
-        "Olympiacos",
-        "Super League"
+        "AEK",
+        "Champions League",
+        "football"
       ],
       "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
     {
-      "external_id": "fa9dbcb6f6cc8396cac580c8",
+      "external_id": "1cd472ae6b388d8572f22d0e",
       "mode": "sportdog",
-      "title": "Clean sheets - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDZSTno4V3ktUEd0YUptVkpvT2d1WmNETkxFZmVRdVk4MHRXbHJCa2VmUl9ya2RsbWVWQ3ppaVZrcGNSNVREWDd4dUV2bXBjSVoyS1kwdlV5RVJoSllqTU9DM0VUV3FmampXZUF2c19FUW5RYVNxaWFEdVl6ZlQ2Q3JmWDBXTGh5RmhUNUdFN1VYZGxoSjBMSkx1Q0Zzb0FHbV94R2lpU2NlbUdHMnc?oc=5",
+      "title": "Penalties conceded - PAOK Thessaloniki stats for Super League 1 2025/2026 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXlqZlBENGJXVGFyMnBHdXkyZFR6SGJaWkFoSkRrNXV3T3lrdG82U1VnNFQyZ1pxd2MzZnJmdzJ5R0l0QmxHcTIyZEJFZzlVYjlwSjJtMHkyWjNHSXlzMExUUzlkU2NZRkNCcWxUVTdqNEUzNUdPS0NxSk9oRUZwLXRWM0Z0NTFtWmhUZkloNkRGS0N1d2tSMHRnVG1PQ2hTM0tqd2hMQkRjdDVGSHhMREptNXlBa0ZtZExnUG5OUzdMdw?oc=5",
       "source": "PAOK Rumour Watch",
-      "published": "Tue, 13 Oct 2026 12:50:42 GMT",
+      "published": "Wed, 14 Oct 2026 11:28:16 GMT",
       "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
+      "candidate_score": 70,
+      "priority": "High",
       "matched_keywords": [
         "PAOK",
         "Super League"
@@ -694,7 +689,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 13 Oct 2026 21:44:59 GMT",
       "base_score": 41,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -703,7 +698,7 @@
       "content_type": "news",
       "editorial_type": "Injury",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -767,6 +762,82 @@
       "needs_second_source": true
     },
     {
+      "external_id": "f50921e15329d2b9f69706d7",
+      "mode": "sportdog",
+      "title": "Periklis Kouroupakis vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUjlyRzZiTnhabFNhTlNMSy0tQlhKR1pKY3BLQzY3RmVScGFNalB4NjNoQUpESWJ0MmwwOF81TWFvVlJUczZwUV94THF2OUFtQ0w1WWp3UmtKaGc4UlktWldtREVlUGRkd0NEdGt3Sk5Va2ZvenVEazlfWjg4VDZlY2VyZFIzT2Z3YjFIa0ZDbWZMZ1JBaXZXNmE3RHpyMDZQSi1qeThVNWtxUQ?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 15 Oct 2026 00:41:58 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "0a63d1a29e07a87c3e1acc95",
+      "mode": "sportdog",
+      "title": "Bryce Cotton vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzktUnNxYlo5aFhkVVdoaGJBbnJfaFp6V0JzeTFjMzFYdHVLeHNndXowZ1VUUm0zMlh0Q29yOG0tSmltV2NkcXVBVThSV0lYYk5EaV93TnNxLXNoUUd4ZG9WQTNqZ3lRRzQ2aVpxbGZZcnN5NlZlck1PZEFMX0x4S3ozOGRmTm0yNDhYVER2QXV0Z2pMU1VwV3BZNmF2Uk0?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 14 Oct 2026 23:30:36 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "5baaa31863cce9f60c375944",
+      "mode": "sportdog",
+      "title": "Ante Masic vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRjdNbmxReHVzeDN0ak5pQlNYNzhlQjRBMGU5c1JSRGhXRlZFYmJxbzA3X0tQTTlDLW5jX3BjUldPNGJNLWVielZiUlY1NVFUcHljVm9BU2NqZVI4LTVsZkdaUjJPUnRZRW5RWHZjRkxkTkxyT2pRUzYzZlU4N3hrREZxZUJBdHlkSGxacHllUHhZWC1DMkYxYllROA?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 14 Oct 2026 22:02:38 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "70c1cb9c600690ce41fa734c",
+      "mode": "sportdog",
+      "title": "Eddie Gill vs Olympiacos Piraeus: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZENFOFR5Smc3a3BmWmZZWTNRLTlWSzFJdDZFNlFZYWVkREZ0eG94cnNXbE16aEI4NmdaUTdJc1dyWURpRVhfMmtfLWNzYVNtZjRYN09KbDBobzQzaGtBX05rQmNLMlFKTXBIRGpsUGRBWUFhSXhUU3h2RlFxLTZOUzN6Ty11VFRGdnpleGhES3FSZw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Wed, 14 Oct 2026 21:23:30 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "32786c98bf17ce501d561f66",
       "mode": "sportdog",
       "title": "Leon Bailey Left Out by Olympiacos From Squad Travelling to Marseille - roundtable.io",
@@ -774,7 +845,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Wed, 14 Oct 2026 21:03:18 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -786,80 +857,21 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f96b7e4da1944e3e749bc101",
-      "mode": "sportdog",
-      "title": "Kamil Chanas vs PAOK mateco: stats, game log - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnJ4UGxkdW9mZERhLXhOeVhBNjNIOHhqMHBtVzFfVG4yaE1pZUxJYkRGRjhVLW8xeVVNOUl2ck5odHRhLXlsVXVHZHBBVy1QTWswNmJYTEJkZVl5dnJra1ljc0Focnk0NXU0YUJkaUs3VTVXanpKalFsMF9Ra1Z2c2MxMTM4cnBsbWc?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Wed, 14 Oct 2026 19:26:20 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
-      "priority": "Normal",
+      "external_id": "a52ed686958f97bcbab1556f",
+      "mode": "geopolitico",
+      "title": "Yunanistan, İsrail ve Güney Kıbrıs Hattı Ne Yapmak İstiyor? - Yozgat Çamlık Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZE51Qi1Cd28tOF81YjVnejdPWWVwSlhFcFFEbWxoREQyaF9vd3R1OW5lMDA3VDFERWVINGFBOU5HWGVWc2hyUkhDbWthNDVMZ0hHMzEtMEp2TzVQNFZNQkxkcWZPS2hfcEpqeDd2LXg3Z1hfSFpMbEVXRnFMSEVsRTBnSnIzZHJHWkRsMTZkSHRKWkNXWXV2SzNYdUhhRXFPSTNBbnhNbS0?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 15 Oct 2026 04:30:00 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
       "matched_keywords": [
-        "PAOK"
+        "Yunanistan",
+        "Kıbrıs",
+        "Güney Kıbrıs"
       ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "557265a32e53e2a8716a048c",
-      "mode": "sportdog",
-      "title": "Asik Omer Faruk vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUI5QWNoUmN6RlZ5VzRhVjAwQWVOYWF5dVZHWXQzMDJpbzVtLXEtUG9acjloLTdJci1CSHZrZjNQa1ZqT0I4RElRdGhYTUJBUFl6T0JIT3Y4Si1kQk5PRXZuUXc5b24tSHdCbFBIWXNRQm5NS21lOXdFR3hYMl9wejdKLVU0TmtpYXF1YVlpODhZSXZZRzV4dWtTSVNtUU1XT2c?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 14 Oct 2026 18:49:28 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "124160aaee063d60426a6b86",
-      "mode": "sportdog",
-      "title": "Damian Jeszke vs PAOK mateco: stats, game log - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZURFeTdJclNwMkc3VlFYeUl2dmJsdlVkSzBvTEpOd1l2UXlNTG1tVUMwTFd0WWhpUG92bzNIOEZXY2l1OTlVTnVVcFo5dFZ5S3MwcEFtYVhqdkZvcjE4dG50TU1nTDQwUmxHclRpdVl2TDl3Z2lZRENiQ0stOG9EVlhPMXVFSlV3S0g3YXc4V0JYRU1HUHc?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Wed, 14 Oct 2026 17:09:25 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "f631fba00a6feb8c7ea5af04",
-      "mode": "sportdog",
-      "title": "Tim Ohlbrecht vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmRaM3A2WWZsQWY3OEZxN0NMWngwNmdaM2g1NjRHOUVqd2dUdUk5Rk9VRWZjWlVlT19wZXRITGFXdG1KZ2t6U3Y2T0FKQWttRzdqcWVHNm1ybWxHQ0JaUXlDZXBuc09IaVg3a2JZc2VwLWdWX21FM0pjUXR2d3lTZXhyU0hSLV9NNzl2UG8wLV9GVEg5YW4wUTFKRTUxRWc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 14 Oct 2026 16:41:27 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "f428b80841d08f77c699e04a",
@@ -869,7 +881,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Wed, 14 Oct 2026 19:31:36 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -887,7 +899,7 @@
       "source": "Pakistan Security Watch",
       "published": "Wed, 14 Oct 2026 10:52:35 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pakistan",
@@ -899,14 +911,31 @@
       "content_type": "news"
     },
     {
-      "external_id": "b3e87a2a9d1b326808f41244",
+      "external_id": "30871415d3ae4682966755e4",
       "mode": "geopolitico",
-      "title": "Nexans firmasının Yunanistan-GKRY-İsrail elektrik hattı projesi için Yunan makamlarına başvurduğu iddiası - www.ensondakika.com.tr",
+      "title": "Güney Kıbrıs üslerini genişletiyor... Yunanistan'dan deniz aracında Osmanlı göndermesi - Odatv",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONnYwUGxaQ3QzMEp4NjNYMmdfQUxhMHl2NmJDVHVVakxKOFZPMDNpNGhSNjI5UVpSOU9SNE93RExLUlJwWFFXMFlvekNQS3lKb1d4RkIxUjVtRW1NR3l1ZTNBNWlCZDhEeDA5WnUxcWR5aTVjak1zaV9yd3plZUprOVg0OUdBWGZPQ01rbm5PYzdJQm1uYUtLX0tjN053OHNVRFVlaDV3R0RBVGEzbG5jdHhiZ0UyMUE0dHV2bWJ3?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 14 Oct 2026 05:32:27 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kıbrıs",
+        "Güney Kıbrıs"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "8317ef36ed3cdb51c87dc8ea",
+      "mode": "geopolitico",
+      "title": "Nexans firmasının Yunanistan-GKRY-İsrail elektrik hattı projesi için Yunan makamlarına başvurduğu iddiası - https://www.ensondakika.com.tr/",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT3MtS3EzNXYySHBKbk8xZUM2WVlNVFNCMm1VMEJNWW82RmxLX3lYSzk3ak5sb1ZXbDFyODdmdjlYczN3eWp5Uy1uaDNPd2JzN3liam5hZk9VTnJzQllZM0R2QnpydDNzZlhvVUg0LTAwaTNrMWJuMjV6UnVic21YRzRzNDNUWVNtdEhuOEZPcEZ5QzdwOXc5dTlWN0ctZ1h6QzZrVE9PNDlPZUl6ODVYZ0I3ZHVTZmlCaVBfenhpNGJJdmxTRXg1VTllcUJ1N3pmVkQ3dWJ0SFY0ZGxf?oc=5",
       "source": "Turkish Greek Relations Deep Watch",
       "published": "Wed, 14 Oct 2026 19:32:02 GMT",
       "base_score": 94,
-      "candidate_score": 104,
+      "candidate_score": 100,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -914,27 +943,6 @@
         "Nexans"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "62db8ea9be9b1c4084ec799a",
-      "mode": "geopolitico",
-      "title": "Morocco Turns Israeli Weapons Technology Into Defense Industry as Algeria Watches - Middle East Forum",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjRISXRISnNxQlFPYXRkRnVEdHZ3S1o5T0RaR1UtZzA5NmF5M0t6Yk4tTXFSUU5PSUJPcENaVVowZUNSQ2lUeUVBS0F4WGN4eVRfN0VrODBZX0xhbnpiSk8tdGU1bzBaSk0zVVVDX3AxNUdmbDBfRGZEanFmVWt1SHhRWUJHYkxjVk1OWDFOckpQSHBjUVNCOWkxNlpmenk3MGVYR0JFSVF4ZEpsOGMxTkYyeWw0dEk?oc=5",
-      "source": "Middle East Forum Watch",
-      "published": "Tue, 13 Oct 2026 20:03:03 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Israel",
-        "Israeli",
-        "defense",
-        "weapons",
-        "technology",
-        "industry",
-        "defense industry"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "4a3c3c34dedd00d183a09ac1",
@@ -950,6 +958,23 @@
         "Greece",
         "Israel",
         "Cyprus"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "1f3ff0f7dad922abb01aae52",
+      "mode": "geopolitico",
+      "title": "GSI: Έτοιμο το γαλλικό πλοίο – Η NAVTEX και ο παράγοντας Τουρκία - Sigmalive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0FPMkJNZ2piR1p1TWxLVGlkVlF5SFdzOFE1Z0RRLWNrUXZFZmZhZzV6Z0kwS05jVXY2SVlzcU1PQ3ZmSDhGaWlkUnFYbUJDdHNuajloOHlaS3MwNG5fNkR2Z0lLRzcybXhaRkZzdFJWbC13UDNsQ09NQUlRTFNXUnd6UVpTYjBSV3Nrbm91Um1FdzU5Y2N0alZfQmtJYUh2UE9GTGJObkg?oc=5",
+      "source": "Dodecanese Security Migration Watch",
+      "published": "Thu, 15 Oct 2026 04:35:48 GMT",
+      "base_score": 78,
+      "candidate_score": 93,
+      "priority": "High",
+      "matched_keywords": [
+        "NAVTEX",
+        "GSI",
+        "GSI"
       ],
       "content_type": "news"
     },
@@ -971,41 +996,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "51fe11c3047442504d7399a2",
-      "mode": "geopolitico",
-      "title": "Ελλάδα – Κύπρος: Επανέναρξη εργασιών για τον GSI με έκδοση NAVTEX - Defence-point.gr",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVhHUWpabVZ6Tmx0V196VDd5cWp2SVJTWnlPOGs3cHM1am9BMVNKeVFBSk1PTTRpakREZFppQ2pYak1UaWN5YkRGenEzMmt3TnF6M3hUNzlyNW9mSzFEbXdDWVQwRnNyOEpRZWJlU0plUjNON0IyZ3M4MWV4X292dFBQNHVtY3J6N3NIcXNGSFRPQ3VPM3c?oc=5",
-      "source": "Defence Point National Watch",
-      "published": "Wed, 14 Oct 2026 17:03:44 GMT",
-      "base_score": 82,
-      "candidate_score": 92,
-      "priority": "High",
-      "matched_keywords": [
-        "NAVTEX",
-        "GSI",
-        "defence",
-        "GSI"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "7791fa525f23d2ca588e7c8b",
-      "mode": "geopolitico",
-      "title": "Güney Kıbrıs Türkiye'yi AB'ye şikayet edecek: Ankara'nın KKTC'ye boru hattı planı rahatsızlık yarattı - Gazete Oksijen",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2VPZEc3RTVVNnc2RkZ2ZE52X1NaZVZLVU5VWU92a3dFbGNnUFJPYmRBRExvUDlCZ3VGczl6ZWp5bmRnVjBwaFhULXNwWlhIZ2VPb2ZZcnFuMmxkRTZsWWxGMlZBSmpBZDFlT1dQVGVnSVRVZjJRcm5rRU5KR2lIUkp5R3ozQlBpQ0xvOE92cFNKbjlVTE5kekRxb21PNGJJNHNoWU9oSktvY1J5VWFZRkVKZHZGNl85ODBUcXpFSXBZRUhNYnVGM2x6S2l4amJk?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 14 Oct 2026 08:34:45 GMT",
-      "base_score": 81,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "Ankara"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "458c51c51cabdfa4a152fcd7",
       "mode": "pontos_voice",
       "title": "Παναγία Σουμελά: Η Τραπεζούντα ζητεί πίσω τα κειμήλια - Ελευθερία",
@@ -1013,7 +1003,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Wed, 14 Oct 2026 18:40:15 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -1057,38 +1047,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "0b7e05a5688e0e559173504c",
+      "external_id": "c6f15fcf448985aceb2a5618",
       "mode": "pontos_voice",
-      "title": "Thomas Reis açıkladı! Salah oynayacak mı?",
-      "url": "https://www.61saat.com/thomas-reis-ve-aral-simsir-basin-toplantisinda-konusuyor",
-      "source": "61Saat Trabzon",
-      "published": "Wed, 14 Oct 2026 20:00:00 +0300",
-      "base_score": 52,
-      "candidate_score": 62,
-      "priority": "Normal",
+      "title": "Τουρκία: Η Τραπεζούντα ζητεί την επιστροφή κειμηλίων της Παναγίας Σουμελά που μεταφέρθηκαν στην Άγκυρα το 1925 - Μακεδονικό Πρακτορείο Ειδήσεων",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZE1LUWpIeEphWFREUnd3VDdZdnpOTVBodGI2cWRLd2VaSjBMWXNhRVloZmFDYjdHcFFoYlNuZWNBSjZ4SU9MTWd5SnRXS21ONGk0TGp3TFBkNG56NTRaOGE4OUZic2NNRDBhUEcteV96TUhkdXBHUlRTWWlybFpkaE9MS2JzeUVkaFlZYmVzVDVEbTZ2ckF6TC1VUjJtVnJtdzkzRUVTekVVc1VLT3lyRFZpbVk4SEs5Q0dDcVZ2eFdPVFo3RTFfaC00d2hDeGRRTXdVRk1oUkZtQThzcnoxRHBISEdtUQ?oc=5",
+      "source": "ANA MPA Pontic Watch",
+      "published": "Wed, 14 Oct 2026 14:52:11 GMT",
+      "base_score": 77,
+      "candidate_score": 83,
+      "priority": "High",
       "matched_keywords": [
-        "Trabzon",
-        "açıklama",
-        "anıt",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "9a68c7dedf834748a3f034b0",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da palamut fiyatları dibe vurdu! Vatandaş sevindi, balıkçılar isyan etti",
-      "url": "https://www.61saat.com/trabzonda-palamut-fiyatlari-dibe-vurdu-vatandas-sevindi-balikcilar-isyan-etti",
-      "source": "61Saat Trabzon",
-      "published": "Wed, 14 Oct 2026 22:20:00 +0300",
-      "base_score": 51,
-      "candidate_score": 61,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Of",
-        "tartışma",
-        "Trabzon"
+        "Σουμελά",
+        "Τραπεζούντα"
       ],
       "content_type": "news"
     },
@@ -1107,6 +1077,24 @@
         "kültür",
         "Trabzon",
         "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "0b7e05a5688e0e559173504c",
+      "mode": "pontos_voice",
+      "title": "Thomas Reis açıkladı! Salah oynayacak mı?",
+      "url": "https://www.61saat.com/thomas-reis-ve-aral-simsir-basin-toplantisinda-konusuyor",
+      "source": "61Saat Trabzon",
+      "published": "Wed, 14 Oct 2026 20:00:00 +0300",
+      "base_score": 52,
+      "candidate_score": 58,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "açıklama",
+        "anıt",
+        "Trabzon"
       ],
       "content_type": "news"
     }
