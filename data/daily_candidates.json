@@ -1,53 +1,12 @@
 {
-  "generated_at": "2026-10-16T21:26:00.600758+00:00",
+  "generated_at": "2026-10-16T23:53:01.414029+00:00",
   "counts": {
-    "sportdog": 13,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "4e50b0365411153a4e1366ba",
-        "mode": "sportdog",
-        "title": "Super League Transfers - All Rumours and Latest News - TransferFeed",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pbE5hUURHaGM4NDBHb19CT3RRcEU2NkNnR0NFVm9LVkk0X3hWbEtBUWNvYmd4UDdldktxTHdZNmoyeFpnTnByZGhabmFPV1VoWDRqVGpoSFplTGt4b1VBSjFLcw?oc=5",
-        "source": "TransferFeed Greek Super League",
-        "published": "Thu, 15 Oct 2026 17:39:33 GMT",
-        "base_score": 78,
-        "candidate_score": 105,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "transfer",
-          "transfers",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "c90ed77d07fcdcbf75309cd6",
-        "mode": "sportdog",
-        "title": "Assists - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0tsLWpJd0hlV3ZLVEUzNUFkNFIyRnFQb0NHN2JoNWRHV01hbHhYaGhHajg4WHVWQ3lSeW1rbF9aLWJiZWZNUG5LM2EyYWhHdWs3ay1GQV9WM0RHeXV6bUJaNE5zMXN3azloQm1lWnhnemt6QThuNDdVTmlTNklVcWFKTHRpdThLX1l1THVKSll3aDNjcXNPRXZLYkR2aXM3UTFjQWs1YjE1bXM?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Fri, 16 Oct 2026 09:56:23 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
       {
         "external_id": "674b3c86842e509bed648c2d",
         "mode": "sportdog",
@@ -65,26 +24,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "b73f1bf43f7a663ab60ab414",
-        "mode": "sportdog",
-        "title": "Olympiacos Target Former Manchester United Winger - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlY4ZlBOdGRWMUFCOU85MDZ1VXNJS0xuSG1od05kTWFCUGxtQ1BqNWF3b1pZX1BJSUdpX2NfUEZpY1hRUWFiU2xvYTlxQ1lBRlhZN3ZnRVBocU9CeGVUSDRXT2dnaWdKamRBMVJUMlZPZXFGVDBLVGVQX1U4Q1F4Z2JYX0M3OU4tWUlHbWF1MldlT20tQnpEZTBTaHFTa0Z5YzQ1MG5uM3YzZw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 16 Oct 2026 20:09:21 GMT",
-        "base_score": 39,
-        "candidate_score": 62,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "winger"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -116,7 +55,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 15 Oct 2026 16:54:28 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
@@ -125,7 +64,7 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -136,7 +75,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 15 Oct 2026 15:38:26 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
@@ -145,7 +84,27 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "fc36789c125f053780dd23dc",
+        "mode": "sportdog",
+        "title": "Olympiacos Target Former Manchester United Winger - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2FPbVBBX0VvekxTdTJLb3pkdmQycVlQOHlzZkU4X3hBQmk0TVp4Mk1qVU56RWRHOG5HOE1lVkxVVkdvTmx2eUszRGNaeWN4WnZES0hKWFJaSURRRFRJOEVCTUFkcWIyblpzRGlBSHUxWG9ZVmhuWmExUzV0WnlnVm1BLWxzbzNEV3AyZWtOY1M3T1pVc0E?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 16 Oct 2026 19:53:16 GMT",
+        "base_score": 39,
+        "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "winger"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -165,25 +124,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "8c434f962083d0647d65b92f",
-        "mode": "sportdog",
-        "title": "How to Watch Panetolikos vs. Olympiacos: Start Time, TV Channels, Streaming Details - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2UxN1ZOOXlqYUJydGlRVU43cEE4NUY0bkNnSXdZWkZhSXZGVHdfQkxKSUFvLW1QWFRjNzRVQTlDd0I2OV91bkMxVmVXT2g0YWFxRG50TlBtQ1owOEVRYk1zcjdMb21ZcktlOWxDc0F0VHFjUVJYbW4yWXNvTi1tSEtEbWFYTlpQbkljWldRVHhTQ0JsTlNlWjhvWENnZV8xMzlKbC1LWlgtckc4c1N0OE05eU9TSTdyLVM3TTdPUWR6MDJPeE54TUc1YU1FMW9kazlfemlETU0?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 16 Oct 2026 20:25:26 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -208,6 +148,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "8c434f962083d0647d65b92f",
+        "mode": "sportdog",
+        "title": "How to Watch Panetolikos vs. Olympiacos: Start Time, TV Channels, Streaming Details - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2UxN1ZOOXlqYUJydGlRVU43cEE4NUY0bkNnSXdZWkZhSXZGVHdfQkxKSUFvLW1QWFRjNzRVQTlDd0I2OV91bkMxVmVXT2g0YWFxRG50TlBtQ1owOEVRYk1zcjdMb21ZcktlOWxDc0F0VHFjUVJYbW4yWXNvTi1tSEtEbWFYTlpQbkljWldRVHhTQ0JsTlNlWjhvWENnZV8xMzlKbC1LWlgtckc4c1N0OE05eU9TSTdyLVM3TTdPUWR6MDJPeE54TUc1YU1FMW9kazlfemlETU0?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 16 Oct 2026 20:25:26 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "d67286967b8526a65d3b8e13",
         "mode": "sportdog",
         "title": "The past is Gentse, but PAOK is on the mind! - Δημοκρατική της Ρόδου",
@@ -216,6 +175,25 @@
         "published": "Fri, 16 Oct 2026 07:00:32 GMT",
         "base_score": 31,
         "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "bbb23e5109ba4e34358ec6b5",
+        "mode": "sportdog",
+        "title": "PAOK v Partizan 14/11/2026, Stats - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHBXR2toQmxFU1FyZ25Cc2FDdkI2RGZhMzN4dTRVZVNXeUoxdG1yNXFleFZ3TlpnVmEyM3lCVVFnQmRBUFNyZVk0cEtFblNwRGlMSGZMeW04RDg2NndBYTZxVnFrZDBIZlJfWnp3MmRuZ2pIVVZZZU1WZWkxaEZoY2Y4eW1iX3V1cXZQcUpBZ2hwZw?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Fri, 16 Oct 2026 04:19:30 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -244,35 +222,34 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "cf045f82ffec22092ea65091",
-        "mode": "sportdog",
-        "title": "EYATH signs PAOK stadium pact. EYATH stock holds EUR 159.0 million value - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzRDUlJaTW80NmRNZVdrdVVWVjl2bm9aRkJuVTRNTGdOQUdxYnk5Z3gwR19LREJEMXAtb2hyZDZZWlluUWpfVXVtelk1Wk8zbG1YXzFnMzQ4OUJ0X29IS0dPRVdQTlhCOUo3d291X29oaXpsSDhZTXJRNGZHM2FTMDhvSjQ5bngwcmZxUkIxSDIwRmRMWndmNnA0VjdoY1JaMXJZQktXZkZKcVl1YWJnMzRmRlpIb3ZpWjc4WnZ2d0daOFgtUlBrSXpn?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Thu, 15 Oct 2026 11:01:51 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "f9806989d7805620d0e3cfae",
+        "mode": "geopolitico",
+        "title": "Yunanistan'ın Girit'ten yayınladığı NAVTEX'e cevap veren Ankara - ssbulten.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXZiN3htMzdWdVdxbENDNEk0b3ZrVGRHc3QtRktXa1JwUTdmWnBwLWM1dlN4WjJhc2lIdHI4NVVBTGNISHFOYnI0Z05VR3N1VWlqV1hnbXlid1pQbGRldFhvVzh6YmpENlVZMkNvbWUxLTFIemdzb095aFFxWkE3UGozSUtvNXpYdmo5YmRLbUJ3OUdNZlp4VDliaWZLaGVxNE80dWZmbw?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 16 Oct 2026 23:34:54 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "NAVTEX",
+          "Girit",
+          "Ankara"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "c475d9c6be502a88a14e8f1a",
         "mode": "geopolitico",
         "title": "“Eunomia” tatbikatı: Yunanistan, Fransa, İtalya ve GKRY ile Doğu Akdeniz’de “Ortak tatbikat” yapacak - Giynik Gazetesi",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3RWSVcwN1ZXLXJTMjdGWEE1elQySTFUTGlCMDZXVXJnR2xoQnRoWkNVMURmU0NyVjVZWEVPeFpjTzNHVzMyWkZRbjlodmhHZHVNY1BXaUFHZDlseWNLMGE3X3NGeEFvcE5sMzR5MGx3ejhZTDVmX1o4UHVZVjdzdVlkdHBnTl9LZ1U1OGZMYWJRcFc3LTdqemNuNl9FYW5tRHdHSmtXdVREb192ZFdJY1ZCMVh6a0VVVmRJbw?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 16 Oct 2026 15:26:34 GMT",
+        "published": "Fri, 16 Oct 2026 18:58:57 GMT",
         "base_score": 100,
         "candidate_score": 110,
         "priority": "URGENT",
@@ -293,33 +270,13 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 16 Oct 2026 14:02:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
           "Doğu Akdeniz",
           "Ankara",
           "kriz"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "25b498be16764693f69ccecc",
-        "mode": "geopolitico",
-        "title": "Yunanistan, Fransa, İtalya ve Kıbrıs'tan Doğu Akdeniz'de ortak tatbikat - Evrensel.net",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlp2U3ZHZVIyaV9xMk55QXg3ZUU1S0xGOFZrSEFGVmlpd05jMjV1dWZndk9LR3d1bk5NOTZpYWJ5LTdXLS00SkVLRkpfa2JsSlBTVHQwYk5zdjhoR0lZR19VOG9XYlQ2YVc4UGlXSVZuYmNmNDRXM1FFV0lzdDBMUGtrcjFqUmo4QVRrSkJBX2MtWTBLVW1pcllDUW1SbWs5NUVTbDRNdjVWUQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 16 Oct 2026 13:36:00 GMT",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "Fransa",
-          "tatbikat",
-          "ortak tatbikat"
         ],
         "content_type": "turkey_greece"
       },
@@ -359,24 +316,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "4d241e614c5e3a4a98d3c1cc",
-        "mode": "geopolitico",
-        "title": "India and Greece review defence cooperation, explore new initiatives - ANI News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1pQNmtmV25QalFEWnE4LWRKZXc5cEczSWxtLUg4TjFlTU5zUkZGYzZJYzMtdXc2dVFGNFEtTF9wb2ZpXzRqT1NqQ2hNVzZ0ZVg2LVdEbmV1dTU1WVZVWjc1QmkzaFNzMnNrS2xBV3A2c0dZVGo0U3BVZlAzazZpOWdxcS1YX2NhSktnYTNwbUlMb1BoNzFMUlo5WmU2VTdDQmY0dlFRcTBjQ2l5Ulg2ZU42enZnTHRpSi1kX1ZnQQ?oc=5",
-        "source": "Greece India Strategic Watch",
-        "published": "Thu, 15 Oct 2026 16:53:00 GMT",
-        "base_score": 90,
-        "candidate_score": 93,
-        "priority": "High",
-        "matched_keywords": [
-          "Greece",
-          "India",
-          "defence",
-          "defence cooperation"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "a3e561b42fb45df4ed1f737f",
         "mode": "geopolitico",
         "title": "Pakistan Detains 104 Afghans In Balochistan Over Alleged Illegal Migration - Afghanistan International",
@@ -409,6 +348,23 @@
           "Namık Tan"
         ],
         "content_type": "analyst"
+      },
+      {
+        "external_id": "25862b0d69412e54408e6ee3",
+        "mode": "geopolitico",
+        "title": "Turkey Issues Navtex for Live-Fire Exercise South of Kastellorizo - Greek City Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFNMMTFSMWxIWDFKSThETUFuOE9jZGJ5eF9lR3dOWnVrejEwZS1RR0FEZkRtS3BEX2hST2Zic1NwR2UwQUJGVWtZYWNqOFNzck4yTlJhYkZNNFFMcmNCaGwxamZDb2U0ZjUwcVFRRXVDT1JJVWVYUjFkbS1GbHREQ01KUlpValhqRTVlVQ?oc=5",
+        "source": "Greece Turkey Aegean Watch",
+        "published": "Fri, 16 Oct 2026 11:49:05 GMT",
+        "base_score": 84,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "NAVTEX",
+          "Kastellorizo",
+          "Turkey"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -491,7 +447,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 16 Oct 2026 17:08:00 +0300",
         "base_score": 49,
-        "candidate_score": 59,
+        "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -502,19 +458,18 @@
         "content_type": "news"
       },
       {
-        "external_id": "3d3ee14802fdc7b4ffb4d60f",
+        "external_id": "7e7d54912c970e1a824f85ba",
         "mode": "pontos_voice",
-        "title": "KCT 1461 Trabzon FK'da hedef şampiyonluk! Kadir Kantekin'den dikkat çeken açıklamalar",
-        "url": "https://www.61saat.com/kct-1461-trabzon-fkda-hedef-sampiyonluk-kadir-kantekinden-dikkat-ceken-aciklamalar",
+        "title": "Trabzon'da araç 200 metrelik uçuruma yuvarlandı: 1 ölü",
+        "url": "https://www.61saat.com/trabzonda-arac-200-metrelik-ucuruma-yuvarlandi-1-olu",
         "source": "61Saat Trabzon",
-        "published": "Fri, 16 Oct 2026 17:12:00 +0300",
-        "base_score": 47,
-        "candidate_score": 57,
+        "published": "Fri, 16 Oct 2026 19:04:00 +0300",
+        "base_score": 44,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
-          "açıklama",
+          "Çaykara",
           "Trabzon"
         ],
         "content_type": "news"
@@ -522,47 +477,6 @@
     ]
   },
   "items": [
-    {
-      "external_id": "4e50b0365411153a4e1366ba",
-      "mode": "sportdog",
-      "title": "Super League Transfers - All Rumours and Latest News - TransferFeed",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pbE5hUURHaGM4NDBHb19CT3RRcEU2NkNnR0NFVm9LVkk0X3hWbEtBUWNvYmd4UDdldktxTHdZNmoyeFpnTnByZGhabmFPV1VoWDRqVGpoSFplTGt4b1VBSjFLcw?oc=5",
-      "source": "TransferFeed Greek Super League",
-      "published": "Thu, 15 Oct 2026 17:39:33 GMT",
-      "base_score": 78,
-      "candidate_score": 105,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "transfer",
-        "transfers",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "c90ed77d07fcdcbf75309cd6",
-      "mode": "sportdog",
-      "title": "Assists - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0tsLWpJd0hlV3ZLVEUzNUFkNFIyRnFQb0NHN2JoNWRHV01hbHhYaGhHajg4WHVWQ3lSeW1rbF9aLWJiZWZNUG5LM2EyYWhHdWs3ay1GQV9WM0RHeXV6bUJaNE5zMXN3azloQm1lWnhnemt6QThuNDdVTmlTNklVcWFKTHRpdThLX1l1THVKSll3aDNjcXNPRXZLYkR2aXM3UTFjQWs1YjE1bXM?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Fri, 16 Oct 2026 09:56:23 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
     {
       "external_id": "674b3c86842e509bed648c2d",
       "mode": "sportdog",
@@ -580,26 +494,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "b73f1bf43f7a663ab60ab414",
-      "mode": "sportdog",
-      "title": "Olympiacos Target Former Manchester United Winger - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlY4ZlBOdGRWMUFCOU85MDZ1VXNJS0xuSG1od05kTWFCUGxtQ1BqNWF3b1pZX1BJSUdpX2NfUEZpY1hRUWFiU2xvYTlxQ1lBRlhZN3ZnRVBocU9CeGVUSDRXT2dnaWdKamRBMVJUMlZPZXFGVDBLVGVQX1U4Q1F4Z2JYX0M3OU4tWUlHbWF1MldlT20tQnpEZTBTaHFTa0Z5YzQ1MG5uM3YzZw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 16 Oct 2026 20:09:21 GMT",
-      "base_score": 39,
-      "candidate_score": 62,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "winger"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -631,7 +525,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 15 Oct 2026 16:54:28 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
@@ -640,7 +534,7 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Panathinaikos",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -651,7 +545,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 15 Oct 2026 15:38:26 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
@@ -660,7 +554,27 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Panathinaikos",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "fc36789c125f053780dd23dc",
+      "mode": "sportdog",
+      "title": "Olympiacos Target Former Manchester United Winger - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2FPbVBBX0VvekxTdTJLb3pkdmQycVlQOHlzZkU4X3hBQmk0TVp4Mk1qVU56RWRHOG5HOE1lVkxVVkdvTmx2eUszRGNaeWN4WnZES0hKWFJaSURRRFRJOEVCTUFkcWIyblpzRGlBSHUxWG9ZVmhuWmExUzV0WnlnVm1BLWxzbzNEV3AyZWtOY1M3T1pVc0E?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 16 Oct 2026 19:53:16 GMT",
+      "base_score": 39,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "winger"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -680,25 +594,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "8c434f962083d0647d65b92f",
-      "mode": "sportdog",
-      "title": "How to Watch Panetolikos vs. Olympiacos: Start Time, TV Channels, Streaming Details - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2UxN1ZOOXlqYUJydGlRVU43cEE4NUY0bkNnSXdZWkZhSXZGVHdfQkxKSUFvLW1QWFRjNzRVQTlDd0I2OV91bkMxVmVXT2g0YWFxRG50TlBtQ1owOEVRYk1zcjdMb21ZcktlOWxDc0F0VHFjUVJYbW4yWXNvTi1tSEtEbWFYTlpQbkljWldRVHhTQ0JsTlNlWjhvWENnZV8xMzlKbC1LWlgtckc4c1N0OE05eU9TSTdyLVM3TTdPUWR6MDJPeE54TUc1YU1FMW9kazlfemlETU0?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 16 Oct 2026 20:25:26 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -723,6 +618,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "8c434f962083d0647d65b92f",
+      "mode": "sportdog",
+      "title": "How to Watch Panetolikos vs. Olympiacos: Start Time, TV Channels, Streaming Details - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2UxN1ZOOXlqYUJydGlRVU43cEE4NUY0bkNnSXdZWkZhSXZGVHdfQkxKSUFvLW1QWFRjNzRVQTlDd0I2OV91bkMxVmVXT2g0YWFxRG50TlBtQ1owOEVRYk1zcjdMb21ZcktlOWxDc0F0VHFjUVJYbW4yWXNvTi1tSEtEbWFYTlpQbkljWldRVHhTQ0JsTlNlWjhvWENnZV8xMzlKbC1LWlgtckc4c1N0OE05eU9TSTdyLVM3TTdPUWR6MDJPeE54TUc1YU1FMW9kazlfemlETU0?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 16 Oct 2026 20:25:26 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "d67286967b8526a65d3b8e13",
       "mode": "sportdog",
       "title": "The past is Gentse, but PAOK is on the mind! - Δημοκρατική της Ρόδου",
@@ -731,6 +645,25 @@
       "published": "Fri, 16 Oct 2026 07:00:32 GMT",
       "base_score": 31,
       "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "bbb23e5109ba4e34358ec6b5",
+      "mode": "sportdog",
+      "title": "PAOK v Partizan 14/11/2026, Stats - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHBXR2toQmxFU1FyZ25Cc2FDdkI2RGZhMzN4dTRVZVNXeUoxdG1yNXFleFZ3TlpnVmEyM3lCVVFnQmRBUFNyZVk0cEtFblNwRGlMSGZMeW04RDg2NndBYTZxVnFrZDBIZlJfWnp3MmRuZ2pIVVZZZU1WZWkxaEZoY2Y4eW1iX3V1cXZQcUpBZ2hwZw?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Fri, 16 Oct 2026 04:19:30 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -761,23 +694,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "cf045f82ffec22092ea65091",
-      "mode": "sportdog",
-      "title": "EYATH signs PAOK stadium pact. EYATH stock holds EUR 159.0 million value - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzRDUlJaTW80NmRNZVdrdVVWVjl2bm9aRkJuVTRNTGdOQUdxYnk5Z3gwR19LREJEMXAtb2hyZDZZWlluUWpfVXVtelk1Wk8zbG1YXzFnMzQ4OUJ0X29IS0dPRVdQTlhCOUo3d291X29oaXpsSDhZTXJRNGZHM2FTMDhvSjQ5bngwcmZxUkIxSDIwRmRMWndmNnA0VjdoY1JaMXJZQktXZkZKcVl1YWJnMzRmRlpIb3ZpWjc4WnZ2d0daOFgtUlBrSXpn?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Thu, 15 Oct 2026 11:01:51 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
+      "external_id": "f9806989d7805620d0e3cfae",
+      "mode": "geopolitico",
+      "title": "Yunanistan'ın Girit'ten yayınladığı NAVTEX'e cevap veren Ankara - ssbulten.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXZiN3htMzdWdVdxbENDNEk0b3ZrVGRHc3QtRktXa1JwUTdmWnBwLWM1dlN4WjJhc2lIdHI4NVVBTGNISHFOYnI0Z05VR3N1VWlqV1hnbXlid1pQbGRldFhvVzh6YmpENlVZMkNvbWUxLTFIemdzb095aFFxWkE3UGozSUtvNXpYdmo5YmRLbUJ3OUdNZlp4VDliaWZLaGVxNE80dWZmbw?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 16 Oct 2026 23:34:54 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
       "matched_keywords": [
-        "PAOK"
+        "Yunanistan",
+        "NAVTEX",
+        "Girit",
+        "Ankara"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "c475d9c6be502a88a14e8f1a",
@@ -785,7 +717,7 @@
       "title": "“Eunomia” tatbikatı: Yunanistan, Fransa, İtalya ve GKRY ile Doğu Akdeniz’de “Ortak tatbikat” yapacak - Giynik Gazetesi",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3RWSVcwN1ZXLXJTMjdGWEE1elQySTFUTGlCMDZXVXJnR2xoQnRoWkNVMURmU0NyVjVZWEVPeFpjTzNHVzMyWkZRbjlodmhHZHVNY1BXaUFHZDlseWNLMGE3X3NGeEFvcE5sMzR5MGx3ejhZTDVmX1o4UHVZVjdzdVlkdHBnTl9LZ1U1OGZMYWJRcFc3LTdqemNuNl9FYW5tRHdHSmtXdVREb192ZFdJY1ZCMVh6a0VVVmRJbw?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 16 Oct 2026 15:26:34 GMT",
+      "published": "Fri, 16 Oct 2026 18:58:57 GMT",
       "base_score": 100,
       "candidate_score": 110,
       "priority": "URGENT",
@@ -806,33 +738,13 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 16 Oct 2026 14:02:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
         "Doğu Akdeniz",
         "Ankara",
         "kriz"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "25b498be16764693f69ccecc",
-      "mode": "geopolitico",
-      "title": "Yunanistan, Fransa, İtalya ve Kıbrıs'tan Doğu Akdeniz'de ortak tatbikat - Evrensel.net",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlp2U3ZHZVIyaV9xMk55QXg3ZUU1S0xGOFZrSEFGVmlpd05jMjV1dWZndk9LR3d1bk5NOTZpYWJ5LTdXLS00SkVLRkpfa2JsSlBTVHQwYk5zdjhoR0lZR19VOG9XYlQ2YVc4UGlXSVZuYmNmNDRXM1FFV0lzdDBMUGtrcjFqUmo4QVRrSkJBX2MtWTBLVW1pcllDUW1SbWs5NUVTbDRNdjVWUQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 16 Oct 2026 13:36:00 GMT",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "Fransa",
-        "tatbikat",
-        "ortak tatbikat"
       ],
       "content_type": "turkey_greece"
     },
@@ -872,24 +784,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "4d241e614c5e3a4a98d3c1cc",
-      "mode": "geopolitico",
-      "title": "India and Greece review defence cooperation, explore new initiatives - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1pQNmtmV25QalFEWnE4LWRKZXc5cEczSWxtLUg4TjFlTU5zUkZGYzZJYzMtdXc2dVFGNFEtTF9wb2ZpXzRqT1NqQ2hNVzZ0ZVg2LVdEbmV1dTU1WVZVWjc1QmkzaFNzMnNrS2xBV3A2c0dZVGo0U3BVZlAzazZpOWdxcS1YX2NhSktnYTNwbUlMb1BoNzFMUlo5WmU2VTdDQmY0dlFRcTBjQ2l5Ulg2ZU42enZnTHRpSi1kX1ZnQQ?oc=5",
-      "source": "Greece India Strategic Watch",
-      "published": "Thu, 15 Oct 2026 16:53:00 GMT",
-      "base_score": 90,
-      "candidate_score": 93,
-      "priority": "High",
-      "matched_keywords": [
-        "Greece",
-        "India",
-        "defence",
-        "defence cooperation"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "a3e561b42fb45df4ed1f737f",
       "mode": "geopolitico",
       "title": "Pakistan Detains 104 Afghans In Balochistan Over Alleged Illegal Migration - Afghanistan International",
@@ -922,6 +816,23 @@
         "Namık Tan"
       ],
       "content_type": "analyst"
+    },
+    {
+      "external_id": "25862b0d69412e54408e6ee3",
+      "mode": "geopolitico",
+      "title": "Turkey Issues Navtex for Live-Fire Exercise South of Kastellorizo - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFNMMTFSMWxIWDFKSThETUFuOE9jZGJ5eF9lR3dOWnVrejEwZS1RR0FEZkRtS3BEX2hST2Zic1NwR2UwQUJGVWtZYWNqOFNzck4yTlJhYkZNNFFMcmNCaGwxamZDb2U0ZjUwcVFRRXVDT1JJVWVYUjFkbS1GbHREQ01KUlpValhqRTVlVQ?oc=5",
+      "source": "Greece Turkey Aegean Watch",
+      "published": "Fri, 16 Oct 2026 11:49:05 GMT",
+      "base_score": 84,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "NAVTEX",
+        "Kastellorizo",
+        "Turkey"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "eb0666a24f325b6ee40e1e9a",
@@ -1002,7 +913,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 16 Oct 2026 17:08:00 +0300",
       "base_score": 49,
-      "candidate_score": 59,
+      "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -1013,19 +924,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "3d3ee14802fdc7b4ffb4d60f",
+      "external_id": "7e7d54912c970e1a824f85ba",
       "mode": "pontos_voice",
-      "title": "KCT 1461 Trabzon FK'da hedef şampiyonluk! Kadir Kantekin'den dikkat çeken açıklamalar",
-      "url": "https://www.61saat.com/kct-1461-trabzon-fkda-hedef-sampiyonluk-kadir-kantekinden-dikkat-ceken-aciklamalar",
+      "title": "Trabzon'da araç 200 metrelik uçuruma yuvarlandı: 1 ölü",
+      "url": "https://www.61saat.com/trabzonda-arac-200-metrelik-ucuruma-yuvarlandi-1-olu",
       "source": "61Saat Trabzon",
-      "published": "Fri, 16 Oct 2026 17:12:00 +0300",
-      "base_score": 47,
-      "candidate_score": 57,
+      "published": "Fri, 16 Oct 2026 19:04:00 +0300",
+      "base_score": 44,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
-        "açıklama",
+        "Çaykara",
         "Trabzon"
       ],
       "content_type": "news"
