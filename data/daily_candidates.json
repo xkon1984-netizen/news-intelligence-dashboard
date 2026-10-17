@@ -1,32 +1,12 @@
 {
-  "generated_at": "2026-10-17T21:49:28.888272+00:00",
+  "generated_at": "2026-10-17T23:33:07.252265+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 10,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "65321cba637b3f3eb23e2e12",
-        "mode": "sportdog",
-        "title": "AEK Athens vs. Manchester City Live Stream of UEFA Champions League - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbEhwODZqSE5HcloxNFh2aGs5bm1MOTlwWUVxNXBfcmhsbWRySjlnc0VhVmtBVXFrSm9yX0kwMzNUYURzUS14c1FnMVRMQksxMUFHNzlHM1RPTXYyNWJ2UFJHR0Jpc3A0MEprQzRZQQ?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Sat, 17 Oct 2026 20:22:12 GMT",
-        "base_score": 50,
-        "candidate_score": 73,
-        "priority": "High",
-        "matched_keywords": [
-          "AEK",
-          "Champions League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
       {
         "external_id": "6acdd7083779a8857ebff5ee",
         "mode": "sportdog",
@@ -48,22 +28,22 @@
         "needs_second_source": true
       },
       {
-        "external_id": "c90ed77d07fcdcbf75309cd6",
+        "external_id": "65321cba637b3f3eb23e2e12",
         "mode": "sportdog",
-        "title": "Assists - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0tsLWpJd0hlV3ZLVEUzNUFkNFIyRnFQb0NHN2JoNWRHV01hbHhYaGhHajg4WHVWQ3lSeW1rbF9aLWJiZWZNUG5LM2EyYWhHdWs3ay1GQV9WM0RHeXV6bUJaNE5zMXN3azloQm1lWnhnemt6QThuNDdVTmlTNklVcWFKTHRpdThLX1l1THVKSll3aDNjcXNPRXZLYkR2aXM3UTFjQWs1YjE1bXM?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Fri, 16 Oct 2026 09:56:23 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
+        "title": "AEK Athens vs. Manchester City Live Stream of UEFA Champions League - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbEhwODZqSE5HcloxNFh2aGs5bm1MOTlwWUVxNXBfcmhsbWRySjlnc0VhVmtBVXFrSm9yX0kwMzNUYURzUS14c1FnMVRMQksxMUFHNzlHM1RPTXYyNWJ2UFJHR0Jpc3A0MEprQzRZQQ?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sat, 17 Oct 2026 20:22:12 GMT",
+        "base_score": 50,
+        "candidate_score": 68,
         "priority": "Normal",
         "matched_keywords": [
-          "PAOK",
-          "Super League"
+          "AEK",
+          "Champions League"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "PAOK",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -73,9 +53,9 @@
         "title": "▶️ Watch PAOK vs Iraklis Live Stream | Predictions & Tips - 18 Oct - FootballPredictions.NET",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pd19HSFZDTzJibHpkejRHU29WX3lmS0JNcmc5ZlZBMkNKci1uZUNkd2hoaTFPRkVUMTZITHZnNlVsQXFsMkJzNlFQOGtxRmFpcnY2U0wzYUdoNTFZT1B0d25wdkxHYXpvT1I0U1gwSzRnLXR1ZlBXUWM2Zw?oc=5",
         "source": "PAOK Rumour Watch",
-        "published": "Sat, 17 Oct 2026 16:43:39 GMT",
+        "published": "Sat, 17 Oct 2026 22:32:25 GMT",
         "base_score": 41,
-        "candidate_score": 59,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -84,6 +64,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "681c632a69d5efc803da2581",
+        "mode": "sportdog",
+        "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sat, 17 Oct 2026 19:50:45 GMT",
+        "base_score": 41,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -115,7 +115,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 17 Oct 2026 15:23:20 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -165,25 +165,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "5b05d30b7e7d47d33ef7aa8f",
-        "mode": "sportdog",
-        "title": "AEK Athens Fans Throw Petrol Bomb And Fireworks At Ajax Supporters Stephen Cloobeck (XoGT2WhFeI) - Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wTXMycXoweFQwMUhZM0V4ZnFZZnlTMHVqSjBESUx2TktkVlowbTBnbm1FT0d3dU8tQzBmWU56WmRoZ1ZGRmRIY1paSXVCbXA0OFB4VkZFRjBvTjdlR3hXaG96SURjdw?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Fri, 16 Oct 2026 21:31:43 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "5a86837813fa9632902ce3ea",
         "mode": "sportdog",
         "title": "Panathinaikos 2-1 Borac (15 Oct, 2026) Team Stats - ESPN India",
@@ -191,7 +172,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 16 Oct 2026 17:09:35 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -287,7 +268,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 17 Oct 2026 04:00:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -323,7 +304,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 17 Oct 2026 04:24:39 GMT",
         "base_score": 94,
-        "candidate_score": 100,
+        "candidate_score": 97,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -332,23 +313,6 @@
           "kablo"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "7acf04c00088d80be07ed96b",
-        "mode": "geopolitico",
-        "title": "Δεύτερη αντι-NAVTEX από την Τουρκία μέσα σε λίγες ώρες: Αμφισβητεί την κυπριακή ΑΟΖ και τις έρευνες για το καλώδιο EMC που θα συνδέει την Ασία με την Ευρώπη - AegeaNews",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjZDc1pWMUxUSG43Rlg1YzdFc0Utd1BCdGV0WDhlQTBZQk1KbkxHNUpzOU5lUEdjamdtbldiTDR0QUk5OWRFdVZKdmxONjNZbFV0SlZ1MzNxXzdkelJqU0JNLW5vb181T1dCMnFvbXRRZE1Nc1ZJQnlRZDhLUWRPMmhzQ2hHUlBsWE1xckwtVFBmcmhmOTBXV1A3WEw2LXFCeThUdmx3cEF4RDN4TUVxUzNOb3FrYXNjcXZuWnpGVVotUDQxY1BzdHNlVE9fN2d3Skt0MW9KOG9TM0pGZEozaFg2S1JPdkw2TzVqRjVEQndHRURSR0F2WGdDQTE5Ym84Y01oY2Jfcnhja0xzQ3NubExOSjZaWUtGOWpTOE0xU3JvTEU?oc=5",
-        "source": "Dodecanese Security Migration Watch",
-        "published": "Fri, 16 Oct 2026 16:05:15 GMT",
-        "base_score": 96,
-        "candidate_score": 99,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Aegean",
-          "Ege",
-          "NAVTEX"
-        ],
-        "content_type": "news"
       },
       {
         "external_id": "dd669b20dccc9659696f041b",
@@ -366,6 +330,23 @@
           "Ege"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "b6a460784c0d678260e0e5a2",
+        "mode": "geopolitico",
+        "title": "Türkler Kıbrıs-Yunanistan elektrik bağlantısı projesini engellerse ne yapacağız? - ssbulten.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnlUNi0yREV2RHlvYjBaSkFGTWZFZU5NZTRsQ1BUa1VIamlzbE5aMURCVFViaDdlUlk1cWwxOFhwTWxjOFRhN0xGRjBiRUFUajNuNTFEbkZ3UWMwOTB3OGI1TmprcmI1SGZHT21hek1HVDJsN1ZvcWJNR0E4NHFEZ2VMeGEwMXQzT1VfUFBELVo4X19JeUN2VlBQdDE5SmhLcFdvLUpXaFBiRlFVSVNYMll3TmEzSl8xUEVoTzV3NVFRU01TTHRV?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Fri, 16 Oct 2026 20:34:46 GMT",
+        "base_score": 84,
+        "candidate_score": 87,
+        "priority": "High",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "elektrik bağlantısı"
+        ],
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -438,24 +419,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "ab46bc9778ac778dbc64cf96",
-        "mode": "pontos_voice",
-        "title": "Mısır basınında Mohamed Salah tartışması! Trabzonspor üzerinden federasyona tepki - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN05hRWJzOWRxazdvdjFFTjh3VlFGVjJCcF9TMzFIUmNfTWplRkxhY2xIUURYcDVuMllaSFQ1dm1DaF85dnJJdkRLNDB4ZnV5TmpxNmpjZ0ZoRlJCOUJrRndxdE5qQlVXeGZGNW1XT3l1SkI3Y2lONkZyU0RJYjNUc0pSbXk0d0w5cUJHeTVIS1NySkIwSFpWQ3djUEFQcExibFV6RW5fRDFTWFlCUFJXT3dCTThqYU5ibmpqTW12NFI?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sat, 17 Oct 2026 19:47:15 GMT",
-        "base_score": 51,
-        "candidate_score": 66,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "tepki",
-          "tartışma",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "4e14b2d21d1fdf9adaf492b2",
         "mode": "pontos_voice",
         "title": "Aynı pozisyon, farklı karar! Trabzonspor maçında neden iptal edilmedi?",
@@ -472,30 +435,28 @@
           "dil"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "ab46bc9778ac778dbc64cf96",
+        "mode": "pontos_voice",
+        "title": "Mısır basınında Mohamed Salah tartışması! Trabzonspor üzerinden federasyona tepki - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN05hRWJzOWRxazdvdjFFTjh3VlFGVjJCcF9TMzFIUmNfTWplRkxhY2xIUURYcDVuMllaSFQ1dm1DaF85dnJJdkRLNDB4ZnV5TmpxNmpjZ0ZoRlJCOUJrRndxdE5qQlVXeGZGNW1XT3l1SkI3Y2lONkZyU0RJYjNUc0pSbXk0d0w5cUJHeTVIS1NySkIwSFpWQ3djUEFQcExibFV6RW5fRDFTWFlCUFJXT3dCTThqYU5ibmpqTW12NFI?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Sat, 17 Oct 2026 19:47:15 GMT",
+        "base_score": 51,
+        "candidate_score": 61,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "tepki",
+          "tartışma",
+          "Trabzon"
+        ],
+        "content_type": "news"
       }
     ]
   },
   "items": [
-    {
-      "external_id": "65321cba637b3f3eb23e2e12",
-      "mode": "sportdog",
-      "title": "AEK Athens vs. Manchester City Live Stream of UEFA Champions League - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbEhwODZqSE5HcloxNFh2aGs5bm1MOTlwWUVxNXBfcmhsbWRySjlnc0VhVmtBVXFrSm9yX0kwMzNUYURzUS14c1FnMVRMQksxMUFHNzlHM1RPTXYyNWJ2UFJHR0Jpc3A0MEprQzRZQQ?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Sat, 17 Oct 2026 20:22:12 GMT",
-      "base_score": 50,
-      "candidate_score": 73,
-      "priority": "High",
-      "matched_keywords": [
-        "AEK",
-        "Champions League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
     {
       "external_id": "6acdd7083779a8857ebff5ee",
       "mode": "sportdog",
@@ -517,22 +478,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "c90ed77d07fcdcbf75309cd6",
+      "external_id": "65321cba637b3f3eb23e2e12",
       "mode": "sportdog",
-      "title": "Assists - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0tsLWpJd0hlV3ZLVEUzNUFkNFIyRnFQb0NHN2JoNWRHV01hbHhYaGhHajg4WHVWQ3lSeW1rbF9aLWJiZWZNUG5LM2EyYWhHdWs3ay1GQV9WM0RHeXV6bUJaNE5zMXN3azloQm1lWnhnemt6QThuNDdVTmlTNklVcWFKTHRpdThLX1l1THVKSll3aDNjcXNPRXZLYkR2aXM3UTFjQWs1YjE1bXM?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Fri, 16 Oct 2026 09:56:23 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
+      "title": "AEK Athens vs. Manchester City Live Stream of UEFA Champions League - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbEhwODZqSE5HcloxNFh2aGs5bm1MOTlwWUVxNXBfcmhsbWRySjlnc0VhVmtBVXFrSm9yX0kwMzNUYURzUS14c1FnMVRMQksxMUFHNzlHM1RPTXYyNWJ2UFJHR0Jpc3A0MEprQzRZQQ?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sat, 17 Oct 2026 20:22:12 GMT",
+      "base_score": 50,
+      "candidate_score": 68,
       "priority": "Normal",
       "matched_keywords": [
-        "PAOK",
-        "Super League"
+        "AEK",
+        "Champions League"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "PAOK",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -542,9 +503,9 @@
       "title": "▶️ Watch PAOK vs Iraklis Live Stream | Predictions & Tips - 18 Oct - FootballPredictions.NET",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pd19HSFZDTzJibHpkejRHU29WX3lmS0JNcmc5ZlZBMkNKci1uZUNkd2hoaTFPRkVUMTZITHZnNlVsQXFsMkJzNlFQOGtxRmFpcnY2U0wzYUdoNTFZT1B0d25wdkxHYXpvT1I0U1gwSzRnLXR1ZlBXUWM2Zw?oc=5",
       "source": "PAOK Rumour Watch",
-      "published": "Sat, 17 Oct 2026 16:43:39 GMT",
+      "published": "Sat, 17 Oct 2026 22:32:25 GMT",
       "base_score": 41,
-      "candidate_score": 59,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -553,6 +514,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "681c632a69d5efc803da2581",
+      "mode": "sportdog",
+      "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sat, 17 Oct 2026 19:50:45 GMT",
+      "base_score": 41,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -584,7 +565,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 17 Oct 2026 15:23:20 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -634,25 +615,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "5b05d30b7e7d47d33ef7aa8f",
-      "mode": "sportdog",
-      "title": "AEK Athens Fans Throw Petrol Bomb And Fireworks At Ajax Supporters Stephen Cloobeck (XoGT2WhFeI) - Unisba Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wTXMycXoweFQwMUhZM0V4ZnFZZnlTMHVqSjBESUx2TktkVlowbTBnbm1FT0d3dU8tQzBmWU56WmRoZ1ZGRmRIY1paSXVCbXA0OFB4VkZFRjBvTjdlR3hXaG96SURjdw?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Fri, 16 Oct 2026 21:31:43 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "5a86837813fa9632902ce3ea",
       "mode": "sportdog",
       "title": "Panathinaikos 2-1 Borac (15 Oct, 2026) Team Stats - ESPN India",
@@ -660,7 +622,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 16 Oct 2026 17:09:35 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -754,7 +716,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 17 Oct 2026 04:00:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -790,7 +752,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 17 Oct 2026 04:24:39 GMT",
       "base_score": 94,
-      "candidate_score": 100,
+      "candidate_score": 97,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -799,23 +761,6 @@
         "kablo"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "7acf04c00088d80be07ed96b",
-      "mode": "geopolitico",
-      "title": "Δεύτερη αντι-NAVTEX από την Τουρκία μέσα σε λίγες ώρες: Αμφισβητεί την κυπριακή ΑΟΖ και τις έρευνες για το καλώδιο EMC που θα συνδέει την Ασία με την Ευρώπη - AegeaNews",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjZDc1pWMUxUSG43Rlg1YzdFc0Utd1BCdGV0WDhlQTBZQk1KbkxHNUpzOU5lUEdjamdtbldiTDR0QUk5OWRFdVZKdmxONjNZbFV0SlZ1MzNxXzdkelJqU0JNLW5vb181T1dCMnFvbXRRZE1Nc1ZJQnlRZDhLUWRPMmhzQ2hHUlBsWE1xckwtVFBmcmhmOTBXV1A3WEw2LXFCeThUdmx3cEF4RDN4TUVxUzNOb3FrYXNjcXZuWnpGVVotUDQxY1BzdHNlVE9fN2d3Skt0MW9KOG9TM0pGZEozaFg2S1JPdkw2TzVqRjVEQndHRURSR0F2WGdDQTE5Ym84Y01oY2Jfcnhja0xzQ3NubExOSjZaWUtGOWpTOE0xU3JvTEU?oc=5",
-      "source": "Dodecanese Security Migration Watch",
-      "published": "Fri, 16 Oct 2026 16:05:15 GMT",
-      "base_score": 96,
-      "candidate_score": 99,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Aegean",
-        "Ege",
-        "NAVTEX"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "dd669b20dccc9659696f041b",
@@ -833,6 +778,23 @@
         "Ege"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "b6a460784c0d678260e0e5a2",
+      "mode": "geopolitico",
+      "title": "Türkler Kıbrıs-Yunanistan elektrik bağlantısı projesini engellerse ne yapacağız? - ssbulten.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnlUNi0yREV2RHlvYjBaSkFGTWZFZU5NZTRsQ1BUa1VIamlzbE5aMURCVFViaDdlUlk1cWwxOFhwTWxjOFRhN0xGRjBiRUFUajNuNTFEbkZ3UWMwOTB3OGI1TmprcmI1SGZHT21hek1HVDJsN1ZvcWJNR0E4NHFEZ2VMeGEwMXQzT1VfUFBELVo4X19JeUN2VlBQdDE5SmhLcFdvLUpXaFBiRlFVSVNYMll3TmEzSl8xUEVoTzV3NVFRU01TTHRV?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Fri, 16 Oct 2026 20:34:46 GMT",
+      "base_score": 84,
+      "candidate_score": 87,
+      "priority": "High",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kıbrıs",
+        "elektrik bağlantısı"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "eb0666a24f325b6ee40e1e9a",
@@ -903,24 +865,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "ab46bc9778ac778dbc64cf96",
-      "mode": "pontos_voice",
-      "title": "Mısır basınında Mohamed Salah tartışması! Trabzonspor üzerinden federasyona tepki - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN05hRWJzOWRxazdvdjFFTjh3VlFGVjJCcF9TMzFIUmNfTWplRkxhY2xIUURYcDVuMllaSFQ1dm1DaF85dnJJdkRLNDB4ZnV5TmpxNmpjZ0ZoRlJCOUJrRndxdE5qQlVXeGZGNW1XT3l1SkI3Y2lONkZyU0RJYjNUc0pSbXk0d0w5cUJHeTVIS1NySkIwSFpWQ3djUEFQcExibFV6RW5fRDFTWFlCUFJXT3dCTThqYU5ibmpqTW12NFI?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sat, 17 Oct 2026 19:47:15 GMT",
-      "base_score": 51,
-      "candidate_score": 66,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "tepki",
-        "tartışma",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "4e14b2d21d1fdf9adaf492b2",
       "mode": "pontos_voice",
       "title": "Aynı pozisyon, farklı karar! Trabzonspor maçında neden iptal edilmedi?",
@@ -935,6 +879,24 @@
         "tartışma",
         "Trabzon",
         "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "ab46bc9778ac778dbc64cf96",
+      "mode": "pontos_voice",
+      "title": "Mısır basınında Mohamed Salah tartışması! Trabzonspor üzerinden federasyona tepki - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN05hRWJzOWRxazdvdjFFTjh3VlFGVjJCcF9TMzFIUmNfTWplRkxhY2xIUURYcDVuMllaSFQ1dm1DaF85dnJJdkRLNDB4ZnV5TmpxNmpjZ0ZoRlJCOUJrRndxdE5qQlVXeGZGNW1XT3l1SkI3Y2lONkZyU0RJYjNUc0pSbXk0d0w5cUJHeTVIS1NySkIwSFpWQ3djUEFQcExibFV6RW5fRDFTWFlCUFJXT3dCTThqYU5ibmpqTW12NFI?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Sat, 17 Oct 2026 19:47:15 GMT",
+      "base_score": 51,
+      "candidate_score": 61,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "tepki",
+        "tartışma",
+        "Trabzon"
       ],
       "content_type": "news"
     }
