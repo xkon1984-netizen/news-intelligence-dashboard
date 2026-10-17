@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-10-17T19:43:44.321334+00:00",
+  "generated_at": "2026-10-17T21:49:28.888272+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "65321cba637b3f3eb23e2e12",
+        "mode": "sportdog",
+        "title": "AEK Athens vs. Manchester City Live Stream of UEFA Champions League - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbEhwODZqSE5HcloxNFh2aGs5bm1MOTlwWUVxNXBfcmhsbWRySjlnc0VhVmtBVXFrSm9yX0kwMzNUYURzUS14c1FnMVRMQksxMUFHNzlHM1RPTXYyNWJ2UFJHR0Jpc3A0MEprQzRZQQ?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sat, 17 Oct 2026 20:22:12 GMT",
+        "base_score": 50,
+        "candidate_score": 73,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6acdd7083779a8857ebff5ee",
+        "mode": "sportdog",
+        "title": "Euroleague Franchises: Valencia, Dubai, Paris, PAOK Lead - srpske.rs",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVA2bzAwNzBNVGlQdWtqVUV6Tk81Mkx1bVR1YnZseVRzdFZza1gzRUJOa25BbHNRalpoaGhOTlhEYVRjOVF1OGtIWXNRVFVibUhDZmtGR2dZYWhkMWw1cmxFNlo2VWZJMzQ1dVRaWHRhWmJTMXRQeTBPa3NVdjFrdWY3SGVlSlJGT2hiMXRpUzdUZ29xU2xmTElPOA?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sat, 17 Oct 2026 09:11:00 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "Aris"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
       {
         "external_id": "c90ed77d07fcdcbf75309cd6",
         "mode": "sportdog",
@@ -48,32 +88,12 @@
         "needs_second_source": true
       },
       {
-        "external_id": "674b3c86842e509bed648c2d",
+        "external_id": "fc36789c125f053780dd23dc",
         "mode": "sportdog",
-        "title": "Dessers and Kangwa Fire Panathinaikos to Winning Start in Conference League - Africa Top Sports",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWdIc3RiYnRZMWo4TzEtbkFWVjk0M1hvNnVGbE1ldl84bnBDVWVPWUU1VTVYTHhyS2FOZXZBbmZna2otQnhsM01XY0lPZW1Kdjhpak1DSHppbFpIUU1hMnZjb2tHRnFiTmRBbHdWclRBUlpiczQ5Z2s3N1pTVExOWWpyTzBGUnpndDdHeS1GeVV1ajlvS2o3cUFCTW9kS0FzWklmSzIyeEpsblk?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 16 Oct 2026 09:08:25 GMT",
-        "base_score": 50,
-        "candidate_score": 58,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Conference League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "b73f1bf43f7a663ab60ab414",
-        "mode": "sportdog",
-        "title": "Olympiacos Target Former Manchester United Winger - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlY4ZlBOdGRWMUFCOU85MDZ1VXNJS0xuSG1od05kTWFCUGxtQ1BqNWF3b1pZX1BJSUdpX2NfUEZpY1hRUWFiU2xvYTlxQ1lBRlhZN3ZnRVBocU9CeGVUSDRXT2dnaWdKamRBMVJUMlZPZXFGVDBLVGVQX1U4Q1F4Z2JYX0M3OU4tWUlHbWF1MldlT20tQnpEZTBTaHFTa0Z5YzQ1MG5uM3YzZw?oc=5",
+        "title": "Olympiacos Target Former Manchester United Winger - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2FPbVBBX0VvekxTdTJLb3pkdmQycVlQOHlzZkU4X3hBQmk0TVp4Mk1qVU56RWRHOG5HOE1lVkxVVkdvTmx2eUszRGNaeWN4WnZES0hKWFJaSURRRFRJOEVCTUFkcWIyblpzRGlBSHUxWG9ZVmhuWmExUzV0WnlnVm1BLWxzbzNEV3AyZWtOY1M3T1pVc0E?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 16 Oct 2026 20:09:21 GMT",
+        "published": "Fri, 16 Oct 2026 19:53:16 GMT",
         "base_score": 39,
         "candidate_score": 50,
         "priority": "Normal",
@@ -84,6 +104,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "cce57cc12d6d2e59f516838b",
+        "mode": "sportdog",
+        "title": "Watch Shakhtar Donetsk vs AEK Athens - TOD",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVhUbFdidVN1Z2dJMjh3VTZUbDVBbm1nZ2hhSE1KdVBBMlQ0YVl0YXU2UlFiTGNqZFhvQmh2Z2hueEc5SWQ1Yk9iTEpqSDNia0lYUW5TODI3bUQ3bGNqQTRRSFYxbXMyYkx5eE4yLUJqc1FfZkc2dVBoNDhnUmdnTkpCZ3VCZXFBWVBjYUI5VEYtZGpjUXg2czJvZmxwWG1nNnV0REloZklicnNNUEptOA?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sat, 17 Oct 2026 15:23:20 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -277,24 +316,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "6c3095eeabc8b431f43cea2f",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz Krizinde Yunanistan'a İki Koldan Ağır Darbe - Ankara Masası",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhSVkxUckFycFZZVWtqTmZ5amVWN1pXTEhUUFhhTVdpYWZIZXMwTnFEVWIzT3ExbkdjRFBheUFLZ2pNZWVUMGdHMm1BQ1ZMdWVGX29Hd2xFRmYtLWs1MzlrbHZzN0I1dF9TOW1hNjJuNVhoSTBPMTJ5V2t6RmRxTFBpSEtPVkRjQi1zb0VVVVZ3dTc1eDdOVGRDdFliWnA0b3Z0ZQ?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Fri, 16 Oct 2026 14:02:00 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz",
-          "Ankara",
-          "kriz"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "ffa5a6af203c737f1d68ad71",
         "mode": "geopolitico",
         "title": "Ankara kablo hattına set çekti: Aynı gün iki anti-NAVTEX - Bugün Kıbrıs",
@@ -313,6 +334,23 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "7acf04c00088d80be07ed96b",
+        "mode": "geopolitico",
+        "title": "Δεύτερη αντι-NAVTEX από την Τουρκία μέσα σε λίγες ώρες: Αμφισβητεί την κυπριακή ΑΟΖ και τις έρευνες για το καλώδιο EMC που θα συνδέει την Ασία με την Ευρώπη - AegeaNews",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjZDc1pWMUxUSG43Rlg1YzdFc0Utd1BCdGV0WDhlQTBZQk1KbkxHNUpzOU5lUEdjamdtbldiTDR0QUk5OWRFdVZKdmxONjNZbFV0SlZ1MzNxXzdkelJqU0JNLW5vb181T1dCMnFvbXRRZE1Nc1ZJQnlRZDhLUWRPMmhzQ2hHUlBsWE1xckwtVFBmcmhmOTBXV1A3WEw2LXFCeThUdmx3cEF4RDN4TUVxUzNOb3FrYXNjcXZuWnpGVVotUDQxY1BzdHNlVE9fN2d3Skt0MW9KOG9TM0pGZEozaFg2S1JPdkw2TzVqRjVEQndHRURSR0F2WGdDQTE5Ym84Y01oY2Jfcnhja0xzQ3NubExOSjZaWUtGOWpTOE0xU3JvTEU?oc=5",
+        "source": "Dodecanese Security Migration Watch",
+        "published": "Fri, 16 Oct 2026 16:05:15 GMT",
+        "base_score": 96,
+        "candidate_score": 99,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Aegean",
+          "Ege",
+          "NAVTEX"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "dd669b20dccc9659696f041b",
         "mode": "geopolitico",
         "title": "Several Afghan Taliban personnel killed in alleged retaliatory action along border, Pakistan says - The New Indian Express",
@@ -320,8 +358,8 @@
         "source": "Pakistan Security Watch",
         "published": "Sat, 17 Oct 2026 18:25:18 GMT",
         "base_score": 82,
-        "candidate_score": 97,
-        "priority": "URGENT",
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "India",
           "Pakistan",
@@ -366,21 +404,54 @@
         "content_type": "news"
       },
       {
-        "external_id": "9db119e77a50234712646b53",
+        "external_id": "0ad9249d85e1bb1a839ff76b",
         "mode": "pontos_voice",
-        "title": "Σύλλογος Ποντίων Ταύρου: Ο Ζάφος Ξαγοράρης φέρνει τη σύγχρονη τέχνη σε διάλογο με την ποντιακή παράδοση και την προσφυγική μνήμη - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHA1dHlsX2RndC1tcnE1d0tBWWVsMmV2OEtfbURVUWZwUG15U3dMYUVIX2ZuYkwwbjdrYkdBc25QYnd6dWszaFNET09iM2RjZUU0c3pvb3hSVTVfZ09KTlNnQUNHTkViQUlKcGZ5VGszWnM5T3NRakN0bGd1OHVySk5oOWdfX2Y1MFJJQ2lfTU1SNVR1ZHZpQUNBQzZjYko4UlRISUNtaFh4ZEVaWkdreWdyRmlDSFRnUUVuZkdWdGFyUUJHSVd3?oc=5",
+        "title": "Σέρρες: Το Τίμιο Ξύλο από την Παναγία Σουμελά στον Ιερό Ναό Αγίου Δημητρίου - LionNews",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnNQbkIzVEg4V1lyaVo4S0NtcEtjSnVJOHVnZTZPLWJPekRtWVpTcXd6eUlTTVpmc1FuaW85US1RXzItUFg0SE9LZTZpNXpZeHRfelhDeXItZTJEQVFmVWpGM01JeUp4TFBOZkZzQzhKMXhlQ0F0a3p6emhGdkVxN3FTRFVLVjB1WVRZb1lUOUxvd0g4MVd2YUxvVQ?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Fri, 16 Oct 2026 09:02:48 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
+        "published": "Fri, 16 Oct 2026 08:04:00 GMT",
+        "base_score": 86,
+        "candidate_score": 86,
+        "priority": "High",
         "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "Σύλλογος Ποντίων",
-          "προσφυγική μνήμη",
-          "παράδοση"
+          "Παναγία Σουμελά",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "f7e4f1a6cbdf3c79dabbec7a",
+        "mode": "pontos_voice",
+        "title": "Osman Gazi Karadeniz'e açıldı: İşte görev yapacağı yer",
+        "url": "https://www.61saat.com/osman-gazi-karadenize-acildi-iste-gorev-yapacagi-yer",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 17 Oct 2026 23:40:00 +0300",
+        "base_score": 55,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "belediye başkanı",
+          "Trabzon",
+          "Karadeniz"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "ab46bc9778ac778dbc64cf96",
+        "mode": "pontos_voice",
+        "title": "Mısır basınında Mohamed Salah tartışması! Trabzonspor üzerinden federasyona tepki - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN05hRWJzOWRxazdvdjFFTjh3VlFGVjJCcF9TMzFIUmNfTWplRkxhY2xIUURYcDVuMllaSFQ1dm1DaF85dnJJdkRLNDB4ZnV5TmpxNmpjZ0ZoRlJCOUJrRndxdE5qQlVXeGZGNW1XT3l1SkI3Y2lONkZyU0RJYjNUc0pSbXk0d0w5cUJHeTVIS1NySkIwSFpWQ3djUEFQcExibFV6RW5fRDFTWFlCUFJXT3dCTThqYU5ibmpqTW12NFI?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Sat, 17 Oct 2026 19:47:15 GMT",
+        "base_score": 51,
+        "candidate_score": 66,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "tepki",
+          "tartışma",
+          "Trabzon"
         ],
         "content_type": "news"
       },
@@ -392,7 +463,7 @@
         "source": "61Saat Trabzon",
         "published": "Sat, 17 Oct 2026 20:15:00 +0300",
         "base_score": 53,
-        "candidate_score": 68,
+        "candidate_score": 63,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -401,45 +472,50 @@
           "dil"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "5fec34059ed738985ea63b3a",
-        "mode": "pontos_voice",
-        "title": "Saadet Partisi Trabzon'dan dikkat çeken açıklama! Ahlak ve denetim...",
-        "url": "https://www.61saat.com/saadet-partisi-trabzondan-dikkat-ceken-aciklama-ahlak-ve-denetim",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 17 Oct 2026 16:06:00 +0300",
-        "base_score": 47,
-        "candidate_score": 57,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Of",
-          "açıklama",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "1b5cc4a1cec0e257fa524514",
-        "mode": "pontos_voice",
-        "title": "Ünlü yazar Yasemin Uzun Trabzon’da okuyucularıyla buluştu!",
-        "url": "https://www.61saat.com/unlu-yazar-yasemin-uzun-trabzonda-okuyuculariyla-bulustu",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 17 Oct 2026 18:17:00 +0300",
-        "base_score": 46,
-        "candidate_score": 56,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "anıt",
-          "Trabzon"
-        ],
-        "content_type": "news"
       }
     ]
   },
   "items": [
+    {
+      "external_id": "65321cba637b3f3eb23e2e12",
+      "mode": "sportdog",
+      "title": "AEK Athens vs. Manchester City Live Stream of UEFA Champions League - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbEhwODZqSE5HcloxNFh2aGs5bm1MOTlwWUVxNXBfcmhsbWRySjlnc0VhVmtBVXFrSm9yX0kwMzNUYURzUS14c1FnMVRMQksxMUFHNzlHM1RPTXYyNWJ2UFJHR0Jpc3A0MEprQzRZQQ?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sat, 17 Oct 2026 20:22:12 GMT",
+      "base_score": 50,
+      "candidate_score": 73,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6acdd7083779a8857ebff5ee",
+      "mode": "sportdog",
+      "title": "Euroleague Franchises: Valencia, Dubai, Paris, PAOK Lead - srpske.rs",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVA2bzAwNzBNVGlQdWtqVUV6Tk81Mkx1bVR1YnZseVRzdFZza1gzRUJOa25BbHNRalpoaGhOTlhEYVRjOVF1OGtIWXNRVFVibUhDZmtGR2dZYWhkMWw1cmxFNlo2VWZJMzQ1dVRaWHRhWmJTMXRQeTBPa3NVdjFrdWY3SGVlSlJGT2hiMXRpUzdUZ29xU2xmTElPOA?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sat, 17 Oct 2026 09:11:00 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "Aris"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
     {
       "external_id": "c90ed77d07fcdcbf75309cd6",
       "mode": "sportdog",
@@ -481,32 +557,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "674b3c86842e509bed648c2d",
+      "external_id": "fc36789c125f053780dd23dc",
       "mode": "sportdog",
-      "title": "Dessers and Kangwa Fire Panathinaikos to Winning Start in Conference League - Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWdIc3RiYnRZMWo4TzEtbkFWVjk0M1hvNnVGbE1ldl84bnBDVWVPWUU1VTVYTHhyS2FOZXZBbmZna2otQnhsM01XY0lPZW1Kdjhpak1DSHppbFpIUU1hMnZjb2tHRnFiTmRBbHdWclRBUlpiczQ5Z2s3N1pTVExOWWpyTzBGUnpndDdHeS1GeVV1ajlvS2o3cUFCTW9kS0FzWklmSzIyeEpsblk?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 16 Oct 2026 09:08:25 GMT",
-      "base_score": 50,
-      "candidate_score": 58,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Conference League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "b73f1bf43f7a663ab60ab414",
-      "mode": "sportdog",
-      "title": "Olympiacos Target Former Manchester United Winger - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlY4ZlBOdGRWMUFCOU85MDZ1VXNJS0xuSG1od05kTWFCUGxtQ1BqNWF3b1pZX1BJSUdpX2NfUEZpY1hRUWFiU2xvYTlxQ1lBRlhZN3ZnRVBocU9CeGVUSDRXT2dnaWdKamRBMVJUMlZPZXFGVDBLVGVQX1U4Q1F4Z2JYX0M3OU4tWUlHbWF1MldlT20tQnpEZTBTaHFTa0Z5YzQ1MG5uM3YzZw?oc=5",
+      "title": "Olympiacos Target Former Manchester United Winger - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ2FPbVBBX0VvekxTdTJLb3pkdmQycVlQOHlzZkU4X3hBQmk0TVp4Mk1qVU56RWRHOG5HOE1lVkxVVkdvTmx2eUszRGNaeWN4WnZES0hKWFJaSURRRFRJOEVCTUFkcWIyblpzRGlBSHUxWG9ZVmhuWmExUzV0WnlnVm1BLWxzbzNEV3AyZWtOY1M3T1pVc0E?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 16 Oct 2026 20:09:21 GMT",
+      "published": "Fri, 16 Oct 2026 19:53:16 GMT",
       "base_score": 39,
       "candidate_score": 50,
       "priority": "Normal",
@@ -517,6 +573,25 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "cce57cc12d6d2e59f516838b",
+      "mode": "sportdog",
+      "title": "Watch Shakhtar Donetsk vs AEK Athens - TOD",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVhUbFdidVN1Z2dJMjh3VTZUbDVBbm1nZ2hhSE1KdVBBMlQ0YVl0YXU2UlFiTGNqZFhvQmh2Z2hueEc5SWQ1Yk9iTEpqSDNia0lYUW5TODI3bUQ3bGNqQTRRSFYxbXMyYkx5eE4yLUJqc1FfZkc2dVBoNDhnUmdnTkpCZ3VCZXFBWVBjYUI5VEYtZGpjUXg2czJvZmxwWG1nNnV0REloZklicnNNUEptOA?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sat, 17 Oct 2026 15:23:20 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -708,24 +783,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "6c3095eeabc8b431f43cea2f",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz Krizinde Yunanistan'a İki Koldan Ağır Darbe - Ankara Masası",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhSVkxUckFycFZZVWtqTmZ5amVWN1pXTEhUUFhhTVdpYWZIZXMwTnFEVWIzT3ExbkdjRFBheUFLZ2pNZWVUMGdHMm1BQ1ZMdWVGX29Hd2xFRmYtLWs1MzlrbHZzN0I1dF9TOW1hNjJuNVhoSTBPMTJ5V2t6RmRxTFBpSEtPVkRjQi1zb0VVVVZ3dTc1eDdOVGRDdFliWnA0b3Z0ZQ?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Fri, 16 Oct 2026 14:02:00 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz",
-        "Ankara",
-        "kriz"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "ffa5a6af203c737f1d68ad71",
       "mode": "geopolitico",
       "title": "Ankara kablo hattına set çekti: Aynı gün iki anti-NAVTEX - Bugün Kıbrıs",
@@ -744,6 +801,23 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "7acf04c00088d80be07ed96b",
+      "mode": "geopolitico",
+      "title": "Δεύτερη αντι-NAVTEX από την Τουρκία μέσα σε λίγες ώρες: Αμφισβητεί την κυπριακή ΑΟΖ και τις έρευνες για το καλώδιο EMC που θα συνδέει την Ασία με την Ευρώπη - AegeaNews",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQjZDc1pWMUxUSG43Rlg1YzdFc0Utd1BCdGV0WDhlQTBZQk1KbkxHNUpzOU5lUEdjamdtbldiTDR0QUk5OWRFdVZKdmxONjNZbFV0SlZ1MzNxXzdkelJqU0JNLW5vb181T1dCMnFvbXRRZE1Nc1ZJQnlRZDhLUWRPMmhzQ2hHUlBsWE1xckwtVFBmcmhmOTBXV1A3WEw2LXFCeThUdmx3cEF4RDN4TUVxUzNOb3FrYXNjcXZuWnpGVVotUDQxY1BzdHNlVE9fN2d3Skt0MW9KOG9TM0pGZEozaFg2S1JPdkw2TzVqRjVEQndHRURSR0F2WGdDQTE5Ym84Y01oY2Jfcnhja0xzQ3NubExOSjZaWUtGOWpTOE0xU3JvTEU?oc=5",
+      "source": "Dodecanese Security Migration Watch",
+      "published": "Fri, 16 Oct 2026 16:05:15 GMT",
+      "base_score": 96,
+      "candidate_score": 99,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Aegean",
+        "Ege",
+        "NAVTEX"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "dd669b20dccc9659696f041b",
       "mode": "geopolitico",
       "title": "Several Afghan Taliban personnel killed in alleged retaliatory action along border, Pakistan says - The New Indian Express",
@@ -751,8 +825,8 @@
       "source": "Pakistan Security Watch",
       "published": "Sat, 17 Oct 2026 18:25:18 GMT",
       "base_score": 82,
-      "candidate_score": 97,
-      "priority": "URGENT",
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "India",
         "Pakistan",
@@ -795,21 +869,54 @@
       "content_type": "news"
     },
     {
-      "external_id": "9db119e77a50234712646b53",
+      "external_id": "0ad9249d85e1bb1a839ff76b",
       "mode": "pontos_voice",
-      "title": "Σύλλογος Ποντίων Ταύρου: Ο Ζάφος Ξαγοράρης φέρνει τη σύγχρονη τέχνη σε διάλογο με την ποντιακή παράδοση και την προσφυγική μνήμη - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHA1dHlsX2RndC1tcnE1d0tBWWVsMmV2OEtfbURVUWZwUG15U3dMYUVIX2ZuYkwwbjdrYkdBc25QYnd6dWszaFNET09iM2RjZUU0c3pvb3hSVTVfZ09KTlNnQUNHTkViQUlKcGZ5VGszWnM5T3NRakN0bGd1OHVySk5oOWdfX2Y1MFJJQ2lfTU1SNVR1ZHZpQUNBQzZjYko4UlRISUNtaFh4ZEVaWkdreWdyRmlDSFRnUUVuZkdWdGFyUUJHSVd3?oc=5",
+      "title": "Σέρρες: Το Τίμιο Ξύλο από την Παναγία Σουμελά στον Ιερό Ναό Αγίου Δημητρίου - LionNews",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnNQbkIzVEg4V1lyaVo4S0NtcEtjSnVJOHVnZTZPLWJPekRtWVpTcXd6eUlTTVpmc1FuaW85US1RXzItUFg0SE9LZTZpNXpZeHRfelhDeXItZTJEQVFmVWpGM01JeUp4TFBOZkZzQzhKMXhlQ0F0a3p6emhGdkVxN3FTRFVLVjB1WVRZb1lUOUxvd0g4MVd2YUxvVQ?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Fri, 16 Oct 2026 09:02:48 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
+      "published": "Fri, 16 Oct 2026 08:04:00 GMT",
+      "base_score": 86,
+      "candidate_score": 86,
+      "priority": "High",
       "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "Σύλλογος Ποντίων",
-        "προσφυγική μνήμη",
-        "παράδοση"
+        "Παναγία Σουμελά",
+        "Σουμελά"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "f7e4f1a6cbdf3c79dabbec7a",
+      "mode": "pontos_voice",
+      "title": "Osman Gazi Karadeniz'e açıldı: İşte görev yapacağı yer",
+      "url": "https://www.61saat.com/osman-gazi-karadenize-acildi-iste-gorev-yapacagi-yer",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 17 Oct 2026 23:40:00 +0300",
+      "base_score": 55,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "belediye başkanı",
+        "Trabzon",
+        "Karadeniz"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "ab46bc9778ac778dbc64cf96",
+      "mode": "pontos_voice",
+      "title": "Mısır basınında Mohamed Salah tartışması! Trabzonspor üzerinden federasyona tepki - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN05hRWJzOWRxazdvdjFFTjh3VlFGVjJCcF9TMzFIUmNfTWplRkxhY2xIUURYcDVuMllaSFQ1dm1DaF85dnJJdkRLNDB4ZnV5TmpxNmpjZ0ZoRlJCOUJrRndxdE5qQlVXeGZGNW1XT3l1SkI3Y2lONkZyU0RJYjNUc0pSbXk0d0w5cUJHeTVIS1NySkIwSFpWQ3djUEFQcExibFV6RW5fRDFTWFlCUFJXT3dCTThqYU5ibmpqTW12NFI?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Sat, 17 Oct 2026 19:47:15 GMT",
+      "base_score": 51,
+      "candidate_score": 66,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "tepki",
+        "tartışma",
+        "Trabzon"
       ],
       "content_type": "news"
     },
@@ -821,48 +928,13 @@
       "source": "61Saat Trabzon",
       "published": "Sat, 17 Oct 2026 20:15:00 +0300",
       "base_score": 53,
-      "candidate_score": 68,
+      "candidate_score": 63,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "tartışma",
         "Trabzon",
         "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "5fec34059ed738985ea63b3a",
-      "mode": "pontos_voice",
-      "title": "Saadet Partisi Trabzon'dan dikkat çeken açıklama! Ahlak ve denetim...",
-      "url": "https://www.61saat.com/saadet-partisi-trabzondan-dikkat-ceken-aciklama-ahlak-ve-denetim",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 17 Oct 2026 16:06:00 +0300",
-      "base_score": 47,
-      "candidate_score": 57,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Of",
-        "açıklama",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "1b5cc4a1cec0e257fa524514",
-      "mode": "pontos_voice",
-      "title": "Ünlü yazar Yasemin Uzun Trabzon’da okuyucularıyla buluştu!",
-      "url": "https://www.61saat.com/unlu-yazar-yasemin-uzun-trabzonda-okuyuculariyla-bulustu",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 17 Oct 2026 18:17:00 +0300",
-      "base_score": 46,
-      "candidate_score": 56,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "anıt",
-        "Trabzon"
       ],
       "content_type": "news"
     }
