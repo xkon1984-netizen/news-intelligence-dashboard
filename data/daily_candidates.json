@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-10-16T23:53:01.414029+00:00",
+  "generated_at": "2026-10-17T02:09:42.974281+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 12,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "c90ed77d07fcdcbf75309cd6",
+        "mode": "sportdog",
+        "title": "Assists - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0tsLWpJd0hlV3ZLVEUzNUFkNFIyRnFQb0NHN2JoNWRHV01hbHhYaGhHajg4WHVWQ3lSeW1rbF9aLWJiZWZNUG5LM2EyYWhHdWs3ay1GQV9WM0RHeXV6bUJaNE5zMXN3azloQm1lWnhnemt6QThuNDdVTmlTNklVcWFKTHRpdThLX1l1THVKSll3aDNjcXNPRXZLYkR2aXM3UTFjQWs1YjE1bXM?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Fri, 16 Oct 2026 09:56:23 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
       {
         "external_id": "674b3c86842e509bed648c2d",
         "mode": "sportdog",
@@ -35,7 +55,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 15 Oct 2026 17:59:51 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -44,7 +64,7 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -128,22 +148,21 @@
         "needs_second_source": true
       },
       {
-        "external_id": "91c485297a11ab3e056daaaa",
+        "external_id": "2cef26bb7c07ea255a27af1c",
         "mode": "sportdog",
-        "title": "‍‍‍【【【LIVE-4K】】】 Olympiacos - Marseille Live Football Stream - Universidad de Córdoba (UCO)",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQdVBsOHdJRi1kbTBNYUVULWRMWlI2VkRLcngtZ2NfWmROSXM2enZfZ0pydWFwTVFxQm1OdV9ubEFOd0xIZDc2XzNBQlU0YWQ0ZlJ2cVRZZWY1NGlmanM2MjB2Zk9lSENzWmJlZ0M0ellZNEVOeEdhdTVIT2xMNnZRVWVzMHJmYi0xTlJaU0lLMUQ2WUtRdm40TlRMZE5rc09vWDBpdlVHXzQ0X09nM0tZNFo3c0dWX25WV0s3c1hqOWdTc2thMzZLQWIxNjZxYTFTakJ1WVpNOFNQRDNaTGF0V2tKaGhmWHZaSmhIMjRqcGV4WkF6VDduRjR6RGo0VU8xcDBEaTg1VkhWQ2c1dF9KRFBjMnE2Y0gxQjNvR1JvUWg3X1JHTElENzd5Wk5lNl83QmVjcFZULUZLLVlUYWhhMTBMYmx5UHVYWFotRnk3VUgyaWtD?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 15 Oct 2026 19:13:41 GMT",
-        "base_score": 41,
-        "candidate_score": 52,
+        "title": "PAOK vs Iraklis Prediction, Betting Tips, Lineups & Odds | 18 Oct 2026 - Sportsgambler",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2NYT2sydDFPTU13ZnNOMFZ0M0d3Mkl6bVEtVktzXzZ5YU9BQUNjdjdOYWxPeTV6SEljS2V6Y2VkcnJ6OVJmTGNSWFV3TXdKVE1sWDU5TVdtMGVvZ1M0WXlXdlowemxSWEJTU21xWk1hV3R4VjNvY21FbVh6endnX1RXSF9BVUd1RFdWQWFneU1ZX0FHbHVldmp3NzVYV2Q2X01naFhB?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sat, 17 Oct 2026 01:16:46 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos",
-          "football"
+          "PAOK"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Olympiacos",
+        "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -167,31 +186,32 @@
         "needs_second_source": true
       },
       {
+        "external_id": "91c485297a11ab3e056daaaa",
+        "mode": "sportdog",
+        "title": "‍‍‍【【【LIVE-4K】】】 Olympiacos - Marseille Live Football Stream - Universidad de Córdoba (UCO)",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQdVBsOHdJRi1kbTBNYUVULWRMWlI2VkRLcngtZ2NfWmROSXM2enZfZ0pydWFwTVFxQm1OdV9ubEFOd0xIZDc2XzNBQlU0YWQ0ZlJ2cVRZZWY1NGlmanM2MjB2Zk9lSENzWmJlZ0M0ellZNEVOeEdhdTVIT2xMNnZRVWVzMHJmYi0xTlJaU0lLMUQ2WUtRdm40TlRMZE5rc09vWDBpdlVHXzQ0X09nM0tZNFo3c0dWX25WV0s3c1hqOWdTc2thMzZLQWIxNjZxYTFTakJ1WVpNOFNQRDNaTGF0V2tKaGhmWHZaSmhIMjRqcGV4WkF6VDduRjR6RGo0VU8xcDBEaTg1VkhWQ2c1dF9KRFBjMnE2Y0gxQjNvR1JvUWg3X1JHTElENzd5Wk5lNl83QmVjcFZULUZLLVlUYWhhMTBMYmx5UHVYWFotRnk3VUgyaWtD?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 15 Oct 2026 19:13:41 GMT",
+        "base_score": 41,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "d67286967b8526a65d3b8e13",
         "mode": "sportdog",
         "title": "The past is Gentse, but PAOK is on the mind! - Δημοκρατική της Ρόδου",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1NsblFYdUxfSEt5b0UyTFNodFZhZUQ4MVMyWmhSMDlCcUVxOV9zWVV4Zm5pYVk5S1kzR0l5RnlybkJhQTFKclJBZThEYUE3OHRoWDFYRDI4UnJjelVxc0x4dDJ5OXhYcmVqb3p6UnpqOWNZdC0yVWxTVElHYnM2djd6cF9zX180UlFWMEZR?oc=5",
         "source": "PAOK Rumour Watch",
         "published": "Fri, 16 Oct 2026 07:00:32 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "bbb23e5109ba4e34358ec6b5",
-        "mode": "sportdog",
-        "title": "PAOK v Partizan 14/11/2026, Stats - Flashscore.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHBXR2toQmxFU1FyZ25Cc2FDdkI2RGZhMzN4dTRVZVNXeUoxdG1yNXFleFZ3TlpnVmEyM3lCVVFnQmRBUFNyZVk0cEtFblNwRGlMSGZMeW04RDg2NndBYTZxVnFrZDBIZlJfWnp3MmRuZ2pIVVZZZU1WZWkxaEZoY2Y4eW1iX3V1cXZQcUpBZ2hwZw?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Fri, 16 Oct 2026 04:19:30 GMT",
         "base_score": 31,
         "candidate_score": 42,
         "priority": "Normal",
@@ -212,7 +232,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 15 Oct 2026 18:24:13 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -306,8 +326,8 @@
         "source": "Pakistan Security Watch",
         "published": "Fri, 16 Oct 2026 21:00:00 GMT",
         "base_score": 82,
-        "candidate_score": 97,
-        "priority": "URGENT",
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "India",
           "Pakistan",
@@ -334,22 +354,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "ee3981995b2ff9d6e0c32d57",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Namık Tan — Namık Tan | Yemen bize Karadeniz'den daha mı yakın? - T24",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYW9iRm1SQXNRN2xtYXVzTmtKSEVJR3VwMU5Kb3FBSHRMOUJMZEhuNXBZMmlLU0xZMTNmV2tMektDYmR5alpBUnhWTmc5eV85VDNKUlFjaEQxWDJEdm1KZjFZTjZSc3JMMU9LUTFoYlpWdjQ3cnBLQXVYUC1WQVpDMEZDMGxaQTFi?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Fri, 16 Oct 2026 21:00:00 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Namık Tan",
-          "Namık Tan"
-        ],
-        "content_type": "analyst"
-      },
-      {
         "external_id": "25862b0d69412e54408e6ee3",
         "mode": "geopolitico",
         "title": "Turkey Issues Navtex for Live-Fire Exercise South of Kastellorizo - Greek City Times",
@@ -365,6 +369,22 @@
           "Turkey"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "ee3981995b2ff9d6e0c32d57",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Namık Tan — Namık Tan | Yemen bize Karadeniz'den daha mı yakın? - T24",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYW9iRm1SQXNRN2xtYXVzTmtKSEVJR3VwMU5Kb3FBSHRMOUJMZEhuNXBZMmlLU0xZMTNmV2tMektDYmR5alpBUnhWTmc5eV85VDNKUlFjaEQxWDJEdm1KZjFZTjZSc3JMMU9LUTFoYlpWdjQ3cnBLQXVYUC1WQVpDMEZDMGxaQTFi?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Fri, 16 Oct 2026 21:00:00 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Namık Tan",
+          "Namık Tan"
+        ],
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -376,7 +396,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 16 Oct 2026 17:55:37 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -429,7 +449,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 16 Oct 2026 23:57:00 +0300",
         "base_score": 51,
-        "candidate_score": 66,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -458,18 +478,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "7e7d54912c970e1a824f85ba",
+        "external_id": "3d3ee14802fdc7b4ffb4d60f",
         "mode": "pontos_voice",
-        "title": "Trabzon'da araç 200 metrelik uçuruma yuvarlandı: 1 ölü",
-        "url": "https://www.61saat.com/trabzonda-arac-200-metrelik-ucuruma-yuvarlandi-1-olu",
+        "title": "KCT 1461 Trabzon FK'da hedef şampiyonluk! Kadir Kantekin'den dikkat çeken açıklamalar",
+        "url": "https://www.61saat.com/kct-1461-trabzon-fkda-hedef-sampiyonluk-kadir-kantekinden-dikkat-ceken-aciklamalar",
         "source": "61Saat Trabzon",
-        "published": "Fri, 16 Oct 2026 19:04:00 +0300",
-        "base_score": 44,
-        "candidate_score": 54,
+        "published": "Fri, 16 Oct 2026 17:12:00 +0300",
+        "base_score": 47,
+        "candidate_score": 53,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Çaykara",
+          "Of",
+          "açıklama",
           "Trabzon"
         ],
         "content_type": "news"
@@ -477,6 +498,26 @@
     ]
   },
   "items": [
+    {
+      "external_id": "c90ed77d07fcdcbf75309cd6",
+      "mode": "sportdog",
+      "title": "Assists - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0tsLWpJd0hlV3ZLVEUzNUFkNFIyRnFQb0NHN2JoNWRHV01hbHhYaGhHajg4WHVWQ3lSeW1rbF9aLWJiZWZNUG5LM2EyYWhHdWs3ay1GQV9WM0RHeXV6bUJaNE5zMXN3azloQm1lWnhnemt6QThuNDdVTmlTNklVcWFKTHRpdThLX1l1THVKSll3aDNjcXNPRXZLYkR2aXM3UTFjQWs1YjE1bXM?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Fri, 16 Oct 2026 09:56:23 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
     {
       "external_id": "674b3c86842e509bed648c2d",
       "mode": "sportdog",
@@ -505,7 +546,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 15 Oct 2026 17:59:51 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -514,7 +555,7 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -598,22 +639,21 @@
       "needs_second_source": true
     },
     {
-      "external_id": "91c485297a11ab3e056daaaa",
+      "external_id": "2cef26bb7c07ea255a27af1c",
       "mode": "sportdog",
-      "title": "‍‍‍【【【LIVE-4K】】】 Olympiacos - Marseille Live Football Stream - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQdVBsOHdJRi1kbTBNYUVULWRMWlI2VkRLcngtZ2NfWmROSXM2enZfZ0pydWFwTVFxQm1OdV9ubEFOd0xIZDc2XzNBQlU0YWQ0ZlJ2cVRZZWY1NGlmanM2MjB2Zk9lSENzWmJlZ0M0ellZNEVOeEdhdTVIT2xMNnZRVWVzMHJmYi0xTlJaU0lLMUQ2WUtRdm40TlRMZE5rc09vWDBpdlVHXzQ0X09nM0tZNFo3c0dWX25WV0s3c1hqOWdTc2thMzZLQWIxNjZxYTFTakJ1WVpNOFNQRDNaTGF0V2tKaGhmWHZaSmhIMjRqcGV4WkF6VDduRjR6RGo0VU8xcDBEaTg1VkhWQ2c1dF9KRFBjMnE2Y0gxQjNvR1JvUWg3X1JHTElENzd5Wk5lNl83QmVjcFZULUZLLVlUYWhhMTBMYmx5UHVYWFotRnk3VUgyaWtD?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 15 Oct 2026 19:13:41 GMT",
-      "base_score": 41,
-      "candidate_score": 52,
+      "title": "PAOK vs Iraklis Prediction, Betting Tips, Lineups & Odds | 18 Oct 2026 - Sportsgambler",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2NYT2sydDFPTU13ZnNOMFZ0M0d3Mkl6bVEtVktzXzZ5YU9BQUNjdjdOYWxPeTV6SEljS2V6Y2VkcnJ6OVJmTGNSWFV3TXdKVE1sWDU5TVdtMGVvZ1M0WXlXdlowemxSWEJTU21xWk1hV3R4VjNvY21FbVh6endnX1RXSF9BVUd1RFdWQWFneU1ZX0FHbHVldmp3NzVYV2Q2X01naFhB?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sat, 17 Oct 2026 01:16:46 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos",
-        "football"
+        "PAOK"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Olympiacos",
+      "team": "PAOK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -637,31 +677,32 @@
       "needs_second_source": true
     },
     {
+      "external_id": "91c485297a11ab3e056daaaa",
+      "mode": "sportdog",
+      "title": "‍‍‍【【【LIVE-4K】】】 Olympiacos - Marseille Live Football Stream - Universidad de Córdoba (UCO)",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQdVBsOHdJRi1kbTBNYUVULWRMWlI2VkRLcngtZ2NfWmROSXM2enZfZ0pydWFwTVFxQm1OdV9ubEFOd0xIZDc2XzNBQlU0YWQ0ZlJ2cVRZZWY1NGlmanM2MjB2Zk9lSENzWmJlZ0M0ellZNEVOeEdhdTVIT2xMNnZRVWVzMHJmYi0xTlJaU0lLMUQ2WUtRdm40TlRMZE5rc09vWDBpdlVHXzQ0X09nM0tZNFo3c0dWX25WV0s3c1hqOWdTc2thMzZLQWIxNjZxYTFTakJ1WVpNOFNQRDNaTGF0V2tKaGhmWHZaSmhIMjRqcGV4WkF6VDduRjR6RGo0VU8xcDBEaTg1VkhWQ2c1dF9KRFBjMnE2Y0gxQjNvR1JvUWg3X1JHTElENzd5Wk5lNl83QmVjcFZULUZLLVlUYWhhMTBMYmx5UHVYWFotRnk3VUgyaWtD?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 15 Oct 2026 19:13:41 GMT",
+      "base_score": 41,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "d67286967b8526a65d3b8e13",
       "mode": "sportdog",
       "title": "The past is Gentse, but PAOK is on the mind! - Δημοκρατική της Ρόδου",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1NsblFYdUxfSEt5b0UyTFNodFZhZUQ4MVMyWmhSMDlCcUVxOV9zWVV4Zm5pYVk5S1kzR0l5RnlybkJhQTFKclJBZThEYUE3OHRoWDFYRDI4UnJjelVxc0x4dDJ5OXhYcmVqb3p6UnpqOWNZdC0yVWxTVElHYnM2djd6cF9zX180UlFWMEZR?oc=5",
       "source": "PAOK Rumour Watch",
       "published": "Fri, 16 Oct 2026 07:00:32 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "bbb23e5109ba4e34358ec6b5",
-      "mode": "sportdog",
-      "title": "PAOK v Partizan 14/11/2026, Stats - Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHBXR2toQmxFU1FyZ25Cc2FDdkI2RGZhMzN4dTRVZVNXeUoxdG1yNXFleFZ3TlpnVmEyM3lCVVFnQmRBUFNyZVk0cEtFblNwRGlMSGZMeW04RDg2NndBYTZxVnFrZDBIZlJfWnp3MmRuZ2pIVVZZZU1WZWkxaEZoY2Y4eW1iX3V1cXZQcUpBZ2hwZw?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Fri, 16 Oct 2026 04:19:30 GMT",
       "base_score": 31,
       "candidate_score": 42,
       "priority": "Normal",
@@ -682,7 +723,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 15 Oct 2026 18:24:13 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -774,8 +815,8 @@
       "source": "Pakistan Security Watch",
       "published": "Fri, 16 Oct 2026 21:00:00 GMT",
       "base_score": 82,
-      "candidate_score": 97,
-      "priority": "URGENT",
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "India",
         "Pakistan",
@@ -802,22 +843,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "ee3981995b2ff9d6e0c32d57",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Namık Tan — Namık Tan | Yemen bize Karadeniz'den daha mı yakın? - T24",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYW9iRm1SQXNRN2xtYXVzTmtKSEVJR3VwMU5Kb3FBSHRMOUJMZEhuNXBZMmlLU0xZMTNmV2tMektDYmR5alpBUnhWTmc5eV85VDNKUlFjaEQxWDJEdm1KZjFZTjZSc3JMMU9LUTFoYlpWdjQ3cnBLQXVYUC1WQVpDMEZDMGxaQTFi?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Fri, 16 Oct 2026 21:00:00 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Namık Tan",
-        "Namık Tan"
-      ],
-      "content_type": "analyst"
-    },
-    {
       "external_id": "25862b0d69412e54408e6ee3",
       "mode": "geopolitico",
       "title": "Turkey Issues Navtex for Live-Fire Exercise South of Kastellorizo - Greek City Times",
@@ -835,6 +860,22 @@
       "content_type": "news"
     },
     {
+      "external_id": "ee3981995b2ff9d6e0c32d57",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Namık Tan — Namık Tan | Yemen bize Karadeniz'den daha mı yakın? - T24",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYW9iRm1SQXNRN2xtYXVzTmtKSEVJR3VwMU5Kb3FBSHRMOUJMZEhuNXBZMmlLU0xZMTNmV2tMektDYmR5alpBUnhWTmc5eV85VDNKUlFjaEQxWDJEdm1KZjFZTjZSc3JMMU9LUTFoYlpWdjQ3cnBLQXVYUC1WQVpDMEZDMGxaQTFi?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Fri, 16 Oct 2026 21:00:00 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Namık Tan",
+        "Namık Tan"
+      ],
+      "content_type": "analyst"
+    },
+    {
       "external_id": "eb0666a24f325b6ee40e1e9a",
       "mode": "pontos_voice",
       "title": "Στις Σέρρες το Τίμιο Ξύλο από την Παναγία Σουμελά - pontosnews.gr",
@@ -842,7 +883,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 16 Oct 2026 17:55:37 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -895,7 +936,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 16 Oct 2026 23:57:00 +0300",
       "base_score": 51,
-      "candidate_score": 66,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -924,18 +965,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "7e7d54912c970e1a824f85ba",
+      "external_id": "3d3ee14802fdc7b4ffb4d60f",
       "mode": "pontos_voice",
-      "title": "Trabzon'da araç 200 metrelik uçuruma yuvarlandı: 1 ölü",
-      "url": "https://www.61saat.com/trabzonda-arac-200-metrelik-ucuruma-yuvarlandi-1-olu",
+      "title": "KCT 1461 Trabzon FK'da hedef şampiyonluk! Kadir Kantekin'den dikkat çeken açıklamalar",
+      "url": "https://www.61saat.com/kct-1461-trabzon-fkda-hedef-sampiyonluk-kadir-kantekinden-dikkat-ceken-aciklamalar",
       "source": "61Saat Trabzon",
-      "published": "Fri, 16 Oct 2026 19:04:00 +0300",
-      "base_score": 44,
-      "candidate_score": 54,
+      "published": "Fri, 16 Oct 2026 17:12:00 +0300",
+      "base_score": 47,
+      "candidate_score": 53,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Çaykara",
+        "Of",
+        "açıklama",
         "Trabzon"
       ],
       "content_type": "news"
