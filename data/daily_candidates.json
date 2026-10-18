@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T01:31:44.305046+00:00",
+  "generated_at": "2026-10-18T06:35:17.085208+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -13,7 +13,7 @@
         "title": "AEK Athens vs. Manchester City Live Stream of UEFA Champions League - CBS Sports",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbEhwODZqSE5HcloxNFh2aGs5bm1MOTlwWUVxNXBfcmhsbWRySjlnc0VhVmtBVXFrSm9yX0kwMzNUYURzUS14c1FnMVRMQksxMUFHNzlHM1RPTXYyNWJ2UFJHR0Jpc3A0MEprQzRZQQ?oc=5",
         "source": "AEK Rumour Watch",
-        "published": "Sat, 17 Oct 2026 23:22:12 GMT",
+        "published": "Sun, 18 Oct 2026 03:52:12 GMT",
         "base_score": 50,
         "candidate_score": 73,
         "priority": "High",
@@ -35,8 +35,8 @@
         "source": "PAOK Rumour Watch",
         "published": "Sat, 17 Oct 2026 09:11:00 GMT",
         "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "PAOK",
           "Aris"
@@ -55,7 +55,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sat, 17 Oct 2026 22:32:25 GMT",
         "base_score": 41,
-        "candidate_score": 64,
+        "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -64,7 +64,47 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "681c632a69d5efc803da2581",
+        "mode": "sportdog",
+        "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sat, 17 Oct 2026 19:50:45 GMT",
+        "base_score": 41,
+        "candidate_score": 55,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "c288d8585c8f16576f655729",
+        "mode": "sportdog",
+        "title": "Recoveries per 90 - Aris Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS2J3VTNWOW1BSHdURXh3al9BYml1WUtZUXBhbjdFd1lOc1JMNGN5ajZMVUNfcDZRc0VaQkhSOUNnZ19yOTZCZ0VxbkhBVEQ3S2U3c1ZyME51TXNyN284Y3V1UkF6NGJYcmFDS0xZeXU2ZTdIZ0ZxZmF1V09tXzRjV01aRndKZXkxdUxsQkM4cDZRazd6dkhxbE1PeEJja2d4Q2hOcTdDNEhBQmd2MHNnUA?oc=5",
+        "source": "Aris Rumour Watch",
+        "published": "Sat, 17 Oct 2026 19:57:06 GMT",
+        "base_score": 48,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Aris",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Aris",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -75,7 +115,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 16 Oct 2026 19:53:16 GMT",
         "base_score": 39,
-        "candidate_score": 50,
+        "candidate_score": 47,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -84,6 +124,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "7b7e7b3e756ff1b5890afcf3",
+        "mode": "sportdog",
+        "title": "Haaland limps off in Man City win over Ipswich as AEK Athens clash looms - 懂球帝",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DVjFOR3Y2dmFxblJocENiUjdiMlk1X1BLb24wdWJqdWpmM2VBaWJJLVpJR094YVVLLWlhbjZrVmZIUGxsU2xYMXZiX2c0dw?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sat, 17 Oct 2026 19:46:00 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -124,47 +183,27 @@
         "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "5b05d30b7e7d47d33ef7aa8f",
-        "mode": "sportdog",
-        "title": "AEK Athens Fans Throw Petrol Bomb And Fireworks At Ajax Supporters Stephen Cloobeck (XoGT2WhFeI) - Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wTXMycXoweFQwMUhZM0V4ZnFZZnlTMHVqSjBESUx2TktkVlowbTBnbm1FT0d3dU8tQzBmWU56WmRoZ1ZGRmRIY1paSXVCbXA0OFB4VkZFRjBvTjdlR3hXaG96SURjdw?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Fri, 16 Oct 2026 21:31:43 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "5a86837813fa9632902ce3ea",
-        "mode": "sportdog",
-        "title": "Panathinaikos 2-1 Borac (15 Oct, 2026) Team Stats - ESPN India",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RyZkthMElXam1tbkdhdDhZcUZjbUx5U29iazBadTV6TUI2UkhrZWp5ajdIYmxKaGl1V2FfR2xxY25ZS3h4d3JkbUJTTF9obklXblpiRWZjSkMtWmxReUhzbkdHZDNVaHliUVJnUVM4UGFhZF9pNUl3cENhZ2lYOTR1WmdkVDZLVXc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 16 Oct 2026 17:09:35 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "aa8a4227d8d7f0ec02642004",
+        "mode": "geopolitico",
+        "title": "U.S.-China AI Competition Shifts to Model Control Beyond Semiconductors - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzhQZzZqNWtGc2lDblhhczgzdVBEaUotckNKbGNyREt1NmZJelAxb0VkVFhLb0t1OVJaQjhDMHlrRVAwRlNxZnZHTGFic294NFgzUm4ycGpqVUdoQWoyZ2NPb1o1a2dpd0I2bXBsVW9hdnFrRUNqZmVmbG5lWDlzb0c2Y3ota2dH?oc=5",
+        "source": "China Strategic Watch",
+        "published": "Sun, 18 Oct 2026 05:11:23 GMT",
+        "base_score": 88,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "China",
+          "China AI",
+          "semiconductor",
+          "semiconductors"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "454e6b9e567f14e0765a2a0f",
         "mode": "geopolitico",
@@ -173,7 +212,7 @@
         "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
         "published": "Sat, 17 Oct 2026 08:07:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -207,7 +246,7 @@
         "mode": "geopolitico",
         "title": "Doğu Akdeniz’de NAVTEX krizi! Ankara’dan Atina’ya uyarı - CNN Türk",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGdyWTAzV0s5Y3gyeGR5MVVINm5aYzhNNkltc3pYQU12VkpRTXVXLUFVaG1nd1N5b05SOXRYNERZOWg3YmkyUFNMdWZYenBnUlFtaG1TYUhzTzJhOTRrY3Z2Y2hyU0l6b3JMX1pIRm9ONkVfcnVoMmlvazZmRzFLeC1yWlFUVE5FR1Fnd212eXBneE0?oc=5",
-        "source": "Aegean Turkey Watch",
+        "source": "CNN Turk Greece Watch",
         "published": "Sat, 17 Oct 2026 05:43:49 GMT",
         "base_score": 100,
         "candidate_score": 103,
@@ -226,10 +265,10 @@
         "mode": "geopolitico",
         "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Hürriyet",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0FoV0NPbEw0X3ZlcjVvb2NINFFSazZaaDVMd1NsMmxYOVVoVEs2enlrV3NMeVo2RkpoMHJLZEtJQXVLWVdmU3ZVTGRDSzlQeXBUTU9xWF96QjVBS0V1V2xQdkhxRXdjRVZjVmZRaGRneS1HN3ZJSXUtaFV2alFWbkJxLWk1MG5QcF8tdlhhVXdZak5wR2tUN0tmd1NRMmhaS28wWmhuLU8zOU0tZWlJU3JMRlk?oc=5",
-        "source": "Turkey Greece Breaking Watch",
+        "source": "Eastern Mediterranean Turkey Watch",
         "published": "Sat, 17 Oct 2026 04:00:00 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
+        "base_score": 96,
+        "candidate_score": 99,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -240,30 +279,12 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "f9806989d7805620d0e3cfae",
+        "external_id": "328ae434ea02081c0d537776",
         "mode": "geopolitico",
-        "title": "Yunanistan'ın Girit'ten yayınladığı NAVTEX'e cevap veren Ankara - ssbulten.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXZiN3htMzdWdVdxbENDNEk0b3ZrVGRHc3QtRktXa1JwUTdmWnBwLWM1dlN4WjJhc2lIdHI4NVVBTGNISHFOYnI0Z05VR3N1VWlqV1hnbXlid1pQbGRldFhvVzh6YmpENlVZMkNvbWUxLTFIemdzb095aFFxWkE3UGozSUtvNXpYdmo5YmRLbUJ3OUdNZlp4VDliaWZLaGVxNE80dWZmbw?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Fri, 16 Oct 2026 23:34:54 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "NAVTEX",
-          "Girit",
-          "Ankara"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "ffa5a6af203c737f1d68ad71",
-        "mode": "geopolitico",
-        "title": "Ankara kablo hattına set çekti: Aynı gün iki anti-NAVTEX - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVQ4LTBBRUYwT3lCV19xcDQtdFN1QzQtQ2w1cFZ2NWxmd0RGemRqVGU1U0ZaUTBFYmhRbzFSRmtZTFlEM3k0QmNlQ19RazJ1OHRkakI0eTNzRFk5c0psT3I5OGZlRkxDQ25mYUhRTjRPbzRTdmoya3c5UXd1SmozUTMyc3RPaW8?oc=5",
+        "title": "Türkiye, NAVTEX yayımladı! Ankara’dan Atina’ya uyarı - Gündem Kıbrıs Gazetesi - Kıbrıs Haber",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjBJWHhRakhNNk5ha2twUkJBZGxBMWdESHplb09OUDUyazdVdzBSaVRPOWFXanY1VkZjRTRKMko0T1ZsN1JxdFRsQ283YmZ5WHktV1IxQ01XMTF4c29MdTB6U3dpNEhrMk0wTG9OMmFkMkhDeFROUWswb3l6Mjd6djlwdw?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 17 Oct 2026 04:24:39 GMT",
+        "published": "Sat, 17 Oct 2026 08:07:00 GMT",
         "base_score": 94,
         "candidate_score": 97,
         "priority": "URGENT",
@@ -271,7 +292,7 @@
           "NAVTEX",
           "Kıbrıs",
           "Ankara",
-          "kablo"
+          "Atina"
         ],
         "content_type": "turkey_greece"
       },
@@ -283,8 +304,8 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 17 Oct 2026 08:12:25 GMT",
         "base_score": 90,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "candidate_score": 93,
+        "priority": "High",
         "matched_keywords": [
           "Yunanistan",
           "NAVTEX",
@@ -293,21 +314,22 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "dd669b20dccc9659696f041b",
+        "external_id": "ffa5a6af203c737f1d68ad71",
         "mode": "geopolitico",
-        "title": "Several Afghan Taliban personnel killed in alleged retaliatory action along border, Pakistan says - The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMlpqUXVuQUxrR2pYWldONEF2bm45VEJRcEVRUE5UVlYzMU5QX3F5WHhlWTROcGdIeGxDUC1RdXM3b051UFFSLS1hVmFlcFJtcE9tVzRubDh3ZG9Jam5uNjByZVhrM3ZWakV6S2FiWWgxbmE5RktzME9iQ3MtcHZUQUY0UWZEdndaelpmUmhfODVMaDlwNGE5b2l4bmtueTJBd0tLUmtFSGUxX3lSVWlhZUhhWVVmeVVpbWJweEdBZGswLUJOV0pNeU0xUmVnNVhZdXRpVHJoZkFuVUs5S3V0Z9IB7gFBVV95cUxOUWxFZTM2TEQ5QWpXdGVFQ0JSa0RweG1WOFFHeDJEWjJrU0dqVkQ1Y25TX1JUTk1Benppb3l3cGRkY0ZWNW91TlVPNEhhNTBkZ0wwbjZPWTFJWTcxZjNuMjZKVFVRR1pHSmhVSFZHNHhGNVczemlqU0x0TExwZV9jeVMyVkhLTTZOXzBCRmZ2Mi1IQXozWndvaFc3VF96NFFWbVFqZUVuZlBWN2V2RGNDdzdjRWdnU0xXSjFsdk1ONng0MnF6Q0dZZDNOc29aTTJpUVBvX2FMemUtcXFnTEFMZTRyWW9zb2RDLTBTTllB?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sat, 17 Oct 2026 18:25:18 GMT",
-        "base_score": 82,
-        "candidate_score": 92,
+        "title": "Ankara kablo hattına set çekti: Aynı gün iki anti-NAVTEX - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVQ4LTBBRUYwT3lCV19xcDQtdFN1QzQtQ2w1cFZ2NWxmd0RGemRqVGU1U0ZaUTBFYmhRbzFSRmtZTFlEM3k0QmNlQ19RazJ1OHRkakI0eTNzRFk5c0psT3I5OGZlRkxDQ25mYUhRTjRPbzRTdmoya3c5UXd1SmozUTMyc3RPaW8?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Sat, 17 Oct 2026 04:24:39 GMT",
+        "base_score": 90,
+        "candidate_score": 93,
         "priority": "High",
         "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Ege"
+          "NAVTEX",
+          "Kıbrıs",
+          "Ankara",
+          "kablo"
         ],
-        "content_type": "news"
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -362,20 +384,36 @@
         "content_type": "news"
       },
       {
-        "external_id": "f7e4f1a6cbdf3c79dabbec7a",
+        "external_id": "53dddcd35f9a9c4752880d43",
         "mode": "pontos_voice",
-        "title": "Osman Gazi Karadeniz'e açıldı: İşte görev yapacağı yer",
-        "url": "https://www.61saat.com/osman-gazi-karadenize-acildi-iste-gorev-yapacagi-yer",
+        "title": "Yeni Parti’de dikkat çeken an! Göz göze geldiler ama tokalaşmadılar",
+        "url": "https://www.61saat.com/yeni-partide-dikkat-ceken-an-goz-goze-geldiler-ama-tokalasmadilar",
         "source": "61Saat Trabzon",
-        "published": "Sat, 17 Oct 2026 23:40:00 +0300",
-        "base_score": 55,
-        "candidate_score": 65,
+        "published": "Sun, 18 Oct 2026 08:10:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
           "Trabzon",
-          "Karadeniz"
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "d3cb582bd57c82ef0c61e42a",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor'dan 30 milyon euroya gitmişti! İtalya'da tartışma başladı - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEVlQlB3ZWx0X0ZwQUR2RjFKVlRGN0FWWlFKSFFad0pGRU1KVDhXa19LZmFrQlJVbDJpQ2JqWi1OSVdKTE9DMmpYLXk3UmRKN0FYdFVGSjRSZ2N2aUxIMGk5bnc4VDFucmhfNWZHaEt0QWRHSlpLMVFOUE1SdUpsaTRVZndKeVk1Ulo1MWNDR0Nqdi05LTdwR045QnJxeldHWXN5MTZyNXVvbGJsSGFZSA?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Sun, 18 Oct 2026 06:07:18 GMT",
+        "base_score": 42,
+        "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "tartışma",
+          "Trabzon"
         ],
         "content_type": "news"
       },
@@ -387,31 +425,13 @@
         "source": "Haber61 Trabzon",
         "published": "Sat, 17 Oct 2026 19:47:15 GMT",
         "base_score": 51,
-        "candidate_score": 61,
+        "candidate_score": 57,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "tepki",
           "tartışma",
           "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "4e14b2d21d1fdf9adaf492b2",
-        "mode": "pontos_voice",
-        "title": "Aynı pozisyon, farklı karar! Trabzonspor maçında neden iptal edilmedi?",
-        "url": "https://www.61saat.com/ayni-pozisyon-farkli-karar-trabzonspor-macinda-neden-iptal-edilmedi",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 17 Oct 2026 20:15:00 +0300",
-        "base_score": 53,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "tartışma",
-          "Trabzon",
-          "dil"
         ],
         "content_type": "news"
       }
@@ -424,7 +444,7 @@
       "title": "AEK Athens vs. Manchester City Live Stream of UEFA Champions League - CBS Sports",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbEhwODZqSE5HcloxNFh2aGs5bm1MOTlwWUVxNXBfcmhsbWRySjlnc0VhVmtBVXFrSm9yX0kwMzNUYURzUS14c1FnMVRMQksxMUFHNzlHM1RPTXYyNWJ2UFJHR0Jpc3A0MEprQzRZQQ?oc=5",
       "source": "AEK Rumour Watch",
-      "published": "Sat, 17 Oct 2026 23:22:12 GMT",
+      "published": "Sun, 18 Oct 2026 03:52:12 GMT",
       "base_score": 50,
       "candidate_score": 73,
       "priority": "High",
@@ -446,8 +466,8 @@
       "source": "PAOK Rumour Watch",
       "published": "Sat, 17 Oct 2026 09:11:00 GMT",
       "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "PAOK",
         "Aris"
@@ -466,7 +486,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sat, 17 Oct 2026 22:32:25 GMT",
       "base_score": 41,
-      "candidate_score": 64,
+      "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -475,7 +495,47 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "681c632a69d5efc803da2581",
+      "mode": "sportdog",
+      "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sat, 17 Oct 2026 19:50:45 GMT",
+      "base_score": 41,
+      "candidate_score": 55,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "c288d8585c8f16576f655729",
+      "mode": "sportdog",
+      "title": "Recoveries per 90 - Aris Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS2J3VTNWOW1BSHdURXh3al9BYml1WUtZUXBhbjdFd1lOc1JMNGN5ajZMVUNfcDZRc0VaQkhSOUNnZ19yOTZCZ0VxbkhBVEQ3S2U3c1ZyME51TXNyN284Y3V1UkF6NGJYcmFDS0xZeXU2ZTdIZ0ZxZmF1V09tXzRjV01aRndKZXkxdUxsQkM4cDZRazd6dkhxbE1PeEJja2d4Q2hOcTdDNEhBQmd2MHNnUA?oc=5",
+      "source": "Aris Rumour Watch",
+      "published": "Sat, 17 Oct 2026 19:57:06 GMT",
+      "base_score": 48,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Aris",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Aris",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -486,7 +546,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 16 Oct 2026 19:53:16 GMT",
       "base_score": 39,
-      "candidate_score": 50,
+      "candidate_score": 47,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -495,6 +555,25 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "7b7e7b3e756ff1b5890afcf3",
+      "mode": "sportdog",
+      "title": "Haaland limps off in Man City win over Ipswich as AEK Athens clash looms - 懂球帝",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DVjFOR3Y2dmFxblJocENiUjdiMlk1X1BLb24wdWJqdWpmM2VBaWJJLVpJR094YVVLLWlhbjZrVmZIUGxsU2xYMXZiX2c0dw?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sat, 17 Oct 2026 19:46:00 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -537,42 +616,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "5b05d30b7e7d47d33ef7aa8f",
-      "mode": "sportdog",
-      "title": "AEK Athens Fans Throw Petrol Bomb And Fireworks At Ajax Supporters Stephen Cloobeck (XoGT2WhFeI) - Unisba Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wTXMycXoweFQwMUhZM0V4ZnFZZnlTMHVqSjBESUx2TktkVlowbTBnbm1FT0d3dU8tQzBmWU56WmRoZ1ZGRmRIY1paSXVCbXA0OFB4VkZFRjBvTjdlR3hXaG96SURjdw?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Fri, 16 Oct 2026 21:31:43 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
+      "external_id": "aa8a4227d8d7f0ec02642004",
+      "mode": "geopolitico",
+      "title": "U.S.-China AI Competition Shifts to Model Control Beyond Semiconductors - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzhQZzZqNWtGc2lDblhhczgzdVBEaUotckNKbGNyREt1NmZJelAxb0VkVFhLb0t1OVJaQjhDMHlrRVAwRlNxZnZHTGFic294NFgzUm4ycGpqVUdoQWoyZ2NPb1o1a2dpd0I2bXBsVW9hdnFrRUNqZmVmbG5lWDlzb0c2Y3ota2dH?oc=5",
+      "source": "China Strategic Watch",
+      "published": "Sun, 18 Oct 2026 05:11:23 GMT",
+      "base_score": 88,
+      "candidate_score": 103,
+      "priority": "URGENT",
       "matched_keywords": [
-        "AEK"
+        "China",
+        "China AI",
+        "semiconductor",
+        "semiconductors"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "5a86837813fa9632902ce3ea",
-      "mode": "sportdog",
-      "title": "Panathinaikos 2-1 Borac (15 Oct, 2026) Team Stats - ESPN India",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RyZkthMElXam1tbkdhdDhZcUZjbUx5U29iazBadTV6TUI2UkhrZWp5ajdIYmxKaGl1V2FfR2xxY25ZS3h4d3JkbUJTTF9obklXblpiRWZjSkMtWmxReUhzbkdHZDNVaHliUVJnUVM4UGFhZF9pNUl3cENhZ2lYOTR1WmdkVDZLVXc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 16 Oct 2026 17:09:35 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "news"
     },
     {
       "external_id": "454e6b9e567f14e0765a2a0f",
@@ -582,7 +641,7 @@
       "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
       "published": "Sat, 17 Oct 2026 08:07:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -616,7 +675,7 @@
       "mode": "geopolitico",
       "title": "Doğu Akdeniz’de NAVTEX krizi! Ankara’dan Atina’ya uyarı - CNN Türk",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGdyWTAzV0s5Y3gyeGR5MVVINm5aYzhNNkltc3pYQU12VkpRTXVXLUFVaG1nd1N5b05SOXRYNERZOWg3YmkyUFNMdWZYenBnUlFtaG1TYUhzTzJhOTRrY3Z2Y2hyU0l6b3JMX1pIRm9ONkVfcnVoMmlvazZmRzFLeC1yWlFUVE5FR1Fnd212eXBneE0?oc=5",
-      "source": "Aegean Turkey Watch",
+      "source": "CNN Turk Greece Watch",
       "published": "Sat, 17 Oct 2026 05:43:49 GMT",
       "base_score": 100,
       "candidate_score": 103,
@@ -635,10 +694,10 @@
       "mode": "geopolitico",
       "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Hürriyet",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0FoV0NPbEw0X3ZlcjVvb2NINFFSazZaaDVMd1NsMmxYOVVoVEs2enlrV3NMeVo2RkpoMHJLZEtJQXVLWVdmU3ZVTGRDSzlQeXBUTU9xWF96QjVBS0V1V2xQdkhxRXdjRVZjVmZRaGRneS1HN3ZJSXUtaFV2alFWbkJxLWk1MG5QcF8tdlhhVXdZak5wR2tUN0tmd1NRMmhaS28wWmhuLU8zOU0tZWlJU3JMRlk?oc=5",
-      "source": "Turkey Greece Breaking Watch",
+      "source": "Eastern Mediterranean Turkey Watch",
       "published": "Sat, 17 Oct 2026 04:00:00 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
+      "base_score": 96,
+      "candidate_score": 99,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -649,30 +708,12 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "f9806989d7805620d0e3cfae",
+      "external_id": "328ae434ea02081c0d537776",
       "mode": "geopolitico",
-      "title": "Yunanistan'ın Girit'ten yayınladığı NAVTEX'e cevap veren Ankara - ssbulten.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXZiN3htMzdWdVdxbENDNEk0b3ZrVGRHc3QtRktXa1JwUTdmWnBwLWM1dlN4WjJhc2lIdHI4NVVBTGNISHFOYnI0Z05VR3N1VWlqV1hnbXlid1pQbGRldFhvVzh6YmpENlVZMkNvbWUxLTFIemdzb095aFFxWkE3UGozSUtvNXpYdmo5YmRLbUJ3OUdNZlp4VDliaWZLaGVxNE80dWZmbw?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Fri, 16 Oct 2026 23:34:54 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "NAVTEX",
-        "Girit",
-        "Ankara"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "ffa5a6af203c737f1d68ad71",
-      "mode": "geopolitico",
-      "title": "Ankara kablo hattına set çekti: Aynı gün iki anti-NAVTEX - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVQ4LTBBRUYwT3lCV19xcDQtdFN1QzQtQ2w1cFZ2NWxmd0RGemRqVGU1U0ZaUTBFYmhRbzFSRmtZTFlEM3k0QmNlQ19RazJ1OHRkakI0eTNzRFk5c0psT3I5OGZlRkxDQ25mYUhRTjRPbzRTdmoya3c5UXd1SmozUTMyc3RPaW8?oc=5",
+      "title": "Türkiye, NAVTEX yayımladı! Ankara’dan Atina’ya uyarı - Gündem Kıbrıs Gazetesi - Kıbrıs Haber",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjBJWHhRakhNNk5ha2twUkJBZGxBMWdESHplb09OUDUyazdVdzBSaVRPOWFXanY1VkZjRTRKMko0T1ZsN1JxdFRsQ283YmZ5WHktV1IxQ01XMTF4c29MdTB6U3dpNEhrMk0wTG9OMmFkMkhDeFROUWswb3l6Mjd6djlwdw?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 17 Oct 2026 04:24:39 GMT",
+      "published": "Sat, 17 Oct 2026 08:07:00 GMT",
       "base_score": 94,
       "candidate_score": 97,
       "priority": "URGENT",
@@ -680,7 +721,7 @@
         "NAVTEX",
         "Kıbrıs",
         "Ankara",
-        "kablo"
+        "Atina"
       ],
       "content_type": "turkey_greece"
     },
@@ -692,8 +733,8 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 17 Oct 2026 08:12:25 GMT",
       "base_score": 90,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "candidate_score": 93,
+      "priority": "High",
       "matched_keywords": [
         "Yunanistan",
         "NAVTEX",
@@ -702,21 +743,22 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "dd669b20dccc9659696f041b",
+      "external_id": "ffa5a6af203c737f1d68ad71",
       "mode": "geopolitico",
-      "title": "Several Afghan Taliban personnel killed in alleged retaliatory action along border, Pakistan says - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMlpqUXVuQUxrR2pYWldONEF2bm45VEJRcEVRUE5UVlYzMU5QX3F5WHhlWTROcGdIeGxDUC1RdXM3b051UFFSLS1hVmFlcFJtcE9tVzRubDh3ZG9Jam5uNjByZVhrM3ZWakV6S2FiWWgxbmE5RktzME9iQ3MtcHZUQUY0UWZEdndaelpmUmhfODVMaDlwNGE5b2l4bmtueTJBd0tLUmtFSGUxX3lSVWlhZUhhWVVmeVVpbWJweEdBZGswLUJOV0pNeU0xUmVnNVhZdXRpVHJoZkFuVUs5S3V0Z9IB7gFBVV95cUxOUWxFZTM2TEQ5QWpXdGVFQ0JSa0RweG1WOFFHeDJEWjJrU0dqVkQ1Y25TX1JUTk1Benppb3l3cGRkY0ZWNW91TlVPNEhhNTBkZ0wwbjZPWTFJWTcxZjNuMjZKVFVRR1pHSmhVSFZHNHhGNVczemlqU0x0TExwZV9jeVMyVkhLTTZOXzBCRmZ2Mi1IQXozWndvaFc3VF96NFFWbVFqZUVuZlBWN2V2RGNDdzdjRWdnU0xXSjFsdk1ONng0MnF6Q0dZZDNOc29aTTJpUVBvX2FMemUtcXFnTEFMZTRyWW9zb2RDLTBTTllB?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sat, 17 Oct 2026 18:25:18 GMT",
-      "base_score": 82,
-      "candidate_score": 92,
+      "title": "Ankara kablo hattına set çekti: Aynı gün iki anti-NAVTEX - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVQ4LTBBRUYwT3lCV19xcDQtdFN1QzQtQ2w1cFZ2NWxmd0RGemRqVGU1U0ZaUTBFYmhRbzFSRmtZTFlEM3k0QmNlQ19RazJ1OHRkakI0eTNzRFk5c0psT3I5OGZlRkxDQ25mYUhRTjRPbzRTdmoya3c5UXd1SmozUTMyc3RPaW8?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Sat, 17 Oct 2026 04:24:39 GMT",
+      "base_score": 90,
+      "candidate_score": 93,
       "priority": "High",
       "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Ege"
+        "NAVTEX",
+        "Kıbrıs",
+        "Ankara",
+        "kablo"
       ],
-      "content_type": "news"
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "eb0666a24f325b6ee40e1e9a",
@@ -769,20 +811,36 @@
       "content_type": "news"
     },
     {
-      "external_id": "f7e4f1a6cbdf3c79dabbec7a",
+      "external_id": "53dddcd35f9a9c4752880d43",
       "mode": "pontos_voice",
-      "title": "Osman Gazi Karadeniz'e açıldı: İşte görev yapacağı yer",
-      "url": "https://www.61saat.com/osman-gazi-karadenize-acildi-iste-gorev-yapacagi-yer",
+      "title": "Yeni Parti’de dikkat çeken an! Göz göze geldiler ama tokalaşmadılar",
+      "url": "https://www.61saat.com/yeni-partide-dikkat-ceken-an-goz-goze-geldiler-ama-tokalasmadilar",
       "source": "61Saat Trabzon",
-      "published": "Sat, 17 Oct 2026 23:40:00 +0300",
-      "base_score": 55,
-      "candidate_score": 65,
+      "published": "Sun, 18 Oct 2026 08:10:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
         "Trabzon",
-        "Karadeniz"
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "d3cb582bd57c82ef0c61e42a",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor'dan 30 milyon euroya gitmişti! İtalya'da tartışma başladı - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEVlQlB3ZWx0X0ZwQUR2RjFKVlRGN0FWWlFKSFFad0pGRU1KVDhXa19LZmFrQlJVbDJpQ2JqWi1OSVdKTE9DMmpYLXk3UmRKN0FYdFVGSjRSZ2N2aUxIMGk5bnc4VDFucmhfNWZHaEt0QWRHSlpLMVFOUE1SdUpsaTRVZndKeVk1Ulo1MWNDR0Nqdi05LTdwR045QnJxeldHWXN5MTZyNXVvbGJsSGFZSA?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Sun, 18 Oct 2026 06:07:18 GMT",
+      "base_score": 42,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "tartışma",
+        "Trabzon"
       ],
       "content_type": "news"
     },
@@ -794,31 +852,13 @@
       "source": "Haber61 Trabzon",
       "published": "Sat, 17 Oct 2026 19:47:15 GMT",
       "base_score": 51,
-      "candidate_score": 61,
+      "candidate_score": 57,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "tepki",
         "tartışma",
         "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "4e14b2d21d1fdf9adaf492b2",
-      "mode": "pontos_voice",
-      "title": "Aynı pozisyon, farklı karar! Trabzonspor maçında neden iptal edilmedi?",
-      "url": "https://www.61saat.com/ayni-pozisyon-farkli-karar-trabzonspor-macinda-neden-iptal-edilmedi",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 17 Oct 2026 20:15:00 +0300",
-      "base_score": 53,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "tartışma",
-        "Trabzon",
-        "dil"
       ],
       "content_type": "news"
     }
