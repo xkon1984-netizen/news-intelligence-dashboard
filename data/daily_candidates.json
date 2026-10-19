@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:59:08.289616+00:00",
+  "generated_at": "2026-10-19T17:28:21.276285+00:00",
   "counts": {
     "sportdog": 15,
     "geopolitico": 8,
@@ -8,6 +8,27 @@
   "modes": {
     "sportdog": [
       {
+        "external_id": "ccb05af59fbc15a8c079c6cc",
+        "mode": "sportdog",
+        "title": "Marseille Interested in Olympiacos Midfielder - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTDZpOHhPTE9oR1RvRnBHSlBOOHJtV3N6cEk0WGNTODZlRlptaUdyRnprT1Frc3lqZXJjakJObU1OX1pvSWI5RlRfeXlSY3JTbEFoWENfc1lVWTd2NW1mdERJSXd1ZjJwa1Z5WXdXNHVaZXFGN3NXM183QTNvSjFQTGtYcVY1R2pXcGMtbXBMbUdoNVRETHhkUmcyMmZ5OG5BLWpiUQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 19 Oct 2026 16:04:33 GMT",
+        "base_score": 70,
+        "candidate_score": 93,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "interested in",
+          "midfielder"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
         "external_id": "6749520e0d039692c90db15b",
         "mode": "sportdog",
         "title": "Azzedine Ounahi Transfer from Girona to Panathinaikos - TransferFeed",
@@ -15,7 +36,7 @@
         "source": "TransferFeed Greek Super League",
         "published": "Sun, 18 Oct 2026 09:45:49 GMT",
         "base_score": 58,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -35,7 +56,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Mon, 19 Oct 2026 08:12:30 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 70,
         "priority": "High",
         "matched_keywords": [
           "PAOK",
@@ -55,8 +76,8 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Sun, 18 Oct 2026 20:50:17 GMT",
         "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
           "Super League"
@@ -68,12 +89,12 @@
         "needs_second_source": true
       },
       {
-        "external_id": "681c632a69d5efc803da2581",
+        "external_id": "d91a2dd621c41521d3b7cbef",
         "mode": "sportdog",
-        "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
+        "title": "Man City Predicted Lineup vs. AEK Athens: Maresca Opts for Widespread Rotation - Forza Football",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORG9ydldad3p5dFg0REwxRnV5aUZEV0hiUUYtd1NaNEl2cnZ5Vm1DTU5xbVdPRnppLU1LelBMN3NuWXNBaEl1RzhXSndiTjE2b0FkUnVGNHBUTWtXYUpud1k0VndlVExYTV9CSjZONWp4ZlJjdmJhaFBIek9HMEJrSUlJSXY1Ri1xLVN1TWZ4Wno3Sm5IaGJQbkswbk9XalF6R0xtcjRLSjZpNGJUbko5UFlwbUY3aUx2N2I3dw?oc=5",
         "source": "AEK Rumour Watch",
-        "published": "Mon, 19 Oct 2026 10:38:04 GMT",
+        "published": "Mon, 19 Oct 2026 16:00:02 GMT",
         "base_score": 41,
         "candidate_score": 64,
         "priority": "Normal",
@@ -88,14 +109,54 @@
         "needs_second_source": true
       },
       {
-        "external_id": "f2f0e4e5f381ffce883b0581",
+        "external_id": "cb4fdcb19875a67e98d03c3f",
         "mode": "sportdog",
-        "title": "Man City vs. AEK Athens: Tempting 6/4 Rayan Cherki odds worth backing - Football Whispers",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2xZeHR1SWZFenI3QzIxRWx1Vm1XQWFrZmF5czJVdEY1UjhQVEVha0R2c2ZQMXNvVl9EMWpqUlVWOXVCNDJJX1FxMjNTd2xTc0Y5c3VPeUZ1NkhlRWxDeEl5T1h4RmFxVE4yNDg4UmJEWHFsb1Z6ZV94RnVnVkJOcXREbEs4LUFoUWxhUTJnY0l1R1NzbXlfQUp6M05rZV9FeEZMZA?oc=5",
+        "title": "Man City injury, suspension list and return dates vs. AEK Athens: Erling Haaland, Antoine Semenyo latest - Sports Mole",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSG04ODBNZHZPa3dsd3IzalVnMmhNcmd0MlVLdHJMbEZqOFVqc2xrcy1EUGRkZWE2N3BHTWRpUTdGT2kwZjN4V1ZJb2dxc3V4TjQwY1BIbjYtZjY3MU1kN25tSDVDNXhSQXE3aFV5ZXUyWmpTWVNsT0xBa1pheHdyZ2JycEx5VEdGcUt2bFpMWTA3TnlWLXNOUkE2aHZuRDFLS1ZtT0dnY2VXVnk4aUVXU1J2ZWJoVjJRcE9ORHYyYXBxeTFQbHJxd2V6Q2stTk9BWnltem02NEVHMk80RHBLWEFDUlhtRWdSYnVkREpFWEotV1RybGVZaThTRks4TXVUUW9wS2o4MFE?oc=5",
         "source": "AEK Rumour Watch",
-        "published": "Mon, 19 Oct 2026 08:33:56 GMT",
+        "published": "Mon, 19 Oct 2026 03:56:00 GMT",
         "base_score": 41,
         "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "injury"
+        ],
+        "content_type": "news",
+        "editorial_type": "Injury",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "70c5212ce44df91fc6a0321a",
+        "mode": "sportdog",
+        "title": "Match Officials: Willy Delajod to referee Manchester City vs AEK Athens (UEFA Champions League) - City Xtra",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGVjRnNRRVF6a0UwMG96R2hLSTUzdnZWQTdUOGdHYXFaVEdVM08tbFl2ME5OdlM4ZW8ydmR0dkM3dXc2akJJaEl6c1AxRTBXbkJxNDhoUkZXUGtjNDdGSU9hQUowSUFBU3hGd3FFZEFySktWckxETW9WalpFMlFmTFkyV3lBcjZYaDc2UFYta21aLWtmNmhPdGZTOWY2NWpRNUZ3UTdqYnlPQTZkOUV4bzhRY1NFMm1hYXM4UWpER0xLVkFIY052T05n?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Mon, 19 Oct 2026 01:00:00 GMT",
+        "base_score": 50,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "681c632a69d5efc803da2581",
+        "mode": "sportdog",
+        "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Mon, 19 Oct 2026 12:13:10 GMT",
+        "base_score": 41,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -104,7 +165,27 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6965db6112d0afc7bd40054b",
+        "mode": "sportdog",
+        "title": "▶️ Watch Olympiacos vs Sparta Prague Live Stream | Predictions & Tips - 22 Oct - FootballPredictions.NET",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWgyTTczY1M4QmVRUjVtTEhqM2oxTVFVNUJaM2VnYU1wRUQ5d2RLZi1qZ2EzUkVyZkdYQkJfQU1VaV9rUUJCQ1UyeU9scG5ONFBDam5sdHhJaEtjSzhXcWY2Rk94YVZXcmhEV1BXdDFCRVhLS19KeDdiZmFlV0Vob0VRVnJERDVGcGp3?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 19 Oct 2026 03:56:33 GMT",
+        "base_score": 41,
+        "candidate_score": 55,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -115,7 +196,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sun, 18 Oct 2026 19:25:14 GMT",
         "base_score": 41,
-        "candidate_score": 55,
+        "candidate_score": 52,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -124,45 +205,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "bc946870acbdcb34720606ba",
-        "mode": "sportdog",
-        "title": "Man City v AEK Athens: TV channel, match details & how to watch - Read Man City",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGctTEtrMncxZUYwdTdzamRvNnlUSTRVVVl4UjB6Tk50cGRQeWRJZ3UzT2dmRlFYNzdLaXQ4LW1HTUNCb0RpbnBXSkpJeEtGYTAwbDdIVzFuRmsxVUxpNmtZalI0WGdSS0V0cjNPeW5IbG1iN0d2clFGWnNJV3ZPRzBlZDgwME1HVC1LYkJIWkxzZ2xGbkVqQQ?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Mon, 19 Oct 2026 09:21:25 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "a6b5124802db7404c6d310a8",
-        "mode": "sportdog",
-        "title": "Olympiacos Takes Down Panetolikos—'The Ant' González Gets More Minutes in Greece - Soy Futbol",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHRyR004a2daQ1RyamZuYTNOU0F6V0s2YmlUVDh0U2dZNXpxUXAzTDgxbVRiVTFkQmRfLVNMSjk0NnJLQmlzMXlnOGZJMHJJRjlZVm9EYUsydGtJd2JyUE1IZ3NCWmhZR0stWUdlbnV3Q0kydTBCclRXWnJFV3puR0R5S0hIeTNnc2xteWRIX003U0dGV2tKTzZpUW03RkZfVG9NeUdpczMya3UzTmRsZjcwUXlQRDZJcWdwazFtYkJURGxYMWdEZm93?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 18 Oct 2026 17:25:52 GMT",
-        "base_score": 38,
-        "candidate_score": 52,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "Greece"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -187,21 +229,22 @@
         "needs_second_source": true
       },
       {
-        "external_id": "7df5b6e184d45d2e21a664ce",
+        "external_id": "a6b5124802db7404c6d310a8",
         "mode": "sportdog",
-        "title": "Manchester City vs AEK Athens Prediction and Betting Tips – 2026-10-20 - MrFixitsTips",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHFrcU1wUFFGUHg4bmt4eXZTWG5JbThCbVQ0NE5MZGFJWFgyLVp6bWtCQUs1Z2V1dS1VZzlkQzk3ajNYd3A2TGxtUEY2VjhIN2lQYWJwY1RWNndwVFl2OEhqS3JaRk5UbGhHNU1PcHFXanRhMEdQaWlXVy1mRkZkM0pqSldkX3JKc05SakZoY2UxX2hyQ1BUbklnclc0YVB0YmZKbWtub2M?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Mon, 19 Oct 2026 06:28:36 GMT",
-        "base_score": 31,
+        "title": "Olympiacos Takes Down Panetolikos—'The Ant' González Gets More Minutes in Greece - Soy Futbol",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHRyR004a2daQ1RyamZuYTNOU0F6V0s2YmlUVDh0U2dZNXpxUXAzTDgxbVRiVTFkQmRfLVNMSjk0NnJLQmlzMXlnOGZJMHJJRjlZVm9EYUsydGtJd2JyUE1IZ3NCWmhZR0stWUdlbnV3Q0kydTBCclRXWnJFV3puR0R5S0hIeTNnc2xteWRIX003U0dGV2tKTzZpUW03RkZfVG9NeUdpczMya3UzTmRsZjcwUXlQRDZJcWdwazFtYkJURGxYMWdEZm93?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 18 Oct 2026 17:25:52 GMT",
+        "base_score": 38,
         "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
-          "AEK"
+          "Olympiacos",
+          "Greece"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "AEK",
+        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -213,7 +256,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Mon, 19 Oct 2026 05:03:46 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -261,56 +304,36 @@
         "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "f061c2909fdaa578538bdd7f",
-        "mode": "sportdog",
-        "title": "Mexicans Abroad: Olympiacos Gets a New Coach, but 'The Ant' González Still Can't Win Him Over - Al Bat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVkF1bVpKRTh3VGEzUDVsOVlodEVEY3JlS2RQUzVfTjRjMnh5d0xfZkctTmpCWGJZN2h3NE44SVVxZHBLZFN6NEx5Y0hpTjBnRC1jVmNuYThMdV9teHZhMzVzTEZWRURCRTJFTHpqUDV4cDVObmt2YnpDZzNGQ1NzcUN2aE55UXA1Y3ljSjNXOTNTMzlpRlZGN1p0RVBBU19qYk9SZW05a3JteFY4V25KRXZOT1AxRDBZRFNlSTVWakxzZUVKOFBWS1ZuNEZXWjZ5ay1F0gHYAUFVX3lxTE02eE8zS0tvZTc0Q2E0U3MwcEcyNUs5T1JxRV9xNWpyakJWUV9YVkx3QzVUZ2pOTFZYOVNQZXNtZjA3eW1KTmtHY0diQTJKb1BNVmp4T29DMkMyYTM2OUo5RVJ1OFdvbVNxYXU3MnVXdXU0VmluQU91djFySGx5QjFMRkE2VW1kem1mLXFVaDNsTE9CWHUxSFZ6MWF6RHRHNVhNSTN0Qzczb0ZXV1AwaUcxQ2FGSmF3dTJ6ZVNIUmFlZ1NhZkNFY2k0Z21tNWlXMDRzOGdOeXRGQQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 18 Oct 2026 19:00:33 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "a5af5fa10d6875802410a6c0",
-        "mode": "sportdog",
-        "title": "Andre Williamson vs PAOK mateco: stats, game log - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjFFSG45Rmx3VENvMXBJUlVtR19qS1Y0aEtuTVc3NzhCMTN4T1p0TEFqa1pYVUxEVXN6ZmpwdjhUTWQtdWh1c0hVT3NZeG9hV0M3WEVZZmpwektyX2tjV3lPWnBkcUNqendVbDZwUS1kNjJhb1BXcktyV2dPUlptMGsyeHFMWWZHeXdTNWZtLXE5Zw?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sun, 18 Oct 2026 15:52:43 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
       {
-        "external_id": "d3a4fddc3dc948da5afdcbc7",
+        "external_id": "aac8930afcb77a7eb3de6c57",
+        "mode": "geopolitico",
+        "title": "Greece Plans to Lease Blue Whale Autonomous Submarines from IAI - Israel Defense",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4UmdCMEJBMTV0RXBvUHp4Ui1XMTRfSlUwZjh5azRoaWd1YnlQakxHRnk4em5VeEtGOUpYUWx3S1l3S3dsQW5raEs0OG9LMXJKR2NxSnJqX0c?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Mon, 19 Oct 2026 11:34:06 GMT",
+        "base_score": 96,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "IAI",
+          "defense"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "1783f7ce955cb889e451d0fe",
         "mode": "geopolitico",
         "title": "Doğu Akdeniz’de 23 Ekim gerilimi: Türkiye’den anti-NAVTEX, ABD’den kablo projesine destek - Evrensel",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHVnWndvS21iU2ZER3pickxyVng1cjl5eUJ6eDA3RnltSU94VWJLUHlSY0poRWxJTnhkU2N5QW13WkhPNlhoVE9Ybk5QU3l5b2RaWnlwakVZZkF5M2I0Wlo4d1RSU2Z4OHdNd1Vpb19ZMlRqUDZhb3BadUJ1RHFNRnZsWFh3NFBGdGdLUDREUDNHalBwa1RadEJjc3dRN1Y2QlNiQ0dlM2ZRM3k5c0RYTS00UldjVU55aXJoZ0tsMFc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMDdKWEMyQzdpMGdEcEMtWk5ZTlYzbE1uQmJXdDBKaURmaXZoMVpPVk1ubzBDcEM5LU85TzE2OThKbTRwVmRGczFIMGdkNk9iZ0paelpGWXdFb0I5ZF9Ud1Z3aEV6V2tpU1ZXVkc3UkNlVjNuMDBjcHYzTklHdVlmX1JvM1BkeHVSM05RaUtoOEtQSV9nM2h3OWItc2R2dzFucE1CNU0wbVA1UmhZNmZsbmMwS0VLRlNIcEVVQkRtMkVOMGNr?oc=5",
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 19 Oct 2026 08:47:00 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -328,7 +351,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 19 Oct 2026 07:44:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -340,21 +363,20 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "77b338c870e98b9895583e43",
+        "external_id": "27e20f4ba2e1ef0ceeb9ffa3",
         "mode": "geopolitico",
-        "title": "Türkiye ile Yunanistan Doğu Akdeniz'de karşı karşıya: Yunan basını, Atina'nın sıradaki adımını yazdı - Enerji FM 100.5",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZGZNaENEOGFZdUxLTFdaUVhLV3g3RG5manZicXczNmdpU2VsQWRRTThnWjNUUnI3Nkd5RUhKN1BqN0RkX096SlRZSTBCc0lKQnZNR0ExZGZZNS1vbS04eXFyZmxjdXFNZ0hsTWdBVlNlR3V4WjN6ZVJBUnRsR2Z0dnlYYXNuVFU3bHJfbEdaTnpwOUktcXVoZzJidXo4VVJ6ek1ZX0tuQkMzbldtR3BpU2tNT3hhMTNJOHlzV1dUX0FDaGZPenAzRDdmY0o?oc=5",
+        "title": "Doğu Akdeniz’de tatbikat ve araştırma gerilimi: Türkiye’den karşı NAVTEX - Gazete Pano",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXpNZHV3eGNQYUcydmJVekYtWjVRWm1RRUhGRTJoZkZXUXZmMFJ1TjNZaUJ3bWoxbTFpdGRmTVlhbjFRem9EOF9ocWNuaFZHSWo0SFZkbEtFSHhNcUxRLUc5dlF0ME10WDhNQU9tRGZxbl9YNUxfWUpjM3dCeGlzUWlya1g4dEN4ZWg0Y0hfcGJENXZFSFhvLS1vMnFIeHc5RldsS1FnUW9uZw?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Mon, 19 Oct 2026 06:14:13 GMT",
+        "published": "Mon, 19 Oct 2026 06:34:08 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
-          "Yunanistan",
+          "NAVTEX",
           "Doğu Akdeniz",
-          "Atina",
-          "ada",
-          "enerji"
+          "gerilim",
+          "tatbikat"
         ],
         "content_type": "turkey_greece"
       },
@@ -366,7 +388,7 @@
         "source": "Pakistan Security Watch",
         "published": "Mon, 19 Oct 2026 06:06:00 GMT",
         "base_score": 99,
-        "candidate_score": 109,
+        "candidate_score": 105,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -375,60 +397,6 @@
           "Balochistan"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "c53f26c0e0f84718fe52466a",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz’de NAVTEX krizi! Türkiye'den Eunomia tatbikatına karşı hamle - Haberet",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkNIZlphUHJCc3VnQ082bkZKOGJ3VVhHTERZUGRjcVRYU0ZIQzJ2TE4wLVhiVlZvSVhsR05oNmpCd256R2V2RklyUTNodlloZVFJLUhWMGp0dXByZDBQVDgwQ1g5bHFMR016MHROUGh1ZDBUc2pCeDNlSUFhUUNNTU1RQ2NyNlltX21MeGNRdjc3S2NqdUJLVURuMEVJRFBTRmc1NTNRUU9uYTjSAbABQVVfeXFMUE9MOEhRcWZTTVdHc1FrZ0tiNHJPNzY2T2hxa2ppakpUckRIRzAzeVYxVDlqZTA0LWI2Q3pVYldPUlVRa1hWemNPSjZHM2pvWXhPR3R0TzJ1UjZJdWcwTFdrYWR6R3FmMjNjTExzX3FSRjlfS3R3SUJ6ZTIxMURxVEQ0NExnZXh4c1hsNkZaTW5SNm1pSy1aU0lWWFhCLUJpRjMzXzljZzNJZ1JoUEhyMDc?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Sun, 18 Oct 2026 09:04:49 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "NAVTEX",
-          "Doğu Akdeniz",
-          "kriz",
-          "tatbikat"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "6f84ff4f88d411f7059ac88c",
-        "mode": "geopolitico",
-        "title": "ABD’li senatör: Türkiye, Yunanistan ve Güney Kıbrıs’a kabadayıca davranıyor - Mardin Life",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlhtMnZoLWsxc29YUjl6UExlMmdtcUpNdldIMFFQdWI2RWp3VTRJbHRqc1BVQ1JJX19aUWl3akNWT3BGSjdKbldlcmlqeHlUeHYtTVZXZ2loSnNWOWdSaFNSWFRBZjgwekJWbDlpeWNwNTBzN1paSnczVVVHSjBVSlM4ZnNwTmdyYk9QME1xZDdyM01haklOeXBLbFVBdExGY2pmem9qWVRUZE9WWDJF0gGvAUFVX3lxTE02WG0ydmgtazFzb1hSOXpQTGUyZ21xSk12V0gwUVB1YjZFandVNElsdGpzUFVDUklfX1pRaXdqQ1ZPcEZKN0puV2VyaWp4eVR4di1NVldnaWhKc1Y5Z1JoU1JYVEFmODB6QlZsOWl5Y3A1MHM3WlpKdzNVVUdKMFVKUzhmc3BOZ3JiT1AwTXFkN3IzTWFqSU55cEtsVUF0TEZjamZ6b2pZVFRkT1ZYMkU?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Sun, 18 Oct 2026 08:33:02 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "ada"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "26a4f9f05f01565bd96b6a76",
-        "mode": "geopolitico",
-        "title": "Türkiye Doğu Akdeniz’de NAVTEX yayımladı. Atina’nın sıradaki adımını Yunan basını yazdı - Nefes Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0ZxX2tUcXFDcG90Q3N0cUpzVUpKY2NIbkJieDNtX1BobmNWNmJqd0pWMTl0TUxUdFpLcjFPVm9EUC0tS0QtSEd4akNzZ3VBR0xqcnVzelhFdEZlQy01RjZwc1NZRWlWcUtqMWtYNEVsYVp2eDRGNm9HUDlNcTR2ei1YcXl4bTRGV09GTjlRX3J2aHptTHhDbTEydklHZGFFNEFTUlMzX084QThXcGFBczJVRUcweDg?oc=5",
-        "source": "Turkish Greek Relations Deep Watch",
-        "published": "Sun, 18 Oct 2026 10:40:00 GMT",
-        "base_score": 98,
-        "candidate_score": 101,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "NAVTEX",
-          "Doğu Akdeniz",
-          "Atina",
-          "ada"
-        ],
-        "content_type": "turkey_greece"
       },
       {
         "external_id": "b54e2a4daace6db6bcfdcc2c",
@@ -447,6 +415,40 @@
           "Balochistan"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "4ed2581f9a121469bfb2af10",
+        "mode": "geopolitico",
+        "title": "Λετυμπιώτης: NAVTEX εντός Οκτωβρίου για GSI – Τι είπε για Κυπριακό & «Αφροδίτη - Sigmalive",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFczZmltXzEzSm5DZXY0SnRVeVFjTFpfOFliWTBYV3NSbkcxMTJmN3BLT0FnVVVaUWYwdGdPd2NBZWs5eGlfRTg0dUtxV0pfRWFYVnlrVnRON2ttdTJUOFBZeTFJMDFhRmZXMkp1X25PZ0ozMGpaanVhNHR4djY4NmJaZWJvdi05Q2o5ZnplMWZBYTJoVFFDT0R1cUNrYjY2Z2o4R3dlamctU2VBVTE3NzRWZG1VNjRVeWd3X0hn?oc=5",
+        "source": "Greek Cyprus Watch",
+        "published": "Mon, 19 Oct 2026 16:30:17 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "NAVTEX",
+          "GSI",
+          "GSI"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "4524b920725ecbd0dedd4369",
+        "mode": "geopolitico",
+        "title": "Türkiye’den Doğu Akdeniz’de Eunomia Tatbikatına Karşı NAVTEX - Bölge Gündemi",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWlyLWV4WnN5cnR3VUd0c1FWX1FNRGhEWWI2UEx0X3prZEU5SWVvX1l6T0RpTmtYSzI5SlFCQVdIV0ZQdVotSWRBNXZBbDNoYUphY0oyZTZPblBHODRYS0dSMm91dTgwaVFEcFE0czNQU3RUMHF5NjFPa092VUloNWI0SmFBYmw5cF9hZGMyNHktYXBEbXZnREE3dllsR00tTEZCMzdicnk?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Sun, 18 Oct 2026 11:36:46 GMT",
+        "base_score": 86,
+        "candidate_score": 89,
+        "priority": "High",
+        "matched_keywords": [
+          "NAVTEX",
+          "Doğu Akdeniz",
+          "tatbikat"
+        ],
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -458,7 +460,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Mon, 19 Oct 2026 09:39:08 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -475,7 +477,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sun, 18 Oct 2026 09:54:37 GMT",
         "base_score": 84,
-        "candidate_score": 87,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -492,7 +494,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sun, 18 Oct 2026 17:54:34 GMT",
         "base_score": 69,
-        "candidate_score": 75,
+        "candidate_score": 72,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -501,61 +503,81 @@
         "content_type": "news"
       },
       {
-        "external_id": "c982a96a109ee23a857aad3c",
+        "external_id": "94295aaf3e3eca4140d34e63",
         "mode": "pontos_voice",
-        "title": "Trabzonspor-Beşiktaş maçı öncesi taraftarlardan iddialı tahminler! Salah'a büyük güven",
-        "url": "https://www.61saat.com/trabzonspor-besiktas-maci-oncesi-taraftarlardan-iddiali-tahminler-salaha-buyuk-guven",
+        "title": "Trabzonspor'dan derbi öncesi Batagov açıklaması! Yeni sakatlık tespit edildi",
+        "url": "https://www.61saat.com/trabzonspordan-derbi-oncesi-batagov-aciklamasi-yeni-sakatlik-tespit-edildi",
         "source": "61Saat Trabzon",
-        "published": "Mon, 19 Oct 2026 11:34:00 +0300",
-        "base_score": 51,
-        "candidate_score": 66,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Of",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "8b9f3cd3c857fd3bc3d9efba",
-        "mode": "pontos_voice",
-        "title": "Başkan Genç'ten derbi açıklaması! Trabzonspor 3-1 kazanır",
-        "url": "https://www.61saat.com/baskan-gencten-derbi-aciklamasi-trabzonspor-3-1-kazanir",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 19 Oct 2026 13:07:00 +0300",
+        "published": "Mon, 19 Oct 2026 17:36:00 +0300",
         "base_score": 49,
         "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
           "açıklama",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "1b129e3b2adcf9e678ce7550",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor’da Batagov,sahalara dönüş tarihi netleşti",
+        "url": "https://www.61saat.com/trabzonsporda-batagovsahalara-donus-tarihi-netlesti",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 19 Oct 2026 17:50:00 +0300",
+        "base_score": 46,
+        "candidate_score": 61,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "anıt",
           "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "75b6420934fdf2f98d9c6861",
+        "external_id": "23b8cf4c85745a58cc455208",
         "mode": "pontos_voice",
-        "title": "Trabzon’da raylı sistem çalışması nedeniyle otobüs hatlarında düzenleme!",
-        "url": "https://www.61saat.com/trabzonda-rayli-sistem-calismasi-nedeniyle-otobus-hatlarinda-duzenleme",
+        "title": "Başkan Genç: \"Muhtarlarımız Demokrasinin temel taşıdır\"",
+        "url": "https://www.61saat.com/baskan-genc-muhtarlarimiz-demokrasinin-temel-tasidir",
         "source": "61Saat Trabzon",
-        "published": "Mon, 19 Oct 2026 11:17:00 +0300",
+        "published": "Mon, 19 Oct 2026 20:10:00 +0300",
         "base_score": 44,
         "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "dil"
+          "belediye başkanı",
+          "Trabzon"
         ],
         "content_type": "news"
       }
     ]
   },
   "items": [
+    {
+      "external_id": "ccb05af59fbc15a8c079c6cc",
+      "mode": "sportdog",
+      "title": "Marseille Interested in Olympiacos Midfielder - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTDZpOHhPTE9oR1RvRnBHSlBOOHJtV3N6cEk0WGNTODZlRlptaUdyRnprT1Frc3lqZXJjakJObU1OX1pvSWI5RlRfeXlSY3JTbEFoWENfc1lVWTd2NW1mdERJSXd1ZjJwa1Z5WXdXNHVaZXFGN3NXM183QTNvSjFQTGtYcVY1R2pXcGMtbXBMbUdoNVRETHhkUmcyMmZ5OG5BLWpiUQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 19 Oct 2026 16:04:33 GMT",
+      "base_score": 70,
+      "candidate_score": 93,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "interested in",
+        "midfielder"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
     {
       "external_id": "6749520e0d039692c90db15b",
       "mode": "sportdog",
@@ -564,7 +586,7 @@
       "source": "TransferFeed Greek Super League",
       "published": "Sun, 18 Oct 2026 09:45:49 GMT",
       "base_score": 58,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -584,7 +606,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Mon, 19 Oct 2026 08:12:30 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 70,
       "priority": "High",
       "matched_keywords": [
         "PAOK",
@@ -604,8 +626,8 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Sun, 18 Oct 2026 20:50:17 GMT",
       "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
         "Super League"
@@ -617,12 +639,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "681c632a69d5efc803da2581",
+      "external_id": "d91a2dd621c41521d3b7cbef",
       "mode": "sportdog",
-      "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
+      "title": "Man City Predicted Lineup vs. AEK Athens: Maresca Opts for Widespread Rotation - Forza Football",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORG9ydldad3p5dFg0REwxRnV5aUZEV0hiUUYtd1NaNEl2cnZ5Vm1DTU5xbVdPRnppLU1LelBMN3NuWXNBaEl1RzhXSndiTjE2b0FkUnVGNHBUTWtXYUpud1k0VndlVExYTV9CSjZONWp4ZlJjdmJhaFBIek9HMEJrSUlJSXY1Ri1xLVN1TWZ4Wno3Sm5IaGJQbkswbk9XalF6R0xtcjRLSjZpNGJUbko5UFlwbUY3aUx2N2I3dw?oc=5",
       "source": "AEK Rumour Watch",
-      "published": "Mon, 19 Oct 2026 10:38:04 GMT",
+      "published": "Mon, 19 Oct 2026 16:00:02 GMT",
       "base_score": 41,
       "candidate_score": 64,
       "priority": "Normal",
@@ -637,14 +659,54 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f2f0e4e5f381ffce883b0581",
+      "external_id": "cb4fdcb19875a67e98d03c3f",
       "mode": "sportdog",
-      "title": "Man City vs. AEK Athens: Tempting 6/4 Rayan Cherki odds worth backing - Football Whispers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2xZeHR1SWZFenI3QzIxRWx1Vm1XQWFrZmF5czJVdEY1UjhQVEVha0R2c2ZQMXNvVl9EMWpqUlVWOXVCNDJJX1FxMjNTd2xTc0Y5c3VPeUZ1NkhlRWxDeEl5T1h4RmFxVE4yNDg4UmJEWHFsb1Z6ZV94RnVnVkJOcXREbEs4LUFoUWxhUTJnY0l1R1NzbXlfQUp6M05rZV9FeEZMZA?oc=5",
+      "title": "Man City injury, suspension list and return dates vs. AEK Athens: Erling Haaland, Antoine Semenyo latest - Sports Mole",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSG04ODBNZHZPa3dsd3IzalVnMmhNcmd0MlVLdHJMbEZqOFVqc2xrcy1EUGRkZWE2N3BHTWRpUTdGT2kwZjN4V1ZJb2dxc3V4TjQwY1BIbjYtZjY3MU1kN25tSDVDNXhSQXE3aFV5ZXUyWmpTWVNsT0xBa1pheHdyZ2JycEx5VEdGcUt2bFpMWTA3TnlWLXNOUkE2aHZuRDFLS1ZtT0dnY2VXVnk4aUVXU1J2ZWJoVjJRcE9ORHYyYXBxeTFQbHJxd2V6Q2stTk9BWnltem02NEVHMk80RHBLWEFDUlhtRWdSYnVkREpFWEotV1RybGVZaThTRks4TXVUUW9wS2o4MFE?oc=5",
       "source": "AEK Rumour Watch",
-      "published": "Mon, 19 Oct 2026 08:33:56 GMT",
+      "published": "Mon, 19 Oct 2026 03:56:00 GMT",
       "base_score": 41,
       "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "injury"
+      ],
+      "content_type": "news",
+      "editorial_type": "Injury",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "70c5212ce44df91fc6a0321a",
+      "mode": "sportdog",
+      "title": "Match Officials: Willy Delajod to referee Manchester City vs AEK Athens (UEFA Champions League) - City Xtra",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGVjRnNRRVF6a0UwMG96R2hLSTUzdnZWQTdUOGdHYXFaVEdVM08tbFl2ME5OdlM4ZW8ydmR0dkM3dXc2akJJaEl6c1AxRTBXbkJxNDhoUkZXUGtjNDdGSU9hQUowSUFBU3hGd3FFZEFySktWckxETW9WalpFMlFmTFkyV3lBcjZYaDc2UFYta21aLWtmNmhPdGZTOWY2NWpRNUZ3UTdqYnlPQTZkOUV4bzhRY1NFMm1hYXM4UWpER0xLVkFIY052T05n?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Mon, 19 Oct 2026 01:00:00 GMT",
+      "base_score": 50,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "681c632a69d5efc803da2581",
+      "mode": "sportdog",
+      "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Mon, 19 Oct 2026 12:13:10 GMT",
+      "base_score": 41,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -653,7 +715,27 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6965db6112d0afc7bd40054b",
+      "mode": "sportdog",
+      "title": "▶️ Watch Olympiacos vs Sparta Prague Live Stream | Predictions & Tips - 22 Oct - FootballPredictions.NET",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWgyTTczY1M4QmVRUjVtTEhqM2oxTVFVNUJaM2VnYU1wRUQ5d2RLZi1qZ2EzUkVyZkdYQkJfQU1VaV9rUUJCQ1UyeU9scG5ONFBDam5sdHhJaEtjSzhXcWY2Rk94YVZXcmhEV1BXdDFCRVhLS19KeDdiZmFlV0Vob0VRVnJERDVGcGp3?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 19 Oct 2026 03:56:33 GMT",
+      "base_score": 41,
+      "candidate_score": 55,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -664,7 +746,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sun, 18 Oct 2026 19:25:14 GMT",
       "base_score": 41,
-      "candidate_score": 55,
+      "candidate_score": 52,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -673,45 +755,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "bc946870acbdcb34720606ba",
-      "mode": "sportdog",
-      "title": "Man City v AEK Athens: TV channel, match details & how to watch - Read Man City",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGctTEtrMncxZUYwdTdzamRvNnlUSTRVVVl4UjB6Tk50cGRQeWRJZ3UzT2dmRlFYNzdLaXQ4LW1HTUNCb0RpbnBXSkpJeEtGYTAwbDdIVzFuRmsxVUxpNmtZalI0WGdSS0V0cjNPeW5IbG1iN0d2clFGWnNJV3ZPRzBlZDgwME1HVC1LYkJIWkxzZ2xGbkVqQQ?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Mon, 19 Oct 2026 09:21:25 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "a6b5124802db7404c6d310a8",
-      "mode": "sportdog",
-      "title": "Olympiacos Takes Down Panetolikos—'The Ant' González Gets More Minutes in Greece - Soy Futbol",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHRyR004a2daQ1RyamZuYTNOU0F6V0s2YmlUVDh0U2dZNXpxUXAzTDgxbVRiVTFkQmRfLVNMSjk0NnJLQmlzMXlnOGZJMHJJRjlZVm9EYUsydGtJd2JyUE1IZ3NCWmhZR0stWUdlbnV3Q0kydTBCclRXWnJFV3puR0R5S0hIeTNnc2xteWRIX003U0dGV2tKTzZpUW03RkZfVG9NeUdpczMya3UzTmRsZjcwUXlQRDZJcWdwazFtYkJURGxYMWdEZm93?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 18 Oct 2026 17:25:52 GMT",
-      "base_score": 38,
-      "candidate_score": 52,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "Greece"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -736,21 +779,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "7df5b6e184d45d2e21a664ce",
+      "external_id": "a6b5124802db7404c6d310a8",
       "mode": "sportdog",
-      "title": "Manchester City vs AEK Athens Prediction and Betting Tips – 2026-10-20 - MrFixitsTips",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHFrcU1wUFFGUHg4bmt4eXZTWG5JbThCbVQ0NE5MZGFJWFgyLVp6bWtCQUs1Z2V1dS1VZzlkQzk3ajNYd3A2TGxtUEY2VjhIN2lQYWJwY1RWNndwVFl2OEhqS3JaRk5UbGhHNU1PcHFXanRhMEdQaWlXVy1mRkZkM0pqSldkX3JKc05SakZoY2UxX2hyQ1BUbklnclc0YVB0YmZKbWtub2M?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Mon, 19 Oct 2026 06:28:36 GMT",
-      "base_score": 31,
+      "title": "Olympiacos Takes Down Panetolikos—'The Ant' González Gets More Minutes in Greece - Soy Futbol",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHRyR004a2daQ1RyamZuYTNOU0F6V0s2YmlUVDh0U2dZNXpxUXAzTDgxbVRiVTFkQmRfLVNMSjk0NnJLQmlzMXlnOGZJMHJJRjlZVm9EYUsydGtJd2JyUE1IZ3NCWmhZR0stWUdlbnV3Q0kydTBCclRXWnJFV3puR0R5S0hIeTNnc2xteWRIX003U0dGV2tKTzZpUW03RkZfVG9NeUdpczMya3UzTmRsZjcwUXlQRDZJcWdwazFtYkJURGxYMWdEZm93?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 18 Oct 2026 17:25:52 GMT",
+      "base_score": 38,
       "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
-        "AEK"
+        "Olympiacos",
+        "Greece"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "AEK",
+      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -762,7 +806,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Mon, 19 Oct 2026 05:03:46 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -812,52 +856,32 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f061c2909fdaa578538bdd7f",
-      "mode": "sportdog",
-      "title": "Mexicans Abroad: Olympiacos Gets a New Coach, but 'The Ant' González Still Can't Win Him Over - Al Bat",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVkF1bVpKRTh3VGEzUDVsOVlodEVEY3JlS2RQUzVfTjRjMnh5d0xfZkctTmpCWGJZN2h3NE44SVVxZHBLZFN6NEx5Y0hpTjBnRC1jVmNuYThMdV9teHZhMzVzTEZWRURCRTJFTHpqUDV4cDVObmt2YnpDZzNGQ1NzcUN2aE55UXA1Y3ljSjNXOTNTMzlpRlZGN1p0RVBBU19qYk9SZW05a3JteFY4V25KRXZOT1AxRDBZRFNlSTVWakxzZUVKOFBWS1ZuNEZXWjZ5ay1F0gHYAUFVX3lxTE02eE8zS0tvZTc0Q2E0U3MwcEcyNUs5T1JxRV9xNWpyakJWUV9YVkx3QzVUZ2pOTFZYOVNQZXNtZjA3eW1KTmtHY0diQTJKb1BNVmp4T29DMkMyYTM2OUo5RVJ1OFdvbVNxYXU3MnVXdXU0VmluQU91djFySGx5QjFMRkE2VW1kem1mLXFVaDNsTE9CWHUxSFZ6MWF6RHRHNVhNSTN0Qzczb0ZXV1AwaUcxQ2FGSmF3dTJ6ZVNIUmFlZ1NhZkNFY2k0Z21tNWlXMDRzOGdOeXRGQQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 18 Oct 2026 19:00:33 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
+      "external_id": "aac8930afcb77a7eb3de6c57",
+      "mode": "geopolitico",
+      "title": "Greece Plans to Lease Blue Whale Autonomous Submarines from IAI - Israel Defense",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4UmdCMEJBMTV0RXBvUHp4Ui1XMTRfSlUwZjh5azRoaWd1YnlQakxHRnk4em5VeEtGOUpYUWx3S1l3S3dsQW5raEs0OG9LMXJKR2NxSnJqX0c?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Mon, 19 Oct 2026 11:34:06 GMT",
+      "base_score": 96,
+      "candidate_score": 106,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Olympiacos"
+        "Greece",
+        "Israel",
+        "IAI",
+        "defense"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "news"
     },
     {
-      "external_id": "a5af5fa10d6875802410a6c0",
-      "mode": "sportdog",
-      "title": "Andre Williamson vs PAOK mateco: stats, game log - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjFFSG45Rmx3VENvMXBJUlVtR19qS1Y0aEtuTVc3NzhCMTN4T1p0TEFqa1pYVUxEVXN6ZmpwdjhUTWQtdWh1c0hVT3NZeG9hV0M3WEVZZmpwektyX2tjV3lPWnBkcUNqendVbDZwUS1kNjJhb1BXcktyV2dPUlptMGsyeHFMWWZHeXdTNWZtLXE5Zw?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sun, 18 Oct 2026 15:52:43 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "d3a4fddc3dc948da5afdcbc7",
+      "external_id": "1783f7ce955cb889e451d0fe",
       "mode": "geopolitico",
       "title": "Doğu Akdeniz’de 23 Ekim gerilimi: Türkiye’den anti-NAVTEX, ABD’den kablo projesine destek - Evrensel",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHVnWndvS21iU2ZER3pickxyVng1cjl5eUJ6eDA3RnltSU94VWJLUHlSY0poRWxJTnhkU2N5QW13WkhPNlhoVE9Ybk5QU3l5b2RaWnlwakVZZkF5M2I0Wlo4d1RSU2Z4OHdNd1Vpb19ZMlRqUDZhb3BadUJ1RHFNRnZsWFh3NFBGdGdLUDREUDNHalBwa1RadEJjc3dRN1Y2QlNiQ0dlM2ZRM3k5c0RYTS00UldjVU55aXJoZ0tsMFc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMDdKWEMyQzdpMGdEcEMtWk5ZTlYzbE1uQmJXdDBKaURmaXZoMVpPVk1ubzBDcEM5LU85TzE2OThKbTRwVmRGczFIMGdkNk9iZ0paelpGWXdFb0I5ZF9Ud1Z3aEV6V2tpU1ZXVkc3UkNlVjNuMDBjcHYzTklHdVlmX1JvM1BkeHVSM05RaUtoOEtQSV9nM2h3OWItc2R2dzFucE1CNU0wbVA1UmhZNmZsbmMwS0VLRlNIcEVVQkRtMkVOMGNr?oc=5",
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 19 Oct 2026 08:47:00 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -875,7 +899,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 19 Oct 2026 07:44:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -887,21 +911,20 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "77b338c870e98b9895583e43",
+      "external_id": "27e20f4ba2e1ef0ceeb9ffa3",
       "mode": "geopolitico",
-      "title": "Türkiye ile Yunanistan Doğu Akdeniz'de karşı karşıya: Yunan basını, Atina'nın sıradaki adımını yazdı - Enerji FM 100.5",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZGZNaENEOGFZdUxLTFdaUVhLV3g3RG5manZicXczNmdpU2VsQWRRTThnWjNUUnI3Nkd5RUhKN1BqN0RkX096SlRZSTBCc0lKQnZNR0ExZGZZNS1vbS04eXFyZmxjdXFNZ0hsTWdBVlNlR3V4WjN6ZVJBUnRsR2Z0dnlYYXNuVFU3bHJfbEdaTnpwOUktcXVoZzJidXo4VVJ6ek1ZX0tuQkMzbldtR3BpU2tNT3hhMTNJOHlzV1dUX0FDaGZPenAzRDdmY0o?oc=5",
+      "title": "Doğu Akdeniz’de tatbikat ve araştırma gerilimi: Türkiye’den karşı NAVTEX - Gazete Pano",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXpNZHV3eGNQYUcydmJVekYtWjVRWm1RRUhGRTJoZkZXUXZmMFJ1TjNZaUJ3bWoxbTFpdGRmTVlhbjFRem9EOF9ocWNuaFZHSWo0SFZkbEtFSHhNcUxRLUc5dlF0ME10WDhNQU9tRGZxbl9YNUxfWUpjM3dCeGlzUWlya1g4dEN4ZWg0Y0hfcGJENXZFSFhvLS1vMnFIeHc5RldsS1FnUW9uZw?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Mon, 19 Oct 2026 06:14:13 GMT",
+      "published": "Mon, 19 Oct 2026 06:34:08 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
-        "Yunanistan",
+        "NAVTEX",
         "Doğu Akdeniz",
-        "Atina",
-        "ada",
-        "enerji"
+        "gerilim",
+        "tatbikat"
       ],
       "content_type": "turkey_greece"
     },
@@ -913,7 +936,7 @@
       "source": "Pakistan Security Watch",
       "published": "Mon, 19 Oct 2026 06:06:00 GMT",
       "base_score": 99,
-      "candidate_score": 109,
+      "candidate_score": 105,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -922,60 +945,6 @@
         "Balochistan"
       ],
       "content_type": "news"
-    },
-    {
-      "external_id": "c53f26c0e0f84718fe52466a",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz’de NAVTEX krizi! Türkiye'den Eunomia tatbikatına karşı hamle - Haberet",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkNIZlphUHJCc3VnQ082bkZKOGJ3VVhHTERZUGRjcVRYU0ZIQzJ2TE4wLVhiVlZvSVhsR05oNmpCd256R2V2RklyUTNodlloZVFJLUhWMGp0dXByZDBQVDgwQ1g5bHFMR016MHROUGh1ZDBUc2pCeDNlSUFhUUNNTU1RQ2NyNlltX21MeGNRdjc3S2NqdUJLVURuMEVJRFBTRmc1NTNRUU9uYTjSAbABQVVfeXFMUE9MOEhRcWZTTVdHc1FrZ0tiNHJPNzY2T2hxa2ppakpUckRIRzAzeVYxVDlqZTA0LWI2Q3pVYldPUlVRa1hWemNPSjZHM2pvWXhPR3R0TzJ1UjZJdWcwTFdrYWR6R3FmMjNjTExzX3FSRjlfS3R3SUJ6ZTIxMURxVEQ0NExnZXh4c1hsNkZaTW5SNm1pSy1aU0lWWFhCLUJpRjMzXzljZzNJZ1JoUEhyMDc?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Sun, 18 Oct 2026 09:04:49 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "NAVTEX",
-        "Doğu Akdeniz",
-        "kriz",
-        "tatbikat"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "6f84ff4f88d411f7059ac88c",
-      "mode": "geopolitico",
-      "title": "ABD’li senatör: Türkiye, Yunanistan ve Güney Kıbrıs’a kabadayıca davranıyor - Mardin Life",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlhtMnZoLWsxc29YUjl6UExlMmdtcUpNdldIMFFQdWI2RWp3VTRJbHRqc1BVQ1JJX19aUWl3akNWT3BGSjdKbldlcmlqeHlUeHYtTVZXZ2loSnNWOWdSaFNSWFRBZjgwekJWbDlpeWNwNTBzN1paSnczVVVHSjBVSlM4ZnNwTmdyYk9QME1xZDdyM01haklOeXBLbFVBdExGY2pmem9qWVRUZE9WWDJF0gGvAUFVX3lxTE02WG0ydmgtazFzb1hSOXpQTGUyZ21xSk12V0gwUVB1YjZFandVNElsdGpzUFVDUklfX1pRaXdqQ1ZPcEZKN0puV2VyaWp4eVR4di1NVldnaWhKc1Y5Z1JoU1JYVEFmODB6QlZsOWl5Y3A1MHM3WlpKdzNVVUdKMFVKUzhmc3BOZ3JiT1AwTXFkN3IzTWFqSU55cEtsVUF0TEZjamZ6b2pZVFRkT1ZYMkU?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Sun, 18 Oct 2026 08:33:02 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "ada"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "26a4f9f05f01565bd96b6a76",
-      "mode": "geopolitico",
-      "title": "Türkiye Doğu Akdeniz’de NAVTEX yayımladı. Atina’nın sıradaki adımını Yunan basını yazdı - Nefes Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0ZxX2tUcXFDcG90Q3N0cUpzVUpKY2NIbkJieDNtX1BobmNWNmJqd0pWMTl0TUxUdFpLcjFPVm9EUC0tS0QtSEd4akNzZ3VBR0xqcnVzelhFdEZlQy01RjZwc1NZRWlWcUtqMWtYNEVsYVp2eDRGNm9HUDlNcTR2ei1YcXl4bTRGV09GTjlRX3J2aHptTHhDbTEydklHZGFFNEFTUlMzX084QThXcGFBczJVRUcweDg?oc=5",
-      "source": "Turkish Greek Relations Deep Watch",
-      "published": "Sun, 18 Oct 2026 10:40:00 GMT",
-      "base_score": 98,
-      "candidate_score": 101,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "NAVTEX",
-        "Doğu Akdeniz",
-        "Atina",
-        "ada"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "b54e2a4daace6db6bcfdcc2c",
@@ -996,6 +965,40 @@
       "content_type": "news"
     },
     {
+      "external_id": "4ed2581f9a121469bfb2af10",
+      "mode": "geopolitico",
+      "title": "Λετυμπιώτης: NAVTEX εντός Οκτωβρίου για GSI – Τι είπε για Κυπριακό & «Αφροδίτη - Sigmalive",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFczZmltXzEzSm5DZXY0SnRVeVFjTFpfOFliWTBYV3NSbkcxMTJmN3BLT0FnVVVaUWYwdGdPd2NBZWs5eGlfRTg0dUtxV0pfRWFYVnlrVnRON2ttdTJUOFBZeTFJMDFhRmZXMkp1X25PZ0ozMGpaanVhNHR4djY4NmJaZWJvdi05Q2o5ZnplMWZBYTJoVFFDT0R1cUNrYjY2Z2o4R3dlamctU2VBVTE3NzRWZG1VNjRVeWd3X0hn?oc=5",
+      "source": "Greek Cyprus Watch",
+      "published": "Mon, 19 Oct 2026 16:30:17 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "NAVTEX",
+        "GSI",
+        "GSI"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "4524b920725ecbd0dedd4369",
+      "mode": "geopolitico",
+      "title": "Türkiye’den Doğu Akdeniz’de Eunomia Tatbikatına Karşı NAVTEX - Bölge Gündemi",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWlyLWV4WnN5cnR3VUd0c1FWX1FNRGhEWWI2UEx0X3prZEU5SWVvX1l6T0RpTmtYSzI5SlFCQVdIV0ZQdVotSWRBNXZBbDNoYUphY0oyZTZPblBHODRYS0dSMm91dTgwaVFEcFE0czNQU3RUMHF5NjFPa092VUloNWI0SmFBYmw5cF9hZGMyNHktYXBEbXZnREE3dllsR00tTEZCMzdicnk?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Sun, 18 Oct 2026 11:36:46 GMT",
+      "base_score": 86,
+      "candidate_score": 89,
+      "priority": "High",
+      "matched_keywords": [
+        "NAVTEX",
+        "Doğu Akdeniz",
+        "tatbikat"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "34cab3355c926a7b9f2c5c2e",
       "mode": "pontos_voice",
       "title": "Μ&Π Σύλλογος Μικροχωρίου Δράμας «Παναγία Σουμελά»: Ελάτε για χορό και γυμναστική - pontosnews.gr",
@@ -1003,7 +1006,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Mon, 19 Oct 2026 09:39:08 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -1020,7 +1023,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sun, 18 Oct 2026 09:54:37 GMT",
       "base_score": 84,
-      "candidate_score": 87,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -1037,7 +1040,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sun, 18 Oct 2026 17:54:34 GMT",
       "base_score": 69,
-      "candidate_score": 75,
+      "candidate_score": 72,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -1046,55 +1049,54 @@
       "content_type": "news"
     },
     {
-      "external_id": "c982a96a109ee23a857aad3c",
+      "external_id": "94295aaf3e3eca4140d34e63",
       "mode": "pontos_voice",
-      "title": "Trabzonspor-Beşiktaş maçı öncesi taraftarlardan iddialı tahminler! Salah'a büyük güven",
-      "url": "https://www.61saat.com/trabzonspor-besiktas-maci-oncesi-taraftarlardan-iddiali-tahminler-salaha-buyuk-guven",
+      "title": "Trabzonspor'dan derbi öncesi Batagov açıklaması! Yeni sakatlık tespit edildi",
+      "url": "https://www.61saat.com/trabzonspordan-derbi-oncesi-batagov-aciklamasi-yeni-sakatlik-tespit-edildi",
       "source": "61Saat Trabzon",
-      "published": "Mon, 19 Oct 2026 11:34:00 +0300",
-      "base_score": 51,
-      "candidate_score": 66,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Of",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "8b9f3cd3c857fd3bc3d9efba",
-      "mode": "pontos_voice",
-      "title": "Başkan Genç'ten derbi açıklaması! Trabzonspor 3-1 kazanır",
-      "url": "https://www.61saat.com/baskan-gencten-derbi-aciklamasi-trabzonspor-3-1-kazanir",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 19 Oct 2026 13:07:00 +0300",
+      "published": "Mon, 19 Oct 2026 17:36:00 +0300",
       "base_score": 49,
       "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
         "açıklama",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "1b129e3b2adcf9e678ce7550",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor’da Batagov,sahalara dönüş tarihi netleşti",
+      "url": "https://www.61saat.com/trabzonsporda-batagovsahalara-donus-tarihi-netlesti",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 19 Oct 2026 17:50:00 +0300",
+      "base_score": 46,
+      "candidate_score": 61,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "anıt",
         "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "75b6420934fdf2f98d9c6861",
+      "external_id": "23b8cf4c85745a58cc455208",
       "mode": "pontos_voice",
-      "title": "Trabzon’da raylı sistem çalışması nedeniyle otobüs hatlarında düzenleme!",
-      "url": "https://www.61saat.com/trabzonda-rayli-sistem-calismasi-nedeniyle-otobus-hatlarinda-duzenleme",
+      "title": "Başkan Genç: \"Muhtarlarımız Demokrasinin temel taşıdır\"",
+      "url": "https://www.61saat.com/baskan-genc-muhtarlarimiz-demokrasinin-temel-tasidir",
       "source": "61Saat Trabzon",
-      "published": "Mon, 19 Oct 2026 11:17:00 +0300",
+      "published": "Mon, 19 Oct 2026 20:10:00 +0300",
       "base_score": 44,
       "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "dil"
+        "belediye başkanı",
+        "Trabzon"
       ],
       "content_type": "news"
     }
