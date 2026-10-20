@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:46:07.426575+00:00",
+  "generated_at": "2026-10-20T00:47:23.153916+00:00",
   "counts": {
     "sportdog": 15,
     "geopolitico": 8,
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 19 Oct 2026 16:04:33 GMT",
         "base_score": 70,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -25,8 +25,8 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "24baffca2a0880cfb4f4aaa5",
@@ -36,8 +36,8 @@
         "source": "AEK Rumour Watch",
         "published": "Mon, 19 Oct 2026 19:00:00 GMT",
         "base_score": 41,
-        "candidate_score": 73,
-        "priority": "High",
+        "candidate_score": 68,
+        "priority": "Normal",
         "matched_keywords": [
           "AEK",
           "injury"
@@ -56,7 +56,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Sun, 18 Oct 2026 17:54:37 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
@@ -69,26 +69,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "681c632a69d5efc803da2581",
-        "mode": "sportdog",
-        "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Mon, 19 Oct 2026 19:50:31 GMT",
-        "base_score": 41,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "football"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "cb4fdcb19875a67e98d03c3f",
         "mode": "sportdog",
         "title": "Man City injury, suspension list and return dates vs. AEK Athens: Erling Haaland, Antoine Semenyo latest - Sports Mole",
@@ -96,7 +76,7 @@
         "source": "AEK Rumour Watch",
         "published": "Mon, 19 Oct 2026 03:56:00 GMT",
         "base_score": 41,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -129,6 +109,26 @@
         "needs_second_source": true
       },
       {
+        "external_id": "f133bb61ca3b97704064787b",
+        "mode": "sportdog",
+        "title": "Man City v AEK Athens LIVE 20/10/2026 | Football - Flashscore UK",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQclVsa09SVkhMcGU5X01HVklNWnI1ZGQwNkl0SUMwX0VUVWkwaUg4NHFUeFJmR1FEMWVEOVRIUWV3cEE0VGxoZDFEbmNIcE56TGMyWE5yTkVmME4teVQwclZaMU5IU1JDOVVjWGJrNUJUZVVQdTJZSUo4U3NrRE01cWVzdDRoZHg2M1E?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Mon, 19 Oct 2026 21:35:20 GMT",
+        "base_score": 41,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "6965db6112d0afc7bd40054b",
         "mode": "sportdog",
         "title": "▶️ Watch Olympiacos vs Sparta Prague Live Stream | Predictions & Tips - 22 Oct - FootballPredictions.NET",
@@ -136,7 +136,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 19 Oct 2026 03:56:33 GMT",
         "base_score": 41,
-        "candidate_score": 55,
+        "candidate_score": 52,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -169,6 +169,44 @@
         "needs_second_source": true
       },
       {
+        "external_id": "2d7b40ac9d461480d9582229",
+        "mode": "sportdog",
+        "title": "Guerschon Yabusele speaks on Panathinaikos, Zeljko Obradovic, and potential NBA expansion in Europe - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDZpdUs4Yy1fbTk0R0FCS2U1UG1yZzFaSHpscEpSVFZub1dmUkFyX0Q2RkJENlptV09JNjVoMm9oNHh4bEhucldpX3ZxblpGSXNaMFBzYklicmY0b2NNRngwb09SMzB3SGxrOUNaOWxLbk5GRjFXXzJkNUNUTnlFWC1LOHpYV1NCYlNySTRNUmpWMTZNOHY2Ug?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Mon, 19 Oct 2026 20:34:01 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "585facb146d8aca808b01c70",
+        "mode": "sportdog",
+        "title": "From Liga MX Star to Forgotten in Europe: Armando 'Hormiga' González Fades Away at Olympiacos - Al Bat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaE1Ya3dPdUNWSW8yYThhTWFHYmVOb0FzZ3k4SHFWeXBxYUZkNGpoVFJudVpVQ3BNdUZ1WmdFdFpQNWViNUtxeVJmQi1zX1Z1S1VKaEMzOGttbngxam1WSXA4NURSV0h2eEQ3MzMyMmVTd0taZi05UVN3OXdFc3ZueHltamY0aWFvTkxzYnk0eWRiRDJQeS1VbXNZUmt1eUNTTVFXcnJlTWF5bHVyU05kSnY1ZW9lWl9CNmVmamZRZW1qUEFDaGtKTEZLZS0wLW5iTWcxbFVn0gHbAUFVX3lxTFBfYTN6bm1HZ1ZhOVVIb1lOWHBtSFB1bk9QMkJZX2F4dEtvYVlxd1RSZExLN1VrMk1DakVTbGV0VmNuNlBicDM2ZzZ1N2xPWVdKNHdVc3NnR29KSGx1LUU4M0hCaC1vQXliaFhWRlVYZ0c3X1Q4YXEyVWhyVWItSXl3ZlRIWG1hUEJ3MFpxWGZ6RkdsZ2MzLUlFUS1OZEZFV2Y0VXMxNHYxVF9uYXh1ZF96eEVGQTVWMTBnc3BkT3duMVBYYnNEYldSM3dQRlZWSmVsS2RuaGJCQmpDdw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Mon, 19 Oct 2026 19:30:59 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "a6b5124802db7404c6d310a8",
         "mode": "sportdog",
         "title": "Olympiacos Takes Down Panetolikos—'The Ant' González Gets More Minutes in Greece - Soy Futbol",
@@ -176,7 +214,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sun, 18 Oct 2026 17:25:52 GMT",
         "base_score": 38,
-        "candidate_score": 49,
+        "candidate_score": 46,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -189,26 +227,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "595f4cdc1e2ae0dbca0d4953",
-        "mode": "sportdog",
-        "title": "▶️ Watch Kairat vs Panathinaikos Live Stream | Predictions & Tips - 22 Oct - FootballPredictions.NET",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXJDOUtrdkN2eEdLZUFxTlM3Z2RaaUtFeVo4SmlCcjl4TVdhd1I4ZkdJUk1jSXdKM1NpbUdKelU3TWppcGRBNW9UWEZDRE12YWkzdTEtMHRhRGtGX3NCM05RVFhIVmNYLU1TWi1faDdCSjdYdVdoOGtSeU5DMl9UZXV3MWdfQQ?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sun, 18 Oct 2026 12:33:20 GMT",
-        "base_score": 41,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "football"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "2cef26bb7c07ea255a27af1c",
         "mode": "sportdog",
         "title": "PAOK vs Iraklis Prediction, Betting Tips, Lineups & Odds | 18 Oct 2026 - Sportsgambler",
@@ -216,7 +234,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Mon, 19 Oct 2026 05:03:46 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -224,25 +242,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "8f5b6a83bdf8ad815e84f7eb",
-        "mode": "sportdog",
-        "title": "Ioannis Agravanis vs Olympiacos Piraeus: stats, game log - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVlDaFA5UnA5QmNkWjgwWlVHa3NxajNnT0tMVm1KVXBHendOb1g3STZGZV9jQmNBOHdVT3pJMjZ0Sktxc3RSTTFreVh6VUNOS3FhSmgzWFVESjFIS1owcURibTN1SVJBckRZNWs0Sm5Jb0J1dm5sZHlqQUdOMTBUWU1CbWwyeVVydkMwM21meUFWUVpTVGN0MXRpREI?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 19 Oct 2026 02:09:14 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -350,7 +349,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 19 Oct 2026 06:34:08 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -359,24 +358,6 @@
           "tatbikat"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "c178d82268b716681ebd7bfc",
-        "mode": "geopolitico",
-        "title": "Pakistan army officer killed in IED blast during Balochistan operation - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOczUyYnd6ZmNqYnpJMzd1NUlsekhKNWdoSGlGcWx2Y3VUaHN5aC13TDdrMGs3N1BOMmhCSVUzSUphODZLZ1ZLaGtkSEswa0ZMa2JIUk1tR0xEcFhvMlplZTdlX3I2NHM0b3pDU01UY3lWeFctZi1xUEZsTGlSWVBycjVLVXAtSGpSRkw2MlJnTjU5TVdIOUdxR3I1UVYtVHl4bHFHUUZfRlY2Y0lhR2FNNkNEckVjY1ZXaGlmNlZidHJuSmlnTWticFd2MkJMRk15QW5LN3J1T0gzdzBGNmJfbNIB5gFBVV95cUxNT2kwQnM1RnlsUzJxNXJpY000dE1YeUp5emZLcDlqVEswTWJDbm52SlBnVnlLRTFxV1hsZjlhM1kyeG14QUpudktrRHNzeWsyS0ZRTldhUm9aNmVVMU5ldjdwWnRVSjBqTEdtNGVRRG5aOTJCd20zaEVSdWF6QTM4ZVgyTm9zM3h1b2dGcUlzU1kwa05EdGtQSm9FNWwwX19lVVFsMjE3QnB1ZElrMUx6OUJtd1N3OEFIRktxNzBUeFd5M1F0bUI0bzl3TEpxRlZSekVsNWhzX1F5Ql94dFNXOWVCblJ5QQ?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Mon, 19 Oct 2026 06:06:00 GMT",
-        "base_score": 99,
-        "candidate_score": 105,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Pakistan Army",
-          "Balochistan"
-        ],
-        "content_type": "news"
       },
       {
         "external_id": "aac8930afcb77a7eb3de6c57",
@@ -397,54 +378,73 @@
         "content_type": "news"
       },
       {
-        "external_id": "2be609d3f3ab64b0a39195bc",
+        "external_id": "c178d82268b716681ebd7bfc",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı'dan Kıbrıs çıkışı: Federasyon hayali Türkleri azınlık yapar - www.havadis.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGNmc2RWdDlrWUY5V2ZyOFRUX1hXTGZUQ282SHN4aW1QSnIxZUc1WF9PQkFxSW5HLTg4VDZweU8zUUQ5bDR4OENpZHRkRlRGaWhOUC1CQ3VpZ3BUWDFmb01WWE4xUDVRb2FkbEFCSkQ1YXRiOGFDZmNHVGJQRVk4QVgwVEZVcHUzempFVDlkeTdjUjF4R1hjUUlLSVdtQmFOSXN0M0IxdjVjN3RUVkdTZw?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Mon, 19 Oct 2026 21:09:12 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
+        "title": "Pakistan army officer killed in IED blast during Balochistan operation - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOczUyYnd6ZmNqYnpJMzd1NUlsekhKNWdoSGlGcWx2Y3VUaHN5aC13TDdrMGs3N1BOMmhCSVUzSUphODZLZ1ZLaGtkSEswa0ZMa2JIUk1tR0xEcFhvMlplZTdlX3I2NHM0b3pDU01UY3lWeFctZi1xUEZsTGlSWVBycjVLVXAtSGpSRkw2MlJnTjU5TVdIOUdxR3I1UVYtVHl4bHFHUUZfRlY2Y0lhR2FNNkNEckVjY1ZXaGlmNlZidHJuSmlnTWticFd2MkJMRk15QW5LN3J1T0gzdzBGNmJfbNIB5gFBVV95cUxNT2kwQnM1RnlsUzJxNXJpY000dE1YeUp5emZLcDlqVEswTWJDbm52SlBnVnlLRTFxV1hsZjlhM1kyeG14QUpudktrRHNzeWsyS0ZRTldhUm9aNmVVMU5ldjdwWnRVSjBqTEdtNGVRRG5aOTJCd20zaEVSdWF6QTM4ZVgyTm9zM3h1b2dGcUlzU1kwa05EdGtQSm9FNWwwX19lVVFsMjE3QnB1ZElrMUx6OUJtd1N3OEFIRktxNzBUeFd5M1F0bUI0bzl3TEpxRlZSekVsNWhzX1F5Ql94dFNXOWVCblJ5QQ?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Mon, 19 Oct 2026 06:06:00 GMT",
+        "base_score": 99,
+        "candidate_score": 102,
+        "priority": "URGENT",
         "matched_keywords": [
-          "Cihat Yaycı",
-          "Cihat Yaycı"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "4ed2581f9a121469bfb2af10",
-        "mode": "geopolitico",
-        "title": "Λετυμπιώτης: NAVTEX εντός Οκτωβρίου για GSI – Τι είπε για Κυπριακό & «Αφροδίτη - Sigmalive",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFczZmltXzEzSm5DZXY0SnRVeVFjTFpfOFliWTBYV3NSbkcxMTJmN3BLT0FnVVVaUWYwdGdPd2NBZWs5eGlfRTg0dUtxV0pfRWFYVnlrVnRON2ttdTJUOFBZeTFJMDFhRmZXMkp1X25PZ0ozMGpaanVhNHR4djY4NmJaZWJvdi05Q2o5ZnplMWZBYTJoVFFDT0R1cUNrYjY2Z2o4R3dlamctU2VBVTE3NzRWZG1VNjRVeWd3X0hn?oc=5",
-        "source": "Greek Cyprus Watch",
-        "published": "Mon, 19 Oct 2026 18:58:31 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "NAVTEX",
-          "GSI",
-          "GSI"
+          "India",
+          "Pakistan",
+          "Pakistan Army",
+          "Balochistan"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "c975f8b0a433f8777e7a5c8f",
+        "external_id": "7f50675bb7a0b518c7580f25",
         "mode": "geopolitico",
-        "title": "Prof. Dr. Cihat Yaycı’dan mavi vatan, Doğu Akdeniz ve Kıbrıs politikalarına ilişkin çarpıcı açıklamalar İhlas Haber Ajansı - İhlas Haber Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ2E5NzhwWDhQSnJKNDBHSFFXcVd3SV8yMktxUXN4R0RqYnZZd0d1cnl5OHhDS1l4Z0h6T1ZPclFNTzhKdnNXVnpjTkIwdExhZEtFRjZJbm5IeDE3d1Z4Q19Hb1h3MlFFQ0RzNkpVcXk2bDI3bnBoRFNZbWhOMEcybXQ5eDFoS25QeEdCRUxEWVU5Q2J0WXBVMVdDOFdPYmtmdHNDLWRkVFJfM0NlOGdDdUE3MTVEaTRyVjd2SThnOXJQR0hKa3ZGQjBJa211dFY1ZlFPSHItaVhSbms1TWlFNXcxSldzTjg?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Mon, 19 Oct 2026 18:10:33 GMT",
-        "base_score": 76,
-        "candidate_score": 86,
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti tabanı neden öfkeli | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnRreHRwMjJSZkF6ZXNqRE9ObjNYdFpRRjNpRXoxdXNGOFdBQUZSVVZ4a25qRjFYcktJYk14cWluRWt1LWtEcU8tbExZRE5YZWdPdFdsVWZpdHdrRVdtRk1rN29UTGcxMnNSdkdQYUZLVWtNLVNkWXczRUl6SUlRV01tT0ZkbFowU0ZVTDR4VUFjSU8tRlE?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Mon, 19 Oct 2026 22:38:32 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "açıklama"
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
         ],
-        "content_type": "turkey_greece"
+        "content_type": "analyst"
+      },
+      {
+        "external_id": "92464a26c570970c57b88680",
+        "mode": "geopolitico",
+        "title": "European defence: why is Greece turning to Israel and Eastern Europe to Washington? - Meta-Defense",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMTdzNGdjWTR4akdLa0lHeGhEX3B6cE9vQjRzdFB1cGFmdVd0RkpWMmctSjN3RjdYZzBST1kyMm84aEl4ekpuRHROWkEtbHNzQUMzMDBVOG5oTFc2aTlxZ2MyZzFQRE5TNWEtNG5rN2M2R0tlZEJmdDZnYS1VMzJWanRCS0o?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Mon, 19 Oct 2026 16:16:48 GMT",
+        "base_score": 84,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "defence",
+          "defense"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "3020553aaa5b35b771d1cfca",
+        "mode": "geopolitico",
+        "title": "Indian defense delegation visits Salamis Shipyards amid closer Greece-India ties - eKathimerini.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUFWeHR3cG1tZjlZbXB3V0JSVnA2eHh0MUNRamR6UlV4UFpWWEg0N3JJTHdYQ0lmUUJBU3R0MFB2MWhyN0t1RDZYdllCMnkzeXNrZ2xwUENnQ295WlhLRGg2aThGZy00NkY4MlBkTWVwN2lJczl5Z21PT0tzS3BoTERkaC1LYzFxTWFMT3djRTJxLURmcU5QbHlNbUc5YnJWVjQtNC1MbFBGYmZzNlhWNC1lRF9IdWV4Q084SElmSG9WU3hPWWp1bGNDRTZEZXl3NUp4c3l0cDJLZw?oc=5",
+        "source": "Greece India Strategic Watch",
+        "published": "Tue, 20 Oct 2026 00:01:41 GMT",
+        "base_score": 72,
+        "candidate_score": 87,
+        "priority": "High",
+        "matched_keywords": [
+          "Greece",
+          "India",
+          "defense"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -462,22 +462,6 @@
           "Pontos",
           "Παναγία Σουμελά",
           "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "51edb402e4d7231ac25216a6",
-        "mode": "pontos_voice",
-        "title": "Σύλλογος Ποντίων Νέστου: Ανοιχτό κάλεσμα για δωρεά κειμηλίων, ώστε οι μνήμες να γίνουν μουσείο - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWmNTZGlxUHlMMUY0Z2poSVFEWVBiQWl6MVFUSHhtVkNYOWVFYlNoTGZaaVEtcXJ1NzFnWTJmX3I1WTd2TDcxWVptUjRGdElnaE40OW1PMkktVlhpRzlxd2tfbndkMUU5Ry1YSHZaZXVLZXYxSzZocGg5OU9PMm5GcTVOLTJvV3EyY3JOWTNmSS1wS1RoMkR3eWp0aEVkRTBHenl6V05lSVVvXzRneHNqQk15ejdYT3RFdjJqZFpfZ3hGZWNKS0NJ?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Mon, 19 Oct 2026 20:08:04 GMT",
-        "base_score": 72,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "Σύλλογος Ποντίων"
         ],
         "content_type": "news"
       },
@@ -515,6 +499,42 @@
         "content_type": "news"
       },
       {
+        "external_id": "7c71a53f23af57bf51659657",
+        "mode": "pontos_voice",
+        "title": "Trabzon, Ordu, Artvin ve Giresun’da Muhtarlar Günü kutlandı - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0lnYzN3dFpaWjV3dktleHQ4VlFRUllBRlFXOXF6MXNrYkdjUW50TkVMUzBIMFlwVG5JY3lrOUVpNmhSOElRbjJsaTdkamtQejVyZ1M4RUF2WjdnWHRWMzhfVlExQVhsajZUUG1STDg2YWJvdEFSYXRWTFpucTlpdllPTm5XMlhCNjR3Uk12akpYTUczX0RWODFucmg?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Mon, 19 Oct 2026 12:14:59 GMT",
+        "base_score": 51,
+        "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Giresun",
+          "Ordu",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "59b5a6dc68615b780b93bf05",
+        "mode": "pontos_voice",
+        "title": "Trabzon Uzun Sokak’ta su birikintisi, yaylalarda mera tartışması! “Ben yaptım, oldu!” tepkisi - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajlBUnRUUWI3cERsZjZ1SnJ5cUtsZW5JZWZvWWFoWkZFRS1zLUxuYUp6QU9oU3ZDeWpHSkZRSU8tS1VQQk43RnVaVW00eU5kbkVfN2J4a1ZGUG5mWENJUEVHTDlfTVYxdmJXUl9qU2JzZklBRTBaaFBEVEo1LXR4NEViZXhGLUdwenZOcFFlc1UwMmJtZmFQQWhUVjUyT3pHcVYtdUd5WEtBUV9UczNTR3I2b0taQzM2UWppdHVCck5Ka3FP?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Mon, 19 Oct 2026 09:21:51 GMT",
+        "base_score": 51,
+        "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "tepki",
+          "tartışma",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "163575b1d19f955600421964",
         "mode": "pontos_voice",
         "title": "Onana'dan şampiyonluk sorusuna dikkat çeken yanıt!",
@@ -522,24 +542,7 @@
         "source": "61Saat Trabzon",
         "published": "Mon, 19 Oct 2026 22:49:00 +0300",
         "base_score": 46,
-        "candidate_score": 61,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "anıt",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "4693cda74445212808761c77",
-        "mode": "pontos_voice",
-        "title": "Nwaiwu'dan Mısırlı Gazetecinin Salah sorusuna yanıt!",
-        "url": "https://www.61saat.com/nwaiwudan-misirli-gazetecinin-salah-sorusuna-yanit",
-        "source": "61Saat Trabzon",
-        "published": "Mon, 19 Oct 2026 22:46:00 +0300",
-        "base_score": 46,
-        "candidate_score": 61,
+        "candidate_score": 56,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -559,7 +562,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 19 Oct 2026 16:04:33 GMT",
       "base_score": 70,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -569,8 +572,8 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "24baffca2a0880cfb4f4aaa5",
@@ -580,8 +583,8 @@
       "source": "AEK Rumour Watch",
       "published": "Mon, 19 Oct 2026 19:00:00 GMT",
       "base_score": 41,
-      "candidate_score": 73,
-      "priority": "High",
+      "candidate_score": 68,
+      "priority": "Normal",
       "matched_keywords": [
         "AEK",
         "injury"
@@ -600,7 +603,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Sun, 18 Oct 2026 17:54:37 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
@@ -613,26 +616,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "681c632a69d5efc803da2581",
-      "mode": "sportdog",
-      "title": "▶️ Watch Manchester City vs AEK Athens Live Stream | Predictions & Tips - 20 Oct - FootballPredictions.NET",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdiTG1wMExCTlk2OUU0SF9zVnEtYW00bjR2NVBTc0JSbEJxNlhpc2JQTndtMEZxdWVNUHhheExmYWI4UEpteHFLZEliRUlTaUJrdG55WjQySmNtRGs1dU1kMXJlX3RaelhPbFlqbG5lb3JOR0M2dkgzSDRtQ1d1N25EdkxsOVdNRUVURVhR?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Mon, 19 Oct 2026 19:50:31 GMT",
-      "base_score": 41,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "football"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "cb4fdcb19875a67e98d03c3f",
       "mode": "sportdog",
       "title": "Man City injury, suspension list and return dates vs. AEK Athens: Erling Haaland, Antoine Semenyo latest - Sports Mole",
@@ -640,7 +623,7 @@
       "source": "AEK Rumour Watch",
       "published": "Mon, 19 Oct 2026 03:56:00 GMT",
       "base_score": 41,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -673,6 +656,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "f133bb61ca3b97704064787b",
+      "mode": "sportdog",
+      "title": "Man City v AEK Athens LIVE 20/10/2026 | Football - Flashscore UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQclVsa09SVkhMcGU5X01HVklNWnI1ZGQwNkl0SUMwX0VUVWkwaUg4NHFUeFJmR1FEMWVEOVRIUWV3cEE0VGxoZDFEbmNIcE56TGMyWE5yTkVmME4teVQwclZaMU5IU1JDOVVjWGJrNUJUZVVQdTJZSUo4U3NrRE01cWVzdDRoZHg2M1E?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Mon, 19 Oct 2026 21:35:20 GMT",
+      "base_score": 41,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "6965db6112d0afc7bd40054b",
       "mode": "sportdog",
       "title": "▶️ Watch Olympiacos vs Sparta Prague Live Stream | Predictions & Tips - 22 Oct - FootballPredictions.NET",
@@ -680,7 +683,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 19 Oct 2026 03:56:33 GMT",
       "base_score": 41,
-      "candidate_score": 55,
+      "candidate_score": 52,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -713,6 +716,44 @@
       "needs_second_source": true
     },
     {
+      "external_id": "2d7b40ac9d461480d9582229",
+      "mode": "sportdog",
+      "title": "Guerschon Yabusele speaks on Panathinaikos, Zeljko Obradovic, and potential NBA expansion in Europe - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDZpdUs4Yy1fbTk0R0FCS2U1UG1yZzFaSHpscEpSVFZub1dmUkFyX0Q2RkJENlptV09JNjVoMm9oNHh4bEhucldpX3ZxblpGSXNaMFBzYklicmY0b2NNRngwb09SMzB3SGxrOUNaOWxLbk5GRjFXXzJkNUNUTnlFWC1LOHpYV1NCYlNySTRNUmpWMTZNOHY2Ug?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Mon, 19 Oct 2026 20:34:01 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "585facb146d8aca808b01c70",
+      "mode": "sportdog",
+      "title": "From Liga MX Star to Forgotten in Europe: Armando 'Hormiga' González Fades Away at Olympiacos - Al Bat",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaE1Ya3dPdUNWSW8yYThhTWFHYmVOb0FzZ3k4SHFWeXBxYUZkNGpoVFJudVpVQ3BNdUZ1WmdFdFpQNWViNUtxeVJmQi1zX1Z1S1VKaEMzOGttbngxam1WSXA4NURSV0h2eEQ3MzMyMmVTd0taZi05UVN3OXdFc3ZueHltamY0aWFvTkxzYnk0eWRiRDJQeS1VbXNZUmt1eUNTTVFXcnJlTWF5bHVyU05kSnY1ZW9lWl9CNmVmamZRZW1qUEFDaGtKTEZLZS0wLW5iTWcxbFVn0gHbAUFVX3lxTFBfYTN6bm1HZ1ZhOVVIb1lOWHBtSFB1bk9QMkJZX2F4dEtvYVlxd1RSZExLN1VrMk1DakVTbGV0VmNuNlBicDM2ZzZ1N2xPWVdKNHdVc3NnR29KSGx1LUU4M0hCaC1vQXliaFhWRlVYZ0c3X1Q4YXEyVWhyVWItSXl3ZlRIWG1hUEJ3MFpxWGZ6RkdsZ2MzLUlFUS1OZEZFV2Y0VXMxNHYxVF9uYXh1ZF96eEVGQTVWMTBnc3BkT3duMVBYYnNEYldSM3dQRlZWSmVsS2RuaGJCQmpDdw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Mon, 19 Oct 2026 19:30:59 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "a6b5124802db7404c6d310a8",
       "mode": "sportdog",
       "title": "Olympiacos Takes Down Panetolikos—'The Ant' González Gets More Minutes in Greece - Soy Futbol",
@@ -720,7 +761,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sun, 18 Oct 2026 17:25:52 GMT",
       "base_score": 38,
-      "candidate_score": 49,
+      "candidate_score": 46,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -733,26 +774,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "595f4cdc1e2ae0dbca0d4953",
-      "mode": "sportdog",
-      "title": "▶️ Watch Kairat vs Panathinaikos Live Stream | Predictions & Tips - 22 Oct - FootballPredictions.NET",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXJDOUtrdkN2eEdLZUFxTlM3Z2RaaUtFeVo4SmlCcjl4TVdhd1I4ZkdJUk1jSXdKM1NpbUdKelU3TWppcGRBNW9UWEZDRE12YWkzdTEtMHRhRGtGX3NCM05RVFhIVmNYLU1TWi1faDdCSjdYdVdoOGtSeU5DMl9UZXV3MWdfQQ?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sun, 18 Oct 2026 12:33:20 GMT",
-      "base_score": 41,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "football"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "2cef26bb7c07ea255a27af1c",
       "mode": "sportdog",
       "title": "PAOK vs Iraklis Prediction, Betting Tips, Lineups & Odds | 18 Oct 2026 - Sportsgambler",
@@ -760,7 +781,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Mon, 19 Oct 2026 05:03:46 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -768,25 +789,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "8f5b6a83bdf8ad815e84f7eb",
-      "mode": "sportdog",
-      "title": "Ioannis Agravanis vs Olympiacos Piraeus: stats, game log - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVlDaFA5UnA5QmNkWjgwWlVHa3NxajNnT0tMVm1KVXBHendOb1g3STZGZV9jQmNBOHdVT3pJMjZ0Sktxc3RSTTFreVh6VUNOS3FhSmgzWFVESjFIS1owcURibTN1SVJBckRZNWs0Sm5Jb0J1dm5sZHlqQUdOMTBUWU1CbWwyeVVydkMwM21meUFWUVpTVGN0MXRpREI?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 19 Oct 2026 02:09:14 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -892,7 +894,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 19 Oct 2026 06:34:08 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -901,24 +903,6 @@
         "tatbikat"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "c178d82268b716681ebd7bfc",
-      "mode": "geopolitico",
-      "title": "Pakistan army officer killed in IED blast during Balochistan operation - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOczUyYnd6ZmNqYnpJMzd1NUlsekhKNWdoSGlGcWx2Y3VUaHN5aC13TDdrMGs3N1BOMmhCSVUzSUphODZLZ1ZLaGtkSEswa0ZMa2JIUk1tR0xEcFhvMlplZTdlX3I2NHM0b3pDU01UY3lWeFctZi1xUEZsTGlSWVBycjVLVXAtSGpSRkw2MlJnTjU5TVdIOUdxR3I1UVYtVHl4bHFHUUZfRlY2Y0lhR2FNNkNEckVjY1ZXaGlmNlZidHJuSmlnTWticFd2MkJMRk15QW5LN3J1T0gzdzBGNmJfbNIB5gFBVV95cUxNT2kwQnM1RnlsUzJxNXJpY000dE1YeUp5emZLcDlqVEswTWJDbm52SlBnVnlLRTFxV1hsZjlhM1kyeG14QUpudktrRHNzeWsyS0ZRTldhUm9aNmVVMU5ldjdwWnRVSjBqTEdtNGVRRG5aOTJCd20zaEVSdWF6QTM4ZVgyTm9zM3h1b2dGcUlzU1kwa05EdGtQSm9FNWwwX19lVVFsMjE3QnB1ZElrMUx6OUJtd1N3OEFIRktxNzBUeFd5M1F0bUI0bzl3TEpxRlZSekVsNWhzX1F5Ql94dFNXOWVCblJ5QQ?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Mon, 19 Oct 2026 06:06:00 GMT",
-      "base_score": 99,
-      "candidate_score": 105,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Pakistan Army",
-        "Balochistan"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "aac8930afcb77a7eb3de6c57",
@@ -939,54 +923,73 @@
       "content_type": "news"
     },
     {
-      "external_id": "2be609d3f3ab64b0a39195bc",
+      "external_id": "c178d82268b716681ebd7bfc",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı'dan Kıbrıs çıkışı: Federasyon hayali Türkleri azınlık yapar - www.havadis.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGNmc2RWdDlrWUY5V2ZyOFRUX1hXTGZUQ282SHN4aW1QSnIxZUc1WF9PQkFxSW5HLTg4VDZweU8zUUQ5bDR4OENpZHRkRlRGaWhOUC1CQ3VpZ3BUWDFmb01WWE4xUDVRb2FkbEFCSkQ1YXRiOGFDZmNHVGJQRVk4QVgwVEZVcHUzempFVDlkeTdjUjF4R1hjUUlLSVdtQmFOSXN0M0IxdjVjN3RUVkdTZw?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Mon, 19 Oct 2026 21:09:12 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
+      "title": "Pakistan army officer killed in IED blast during Balochistan operation - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOczUyYnd6ZmNqYnpJMzd1NUlsekhKNWdoSGlGcWx2Y3VUaHN5aC13TDdrMGs3N1BOMmhCSVUzSUphODZLZ1ZLaGtkSEswa0ZMa2JIUk1tR0xEcFhvMlplZTdlX3I2NHM0b3pDU01UY3lWeFctZi1xUEZsTGlSWVBycjVLVXAtSGpSRkw2MlJnTjU5TVdIOUdxR3I1UVYtVHl4bHFHUUZfRlY2Y0lhR2FNNkNEckVjY1ZXaGlmNlZidHJuSmlnTWticFd2MkJMRk15QW5LN3J1T0gzdzBGNmJfbNIB5gFBVV95cUxNT2kwQnM1RnlsUzJxNXJpY000dE1YeUp5emZLcDlqVEswTWJDbm52SlBnVnlLRTFxV1hsZjlhM1kyeG14QUpudktrRHNzeWsyS0ZRTldhUm9aNmVVMU5ldjdwWnRVSjBqTEdtNGVRRG5aOTJCd20zaEVSdWF6QTM4ZVgyTm9zM3h1b2dGcUlzU1kwa05EdGtQSm9FNWwwX19lVVFsMjE3QnB1ZElrMUx6OUJtd1N3OEFIRktxNzBUeFd5M1F0bUI0bzl3TEpxRlZSekVsNWhzX1F5Ql94dFNXOWVCblJ5QQ?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Mon, 19 Oct 2026 06:06:00 GMT",
+      "base_score": 99,
+      "candidate_score": 102,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Cihat Yaycı",
-        "Cihat Yaycı"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "4ed2581f9a121469bfb2af10",
-      "mode": "geopolitico",
-      "title": "Λετυμπιώτης: NAVTEX εντός Οκτωβρίου για GSI – Τι είπε για Κυπριακό & «Αφροδίτη - Sigmalive",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFczZmltXzEzSm5DZXY0SnRVeVFjTFpfOFliWTBYV3NSbkcxMTJmN3BLT0FnVVVaUWYwdGdPd2NBZWs5eGlfRTg0dUtxV0pfRWFYVnlrVnRON2ttdTJUOFBZeTFJMDFhRmZXMkp1X25PZ0ozMGpaanVhNHR4djY4NmJaZWJvdi05Q2o5ZnplMWZBYTJoVFFDT0R1cUNrYjY2Z2o4R3dlamctU2VBVTE3NzRWZG1VNjRVeWd3X0hn?oc=5",
-      "source": "Greek Cyprus Watch",
-      "published": "Mon, 19 Oct 2026 18:58:31 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "NAVTEX",
-        "GSI",
-        "GSI"
+        "India",
+        "Pakistan",
+        "Pakistan Army",
+        "Balochistan"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "c975f8b0a433f8777e7a5c8f",
+      "external_id": "7f50675bb7a0b518c7580f25",
       "mode": "geopolitico",
-      "title": "Prof. Dr. Cihat Yaycı’dan mavi vatan, Doğu Akdeniz ve Kıbrıs politikalarına ilişkin çarpıcı açıklamalar İhlas Haber Ajansı - İhlas Haber Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ2E5NzhwWDhQSnJKNDBHSFFXcVd3SV8yMktxUXN4R0RqYnZZd0d1cnl5OHhDS1l4Z0h6T1ZPclFNTzhKdnNXVnpjTkIwdExhZEtFRjZJbm5IeDE3d1Z4Q19Hb1h3MlFFQ0RzNkpVcXk2bDI3bnBoRFNZbWhOMEcybXQ5eDFoS25QeEdCRUxEWVU5Q2J0WXBVMVdDOFdPYmtmdHNDLWRkVFJfM0NlOGdDdUE3MTVEaTRyVjd2SThnOXJQR0hKa3ZGQjBJa211dFY1ZlFPSHItaVhSbms1TWlFNXcxSldzTjg?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Mon, 19 Oct 2026 18:10:33 GMT",
-      "base_score": 76,
-      "candidate_score": 86,
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — AK Parti tabanı neden öfkeli | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnRreHRwMjJSZkF6ZXNqRE9ObjNYdFpRRjNpRXoxdXNGOFdBQUZSVVZ4a25qRjFYcktJYk14cWluRWt1LWtEcU8tbExZRE5YZWdPdFdsVWZpdHdrRVdtRk1rN29UTGcxMnNSdkdQYUZLVWtNLVNkWXczRUl6SUlRV01tT0ZkbFowU0ZVTDR4VUFjSU8tRlE?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Mon, 19 Oct 2026 22:38:32 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "açıklama"
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
       ],
-      "content_type": "turkey_greece"
+      "content_type": "analyst"
+    },
+    {
+      "external_id": "92464a26c570970c57b88680",
+      "mode": "geopolitico",
+      "title": "European defence: why is Greece turning to Israel and Eastern Europe to Washington? - Meta-Defense",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMTdzNGdjWTR4akdLa0lHeGhEX3B6cE9vQjRzdFB1cGFmdVd0RkpWMmctSjN3RjdYZzBST1kyMm84aEl4ekpuRHROWkEtbHNzQUMzMDBVOG5oTFc2aTlxZ2MyZzFQRE5TNWEtNG5rN2M2R0tlZEJmdDZnYS1VMzJWanRCS0o?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Mon, 19 Oct 2026 16:16:48 GMT",
+      "base_score": 84,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "defence",
+        "defense"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "3020553aaa5b35b771d1cfca",
+      "mode": "geopolitico",
+      "title": "Indian defense delegation visits Salamis Shipyards amid closer Greece-India ties - eKathimerini.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUFWeHR3cG1tZjlZbXB3V0JSVnA2eHh0MUNRamR6UlV4UFpWWEg0N3JJTHdYQ0lmUUJBU3R0MFB2MWhyN0t1RDZYdllCMnkzeXNrZ2xwUENnQ295WlhLRGg2aThGZy00NkY4MlBkTWVwN2lJczl5Z21PT0tzS3BoTERkaC1LYzFxTWFMT3djRTJxLURmcU5QbHlNbUc5YnJWVjQtNC1MbFBGYmZzNlhWNC1lRF9IdWV4Q084SElmSG9WU3hPWWp1bGNDRTZEZXl3NUp4c3l0cDJLZw?oc=5",
+      "source": "Greece India Strategic Watch",
+      "published": "Tue, 20 Oct 2026 00:01:41 GMT",
+      "base_score": 72,
+      "candidate_score": 87,
+      "priority": "High",
+      "matched_keywords": [
+        "Greece",
+        "India",
+        "defense"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "34cab3355c926a7b9f2c5c2e",
@@ -1002,22 +1005,6 @@
         "Pontos",
         "Παναγία Σουμελά",
         "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "51edb402e4d7231ac25216a6",
-      "mode": "pontos_voice",
-      "title": "Σύλλογος Ποντίων Νέστου: Ανοιχτό κάλεσμα για δωρεά κειμηλίων, ώστε οι μνήμες να γίνουν μουσείο - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWmNTZGlxUHlMMUY0Z2poSVFEWVBiQWl6MVFUSHhtVkNYOWVFYlNoTGZaaVEtcXJ1NzFnWTJmX3I1WTd2TDcxWVptUjRGdElnaE40OW1PMkktVlhpRzlxd2tfbndkMUU5Ry1YSHZaZXVLZXYxSzZocGg5OU9PMm5GcTVOLTJvV3EyY3JOWTNmSS1wS1RoMkR3eWp0aEVkRTBHenl6V05lSVVvXzRneHNqQk15ejdYT3RFdjJqZFpfZ3hGZWNKS0NJ?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Mon, 19 Oct 2026 20:08:04 GMT",
-      "base_score": 72,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Σύλλογος Ποντίων"
       ],
       "content_type": "news"
     },
@@ -1055,6 +1042,42 @@
       "content_type": "news"
     },
     {
+      "external_id": "7c71a53f23af57bf51659657",
+      "mode": "pontos_voice",
+      "title": "Trabzon, Ordu, Artvin ve Giresun’da Muhtarlar Günü kutlandı - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0lnYzN3dFpaWjV3dktleHQ4VlFRUllBRlFXOXF6MXNrYkdjUW50TkVMUzBIMFlwVG5JY3lrOUVpNmhSOElRbjJsaTdkamtQejVyZ1M4RUF2WjdnWHRWMzhfVlExQVhsajZUUG1STDg2YWJvdEFSYXRWTFpucTlpdllPTm5XMlhCNjR3Uk12akpYTUczX0RWODFucmg?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Mon, 19 Oct 2026 12:14:59 GMT",
+      "base_score": 51,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Giresun",
+        "Ordu",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "59b5a6dc68615b780b93bf05",
+      "mode": "pontos_voice",
+      "title": "Trabzon Uzun Sokak’ta su birikintisi, yaylalarda mera tartışması! “Ben yaptım, oldu!” tepkisi - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajlBUnRUUWI3cERsZjZ1SnJ5cUtsZW5JZWZvWWFoWkZFRS1zLUxuYUp6QU9oU3ZDeWpHSkZRSU8tS1VQQk43RnVaVW00eU5kbkVfN2J4a1ZGUG5mWENJUEVHTDlfTVYxdmJXUl9qU2JzZklBRTBaaFBEVEo1LXR4NEViZXhGLUdwenZOcFFlc1UwMmJtZmFQQWhUVjUyT3pHcVYtdUd5WEtBUV9UczNTR3I2b0taQzM2UWppdHVCck5Ka3FP?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Mon, 19 Oct 2026 09:21:51 GMT",
+      "base_score": 51,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "tepki",
+        "tartışma",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "163575b1d19f955600421964",
       "mode": "pontos_voice",
       "title": "Onana'dan şampiyonluk sorusuna dikkat çeken yanıt!",
@@ -1062,24 +1085,7 @@
       "source": "61Saat Trabzon",
       "published": "Mon, 19 Oct 2026 22:49:00 +0300",
       "base_score": 46,
-      "candidate_score": 61,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "anıt",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "4693cda74445212808761c77",
-      "mode": "pontos_voice",
-      "title": "Nwaiwu'dan Mısırlı Gazetecinin Salah sorusuna yanıt!",
-      "url": "https://www.61saat.com/nwaiwudan-misirli-gazetecinin-salah-sorusuna-yanit",
-      "source": "61Saat Trabzon",
-      "published": "Mon, 19 Oct 2026 22:46:00 +0300",
-      "base_score": 46,
-      "candidate_score": 61,
+      "candidate_score": 56,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
