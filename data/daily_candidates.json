@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T11:42:25.463889+00:00",
+  "generated_at": "2026-10-21T16:10:37.294067+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 13,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 20 Oct 2026 06:29:00 GMT",
         "base_score": 64,
-        "candidate_score": 87,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -25,8 +25,8 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "13a6ef258b1dd12283214feb",
@@ -34,9 +34,9 @@
         "title": "Tomoki Iwata Transfer from Birmingham City to AEK Athens - TransferFeed",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWpPb1ZON0dPb3RYTDlJYkF3M0ZHQjFpVzJDSncybG45UXFKMlBaaTVydzlfeTlIQm9iUVN6QXhTcjhoZU1SX3hSZkhrVlBEUUxuUUhsRTcwRWVjTjVkZ3R1elB4b0FScGp2R3pESS1KNGM2MUR3dVduZFh5aWVqaXpCcUI4MHMyZDRGV3NQN04?oc=5",
         "source": "TransferFeed Greek Super League",
-        "published": "Tue, 20 Oct 2026 21:30:51 GMT",
+        "published": "Tue, 20 Oct 2026 21:16:49 GMT",
         "base_score": 58,
-        "candidate_score": 84,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "AEK",
@@ -96,7 +96,7 @@
         "source": "AEK Rumour Watch",
         "published": "Wed, 21 Oct 2026 06:10:52 GMT",
         "base_score": 50,
-        "candidate_score": 68,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -104,26 +104,6 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "2c63340b9076f85d514865b4",
-        "mode": "sportdog",
-        "title": "Manchester City Host AEK Athens Tuesday: Kickoff, Streaming and Injury Questions - Around Prague",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnBRV0ZyYjA5VHRUWURWZ1VwcHFwQmJ0bDlxcFpTamJmZ1J1aE53MTJ4Wkw5RGlsTmlXaE44UHBBblNGNnAxMXpkc0pQX0NXaXFjdm1KUllxclpHTmQ4QThHSF9BQmNXTS1fb0ZETXVibkdGZ19XRlh3Sm0xVDc5eFBrWHNyaklQSHpFX3gxcUdRRkpjb1pmak9fdl9HQ3lMODBwM1JrUDluajZtWmJxMWJab0hiZWc?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Wed, 21 Oct 2026 05:52:54 GMT",
-        "base_score": 41,
-        "candidate_score": 68,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "injury"
-        ],
-        "content_type": "news",
-        "editorial_type": "Injury",
         "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -149,6 +129,26 @@
         "needs_second_source": true
       },
       {
+        "external_id": "da1f363cec0484828be4b01c",
+        "mode": "sportdog",
+        "title": "Champions League: Foden nets hat-trick as Man City crush AEK Athens - Businessday NG",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmtvaUdNcDAxa3l6NlluVktBLW9DU0xPV3NsUWtHY3Ric0d5MGttcjhkSDNLQ1ZPYWUweE1JVkdXUmlZVmg3dWlSQ1NNV21rSnVGSmd2X0l3MmxQVXZGREQ5MFVIY2U4SDBpbThPSlF2X3pvdE03eVdkZ0hkMXZVemxfeVJicHBOWnVYamhIQXZIQnF1UWwyeld5RFJ4aWxIZ1p4emtYVTFRa2p4ZnfSAa4BQVVfeXFMTVprb2lHTXAwMWt5ejZZblZLQS1vQ1NMT1dzbFFrR2N0YnNHeTBrbXI4ZEgzS0NWT2FlMHhNSVZHV1JpWVZoN3VpUkNTTVdta0p1Rkpndl9JdzJsUFV2RkREOTBVSGNlOEgwaW04T0pRdl96b3RNN3lXZGdIZDF2VXpsX3lSYnBwTlp1WGpoSEF2SEJxdVFsMnpXeURSeGlsSGdaeHprWFUxUWtqeGZ3?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Tue, 20 Oct 2026 22:01:26 GMT",
+        "base_score": 50,
+        "candidate_score": 61,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "8173b723d491dd04cd8ddd69",
         "mode": "sportdog",
         "title": "Olympiacos vs Sparta Prague Prediction & Picks - Europa League - SportyTrader",
@@ -156,7 +156,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 20 Oct 2026 19:00:00 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -189,14 +189,34 @@
         "needs_second_source": true
       },
       {
-        "external_id": "38ffaedfadaf7fd381b85b09",
+        "external_id": "595f4cdc1e2ae0dbca0d4953",
         "mode": "sportdog",
-        "title": "Panathinaikos AKTOR Athens: roster, news, schedule and stats - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ISW10Vk9kMk5uanlNalRYWnpweUVSZGpOVUN0QnVNYVJLNVJpdlFpbVZod0VNa25qU3puVFZzTVFCSDdDWTBQZHFieWE1b2tPYUphdEM0YnBTeGY1WWxJVDN0MHBEUVZFVUk1aWcybUE?oc=5",
+        "title": "▶️ Watch Kairat vs Panathinaikos Live Stream | Predictions & Tips - 22 Oct - FootballPredictions.NET",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXJDOUtrdkN2eEdLZUFxTlM3Z2RaaUtFeVo4SmlCcjl4TVdhd1I4ZkdJUk1jSXdKM1NpbUdKelU3TWppcGRBNW9UWEZDRE12YWkzdTEtMHRhRGtGX3NCM05RVFhIVmNYLU1TWi1faDdCSjdYdVdoOGtSeU5DMl9UZXV3MWdfQQ?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Tue, 20 Oct 2026 15:36:08 GMT",
+        "published": "Wed, 21 Oct 2026 07:24:17 GMT",
+        "base_score": 41,
+        "candidate_score": 55,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6ec7f50938d39d07d19a898e",
+        "mode": "sportdog",
+        "title": "Panathinaikos vow to take legal action reacting to Greek basketball scandal - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWklmdUFWMDhIYjlRYU55cW92SnNqRERuUXBqd3hVQl9QT21YSEQ1UTN1UDNKQVhsRUN6b3JlcU1WZkF2NkMteUpWcFNocWNHY1F5bmhmN0xHNWdxZ3N6dXB2ZEROTWdiNXhvR3Jxem81UmdMdEM1Y1NlQVhZcVR3aFB3TURxSFEwMVdyNjRyeUp2Q0FkR1lWRW1KZEgyOXFBT3c3eU5wYjF1ZkUwcWFwZEFJaGhydw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 21 Oct 2026 14:43:26 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -208,14 +228,33 @@
         "needs_second_source": true
       },
       {
-        "external_id": "17442c2d0fa6a5f822b9a7a3",
+        "external_id": "652f65203681d369170b62b4",
         "mode": "sportdog",
-        "title": "Panathinaikos reportedly introduce stricter social-media rules and fines - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3RrRzBBZGV4Mk51Z1JpVGo0RUFYWVM0UVFRa3ViZmhmZUJ0VG1Ed292XzF2a3RnMXBoc29MRS15dHJ6WUZ2bzBPWnRpLUlyZkI3S21jOFlpS0tMcmRhTHV2ekFJZENxemNWemNqd3JfTDRNUzFuS1VLeDR2dVZMcHg2TzRtZVhybFg2Z1ZTYUt2MUNCRG96VkZOMlRHSDF3d3hnYkV5MDcxT2VHSlgtNTZn?oc=5",
+        "title": "Kairat Almaty - Panathinaikos - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkxHQU1EbTVsSVVCeGJCdXB1QTNoYkxmXzVZMFh0R1hDZnh4OGlfN3lLZ3BjbmlONDVnRkp5eW9DWnlaS05qUzU3UTlKXzcwdWY5SkE0U1hCX3ZaQXh6VWhxU2FYbnFNRFRYMC1MRFd5dFp5Z0dtMXc0MDVuRTlwanhCMFA3RFgtZ3R0SlVVR3lQQQ?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Tue, 20 Oct 2026 12:50:30 GMT",
+        "published": "Wed, 21 Oct 2026 14:31:09 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "75a215674d1214c4fd595b6d",
+        "mode": "sportdog",
+        "title": "Panathinaikos vs Baskonia – Preview & Prediction (Oct. 22, 2026) - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3RHYk9mMjd4U041Mkt6TWxDRWJkX0dZb29TOGxhY0NDQlJuMTJZdEg5Tk9ha0tKVE9TSm14ZzFYQV80bEdrS1E1MzlUcmhIZ2tsVU81S1Bob1VJNWVMdm5wSllUcmtlZy1RZnBZTkxMWG5MNFFFajhJaGtLNFV0TkNMOWE5c1F6Tm1GRWlOZ0JKWTQ?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 21 Oct 2026 10:28:25 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -229,14 +268,68 @@
     ],
     "geopolitico": [
       {
-        "external_id": "f8316cdc12883982ab7a8167",
+        "external_id": "7cbb781e6ad2ebdd37947053",
         "mode": "geopolitico",
-        "title": "Türkiye, Yunanistan-Kıbrıs elektrik bağlantısına karşı değil I Fidan: “Elektriği Türkiye’den alın, iki toplum da yararlansın” - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHpzSzNuLWlfVWxuNVF3Z3VUVjZMTFpyLWl3OW1zbnExQVNvb0FOS3ZFa0xYbl9FeF83TnBvQkY4UUJOekdVQXhzb1I1SHE4UV8yOXVyb3ZjQ1lMend6ZzFORURsaVNHekZSV3dTSUN1NFpXQjNTbE5rOFZXaU45Qnkwc3VkYWZWM3hIejJNYnRZRlo5TzBHWm8yUlZFc3VHT0xLRXg5a0l4aFNKZEJaMDJoOHhTcGJQUWhvNHo4MGxLMUhBajdOUWtOaWFfTWtTSmVMTkhlb2JaaTZm?oc=5",
+        "title": "Fidan’dan Güney Kıbrıs’a: 2 milyar euro harcamak yerine Türkiye’den alın” - Kibris Gerçek",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX1MxRkcxajliUS1kWDdCdHlrNFRHbGZNQW1OVnFrX3pvQ2xLZGl2cGM0eDZMWFE0SWVxaDRseVAwRTZMUnVwZDJzamdBQWdQRXZzY2Z0aXBXRmhxUWtDZ1VwdTFIMVZtSWp6eEVNQnFTRTlFTzljZWJka3dYVkFIWDdBSmYwelVUMHNHbTUxRWxzT2dyTG5wdlRGZ24zQQ?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 21 Oct 2026 10:20:26 GMT",
+        "published": "Wed, 21 Oct 2026 14:10:00 GMT",
         "base_score": 100,
         "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Kibris",
+          "Fidan",
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "Fidan"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "c3ac2439e0847ddc3b95b054",
+        "mode": "geopolitico",
+        "title": "Libya’dan Türkiye ile Deniz Yetki Alanları Anlaşması’na onay: Doğu Akdeniz’de gerilim yeniden artıyor - Şarkul Avsat Türkçe",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZlVYcEcyY01GVzVYWGxVT0F3eWppMXZleXRvRDdwd2VMYTVhRGRrTHhPMjdWQzRyaHZ2czM1RklWenFrVXhKQVFNN2hGTHAwcXRuVUxJX1RCaFRCSjFiUWEyQWVyRTVXd3pzRnBPbHRZa3ZWVE5QbDRjd1VPYTNWUFpfMElJRlRFeGxFX3duNG5vbW84VkJSSXpGcUNwanlVN1ZtN3ZVa2k0LTdLWXhGY1l1YW9YUzJnOHk0dm1VNTk4azlPV0dGd0VwR2RRbDdMeEdwTi1iRmdxN183RjhtTzhxVzZRaTA4ZGl0MVI3UGVqb0RJT1dCcndXaUxmMmh0UmYtUi0zS2FLR2M?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Wed, 21 Oct 2026 15:23:27 GMT",
+        "base_score": 96,
+        "candidate_score": 111,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "deniz yetki alanları",
+          "gerilim"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "9d19936a3140ae692450d291",
+        "mode": "geopolitico",
+        "title": "Dışişleri Bakanı Hakan Fidan'dan Yunanistan'a mesaj! Cumhurbaşkanı Erdoğan'ın teklifini hatırlattı - Hürriyet",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY085VTc4d2luZ1RfUzR2RHp5LUVkRkFfcWlYMndoak15S0gtRFd1TF9ZbXF2LUtacjZabDhtX0NhMHltYVkzZUxYRjFMVTZRWkVXYXVjUHJidkFKdGZXRzNRV0tUbjZjSHFLY1FOckQ0T082LWpFbFZIdmJkSzVhSEl1U05oMzFxSGM2RXJ3V1o1TElrOXNjbFBJblRCQm5JSFMxd2s4WjczRTFHYWdfMnhET2xBTVFWdzFHZEdxbkx4Y1IzaUptVTdlVmFRR1Z0U0tJ?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 21 Oct 2026 15:00:00 GMT",
+        "base_score": 96,
+        "candidate_score": 111,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Fidan",
+          "Fidan",
+          "Erdoğan"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "7cc5d7240b876a3303bdc6db",
+        "mode": "geopolitico",
+        "title": "Fidan, Türkiye'nin Yunanistan-Kıbrıs elektrik bağlantısına karşı olmadığını belirtti - Bağımsız Gazete",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlI0S3lIWXAtY1FBby1JQVljcXhod1FIRXJGSjFpM0JCa1h2UjZBbnBjSnpXdXROMWFncE55ejNiQmtBSFY2bnFucDR5RndPX3ZMZkZTcXFRcDVkNzlQTklsRWRNTUYxS2x5TENzYi0wT19tN3ZhSkEyYVk5dXp6OENfUnlfZC1oZWJmZmhfVTFXNnFSQldhaEFtOUxlSV9IUmZ4VHRma1d6Vlk?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 21 Oct 2026 13:08:00 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -248,38 +341,38 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "ff552ce3ad7673139fdb92c4",
+        "external_id": "514ae46ddca686a2a200988c",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de yeni kriz... Türkiye ve Yunanistan karşı karşıya: Aynı gemi üzerinden yeni NAVTEX krizi - Son Mühür",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlBtb0txQlJJZVplRFRucVVYdWZLalczWmpsV3pIdXVpWlpCVGwxS19OZEIyUW13OGlqVUpBeVh6ZTRXRlBYUHZyQ0RqMkE3QmhRbjNuTFRZV1dqb0RYeUxDTE5BeFRkSHAtTm52LUlYTHZCZzVFRzJ5Ykk2QkJNWDRDUXlNMnM3eWpsN0gtRVlIQ256U2FrZ1J5bk1Ec2tnVnNvU2dYRXVLQkRYNExvM3ZsOGhobzNJNFpmNDJtYlU?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 21 Oct 2026 07:45:00 GMT",
+        "title": "Greece Protest In Photos: Teachers, Students Rally In Athens Against Rising Cost Of Living - Outlook India",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaF9JbU1fN1lIbGVmNUlHektHWG5ZZzB2SXppcG9aeHJidUk5eFRiSkNTSzVoV0R4ZXRkb3ZHOWF5UDVqTkZ5cE5Jbld3YVVReW5QeV90ZDJLakNLSUxwSW1DYVRNNFprdGhSZUo3MVd2Q0pyY1ZDYndKMmJqNXVKSUw3aUlIbjRPVjdlLW0wN3JJT3NoZk9ZeHc1aUY0MTl4RWROWE51YlQxaTFfeFBhQTFJT1pzejhXMjA1b05WM0Q1RjIzMGFCVzhvN3dobTFLbHZJT2t1YnPSAdgBQVVfeXFMTmhfSW1NXzdZSGxlZjVJR3pLR1huWWcwdkl6aXBvWnhyYnVJOXhUYkpDU0s1aFdEeGV0ZG92RzlheVA1ak5GeXBOSW5Xd2FVUXluUHlfdGQyS2pDS0lMcEltQ2FUTTRaa3RoUmVKNzFXdkNKcmNWQ2J3SjJiajV1SklMN2lJSG40T1Y3ZS1tMDdySU9zaGZPWXh3NWlGNDE5eEVkTlhOdWJUMWkxX3hQYUExSU9ac3o4VzIwNW9OVjNENUYyMzBhQlc4bzd3aG0xS2x2SU9rdWJz?oc=5",
+        "source": "Greece India Strategic Watch",
+        "published": "Wed, 21 Oct 2026 12:43:34 GMT",
         "base_score": 100,
         "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "India",
+          "India Greece"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "82f0a5fb5104cba5aa576e4b",
+        "mode": "geopolitico",
+        "title": "Yunanistan’dan Yeni Savunma Planı: F-35’lere 6 İnsansız Savaş Uçağı Eşlik Edecek - RayHaber",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYW9fMkgzSm5WMGh1cGtaeC1MNkpTeGNPd1ZteGt2NXJhdE91Y2NlaFJRVmpGUnc5OG4wX1hEbTVib1ZnSFZSS0dXY1BYODRFRHp4RGN3YzBJZnhkX3lCZ1JpdDVCOU5TMDhGdlZ4UEdveTQzWnpTLXNSN0lBNDhCUVhaR0g4VlA3LWpNNGMtRkJ2Z1FGZmh2NnBxQlRnbUE5SVhkTnlCWTNvbW8?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Wed, 21 Oct 2026 11:41:34 GMT",
+        "base_score": 99,
+        "candidate_score": 109,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
-          "NAVTEX",
-          "Doğu Akdeniz",
-          "kriz"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "fb52c57f3423772cebb8d13f",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz’de kablo gerilimi: Türkiye itirazdan “izin bizden alındı” aşamasına geçti - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekh5NHg1aTRaWjI1VWFJcWRISTcwWFZCcEtFRUt6ZTZDSEdZOUZZUHNGdENBQ1dRN2J3QmVCdGt6OGJhOFVZUVY5dUpiOVRwN19UaHlqMGQ4OFNGYnRwRC1CLWdhUTVwY2xVM2JmUk5NazBPNjZGajlsTmFRVHd3NW1QZXJubDFpSWpXcUFfWFZ3dGE1N2FrTFZJcTZpeVZ1cjY2YnJ0VUdJMnM?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 21 Oct 2026 04:32:21 GMT",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "gerilim",
-          "kablo"
+          "F-35",
+          "savaş uçağı",
+          "F-35",
+          "savunma"
         ],
         "content_type": "turkey_greece"
       },
@@ -291,7 +384,7 @@
         "source": "INSS Eastern Mediterranean IMEC Watch",
         "published": "Wed, 21 Oct 2026 07:58:27 GMT",
         "base_score": 98,
-        "candidate_score": 108,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
           "China",
@@ -305,7 +398,7 @@
         "mode": "geopolitico",
         "title": "Doğu Akdeniz’de yeni NAVTEX krizi! Prof. Dr. Esat Arslan'dan Türkiye-Yunanistan uyarısı - TGRT Haber",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzg4VjJCRzVVRnFVWFpZX1pzMmk1SkdIdTBKQ3gxWFppcW9rVGtRNVdOcjZLa3VvTkRycThuZ1JkbE4xLXhLem5FMUxlRDNuYWp5RHVTdGJkb1FnMGRtWlhzYjhDdVZmeTBHYi1LN1RDZFV4MFo1bUZqTk5zREJtUE5nOF9zemdsY096emRqcVdwSVA2NTY2bFBvOFhEazdwQjhJVkxiQ29kM0prTnZvZnpmOER0QmM0Y2pETXowM0s?oc=5",
-        "source": "Aegean Turkey Watch",
+        "source": "TGRT Haber Greece Watch",
         "published": "Tue, 20 Oct 2026 12:12:14 GMT",
         "base_score": 100,
         "candidate_score": 103,
@@ -317,58 +410,6 @@
           "kriz"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "1071f497d7ac5f12f2292a6b",
-        "mode": "geopolitico",
-        "title": "Libya, Türkiye'yle deniz yetki alanları anlaşmasını resmen onayladı; Yunanistan'dan ve Avrupa Komisyonu Başkanı Leyen'den tepki: Geçersiz ve hükümsüz - T24",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORlNzcnhfNzJ4OVUzOFZIN2hDZFFuMkpYVGc1VDgzQzZudU9CdUZRNEM1X2lHeW5oLU9kZ2FHUk45d01rUDFYU0lFZy10QldEbUJhQkhqaV9GQXlLUHAyTkNERnFqVFNrczd4dlZReFk3RVc1Um5xUG5fUVFQLVVqdlZENkI5bDVXS2wyOHJsNkp5V2djT241TjVoZE9DMmpnM1RxZWVJQXI2UDFNem1aWXJqTkJmMkhnc2JfeFEtV3pGVjVGdjlyWjV6M0hHdzBhS2ZEZTE1UDJvZGJ0VGRRNFNGTlNUWUxFZWFDZVBvRGMwcFl2YlZsUEFVTWZFR0wwdE54VjRQZw?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Wed, 21 Oct 2026 06:46:00 GMT",
-        "base_score": 90,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "deniz yetki alanları",
-          "tepki"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "708e130f45444ba76c446caa",
-        "mode": "geopolitico",
-        "title": "Cyprus-Greece-Israel electricity link completion pushed back to 2031, regulator says - CBN.com.cy",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1BwT1hiLWJ3YmFZNExWd29kN21OX0VtUjNKaURLaTFBUHFrTFlJOXFldEhWek1OblBjc1dpeUkzcVBKTV9TaDhRZHpuMlBfb3ZZSHZWVkZLcXAxT2x5YUI5NDl3MjI3eUV1aTFxNXA2MU9BT09oVUVjS1VpMzFjTHI5NGtpRFM4c3ZaUGxGbXNsN25ncVU4d0s3UDQzSTZicFVSWjViZUZwSFZvdzJieGRWXy13RTdYS0ZEZ3h3?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Wed, 21 Oct 2026 05:58:10 GMT",
-        "base_score": 90,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Cyprus"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "42a27fabedeca6a063b14022",
-        "mode": "geopolitico",
-        "title": "'No double standards on terrorism': Rajnath Singh's stern warning at SCO meet with Pakistan at the table - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdGFVb1pZMm56SWxqcDdiNzRza1V3MDQzMWFaSllUdVNGMm5oNlhqRDI4WVpVMzI0T05uakd2ZG43cWJ0ZHI2ZU5zUVJhcTZwRUhaSXZxWVpia0I5TmwzbWp0NW8yQjl1LWxReTRYQTM4b3Z1UGlhRjBRenVTa0xISGUwVjJjeUpFQVNaVFVpQWxGM3lfUmVMVUp6YTlYR0c3SVdQM2RmN0x4VzZnNkEzRUVtcDZqWkpjaU83aFlMS0xvSE4wdW1ZemJrS0lXTHFkcVZxRVY0OTlUaFZxTV84SXZvNnRKcDJaaFBCZURwVkVPVmV3WXVJdVVMYjbSAYICQVVfeXFMUGtlR2plOUFncGpHYThGSlNSN1p5bENIbDR3eEMzS2ZCUlVtb19XT3VEaVFUY0lPczRuc0pBaHJCYkFYcDYwazgwcjJIckxSTXhCd0NOMG1Zdk9iZFFCTVM2d0Z1MEItakNGaTUxTEtmMFh2RkRMUDZRN1g1bjd3ZVFsOExBUFh2NE5MaUdMaHFOZENIcW1xYjZobktwMXZBTWRwLUhMOEhDc2RyWVEzMXRtRzRXcGNMc0xNOHRucjJhRUJoS0pLZ0Z1bnlQenY4VWQ2dlVDV0UwR2hYRkxMY2J1SHowWkRfYi05MWZmNkwxV0tXeXNkSGZ4by1KWU9UejJn?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Tue, 20 Oct 2026 06:59:00 GMT",
-        "base_score": 94,
-        "candidate_score": 97,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Rajnath Singh",
-          "terrorism"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -380,7 +421,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Wed, 21 Oct 2026 11:35:21 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -398,7 +439,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Tue, 20 Oct 2026 21:12:58 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -408,21 +449,21 @@
         "content_type": "news"
       },
       {
-        "external_id": "9c64fc6b76317619be634d24",
+        "external_id": "bab86e455a21ec7f262d6d3a",
         "mode": "pontos_voice",
-        "title": "DKBB Encümen Toplantısı Gümüşhane’de gerçekleştirildi",
-        "url": "https://www.61saat.com/dkbb-encumen-toplantisi-gumushanede-gerceklestirildi",
+        "title": "Einstein Trabzon'da! 61saat'e özel açıklamalarda bulundu",
+        "url": "https://www.61saat.com/einstein-trabzonda-61saate-ozel-aciklamalarda-bulundu",
         "source": "61Saat Trabzon",
-        "published": "Wed, 21 Oct 2026 13:13:00 +0300",
-        "base_score": 67,
-        "candidate_score": 82,
+        "published": "Wed, 21 Oct 2026 17:45:00 +0300",
+        "base_score": 61,
+        "candidate_score": 76,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
-          "Gümüşhane",
-          "belediye başkanı",
+          "açıklama",
+          "anıt",
           "Trabzon",
-          "Karadeniz"
+          "dil"
         ],
         "content_type": "news"
       },
@@ -443,36 +484,38 @@
         "content_type": "news"
       },
       {
-        "external_id": "1057170d92594875ef4e221d",
+        "external_id": "e6d273ef4ec9aa3deec01ac9",
         "mode": "pontos_voice",
-        "title": "KTÜ'lü akademisyenler afetlerde kullanılabilecek modüler barınma sistemi geliştirecek",
-        "url": "https://www.61saat.com/ktulu-akademisyenler-afetlerde-kullanilabilecek-moduler-barinma-sistemi-gelistirecek",
+        "title": "Trabzon’da Devlet Tiyatrosu yıkılınca, oyunlar nerede oynanacak? 2 ihtimal gündemde",
+        "url": "https://www.61saat.com/trabzonda-devlet-tiyatrosu-yikilinca-oyunlar-nerede-oynanacak-2-ihtimal-gundemde",
         "source": "61Saat Trabzon",
-        "published": "Wed, 21 Oct 2026 12:50:00 +0300",
-        "base_score": 46,
-        "candidate_score": 61,
+        "published": "Wed, 21 Oct 2026 16:03:00 +0300",
+        "base_score": 55,
+        "candidate_score": 65,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
+          "kültür",
           "Trabzon",
-          "Karadeniz"
+          "dil"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "b1c4e40103d017d63c578777",
+        "external_id": "256d37f1fcd383e34414930f",
         "mode": "pontos_voice",
-        "title": "Çaykur Rizespor, Trabzonspor maçına odaklandı",
-        "url": "https://www.61saat.com/caykur-rizespor-trabzonspor-macina-odaklandi",
+        "title": "Trabzon’un 26 yıllık tiyatro festivali için yeni karar! 2 yılda bir yapılacak",
+        "url": "https://www.61saat.com/trabzonun-26-yillik-tiyatro-festivali-icin-yeni-karar-2-yilda-bir-yapilacak",
         "source": "61Saat Trabzon",
-        "published": "Wed, 21 Oct 2026 13:23:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
+        "published": "Wed, 21 Oct 2026 15:41:00 +0300",
+        "base_score": 53,
+        "candidate_score": 63,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Rize",
-          "Trabzon"
+          "Trabzon",
+          "Karadeniz",
+          "vali"
         ],
         "content_type": "news"
       }
@@ -487,7 +530,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 20 Oct 2026 06:29:00 GMT",
       "base_score": 64,
-      "candidate_score": 87,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -497,8 +540,8 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "13a6ef258b1dd12283214feb",
@@ -506,9 +549,9 @@
       "title": "Tomoki Iwata Transfer from Birmingham City to AEK Athens - TransferFeed",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWpPb1ZON0dPb3RYTDlJYkF3M0ZHQjFpVzJDSncybG45UXFKMlBaaTVydzlfeTlIQm9iUVN6QXhTcjhoZU1SX3hSZkhrVlBEUUxuUUhsRTcwRWVjTjVkZ3R1elB4b0FScGp2R3pESS1KNGM2MUR3dVduZFh5aWVqaXpCcUI4MHMyZDRGV3NQN04?oc=5",
       "source": "TransferFeed Greek Super League",
-      "published": "Tue, 20 Oct 2026 21:30:51 GMT",
+      "published": "Tue, 20 Oct 2026 21:16:49 GMT",
       "base_score": 58,
-      "candidate_score": 84,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "AEK",
@@ -568,7 +611,7 @@
       "source": "AEK Rumour Watch",
       "published": "Wed, 21 Oct 2026 06:10:52 GMT",
       "base_score": 50,
-      "candidate_score": 68,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -576,26 +619,6 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "2c63340b9076f85d514865b4",
-      "mode": "sportdog",
-      "title": "Manchester City Host AEK Athens Tuesday: Kickoff, Streaming and Injury Questions - Around Prague",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnBRV0ZyYjA5VHRUWURWZ1VwcHFwQmJ0bDlxcFpTamJmZ1J1aE53MTJ4Wkw5RGlsTmlXaE44UHBBblNGNnAxMXpkc0pQX0NXaXFjdm1KUllxclpHTmQ4QThHSF9BQmNXTS1fb0ZETXVibkdGZ19XRlh3Sm0xVDc5eFBrWHNyaklQSHpFX3gxcUdRRkpjb1pmak9fdl9HQ3lMODBwM1JrUDluajZtWmJxMWJab0hiZWc?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Wed, 21 Oct 2026 05:52:54 GMT",
-      "base_score": 41,
-      "candidate_score": 68,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "injury"
-      ],
-      "content_type": "news",
-      "editorial_type": "Injury",
       "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -621,6 +644,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "da1f363cec0484828be4b01c",
+      "mode": "sportdog",
+      "title": "Champions League: Foden nets hat-trick as Man City crush AEK Athens - Businessday NG",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmtvaUdNcDAxa3l6NlluVktBLW9DU0xPV3NsUWtHY3Ric0d5MGttcjhkSDNLQ1ZPYWUweE1JVkdXUmlZVmg3dWlSQ1NNV21rSnVGSmd2X0l3MmxQVXZGREQ5MFVIY2U4SDBpbThPSlF2X3pvdE03eVdkZ0hkMXZVemxfeVJicHBOWnVYamhIQXZIQnF1UWwyeld5RFJ4aWxIZ1p4emtYVTFRa2p4ZnfSAa4BQVVfeXFMTVprb2lHTXAwMWt5ejZZblZLQS1vQ1NMT1dzbFFrR2N0YnNHeTBrbXI4ZEgzS0NWT2FlMHhNSVZHV1JpWVZoN3VpUkNTTVdta0p1Rkpndl9JdzJsUFV2RkREOTBVSGNlOEgwaW04T0pRdl96b3RNN3lXZGdIZDF2VXpsX3lSYnBwTlp1WGpoSEF2SEJxdVFsMnpXeURSeGlsSGdaeHprWFUxUWtqeGZ3?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Tue, 20 Oct 2026 22:01:26 GMT",
+      "base_score": 50,
+      "candidate_score": 61,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "8173b723d491dd04cd8ddd69",
       "mode": "sportdog",
       "title": "Olympiacos vs Sparta Prague Prediction & Picks - Europa League - SportyTrader",
@@ -628,7 +671,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 20 Oct 2026 19:00:00 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -661,14 +704,34 @@
       "needs_second_source": true
     },
     {
-      "external_id": "38ffaedfadaf7fd381b85b09",
+      "external_id": "595f4cdc1e2ae0dbca0d4953",
       "mode": "sportdog",
-      "title": "Panathinaikos AKTOR Athens: roster, news, schedule and stats - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ISW10Vk9kMk5uanlNalRYWnpweUVSZGpOVUN0QnVNYVJLNVJpdlFpbVZod0VNa25qU3puVFZzTVFCSDdDWTBQZHFieWE1b2tPYUphdEM0YnBTeGY1WWxJVDN0MHBEUVZFVUk1aWcybUE?oc=5",
+      "title": "▶️ Watch Kairat vs Panathinaikos Live Stream | Predictions & Tips - 22 Oct - FootballPredictions.NET",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXJDOUtrdkN2eEdLZUFxTlM3Z2RaaUtFeVo4SmlCcjl4TVdhd1I4ZkdJUk1jSXdKM1NpbUdKelU3TWppcGRBNW9UWEZDRE12YWkzdTEtMHRhRGtGX3NCM05RVFhIVmNYLU1TWi1faDdCSjdYdVdoOGtSeU5DMl9UZXV3MWdfQQ?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Tue, 20 Oct 2026 15:36:08 GMT",
+      "published": "Wed, 21 Oct 2026 07:24:17 GMT",
+      "base_score": 41,
+      "candidate_score": 55,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6ec7f50938d39d07d19a898e",
+      "mode": "sportdog",
+      "title": "Panathinaikos vow to take legal action reacting to Greek basketball scandal - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWklmdUFWMDhIYjlRYU55cW92SnNqRERuUXBqd3hVQl9QT21YSEQ1UTN1UDNKQVhsRUN6b3JlcU1WZkF2NkMteUpWcFNocWNHY1F5bmhmN0xHNWdxZ3N6dXB2ZEROTWdiNXhvR3Jxem81UmdMdEM1Y1NlQVhZcVR3aFB3TURxSFEwMVdyNjRyeUp2Q0FkR1lWRW1KZEgyOXFBT3c3eU5wYjF1ZkUwcWFwZEFJaGhydw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 21 Oct 2026 14:43:26 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -680,14 +743,14 @@
       "needs_second_source": true
     },
     {
-      "external_id": "17442c2d0fa6a5f822b9a7a3",
+      "external_id": "652f65203681d369170b62b4",
       "mode": "sportdog",
-      "title": "Panathinaikos reportedly introduce stricter social-media rules and fines - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3RrRzBBZGV4Mk51Z1JpVGo0RUFYWVM0UVFRa3ViZmhmZUJ0VG1Ed292XzF2a3RnMXBoc29MRS15dHJ6WUZ2bzBPWnRpLUlyZkI3S21jOFlpS0tMcmRhTHV2ekFJZENxemNWemNqd3JfTDRNUzFuS1VLeDR2dVZMcHg2TzRtZVhybFg2Z1ZTYUt2MUNCRG96VkZOMlRHSDF3d3hnYkV5MDcxT2VHSlgtNTZn?oc=5",
+      "title": "Kairat Almaty - Panathinaikos - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkxHQU1EbTVsSVVCeGJCdXB1QTNoYkxmXzVZMFh0R1hDZnh4OGlfN3lLZ3BjbmlONDVnRkp5eW9DWnlaS05qUzU3UTlKXzcwdWY5SkE0U1hCX3ZaQXh6VWhxU2FYbnFNRFRYMC1MRFd5dFp5Z0dtMXc0MDVuRTlwanhCMFA3RFgtZ3R0SlVVR3lQQQ?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Tue, 20 Oct 2026 12:50:30 GMT",
+      "published": "Wed, 21 Oct 2026 14:31:09 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -699,14 +762,87 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f8316cdc12883982ab7a8167",
+      "external_id": "75a215674d1214c4fd595b6d",
+      "mode": "sportdog",
+      "title": "Panathinaikos vs Baskonia – Preview & Prediction (Oct. 22, 2026) - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3RHYk9mMjd4U041Mkt6TWxDRWJkX0dZb29TOGxhY0NDQlJuMTJZdEg5Tk9ha0tKVE9TSm14ZzFYQV80bEdrS1E1MzlUcmhIZ2tsVU81S1Bob1VJNWVMdm5wSllUcmtlZy1RZnBZTkxMWG5MNFFFajhJaGtLNFV0TkNMOWE5c1F6Tm1GRWlOZ0JKWTQ?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 21 Oct 2026 10:28:25 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "7cbb781e6ad2ebdd37947053",
       "mode": "geopolitico",
-      "title": "Türkiye, Yunanistan-Kıbrıs elektrik bağlantısına karşı değil I Fidan: “Elektriği Türkiye’den alın, iki toplum da yararlansın” - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHpzSzNuLWlfVWxuNVF3Z3VUVjZMTFpyLWl3OW1zbnExQVNvb0FOS3ZFa0xYbl9FeF83TnBvQkY4UUJOekdVQXhzb1I1SHE4UV8yOXVyb3ZjQ1lMend6ZzFORURsaVNHekZSV3dTSUN1NFpXQjNTbE5rOFZXaU45Qnkwc3VkYWZWM3hIejJNYnRZRlo5TzBHWm8yUlZFc3VHT0xLRXg5a0l4aFNKZEJaMDJoOHhTcGJQUWhvNHo4MGxLMUhBajdOUWtOaWFfTWtTSmVMTkhlb2JaaTZm?oc=5",
+      "title": "Fidan’dan Güney Kıbrıs’a: 2 milyar euro harcamak yerine Türkiye’den alın” - Kibris Gerçek",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX1MxRkcxajliUS1kWDdCdHlrNFRHbGZNQW1OVnFrX3pvQ2xLZGl2cGM0eDZMWFE0SWVxaDRseVAwRTZMUnVwZDJzamdBQWdQRXZzY2Z0aXBXRmhxUWtDZ1VwdTFIMVZtSWp6eEVNQnFTRTlFTzljZWJka3dYVkFIWDdBSmYwelVUMHNHbTUxRWxzT2dyTG5wdlRGZ24zQQ?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 21 Oct 2026 10:20:26 GMT",
+      "published": "Wed, 21 Oct 2026 14:10:00 GMT",
       "base_score": 100,
       "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Kibris",
+        "Fidan",
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "Fidan"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "c3ac2439e0847ddc3b95b054",
+      "mode": "geopolitico",
+      "title": "Libya’dan Türkiye ile Deniz Yetki Alanları Anlaşması’na onay: Doğu Akdeniz’de gerilim yeniden artıyor - Şarkul Avsat Türkçe",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZlVYcEcyY01GVzVYWGxVT0F3eWppMXZleXRvRDdwd2VMYTVhRGRrTHhPMjdWQzRyaHZ2czM1RklWenFrVXhKQVFNN2hGTHAwcXRuVUxJX1RCaFRCSjFiUWEyQWVyRTVXd3pzRnBPbHRZa3ZWVE5QbDRjd1VPYTNWUFpfMElJRlRFeGxFX3duNG5vbW84VkJSSXpGcUNwanlVN1ZtN3ZVa2k0LTdLWXhGY1l1YW9YUzJnOHk0dm1VNTk4azlPV0dGd0VwR2RRbDdMeEdwTi1iRmdxN183RjhtTzhxVzZRaTA4ZGl0MVI3UGVqb0RJT1dCcndXaUxmMmh0UmYtUi0zS2FLR2M?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Wed, 21 Oct 2026 15:23:27 GMT",
+      "base_score": 96,
+      "candidate_score": 111,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "deniz yetki alanları",
+        "gerilim"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "9d19936a3140ae692450d291",
+      "mode": "geopolitico",
+      "title": "Dışişleri Bakanı Hakan Fidan'dan Yunanistan'a mesaj! Cumhurbaşkanı Erdoğan'ın teklifini hatırlattı - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY085VTc4d2luZ1RfUzR2RHp5LUVkRkFfcWlYMndoak15S0gtRFd1TF9ZbXF2LUtacjZabDhtX0NhMHltYVkzZUxYRjFMVTZRWkVXYXVjUHJidkFKdGZXRzNRV0tUbjZjSHFLY1FOckQ0T082LWpFbFZIdmJkSzVhSEl1U05oMzFxSGM2RXJ3V1o1TElrOXNjbFBJblRCQm5JSFMxd2s4WjczRTFHYWdfMnhET2xBTVFWdzFHZEdxbkx4Y1IzaUptVTdlVmFRR1Z0U0tJ?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 21 Oct 2026 15:00:00 GMT",
+      "base_score": 96,
+      "candidate_score": 111,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Fidan",
+        "Fidan",
+        "Erdoğan"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "7cc5d7240b876a3303bdc6db",
+      "mode": "geopolitico",
+      "title": "Fidan, Türkiye'nin Yunanistan-Kıbrıs elektrik bağlantısına karşı olmadığını belirtti - Bağımsız Gazete",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlI0S3lIWXAtY1FBby1JQVljcXhod1FIRXJGSjFpM0JCa1h2UjZBbnBjSnpXdXROMWFncE55ejNiQmtBSFY2bnFucDR5RndPX3ZMZkZTcXFRcDVkNzlQTklsRWRNTUYxS2x5TENzYi0wT19tN3ZhSkEyYVk5dXp6OENfUnlfZC1oZWJmZmhfVTFXNnFSQldhaEFtOUxlSV9IUmZ4VHRma1d6Vlk?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 21 Oct 2026 13:08:00 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -718,38 +854,38 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "ff552ce3ad7673139fdb92c4",
+      "external_id": "514ae46ddca686a2a200988c",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de yeni kriz... Türkiye ve Yunanistan karşı karşıya: Aynı gemi üzerinden yeni NAVTEX krizi - Son Mühür",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlBtb0txQlJJZVplRFRucVVYdWZLalczWmpsV3pIdXVpWlpCVGwxS19OZEIyUW13OGlqVUpBeVh6ZTRXRlBYUHZyQ0RqMkE3QmhRbjNuTFRZV1dqb0RYeUxDTE5BeFRkSHAtTm52LUlYTHZCZzVFRzJ5Ykk2QkJNWDRDUXlNMnM3eWpsN0gtRVlIQ256U2FrZ1J5bk1Ec2tnVnNvU2dYRXVLQkRYNExvM3ZsOGhobzNJNFpmNDJtYlU?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 21 Oct 2026 07:45:00 GMT",
+      "title": "Greece Protest In Photos: Teachers, Students Rally In Athens Against Rising Cost Of Living - Outlook India",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaF9JbU1fN1lIbGVmNUlHektHWG5ZZzB2SXppcG9aeHJidUk5eFRiSkNTSzVoV0R4ZXRkb3ZHOWF5UDVqTkZ5cE5Jbld3YVVReW5QeV90ZDJLakNLSUxwSW1DYVRNNFprdGhSZUo3MVd2Q0pyY1ZDYndKMmJqNXVKSUw3aUlIbjRPVjdlLW0wN3JJT3NoZk9ZeHc1aUY0MTl4RWROWE51YlQxaTFfeFBhQTFJT1pzejhXMjA1b05WM0Q1RjIzMGFCVzhvN3dobTFLbHZJT2t1YnPSAdgBQVVfeXFMTmhfSW1NXzdZSGxlZjVJR3pLR1huWWcwdkl6aXBvWnhyYnVJOXhUYkpDU0s1aFdEeGV0ZG92RzlheVA1ak5GeXBOSW5Xd2FVUXluUHlfdGQyS2pDS0lMcEltQ2FUTTRaa3RoUmVKNzFXdkNKcmNWQ2J3SjJiajV1SklMN2lJSG40T1Y3ZS1tMDdySU9zaGZPWXh3NWlGNDE5eEVkTlhOdWJUMWkxX3hQYUExSU9ac3o4VzIwNW9OVjNENUYyMzBhQlc4bzd3aG0xS2x2SU9rdWJz?oc=5",
+      "source": "Greece India Strategic Watch",
+      "published": "Wed, 21 Oct 2026 12:43:34 GMT",
       "base_score": 100,
       "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "India",
+        "India Greece"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "82f0a5fb5104cba5aa576e4b",
+      "mode": "geopolitico",
+      "title": "Yunanistan’dan Yeni Savunma Planı: F-35’lere 6 İnsansız Savaş Uçağı Eşlik Edecek - RayHaber",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYW9fMkgzSm5WMGh1cGtaeC1MNkpTeGNPd1ZteGt2NXJhdE91Y2NlaFJRVmpGUnc5OG4wX1hEbTVib1ZnSFZSS0dXY1BYODRFRHp4RGN3YzBJZnhkX3lCZ1JpdDVCOU5TMDhGdlZ4UEdveTQzWnpTLXNSN0lBNDhCUVhaR0g4VlA3LWpNNGMtRkJ2Z1FGZmh2NnBxQlRnbUE5SVhkTnlCWTNvbW8?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Wed, 21 Oct 2026 11:41:34 GMT",
+      "base_score": 99,
+      "candidate_score": 109,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
-        "NAVTEX",
-        "Doğu Akdeniz",
-        "kriz"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "fb52c57f3423772cebb8d13f",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz’de kablo gerilimi: Türkiye itirazdan “izin bizden alındı” aşamasına geçti - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekh5NHg1aTRaWjI1VWFJcWRISTcwWFZCcEtFRUt6ZTZDSEdZOUZZUHNGdENBQ1dRN2J3QmVCdGt6OGJhOFVZUVY5dUpiOVRwN19UaHlqMGQ4OFNGYnRwRC1CLWdhUTVwY2xVM2JmUk5NazBPNjZGajlsTmFRVHd3NW1QZXJubDFpSWpXcUFfWFZ3dGE1N2FrTFZJcTZpeVZ1cjY2YnJ0VUdJMnM?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 21 Oct 2026 04:32:21 GMT",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "gerilim",
-        "kablo"
+        "F-35",
+        "savaş uçağı",
+        "F-35",
+        "savunma"
       ],
       "content_type": "turkey_greece"
     },
@@ -761,7 +897,7 @@
       "source": "INSS Eastern Mediterranean IMEC Watch",
       "published": "Wed, 21 Oct 2026 07:58:27 GMT",
       "base_score": 98,
-      "candidate_score": 108,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
         "China",
@@ -775,7 +911,7 @@
       "mode": "geopolitico",
       "title": "Doğu Akdeniz’de yeni NAVTEX krizi! Prof. Dr. Esat Arslan'dan Türkiye-Yunanistan uyarısı - TGRT Haber",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzg4VjJCRzVVRnFVWFpZX1pzMmk1SkdIdTBKQ3gxWFppcW9rVGtRNVdOcjZLa3VvTkRycThuZ1JkbE4xLXhLem5FMUxlRDNuYWp5RHVTdGJkb1FnMGRtWlhzYjhDdVZmeTBHYi1LN1RDZFV4MFo1bUZqTk5zREJtUE5nOF9zemdsY096emRqcVdwSVA2NTY2bFBvOFhEazdwQjhJVkxiQ29kM0prTnZvZnpmOER0QmM0Y2pETXowM0s?oc=5",
-      "source": "Aegean Turkey Watch",
+      "source": "TGRT Haber Greece Watch",
       "published": "Tue, 20 Oct 2026 12:12:14 GMT",
       "base_score": 100,
       "candidate_score": 103,
@@ -789,58 +925,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "1071f497d7ac5f12f2292a6b",
-      "mode": "geopolitico",
-      "title": "Libya, Türkiye'yle deniz yetki alanları anlaşmasını resmen onayladı; Yunanistan'dan ve Avrupa Komisyonu Başkanı Leyen'den tepki: Geçersiz ve hükümsüz - T24",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORlNzcnhfNzJ4OVUzOFZIN2hDZFFuMkpYVGc1VDgzQzZudU9CdUZRNEM1X2lHeW5oLU9kZ2FHUk45d01rUDFYU0lFZy10QldEbUJhQkhqaV9GQXlLUHAyTkNERnFqVFNrczd4dlZReFk3RVc1Um5xUG5fUVFQLVVqdlZENkI5bDVXS2wyOHJsNkp5V2djT241TjVoZE9DMmpnM1RxZWVJQXI2UDFNem1aWXJqTkJmMkhnc2JfeFEtV3pGVjVGdjlyWjV6M0hHdzBhS2ZEZTE1UDJvZGJ0VGRRNFNGTlNUWUxFZWFDZVBvRGMwcFl2YlZsUEFVTWZFR0wwdE54VjRQZw?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Wed, 21 Oct 2026 06:46:00 GMT",
-      "base_score": 90,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "deniz yetki alanları",
-        "tepki"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "708e130f45444ba76c446caa",
-      "mode": "geopolitico",
-      "title": "Cyprus-Greece-Israel electricity link completion pushed back to 2031, regulator says - CBN.com.cy",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1BwT1hiLWJ3YmFZNExWd29kN21OX0VtUjNKaURLaTFBUHFrTFlJOXFldEhWek1OblBjc1dpeUkzcVBKTV9TaDhRZHpuMlBfb3ZZSHZWVkZLcXAxT2x5YUI5NDl3MjI3eUV1aTFxNXA2MU9BT09oVUVjS1VpMzFjTHI5NGtpRFM4c3ZaUGxGbXNsN25ncVU4d0s3UDQzSTZicFVSWjViZUZwSFZvdzJieGRWXy13RTdYS0ZEZ3h3?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Wed, 21 Oct 2026 05:58:10 GMT",
-      "base_score": 90,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Cyprus"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "42a27fabedeca6a063b14022",
-      "mode": "geopolitico",
-      "title": "'No double standards on terrorism': Rajnath Singh's stern warning at SCO meet with Pakistan at the table - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdGFVb1pZMm56SWxqcDdiNzRza1V3MDQzMWFaSllUdVNGMm5oNlhqRDI4WVpVMzI0T05uakd2ZG43cWJ0ZHI2ZU5zUVJhcTZwRUhaSXZxWVpia0I5TmwzbWp0NW8yQjl1LWxReTRYQTM4b3Z1UGlhRjBRenVTa0xISGUwVjJjeUpFQVNaVFVpQWxGM3lfUmVMVUp6YTlYR0c3SVdQM2RmN0x4VzZnNkEzRUVtcDZqWkpjaU83aFlMS0xvSE4wdW1ZemJrS0lXTHFkcVZxRVY0OTlUaFZxTV84SXZvNnRKcDJaaFBCZURwVkVPVmV3WXVJdVVMYjbSAYICQVVfeXFMUGtlR2plOUFncGpHYThGSlNSN1p5bENIbDR3eEMzS2ZCUlVtb19XT3VEaVFUY0lPczRuc0pBaHJCYkFYcDYwazgwcjJIckxSTXhCd0NOMG1Zdk9iZFFCTVM2d0Z1MEItakNGaTUxTEtmMFh2RkRMUDZRN1g1bjd3ZVFsOExBUFh2NE5MaUdMaHFOZENIcW1xYjZobktwMXZBTWRwLUhMOEhDc2RyWVEzMXRtRzRXcGNMc0xNOHRucjJhRUJoS0pLZ0Z1bnlQenY4VWQ2dlVDV0UwR2hYRkxMY2J1SHowWkRfYi05MWZmNkwxV0tXeXNkSGZ4by1KWU9UejJn?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Tue, 20 Oct 2026 06:59:00 GMT",
-      "base_score": 94,
-      "candidate_score": 97,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Rajnath Singh",
-        "terrorism"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "b2e781c6ee8ee9219f8dcf21",
       "mode": "pontos_voice",
       "title": "Βοστόνη: Η ποντιακή λύρα που ενώνει τρεις γενιές της οικογένειας Πεσιρίδη - pontosnews.gr",
@@ -848,7 +932,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Wed, 21 Oct 2026 11:35:21 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -866,7 +950,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Tue, 20 Oct 2026 21:12:58 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -876,21 +960,21 @@
       "content_type": "news"
     },
     {
-      "external_id": "9c64fc6b76317619be634d24",
+      "external_id": "bab86e455a21ec7f262d6d3a",
       "mode": "pontos_voice",
-      "title": "DKBB Encümen Toplantısı Gümüşhane’de gerçekleştirildi",
-      "url": "https://www.61saat.com/dkbb-encumen-toplantisi-gumushanede-gerceklestirildi",
+      "title": "Einstein Trabzon'da! 61saat'e özel açıklamalarda bulundu",
+      "url": "https://www.61saat.com/einstein-trabzonda-61saate-ozel-aciklamalarda-bulundu",
       "source": "61Saat Trabzon",
-      "published": "Wed, 21 Oct 2026 13:13:00 +0300",
-      "base_score": 67,
-      "candidate_score": 82,
+      "published": "Wed, 21 Oct 2026 17:45:00 +0300",
+      "base_score": 61,
+      "candidate_score": 76,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
-        "Gümüşhane",
-        "belediye başkanı",
+        "açıklama",
+        "anıt",
         "Trabzon",
-        "Karadeniz"
+        "dil"
       ],
       "content_type": "news"
     },
@@ -911,36 +995,38 @@
       "content_type": "news"
     },
     {
-      "external_id": "1057170d92594875ef4e221d",
+      "external_id": "e6d273ef4ec9aa3deec01ac9",
       "mode": "pontos_voice",
-      "title": "KTÜ'lü akademisyenler afetlerde kullanılabilecek modüler barınma sistemi geliştirecek",
-      "url": "https://www.61saat.com/ktulu-akademisyenler-afetlerde-kullanilabilecek-moduler-barinma-sistemi-gelistirecek",
+      "title": "Trabzon’da Devlet Tiyatrosu yıkılınca, oyunlar nerede oynanacak? 2 ihtimal gündemde",
+      "url": "https://www.61saat.com/trabzonda-devlet-tiyatrosu-yikilinca-oyunlar-nerede-oynanacak-2-ihtimal-gundemde",
       "source": "61Saat Trabzon",
-      "published": "Wed, 21 Oct 2026 12:50:00 +0300",
-      "base_score": 46,
-      "candidate_score": 61,
+      "published": "Wed, 21 Oct 2026 16:03:00 +0300",
+      "base_score": 55,
+      "candidate_score": 65,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
+        "kültür",
         "Trabzon",
-        "Karadeniz"
+        "dil"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "b1c4e40103d017d63c578777",
+      "external_id": "256d37f1fcd383e34414930f",
       "mode": "pontos_voice",
-      "title": "Çaykur Rizespor, Trabzonspor maçına odaklandı",
-      "url": "https://www.61saat.com/caykur-rizespor-trabzonspor-macina-odaklandi",
+      "title": "Trabzon’un 26 yıllık tiyatro festivali için yeni karar! 2 yılda bir yapılacak",
+      "url": "https://www.61saat.com/trabzonun-26-yillik-tiyatro-festivali-icin-yeni-karar-2-yilda-bir-yapilacak",
       "source": "61Saat Trabzon",
-      "published": "Wed, 21 Oct 2026 13:23:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
+      "published": "Wed, 21 Oct 2026 15:41:00 +0300",
+      "base_score": 53,
+      "candidate_score": 63,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Rize",
-        "Trabzon"
+        "Trabzon",
+        "Karadeniz",
+        "vali"
       ],
       "content_type": "news"
     }
