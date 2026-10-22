@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T23:30:00.142294+00:00",
+  "generated_at": "2026-10-22T01:50:22.794846+00:00",
   "counts": {
-    "sportdog": 14,
+    "sportdog": 13,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -95,7 +95,7 @@
         "source": "AEK Rumour Watch",
         "published": "Wed, 21 Oct 2026 06:10:52 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -155,7 +155,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 20 Oct 2026 19:00:00 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -164,7 +164,7 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -193,7 +193,7 @@
         "title": "Kairat Almaty - Panathinaikos - Flashscore.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkxHQU1EbTVsSVVCeGJCdXB1QTNoYkxmXzVZMFh0R1hDZnh4OGlfN3lLZ3BjbmlONDVnRkp5eW9DWnlaS05qUzU3UTlKXzcwdWY5SkE0U1hCX3ZaQXh6VWhxU2FYbnFNRFRYMC1MRFd5dFp5Z0dtMXc0MDVuRTlwanhCMFA3RFgtZ3R0SlVVR3lQQQ?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 21 Oct 2026 20:44:48 GMT",
+        "published": "Wed, 21 Oct 2026 23:45:28 GMT",
         "base_score": 31,
         "candidate_score": 54,
         "priority": "Normal",
@@ -214,7 +214,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 21 Oct 2026 20:43:39 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -233,7 +233,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 21 Oct 2026 17:15:17 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -262,25 +262,6 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "f27a6d4c150aff7a44e75f96",
-        "mode": "sportdog",
-        "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Tue, 20 Oct 2026 21:59:48 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -304,23 +285,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "6dfdadc4cd03a98f18553646",
-        "mode": "geopolitico",
-        "title": "Güney Kıbrıs'tan Doğu Akdeniz'de yeni hamle! İsrail'den gemi alacak - Türkiye Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNklLSzZIM2NfU0F6WVdKM2h5eU1xSGZGYXNRbVVReXctTHkxbHNnUkw5aHoxY3Foc2VSeGZ6WTd5RnBYN3FVZ1RiZmJYU0xsTW92bmdEbWxyZ1Y0SGN2TFA5aEJRMzNrcjhZbHU2VGhqemZtOEZ6U3BCMFp1T2JnYW1DNXNiT0Izb3lNWGpVRWwyNDJPYlFGeGRFLXc1OXU5Z1hIUko3ZzNSeVZMZ2lUVE5R?oc=5",
-        "source": "Turkiye Gazetesi Greece Watch",
-        "published": "Wed, 21 Oct 2026 17:21:17 GMT",
-        "base_score": 98,
-        "candidate_score": 108,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "Güney Kıbrıs"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "7cbb781e6ad2ebdd37947053",
         "mode": "geopolitico",
         "title": "Fidan’dan Güney Kıbrıs’a: 2 milyar euro harcamak yerine Türkiye’den alın” - Kibris Gerçek",
@@ -336,25 +300,6 @@
           "Kıbrıs",
           "Güney Kıbrıs",
           "Fidan"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "7cc5d7240b876a3303bdc6db",
-        "mode": "geopolitico",
-        "title": "Fidan, Türkiye'nin Yunanistan-Kıbrıs elektrik bağlantısına karşı olmadığını belirtti - Bağımsız Gazete",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlI0S3lIWXAtY1FBby1JQVljcXhod1FIRXJGSjFpM0JCa1h2UjZBbnBjSnpXdXROMWFncE55ejNiQmtBSFY2bnFucDR5RndPX3ZMZkZTcXFRcDVkNzlQTklsRWRNTUYxS2x5TENzYi0wT19tN3ZhSkEyYVk5dXp6OENfUnlfZC1oZWJmZmhfVTFXNnFSQldhaEFtOUxlSV9IUmZ4VHRma1d6Vlk?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 21 Oct 2026 13:08:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Fidan",
-          "Kıbrıs",
-          "Fidan",
-          "elektrik bağlantısı"
         ],
         "content_type": "turkey_greece"
       },
@@ -376,20 +321,21 @@
         "content_type": "news"
       },
       {
-        "external_id": "ff552ce3ad7673139fdb92c4",
+        "external_id": "f8316cdc12883982ab7a8167",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de yeni kriz... Türkiye ve Yunanistan karşı karşıya: Aynı gemi üzerinden yeni NAVTEX krizi - Son Mühür",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlBtb0txQlJJZVplRFRucVVYdWZLalczWmpsV3pIdXVpWlpCVGwxS19OZEIyUW13OGlqVUpBeVh6ZTRXRlBYUHZyQ0RqMkE3QmhRbjNuTFRZV1dqb0RYeUxDTE5BeFRkSHAtTm52LUlYTHZCZzVFRzJ5Ykk2QkJNWDRDUXlNMnM3eWpsN0gtRVlIQ256U2FrZ1J5bk1Ec2tnVnNvU2dYRXVLQkRYNExvM3ZsOGhobzNJNFpmNDJtYlU?oc=5",
+        "title": "Türkiye, Yunanistan-Kıbrıs elektrik bağlantısına karşı değil I Fidan: “Elektriği Türkiye’den alın, iki toplum da yararlansın” - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHpzSzNuLWlfVWxuNVF3Z3VUVjZMTFpyLWl3OW1zbnExQVNvb0FOS3ZFa0xYbl9FeF83TnBvQkY4UUJOekdVQXhzb1I1SHE4UV8yOXVyb3ZjQ1lMend6ZzFORURsaVNHekZSV3dTSUN1NFpXQjNTbE5rOFZXaU45Qnkwc3VkYWZWM3hIejJNYnRZRlo5TzBHWm8yUlZFc3VHT0xLRXg5a0l4aFNKZEJaMDJoOHhTcGJQUWhvNHo4MGxLMUhBajdOUWtOaWFfTWtTSmVMTkhlb2JaaTZm?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 21 Oct 2026 07:45:00 GMT",
+        "published": "Wed, 21 Oct 2026 10:29:50 GMT",
         "base_score": 100,
         "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
-          "NAVTEX",
-          "Doğu Akdeniz",
-          "kriz"
+          "Fidan",
+          "Kıbrıs",
+          "Fidan",
+          "elektrik bağlantısı"
         ],
         "content_type": "turkey_greece"
       },
@@ -413,6 +359,23 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "6dfdadc4cd03a98f18553646",
+        "mode": "geopolitico",
+        "title": "Güney Kıbrıs'tan Doğu Akdeniz'de yeni hamle! İsrail'den gemi alacak - Türkiye Gazetesi",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNklLSzZIM2NfU0F6WVdKM2h5eU1xSGZGYXNRbVVReXctTHkxbHNnUkw5aHoxY3Foc2VSeGZ6WTd5RnBYN3FVZ1RiZmJYU0xsTW92bmdEbWxyZ1Y0SGN2TFA5aEJRMzNrcjhZbHU2VGhqemZtOEZ6U3BCMFp1T2JnYW1DNXNiT0Izb3lNWGpVRWwyNDJPYlFGeGRFLXc1OXU5Z1hIUko3ZzNSeVZMZ2lUVE5R?oc=5",
+        "source": "Turkiye Gazetesi Greece Watch",
+        "published": "Wed, 21 Oct 2026 17:21:17 GMT",
+        "base_score": 98,
+        "candidate_score": 104,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "Kıbrıs",
+          "Güney Kıbrıs"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "9f631d5997b5a826f204a200",
         "mode": "geopolitico",
         "title": "Is China aiding the military build-up of Iran and the Houthis? - www.inss.org.il",
@@ -428,6 +391,24 @@
           "Iran"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "ff552ce3ad7673139fdb92c4",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz'de yeni kriz... Türkiye ve Yunanistan karşı karşıya: Aynı gemi üzerinden yeni NAVTEX krizi - Son Mühür",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlBtb0txQlJJZVplRFRucVVYdWZLalczWmpsV3pIdXVpWlpCVGwxS19OZEIyUW13OGlqVUpBeVh6ZTRXRlBYUHZyQ0RqMkE3QmhRbjNuTFRZV1dqb0RYeUxDTE5BeFRkSHAtTm52LUlYTHZCZzVFRzJ5Ykk2QkJNWDRDUXlNMnM3eWpsN0gtRVlIQ256U2FrZ1J5bk1Ec2tnVnNvU2dYRXVLQkRYNExvM3ZsOGhobzNJNFpmNDJtYlU?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 21 Oct 2026 07:45:00 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "NAVTEX",
+          "Doğu Akdeniz",
+          "kriz"
+        ],
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -484,24 +465,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "fae7d256a43ce983d8b24614",
-        "mode": "pontos_voice",
-        "title": "Παμποντιακή Ομοσπονδία ΗΠΑ-Καναδά: Νέο Διοικητικό Συμβούλιο ανέδειξε το 30ό Τακτικό Συνέδριο - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb193Rm82dDRRUzZ6ajZXY2hieVRocDF4SmNyRE1zUUpfX3gyLTg4Qm1VaVJ6MEx6c0xYaTNDd2RDU3pRQ3l1dkE4bFcyVUNrYkdfNEpXLXZZUHhGV1JEUzdhb19EUnNtejlDYjBfTzh1alBieGszb1huTHhhN3VBQzgtaHF5YkZ6NmU2Q3ViTktCVWpDWWRiVHltMUlDdTZRSkVJc3d0UWg3M1FEUWxsSUVFUUlkQQ?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Tue, 20 Oct 2026 15:10:11 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "Παμποντιακή",
-          "ομοσπονδία"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "544ad4c88cae30e9f1b01111",
         "mode": "pontos_voice",
         "title": "TRABZON BÜYÜKŞEHİR BELEDİYESİ ÇÖMLEK MÜZESİ RESTORASYONU",
@@ -509,7 +472,7 @@
         "source": "61Saat Trabzon",
         "published": "Thu, 22 Oct 2026 00:00:00 +0300",
         "base_score": 77,
-        "candidate_score": 92,
+        "candidate_score": 87,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
@@ -521,18 +484,37 @@
         "content_type": "news"
       },
       {
-        "external_id": "3c64982c9cca99802ac93aac",
+        "external_id": "790751a47ecb390f0adc46ef",
         "mode": "pontos_voice",
-        "title": "Σύλλογος Ποντίων Μακροχωρίου: Με περηφάνια στην παρέλαση για τα 114 χρόνια από την απελευθέρωση της Βέροιας - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGV4eVRZYl9FTHRVTTExMUgwQlNqbnVKWWY1aFBHZWRzdzFzdXlKX21SQk1ROWxoWkt6VEdqdlZIOUo1R21sMC1nVVhXamlHamN5cGdGU3BKTktpWWlsWlhmT19wTGh0a3l4R3dtT2RkV0YyTC1UMzdsalBFQzBPMk1iN0x1b1FDWFZvQ1ZOS0lxanBycllKMElPc0FGdGVobzBuejhfX2kxbXRp?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Wed, 21 Oct 2026 12:27:30 GMT",
-        "base_score": 72,
-        "candidate_score": 78,
-        "priority": "High",
+        "title": "KTÜ Ev Sahipliğinde Düzenlenen TAOMS 15. Bilimsel Sempozyumu Başladı",
+        "url": "https://www.61saat.com/ktu-ev-sahipliginde-duzenlenen-taoms-15-bilimsel-sempozyumu-basladi",
+        "source": "61Saat Trabzon",
+        "published": "Wed, 21 Oct 2026 20:09:00 +0300",
+        "base_score": 53,
+        "candidate_score": 59,
+        "priority": "Normal",
         "matched_keywords": [
-          "Pontos",
-          "Σύλλογος Ποντίων"
+          "Trabzon",
+          "Of",
+          "Trabzon",
+          "Karadeniz"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "80c7cf3747322a203f1273ea",
+        "mode": "pontos_voice",
+        "title": "KTÜ Öğrenci Derneği’nden 40. Yıla Yakışan Kutlama: Yoğun Katılım",
+        "url": "https://www.61saat.com/ktu-ogrenci-derneginden-40-yila-yakisan-kutlama-yogun-katilim",
+        "source": "61Saat Trabzon",
+        "published": "Wed, 21 Oct 2026 21:50:00 +0300",
+        "base_score": 48,
+        "candidate_score": 58,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "ülkücü"
         ],
         "content_type": "news"
       }
@@ -627,7 +609,7 @@
       "source": "AEK Rumour Watch",
       "published": "Wed, 21 Oct 2026 06:10:52 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -687,7 +669,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 20 Oct 2026 19:00:00 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -696,7 +678,7 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -725,7 +707,7 @@
       "title": "Kairat Almaty - Panathinaikos - Flashscore.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkxHQU1EbTVsSVVCeGJCdXB1QTNoYkxmXzVZMFh0R1hDZnh4OGlfN3lLZ3BjbmlONDVnRkp5eW9DWnlaS05qUzU3UTlKXzcwdWY5SkE0U1hCX3ZaQXh6VWhxU2FYbnFNRFRYMC1MRFd5dFp5Z0dtMXc0MDVuRTlwanhCMFA3RFgtZ3R0SlVVR3lQQQ?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 21 Oct 2026 20:44:48 GMT",
+      "published": "Wed, 21 Oct 2026 23:45:28 GMT",
       "base_score": 31,
       "candidate_score": 54,
       "priority": "Normal",
@@ -746,7 +728,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 21 Oct 2026 20:43:39 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -765,7 +747,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 21 Oct 2026 17:15:17 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -796,25 +778,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f27a6d4c150aff7a44e75f96",
-      "mode": "sportdog",
-      "title": "RSCA progress past Hammarby to face PAOK in the next qualifying round - Anderlecht",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IWXhTeVhoR1Q3enJBbXN0aFhpaWliaGMtWm93RWdlT3hrNHRGVUo0NlJLX2QzYVY0NUk4cTNKWjlxLWN5aUtr?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Tue, 20 Oct 2026 21:59:48 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "faa6dd06aa4d3a45d93a43f0",
       "mode": "geopolitico",
       "title": "Bakan Fidan ilk kez açıkladı: Cumhurbaşkanı Erdoğan'dan Miçotakis'e Yunanistan ekonomisine ilaç gibi gelecek teklif - TGRT Haber",
@@ -830,23 +793,6 @@
         "Miçotakis",
         "Fidan",
         "Erdoğan"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "6dfdadc4cd03a98f18553646",
-      "mode": "geopolitico",
-      "title": "Güney Kıbrıs'tan Doğu Akdeniz'de yeni hamle! İsrail'den gemi alacak - Türkiye Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNklLSzZIM2NfU0F6WVdKM2h5eU1xSGZGYXNRbVVReXctTHkxbHNnUkw5aHoxY3Foc2VSeGZ6WTd5RnBYN3FVZ1RiZmJYU0xsTW92bmdEbWxyZ1Y0SGN2TFA5aEJRMzNrcjhZbHU2VGhqemZtOEZ6U3BCMFp1T2JnYW1DNXNiT0Izb3lNWGpVRWwyNDJPYlFGeGRFLXc1OXU5Z1hIUko3ZzNSeVZMZ2lUVE5R?oc=5",
-      "source": "Turkiye Gazetesi Greece Watch",
-      "published": "Wed, 21 Oct 2026 17:21:17 GMT",
-      "base_score": 98,
-      "candidate_score": 108,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "Güney Kıbrıs"
       ],
       "content_type": "turkey_greece"
     },
@@ -870,25 +816,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "7cc5d7240b876a3303bdc6db",
-      "mode": "geopolitico",
-      "title": "Fidan, Türkiye'nin Yunanistan-Kıbrıs elektrik bağlantısına karşı olmadığını belirtti - Bağımsız Gazete",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlI0S3lIWXAtY1FBby1JQVljcXhod1FIRXJGSjFpM0JCa1h2UjZBbnBjSnpXdXROMWFncE55ejNiQmtBSFY2bnFucDR5RndPX3ZMZkZTcXFRcDVkNzlQTklsRWRNTUYxS2x5TENzYi0wT19tN3ZhSkEyYVk5dXp6OENfUnlfZC1oZWJmZmhfVTFXNnFSQldhaEFtOUxlSV9IUmZ4VHRma1d6Vlk?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 21 Oct 2026 13:08:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Fidan",
-        "Kıbrıs",
-        "Fidan",
-        "elektrik bağlantısı"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "514ae46ddca686a2a200988c",
       "mode": "geopolitico",
       "title": "Greece Protest In Photos: Teachers, Students Rally In Athens Against Rising Cost Of Living - Outlook India",
@@ -906,20 +833,21 @@
       "content_type": "news"
     },
     {
-      "external_id": "ff552ce3ad7673139fdb92c4",
+      "external_id": "f8316cdc12883982ab7a8167",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de yeni kriz... Türkiye ve Yunanistan karşı karşıya: Aynı gemi üzerinden yeni NAVTEX krizi - Son Mühür",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlBtb0txQlJJZVplRFRucVVYdWZLalczWmpsV3pIdXVpWlpCVGwxS19OZEIyUW13OGlqVUpBeVh6ZTRXRlBYUHZyQ0RqMkE3QmhRbjNuTFRZV1dqb0RYeUxDTE5BeFRkSHAtTm52LUlYTHZCZzVFRzJ5Ykk2QkJNWDRDUXlNMnM3eWpsN0gtRVlIQ256U2FrZ1J5bk1Ec2tnVnNvU2dYRXVLQkRYNExvM3ZsOGhobzNJNFpmNDJtYlU?oc=5",
+      "title": "Türkiye, Yunanistan-Kıbrıs elektrik bağlantısına karşı değil I Fidan: “Elektriği Türkiye’den alın, iki toplum da yararlansın” - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHpzSzNuLWlfVWxuNVF3Z3VUVjZMTFpyLWl3OW1zbnExQVNvb0FOS3ZFa0xYbl9FeF83TnBvQkY4UUJOekdVQXhzb1I1SHE4UV8yOXVyb3ZjQ1lMend6ZzFORURsaVNHekZSV3dTSUN1NFpXQjNTbE5rOFZXaU45Qnkwc3VkYWZWM3hIejJNYnRZRlo5TzBHWm8yUlZFc3VHT0xLRXg5a0l4aFNKZEJaMDJoOHhTcGJQUWhvNHo4MGxLMUhBajdOUWtOaWFfTWtTSmVMTkhlb2JaaTZm?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 21 Oct 2026 07:45:00 GMT",
+      "published": "Wed, 21 Oct 2026 10:29:50 GMT",
       "base_score": 100,
       "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
-        "NAVTEX",
-        "Doğu Akdeniz",
-        "kriz"
+        "Fidan",
+        "Kıbrıs",
+        "Fidan",
+        "elektrik bağlantısı"
       ],
       "content_type": "turkey_greece"
     },
@@ -943,6 +871,23 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "6dfdadc4cd03a98f18553646",
+      "mode": "geopolitico",
+      "title": "Güney Kıbrıs'tan Doğu Akdeniz'de yeni hamle! İsrail'den gemi alacak - Türkiye Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNklLSzZIM2NfU0F6WVdKM2h5eU1xSGZGYXNRbVVReXctTHkxbHNnUkw5aHoxY3Foc2VSeGZ6WTd5RnBYN3FVZ1RiZmJYU0xsTW92bmdEbWxyZ1Y0SGN2TFA5aEJRMzNrcjhZbHU2VGhqemZtOEZ6U3BCMFp1T2JnYW1DNXNiT0Izb3lNWGpVRWwyNDJPYlFGeGRFLXc1OXU5Z1hIUko3ZzNSeVZMZ2lUVE5R?oc=5",
+      "source": "Turkiye Gazetesi Greece Watch",
+      "published": "Wed, 21 Oct 2026 17:21:17 GMT",
+      "base_score": 98,
+      "candidate_score": 104,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "Kıbrıs",
+        "Güney Kıbrıs"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "9f631d5997b5a826f204a200",
       "mode": "geopolitico",
       "title": "Is China aiding the military build-up of Iran and the Houthis? - www.inss.org.il",
@@ -958,6 +903,24 @@
         "Iran"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "ff552ce3ad7673139fdb92c4",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz'de yeni kriz... Türkiye ve Yunanistan karşı karşıya: Aynı gemi üzerinden yeni NAVTEX krizi - Son Mühür",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlBtb0txQlJJZVplRFRucVVYdWZLalczWmpsV3pIdXVpWlpCVGwxS19OZEIyUW13OGlqVUpBeVh6ZTRXRlBYUHZyQ0RqMkE3QmhRbjNuTFRZV1dqb0RYeUxDTE5BeFRkSHAtTm52LUlYTHZCZzVFRzJ5Ykk2QkJNWDRDUXlNMnM3eWpsN0gtRVlIQ256U2FrZ1J5bk1Ec2tnVnNvU2dYRXVLQkRYNExvM3ZsOGhobzNJNFpmNDJtYlU?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 21 Oct 2026 07:45:00 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "NAVTEX",
+        "Doğu Akdeniz",
+        "kriz"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "40e98ea483f2a8a2ff79ba3c",
@@ -1012,24 +975,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "fae7d256a43ce983d8b24614",
-      "mode": "pontos_voice",
-      "title": "Παμποντιακή Ομοσπονδία ΗΠΑ-Καναδά: Νέο Διοικητικό Συμβούλιο ανέδειξε το 30ό Τακτικό Συνέδριο - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb193Rm82dDRRUzZ6ajZXY2hieVRocDF4SmNyRE1zUUpfX3gyLTg4Qm1VaVJ6MEx6c0xYaTNDd2RDU3pRQ3l1dkE4bFcyVUNrYkdfNEpXLXZZUHhGV1JEUzdhb19EUnNtejlDYjBfTzh1alBieGszb1huTHhhN3VBQzgtaHF5YkZ6NmU2Q3ViTktCVWpDWWRiVHltMUlDdTZRSkVJc3d0UWg3M1FEUWxsSUVFUUlkQQ?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Tue, 20 Oct 2026 15:10:11 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "Παμποντιακή",
-        "ομοσπονδία"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "544ad4c88cae30e9f1b01111",
       "mode": "pontos_voice",
       "title": "TRABZON BÜYÜKŞEHİR BELEDİYESİ ÇÖMLEK MÜZESİ RESTORASYONU",
@@ -1037,7 +982,7 @@
       "source": "61Saat Trabzon",
       "published": "Thu, 22 Oct 2026 00:00:00 +0300",
       "base_score": 77,
-      "candidate_score": 92,
+      "candidate_score": 87,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
@@ -1049,18 +994,37 @@
       "content_type": "news"
     },
     {
-      "external_id": "3c64982c9cca99802ac93aac",
+      "external_id": "790751a47ecb390f0adc46ef",
       "mode": "pontos_voice",
-      "title": "Σύλλογος Ποντίων Μακροχωρίου: Με περηφάνια στην παρέλαση για τα 114 χρόνια από την απελευθέρωση της Βέροιας - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGV4eVRZYl9FTHRVTTExMUgwQlNqbnVKWWY1aFBHZWRzdzFzdXlKX21SQk1ROWxoWkt6VEdqdlZIOUo1R21sMC1nVVhXamlHamN5cGdGU3BKTktpWWlsWlhmT19wTGh0a3l4R3dtT2RkV0YyTC1UMzdsalBFQzBPMk1iN0x1b1FDWFZvQ1ZOS0lxanBycllKMElPc0FGdGVobzBuejhfX2kxbXRp?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Wed, 21 Oct 2026 12:27:30 GMT",
-      "base_score": 72,
-      "candidate_score": 78,
-      "priority": "High",
+      "title": "KTÜ Ev Sahipliğinde Düzenlenen TAOMS 15. Bilimsel Sempozyumu Başladı",
+      "url": "https://www.61saat.com/ktu-ev-sahipliginde-duzenlenen-taoms-15-bilimsel-sempozyumu-basladi",
+      "source": "61Saat Trabzon",
+      "published": "Wed, 21 Oct 2026 20:09:00 +0300",
+      "base_score": 53,
+      "candidate_score": 59,
+      "priority": "Normal",
       "matched_keywords": [
-        "Pontos",
-        "Σύλλογος Ποντίων"
+        "Trabzon",
+        "Of",
+        "Trabzon",
+        "Karadeniz"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "80c7cf3747322a203f1273ea",
+      "mode": "pontos_voice",
+      "title": "KTÜ Öğrenci Derneği’nden 40. Yıla Yakışan Kutlama: Yoğun Katılım",
+      "url": "https://www.61saat.com/ktu-ogrenci-derneginden-40-yila-yakisan-kutlama-yogun-katilim",
+      "source": "61Saat Trabzon",
+      "published": "Wed, 21 Oct 2026 21:50:00 +0300",
+      "base_score": 48,
+      "candidate_score": 58,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "ülkücü"
       ],
       "content_type": "news"
     }
