@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T20:49:18.127984+00:00",
+  "generated_at": "2026-10-22T23:42:58.116001+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -36,7 +36,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 22 Oct 2026 13:03:54 GMT",
         "base_score": 66,
-        "candidate_score": 94,
+        "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -70,6 +70,27 @@
         "needs_second_source": true
       },
       {
+        "external_id": "1607ecfd3b3778136386fbd0",
+        "mode": "sportdog",
+        "title": "Roman Yaremchuk Over Armando González: Alguacil Omits Forward for Olympiacos' Europa League Clash - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNl9YcHgySm0yNHYzSmlQd0x5WE9xS0V6NHBjRGxfblhDSGd2WEJ6VnloLW9lWHV5SVJPSjIyYVZzQ1UwX3p1TWlhQlRYS3BCU1dGRVA4UklRYmRtVWhwaG1PVlR0T1pJdE11cGRTZ1lINkFEcnR0V0FXQjh0NGxXOGFyTG9TOE9HTk9Za2pCbC1FWVFBSXByOGZpYi1tQTVYd1VFMVRDRGNGbjJjeXk2ZE5yLUttRUxOYnVJbmRaX2R4Wnp1VjYyQklkYlRWOXFDRGUwYV9KVHhUaS13amNhaGdQRDVpMXNCUlRsQTJn?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 22 Oct 2026 19:05:58 GMT",
+        "base_score": 58,
+        "candidate_score": 76,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "Europa League",
+          "forward"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "987fb7a2b6d843c0f73acca4",
         "mode": "sportdog",
         "title": "Panathinaikos - Wertvollste Abgänge | Page 3 - Transfermarkt",
@@ -77,7 +98,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 21 Oct 2026 17:05:49 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 76,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -90,26 +111,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "17b118dc3dbd10cb7b7858ef",
-        "mode": "sportdog",
-        "title": "Olympique Lyon Quoting Olympiacos Forward - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2dkbElIcUdadGFHR0VXNHdPanZVM2lKbWtHRmdaOTRXVHdhd1pOVGNpSlZTbDJSeGEtODFHU3FSSXZnTGprSlgzazJVaWg0QXNWN21LNlViclhoeUlITm5jT0dQd3pWbGJ3ZmlhMlNhY0RWMWZvVXdRVUVNMEhrejFwTFpFQU50RnVxWHo0NnZISDN4SUhsTVozZGRGaXc?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 22 Oct 2026 18:29:06 GMT",
-        "base_score": 39,
-        "candidate_score": 62,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "forward"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "5503e9763c236f4f1650bbcc",
         "mode": "sportdog",
         "title": "(LIVE) Saski Baskonia vs Panathinaikos BC LIVE STREAM FREE 22 October 2026 - 北陸地方整備局",
@@ -117,7 +118,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 22 Oct 2026 18:26:01 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -146,9 +147,46 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
+      },
+      {
+        "external_id": "b0f34f3c8f475b53fe754c16",
+        "mode": "sportdog",
+        "title": "Foden hat-trick fuels Manchester City rout of AEK Athens, PSG sink Barca as Reds triumph - Howl.link",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5vZWZ1Vnc3V3ByZGVsWG9INTBoUUZTV294bkw0OFI1VXlOVVNCeEt1b0FWMDQyWnhUQ3E4?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Thu, 22 Oct 2026 07:43:03 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "e9d9acf2b63eb4f097dc185e",
+        "mode": "geopolitico",
+        "title": "Fidan, Erdoğan'ın Yunanistan'a teklifini açıkladı: '2 milyar euro harcayacağına bizden al' - Gazete Oksijen",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUdTcjFkdmgxeTV1U0RHTHlSanNvTHFUOG1ISXRtWWFiUUtNM1d1MG9ZTXZFOWprOVJIdm9nd0tyeUx1Mk43eWF2ZjE5TDYzU25USTFEQzV3VWNNVjZnV3oxSUFfcGg4QlZERmVKSWJMTjUyV21zZXJXdE5kSEdGdWdJWmRVcWJKa0NMTjRyOXFsZlM4d2p6ckswYS1ERzlGWnJuZ1E3R2ZzYTFMM1drZVVGSTRtenp0ZTFmeGo1SU8?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 22 Oct 2026 21:55:11 GMT",
+        "base_score": 96,
+        "candidate_score": 111,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Fidan",
+          "Fidan",
+          "Erdoğan"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "a46e6657689766347c9b66e3",
         "mode": "geopolitico",
@@ -173,7 +211,7 @@
         "title": "Türkiye-Libya anlaşması Yunanistan ile Mısır’ı yakınlaştırdı: MEB anlaşmasını genişletme kararı - Bugün Kıbrıs",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNmlTdmxYRkZieUhfTGZlT0pvRzVDTFQ2NUFQYTZ6aFptOEZNZXphQ3ZUNDdpb3U1UG9TcmRxaUVGMVJZRXVmUmt2N1NmVE5EY3BHRUppZm5fUVBuSWRFeXZDWDVkYU5ValRIVlZkS1habHpwY29rS3R1RDNLZHMzbXJYU1RQbDJIbmdCaGpQdkh5TDAteUwyQUlhdFlVRWtpa2lRcExJSHNxN2o1anlJTTMwV3NYNXJ2TUE?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 22 Oct 2026 16:05:18 GMT",
+        "published": "Thu, 22 Oct 2026 16:04:47 GMT",
         "base_score": 100,
         "candidate_score": 110,
         "priority": "URGENT",
@@ -183,24 +221,6 @@
           "MEB"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "c84493eb73d88279647c0b2e",
-        "mode": "geopolitico",
-        "title": "India wants good ties with Pakistan but won’t ignore terrorism, says Jaishankar - Firstpost",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDlVcV9ueGJkV3d6MU9ubGR5RlRReXNhTnIwdGVjTFlfNzFPUHBEdXlPRjRMYV9vRURRWDVzN1pRQWt6ZTF6VlNTeUVYb3BIM2p2NG5YY2cyd3YyMUVBb1pDSFhyZTJSTmxzXzZhYTVpRXpjNDk1VC1scU5GUTN0QnlMeDVneGJpbWxiT0gzdGFSUDBTWnlzTV9JM1VnNXJZWF95T1A1eS1zVktkV05RcXk1TjlrSGN2YXY0UzhMenHSAcYBQVVfeXFMTVpsS0dPQ09kUl9sbFlUU3JCUm1URWpfRktfQTlUMWRTaDQyMGcwdkM0VG9Ram9CT3NsQUdDR1F1VTJwMm5hTWZNZVp5OGhVczhVUTkxQzJrb2dQSjBGTXNyT2x3bExCb1dtbDJRb05ERTNibElicU1HYTBrTktzNzl5QXI3aTFBaldUdExLU1dfZnVPSU1tVjhSdVFwc3lwRzBob0xHOWRZdmRYVDdKcDVRaDN1LS1JeGo2b1ViZXBwbzJXTHNR?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Thu, 22 Oct 2026 18:08:50 GMT",
-        "base_score": 94,
-        "candidate_score": 109,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Jaishankar",
-          "terrorism"
-        ],
-        "content_type": "news"
       },
       {
         "external_id": "8beae219efd639171fcb12ab",
@@ -217,24 +237,6 @@
           "Doğu Akdeniz",
           "MSB",
           "ada"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "6def31ae63b1bb623c18697e",
-        "mode": "geopolitico",
-        "title": "Antalya’dan duyuruldu, Atina reddetti! Doğu Akdeniz’de NAVTEX krizi - Güncel Antalya",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3Ryd1I5MTQ3d0xnandEZm5hWTMxcXVXVjk5U3dGWWh4V3NKa2hfcXZmWC0wS3hHcGZ1SjBOSFVtVnVLOHBBLXIyMUFjOXRZT1B3LVkwVHVZM24zT09qMHNUV2xvUnVYb0NiQ3ZtNnF0UmNjV2ZsQ0hRZEZuekNBdWcyMTVFY2VQZUczOWgteDlnMlE?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 22 Oct 2026 09:36:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "NAVTEX",
-          "Doğu Akdeniz",
-          "Atina",
-          "kriz"
         ],
         "content_type": "turkey_greece"
       },
@@ -275,22 +277,40 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "d60cf2f7740e1f571610cacc",
+        "external_id": "c84493eb73d88279647c0b2e",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de Ankara'nın dediği oldu! Güney Kıbrıs Türkiye'den izin almak zorunda kaldı - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONjMwazYtbHQ5WHZPbDNuU3dZTno4Zy1PT1lHcXc4bVdyWGxvWWthVE1aczNVYTJxSmt1UGRLVXl4Yy1LSC1WQVJfYkZ1dlNkNHcyN2FWa3gwQkFZeW41bEhJWGNDemdqa1lra0s5WEl1aUs1TDROWmxsdm9HcklKSXpNQlY1c3lUYUtPa0N5YXNzNkRpdE5XZmVwTG9iQWFyUFR3bl9nVGtGMDNycXFtVEJya29YWjhOcFVUeUJ3cmxZTnY1dnNJbUdNeEhfeW_SAc8BQVVfeXFMTjYzMGs2LWx0OVh2T2wzblN3WU56OGctT09ZR3F3OG1Xclhsb1lrYVRNWnMzVWEycUprdVBkS1V5eGMtS0gtVkFSX2JGdXZTZDR3MjdhVmt4MEJBWXluNWxISVhjQ3pnamtZa2tLOVhJdWlLNUw0TlpsbHZvR3JJSkl6TUJWNXN5VGFLT2tDeWFzczZEaXROV2ZlcExvYkFhclBUd25fZ1RrRjAzcnFxbVRCcmtvWFo4TnBVVHlCd3JsWU52NXZzSW1HTXhIX3lv?oc=5",
-        "source": "Turkish Greek Relations Deep Watch",
-        "published": "Thu, 22 Oct 2026 03:46:57 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
+        "title": "India wants good ties with Pakistan but won’t ignore terrorism, says Jaishankar - Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDlVcV9ueGJkV3d6MU9ubGR5RlRReXNhTnIwdGVjTFlfNzFPUHBEdXlPRjRMYV9vRURRWDVzN1pRQWt6ZTF6VlNTeUVYb3BIM2p2NG5YY2cyd3YyMUVBb1pDSFhyZTJSTmxzXzZhYTVpRXpjNDk1VC1scU5GUTN0QnlMeDVneGJpbWxiT0gzdGFSUDBTWnlzTV9JM1VnNXJZWF95T1A1eS1zVktkV05RcXk1TjlrSGN2YXY0UzhMenHSAcYBQVVfeXFMTVpsS0dPQ09kUl9sbFlUU3JCUm1URWpfRktfQTlUMWRTaDQyMGcwdkM0VG9Ram9CT3NsQUdDR1F1VTJwMm5hTWZNZVp5OGhVczhVUTkxQzJrb2dQSjBGTXNyT2x3bExCb1dtbDJRb05ERTNibElicU1HYTBrTktzNzl5QXI3aTFBaldUdExLU1dfZnVPSU1tVjhSdVFwc3lwRzBob0xHOWRZdmRYVDdKcDVRaDN1LS1JeGo2b1ViZXBwbzJXTHNR?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Thu, 22 Oct 2026 18:08:50 GMT",
+        "base_score": 94,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "Ankara"
+          "India",
+          "Pakistan",
+          "Jaishankar",
+          "terrorism"
         ],
-        "content_type": "turkey_greece"
+        "content_type": "news"
+      },
+      {
+        "external_id": "4c90bd597e977afcef48698e",
+        "mode": "geopolitico",
+        "title": "‘Turkey is a common enemy’: Pro-Israel network forms parliamentary groups in Greece and Cyprus - Middle East Eye",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTNwU0VYaHdYOU9nUTg1N0haN2RfVVRXd2pYNTVOZ0tCNkZndEFxWTZueTFvTFJDVHJrcmFsU0s3VUpFY19QMnZlTERVOThXdmIyZ0RyZ214dGlKU3FoVElxMG43MENISERvdGdLU3h5VFJrbm5jR1QzdnJIZHFKbjVEVGZRT0RkeEVuYzU0UWJuYXVjWk9ndXBGc0FZbzYyMU9tTko5b1RiMk92Q2pZcHpMOGpycmpBNndmS0JUTUs?oc=5",
+        "source": "Cyprus Eastern Mediterranean Watch",
+        "published": "Thu, 22 Oct 2026 12:13:16 GMT",
+        "base_score": 98,
+        "candidate_score": 104,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Cyprus",
+          "Turkey"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -330,39 +350,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "bcda276517f8ab8659ac4b3a",
-        "mode": "pontos_voice",
-        "title": "Ένωση Ποντίων Αμπελοκήπων: Νέα στέγη για τον σύλλογο και την ποντιακή κληρονομιά - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0hZdFZnY3FBZ21WTVNKcW9VdXdYSGhpd0hvQ19tcDExVGExanFCV3FXVzJYazhQTFdUbFJnSW9ubW83bVJzWURWUzloR0JIOEhoSnFMTzM4T2RULVRmXzBhMzdXZkxQUmRMMmpSVFI3alF3eVFHbnlWRXBzU2pEU25zdl9ibkdoMExqb1Y3b054M0pKTDlja3Y2NjdUcFlSVzdkek9PRGJaTnVGRG9pRHJBVWp4OWFyMkVR?oc=5",
-        "source": "Greek Press Pontic Culture Watch",
-        "published": "Tue, 20 Oct 2026 21:12:58 GMT",
-        "base_score": 99,
-        "candidate_score": 99,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "Ένωση Ποντίων"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "4f5f49999aeb913df9170165",
-        "mode": "pontos_voice",
-        "title": "Πάνω από 8.000 ποντιακά δίστιχα, μια ζωή καταγραφών – Η συλλογή που στήριξαν οι Πόντιοι της Νυρεμβέργης - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWVQdFdVeGY5M2RnTXlLZlNjZDBwcnNzMHJXOGJNeHY4OGo4YUZNZmxfSjRFMFZmT2VxVGFYdmNZNVRiRVlLOFhDR201NEZQUzUzbk9KMzBRNUlZbTl3czE3eWhMSDliWGl2ZW0yaWdSTTFreUY1MmRFNWhJUWRwSXItN1lxemJIMkg3M01QWGdrazZMd2F3?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Thu, 22 Oct 2026 14:06:32 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "Πόντιοι"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "151974387e050e2a64da5cdd",
         "mode": "pontos_voice",
         "title": "Πόντιοι στη Ρωσία: Η έκκληση 100.000 εγκλωβισμένων που ζητούσαν μόνο άδεια εξόδου - pontosnews.gr",
@@ -379,6 +366,23 @@
         "content_type": "news"
       },
       {
+        "external_id": "17b451696fbb71b6dd2171b3",
+        "mode": "pontos_voice",
+        "title": "Ο Ποντιακός Πολιτιστικός Σύλλογος Μαυροβάτου «Το Καρς» στο 8ο Χορωδιακό Μουσικό Σεμινάριο Σαμοθράκης - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVk1TRGtodjhEX1JCSDNfOVZiVk9CUzJndUpQOUx4QnlxOEVCa3QwOWVBMVZZRmZzclA3Vm9PMlhnUXhtMEotX1hSb21sQ3FKdjBqa2FPRllDQTM3OEFRWlVTWkRLMUwtT3MxaHFDQnVLTGh2VGtKdGJlSkFmNVdud1pDVjVsUXRENVkyWHFjRkRnQ2lBYkdOZmlNOHdXNkxRQmpJOWdzdktoNy1qVnM1OEVKME15VFFIVXlHNFJna3FXcWlaMVZlb1RR?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Wed, 21 Oct 2026 20:07:04 GMT",
+        "base_score": 80,
+        "candidate_score": 83,
+        "priority": "High",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακός",
+          "πολιτιστικός σύλλογος"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "b43528dd2b0d528c8623c024",
         "mode": "pontos_voice",
         "title": "Trabzonspor’da Onuachu ve Mustafa gelişmesi! Reis tarih verdi",
@@ -386,11 +390,29 @@
         "source": "61Saat Trabzon",
         "published": "Thu, 22 Oct 2026 22:42:00 +0300",
         "base_score": 57,
-        "candidate_score": 72,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "Rumlar",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "aa16a033382a9eac31e5bdb4",
+        "mode": "pontos_voice",
+        "title": "Trabzon Metrosu'nda yeni gelişme! Çalışmalar o bölgede de başlıyor...",
+        "url": "https://www.61saat.com/trabzon-metrosunda-yeni-gelisme-calismalar-o-bolgede-de-basliyor",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 22 Oct 2026 20:25:00 +0300",
+        "base_score": 53,
+        "candidate_score": 63,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "belediye başkanı",
+          "bakan",
           "Trabzon"
         ],
         "content_type": "news"
@@ -427,7 +449,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 22 Oct 2026 13:03:54 GMT",
       "base_score": 66,
-      "candidate_score": 94,
+      "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -461,6 +483,27 @@
       "needs_second_source": true
     },
     {
+      "external_id": "1607ecfd3b3778136386fbd0",
+      "mode": "sportdog",
+      "title": "Roman Yaremchuk Over Armando González: Alguacil Omits Forward for Olympiacos' Europa League Clash - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNl9YcHgySm0yNHYzSmlQd0x5WE9xS0V6NHBjRGxfblhDSGd2WEJ6VnloLW9lWHV5SVJPSjIyYVZzQ1UwX3p1TWlhQlRYS3BCU1dGRVA4UklRYmRtVWhwaG1PVlR0T1pJdE11cGRTZ1lINkFEcnR0V0FXQjh0NGxXOGFyTG9TOE9HTk9Za2pCbC1FWVFBSXByOGZpYi1tQTVYd1VFMVRDRGNGbjJjeXk2ZE5yLUttRUxOYnVJbmRaX2R4Wnp1VjYyQklkYlRWOXFDRGUwYV9KVHhUaS13amNhaGdQRDVpMXNCUlRsQTJn?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 22 Oct 2026 19:05:58 GMT",
+      "base_score": 58,
+      "candidate_score": 76,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "Europa League",
+        "forward"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "987fb7a2b6d843c0f73acca4",
       "mode": "sportdog",
       "title": "Panathinaikos - Wertvollste Abgänge | Page 3 - Transfermarkt",
@@ -468,7 +511,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 21 Oct 2026 17:05:49 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 76,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -481,26 +524,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "17b118dc3dbd10cb7b7858ef",
-      "mode": "sportdog",
-      "title": "Olympique Lyon Quoting Olympiacos Forward - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2dkbElIcUdadGFHR0VXNHdPanZVM2lKbWtHRmdaOTRXVHdhd1pOVGNpSlZTbDJSeGEtODFHU3FSSXZnTGprSlgzazJVaWg0QXNWN21LNlViclhoeUlITm5jT0dQd3pWbGJ3ZmlhMlNhY0RWMWZvVXdRVUVNMEhrejFwTFpFQU50RnVxWHo0NnZISDN4SUhsTVozZGRGaXc?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 22 Oct 2026 18:29:06 GMT",
-      "base_score": 39,
-      "candidate_score": 62,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "forward"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "5503e9763c236f4f1650bbcc",
       "mode": "sportdog",
       "title": "(LIVE) Saski Baskonia vs Panathinaikos BC LIVE STREAM FREE 22 October 2026 - 北陸地方整備局",
@@ -508,7 +531,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 22 Oct 2026 18:26:01 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -539,6 +562,43 @@
       "needs_second_source": true
     },
     {
+      "external_id": "b0f34f3c8f475b53fe754c16",
+      "mode": "sportdog",
+      "title": "Foden hat-trick fuels Manchester City rout of AEK Athens, PSG sink Barca as Reds triumph - Howl.link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5vZWZ1Vnc3V3ByZGVsWG9INTBoUUZTV294bkw0OFI1VXlOVVNCeEt1b0FWMDQyWnhUQ3E4?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Thu, 22 Oct 2026 07:43:03 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "e9d9acf2b63eb4f097dc185e",
+      "mode": "geopolitico",
+      "title": "Fidan, Erdoğan'ın Yunanistan'a teklifini açıkladı: '2 milyar euro harcayacağına bizden al' - Gazete Oksijen",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUdTcjFkdmgxeTV1U0RHTHlSanNvTHFUOG1ISXRtWWFiUUtNM1d1MG9ZTXZFOWprOVJIdm9nd0tyeUx1Mk43eWF2ZjE5TDYzU25USTFEQzV3VWNNVjZnV3oxSUFfcGg4QlZERmVKSWJMTjUyV21zZXJXdE5kSEdGdWdJWmRVcWJKa0NMTjRyOXFsZlM4d2p6ckswYS1ERzlGWnJuZ1E3R2ZzYTFMM1drZVVGSTRtenp0ZTFmeGo1SU8?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 22 Oct 2026 21:55:11 GMT",
+      "base_score": 96,
+      "candidate_score": 111,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Fidan",
+        "Fidan",
+        "Erdoğan"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "a46e6657689766347c9b66e3",
       "mode": "geopolitico",
       "title": "MSB’den AB ve Yunanistan’a Libya Yanıtı: Deniz Yetki Alanları Mutabakatının Geçerliliği Ortadan Kaldırılamaz - Envanter Medya",
@@ -562,7 +622,7 @@
       "title": "Türkiye-Libya anlaşması Yunanistan ile Mısır’ı yakınlaştırdı: MEB anlaşmasını genişletme kararı - Bugün Kıbrıs",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNmlTdmxYRkZieUhfTGZlT0pvRzVDTFQ2NUFQYTZ6aFptOEZNZXphQ3ZUNDdpb3U1UG9TcmRxaUVGMVJZRXVmUmt2N1NmVE5EY3BHRUppZm5fUVBuSWRFeXZDWDVkYU5ValRIVlZkS1habHpwY29rS3R1RDNLZHMzbXJYU1RQbDJIbmdCaGpQdkh5TDAteUwyQUlhdFlVRWtpa2lRcExJSHNxN2o1anlJTTMwV3NYNXJ2TUE?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 22 Oct 2026 16:05:18 GMT",
+      "published": "Thu, 22 Oct 2026 16:04:47 GMT",
       "base_score": 100,
       "candidate_score": 110,
       "priority": "URGENT",
@@ -572,24 +632,6 @@
         "MEB"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "c84493eb73d88279647c0b2e",
-      "mode": "geopolitico",
-      "title": "India wants good ties with Pakistan but won’t ignore terrorism, says Jaishankar - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDlVcV9ueGJkV3d6MU9ubGR5RlRReXNhTnIwdGVjTFlfNzFPUHBEdXlPRjRMYV9vRURRWDVzN1pRQWt6ZTF6VlNTeUVYb3BIM2p2NG5YY2cyd3YyMUVBb1pDSFhyZTJSTmxzXzZhYTVpRXpjNDk1VC1scU5GUTN0QnlMeDVneGJpbWxiT0gzdGFSUDBTWnlzTV9JM1VnNXJZWF95T1A1eS1zVktkV05RcXk1TjlrSGN2YXY0UzhMenHSAcYBQVVfeXFMTVpsS0dPQ09kUl9sbFlUU3JCUm1URWpfRktfQTlUMWRTaDQyMGcwdkM0VG9Ram9CT3NsQUdDR1F1VTJwMm5hTWZNZVp5OGhVczhVUTkxQzJrb2dQSjBGTXNyT2x3bExCb1dtbDJRb05ERTNibElicU1HYTBrTktzNzl5QXI3aTFBaldUdExLU1dfZnVPSU1tVjhSdVFwc3lwRzBob0xHOWRZdmRYVDdKcDVRaDN1LS1JeGo2b1ViZXBwbzJXTHNR?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Thu, 22 Oct 2026 18:08:50 GMT",
-      "base_score": 94,
-      "candidate_score": 109,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Jaishankar",
-        "terrorism"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "8beae219efd639171fcb12ab",
@@ -606,24 +648,6 @@
         "Doğu Akdeniz",
         "MSB",
         "ada"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "6def31ae63b1bb623c18697e",
-      "mode": "geopolitico",
-      "title": "Antalya’dan duyuruldu, Atina reddetti! Doğu Akdeniz’de NAVTEX krizi - Güncel Antalya",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3Ryd1I5MTQ3d0xnandEZm5hWTMxcXVXVjk5U3dGWWh4V3NKa2hfcXZmWC0wS3hHcGZ1SjBOSFVtVnVLOHBBLXIyMUFjOXRZT1B3LVkwVHVZM24zT09qMHNUV2xvUnVYb0NiQ3ZtNnF0UmNjV2ZsQ0hRZEZuekNBdWcyMTVFY2VQZUczOWgteDlnMlE?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 22 Oct 2026 09:36:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "NAVTEX",
-        "Doğu Akdeniz",
-        "Atina",
-        "kriz"
       ],
       "content_type": "turkey_greece"
     },
@@ -664,22 +688,40 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "d60cf2f7740e1f571610cacc",
+      "external_id": "c84493eb73d88279647c0b2e",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de Ankara'nın dediği oldu! Güney Kıbrıs Türkiye'den izin almak zorunda kaldı - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONjMwazYtbHQ5WHZPbDNuU3dZTno4Zy1PT1lHcXc4bVdyWGxvWWthVE1aczNVYTJxSmt1UGRLVXl4Yy1LSC1WQVJfYkZ1dlNkNHcyN2FWa3gwQkFZeW41bEhJWGNDemdqa1lra0s5WEl1aUs1TDROWmxsdm9HcklKSXpNQlY1c3lUYUtPa0N5YXNzNkRpdE5XZmVwTG9iQWFyUFR3bl9nVGtGMDNycXFtVEJya29YWjhOcFVUeUJ3cmxZTnY1dnNJbUdNeEhfeW_SAc8BQVVfeXFMTjYzMGs2LWx0OVh2T2wzblN3WU56OGctT09ZR3F3OG1Xclhsb1lrYVRNWnMzVWEycUprdVBkS1V5eGMtS0gtVkFSX2JGdXZTZDR3MjdhVmt4MEJBWXluNWxISVhjQ3pnamtZa2tLOVhJdWlLNUw0TlpsbHZvR3JJSkl6TUJWNXN5VGFLT2tDeWFzczZEaXROV2ZlcExvYkFhclBUd25fZ1RrRjAzcnFxbVRCcmtvWFo4TnBVVHlCd3JsWU52NXZzSW1HTXhIX3lv?oc=5",
-      "source": "Turkish Greek Relations Deep Watch",
-      "published": "Thu, 22 Oct 2026 03:46:57 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
+      "title": "India wants good ties with Pakistan but won’t ignore terrorism, says Jaishankar - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDlVcV9ueGJkV3d6MU9ubGR5RlRReXNhTnIwdGVjTFlfNzFPUHBEdXlPRjRMYV9vRURRWDVzN1pRQWt6ZTF6VlNTeUVYb3BIM2p2NG5YY2cyd3YyMUVBb1pDSFhyZTJSTmxzXzZhYTVpRXpjNDk1VC1scU5GUTN0QnlMeDVneGJpbWxiT0gzdGFSUDBTWnlzTV9JM1VnNXJZWF95T1A1eS1zVktkV05RcXk1TjlrSGN2YXY0UzhMenHSAcYBQVVfeXFMTVpsS0dPQ09kUl9sbFlUU3JCUm1URWpfRktfQTlUMWRTaDQyMGcwdkM0VG9Ram9CT3NsQUdDR1F1VTJwMm5hTWZNZVp5OGhVczhVUTkxQzJrb2dQSjBGTXNyT2x3bExCb1dtbDJRb05ERTNibElicU1HYTBrTktzNzl5QXI3aTFBaldUdExLU1dfZnVPSU1tVjhSdVFwc3lwRzBob0xHOWRZdmRYVDdKcDVRaDN1LS1JeGo2b1ViZXBwbzJXTHNR?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Thu, 22 Oct 2026 18:08:50 GMT",
+      "base_score": 94,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "Ankara"
+        "India",
+        "Pakistan",
+        "Jaishankar",
+        "terrorism"
       ],
-      "content_type": "turkey_greece"
+      "content_type": "news"
+    },
+    {
+      "external_id": "4c90bd597e977afcef48698e",
+      "mode": "geopolitico",
+      "title": "‘Turkey is a common enemy’: Pro-Israel network forms parliamentary groups in Greece and Cyprus - Middle East Eye",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTNwU0VYaHdYOU9nUTg1N0haN2RfVVRXd2pYNTVOZ0tCNkZndEFxWTZueTFvTFJDVHJrcmFsU0s3VUpFY19QMnZlTERVOThXdmIyZ0RyZ214dGlKU3FoVElxMG43MENISERvdGdLU3h5VFJrbm5jR1QzdnJIZHFKbjVEVGZRT0RkeEVuYzU0UWJuYXVjWk9ndXBGc0FZbzYyMU9tTko5b1RiMk92Q2pZcHpMOGpycmpBNndmS0JUTUs?oc=5",
+      "source": "Cyprus Eastern Mediterranean Watch",
+      "published": "Thu, 22 Oct 2026 12:13:16 GMT",
+      "base_score": 98,
+      "candidate_score": 104,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "Cyprus",
+        "Turkey"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "40e98ea483f2a8a2ff79ba3c",
@@ -717,39 +759,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "bcda276517f8ab8659ac4b3a",
-      "mode": "pontos_voice",
-      "title": "Ένωση Ποντίων Αμπελοκήπων: Νέα στέγη για τον σύλλογο και την ποντιακή κληρονομιά - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0hZdFZnY3FBZ21WTVNKcW9VdXdYSGhpd0hvQ19tcDExVGExanFCV3FXVzJYazhQTFdUbFJnSW9ubW83bVJzWURWUzloR0JIOEhoSnFMTzM4T2RULVRmXzBhMzdXZkxQUmRMMmpSVFI3alF3eVFHbnlWRXBzU2pEU25zdl9ibkdoMExqb1Y3b054M0pKTDlja3Y2NjdUcFlSVzdkek9PRGJaTnVGRG9pRHJBVWp4OWFyMkVR?oc=5",
-      "source": "Greek Press Pontic Culture Watch",
-      "published": "Tue, 20 Oct 2026 21:12:58 GMT",
-      "base_score": 99,
-      "candidate_score": 99,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "Ένωση Ποντίων"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "4f5f49999aeb913df9170165",
-      "mode": "pontos_voice",
-      "title": "Πάνω από 8.000 ποντιακά δίστιχα, μια ζωή καταγραφών – Η συλλογή που στήριξαν οι Πόντιοι της Νυρεμβέργης - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWVQdFdVeGY5M2RnTXlLZlNjZDBwcnNzMHJXOGJNeHY4OGo4YUZNZmxfSjRFMFZmT2VxVGFYdmNZNVRiRVlLOFhDR201NEZQUzUzbk9KMzBRNUlZbTl3czE3eWhMSDliWGl2ZW0yaWdSTTFreUY1MmRFNWhJUWRwSXItN1lxemJIMkg3M01QWGdrazZMd2F3?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Thu, 22 Oct 2026 14:06:32 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Πόντιοι"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "151974387e050e2a64da5cdd",
       "mode": "pontos_voice",
       "title": "Πόντιοι στη Ρωσία: Η έκκληση 100.000 εγκλωβισμένων που ζητούσαν μόνο άδεια εξόδου - pontosnews.gr",
@@ -766,6 +775,23 @@
       "content_type": "news"
     },
     {
+      "external_id": "17b451696fbb71b6dd2171b3",
+      "mode": "pontos_voice",
+      "title": "Ο Ποντιακός Πολιτιστικός Σύλλογος Μαυροβάτου «Το Καρς» στο 8ο Χορωδιακό Μουσικό Σεμινάριο Σαμοθράκης - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVk1TRGtodjhEX1JCSDNfOVZiVk9CUzJndUpQOUx4QnlxOEVCa3QwOWVBMVZZRmZzclA3Vm9PMlhnUXhtMEotX1hSb21sQ3FKdjBqa2FPRllDQTM3OEFRWlVTWkRLMUwtT3MxaHFDQnVLTGh2VGtKdGJlSkFmNVdud1pDVjVsUXRENVkyWHFjRkRnQ2lBYkdOZmlNOHdXNkxRQmpJOWdzdktoNy1qVnM1OEVKME15VFFIVXlHNFJna3FXcWlaMVZlb1RR?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Wed, 21 Oct 2026 20:07:04 GMT",
+      "base_score": 80,
+      "candidate_score": 83,
+      "priority": "High",
+      "matched_keywords": [
+        "Pontos",
+        "ποντιακός",
+        "πολιτιστικός σύλλογος"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "b43528dd2b0d528c8623c024",
       "mode": "pontos_voice",
       "title": "Trabzonspor’da Onuachu ve Mustafa gelişmesi! Reis tarih verdi",
@@ -773,11 +799,29 @@
       "source": "61Saat Trabzon",
       "published": "Thu, 22 Oct 2026 22:42:00 +0300",
       "base_score": 57,
-      "candidate_score": 72,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "Rumlar",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "aa16a033382a9eac31e5bdb4",
+      "mode": "pontos_voice",
+      "title": "Trabzon Metrosu'nda yeni gelişme! Çalışmalar o bölgede de başlıyor...",
+      "url": "https://www.61saat.com/trabzon-metrosunda-yeni-gelisme-calismalar-o-bolgede-de-basliyor",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 22 Oct 2026 20:25:00 +0300",
+      "base_score": 53,
+      "candidate_score": 63,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "belediye başkanı",
+        "bakan",
         "Trabzon"
       ],
       "content_type": "news"
