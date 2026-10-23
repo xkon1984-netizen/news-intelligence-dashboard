@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T02:04:19.802919+00:00",
+  "generated_at": "2026-10-23T07:25:28.492453+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 22 Oct 2026 10:43:29 GMT",
         "base_score": 94,
-        "candidate_score": 120,
+        "candidate_score": 117,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -29,22 +29,43 @@
         "needs_second_source": false
       },
       {
-        "external_id": "987fb7a2b6d843c0f73acca4",
+        "external_id": "46fe1fbdf59721c9167914bc",
         "mode": "sportdog",
-        "title": "Panathinaikos - Wertvollste Abgänge | Page 3 - Transfermarkt",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcmFhVWdUQ0hYc05VNXlieEVlRFJLRmpsUGNDRlAzcWZZa1lHRFBRaDdZY0E5RUpLeERZdUNZQmNaQ2xjdmJ2NGhGN21Ba1R5U2ZoQl9xODNDYnNNeGNWM2pUVUpmeEx1N0VDSDd0eWRFdGNycHZ2cExENnR6UXhpZUcxamtjM1FaUDhJYmZZSWgtV1dXcDV3bWpDVGJwZHJkR2taSjJodUpFYnV1NE9iUk1B?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 21 Oct 2026 17:05:49 GMT",
-        "base_score": 56,
-        "candidate_score": 76,
+        "title": "Moldovan Footballer Ștefan Colța Signs Three-Year Deal with Olympiacos - logos-pres.md",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNEg4NmNwS0Z4ajB4YURESmRuTUtNbjNkQm1ZVk41U0YwQ0hkRU54QjE5dnJWeFJVWnQyZVBMNEEycGZ2T1NCRVhBZ3VEc1pmUFdITlYycmt6Z2lkeUpMa0ExQ2pUTlBMd1N2aHZQeUpPYzE1bW0yY0dXUWx1ZElrSkxMSlFuaHNpdHRmRTV3RnJmWGxhb2UtOWdiVDdnQy1Lby1JU09GSDNuMEljMnYxWHVIMzhwc2VzVGw4UGItQzgwYnMya2c?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 22 Oct 2026 13:03:54 GMT",
+        "base_score": 66,
+        "candidate_score": 87,
         "priority": "High",
         "matched_keywords": [
-          "Panathinaikos",
-          "transfer"
+          "Olympiacos",
+          "deal",
+          "football"
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
+        "external_id": "47997ddf0d11826152fc575c",
+        "mode": "sportdog",
+        "title": "Olympiacos sign John Konchar: NBA veteran joins EuroLeague powerhouse on two-year deal - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vekczMkxCa2MzZXEwbUlEUU1kRm1xRXN5Wl9ERms4Ukw3UmkxXzFlN09SanJod1laUHNTLXBsZnpwdkFtWkV2aVFMYzd0dEtWNFZOOGNVRXZ2LUwwVFNGeXpUdHp5UkVIWXNKeEpR?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 22 Oct 2026 16:17:48 GMT",
+        "base_score": 56,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -56,49 +77,11 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 22 Oct 2026 18:29:06 GMT",
         "base_score": 39,
-        "candidate_score": 57,
+        "candidate_score": 53,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
           "forward"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "0037e9bb4401fe6dc01a149c",
-        "mode": "sportdog",
-        "title": "Olympiacos vs. Sparta (23 Oct, 2026) Live Score - ESPN Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hU3JhVUxMb2hGbExoaWV4bmRLeklrRFJQQ1hsMHpDZ2RFaUxkeUtrNmwyMnlfQVpWOTVxVmdnbHI3U3lvUzFkU0FqY25kUkhVYXVSYVd2dmZveTAtbGRBNlpmZm0tYm5N?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 22 Oct 2026 19:24:32 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "90feb0f8d5f3ccf3ffa701ec",
-        "mode": "sportdog",
-        "title": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] Sparta Praha vs Olympiacos LIVE Updates - 北陸地方整備局",
-        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPUWhRNl9jTFVjUUxhY2pXSXotUFcyRHFSV3h1T0lYVU1ZT0Jua1pwMjQ3QVhGYXpLYjBFZFowOXNhQ2lGMWFZR3NJR2FiQ0g5U3RiSXRzMVpNd3RNN185VVhBVzVsYjNuYzNPUHZUdDVmNkc1cGRLdkcxSnZGaEFDWWtNMC1DQ2R5QzlzY0gwV3Q5VWVTU0NBMlZCajlBWk5NbURMSF83U0hONThOcm5QYUxJQWhoUE9lZS1tSG9CZmcybllQNy1sUVI3WnI5dHFzUkt3Qlg2M0tGRTUxaXVuNUJSS3JuQlNqZHdva0oyTk9kZDNrY2E3emJrX1JnajdSRXRfdTNDUlBqZXVMM1BSc3U1VUV2TXd0Rk43bHhNSXQzUl82eFE?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 22 Oct 2026 19:08:56 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
@@ -114,26 +97,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 22 Oct 2026 18:26:01 GMT",
         "base_score": 31,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "62acb8af043de17814121f7f",
-        "mode": "sportdog",
-        "title": "[YouTube/LIVE] Panathinaikos vs Baskonia 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 22 october 2026 - 北陸地方整備局",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOc2RpMURjdEpXeWVjdUdMbHJacEp6aFpCd1NwSkticEJNWTl0YjE4eXpEX2ZzTXZSWDVfZVlsbnlGb0o0T1dLSTlsYnVLeC1YTDlLSU01UHF5MHl5aUdBNmtOazFmSW9ONS1oVDNlSEpJZkFMbXJYTHlSZkNoblQwRDltQU5xZDR3aFVBa0xXdEpoN0xoaV9rNHdvQVkyRUFqaFFSa05jcGMtNTdKNVFkWVI0ckhwVjJacHFkcnkxc2wyYkE2eERqTFFWd0JHVHFWNFpBMkVKRVkyQXBJWmpvYjgza1hla2J0YkxQckpCRS1LSzZGU2VGQkZjVFB4eWxGSkpHRFJMX2RnZXVkbzF2bWVGb3I0cU95?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 22 Oct 2026 18:15:01 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -185,20 +149,39 @@
     ],
     "geopolitico": [
       {
-        "external_id": "e9d9acf2b63eb4f097dc185e",
+        "external_id": "e44dd234fbf6759bcf6b3826",
         "mode": "geopolitico",
-        "title": "Fidan, Erdoğan'ın Yunanistan'a teklifini açıkladı: '2 milyar euro harcayacağına bizden al' - Gazete Oksijen",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUdTcjFkdmgxeTV1U0RHTHlSanNvTHFUOG1ISXRtWWFiUUtNM1d1MG9ZTXZFOWprOVJIdm9nd0tyeUx1Mk43eWF2ZjE5TDYzU25USTFEQzV3VWNNVjZnV3oxSUFfcGg4QlZERmVKSWJMTjUyV21zZXJXdE5kSEdGdWdJWmRVcWJKa0NMTjRyOXFsZlM4d2p6ckswYS1ERzlGWnJuZ1E3R2ZzYTFMM1drZVVGSTRtenp0ZTFmeGo1SU8?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 22 Oct 2026 21:55:11 GMT",
-        "base_score": 96,
-        "candidate_score": 106,
+        "title": "Greece must build the defence industry Europe needs, starting with Israel - https://tanea.com.au/",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2lvTmxsSGdEdTV5eUV2WDNjcmlQdWNoTDNqTTI0MFpoM0wxQ1BiNk1fMVg4LW85bWFBSnJVSUd0S0FNN0tLSGtyb0RGTW85WGtsQVZzUHBSaUlSTkp0NkVJOW9fcjM2QzN6TVF5VGk1MEhDRVowYVlhR2hqbTRxSk9wOU9Ua21sWEpNRTR1cGJQOUxteGJVVlpaMGhkZw?oc=5",
+        "source": "Line of State Shay Gal Watch",
+        "published": "Fri, 23 Oct 2026 04:30:38 GMT",
+        "base_score": 98,
+        "candidate_score": 113,
         "priority": "URGENT",
         "matched_keywords": [
-          "Yunanistan",
+          "Greece",
+          "Israel",
+          "defence",
+          "industry",
+          "defence industry"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "20aca518cade41896d11339c",
+        "mode": "geopolitico",
+        "title": "Hakan Fidan'dan 'Güney Kıbrıs' stratejisi! - Yeni Akit Gazetesi",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmp5cHFZcVBxME5uVHhtcVlsbGRCeEFnMmhTMkJvSHBveWo1QnhNSTJLcjliZi10dzBxUXdxQ2JKSGQ0dk1IeWdhV3FKdDV4RHZJTDQtcjdjSHdSc3FMcXR2Z1N1MDVtQTFmYTBEaFlhejRMdE50NlpjNV9DQzhnYW40eVRBOEM3eWFoYUh30gGKAUFVX3lxTFBkbmpiMEZKeDlnSDFBd3JwRmZVbGdqelFNZVZKdG1LZ2FZbkR6OUlQbktEM0p3OVJWbEFvV2ZzckJ2ZVRaOVlDeHZpY2NieTZFZF9sUVFRa3kyY1dGMFMwdzdIV1F5MmhqUWxvdVliNjhFSnFxX2NlbnJ4VERKQzlBbFJfRDZkOWxDdw?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 23 Oct 2026 04:22:54 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
           "Fidan",
-          "Fidan",
-          "Erdoğan"
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "Fidan"
         ],
         "content_type": "turkey_greece"
       },
@@ -245,7 +228,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 22 Oct 2026 10:45:28 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -263,7 +246,7 @@
         "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
         "published": "Thu, 22 Oct 2026 09:18:36 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -271,24 +254,6 @@
           "Israel Greece",
           "Iran",
           "sanctions"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "c84493eb73d88279647c0b2e",
-        "mode": "geopolitico",
-        "title": "India wants good ties with Pakistan but won’t ignore terrorism, says Jaishankar - Firstpost",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDlVcV9ueGJkV3d6MU9ubGR5RlRReXNhTnIwdGVjTFlfNzFPUHBEdXlPRjRMYV9vRURRWDVzN1pRQWt6ZTF6VlNTeUVYb3BIM2p2NG5YY2cyd3YyMUVBb1pDSFhyZTJSTmxzXzZhYTVpRXpjNDk1VC1scU5GUTN0QnlMeDVneGJpbWxiT0gzdGFSUDBTWnlzTV9JM1VnNXJZWF95T1A1eS1zVktkV05RcXk1TjlrSGN2YXY0UzhMenHSAcYBQVVfeXFMTVpsS0dPQ09kUl9sbFlUU3JCUm1URWpfRktfQTlUMWRTaDQyMGcwdkM0VG9Ram9CT3NsQUdDR1F1VTJwMm5hTWZNZVp5OGhVczhVUTkxQzJrb2dQSjBGTXNyT2x3bExCb1dtbDJRb05ERTNibElicU1HYTBrTktzNzl5QXI3aTFBaldUdExLU1dfZnVPSU1tVjhSdVFwc3lwRzBob0xHOWRZdmRYVDdKcDVRaDN1LS1JeGo2b1ViZXBwbzJXTHNR?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Thu, 22 Oct 2026 18:08:50 GMT",
-        "base_score": 94,
-        "candidate_score": 104,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Jaishankar",
-          "terrorism"
         ],
         "content_type": "news"
       },
@@ -310,20 +275,19 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "d60cf2f7740e1f571610cacc",
+        "external_id": "a659700d7fa1a71f921a8436",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de Ankara'nın dediği oldu! Güney Kıbrıs Türkiye'den izin almak zorunda kaldı - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONjMwazYtbHQ5WHZPbDNuU3dZTno4Zy1PT1lHcXc4bVdyWGxvWWthVE1aczNVYTJxSmt1UGRLVXl4Yy1LSC1WQVJfYkZ1dlNkNHcyN2FWa3gwQkFZeW41bEhJWGNDemdqa1lra0s5WEl1aUs1TDROWmxsdm9HcklKSXpNQlY1c3lUYUtPa0N5YXNzNkRpdE5XZmVwTG9iQWFyUFR3bl9nVGtGMDNycXFtVEJya29YWjhOcFVUeUJ3cmxZTnY1dnNJbUdNeEhfeW_SAc8BQVVfeXFMTjYzMGs2LWx0OVh2T2wzblN3WU56OGctT09ZR3F3OG1Xclhsb1lrYVRNWnMzVWEycUprdVBkS1V5eGMtS0gtVkFSX2JGdXZTZDR3MjdhVmt4MEJBWXluNWxISVhjQ3pnamtZa2tLOVhJdWlLNUw0TlpsbHZvR3JJSkl6TUJWNXN5VGFLT2tDeWFzczZEaXROV2ZlcExvYkFhclBUd25fZ1RrRjAzcnFxbVRCcmtvWFo4TnBVVHlCd3JsWU52NXZzSW1HTXhIX3lv?oc=5",
-        "source": "Turkish Greek Relations Deep Watch",
-        "published": "Thu, 22 Oct 2026 03:46:57 GMT",
+        "title": "Yunanistan Türkiye-Libya mutabakatını ilk kez BM Güvenlik Konseyi’ne taşıdı - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3ZUS3FzSHZ1WVlzVlZ3amp3c3BlNk96NFhvajR3dDFoSElMc0poeVVkbFlsSE9ZR3RWajczODFYSUZqRGNfWlZvODJmNHRyb05nTXhPcDFTZjcwOHNMbGZDVGlIOWVfSnZOclZ1d1d1Z29UQXpRVkVMSzF4NFRWZ1pCampiTjEtMHJYSElJUzBpM1NsTHNjZFZFUXk3TXky?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Thu, 22 Oct 2026 04:34:31 GMT",
         "base_score": 100,
         "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
-          "Doğu Akdeniz",
+          "Yunanistan",
           "Kıbrıs",
-          "Güney Kıbrıs",
-          "Ankara"
+          "Yunanistan Türkiye"
         ],
         "content_type": "turkey_greece"
       }
@@ -365,6 +329,22 @@
         "content_type": "news"
       },
       {
+        "external_id": "65683b1d4543e20742ee5ffc",
+        "mode": "pontos_voice",
+        "title": "Σοφία Αμπερίδου: «Δεν έχουμε έναν Ψηλορείτη… Έχουμε τη Σουμελά» – Η πατρίδα που άνθισε αλλού - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckNYbW40ZlZTRkdNTlhqX1ZzSi1ZR0VmQkhFN1ZPTWNzYjh6Y3R5ZkJrM2pxNWk1OUFKa3doVmstVTRjOXRQOUQtOGVCRmZWTXEyMVpGRnZyMEphbENoc1RSMXN5S01fMEpRQTl6d3dva2pRVXAyRld6TmVxZWZBQ1RpRi03cXlpRmVWY1Yzc2dqcjZOZnJfODhXdVBqQmlnbDhmNGp3?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Fri, 23 Oct 2026 06:20:43 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Pontos",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "151974387e050e2a64da5cdd",
         "mode": "pontos_voice",
         "title": "Πόντιοι στη Ρωσία: Η έκκληση 100.000 εγκλωβισμένων που ζητούσαν μόνο άδεια εξόδου - pontosnews.gr",
@@ -372,7 +352,7 @@
         "source": "Pontos News Watch",
         "published": "Thu, 22 Oct 2026 10:42:33 GMT",
         "base_score": 78,
-        "candidate_score": 84,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -381,32 +361,15 @@
         "content_type": "news"
       },
       {
-        "external_id": "17b451696fbb71b6dd2171b3",
+        "external_id": "cb1073cd6e7e89a5eea25d60",
         "mode": "pontos_voice",
-        "title": "Ο Ποντιακός Πολιτιστικός Σύλλογος Μαυροβάτου «Το Καρς» στο 8ο Χορωδιακό Μουσικό Σεμινάριο Σαμοθράκης - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVk1TRGtodjhEX1JCSDNfOVZiVk9CUzJndUpQOUx4QnlxOEVCa3QwOWVBMVZZRmZzclA3Vm9PMlhnUXhtMEotX1hSb21sQ3FKdjBqa2FPRllDQTM3OEFRWlVTWkRLMUwtT3MxaHFDQnVLTGh2VGtKdGJlSkFmNVdud1pDVjVsUXRENVkyWHFjRkRnQ2lBYkdOZmlNOHdXNkxRQmpJOWdzdktoNy1qVnM1OEVKME15VFFIVXlHNFJna3FXcWlaMVZlb1RR?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 21 Oct 2026 20:07:04 GMT",
-        "base_score": 80,
-        "candidate_score": 83,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακός",
-          "πολιτιστικός σύλλογος"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "b43528dd2b0d528c8623c024",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor’da Onuachu ve Mustafa gelişmesi! Reis tarih verdi",
-        "url": "https://www.61saat.com/trabzonsporda-onuachu-ve-mustafa-gelismesi-reis-tarih-verdi",
+        "title": "Trabzonspor'un Hearts zaferi sonrası Salah'a övgü yağmuru! “Büyük futbol ustası”",
+        "url": "https://www.61saat.com/trabzonsporun-hearts-zaferi-sonrasi-salaha-ovgu-yagmuru-buyuk-futbol-ustasi",
         "source": "61Saat Trabzon",
-        "published": "Thu, 22 Oct 2026 22:42:00 +0300",
+        "published": "Fri, 23 Oct 2026 09:39:00 +0300",
         "base_score": 57,
-        "candidate_score": 67,
-        "priority": "Normal",
+        "candidate_score": 72,
+        "priority": "High",
         "matched_keywords": [
           "Trabzon",
           "Rumlar",
@@ -415,20 +378,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "aa16a033382a9eac31e5bdb4",
+        "external_id": "34e5209d544616c2479521b2",
         "mode": "pontos_voice",
-        "title": "Trabzon Metrosu'nda yeni gelişme! Çalışmalar o bölgede de başlıyor...",
-        "url": "https://www.61saat.com/trabzon-metrosunda-yeni-gelisme-calismalar-o-bolgede-de-basliyor",
+        "title": "Trabzon merkezli 6 ilde flaş operasyon: 22 şüpheli adliyeye sevk edildi",
+        "url": "https://www.61saat.com/trabzon-merkezli-6-ilde-flas-operasyon-22-supheli-adliyeye-sevk-edildi",
         "source": "61Saat Trabzon",
-        "published": "Thu, 22 Oct 2026 20:25:00 +0300",
-        "base_score": 53,
+        "published": "Fri, 23 Oct 2026 09:53:00 +0300",
+        "base_score": 44,
         "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
-          "bakan",
-          "Trabzon"
+          "Trabzon",
+          "dil"
         ],
         "content_type": "news"
       }
@@ -443,7 +405,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 22 Oct 2026 10:43:29 GMT",
       "base_score": 94,
-      "candidate_score": 120,
+      "candidate_score": 117,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -457,22 +419,43 @@
       "needs_second_source": false
     },
     {
-      "external_id": "987fb7a2b6d843c0f73acca4",
+      "external_id": "46fe1fbdf59721c9167914bc",
       "mode": "sportdog",
-      "title": "Panathinaikos - Wertvollste Abgänge | Page 3 - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcmFhVWdUQ0hYc05VNXlieEVlRFJLRmpsUGNDRlAzcWZZa1lHRFBRaDdZY0E5RUpLeERZdUNZQmNaQ2xjdmJ2NGhGN21Ba1R5U2ZoQl9xODNDYnNNeGNWM2pUVUpmeEx1N0VDSDd0eWRFdGNycHZ2cExENnR6UXhpZUcxamtjM1FaUDhJYmZZSWgtV1dXcDV3bWpDVGJwZHJkR2taSjJodUpFYnV1NE9iUk1B?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 21 Oct 2026 17:05:49 GMT",
-      "base_score": 56,
-      "candidate_score": 76,
+      "title": "Moldovan Footballer Ștefan Colța Signs Three-Year Deal with Olympiacos - logos-pres.md",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNEg4NmNwS0Z4ajB4YURESmRuTUtNbjNkQm1ZVk41U0YwQ0hkRU54QjE5dnJWeFJVWnQyZVBMNEEycGZ2T1NCRVhBZ3VEc1pmUFdITlYycmt6Z2lkeUpMa0ExQ2pUTlBMd1N2aHZQeUpPYzE1bW0yY0dXUWx1ZElrSkxMSlFuaHNpdHRmRTV3RnJmWGxhb2UtOWdiVDdnQy1Lby1JU09GSDNuMEljMnYxWHVIMzhwc2VzVGw4UGItQzgwYnMya2c?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 22 Oct 2026 13:03:54 GMT",
+      "base_score": 66,
+      "candidate_score": 87,
       "priority": "High",
       "matched_keywords": [
-        "Panathinaikos",
-        "transfer"
+        "Olympiacos",
+        "deal",
+        "football"
       ],
       "content_type": "news",
       "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
+      "external_id": "47997ddf0d11826152fc575c",
+      "mode": "sportdog",
+      "title": "Olympiacos sign John Konchar: NBA veteran joins EuroLeague powerhouse on two-year deal - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vekczMkxCa2MzZXEwbUlEUU1kRm1xRXN5Wl9ERms4Ukw3UmkxXzFlN09SanJod1laUHNTLXBsZnpwdkFtWkV2aVFMYzd0dEtWNFZOOGNVRXZ2LUwwVFNGeXpUdHp5UkVIWXNKeEpR?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 22 Oct 2026 16:17:48 GMT",
+      "base_score": 56,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -484,49 +467,11 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 22 Oct 2026 18:29:06 GMT",
       "base_score": 39,
-      "candidate_score": 57,
+      "candidate_score": 53,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
         "forward"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "0037e9bb4401fe6dc01a149c",
-      "mode": "sportdog",
-      "title": "Olympiacos vs. Sparta (23 Oct, 2026) Live Score - ESPN Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hU3JhVUxMb2hGbExoaWV4bmRLeklrRFJQQ1hsMHpDZ2RFaUxkeUtrNmwyMnlfQVpWOTVxVmdnbHI3U3lvUzFkU0FqY25kUkhVYXVSYVd2dmZveTAtbGRBNlpmZm0tYm5N?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 22 Oct 2026 19:24:32 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "90feb0f8d5f3ccf3ffa701ec",
-      "mode": "sportdog",
-      "title": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] Sparta Praha vs Olympiacos LIVE Updates - 北陸地方整備局",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPUWhRNl9jTFVjUUxhY2pXSXotUFcyRHFSV3h1T0lYVU1ZT0Jua1pwMjQ3QVhGYXpLYjBFZFowOXNhQ2lGMWFZR3NJR2FiQ0g5U3RiSXRzMVpNd3RNN185VVhBVzVsYjNuYzNPUHZUdDVmNkc1cGRLdkcxSnZGaEFDWWtNMC1DQ2R5QzlzY0gwV3Q5VWVTU0NBMlZCajlBWk5NbURMSF83U0hONThOcm5QYUxJQWhoUE9lZS1tSG9CZmcybllQNy1sUVI3WnI5dHFzUkt3Qlg2M0tGRTUxaXVuNUJSS3JuQlNqZHdva0oyTk9kZDNrY2E3emJrX1JnajdSRXRfdTNDUlBqZXVMM1BSc3U1VUV2TXd0Rk43bHhNSXQzUl82eFE?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 22 Oct 2026 19:08:56 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -542,26 +487,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 22 Oct 2026 18:26:01 GMT",
       "base_score": 31,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "62acb8af043de17814121f7f",
-      "mode": "sportdog",
-      "title": "[YouTube/LIVE] Panathinaikos vs Baskonia 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 22 october 2026 - 北陸地方整備局",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOc2RpMURjdEpXeWVjdUdMbHJacEp6aFpCd1NwSkticEJNWTl0YjE4eXpEX2ZzTXZSWDVfZVlsbnlGb0o0T1dLSTlsYnVLeC1YTDlLSU01UHF5MHl5aUdBNmtOazFmSW9ONS1oVDNlSEpJZkFMbXJYTHlSZkNoblQwRDltQU5xZDR3aFVBa0xXdEpoN0xoaV9rNHdvQVkyRUFqaFFSa05jcGMtNTdKNVFkWVI0ckhwVjJacHFkcnkxc2wyYkE2eERqTFFWd0JHVHFWNFpBMkVKRVkyQXBJWmpvYjgza1hla2J0YkxQckpCRS1LSzZGU2VGQkZjVFB4eWxGSkpHRFJMX2RnZXVkbzF2bWVGb3I0cU95?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 22 Oct 2026 18:15:01 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -611,20 +537,39 @@
       "needs_second_source": true
     },
     {
-      "external_id": "e9d9acf2b63eb4f097dc185e",
+      "external_id": "e44dd234fbf6759bcf6b3826",
       "mode": "geopolitico",
-      "title": "Fidan, Erdoğan'ın Yunanistan'a teklifini açıkladı: '2 milyar euro harcayacağına bizden al' - Gazete Oksijen",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUdTcjFkdmgxeTV1U0RHTHlSanNvTHFUOG1ISXRtWWFiUUtNM1d1MG9ZTXZFOWprOVJIdm9nd0tyeUx1Mk43eWF2ZjE5TDYzU25USTFEQzV3VWNNVjZnV3oxSUFfcGg4QlZERmVKSWJMTjUyV21zZXJXdE5kSEdGdWdJWmRVcWJKa0NMTjRyOXFsZlM4d2p6ckswYS1ERzlGWnJuZ1E3R2ZzYTFMM1drZVVGSTRtenp0ZTFmeGo1SU8?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 22 Oct 2026 21:55:11 GMT",
-      "base_score": 96,
-      "candidate_score": 106,
+      "title": "Greece must build the defence industry Europe needs, starting with Israel - https://tanea.com.au/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2lvTmxsSGdEdTV5eUV2WDNjcmlQdWNoTDNqTTI0MFpoM0wxQ1BiNk1fMVg4LW85bWFBSnJVSUd0S0FNN0tLSGtyb0RGTW85WGtsQVZzUHBSaUlSTkp0NkVJOW9fcjM2QzN6TVF5VGk1MEhDRVowYVlhR2hqbTRxSk9wOU9Ua21sWEpNRTR1cGJQOUxteGJVVlpaMGhkZw?oc=5",
+      "source": "Line of State Shay Gal Watch",
+      "published": "Fri, 23 Oct 2026 04:30:38 GMT",
+      "base_score": 98,
+      "candidate_score": 113,
       "priority": "URGENT",
       "matched_keywords": [
-        "Yunanistan",
+        "Greece",
+        "Israel",
+        "defence",
+        "industry",
+        "defence industry"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "20aca518cade41896d11339c",
+      "mode": "geopolitico",
+      "title": "Hakan Fidan'dan 'Güney Kıbrıs' stratejisi! - Yeni Akit Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmp5cHFZcVBxME5uVHhtcVlsbGRCeEFnMmhTMkJvSHBveWo1QnhNSTJLcjliZi10dzBxUXdxQ2JKSGQ0dk1IeWdhV3FKdDV4RHZJTDQtcjdjSHdSc3FMcXR2Z1N1MDVtQTFmYTBEaFlhejRMdE50NlpjNV9DQzhnYW40eVRBOEM3eWFoYUh30gGKAUFVX3lxTFBkbmpiMEZKeDlnSDFBd3JwRmZVbGdqelFNZVZKdG1LZ2FZbkR6OUlQbktEM0p3OVJWbEFvV2ZzckJ2ZVRaOVlDeHZpY2NieTZFZF9sUVFRa3kyY1dGMFMwdzdIV1F5MmhqUWxvdVliNjhFSnFxX2NlbnJ4VERKQzlBbFJfRDZkOWxDdw?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 23 Oct 2026 04:22:54 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
         "Fidan",
-        "Fidan",
-        "Erdoğan"
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "Fidan"
       ],
       "content_type": "turkey_greece"
     },
@@ -671,7 +616,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 22 Oct 2026 10:45:28 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -689,7 +634,7 @@
       "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
       "published": "Thu, 22 Oct 2026 09:18:36 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -697,24 +642,6 @@
         "Israel Greece",
         "Iran",
         "sanctions"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "c84493eb73d88279647c0b2e",
-      "mode": "geopolitico",
-      "title": "India wants good ties with Pakistan but won’t ignore terrorism, says Jaishankar - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDlVcV9ueGJkV3d6MU9ubGR5RlRReXNhTnIwdGVjTFlfNzFPUHBEdXlPRjRMYV9vRURRWDVzN1pRQWt6ZTF6VlNTeUVYb3BIM2p2NG5YY2cyd3YyMUVBb1pDSFhyZTJSTmxzXzZhYTVpRXpjNDk1VC1scU5GUTN0QnlMeDVneGJpbWxiT0gzdGFSUDBTWnlzTV9JM1VnNXJZWF95T1A1eS1zVktkV05RcXk1TjlrSGN2YXY0UzhMenHSAcYBQVVfeXFMTVpsS0dPQ09kUl9sbFlUU3JCUm1URWpfRktfQTlUMWRTaDQyMGcwdkM0VG9Ram9CT3NsQUdDR1F1VTJwMm5hTWZNZVp5OGhVczhVUTkxQzJrb2dQSjBGTXNyT2x3bExCb1dtbDJRb05ERTNibElicU1HYTBrTktzNzl5QXI3aTFBaldUdExLU1dfZnVPSU1tVjhSdVFwc3lwRzBob0xHOWRZdmRYVDdKcDVRaDN1LS1JeGo2b1ViZXBwbzJXTHNR?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Thu, 22 Oct 2026 18:08:50 GMT",
-      "base_score": 94,
-      "candidate_score": 104,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Jaishankar",
-        "terrorism"
       ],
       "content_type": "news"
     },
@@ -736,20 +663,19 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "d60cf2f7740e1f571610cacc",
+      "external_id": "a659700d7fa1a71f921a8436",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de Ankara'nın dediği oldu! Güney Kıbrıs Türkiye'den izin almak zorunda kaldı - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONjMwazYtbHQ5WHZPbDNuU3dZTno4Zy1PT1lHcXc4bVdyWGxvWWthVE1aczNVYTJxSmt1UGRLVXl4Yy1LSC1WQVJfYkZ1dlNkNHcyN2FWa3gwQkFZeW41bEhJWGNDemdqa1lra0s5WEl1aUs1TDROWmxsdm9HcklKSXpNQlY1c3lUYUtPa0N5YXNzNkRpdE5XZmVwTG9iQWFyUFR3bl9nVGtGMDNycXFtVEJya29YWjhOcFVUeUJ3cmxZTnY1dnNJbUdNeEhfeW_SAc8BQVVfeXFMTjYzMGs2LWx0OVh2T2wzblN3WU56OGctT09ZR3F3OG1Xclhsb1lrYVRNWnMzVWEycUprdVBkS1V5eGMtS0gtVkFSX2JGdXZTZDR3MjdhVmt4MEJBWXluNWxISVhjQ3pnamtZa2tLOVhJdWlLNUw0TlpsbHZvR3JJSkl6TUJWNXN5VGFLT2tDeWFzczZEaXROV2ZlcExvYkFhclBUd25fZ1RrRjAzcnFxbVRCcmtvWFo4TnBVVHlCd3JsWU52NXZzSW1HTXhIX3lv?oc=5",
-      "source": "Turkish Greek Relations Deep Watch",
-      "published": "Thu, 22 Oct 2026 03:46:57 GMT",
+      "title": "Yunanistan Türkiye-Libya mutabakatını ilk kez BM Güvenlik Konseyi’ne taşıdı - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3ZUS3FzSHZ1WVlzVlZ3amp3c3BlNk96NFhvajR3dDFoSElMc0poeVVkbFlsSE9ZR3RWajczODFYSUZqRGNfWlZvODJmNHRyb05nTXhPcDFTZjcwOHNMbGZDVGlIOWVfSnZOclZ1d1d1Z29UQXpRVkVMSzF4NFRWZ1pCampiTjEtMHJYSElJUzBpM1NsTHNjZFZFUXk3TXky?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Thu, 22 Oct 2026 04:34:31 GMT",
       "base_score": 100,
       "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
-        "Doğu Akdeniz",
+        "Yunanistan",
         "Kıbrıs",
-        "Güney Kıbrıs",
-        "Ankara"
+        "Yunanistan Türkiye"
       ],
       "content_type": "turkey_greece"
     },
@@ -789,6 +715,22 @@
       "content_type": "news"
     },
     {
+      "external_id": "65683b1d4543e20742ee5ffc",
+      "mode": "pontos_voice",
+      "title": "Σοφία Αμπερίδου: «Δεν έχουμε έναν Ψηλορείτη… Έχουμε τη Σουμελά» – Η πατρίδα που άνθισε αλλού - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckNYbW40ZlZTRkdNTlhqX1ZzSi1ZR0VmQkhFN1ZPTWNzYjh6Y3R5ZkJrM2pxNWk1OUFKa3doVmstVTRjOXRQOUQtOGVCRmZWTXEyMVpGRnZyMEphbENoc1RSMXN5S01fMEpRQTl6d3dva2pRVXAyRld6TmVxZWZBQ1RpRi03cXlpRmVWY1Yzc2dqcjZOZnJfODhXdVBqQmlnbDhmNGp3?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Fri, 23 Oct 2026 06:20:43 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Pontos",
+        "Σουμελά"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "151974387e050e2a64da5cdd",
       "mode": "pontos_voice",
       "title": "Πόντιοι στη Ρωσία: Η έκκληση 100.000 εγκλωβισμένων που ζητούσαν μόνο άδεια εξόδου - pontosnews.gr",
@@ -796,7 +738,7 @@
       "source": "Pontos News Watch",
       "published": "Thu, 22 Oct 2026 10:42:33 GMT",
       "base_score": 78,
-      "candidate_score": 84,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -805,32 +747,15 @@
       "content_type": "news"
     },
     {
-      "external_id": "17b451696fbb71b6dd2171b3",
+      "external_id": "cb1073cd6e7e89a5eea25d60",
       "mode": "pontos_voice",
-      "title": "Ο Ποντιακός Πολιτιστικός Σύλλογος Μαυροβάτου «Το Καρς» στο 8ο Χορωδιακό Μουσικό Σεμινάριο Σαμοθράκης - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVk1TRGtodjhEX1JCSDNfOVZiVk9CUzJndUpQOUx4QnlxOEVCa3QwOWVBMVZZRmZzclA3Vm9PMlhnUXhtMEotX1hSb21sQ3FKdjBqa2FPRllDQTM3OEFRWlVTWkRLMUwtT3MxaHFDQnVLTGh2VGtKdGJlSkFmNVdud1pDVjVsUXRENVkyWHFjRkRnQ2lBYkdOZmlNOHdXNkxRQmpJOWdzdktoNy1qVnM1OEVKME15VFFIVXlHNFJna3FXcWlaMVZlb1RR?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 21 Oct 2026 20:07:04 GMT",
-      "base_score": 80,
-      "candidate_score": 83,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακός",
-        "πολιτιστικός σύλλογος"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "b43528dd2b0d528c8623c024",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor’da Onuachu ve Mustafa gelişmesi! Reis tarih verdi",
-      "url": "https://www.61saat.com/trabzonsporda-onuachu-ve-mustafa-gelismesi-reis-tarih-verdi",
+      "title": "Trabzonspor'un Hearts zaferi sonrası Salah'a övgü yağmuru! “Büyük futbol ustası”",
+      "url": "https://www.61saat.com/trabzonsporun-hearts-zaferi-sonrasi-salaha-ovgu-yagmuru-buyuk-futbol-ustasi",
       "source": "61Saat Trabzon",
-      "published": "Thu, 22 Oct 2026 22:42:00 +0300",
+      "published": "Fri, 23 Oct 2026 09:39:00 +0300",
       "base_score": 57,
-      "candidate_score": 67,
-      "priority": "Normal",
+      "candidate_score": 72,
+      "priority": "High",
       "matched_keywords": [
         "Trabzon",
         "Rumlar",
@@ -839,20 +764,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "aa16a033382a9eac31e5bdb4",
+      "external_id": "34e5209d544616c2479521b2",
       "mode": "pontos_voice",
-      "title": "Trabzon Metrosu'nda yeni gelişme! Çalışmalar o bölgede de başlıyor...",
-      "url": "https://www.61saat.com/trabzon-metrosunda-yeni-gelisme-calismalar-o-bolgede-de-basliyor",
+      "title": "Trabzon merkezli 6 ilde flaş operasyon: 22 şüpheli adliyeye sevk edildi",
+      "url": "https://www.61saat.com/trabzon-merkezli-6-ilde-flas-operasyon-22-supheli-adliyeye-sevk-edildi",
       "source": "61Saat Trabzon",
-      "published": "Thu, 22 Oct 2026 20:25:00 +0300",
-      "base_score": 53,
+      "published": "Fri, 23 Oct 2026 09:53:00 +0300",
+      "base_score": 44,
       "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
-        "bakan",
-        "Trabzon"
+        "Trabzon",
+        "dil"
       ],
       "content_type": "news"
     }
