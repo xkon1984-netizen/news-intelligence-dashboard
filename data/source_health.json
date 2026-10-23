@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-23T20:37:41.446119+00:00",
+  "generated_at": "2026-10-23T23:34:53.951171+00:00",
   "sources": [
     {
       "source": "NATO News",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:41.446130+00:00",
+      "checked_at": "2026-10-23T23:34:53.951181+00:00",
       "status": "error",
       "entries": 0,
       "accepted": 0,
@@ -13,16 +13,16 @@
     {
       "source": "Defense News",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:43.509615+00:00",
+      "checked_at": "2026-10-23T23:34:55.946102+00:00",
       "status": "ok",
-      "entries": 25,
-      "accepted": 2,
+      "entries": 10,
+      "accepted": 1,
       "error": ""
     },
     {
       "source": "Breaking Defense Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:43.733209+00:00",
+      "checked_at": "2026-10-23T23:34:56.055911+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 35,
@@ -31,7 +31,7 @@
     {
       "source": "Janes Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:44.435484+00:00",
+      "checked_at": "2026-10-23T23:34:56.835415+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 23,
@@ -40,16 +40,16 @@
     {
       "source": "The War Zone Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:45.094707+00:00",
+      "checked_at": "2026-10-23T23:34:57.458237+00:00",
       "status": "ok",
-      "entries": 70,
-      "accepted": 36,
+      "entries": 100,
+      "accepted": 33,
       "error": ""
     },
     {
       "source": "RUSI Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:45.571319+00:00",
+      "checked_at": "2026-10-23T23:34:58.135769+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 24,
@@ -58,7 +58,7 @@
     {
       "source": "ISW Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:46.276294+00:00",
+      "checked_at": "2026-10-23T23:34:58.852982+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 3,
@@ -67,43 +67,43 @@
     {
       "source": "Middle East Forum Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:46.965062+00:00",
+      "checked_at": "2026-10-23T23:34:59.537045+00:00",
       "status": "ok",
-      "entries": 85,
-      "accepted": 25,
+      "entries": 100,
+      "accepted": 21,
       "error": ""
     },
     {
       "source": "Hudson Institute Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:47.493316+00:00",
+      "checked_at": "2026-10-23T23:35:00.185173+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 24,
+      "accepted": 23,
       "error": ""
     },
     {
       "source": "RIEAS Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:48.236819+00:00",
+      "checked_at": "2026-10-23T23:35:00.861185+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 39,
+      "accepted": 40,
       "error": ""
     },
     {
       "source": "The National Interest Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:48.886977+00:00",
+      "checked_at": "2026-10-23T23:35:01.516804+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 15,
+      "accepted": 14,
       "error": ""
     },
     {
       "source": "Observer Research Foundation ORF",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:49.609045+00:00",
+      "checked_at": "2026-10-23T23:35:02.196679+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 31,
@@ -112,7 +112,7 @@
     {
       "source": "European Centre for Law and Justice ECLJ",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:50.330320+00:00",
+      "checked_at": "2026-10-23T23:35:02.837319+00:00",
       "status": "ok",
       "entries": 59,
       "accepted": 0,
@@ -121,7 +121,7 @@
     {
       "source": "Foreign Policy Research Institute FPRI",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:50.793162+00:00",
+      "checked_at": "2026-10-23T23:35:03.225749+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 10,
@@ -130,7 +130,7 @@
     {
       "source": "Nordic Monitor",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:51.473834+00:00",
+      "checked_at": "2026-10-23T23:35:03.820462+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 20,
@@ -139,25 +139,25 @@
     {
       "source": "EU Institute for Security Studies EUISS",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:52.161031+00:00",
+      "checked_at": "2026-10-23T23:35:04.550545+00:00",
       "status": "ok",
-      "entries": 100,
-      "accepted": 8,
+      "entries": 66,
+      "accepted": 7,
       "error": ""
     },
     {
       "source": "CSIS Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:52.859727+00:00",
+      "checked_at": "2026-10-23T23:35:05.084834+00:00",
       "status": "ok",
-      "entries": 100,
-      "accepted": 4,
+      "entries": 86,
+      "accepted": 2,
       "error": ""
     },
     {
       "source": "Belgrade Centre for Security Policy BCSP",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:53.613527+00:00",
+      "checked_at": "2026-10-23T23:35:05.661265+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 1,
@@ -166,25 +166,25 @@
     {
       "source": "Council on Foreign Relations CFR",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:54.261797+00:00",
+      "checked_at": "2026-10-23T23:35:06.239589+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 7,
+      "accepted": 6,
       "error": ""
     },
     {
       "source": "Foundation for Defense of Democracies FDD",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:54.930262+00:00",
+      "checked_at": "2026-10-23T23:35:06.889781+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 40,
+      "accepted": 41,
       "error": ""
     },
     {
       "source": "Yetkin Report Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:55.597720+00:00",
+      "checked_at": "2026-10-23T23:35:07.488438+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 14,
@@ -193,7 +193,7 @@
     {
       "source": "DefenceXP India Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:56.236515+00:00",
+      "checked_at": "2026-10-23T23:35:08.129618+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 55,
@@ -202,7 +202,7 @@
     {
       "source": "Line of State Shay Gal Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:57.000664+00:00",
+      "checked_at": "2026-10-23T23:35:08.931444+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 37,
@@ -211,34 +211,34 @@
     {
       "source": "SouthFront Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:57.661711+00:00",
+      "checked_at": "2026-10-23T23:35:09.593674+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 3,
+      "accepted": 2,
       "error": ""
     },
     {
       "source": "Greece Turkey Aegean Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:58.248232+00:00",
+      "checked_at": "2026-10-23T23:35:10.218571+00:00",
       "status": "ok",
-      "entries": 30,
-      "accepted": 24,
+      "entries": 31,
+      "accepted": 25,
       "error": ""
     },
     {
       "source": "Cyprus Eastern Mediterranean Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:58.655998+00:00",
+      "checked_at": "2026-10-23T23:35:10.694761+00:00",
       "status": "ok",
-      "entries": 54,
-      "accepted": 45,
+      "entries": 55,
+      "accepted": 46,
       "error": ""
     },
     {
       "source": "Greece India Strategic Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:59.249235+00:00",
+      "checked_at": "2026-10-23T23:35:11.219194+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 72,
@@ -247,7 +247,7 @@
     {
       "source": "Greece Israel Strategic Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:00.089992+00:00",
+      "checked_at": "2026-10-23T23:35:11.860639+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 73,
@@ -256,7 +256,7 @@
     {
       "source": "Greece Cyprus Israel Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:00.924810+00:00",
+      "checked_at": "2026-10-23T23:35:12.753272+00:00",
       "status": "ok",
       "entries": 29,
       "accepted": 19,
@@ -265,16 +265,16 @@
     {
       "source": "Pakistan Security Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:01.789310+00:00",
+      "checked_at": "2026-10-23T23:35:13.196381+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 48,
+      "accepted": 47,
       "error": ""
     },
     {
       "source": "Pakistan Turkey Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:02.521616+00:00",
+      "checked_at": "2026-10-23T23:35:13.921358+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 53,
@@ -283,16 +283,16 @@
     {
       "source": "Pakistan Greece Migration Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:03.243122+00:00",
+      "checked_at": "2026-10-23T23:35:14.689283+00:00",
       "status": "ok",
-      "entries": 61,
-      "accepted": 52,
+      "entries": 18,
+      "accepted": 17,
       "error": ""
     },
     {
       "source": "China Strategic Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:03.768164+00:00",
+      "checked_at": "2026-10-23T23:35:15.070686+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 31,
@@ -301,16 +301,16 @@
     {
       "source": "F35 Drone Navy Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:04.612870+00:00",
+      "checked_at": "2026-10-23T23:35:15.924022+00:00",
       "status": "ok",
       "entries": 59,
-      "accepted": 35,
+      "accepted": 36,
       "error": ""
     },
     {
       "source": "61Saat Trabzon",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:05.302023+00:00",
+      "checked_at": "2026-10-23T23:35:17.121808+00:00",
       "status": "ok",
       "entries": 31,
       "accepted": 24,
@@ -319,25 +319,25 @@
     {
       "source": "Sayfa61 Trabzon",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:05.596020+00:00",
+      "checked_at": "2026-10-23T23:35:17.384653+00:00",
       "status": "ok",
-      "entries": 48,
+      "entries": 47,
       "accepted": 5,
       "error": ""
     },
     {
       "source": "Haber61 Trabzon",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:05.921642+00:00",
+      "checked_at": "2026-10-23T23:35:17.853206+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 45,
+      "accepted": 46,
       "error": ""
     },
     {
       "source": "Gumushane.gen.tr",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:06.415057+00:00",
+      "checked_at": "2026-10-23T23:35:18.370665+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 0,
@@ -346,7 +346,7 @@
     {
       "source": "Ordu Yorum",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:07.038265+00:00",
+      "checked_at": "2026-10-23T23:35:18.863493+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 0,
@@ -355,7 +355,7 @@
     {
       "source": "Greek Press Pontic Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:07.516443+00:00",
+      "checked_at": "2026-10-23T23:35:19.374311+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 74,
@@ -364,7 +364,7 @@
     {
       "source": "Greek Press Pontic Genocide Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:08.108686+00:00",
+      "checked_at": "2026-10-23T23:35:19.916093+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 55,
@@ -373,25 +373,25 @@
     {
       "source": "Greek Press Pontic Culture Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:08.755667+00:00",
+      "checked_at": "2026-10-23T23:35:20.491150+00:00",
       "status": "ok",
-      "entries": 46,
-      "accepted": 31,
+      "entries": 48,
+      "accepted": 32,
       "error": ""
     },
     {
       "source": "Greek Press Pontic Heritage Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:09.181661+00:00",
+      "checked_at": "2026-10-23T23:35:20.926088+00:00",
       "status": "ok",
-      "entries": 9,
-      "accepted": 5,
+      "entries": 10,
+      "accepted": 6,
       "error": ""
     },
     {
       "source": "Efxinos Pontos Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:09.611899+00:00",
+      "checked_at": "2026-10-23T23:35:21.266741+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 75,
@@ -400,7 +400,7 @@
     {
       "source": "Pontos News Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:10.206161+00:00",
+      "checked_at": "2026-10-23T23:35:21.833808+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 75,
@@ -409,7 +409,7 @@
     {
       "source": "Kathimerini Pontic Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:10.772856+00:00",
+      "checked_at": "2026-10-23T23:35:22.392278+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 22,
@@ -418,7 +418,7 @@
     {
       "source": "ERT Pontic Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:11.236846+00:00",
+      "checked_at": "2026-10-23T23:35:22.907348+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 0,
@@ -427,16 +427,16 @@
     {
       "source": "ANA MPA Pontic Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:11.835644+00:00",
+      "checked_at": "2026-10-23T23:35:23.457459+00:00",
       "status": "ok",
-      "entries": 32,
+      "entries": 31,
       "accepted": 4,
       "error": ""
     },
     {
       "source": "Sportdog Greek Transfer Scenarios",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:12.139513+00:00",
+      "checked_at": "2026-10-23T23:35:23.697727+00:00",
       "status": "ok",
       "entries": 76,
       "accepted": 0,
@@ -445,16 +445,16 @@
     {
       "source": "Olympiacos Rumour Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:12.750430+00:00",
+      "checked_at": "2026-10-23T23:35:24.222497+00:00",
       "status": "ok",
-      "entries": 27,
-      "accepted": 25,
+      "entries": 31,
+      "accepted": 28,
       "error": ""
     },
     {
       "source": "Panathinaikos Rumour Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:13.177455+00:00",
+      "checked_at": "2026-10-23T23:35:24.668718+00:00",
       "status": "ok",
       "entries": 5,
       "accepted": 4,
@@ -463,25 +463,25 @@
     {
       "source": "AEK Rumour Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:13.555673+00:00",
+      "checked_at": "2026-10-23T23:35:25.047883+00:00",
       "status": "ok",
-      "entries": 42,
-      "accepted": 25,
+      "entries": 48,
+      "accepted": 21,
       "error": ""
     },
     {
       "source": "PAOK Rumour Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:14.104195+00:00",
+      "checked_at": "2026-10-23T23:35:25.536056+00:00",
       "status": "ok",
-      "entries": 2,
-      "accepted": 1,
+      "entries": 3,
+      "accepted": 2,
       "error": ""
     },
     {
       "source": "Aris Rumour Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:14.410170+00:00",
+      "checked_at": "2026-10-23T23:35:25.913422+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -490,7 +490,7 @@
     {
       "source": "Transfer Insiders Greece Only",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:14.681715+00:00",
+      "checked_at": "2026-10-23T23:35:26.226470+00:00",
       "status": "ok",
       "entries": 36,
       "accepted": 0,
@@ -499,7 +499,7 @@
     {
       "source": "TransferFeed Greek Super League",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:15.156102+00:00",
+      "checked_at": "2026-10-23T23:35:26.722110+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 0,
@@ -508,34 +508,34 @@
     {
       "source": "Turkey Greece Breaking Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:16.039454+00:00",
+      "checked_at": "2026-10-23T23:35:27.358286+00:00",
       "status": "ok",
-      "entries": 39,
-      "accepted": 29,
+      "entries": 36,
+      "accepted": 28,
       "error": ""
     },
     {
       "source": "Aegean Turkey Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:17.372575+00:00",
+      "checked_at": "2026-10-23T23:35:28.360949+00:00",
       "status": "ok",
       "entries": 8,
-      "accepted": 3,
+      "accepted": 2,
       "error": ""
     },
     {
       "source": "Eastern Mediterranean Turkey Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:18.185213+00:00",
+      "checked_at": "2026-10-23T23:35:29.223573+00:00",
       "status": "ok",
-      "entries": 83,
-      "accepted": 47,
+      "entries": 65,
+      "accepted": 45,
       "error": ""
     },
     {
       "source": "Anadolu Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:19.407728+00:00",
+      "checked_at": "2026-10-23T23:35:30.343272+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 2,
@@ -544,7 +544,7 @@
     {
       "source": "TRT Haber Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:20.508286+00:00",
+      "checked_at": "2026-10-23T23:35:31.312632+00:00",
       "status": "ok",
       "entries": 1,
       "accepted": 0,
@@ -553,16 +553,16 @@
     {
       "source": "CNN Turk Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:20.911580+00:00",
+      "checked_at": "2026-10-23T23:35:31.793993+00:00",
       "status": "ok",
-      "entries": 81,
+      "entries": 64,
       "accepted": 4,
       "error": ""
     },
     {
       "source": "Hurriyet Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:21.900347+00:00",
+      "checked_at": "2026-10-23T23:35:32.759997+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 2,
@@ -571,7 +571,7 @@
     {
       "source": "Milliyet Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:23.056211+00:00",
+      "checked_at": "2026-10-23T23:35:33.924965+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 2,
@@ -580,70 +580,70 @@
     {
       "source": "Sabah Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:24.298885+00:00",
+      "checked_at": "2026-10-23T23:35:34.990581+00:00",
       "status": "ok",
-      "entries": 50,
+      "entries": 58,
       "accepted": 1,
       "error": ""
     },
     {
       "source": "Yeni Safak Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:25.228814+00:00",
+      "checked_at": "2026-10-23T23:35:35.979433+00:00",
       "status": "ok",
-      "entries": 88,
+      "entries": 85,
       "accepted": 3,
       "error": ""
     },
     {
       "source": "Sozcu Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:26.281342+00:00",
+      "checked_at": "2026-10-23T23:35:36.903004+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 1,
+      "accepted": 2,
       "error": ""
     },
     {
       "source": "Cumhuriyet Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:27.432225+00:00",
+      "checked_at": "2026-10-23T23:35:37.956674+00:00",
       "status": "ok",
-      "entries": 32,
+      "entries": 36,
       "accepted": 1,
       "error": ""
     },
     {
       "source": "NTV Turkey Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:28.453004+00:00",
+      "checked_at": "2026-10-23T23:35:38.854487+00:00",
       "status": "ok",
-      "entries": 13,
+      "entries": 21,
       "accepted": 1,
       "error": ""
     },
     {
       "source": "Haber7 Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:29.309952+00:00",
-      "status": "ok",
-      "entries": 100,
-      "accepted": 11,
-      "error": ""
-    },
-    {
-      "source": "Yeni Akit Greece Watch",
-      "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:30.490080+00:00",
+      "checked_at": "2026-10-23T23:35:39.673522+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 9,
       "error": ""
     },
     {
+      "source": "Yeni Akit Greece Watch",
+      "category": "turkey_greece",
+      "checked_at": "2026-10-23T23:35:40.672986+00:00",
+      "status": "ok",
+      "entries": 100,
+      "accepted": 13,
+      "error": ""
+    },
+    {
       "source": "Haber Global Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:31.877664+00:00",
+      "checked_at": "2026-10-23T23:35:41.617898+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -652,34 +652,34 @@
     {
       "source": "TGRT Haber Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:32.105297+00:00",
+      "checked_at": "2026-10-23T23:35:41.872889+00:00",
       "status": "ok",
-      "entries": 35,
+      "entries": 34,
       "accepted": 3,
       "error": ""
     },
     {
       "source": "Turkiye Gazetesi Greece Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:33.054552+00:00",
+      "checked_at": "2026-10-23T23:35:42.708016+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 4,
+      "accepted": 3,
       "error": ""
     },
     {
       "source": "Turkish Greek Defence Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:34.339974+00:00",
+      "checked_at": "2026-10-23T23:35:43.867280+00:00",
       "status": "ok",
-      "entries": 57,
-      "accepted": 42,
+      "entries": 56,
+      "accepted": 44,
       "error": ""
     },
     {
       "source": "Turkish Greek Relations Deep Watch",
       "category": "turkey_greece",
-      "checked_at": "2026-10-23T20:38:35.512677+00:00",
+      "checked_at": "2026-10-23T23:35:44.875923+00:00",
       "status": "ok",
       "entries": 41,
       "accepted": 29,
@@ -688,25 +688,25 @@
     {
       "source": "Walla Israel Greece Turkey Cyprus IMEC Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:36.700565+00:00",
+      "checked_at": "2026-10-23T23:35:45.990810+00:00",
       "status": "ok",
-      "entries": 65,
+      "entries": 64,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "INSS Eastern Mediterranean IMEC Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:37.226505+00:00",
+      "checked_at": "2026-10-23T23:35:46.491559+00:00",
       "status": "ok",
-      "entries": 20,
-      "accepted": 3,
+      "entries": 22,
+      "accepted": 4,
       "error": ""
     },
     {
       "source": "JISS Eastern Mediterranean IMEC Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:37.598212+00:00",
+      "checked_at": "2026-10-23T23:35:46.873783+00:00",
       "status": "ok",
       "entries": 5,
       "accepted": 0,
@@ -715,7 +715,7 @@
     {
       "source": "BESA Center Eastern Mediterranean Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:38.006151+00:00",
+      "checked_at": "2026-10-23T23:35:47.215948+00:00",
       "status": "ok",
       "entries": 4,
       "accepted": 2,
@@ -724,7 +724,7 @@
     {
       "source": "Mitvim Eastern Mediterranean Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:38.297889+00:00",
+      "checked_at": "2026-10-23T23:35:47.518796+00:00",
       "status": "ok",
       "entries": 4,
       "accepted": 3,
@@ -733,7 +733,7 @@
     {
       "source": "Alma Research Israel Regional Security Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:38.641388+00:00",
+      "checked_at": "2026-10-23T23:35:48.313072+00:00",
       "status": "ok",
       "entries": 5,
       "accepted": 4,
@@ -742,25 +742,25 @@
     {
       "source": "Greek National Issues Breaking Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:38.981817+00:00",
+      "checked_at": "2026-10-23T23:35:49.071868+00:00",
       "status": "ok",
-      "entries": 7,
+      "entries": 11,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "Greek Defence Security Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:39.339816+00:00",
+      "checked_at": "2026-10-23T23:35:49.404619+00:00",
       "status": "ok",
-      "entries": 12,
+      "entries": 22,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "Greek Cyprus Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:39.627717+00:00",
+      "checked_at": "2026-10-23T23:35:49.775155+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 1,
@@ -769,7 +769,7 @@
     {
       "source": "Kathimerini National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:40.284748+00:00",
+      "checked_at": "2026-10-23T23:35:50.401040+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 1,
@@ -778,25 +778,25 @@
     {
       "source": "To Vima National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:40.899298+00:00",
+      "checked_at": "2026-10-23T23:35:50.926998+00:00",
       "status": "ok",
-      "entries": 62,
+      "entries": 55,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "Ta Nea National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:41.293920+00:00",
+      "checked_at": "2026-10-23T23:35:51.259955+00:00",
       "status": "ok",
-      "entries": 99,
+      "entries": 100,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "Naftemporiki National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:41.802080+00:00",
+      "checked_at": "2026-10-23T23:35:51.805856+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 0,
@@ -805,7 +805,7 @@
     {
       "source": "Proto Thema National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:42.588639+00:00",
+      "checked_at": "2026-10-23T23:35:52.396995+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 0,
@@ -814,7 +814,7 @@
     {
       "source": "Capital National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:43.250685+00:00",
+      "checked_at": "2026-10-23T23:35:53.061688+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 0,
@@ -823,7 +823,7 @@
     {
       "source": "Liberal National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:43.818373+00:00",
+      "checked_at": "2026-10-23T23:35:53.565732+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 0,
@@ -832,16 +832,16 @@
     {
       "source": "Newsbreak National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:44.422360+00:00",
+      "checked_at": "2026-10-23T23:35:54.133953+00:00",
       "status": "ok",
-      "entries": 76,
+      "entries": 79,
       "accepted": 1,
       "error": ""
     },
     {
       "source": "Militaire National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:44.872504+00:00",
+      "checked_at": "2026-10-23T23:35:54.755216+00:00",
       "status": "ok",
       "entries": 45,
       "accepted": 0,
@@ -850,7 +850,7 @@
     {
       "source": "Defence Point National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:45.206112+00:00",
+      "checked_at": "2026-10-23T23:35:55.081401+00:00",
       "status": "ok",
       "entries": 94,
       "accepted": 1,
@@ -859,16 +859,16 @@
     {
       "source": "Defence Review National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:45.679901+00:00",
+      "checked_at": "2026-10-23T23:35:55.521464+00:00",
       "status": "ok",
-      "entries": 43,
+      "entries": 44,
       "accepted": 3,
       "error": ""
     },
     {
       "source": "Doureios National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:46.025292+00:00",
+      "checked_at": "2026-10-23T23:35:55.883100+00:00",
       "status": "ok",
       "entries": 2,
       "accepted": 0,
@@ -877,7 +877,7 @@
     {
       "source": "Geostratigika National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:46.251011+00:00",
+      "checked_at": "2026-10-23T23:35:56.129263+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -886,25 +886,25 @@
     {
       "source": "SLpress National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:46.433452+00:00",
+      "checked_at": "2026-10-23T23:35:56.299158+00:00",
       "status": "ok",
-      "entries": 48,
+      "entries": 49,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "Hellas Journal National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:46.798746+00:00",
+      "checked_at": "2026-10-23T23:35:56.692740+00:00",
       "status": "ok",
-      "entries": 86,
+      "entries": 92,
       "accepted": 2,
       "error": ""
     },
     {
       "source": "Pentapostagma National Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:47.375808+00:00",
+      "checked_at": "2026-10-23T23:35:57.269954+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 0,
@@ -913,25 +913,25 @@
     {
       "source": "The Cipher Brief Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:47.964293+00:00",
+      "checked_at": "2026-10-23T23:35:57.793584+00:00",
       "status": "ok",
-      "entries": 82,
+      "entries": 100,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "OSINT613 Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:48.578067+00:00",
+      "checked_at": "2026-10-23T23:35:58.556050+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 1,
+      "accepted": 2,
       "error": ""
     },
     {
       "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:49.281845+00:00",
+      "checked_at": "2026-10-23T23:35:59.163673+00:00",
       "status": "ok",
       "entries": 100,
       "accepted": 11,
@@ -940,7 +940,7 @@
     {
       "source": "Israel Hayom Greece Turkey Cyprus IMEC Analysis",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:49.961609+00:00",
+      "checked_at": "2026-10-23T23:35:59.732986+00:00",
       "status": "ok",
       "entries": 48,
       "accepted": 2,
@@ -949,16 +949,16 @@
     {
       "source": "Ynet Greece Turkey Cyprus IMEC Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:50.380848+00:00",
+      "checked_at": "2026-10-23T23:36:00.230657+00:00",
       "status": "ok",
-      "entries": 33,
+      "entries": 32,
       "accepted": 3,
       "error": ""
     },
     {
       "source": "i24NEWS Greece Turkey Cyprus IMEC Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:50.763535+00:00",
+      "checked_at": "2026-10-23T23:36:00.551306+00:00",
       "status": "ok",
       "entries": 15,
       "accepted": 2,
@@ -967,34 +967,34 @@
     {
       "source": "Globes Israel Greece Turkey Cyprus IMEC Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:51.173516+00:00",
+      "checked_at": "2026-10-23T23:36:00.912604+00:00",
       "status": "ok",
-      "entries": 70,
+      "entries": 71,
       "accepted": 1,
       "error": ""
     },
     {
       "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:51.666490+00:00",
+      "checked_at": "2026-10-23T23:36:01.400410+00:00",
       "status": "ok",
       "entries": 100,
-      "accepted": 11,
+      "accepted": 12,
       "error": ""
     },
     {
       "source": "Maariv Greece Turkey Cyprus IMEC Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:52.398971+00:00",
+      "checked_at": "2026-10-23T23:36:02.124307+00:00",
       "status": "ok",
-      "entries": 99,
+      "entries": 100,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "Aegean Islands Local Issues Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:53.014320+00:00",
+      "checked_at": "2026-10-23T23:36:02.717397+00:00",
       "status": "ok",
       "entries": 75,
       "accepted": 0,
@@ -1003,34 +1003,34 @@
     {
       "source": "North Aegean Security Migration Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:53.606672+00:00",
+      "checked_at": "2026-10-23T23:36:03.235913+00:00",
       "status": "ok",
-      "entries": 3,
+      "entries": 2,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "Dodecanese Security Migration Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:53.932336+00:00",
+      "checked_at": "2026-10-23T23:36:03.522329+00:00",
       "status": "ok",
-      "entries": 47,
-      "accepted": 6,
+      "entries": 46,
+      "accepted": 5,
       "error": ""
     },
     {
       "source": "Gavdos South Border Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:54.645670+00:00",
+      "checked_at": "2026-10-23T23:36:03.991468+00:00",
       "status": "ok",
-      "entries": 95,
+      "entries": 93,
       "accepted": 0,
       "error": ""
     },
     {
       "source": "Chios News Island Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:55.257815+00:00",
+      "checked_at": "2026-10-23T23:36:04.608781+00:00",
       "status": "ok",
       "entries": 18,
       "accepted": 0,
@@ -1039,7 +1039,7 @@
     {
       "source": "Chiospen Island Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:55.540630+00:00",
+      "checked_at": "2026-10-23T23:36:04.982705+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -1048,7 +1048,7 @@
     {
       "source": "Samos Today Island Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:55.729615+00:00",
+      "checked_at": "2026-10-23T23:36:05.180046+00:00",
       "status": "ok",
       "entries": 8,
       "accepted": 0,
@@ -1057,7 +1057,7 @@
     {
       "source": "Samos24 Island Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:56.032472+00:00",
+      "checked_at": "2026-10-23T23:36:05.454857+00:00",
       "status": "ok",
       "entries": 20,
       "accepted": 0,
@@ -1066,7 +1066,7 @@
     {
       "source": "Sky Rodos Island Watch",
       "category": "news",
-      "checked_at": "2026-10-23T20:38:56.345290+00:00",
+      "checked_at": "2026-10-23T23:36:05.771995+00:00",
       "status": "ok",
       "entries": 9,
       "accepted": 0,
@@ -1075,7 +1075,7 @@
     {
       "source": "Gazeteci Konstantinidis Turkish 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -1084,7 +1084,7 @@
     {
       "source": "Christos Konstantinidis Global 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 10,
       "accepted": 0,
@@ -1093,7 +1093,7 @@
     {
       "source": "Hristos Konstantinidis Turkish 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -1102,7 +1102,7 @@
     {
       "source": "Hristo Konstantinidis Turkish 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -1111,7 +1111,7 @@
     {
       "source": "Khristos Konstantinidis Global 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -1120,7 +1120,7 @@
     {
       "source": "Christos Constantinidis Global 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -1129,7 +1129,7 @@
     {
       "source": "Greek name 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 7,
       "accepted": 0,
@@ -1138,7 +1138,7 @@
     {
       "source": "Greek unaccented name 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -1147,7 +1147,7 @@
     {
       "source": "Konstantinidis Geopolitico Turkish 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 0,
       "accepted": 0,
@@ -1156,7 +1156,7 @@
     {
       "source": "Geopolitico Turkish media 30d",
       "category": "mentions",
-      "checked_at": "2026-10-23T20:38:56.680513+00:00",
+      "checked_at": "2026-10-23T23:36:06.037440+00:00",
       "status": "ok",
       "entries": 3,
       "accepted": 0,
@@ -1167,7 +1167,7 @@
     {
       "source": "NATO News",
       "category": "news",
-      "checked_at": "2026-10-23T20:37:41.446130+00:00",
+      "checked_at": "2026-10-23T23:34:53.951181+00:00",
       "status": "error",
       "entries": 0,
       "accepted": 0,

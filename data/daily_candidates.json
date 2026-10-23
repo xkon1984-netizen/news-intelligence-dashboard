@@ -1,54 +1,12 @@
 {
-  "generated_at": "2026-10-23T20:39:53.898656+00:00",
+  "generated_at": "2026-10-23T23:36:52.557653+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "5ed4d7a6ad506fb738e2305a",
-        "mode": "sportdog",
-        "title": "Georgios Bartzokas reacts to Olympiacos transfer rumors, Greek scandal - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNREdxT3c5TmNGRUNQai0xSFdjZUNDamd0VC1lX2pSUFBPN3A1djcwYXIwX1JvUDNLY3hsZmpiQ2d6OWRUSDBERW4wWmcyT2VRUVdRc283VkJXNGVhdVVLOXBKdktSR2tfTDFMNS16T2U5am1uX2x2NlBMTGZCSzRyVE4tRER3bDNOdUZkUl9BX1pIUTB4YTk4R3FoRnFBU0hUa3dEd2JzMFNFZWZMZkE?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 22 Oct 2026 10:43:29 GMT",
-        "base_score": 94,
-        "candidate_score": 114,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Olympiacos",
-          "transfer",
-          "transfer rumor"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "6ec1625897d2f8b118397521",
-        "mode": "sportdog",
-        "title": "Panathinaikos stays healthy with renewed Solgar deal - Inside World Football",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpQa0lNR1JrNWRySUhzVGdhSktLbHZtVklSX200UGF3cndqRld1UGpKU2tFdmFjX0N2Q0ltRzNseVRzZldDc3lkNVY4MUpXRzk1Q05tc1V4d3VZUHZIVm1hcVdELUpXUlJYa1RkNjI3WmVRNmQ0eFF3VkFoNVFlVk9MRnRjZktITXdDN2J3LU1FSXZrTkFSekZMc1l2ZGczemc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 23 Oct 2026 02:41:00 GMT",
-        "base_score": 66,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "deal",
-          "football"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
       {
         "external_id": "e8c1511dc3f079e881ce29a6",
         "mode": "sportdog",
@@ -67,6 +25,27 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
+        "external_id": "6ec1625897d2f8b118397521",
+        "mode": "sportdog",
+        "title": "Panathinaikos stays healthy with renewed Solgar deal - Inside World Football",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpQa0lNR1JrNWRySUhzVGdhSktLbHZtVklSX200UGF3cndqRld1UGpKU2tFdmFjX0N2Q0ltRzNseVRzZldDc3lkNVY4MUpXRzk1Q05tc1V4d3VZUHZIVm1hcVdELUpXUlJYa1RkNjI3WmVRNmQ0eFF3VkFoNVFlVk9MRnRjZktITXdDN2J3LU1FSXZrTkFSekZMc1l2ZGczemc?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 23 Oct 2026 02:41:00 GMT",
+        "base_score": 66,
+        "candidate_score": 87,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "deal",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
         "readiness": "READY",
         "needs_second_source": false
       },
@@ -99,7 +78,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 22 Oct 2026 16:17:48 GMT",
         "base_score": 56,
-        "candidate_score": 77,
+        "candidate_score": 74,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -107,6 +86,66 @@
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "fd10bbb1035bc6a4c5e91219",
+        "mode": "sportdog",
+        "title": "How to get AEK Athens vs Real Madrid tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFB1VF9iS3lMZGFFTmtXeERsLTJFZnp1TFpfenJMM0hfbjNKUkEyQzhvWERWUmcwQ2RrS2Ewa3ZtUGtWMmJMR25aaTZTVndVOW0wWnRJWVh1SFNBckQ4elNUdl9mYjBsU3ZBenRrLWVXQU1qMVJoZWlWcWlhZFRNU19wMGVqQTZkYVZDNW9TOVZIYXVXZ25wdEFxZ2ZtYXd2NWc?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Fri, 23 Oct 2026 16:11:16 GMT",
+        "base_score": 50,
+        "candidate_score": 68,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "a7f9e77c5305f0f14e18d5c2",
+        "mode": "sportdog",
+        "title": "Penalties conceded - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDYtY2ZueVNPY0p0TmpiekhMSnJlX3lLMGZBT0tONEtTbGxIU2R1MURRalBVTlpWSzMxb1k1eWFEMEJoTXZHNDc2ZlM3N0x3LU5BdjRCOGE5RnhEQkRyaURnd2VXOWx5WHVCLXBGb2Zib0ZsV3pwQWxQZE05VzZVeUVXakg2NmdCRnlxbEo2TFJ4ODdoNmJFVXYzNXhRdXZCYzUyM0tXY1NtZXBjZDh3?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Thu, 22 Oct 2026 22:52:25 GMT",
+        "base_score": 56,
+        "candidate_score": 67,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "007ced58c682adb230c092be",
+        "mode": "sportdog",
+        "title": "Olympiacos Winger Gelson Martins on Their Recent Results: “As a Group, We’re at Our Best” - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHEyRnNOTW9WeDJhbld1MXdCcTBUdHJ4V19maW9DaTdOSzQtMTZvNDQ0TmtNa19jN0oxb1ZBTGdFRmFkeVVzZVpmN3MyR0ZqdEwtNk1aLUFzRDhDVlJSakZySDdsUzZRclpCZEdHakd3U3phdnJiWUhCb2hVRkc0TWY3LUp4VFYxMzNZSXFoeEZJbUtMODg5bjhsT0xxcTBUSjZZWjVlbzdFN05ZWE91cnRfZW5EUzVyUE1HMFd3V3JwZlFnM3owWkNfVkhDb1JSVzZuaXBxYk4xdw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 23 Oct 2026 21:43:01 GMT",
+        "base_score": 39,
+        "candidate_score": 62,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "winger"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
         "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -131,14 +170,33 @@
         "needs_second_source": true
       },
       {
-        "external_id": "5503e9763c236f4f1650bbcc",
+        "external_id": "76dc4c6af16740239ae099fb",
         "mode": "sportdog",
-        "title": "(LIVE) Saski Baskonia vs Panathinaikos BC LIVE STREAM FREE 22 October 2026 - 北陸地方整備局",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV2NrMDV3SkZFcDJWM0xieDRKRVh6OHgxNUMwVHlQUVQ1OWZiOV9LNnhCNWNqU2lGeGpmRUNNcTN4c2tRQ0ZiNm5fWHhTbVFYVTVSVGVld1AtYzc5Z1lnUTIzVzZ3RXBkQjIzUWF6UFVMZC1rN1BxZWw4SEFiaGw3c2pfbTVZSC1jZkNKcHZuYVQyYjFuRnRvcDktTEJFYVZBT1BNZFN2Mk9TaFpObzlnVkJNZTl6Tl9JSHhOLUhCR0t6cXBGM2cxTDVYaGx0N3FWUmp5Z0ZIaWxMQU82Ung5Y2llZHIwTUJWdkl3UHJSTlBwQ0l0N1MzSk5rQlVSV2dN?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 22 Oct 2026 18:26:01 GMT",
+        "title": "Manchester City vs. AEK Athens: UCL Match Highlights (10/20) - Scoreline Stream of Soccer - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3lJNHVnOVBLUThwYXFyeGRtODQ0YlB6b3FiVEJoWXJVbUFaVmNzOVg0SWFJRlJJaC1rMWtZejlIQlR3S09BTmtNejQxblpORFE2czBJRUh0OVkxMlM3QjIzbk55UzVPam5EOVlnWnE4eTcyUmgtcS1LUzVyQWVma2xVblZaNXR6WG5mZWZ4anBRV3ltUnptdUZiX1F5YUpqNm80TnN1eDk1WjI3TDlpTVBVdFQ5X2xWMl9LaVN1Y0t0UllZYThZRmFMVVRWTjJWUS1MVnhlYw?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Thu, 22 Oct 2026 19:30:51 GMT",
         "base_score": 31,
         "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "882cf6286b479b2037c6e682",
+        "mode": "sportdog",
+        "title": "𝚆𝙰𝚃𝙲𝙷 (𝐓ODAY) Panathinaikos vs Baskonia ＬＩＶＥ Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ ＴＶ - 北陸地方整備局",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPTjNINXhzUTVORW9ESUNTS24yVXVaVzhreDFmQUFWajZ0djZ3cjlXNU9zZDRRQ0ZWMzdpVFRFOW1qclRuX3IzajFWV0RNazI5VDl4cTh6Q3lKVTlESXZGbXNXeUVPdUtndXVmQU40LUJ6WldrMlZVS1o3aEt6XzNEVDhDV3drR3ZUM1EwZ2xnaG9hNlVZVzJJSUhMNXlKUll1eFNlOEFUSWNoYVliWThpN2JBRTNleHJUSC1RVzgyemdqSmxlM0NLMXNZYzJJanBDYXdZZDJSaGZxLTJLcEh3VEtOWC1QaUxFejZvV05FUlgzZU96cE1wb3FKbVQ3blNlNmpKeFV5WG9mb3lMcGtGMEVMVE1nNlQwaC1YRFJDUkxWQQ?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 22 Oct 2026 17:30:38 GMT",
+        "base_score": 31,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -157,7 +215,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 22 Oct 2026 17:29:56 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -178,7 +236,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 23 Oct 2026 19:24:00 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -195,7 +253,7 @@
         "source": "Turkish Greek Defence Watch",
         "published": "Fri, 23 Oct 2026 18:37:00 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -210,7 +268,7 @@
         "title": "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat – Asia-Pacific Current Affairs Magazine",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGtaQV9EbjNKZ0VvQWxFS1BwNTJsYzVpeFlmeTdWek9YRGxoUkRvZWlNS3YweThPQXpuVnhMOEhVVDd0UXFvNzM1Q3B2b21yNjNSdDBYazBuTklRLVRkbWtuY2kzRDlIeGNKZFQ1SjRaTW9UblBCbHFPd3FRcF80QXlreU9Pd3MycWdXMTRwMVlYLU5oSHJ0VjJtOHJjd2dfV0w2Mi15Nnc?oc=5",
         "source": "Pakistan Security Watch",
-        "published": "Fri, 23 Oct 2026 14:52:12 GMT",
+        "published": "Fri, 23 Oct 2026 16:26:23 GMT",
         "base_score": 100,
         "candidate_score": 110,
         "priority": "URGENT",
@@ -220,6 +278,24 @@
           "Xinjiang",
           "training",
           "military training"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "bdeed89fb873537b7ec5d21e",
+        "mode": "geopolitico",
+        "title": "Egypt, Saudi Arabia, Turkey, Pakistan say 'Israeli occupation main source of regional instability' - The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQl9EVDlRSktIcnJXVEZfU1ZZckxmVDZjY0I2S0p6d1hSbUZLbXFXMG5WRWRZaFdta2FMX3JiVzRXeUhNLUYyOENPTHU1V1JCZGRRRTVxelB3WVdlU2V4a3huRWhUTGlpNEhjaHdXZ2hUUW9pZ1JsME5XempwaE9fSHQwYTZObWtFYU9Dd3pVLXRKZmQ5dk1ibVRLOEliQ2RwTU5VLWJfR1VDd2laS2oxaFA0OXJTcU4zQldnRzU0dERuZUlyWEpLX0tvQlRGNVFpemx4NWVB?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Fri, 23 Oct 2026 20:09:52 GMT",
+        "base_score": 96,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Israel",
+          "Israeli",
+          "Pakistan",
+          "Turkey"
         ],
         "content_type": "news"
       },
@@ -260,20 +336,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "20aca518cade41896d11339c",
+        "external_id": "b05d52c7acef57959d234505",
         "mode": "geopolitico",
-        "title": "Hakan Fidan'dan 'Güney Kıbrıs' stratejisi! - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmp5cHFZcVBxME5uVHhtcVlsbGRCeEFnMmhTMkJvSHBveWo1QnhNSTJLcjliZi10dzBxUXdxQ2JKSGQ0dk1IeWdhV3FKdDV4RHZJTDQtcjdjSHdSc3FMcXR2Z1N1MDVtQTFmYTBEaFlhejRMdE50NlpjNV9DQzhnYW40eVRBOEM3eWFoYUh30gGKAUFVX3lxTFBkbmpiMEZKeDlnSDFBd3JwRmZVbGdqelFNZVZKdG1LZ2FZbkR6OUlQbktEM0p3OVJWbEFvV2ZzckJ2ZVRaOVlDeHZpY2NieTZFZF9sUVFRa3kyY1dGMFMwdzdIV1F5MmhqUWxvdVliNjhFSnFxX2NlbnJ4VERKQzlBbFJfRDZkOWxDdw?oc=5",
+        "title": "GKRY ve Yunanistan Türkiye'nin Avrupa Savunma Programına Katılımına Karşı Çıkıyor - kayseri gürhaber",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFBid2ZIcHo0QTNwbjd1VzBPVm15Sk9kUk1NdUM1ckxseGNiYkFqV3l4SVhEcHdLVVd0ME53OFBrVVBLU0xzMmFneEpkRTdFX21EcFNoVjZ0T0drdXRmdWZjTTJDZHpMbERHdloxY1F4VlU5b1Uya3k0dnYzR1RQQlA2QUVHUzRfRDVhaFFYakJLNk5RY0daNllNcDc5ZktmSVdDT0ZZZDFMMEVwLTF2RDN0OVJuaWJRNzhoNTNR0gHDAUFVX3lxTE9IQWhZZHlmRlJXcjV3czJnWTBYYnJCMW8tQjlnRXl3YkRyak5qUnVVTWotc2tadkRqQlN5S0R5XzN2U3NmcFNWZHQ1TElYaU5XMWlTc1BZandXT1ZxZnU1Y1pnVml0SjZBZ0VlUUdnYnNvNEdrTHZ6T2xXU0F6NnRtTHVmdlAzN0JFVnQza2dQeWZncHhpQTQydHJ6VXhwQUs4OEg2aktwRk9uVUxHQ0NZaldwOC1QVTM0bFd3R2E1SDZWaw?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 23 Oct 2026 04:22:54 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
+        "published": "Fri, 23 Oct 2026 17:57:11 GMT",
+        "base_score": 94,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
-          "Fidan",
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "Fidan"
+          "Yunanistan",
+          "Yunanistan Türkiye",
+          "savunma"
         ],
         "content_type": "turkey_greece"
       },
@@ -285,7 +360,7 @@
         "source": "Line of State Shay Gal Watch",
         "published": "Fri, 23 Oct 2026 04:30:38 GMT",
         "base_score": 98,
-        "candidate_score": 104,
+        "candidate_score": 101,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -295,24 +370,6 @@
           "defence industry"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "a46e6657689766347c9b66e3",
-        "mode": "geopolitico",
-        "title": "MSB’den AB ve Yunanistan’a Libya Yanıtı: Deniz Yetki Alanları Mutabakatının Geçerliliği Ortadan Kaldırılamaz - Envanter Medya",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMVpBcFM3VTJXU195ZnpjREE5NTdBaFBaQ1ZSbTlJZ3drX1l0Yk1BSHpvei10anNPQzd4X0FkdWNlTnpVM0RDLTVFTlMwWWtaU1B6eGdHdXctbUVVQ2c5Q2xTTzltZ0hGcUZhcFN4eDJGYW5mYlFGQldsQkhhMTRpQWw5NzVBQXNLUm1BUWxkaVIxUDQ?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 22 Oct 2026 16:35:17 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "deniz yetki alanları",
-          "MSB",
-          "ada"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -324,7 +381,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 23 Oct 2026 13:46:29 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -350,25 +407,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "09e088989ae5f6c4341ed96a",
-        "mode": "pontos_voice",
-        "title": "Recep Uçar'dan Trabzonspor maçı öncesi dikkat çeken itiraf! \"Kadir Özcan açıklaması...\"",
-        "url": "https://www.61saat.com/recep-ucardan-trabzonspor-maci-oncesi-dikkat-ceken-itiraf-kadir-ozcan-aciklamasi",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 23 Oct 2026 22:00:00 +0300",
-        "base_score": 61,
-        "candidate_score": 76,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "Rize",
-          "açıklama",
-          "Trabzon",
-          "Karadeniz"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "4f5f49999aeb913df9170165",
         "mode": "pontos_voice",
         "title": "Πάνω από 8.000 ποντιακά δίστιχα, μια ζωή καταγραφών – Η συλλογή που στήριξαν οι Πόντιοι της Νυρεμβέργης - pontosnews.gr",
@@ -385,6 +423,25 @@
         "content_type": "news"
       },
       {
+        "external_id": "09e088989ae5f6c4341ed96a",
+        "mode": "pontos_voice",
+        "title": "Recep Uçar'dan Trabzonspor maçı öncesi dikkat çeken itiraf! \"Kadir Özcan açıklaması...\"",
+        "url": "https://www.61saat.com/recep-ucardan-trabzonspor-maci-oncesi-dikkat-ceken-itiraf-kadir-ozcan-aciklamasi",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 23 Oct 2026 22:00:00 +0300",
+        "base_score": 61,
+        "candidate_score": 71,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "Rize",
+          "açıklama",
+          "Trabzon",
+          "Karadeniz"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "a29cf72ce1dd361954539bb9",
         "mode": "pontos_voice",
         "title": "TEOL Trabzon’da Minik Öğrenciler Gazetecilik Mesleği Yakından Tanıdı",
@@ -392,8 +449,8 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 23 Oct 2026 22:37:00 +0300",
         "base_score": 57,
-        "candidate_score": 72,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "müze",
@@ -403,66 +460,25 @@
         "content_type": "news"
       },
       {
-        "external_id": "39acf4f129e9ace1ca1870ca",
+        "external_id": "642100dbb6dbf6033420bc5b",
         "mode": "pontos_voice",
-        "title": "Ποντιακός και Μικρασιατικός Σύλλογος Καρυοχωρίου: Στήνει γλέντι για την έναρξη της νέας χορευτικής χρονιάς - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFpNdHl3cllEMVM4MmNpbjVuTG5wcnhDaURHTHB6eHNDbjl6TTRSbFJUUlRsQlVLTmhwNWVsWksxVDBEZTJXTDRVWi1pWUJ2eTJ5WWFyTzJCUFNMVW1URExiVkk3VjF5b0Qyd3VFZUhEVWdnQkZlVXI4NllpYmk3LXJOME9VQlZOZzM4Y2RXbzEtNU1Ta1Y4ZWhrOTQ2QzNhZ1lBSHJ0WHNKNXhzbGNrTzR4QnR0a0R2MmxB?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Thu, 22 Oct 2026 10:17:12 GMT",
-        "base_score": 69,
-        "candidate_score": 69,
+        "title": "Ünlü şarkıcı Murat Dalkılıç'ın eski sevgilisi Salah üzerinden gündeme gelmeye çalıştı!",
+        "url": "https://www.61saat.com/unlu-sarkici-murat-dalkilicin-eski-sevgilisi-salah-uzerinden-gundeme-gelmeye-calisti",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 23 Oct 2026 23:39:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
-          "Pontos",
-          "ποντιακός"
+          "Trabzon",
+          "tepki",
+          "Trabzon"
         ],
         "content_type": "news"
       }
     ]
   },
   "items": [
-    {
-      "external_id": "5ed4d7a6ad506fb738e2305a",
-      "mode": "sportdog",
-      "title": "Georgios Bartzokas reacts to Olympiacos transfer rumors, Greek scandal - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNREdxT3c5TmNGRUNQai0xSFdjZUNDamd0VC1lX2pSUFBPN3A1djcwYXIwX1JvUDNLY3hsZmpiQ2d6OWRUSDBERW4wWmcyT2VRUVdRc283VkJXNGVhdVVLOXBKdktSR2tfTDFMNS16T2U5am1uX2x2NlBMTGZCSzRyVE4tRER3bDNOdUZkUl9BX1pIUTB4YTk4R3FoRnFBU0hUa3dEd2JzMFNFZWZMZkE?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 22 Oct 2026 10:43:29 GMT",
-      "base_score": 94,
-      "candidate_score": 114,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Olympiacos",
-        "transfer",
-        "transfer rumor"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "6ec1625897d2f8b118397521",
-      "mode": "sportdog",
-      "title": "Panathinaikos stays healthy with renewed Solgar deal - Inside World Football",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpQa0lNR1JrNWRySUhzVGdhSktLbHZtVklSX200UGF3cndqRld1UGpKU2tFdmFjX0N2Q0ltRzNseVRzZldDc3lkNVY4MUpXRzk1Q05tc1V4d3VZUHZIVm1hcVdELUpXUlJYa1RkNjI3WmVRNmQ0eFF3VkFoNVFlVk9MRnRjZktITXdDN2J3LU1FSXZrTkFSekZMc1l2ZGczemc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 23 Oct 2026 02:41:00 GMT",
-      "base_score": 66,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "deal",
-        "football"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
     {
       "external_id": "e8c1511dc3f079e881ce29a6",
       "mode": "sportdog",
@@ -481,6 +497,27 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
+      "external_id": "6ec1625897d2f8b118397521",
+      "mode": "sportdog",
+      "title": "Panathinaikos stays healthy with renewed Solgar deal - Inside World Football",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpQa0lNR1JrNWRySUhzVGdhSktLbHZtVklSX200UGF3cndqRld1UGpKU2tFdmFjX0N2Q0ltRzNseVRzZldDc3lkNVY4MUpXRzk1Q05tc1V4d3VZUHZIVm1hcVdELUpXUlJYa1RkNjI3WmVRNmQ0eFF3VkFoNVFlVk9MRnRjZktITXdDN2J3LU1FSXZrTkFSekZMc1l2ZGczemc?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 23 Oct 2026 02:41:00 GMT",
+      "base_score": 66,
+      "candidate_score": 87,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "deal",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
       "readiness": "READY",
       "needs_second_source": false
     },
@@ -513,7 +550,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 22 Oct 2026 16:17:48 GMT",
       "base_score": 56,
-      "candidate_score": 77,
+      "candidate_score": 74,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -521,6 +558,66 @@
       ],
       "content_type": "news",
       "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "fd10bbb1035bc6a4c5e91219",
+      "mode": "sportdog",
+      "title": "How to get AEK Athens vs Real Madrid tickets: Champions League prices, fixture information, last-minute sales & more - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFB1VF9iS3lMZGFFTmtXeERsLTJFZnp1TFpfenJMM0hfbjNKUkEyQzhvWERWUmcwQ2RrS2Ewa3ZtUGtWMmJMR25aaTZTVndVOW0wWnRJWVh1SFNBckQ4elNUdl9mYjBsU3ZBenRrLWVXQU1qMVJoZWlWcWlhZFRNU19wMGVqQTZkYVZDNW9TOVZIYXVXZ25wdEFxZ2ZtYXd2NWc?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Fri, 23 Oct 2026 16:11:16 GMT",
+      "base_score": 50,
+      "candidate_score": 68,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "a7f9e77c5305f0f14e18d5c2",
+      "mode": "sportdog",
+      "title": "Penalties conceded - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDYtY2ZueVNPY0p0TmpiekhMSnJlX3lLMGZBT0tONEtTbGxIU2R1MURRalBVTlpWSzMxb1k1eWFEMEJoTXZHNDc2ZlM3N0x3LU5BdjRCOGE5RnhEQkRyaURnd2VXOWx5WHVCLXBGb2Zib0ZsV3pwQWxQZE05VzZVeUVXakg2NmdCRnlxbEo2TFJ4ODdoNmJFVXYzNXhRdXZCYzUyM0tXY1NtZXBjZDh3?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Thu, 22 Oct 2026 22:52:25 GMT",
+      "base_score": 56,
+      "candidate_score": 67,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "007ced58c682adb230c092be",
+      "mode": "sportdog",
+      "title": "Olympiacos Winger Gelson Martins on Their Recent Results: “As a Group, We’re at Our Best” - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHEyRnNOTW9WeDJhbld1MXdCcTBUdHJ4V19maW9DaTdOSzQtMTZvNDQ0TmtNa19jN0oxb1ZBTGdFRmFkeVVzZVpmN3MyR0ZqdEwtNk1aLUFzRDhDVlJSakZySDdsUzZRclpCZEdHakd3U3phdnJiWUhCb2hVRkc0TWY3LUp4VFYxMzNZSXFoeEZJbUtMODg5bjhsT0xxcTBUSjZZWjVlbzdFN05ZWE91cnRfZW5EUzVyUE1HMFd3V3JwZlFnM3owWkNfVkhDb1JSVzZuaXBxYk4xdw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 23 Oct 2026 21:43:01 GMT",
+      "base_score": 39,
+      "candidate_score": 62,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "winger"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
       "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -545,14 +642,33 @@
       "needs_second_source": true
     },
     {
-      "external_id": "5503e9763c236f4f1650bbcc",
+      "external_id": "76dc4c6af16740239ae099fb",
       "mode": "sportdog",
-      "title": "(LIVE) Saski Baskonia vs Panathinaikos BC LIVE STREAM FREE 22 October 2026 - 北陸地方整備局",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV2NrMDV3SkZFcDJWM0xieDRKRVh6OHgxNUMwVHlQUVQ1OWZiOV9LNnhCNWNqU2lGeGpmRUNNcTN4c2tRQ0ZiNm5fWHhTbVFYVTVSVGVld1AtYzc5Z1lnUTIzVzZ3RXBkQjIzUWF6UFVMZC1rN1BxZWw4SEFiaGw3c2pfbTVZSC1jZkNKcHZuYVQyYjFuRnRvcDktTEJFYVZBT1BNZFN2Mk9TaFpObzlnVkJNZTl6Tl9JSHhOLUhCR0t6cXBGM2cxTDVYaGx0N3FWUmp5Z0ZIaWxMQU82Ung5Y2llZHIwTUJWdkl3UHJSTlBwQ0l0N1MzSk5rQlVSV2dN?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 22 Oct 2026 18:26:01 GMT",
+      "title": "Manchester City vs. AEK Athens: UCL Match Highlights (10/20) - Scoreline Stream of Soccer - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3lJNHVnOVBLUThwYXFyeGRtODQ0YlB6b3FiVEJoWXJVbUFaVmNzOVg0SWFJRlJJaC1rMWtZejlIQlR3S09BTmtNejQxblpORFE2czBJRUh0OVkxMlM3QjIzbk55UzVPam5EOVlnWnE4eTcyUmgtcS1LUzVyQWVma2xVblZaNXR6WG5mZWZ4anBRV3ltUnptdUZiX1F5YUpqNm80TnN1eDk1WjI3TDlpTVBVdFQ5X2xWMl9LaVN1Y0t0UllZYThZRmFMVVRWTjJWUS1MVnhlYw?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Thu, 22 Oct 2026 19:30:51 GMT",
       "base_score": 31,
       "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "882cf6286b479b2037c6e682",
+      "mode": "sportdog",
+      "title": "𝚆𝙰𝚃𝙲𝙷 (𝐓ODAY) Panathinaikos vs Baskonia ＬＩＶＥ Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ ＴＶ - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPTjNINXhzUTVORW9ESUNTS24yVXVaVzhreDFmQUFWajZ0djZ3cjlXNU9zZDRRQ0ZWMzdpVFRFOW1qclRuX3IzajFWV0RNazI5VDl4cTh6Q3lKVTlESXZGbXNXeUVPdUtndXVmQU40LUJ6WldrMlZVS1o3aEt6XzNEVDhDV3drR3ZUM1EwZ2xnaG9hNlVZVzJJSUhMNXlKUll1eFNlOEFUSWNoYVliWThpN2JBRTNleHJUSC1RVzgyemdqSmxlM0NLMXNZYzJJanBDYXdZZDJSaGZxLTJLcEh3VEtOWC1QaUxFejZvV05FUlgzZU96cE1wb3FKbVQ3blNlNmpKeFV5WG9mb3lMcGtGMEVMVE1nNlQwaC1YRFJDUkxWQQ?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 22 Oct 2026 17:30:38 GMT",
+      "base_score": 31,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -571,7 +687,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 22 Oct 2026 17:29:56 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -590,7 +706,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 23 Oct 2026 19:24:00 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -607,7 +723,7 @@
       "source": "Turkish Greek Defence Watch",
       "published": "Fri, 23 Oct 2026 18:37:00 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -622,7 +738,7 @@
       "title": "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGtaQV9EbjNKZ0VvQWxFS1BwNTJsYzVpeFlmeTdWek9YRGxoUkRvZWlNS3YweThPQXpuVnhMOEhVVDd0UXFvNzM1Q3B2b21yNjNSdDBYazBuTklRLVRkbWtuY2kzRDlIeGNKZFQ1SjRaTW9UblBCbHFPd3FRcF80QXlreU9Pd3MycWdXMTRwMVlYLU5oSHJ0VjJtOHJjd2dfV0w2Mi15Nnc?oc=5",
       "source": "Pakistan Security Watch",
-      "published": "Fri, 23 Oct 2026 14:52:12 GMT",
+      "published": "Fri, 23 Oct 2026 16:26:23 GMT",
       "base_score": 100,
       "candidate_score": 110,
       "priority": "URGENT",
@@ -632,6 +748,24 @@
         "Xinjiang",
         "training",
         "military training"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "bdeed89fb873537b7ec5d21e",
+      "mode": "geopolitico",
+      "title": "Egypt, Saudi Arabia, Turkey, Pakistan say 'Israeli occupation main source of regional instability' - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQl9EVDlRSktIcnJXVEZfU1ZZckxmVDZjY0I2S0p6d1hSbUZLbXFXMG5WRWRZaFdta2FMX3JiVzRXeUhNLUYyOENPTHU1V1JCZGRRRTVxelB3WVdlU2V4a3huRWhUTGlpNEhjaHdXZ2hUUW9pZ1JsME5XempwaE9fSHQwYTZObWtFYU9Dd3pVLXRKZmQ5dk1ibVRLOEliQ2RwTU5VLWJfR1VDd2laS2oxaFA0OXJTcU4zQldnRzU0dERuZUlyWEpLX0tvQlRGNVFpemx4NWVB?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Fri, 23 Oct 2026 20:09:52 GMT",
+      "base_score": 96,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Israel",
+        "Israeli",
+        "Pakistan",
+        "Turkey"
       ],
       "content_type": "news"
     },
@@ -672,20 +806,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "20aca518cade41896d11339c",
+      "external_id": "b05d52c7acef57959d234505",
       "mode": "geopolitico",
-      "title": "Hakan Fidan'dan 'Güney Kıbrıs' stratejisi! - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmp5cHFZcVBxME5uVHhtcVlsbGRCeEFnMmhTMkJvSHBveWo1QnhNSTJLcjliZi10dzBxUXdxQ2JKSGQ0dk1IeWdhV3FKdDV4RHZJTDQtcjdjSHdSc3FMcXR2Z1N1MDVtQTFmYTBEaFlhejRMdE50NlpjNV9DQzhnYW40eVRBOEM3eWFoYUh30gGKAUFVX3lxTFBkbmpiMEZKeDlnSDFBd3JwRmZVbGdqelFNZVZKdG1LZ2FZbkR6OUlQbktEM0p3OVJWbEFvV2ZzckJ2ZVRaOVlDeHZpY2NieTZFZF9sUVFRa3kyY1dGMFMwdzdIV1F5MmhqUWxvdVliNjhFSnFxX2NlbnJ4VERKQzlBbFJfRDZkOWxDdw?oc=5",
+      "title": "GKRY ve Yunanistan Türkiye'nin Avrupa Savunma Programına Katılımına Karşı Çıkıyor - kayseri gürhaber",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFBid2ZIcHo0QTNwbjd1VzBPVm15Sk9kUk1NdUM1ckxseGNiYkFqV3l4SVhEcHdLVVd0ME53OFBrVVBLU0xzMmFneEpkRTdFX21EcFNoVjZ0T0drdXRmdWZjTTJDZHpMbERHdloxY1F4VlU5b1Uya3k0dnYzR1RQQlA2QUVHUzRfRDVhaFFYakJLNk5RY0daNllNcDc5ZktmSVdDT0ZZZDFMMEVwLTF2RDN0OVJuaWJRNzhoNTNR0gHDAUFVX3lxTE9IQWhZZHlmRlJXcjV3czJnWTBYYnJCMW8tQjlnRXl3YkRyak5qUnVVTWotc2tadkRqQlN5S0R5XzN2U3NmcFNWZHQ1TElYaU5XMWlTc1BZandXT1ZxZnU1Y1pnVml0SjZBZ0VlUUdnYnNvNEdrTHZ6T2xXU0F6NnRtTHVmdlAzN0JFVnQza2dQeWZncHhpQTQydHJ6VXhwQUs4OEg2aktwRk9uVUxHQ0NZaldwOC1QVTM0bFd3R2E1SDZWaw?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 23 Oct 2026 04:22:54 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
+      "published": "Fri, 23 Oct 2026 17:57:11 GMT",
+      "base_score": 94,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
-        "Fidan",
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "Fidan"
+        "Yunanistan",
+        "Yunanistan Türkiye",
+        "savunma"
       ],
       "content_type": "turkey_greece"
     },
@@ -697,7 +830,7 @@
       "source": "Line of State Shay Gal Watch",
       "published": "Fri, 23 Oct 2026 04:30:38 GMT",
       "base_score": 98,
-      "candidate_score": 104,
+      "candidate_score": 101,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -709,24 +842,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "a46e6657689766347c9b66e3",
-      "mode": "geopolitico",
-      "title": "MSB’den AB ve Yunanistan’a Libya Yanıtı: Deniz Yetki Alanları Mutabakatının Geçerliliği Ortadan Kaldırılamaz - Envanter Medya",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMVpBcFM3VTJXU195ZnpjREE5NTdBaFBaQ1ZSbTlJZ3drX1l0Yk1BSHpvei10anNPQzd4X0FkdWNlTnpVM0RDLTVFTlMwWWtaU1B6eGdHdXctbUVVQ2c5Q2xTTzltZ0hGcUZhcFN4eDJGYW5mYlFGQldsQkhhMTRpQWw5NzVBQXNLUm1BUWxkaVIxUDQ?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 22 Oct 2026 16:35:17 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "deniz yetki alanları",
-        "MSB",
-        "ada"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "5cc6a0c0bb3bff5ff154f9bb",
       "mode": "pontos_voice",
       "title": "Οι Πόντιοι των Φερών ανταμώνουν στον χειμερινό χορό της «Παναγίας Σουμελά» - pontosnews.gr",
@@ -734,7 +849,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 23 Oct 2026 13:46:29 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -760,25 +875,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "09e088989ae5f6c4341ed96a",
-      "mode": "pontos_voice",
-      "title": "Recep Uçar'dan Trabzonspor maçı öncesi dikkat çeken itiraf! \"Kadir Özcan açıklaması...\"",
-      "url": "https://www.61saat.com/recep-ucardan-trabzonspor-maci-oncesi-dikkat-ceken-itiraf-kadir-ozcan-aciklamasi",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 23 Oct 2026 22:00:00 +0300",
-      "base_score": 61,
-      "candidate_score": 76,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "Rize",
-        "açıklama",
-        "Trabzon",
-        "Karadeniz"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "4f5f49999aeb913df9170165",
       "mode": "pontos_voice",
       "title": "Πάνω από 8.000 ποντιακά δίστιχα, μια ζωή καταγραφών – Η συλλογή που στήριξαν οι Πόντιοι της Νυρεμβέργης - pontosnews.gr",
@@ -795,6 +891,25 @@
       "content_type": "news"
     },
     {
+      "external_id": "09e088989ae5f6c4341ed96a",
+      "mode": "pontos_voice",
+      "title": "Recep Uçar'dan Trabzonspor maçı öncesi dikkat çeken itiraf! \"Kadir Özcan açıklaması...\"",
+      "url": "https://www.61saat.com/recep-ucardan-trabzonspor-maci-oncesi-dikkat-ceken-itiraf-kadir-ozcan-aciklamasi",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 23 Oct 2026 22:00:00 +0300",
+      "base_score": 61,
+      "candidate_score": 71,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "Rize",
+        "açıklama",
+        "Trabzon",
+        "Karadeniz"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "a29cf72ce1dd361954539bb9",
       "mode": "pontos_voice",
       "title": "TEOL Trabzon’da Minik Öğrenciler Gazetecilik Mesleği Yakından Tanıdı",
@@ -802,8 +917,8 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 23 Oct 2026 22:37:00 +0300",
       "base_score": 57,
-      "candidate_score": 72,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "müze",
@@ -813,18 +928,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "39acf4f129e9ace1ca1870ca",
+      "external_id": "642100dbb6dbf6033420bc5b",
       "mode": "pontos_voice",
-      "title": "Ποντιακός και Μικρασιατικός Σύλλογος Καρυοχωρίου: Στήνει γλέντι για την έναρξη της νέας χορευτικής χρονιάς - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFpNdHl3cllEMVM4MmNpbjVuTG5wcnhDaURHTHB6eHNDbjl6TTRSbFJUUlRsQlVLTmhwNWVsWksxVDBEZTJXTDRVWi1pWUJ2eTJ5WWFyTzJCUFNMVW1URExiVkk3VjF5b0Qyd3VFZUhEVWdnQkZlVXI4NllpYmk3LXJOME9VQlZOZzM4Y2RXbzEtNU1Ta1Y4ZWhrOTQ2QzNhZ1lBSHJ0WHNKNXhzbGNrTzR4QnR0a0R2MmxB?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Thu, 22 Oct 2026 10:17:12 GMT",
-      "base_score": 69,
-      "candidate_score": 69,
+      "title": "Ünlü şarkıcı Murat Dalkılıç'ın eski sevgilisi Salah üzerinden gündeme gelmeye çalıştı!",
+      "url": "https://www.61saat.com/unlu-sarkici-murat-dalkilicin-eski-sevgilisi-salah-uzerinden-gundeme-gelmeye-calisti",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 23 Oct 2026 23:39:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
-        "Pontos",
-        "ποντιακός"
+        "Trabzon",
+        "tepki",
+        "Trabzon"
       ],
       "content_type": "news"
     }
