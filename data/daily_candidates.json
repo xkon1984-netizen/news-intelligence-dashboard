@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-10-24T21:10:46.947809+00:00",
+  "generated_at": "2026-10-24T23:26:18.670979+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "f68ee236031a65c1189b2fbc",
+        "mode": "sportdog",
+        "title": "ΠΑΟΚ: Στο στόχαστρο ο «καυτός» Λέλαντ Γουόκερ που εντυπωσιάζει στο BCL - iefimerida.gr",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CX2l3QUlqS1BuTlFiNzg3NDlSVDR0aDRUN0F6d0d3SVY2bUZ3cFNMNXI0NTBrU2JtN3YwajJXY2FKSFdSelpBLXpLV1p4VDAxSWJ5Q3QtX19BLXg5dDAxSzk4by1PdXJYNTlDamprTFVrTDVRczY1b0s2d0RWSmM?oc=5",
+        "source": "Sportdog Greek Transfer Scenarios",
+        "published": "Sat, 24 Oct 2026 20:06:00 GMT",
+        "base_score": 78,
+        "candidate_score": 96,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "ΠΑΟΚ",
+          "στο στόχαστρο"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
       {
         "external_id": "e8c1511dc3f079e881ce29a6",
         "mode": "sportdog",
@@ -15,7 +35,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 23 Oct 2026 16:10:05 GMT",
         "base_score": 70,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -24,26 +44,6 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "27e86680cdc6c27ec3b2444e",
-        "mode": "sportdog",
-        "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar.am",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 23 Oct 2026 11:09:21 GMT",
-        "base_score": 56,
-        "candidate_score": 76,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
         "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -89,6 +89,26 @@
         "needs_second_source": true
       },
       {
+        "external_id": "5013b0c7c134e140ce0833d5",
+        "mode": "sportdog",
+        "title": "PAOK sign Leland Walker, leave him on loan at Salon Vilpas - Eurohoops",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2MwbWNaNFltUDlMTmxvb3FFU0xmdDFON2R2cDd4RnZRV016VTdfRWlUcE5NTElCdGtXVkJ4SmwyR05yWVJ4YnVET3hzZ3JzMWVzMFJZT3hFMXZHc1FDRjN3OU9WRlh5SjFYbzkyUFVoenZLMVdBOW9fTTdCSzFBVVdrSnZ4NFZsUDNZYk56ek0wbUlvWDNiWWVuUWF2ZjFYT0IwWXZ3?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sat, 24 Oct 2026 21:16:00 GMT",
+        "base_score": 44,
+        "candidate_score": 67,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK",
+          "loan"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "70828377691cf42be3ffe4e2",
         "mode": "sportdog",
         "title": "Save percentage - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
@@ -116,7 +136,7 @@
         "source": "AEK Rumour Watch",
         "published": "Fri, 23 Oct 2026 16:09:06 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -125,7 +145,27 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "AEK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "007ced58c682adb230c092be",
+        "mode": "sportdog",
+        "title": "Olympiacos Winger Gelson Martins on Their Recent Results: “As a Group, We’re at Our Best” - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHEyRnNOTW9WeDJhbld1MXdCcTBUdHJ4V19maW9DaTdOSzQtMTZvNDQ0TmtNa19jN0oxb1ZBTGdFRmFkeVVzZVpmN3MyR0ZqdEwtNk1aLUFzRDhDVlJSakZySDdsUzZRclpCZEdHakd3U3phdnJiWUhCb2hVRkc0TWY3LUp4VFYxMzNZSXFoeEZJbUtMODg5bjhsT0xxcTBUSjZZWjVlbzdFN05ZWE91cnRfZW5EUzVyUE1HMFd3V3JwZlFnM3owWkNfVkhDb1JSVzZuaXBxYk4xdw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 23 Oct 2026 21:43:01 GMT",
+        "base_score": 39,
+        "candidate_score": 50,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "winger"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -136,7 +176,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 24 Oct 2026 19:43:12 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -195,7 +235,7 @@
         "source": "Turkish Greek Relations Deep Watch",
         "published": "Sat, 24 Oct 2026 14:13:28 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Doğu Akdeniz",
@@ -277,25 +317,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "bcfb96eee895d0439791c849",
-        "mode": "geopolitico",
-        "title": "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat – Asia-Pacific Current Affairs Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGtaQV9EbjNKZ0VvQWxFS1BwNTJsYzVpeFlmeTdWek9YRGxoUkRvZWlNS3YweThPQXpuVnhMOEhVVDd0UXFvNzM1Q3B2b21yNjNSdDBYazBuTklRLVRkbWtuY2kzRDlIeGNKZFQ1SjRaTW9UblBCbHFPd3FRcF80QXlreU9Pd3MycWdXMTRwMVlYLU5oSHJ0VjJtOHJjd2dfV0w2Mi15Nnc?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Fri, 23 Oct 2026 16:26:23 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pakistan",
-          "China",
-          "Xinjiang",
-          "training",
-          "military training"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "76a3c363501e8e1143672a84",
         "mode": "geopolitico",
         "title": "Turkey opens trial of Netanyahu, 34 other Israelis over Gaza-bound Sumud flotilla interception - The Jerusalem Post",
@@ -330,6 +351,22 @@
           "Turkey"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "214b183eb27bad853abdd8da",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Cihat Yaycı — Amiral Cihat Yaycı uyardı: Türk askeri Suudi Arabistan’da ne yapacak? - ssbulten.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXpMSWhKWHVnRi1xZWVGdkZOQ3dpc0FKNkpCNUxVRW1TY2tnbDhPMURzcHRvckl3d1dvTi04cGxZelZVc0o1UnAyLVdKbHVPZC1nN0FPQ1JWZ25zNWtGMS1GMTN5T0hUWVlzdkNoRlk5bUM2d2xacDdxRWFUVVVlZGZ4ZnpWNzhNcDVlNzBkUTVMX0k0RGRPbmpMd1hRTmlvZVl2QmxyZzJrN1JNdEt5WGg4bGpSdw?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Sat, 24 Oct 2026 17:44:59 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Cihat Yaycı",
+          "Cihat Yaycı"
+        ],
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -341,7 +378,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sat, 24 Oct 2026 19:14:50 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -358,7 +395,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sat, 24 Oct 2026 14:35:57 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -385,23 +422,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "0d1754c1813b9e9d9f272649",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor'da Thomas Reis'ten Rizespor maçı öncesi net mesaj! \"Herkesten yüzde 100'ünü bekliyorum\"",
-        "url": "https://www.61saat.com/trabzonsporda-thomas-reisten-rizespor-maci-oncesi-net-mesaj-herkesten-yuzde-100unu-bekliyorum",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 24 Oct 2026 21:12:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Rize",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "59e3687bb5097a663c36a9e4",
         "mode": "pontos_voice",
         "title": "İrfan Can Eğribayat'tan yıllar sonra Trabzonspor itirafı! Trabzon halkından özür diledi",
@@ -420,14 +440,32 @@
         "content_type": "news"
       },
       {
-        "external_id": "ee0f25ccee733b299504ff24",
+        "external_id": "4312c4ae66a5086933bd1c39",
         "mode": "pontos_voice",
-        "title": "Trabzonspor Teknik Direktörü Reis’ten Rizespor maçı öncesi net mesaj! “Herkesten bekliyorum” - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNm10dGFyWDhYQnlueEowMXdMaWYxN2Y1Y0IwQ0xrVVgxU2FJb0lsSElsenNZQUh0NGhYWERVQW5fNEpEbFJJZ2RWcTVlRWdJN0l0Z0Q5eUtZZzdGRzNreHFGMFozSWhPanBBLWpiZVhybElMRXhkMldvcU5iVThnQlJFWE9HZGQyR3BiWG5QclJPdXJHMDVBVENpNmdUS2lfOTBMZzhaRDh3b3ZVQVNrQmVxZVpPNG1leGhDTGtZWVlZN0MxTEpGUFZjLTI?oc=5",
+        "title": "Bakan Yardımcısı Hamza Yerlikaya'dan Trabzonspor'a ziyaret! Forma hediye edildi - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHkyelF3Rk1RNEVubUpMeTRTMTdfU19rcTdkdWJSdnBNdnpCdVZYb3gwaXpfWHBEbTF1aHNrT0hQRlp6VG9QbDNMY1lMNlE3RnhrNW03TzZMbGI3UnRlcXNaaUZuWHFKMWQ5b0UwR1pQUVhFRmhrbUMzenlLMktLU0pWQWpjSHpYdnpIZDJCY0xGam12QWp6UXRPc2U3ZnZ2WXdOWV9ySzlpalVaUUoxeWY3dGU0UHItYXpvSFFB?oc=5",
         "source": "Haber61 Trabzon",
-        "published": "Sat, 24 Oct 2026 18:39:26 GMT",
-        "base_score": 42,
+        "published": "Sat, 24 Oct 2026 10:57:56 GMT",
+        "base_score": 51,
         "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "bakan",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "0d1754c1813b9e9d9f272649",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor'da Thomas Reis'ten Rizespor maçı öncesi net mesaj! \"Herkesten yüzde 100'ünü bekliyorum\"",
+        "url": "https://www.61saat.com/trabzonsporda-thomas-reisten-rizespor-maci-oncesi-net-mesaj-herkesten-yuzde-100unu-bekliyorum",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 24 Oct 2026 21:12:00 +0300",
+        "base_score": 44,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -440,6 +478,26 @@
   },
   "items": [
     {
+      "external_id": "f68ee236031a65c1189b2fbc",
+      "mode": "sportdog",
+      "title": "ΠΑΟΚ: Στο στόχαστρο ο «καυτός» Λέλαντ Γουόκερ που εντυπωσιάζει στο BCL - iefimerida.gr",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CX2l3QUlqS1BuTlFiNzg3NDlSVDR0aDRUN0F6d0d3SVY2bUZ3cFNMNXI0NTBrU2JtN3YwajJXY2FKSFdSelpBLXpLV1p4VDAxSWJ5Q3QtX19BLXg5dDAxSzk4by1PdXJYNTlDamprTFVrTDVRczY1b0s2d0RWSmM?oc=5",
+      "source": "Sportdog Greek Transfer Scenarios",
+      "published": "Sat, 24 Oct 2026 20:06:00 GMT",
+      "base_score": 78,
+      "candidate_score": 96,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "ΠΑΟΚ",
+        "στο στόχαστρο"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "e8c1511dc3f079e881ce29a6",
       "mode": "sportdog",
       "title": "Revealed: Genoa Rejected Olympiacos Offer for Danish Midfielder - roundtable.io",
@@ -447,7 +505,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 23 Oct 2026 16:10:05 GMT",
       "base_score": 70,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -456,26 +514,6 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "27e86680cdc6c27ec3b2444e",
-      "mode": "sportdog",
-      "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar.am",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 23 Oct 2026 11:09:21 GMT",
-      "base_score": 56,
-      "candidate_score": 76,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
       "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -521,6 +559,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "5013b0c7c134e140ce0833d5",
+      "mode": "sportdog",
+      "title": "PAOK sign Leland Walker, leave him on loan at Salon Vilpas - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2MwbWNaNFltUDlMTmxvb3FFU0xmdDFON2R2cDd4RnZRV016VTdfRWlUcE5NTElCdGtXVkJ4SmwyR05yWVJ4YnVET3hzZ3JzMWVzMFJZT3hFMXZHc1FDRjN3OU9WRlh5SjFYbzkyUFVoenZLMVdBOW9fTTdCSzFBVVdrSnZ4NFZsUDNZYk56ek0wbUlvWDNiWWVuUWF2ZjFYT0IwWXZ3?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sat, 24 Oct 2026 21:16:00 GMT",
+      "base_score": 44,
+      "candidate_score": 67,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK",
+        "loan"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "70828377691cf42be3ffe4e2",
       "mode": "sportdog",
       "title": "Save percentage - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
@@ -548,7 +606,7 @@
       "source": "AEK Rumour Watch",
       "published": "Fri, 23 Oct 2026 16:09:06 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -557,7 +615,27 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "AEK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "007ced58c682adb230c092be",
+      "mode": "sportdog",
+      "title": "Olympiacos Winger Gelson Martins on Their Recent Results: “As a Group, We’re at Our Best” - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHEyRnNOTW9WeDJhbld1MXdCcTBUdHJ4V19maW9DaTdOSzQtMTZvNDQ0TmtNa19jN0oxb1ZBTGdFRmFkeVVzZVpmN3MyR0ZqdEwtNk1aLUFzRDhDVlJSakZySDdsUzZRclpCZEdHakd3U3phdnJiWUhCb2hVRkc0TWY3LUp4VFYxMzNZSXFoeEZJbUtMODg5bjhsT0xxcTBUSjZZWjVlbzdFN05ZWE91cnRfZW5EUzVyUE1HMFd3V3JwZlFnM3owWkNfVkhDb1JSVzZuaXBxYk4xdw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 23 Oct 2026 21:43:01 GMT",
+      "base_score": 39,
+      "candidate_score": 50,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "winger"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -568,7 +646,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 24 Oct 2026 19:43:12 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -625,7 +703,7 @@
       "source": "Turkish Greek Relations Deep Watch",
       "published": "Sat, 24 Oct 2026 14:13:28 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Doğu Akdeniz",
@@ -707,25 +785,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "bcfb96eee895d0439791c849",
-      "mode": "geopolitico",
-      "title": "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGtaQV9EbjNKZ0VvQWxFS1BwNTJsYzVpeFlmeTdWek9YRGxoUkRvZWlNS3YweThPQXpuVnhMOEhVVDd0UXFvNzM1Q3B2b21yNjNSdDBYazBuTklRLVRkbWtuY2kzRDlIeGNKZFQ1SjRaTW9UblBCbHFPd3FRcF80QXlreU9Pd3MycWdXMTRwMVlYLU5oSHJ0VjJtOHJjd2dfV0w2Mi15Nnc?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Fri, 23 Oct 2026 16:26:23 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pakistan",
-        "China",
-        "Xinjiang",
-        "training",
-        "military training"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "76a3c363501e8e1143672a84",
       "mode": "geopolitico",
       "title": "Turkey opens trial of Netanyahu, 34 other Israelis over Gaza-bound Sumud flotilla interception - The Jerusalem Post",
@@ -762,6 +821,22 @@
       "content_type": "news"
     },
     {
+      "external_id": "214b183eb27bad853abdd8da",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Cihat Yaycı — Amiral Cihat Yaycı uyardı: Türk askeri Suudi Arabistan’da ne yapacak? - ssbulten.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXpMSWhKWHVnRi1xZWVGdkZOQ3dpc0FKNkpCNUxVRW1TY2tnbDhPMURzcHRvckl3d1dvTi04cGxZelZVc0o1UnAyLVdKbHVPZC1nN0FPQ1JWZ25zNWtGMS1GMTN5T0hUWVlzdkNoRlk5bUM2d2xacDdxRWFUVVVlZGZ4ZnpWNzhNcDVlNzBkUTVMX0k0RGRPbmpMd1hRTmlvZVl2QmxyZzJrN1JNdEt5WGg4bGpSdw?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Sat, 24 Oct 2026 17:44:59 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Cihat Yaycı",
+        "Cihat Yaycı"
+      ],
+      "content_type": "analyst"
+    },
+    {
       "external_id": "d1081c87c81ba170eadeae8b",
       "mode": "pontos_voice",
       "title": "Παναγία Σουμελά: Συγκίνηση και δέος κατά την υποδοχή της στο Ρέθυμνο – «Μας ενώνει η πίστη και η εθνική μνήμη» - pontosnews.gr",
@@ -769,7 +844,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sat, 24 Oct 2026 19:14:50 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -786,7 +861,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sat, 24 Oct 2026 14:35:57 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -813,23 +888,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "0d1754c1813b9e9d9f272649",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor'da Thomas Reis'ten Rizespor maçı öncesi net mesaj! \"Herkesten yüzde 100'ünü bekliyorum\"",
-      "url": "https://www.61saat.com/trabzonsporda-thomas-reisten-rizespor-maci-oncesi-net-mesaj-herkesten-yuzde-100unu-bekliyorum",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 24 Oct 2026 21:12:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Rize",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "59e3687bb5097a663c36a9e4",
       "mode": "pontos_voice",
       "title": "İrfan Can Eğribayat'tan yıllar sonra Trabzonspor itirafı! Trabzon halkından özür diledi",
@@ -848,14 +906,32 @@
       "content_type": "news"
     },
     {
-      "external_id": "ee0f25ccee733b299504ff24",
+      "external_id": "4312c4ae66a5086933bd1c39",
       "mode": "pontos_voice",
-      "title": "Trabzonspor Teknik Direktörü Reis’ten Rizespor maçı öncesi net mesaj! “Herkesten bekliyorum” - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNm10dGFyWDhYQnlueEowMXdMaWYxN2Y1Y0IwQ0xrVVgxU2FJb0lsSElsenNZQUh0NGhYWERVQW5fNEpEbFJJZ2RWcTVlRWdJN0l0Z0Q5eUtZZzdGRzNreHFGMFozSWhPanBBLWpiZVhybElMRXhkMldvcU5iVThnQlJFWE9HZGQyR3BiWG5QclJPdXJHMDVBVENpNmdUS2lfOTBMZzhaRDh3b3ZVQVNrQmVxZVpPNG1leGhDTGtZWVlZN0MxTEpGUFZjLTI?oc=5",
+      "title": "Bakan Yardımcısı Hamza Yerlikaya'dan Trabzonspor'a ziyaret! Forma hediye edildi - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHkyelF3Rk1RNEVubUpMeTRTMTdfU19rcTdkdWJSdnBNdnpCdVZYb3gwaXpfWHBEbTF1aHNrT0hQRlp6VG9QbDNMY1lMNlE3RnhrNW03TzZMbGI3UnRlcXNaaUZuWHFKMWQ5b0UwR1pQUVhFRmhrbUMzenlLMktLU0pWQWpjSHpYdnpIZDJCY0xGam12QWp6UXRPc2U3ZnZ2WXdOWV9ySzlpalVaUUoxeWY3dGU0UHItYXpvSFFB?oc=5",
       "source": "Haber61 Trabzon",
-      "published": "Sat, 24 Oct 2026 18:39:26 GMT",
-      "base_score": 42,
+      "published": "Sat, 24 Oct 2026 10:57:56 GMT",
+      "base_score": 51,
       "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "bakan",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "0d1754c1813b9e9d9f272649",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor'da Thomas Reis'ten Rizespor maçı öncesi net mesaj! \"Herkesten yüzde 100'ünü bekliyorum\"",
+      "url": "https://www.61saat.com/trabzonsporda-thomas-reisten-rizespor-maci-oncesi-net-mesaj-herkesten-yuzde-100unu-bekliyorum",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 24 Oct 2026 21:12:00 +0300",
+      "base_score": 44,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
