@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T07:15:23.162389+00:00",
+  "generated_at": "2026-10-24T12:07:40.840854+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 23 Oct 2026 02:41:00 GMT",
         "base_score": 66,
-        "candidate_score": 87,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -25,8 +25,8 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "e8c1511dc3f079e881ce29a6",
@@ -36,7 +36,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 23 Oct 2026 16:10:05 GMT",
         "base_score": 70,
-        "candidate_score": 84,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -57,8 +57,8 @@
         "source": "PAOK Rumour Watch",
         "published": "Fri, 23 Oct 2026 14:17:24 GMT",
         "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "PAOK",
           "Super League"
@@ -77,7 +77,7 @@
         "source": "AEK Rumour Watch",
         "published": "Fri, 23 Oct 2026 16:11:16 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -86,26 +86,6 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "a7f9e77c5305f0f14e18d5c2",
-        "mode": "sportdog",
-        "title": "Penalties conceded - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDYtY2ZueVNPY0p0TmpiekhMSnJlX3lLMGZBT0tONEtTbGxIU2R1MURRalBVTlpWSzMxb1k1eWFEMEJoTXZHNDc2ZlM3N0x3LU5BdjRCOGE5RnhEQkRyaURnd2VXOWx5WHVCLXBGb2Zib0ZsV3pwQWxQZE05VzZVeUVXakg2NmdCRnlxbEo2TFJ4ODdoNmJFVXYzNXhRdXZCYzUyM0tXY1NtZXBjZDh3?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Thu, 22 Oct 2026 22:52:25 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -137,7 +117,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 24 Oct 2026 03:03:05 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -147,28 +127,49 @@
         "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "76dc4c6af16740239ae099fb",
-        "mode": "sportdog",
-        "title": "Manchester City vs. AEK Athens: UCL Match Highlights (10/20) - Scoreline Stream of Soccer - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3lJNHVnOVBLUThwYXFyeGRtODQ0YlB6b3FiVEJoWXJVbUFaVmNzOVg0SWFJRlJJaC1rMWtZejlIQlR3S09BTmtNejQxblpORFE2czBJRUh0OVkxMlM3QjIzbk55UzVPam5EOVlnWnE4eTcyUmgtcS1LUzVyQWVma2xVblZaNXR6WG5mZWZ4anBRV3ltUnptdUZiX1F5YUpqNm80TnN1eDk1WjI3TDlpTVBVdFQ5X2xWMl9LaVN1Y0t0UllZYThZRmFMVVRWTjJWUS1MVnhlYw?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Thu, 22 Oct 2026 19:30:51 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "4882fd0fb155fb268d11ad31",
+        "mode": "geopolitico",
+        "title": "Güney Kıbrıs’tan yeni Doğu Akdeniz hamlesi: Yunanistan’la MEB sınırlandırması gündemde - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTFTNkZRQlZsWF9lbmtfVWZRdy1NOVdROEpMa1hNdFYyZDFOa19BdV9LQThJa2U1RUFZbExQUjhKSEZ1eC1ZanN4UnFLZHFoNnJuN1JTTVhIREtPajdWQTNoMV9rVjEtZmJxYWJ3dWwwaF84OWVqaG45T2hvZm9pM2xBWmQ5WkZMWElhNXFXOEN0cjVVM0tZeTAwM1V4S1JCTllZcTZaR0lTV3Fq?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sat, 24 Oct 2026 08:18:08 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Doğu Akdeniz",
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "MEB",
+          "sınır"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "802bcf70d9acfd0fc625b506",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz'de yeni gerilim: Güney Kıbrıs ve Yunanistan'dan AB'ye Türkiye şikayeti - Yeni Ankara",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkxXYi1nclRqQk8zVm5ubnlmdzFlQ0FwaUxhTEFPSDd5dDljMkFwN0hrc0hsYU1ZaW5hMHdodUNYMFZVeUIwblNHUWpTZlhzZDhSdTlSeTVaV0V4cGw3TXFuelVUVHJtRmlFRUh5STlDRE43MlBId2FRWE9UT3FnUGZubVE1VWc1Vi1WSEJLQTZWWFBQamJJTVhZYWJiNXpaS0tVRDNTbS1UcHdRYmlNNFVmUUlFNEZX0gG-AUFVX3lxTE5WYUZHN3dYQ3dYOWVUcHNubkJ5eGM0Q2ZCQUI5YWNpNllzU1BzbnhuSjlaMlQ2Xzl3akxILWhVSUNUbXRTR1F1VFdPczRfbG5UUXo0QlNjTkNST1BVNVdRVDNTQVZSVVQzckx1bHI2cXhTenFYUXB0NUN1M280WEdEeGRNZjBFY0ZFU2FCUTJFQTFSUF84MUVHNXpZQVdFWmVzLTB3M1c0d0NHdmI4XzFkamV4U1VzY2tMZHpYTkE?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sat, 24 Oct 2026 07:22:21 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Doğu Akdeniz",
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "Ankara",
+          "gerilim"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "ca27a6bff8dd1a54ca2176e6",
         "mode": "geopolitico",
@@ -177,7 +178,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 24 Oct 2026 06:52:00 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -187,21 +188,22 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "db6c3f29360a4bc9d305a5dd",
+        "external_id": "76a3c363501e8e1143672a84",
         "mode": "geopolitico",
-        "title": "Rum milletvekilinden Yunanistan-Güney Kıbrıs-İsrail hattı paylaşımı - Kars Manşet",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb201X3NHcDkwY29xZ2ozbWlud1V6bDJMdkNhb3JzMm1wUHJZa2t1ajNjWGJlRUduWGdXbkY5STNzNWlVWTZiQnR5M282dUtIQ0tZdkNJcy1JTlRpQldjNHduNUpSUGV6dHgzTjlnZUR4ZHlncEl5UXRoOHBPcW80bzByWWxsM1hFM2VycEE0aEhMa1BIU3V1Z0FOZGVlc0lfalZtMXN4bWZQU2VkSEs2RGt5ZWk2Q3JXN2lxYmd1VXZpQdIBwgFBVV95cUxNb201X3NHcDkwY29xZ2ozbWlud1V6bDJMdkNhb3JzMm1wUHJZa2t1ajNjWGJlRUduWGdXbkY5STNzNWlVWTZiQnR5M282dUtIQ0tZdkNJcy1JTlRpQldjNHduNUpSUGV6dHgzTjlnZUR4ZHlncEl5UXRoOHBPcW80bzByWWxsM1hFM2VycEE0aEhMa1BIU3V1Z0FOZGVlc0lfalZtMXN4bWZQU2VkSEs2RGt5ZWk2Q3JXN2lxYmd1VXZpQQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 23 Oct 2026 19:24:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
+        "title": "Turkey opens trial of Netanyahu, 34 other Israelis over Gaza-bound Sumud flotilla interception - The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXMExQVVpNQ09TbG4zZGpnTWtHM1ZSOENfNUFIeUJQNm5HRUVZTFlNUUwwVHZaSVBtSWJTSDJmYXdnVU9yTUZ0M21sMm1CZEdlc1p4U3RNRW5YUHJj?oc=5",
+        "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
+        "published": "Sat, 24 Oct 2026 10:23:05 GMT",
+        "base_score": 94,
+        "candidate_score": 109,
         "priority": "URGENT",
         "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "Güney Kıbrıs"
+          "Israel",
+          "Israeli",
+          "Netanyahu",
+          "Turkey"
         ],
-        "content_type": "turkey_greece"
+        "content_type": "news"
       },
       {
         "external_id": "ff93d7e02f16d53b31458cd1",
@@ -228,7 +230,7 @@
         "source": "Pakistan Security Watch",
         "published": "Fri, 23 Oct 2026 16:26:23 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pakistan",
@@ -244,7 +246,7 @@
         "mode": "geopolitico",
         "title": "Hakan Fidan'dan Yunanistan'a 12 mil mesajı - Tabya Dijital",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrMGZ2TWNWS1A3RUpkNUhsajhOLU9wQWxpTTZFYlQxQU54NGdQVERXWkpqTVNydlVqVS11eW9SZUVzcjg5R2M4d3RXemZ6WEtSRWtqTVBINzFFMWhYRThOYjdpemxMVC1ub2VQTFpnZWdPODVz?oc=5",
-        "source": "Turkey Greece Breaking Watch",
+        "source": "Eastern Mediterranean Turkey Watch",
         "published": "Fri, 23 Oct 2026 11:47:31 GMT",
         "base_score": 100,
         "candidate_score": 103,
@@ -274,46 +276,27 @@
           "Turkey"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "e44dd234fbf6759bcf6b3826",
-        "mode": "geopolitico",
-        "title": "Greece must build the defence industry Europe needs, starting with Israel - https://tanea.com.au/",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2lvTmxsSGdEdTV5eUV2WDNjcmlQdWNoTDNqTTI0MFpoM0wxQ1BiNk1fMVg4LW85bWFBSnJVSUd0S0FNN0tLSGtyb0RGTW85WGtsQVZzUHBSaUlSTkp0NkVJOW9fcjM2QzN6TVF5VGk1MEhDRVowYVlhR2hqbTRxSk9wOU9Ua21sWEpNRTR1cGJQOUxteGJVVlpaMGhkZw?oc=5",
-        "source": "Line of State Shay Gal Watch",
-        "published": "Fri, 23 Oct 2026 04:30:38 GMT",
-        "base_score": 98,
-        "candidate_score": 101,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "defence",
-          "industry",
-          "defence industry"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "14e87ea593cd3e091b4dc3db",
-        "mode": "geopolitico",
-        "title": "Yunanistan, her F-35 için 6 insansız savaş uçağı planlıyor - Tabya Dijital",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOXpCckl2UkEwVjU4V1VOWFZXTUJNU180OG5jakJyLXZYZmJTTFdEYzZpUDVLTU9DM1NucHoyUnc3LWhtNWp2R3BoeU8wZGczQk94aXpWaXVwclVFSFB4NkQzbTNid05FazVWSmtyenhfZUNJVVNzd2FNN21lU1ZOdUlabC1JNFFoZnpV?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Fri, 23 Oct 2026 12:02:32 GMT",
-        "base_score": 86,
-        "candidate_score": 89,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "F-35",
-          "savaş uçağı",
-          "F-35"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "2dc7fd01f11706b3334ee66a",
+        "mode": "pontos_voice",
+        "title": "Στουτγάρδη: «Ποντιακή Εστία» και Σύλλογος Ποντίων «Αργοναύται-Κομνηνοί» τιμούν από κοινού την πολιτιστική κληρονομιά του Πόντου - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVVndHBhYnBuVUF0NG5JbUVrUWJRS1l0bUp3a3B0MWI2elBQRFkySUZSOGR1OWRDX0JscGMyZ2hzc2ppQ0J5MUtGMXRXak5pZzNHOFg3d3RTTnlYLTdPMFFQSFZoZVAzMHB5SkhPT1duSjNiTDVqUDQwN0hTMGFDVDQyV1dtalpwdnRGWW9hWllubGliV1haOWRfV2hSVE1nbVotRGU5TFBqNGIzWllhOEE3WkNzLVJFeVZ2ZDhjX1FzZFk1RjFFRVJtU1BNMHBnU2pv?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 24 Oct 2026 11:50:44 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακή",
+          "Σύλλογος Ποντίων",
+          "πολιτιστική κληρονομιά"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "5cc6a0c0bb3bff5ff154f9bb",
         "mode": "pontos_voice",
@@ -322,7 +305,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 23 Oct 2026 13:46:29 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -332,46 +315,48 @@
         "content_type": "news"
       },
       {
-        "external_id": "151974387e050e2a64da5cdd",
+        "external_id": "ff8a64b52e863dbf3b482623",
         "mode": "pontos_voice",
-        "title": "Πόντιοι στη Ρωσία: Η έκκληση 100.000 εγκλωβισμένων που ζητούσαν μόνο άδεια εξόδου - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1MwRDJJREgwTlRzdEJOa05TU0psQlh1R29PZlp4UW5OeFlEd0Jxd2JUVXhqVzRocTNQVFZheHFGa2YzLUpWdE9mbFh2amJ2TzE4T0hiV0E1WktDRmRqXzcyNjc2dkEzMDZjYi13TkdxQ0U4eFRhR1c3VDJZX2pEdjBKRVVpMHNoMlhCQ291UktnV2g0WEo4Q0Zic1VTd1JWUjhmR0k5c0Fxc2RZcWw1QzQ3YWFNODVWTkRIWHRLZzVmOFA5aERn?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Thu, 22 Oct 2026 10:42:33 GMT",
-        "base_score": 78,
-        "candidate_score": 78,
+        "title": "Trabzon’un lezzetleri yarışacak",
+        "url": "https://www.61saat.com/trabzonun-lezzetleri-yarisacak",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 24 Oct 2026 11:44:00 +0300",
+        "base_score": 64,
+        "candidate_score": 74,
         "priority": "High",
         "matched_keywords": [
-          "Pontos",
-          "Πόντιοι"
+          "Trabzon",
+          "Rumlar",
+          "Trabzon",
+          "vali"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "907020d52a4b62851edfffbb",
+        "external_id": "4312c4ae66a5086933bd1c39",
         "mode": "pontos_voice",
-        "title": "Şenol Güneş'ten Sergen Yalçın açıklaması! “Sözlerim yanlış yorumlandı”",
-        "url": "https://www.61saat.com/senol-gunesten-sergen-yalcin-aciklamasi-sozlerim-yanlis-yorumlandi",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 24 Oct 2026 10:05:00 +0300",
-        "base_score": 49,
-        "candidate_score": 64,
+        "title": "Bakan Yardımcısı Hamza Yerlikaya'dan Trabzonspor'a ziyaret! Forma hediye edildi - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHkyelF3Rk1RNEVubUpMeTRTMTdfU19rcTdkdWJSdnBNdnpCdVZYb3gwaXpfWHBEbTF1aHNrT0hQRlp6VG9QbDNMY1lMNlE3RnhrNW03TzZMbGI3UnRlcXNaaUZuWHFKMWQ5b0UwR1pQUVhFRmhrbUMzenlLMktLU0pWQWpjSHpYdnpIZDJCY0xGam12QWp6UXRPc2U3ZnZ2WXdOWV9ySzlpalVaUUoxeWY3dGU0UHItYXpvSFFB?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Sat, 24 Oct 2026 10:57:56 GMT",
+        "base_score": 51,
+        "candidate_score": 66,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "açıklama",
+          "bakan",
           "Trabzon",
           "dil"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "56f850300d358760c4b84ce3",
+        "external_id": "c18695c6db71491bab4bf026",
         "mode": "pontos_voice",
-        "title": "Trabzon'da palamut mesaisi! Sahil Güvenlik denetimleri sıklaştırdı",
-        "url": "https://www.61saat.com/trabzonda-palamut-mesaisi-sahil-guvenlik-denetimleri-siklastirdi",
+        "title": "Trabzon'da yüzlerce kişinin ekmek kapısı... Sevdam Karadeniz'i kaybetmeyelim!",
+        "url": "https://www.61saat.com/trabzonda-yuzlerce-kisinin-ekmek-kapisi-sevdam-karadenizi-kaybetmeyelim",
         "source": "61Saat Trabzon",
-        "published": "Sat, 24 Oct 2026 09:56:00 +0300",
+        "published": "Sat, 24 Oct 2026 13:28:00 +0300",
         "base_score": 46,
         "candidate_score": 61,
         "priority": "Normal",
@@ -383,36 +368,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "89d993cb1e81edce93830e24",
+        "external_id": "4d63d3c09a425e48346ef0f5",
         "mode": "pontos_voice",
-        "title": "Trabzonspor’da Melih Kabasakal’a Reis dokunuşu! Geri dönüyor",
-        "url": "https://www.61saat.com/trabzonsporda-melih-kabasakala-reis-dokunusu-geri-donuyor",
+        "title": "Bakan Yardımcısı Yerlikaya'ya Trabzon'da Salah forması",
+        "url": "https://www.61saat.com/bakan-yardimcisi-yerlikayaya-trabzonda-salah-formasi",
         "source": "61Saat Trabzon",
-        "published": "Sat, 24 Oct 2026 09:52:00 +0300",
+        "published": "Sat, 24 Oct 2026 13:38:00 +0300",
         "base_score": 44,
         "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Rize",
+          "bakan",
           "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "6994543356f0515a3531ad0d",
-        "mode": "pontos_voice",
-        "title": "Karadeniz’deki drone saldırıları Sarp Sınır Kapısı'nı vurdu! Trabzon ticareti için uyarı - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlZ0SVVIR3Jad0tFUnBQTDFLUGRZN04xdGptOWs0ZjlFaWtsZ29CVEprUkRMcUdDdW90X3FzMk9rRjVqdUJQT1U4eGtJa2h5MzV5RHY4SVp1eU9nNlJQRkpjWEVtbURhaC1EbzdOQktTN1o5X3JxNGVUZGQxZGxGWlRvX0FCRlFxMHBKVFd4LU9RNHhYNktMNURTdG93RXU5YUh3R3BYX3J0bWhxNDA4ZFdCRzFXZUZYaUQzX1hzVzh6ckVH?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sat, 24 Oct 2026 06:27:34 GMT",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "Karadeniz"
         ],
         "content_type": "news"
       }
@@ -427,7 +395,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 23 Oct 2026 02:41:00 GMT",
       "base_score": 66,
-      "candidate_score": 87,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -437,8 +405,8 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "e8c1511dc3f079e881ce29a6",
@@ -448,7 +416,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 23 Oct 2026 16:10:05 GMT",
       "base_score": 70,
-      "candidate_score": 84,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -469,8 +437,8 @@
       "source": "PAOK Rumour Watch",
       "published": "Fri, 23 Oct 2026 14:17:24 GMT",
       "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "PAOK",
         "Super League"
@@ -489,7 +457,7 @@
       "source": "AEK Rumour Watch",
       "published": "Fri, 23 Oct 2026 16:11:16 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -498,26 +466,6 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "a7f9e77c5305f0f14e18d5c2",
-      "mode": "sportdog",
-      "title": "Penalties conceded - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDYtY2ZueVNPY0p0TmpiekhMSnJlX3lLMGZBT0tONEtTbGxIU2R1MURRalBVTlpWSzMxb1k1eWFEMEJoTXZHNDc2ZlM3N0x3LU5BdjRCOGE5RnhEQkRyaURnd2VXOWx5WHVCLXBGb2Zib0ZsV3pwQWxQZE05VzZVeUVXakg2NmdCRnlxbEo2TFJ4ODdoNmJFVXYzNXhRdXZCYzUyM0tXY1NtZXBjZDh3?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Thu, 22 Oct 2026 22:52:25 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -549,7 +497,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 24 Oct 2026 03:03:05 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -561,23 +509,44 @@
       "needs_second_source": true
     },
     {
-      "external_id": "76dc4c6af16740239ae099fb",
-      "mode": "sportdog",
-      "title": "Manchester City vs. AEK Athens: UCL Match Highlights (10/20) - Scoreline Stream of Soccer - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3lJNHVnOVBLUThwYXFyeGRtODQ0YlB6b3FiVEJoWXJVbUFaVmNzOVg0SWFJRlJJaC1rMWtZejlIQlR3S09BTmtNejQxblpORFE2czBJRUh0OVkxMlM3QjIzbk55UzVPam5EOVlnWnE4eTcyUmgtcS1LUzVyQWVma2xVblZaNXR6WG5mZWZ4anBRV3ltUnptdUZiX1F5YUpqNm80TnN1eDk1WjI3TDlpTVBVdFQ5X2xWMl9LaVN1Y0t0UllZYThZRmFMVVRWTjJWUS1MVnhlYw?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Thu, 22 Oct 2026 19:30:51 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
+      "external_id": "4882fd0fb155fb268d11ad31",
+      "mode": "geopolitico",
+      "title": "Güney Kıbrıs’tan yeni Doğu Akdeniz hamlesi: Yunanistan’la MEB sınırlandırması gündemde - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTFTNkZRQlZsWF9lbmtfVWZRdy1NOVdROEpMa1hNdFYyZDFOa19BdV9LQThJa2U1RUFZbExQUjhKSEZ1eC1ZanN4UnFLZHFoNnJuN1JTTVhIREtPajdWQTNoMV9rVjEtZmJxYWJ3dWwwaF84OWVqaG45T2hvZm9pM2xBWmQ5WkZMWElhNXFXOEN0cjVVM0tZeTAwM1V4S1JCTllZcTZaR0lTV3Fq?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sat, 24 Oct 2026 08:18:08 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
       "matched_keywords": [
-        "AEK"
+        "Yunanistan",
+        "Doğu Akdeniz",
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "MEB",
+        "sınır"
       ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "802bcf70d9acfd0fc625b506",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz'de yeni gerilim: Güney Kıbrıs ve Yunanistan'dan AB'ye Türkiye şikayeti - Yeni Ankara",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkxXYi1nclRqQk8zVm5ubnlmdzFlQ0FwaUxhTEFPSDd5dDljMkFwN0hrc0hsYU1ZaW5hMHdodUNYMFZVeUIwblNHUWpTZlhzZDhSdTlSeTVaV0V4cGw3TXFuelVUVHJtRmlFRUh5STlDRE43MlBId2FRWE9UT3FnUGZubVE1VWc1Vi1WSEJLQTZWWFBQamJJTVhZYWJiNXpaS0tVRDNTbS1UcHdRYmlNNFVmUUlFNEZX0gG-AUFVX3lxTE5WYUZHN3dYQ3dYOWVUcHNubkJ5eGM0Q2ZCQUI5YWNpNllzU1BzbnhuSjlaMlQ2Xzl3akxILWhVSUNUbXRTR1F1VFdPczRfbG5UUXo0QlNjTkNST1BVNVdRVDNTQVZSVVQzckx1bHI2cXhTenFYUXB0NUN1M280WEdEeGRNZjBFY0ZFU2FCUTJFQTFSUF84MUVHNXpZQVdFWmVzLTB3M1c0d0NHdmI4XzFkamV4U1VzY2tMZHpYTkE?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sat, 24 Oct 2026 07:22:21 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Doğu Akdeniz",
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "Ankara",
+        "gerilim"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "ca27a6bff8dd1a54ca2176e6",
@@ -587,7 +556,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 24 Oct 2026 06:52:00 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -597,21 +566,22 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "db6c3f29360a4bc9d305a5dd",
+      "external_id": "76a3c363501e8e1143672a84",
       "mode": "geopolitico",
-      "title": "Rum milletvekilinden Yunanistan-Güney Kıbrıs-İsrail hattı paylaşımı - Kars Manşet",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb201X3NHcDkwY29xZ2ozbWlud1V6bDJMdkNhb3JzMm1wUHJZa2t1ajNjWGJlRUduWGdXbkY5STNzNWlVWTZiQnR5M282dUtIQ0tZdkNJcy1JTlRpQldjNHduNUpSUGV6dHgzTjlnZUR4ZHlncEl5UXRoOHBPcW80bzByWWxsM1hFM2VycEE0aEhMa1BIU3V1Z0FOZGVlc0lfalZtMXN4bWZQU2VkSEs2RGt5ZWk2Q3JXN2lxYmd1VXZpQdIBwgFBVV95cUxNb201X3NHcDkwY29xZ2ozbWlud1V6bDJMdkNhb3JzMm1wUHJZa2t1ajNjWGJlRUduWGdXbkY5STNzNWlVWTZiQnR5M282dUtIQ0tZdkNJcy1JTlRpQldjNHduNUpSUGV6dHgzTjlnZUR4ZHlncEl5UXRoOHBPcW80bzByWWxsM1hFM2VycEE0aEhMa1BIU3V1Z0FOZGVlc0lfalZtMXN4bWZQU2VkSEs2RGt5ZWk2Q3JXN2lxYmd1VXZpQQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 23 Oct 2026 19:24:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
+      "title": "Turkey opens trial of Netanyahu, 34 other Israelis over Gaza-bound Sumud flotilla interception - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXMExQVVpNQ09TbG4zZGpnTWtHM1ZSOENfNUFIeUJQNm5HRUVZTFlNUUwwVHZaSVBtSWJTSDJmYXdnVU9yTUZ0M21sMm1CZEdlc1p4U3RNRW5YUHJj?oc=5",
+      "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
+      "published": "Sat, 24 Oct 2026 10:23:05 GMT",
+      "base_score": 94,
+      "candidate_score": 109,
       "priority": "URGENT",
       "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "Güney Kıbrıs"
+        "Israel",
+        "Israeli",
+        "Netanyahu",
+        "Turkey"
       ],
-      "content_type": "turkey_greece"
+      "content_type": "news"
     },
     {
       "external_id": "ff93d7e02f16d53b31458cd1",
@@ -638,7 +608,7 @@
       "source": "Pakistan Security Watch",
       "published": "Fri, 23 Oct 2026 16:26:23 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pakistan",
@@ -654,7 +624,7 @@
       "mode": "geopolitico",
       "title": "Hakan Fidan'dan Yunanistan'a 12 mil mesajı - Tabya Dijital",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrMGZ2TWNWS1A3RUpkNUhsajhOLU9wQWxpTTZFYlQxQU54NGdQVERXWkpqTVNydlVqVS11eW9SZUVzcjg5R2M4d3RXemZ6WEtSRWtqTVBINzFFMWhYRThOYjdpemxMVC1ub2VQTFpnZWdPODVz?oc=5",
-      "source": "Turkey Greece Breaking Watch",
+      "source": "Eastern Mediterranean Turkey Watch",
       "published": "Fri, 23 Oct 2026 11:47:31 GMT",
       "base_score": 100,
       "candidate_score": 103,
@@ -686,41 +656,22 @@
       "content_type": "news"
     },
     {
-      "external_id": "e44dd234fbf6759bcf6b3826",
-      "mode": "geopolitico",
-      "title": "Greece must build the defence industry Europe needs, starting with Israel - https://tanea.com.au/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2lvTmxsSGdEdTV5eUV2WDNjcmlQdWNoTDNqTTI0MFpoM0wxQ1BiNk1fMVg4LW85bWFBSnJVSUd0S0FNN0tLSGtyb0RGTW85WGtsQVZzUHBSaUlSTkp0NkVJOW9fcjM2QzN6TVF5VGk1MEhDRVowYVlhR2hqbTRxSk9wOU9Ua21sWEpNRTR1cGJQOUxteGJVVlpaMGhkZw?oc=5",
-      "source": "Line of State Shay Gal Watch",
-      "published": "Fri, 23 Oct 2026 04:30:38 GMT",
-      "base_score": 98,
-      "candidate_score": 101,
+      "external_id": "2dc7fd01f11706b3334ee66a",
+      "mode": "pontos_voice",
+      "title": "Στουτγάρδη: «Ποντιακή Εστία» και Σύλλογος Ποντίων «Αργοναύται-Κομνηνοί» τιμούν από κοινού την πολιτιστική κληρονομιά του Πόντου - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVVndHBhYnBuVUF0NG5JbUVrUWJRS1l0bUp3a3B0MWI2elBQRFkySUZSOGR1OWRDX0JscGMyZ2hzc2ppQ0J5MUtGMXRXak5pZzNHOFg3d3RTTnlYLTdPMFFQSFZoZVAzMHB5SkhPT1duSjNiTDVqUDQwN0hTMGFDVDQyV1dtalpwdnRGWW9hWllubGliV1haOWRfV2hSVE1nbVotRGU5TFBqNGIzWllhOEE3WkNzLVJFeVZ2ZDhjX1FzZFk1RjFFRVJtU1BNMHBnU2pv?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 24 Oct 2026 11:50:44 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
       "priority": "URGENT",
       "matched_keywords": [
-        "Greece",
-        "Israel",
-        "defence",
-        "industry",
-        "defence industry"
+        "Pontos",
+        "ποντιακή",
+        "Σύλλογος Ποντίων",
+        "πολιτιστική κληρονομιά"
       ],
       "content_type": "news"
-    },
-    {
-      "external_id": "14e87ea593cd3e091b4dc3db",
-      "mode": "geopolitico",
-      "title": "Yunanistan, her F-35 için 6 insansız savaş uçağı planlıyor - Tabya Dijital",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOXpCckl2UkEwVjU4V1VOWFZXTUJNU180OG5jakJyLXZYZmJTTFdEYzZpUDVLTU9DM1NucHoyUnc3LWhtNWp2R3BoeU8wZGczQk94aXpWaXVwclVFSFB4NkQzbTNid05FazVWSmtyenhfZUNJVVNzd2FNN21lU1ZOdUlabC1JNFFoZnpV?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Fri, 23 Oct 2026 12:02:32 GMT",
-      "base_score": 86,
-      "candidate_score": 89,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "F-35",
-        "savaş uçağı",
-        "F-35"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "5cc6a0c0bb3bff5ff154f9bb",
@@ -730,7 +681,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 23 Oct 2026 13:46:29 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -740,46 +691,48 @@
       "content_type": "news"
     },
     {
-      "external_id": "151974387e050e2a64da5cdd",
+      "external_id": "ff8a64b52e863dbf3b482623",
       "mode": "pontos_voice",
-      "title": "Πόντιοι στη Ρωσία: Η έκκληση 100.000 εγκλωβισμένων που ζητούσαν μόνο άδεια εξόδου - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1MwRDJJREgwTlRzdEJOa05TU0psQlh1R29PZlp4UW5OeFlEd0Jxd2JUVXhqVzRocTNQVFZheHFGa2YzLUpWdE9mbFh2amJ2TzE4T0hiV0E1WktDRmRqXzcyNjc2dkEzMDZjYi13TkdxQ0U4eFRhR1c3VDJZX2pEdjBKRVVpMHNoMlhCQ291UktnV2g0WEo4Q0Zic1VTd1JWUjhmR0k5c0Fxc2RZcWw1QzQ3YWFNODVWTkRIWHRLZzVmOFA5aERn?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Thu, 22 Oct 2026 10:42:33 GMT",
-      "base_score": 78,
-      "candidate_score": 78,
+      "title": "Trabzon’un lezzetleri yarışacak",
+      "url": "https://www.61saat.com/trabzonun-lezzetleri-yarisacak",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 24 Oct 2026 11:44:00 +0300",
+      "base_score": 64,
+      "candidate_score": 74,
       "priority": "High",
       "matched_keywords": [
-        "Pontos",
-        "Πόντιοι"
+        "Trabzon",
+        "Rumlar",
+        "Trabzon",
+        "vali"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "907020d52a4b62851edfffbb",
+      "external_id": "4312c4ae66a5086933bd1c39",
       "mode": "pontos_voice",
-      "title": "Şenol Güneş'ten Sergen Yalçın açıklaması! “Sözlerim yanlış yorumlandı”",
-      "url": "https://www.61saat.com/senol-gunesten-sergen-yalcin-aciklamasi-sozlerim-yanlis-yorumlandi",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 24 Oct 2026 10:05:00 +0300",
-      "base_score": 49,
-      "candidate_score": 64,
+      "title": "Bakan Yardımcısı Hamza Yerlikaya'dan Trabzonspor'a ziyaret! Forma hediye edildi - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHkyelF3Rk1RNEVubUpMeTRTMTdfU19rcTdkdWJSdnBNdnpCdVZYb3gwaXpfWHBEbTF1aHNrT0hQRlp6VG9QbDNMY1lMNlE3RnhrNW03TzZMbGI3UnRlcXNaaUZuWHFKMWQ5b0UwR1pQUVhFRmhrbUMzenlLMktLU0pWQWpjSHpYdnpIZDJCY0xGam12QWp6UXRPc2U3ZnZ2WXdOWV9ySzlpalVaUUoxeWY3dGU0UHItYXpvSFFB?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Sat, 24 Oct 2026 10:57:56 GMT",
+      "base_score": 51,
+      "candidate_score": 66,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "açıklama",
+        "bakan",
         "Trabzon",
         "dil"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "56f850300d358760c4b84ce3",
+      "external_id": "c18695c6db71491bab4bf026",
       "mode": "pontos_voice",
-      "title": "Trabzon'da palamut mesaisi! Sahil Güvenlik denetimleri sıklaştırdı",
-      "url": "https://www.61saat.com/trabzonda-palamut-mesaisi-sahil-guvenlik-denetimleri-siklastirdi",
+      "title": "Trabzon'da yüzlerce kişinin ekmek kapısı... Sevdam Karadeniz'i kaybetmeyelim!",
+      "url": "https://www.61saat.com/trabzonda-yuzlerce-kisinin-ekmek-kapisi-sevdam-karadenizi-kaybetmeyelim",
       "source": "61Saat Trabzon",
-      "published": "Sat, 24 Oct 2026 09:56:00 +0300",
+      "published": "Sat, 24 Oct 2026 13:28:00 +0300",
       "base_score": 46,
       "candidate_score": 61,
       "priority": "Normal",
@@ -791,36 +744,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "89d993cb1e81edce93830e24",
+      "external_id": "4d63d3c09a425e48346ef0f5",
       "mode": "pontos_voice",
-      "title": "Trabzonspor’da Melih Kabasakal’a Reis dokunuşu! Geri dönüyor",
-      "url": "https://www.61saat.com/trabzonsporda-melih-kabasakala-reis-dokunusu-geri-donuyor",
+      "title": "Bakan Yardımcısı Yerlikaya'ya Trabzon'da Salah forması",
+      "url": "https://www.61saat.com/bakan-yardimcisi-yerlikayaya-trabzonda-salah-formasi",
       "source": "61Saat Trabzon",
-      "published": "Sat, 24 Oct 2026 09:52:00 +0300",
+      "published": "Sat, 24 Oct 2026 13:38:00 +0300",
       "base_score": 44,
       "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Rize",
+        "bakan",
         "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "6994543356f0515a3531ad0d",
-      "mode": "pontos_voice",
-      "title": "Karadeniz’deki drone saldırıları Sarp Sınır Kapısı'nı vurdu! Trabzon ticareti için uyarı - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlZ0SVVIR3Jad0tFUnBQTDFLUGRZN04xdGptOWs0ZjlFaWtsZ29CVEprUkRMcUdDdW90X3FzMk9rRjVqdUJQT1U4eGtJa2h5MzV5RHY4SVp1eU9nNlJQRkpjWEVtbURhaC1EbzdOQktTN1o5X3JxNGVUZGQxZGxGWlRvX0FCRlFxMHBKVFd4LU9RNHhYNktMNURTdG93RXU5YUh3R3BYX3J0bWhxNDA4ZFdCRzFXZUZYaUQzX1hzVzh6ckVH?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sat, 24 Oct 2026 06:27:34 GMT",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "Karadeniz"
       ],
       "content_type": "news"
     }
