@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T06:50:43.665650+00:00",
+  "generated_at": "2026-10-25T12:09:46.461389+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 13,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -28,6 +28,46 @@
         "needs_second_source": false
       },
       {
+        "external_id": "d3382d529a1d2b9a312e8e82",
+        "mode": "sportdog",
+        "title": "Imrân Louza Transfer from Watford to Panathinaikos - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFlQSG9kLV8tbWoxSldISkxjclZBRkJwRW5SS0lkYVBOLWUyM2RsMUE3X2RneWFlYzJiaTZCZ2d6cC12bUU5ZnNaM29vT3dFWDVRd3FOVTdFZjdUbF81VzU1UDdRbm5yaGt5WnR4M0NUOWJGU2tvc0VGVkVRdDZvZmROMmdESkhG?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Sat, 24 Oct 2026 12:46:51 GMT",
+        "base_score": 58,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "3cb00839c8ed034cce3164bd",
+        "mode": "sportdog",
+        "title": "Etienne Camara Transfer from Sporting Charleroi to Panathinaikos - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQzIwQk1DVmhTT0dSVjg5WW51MmNHNi1UNExneDZnZl9GSE5QMEI5OGlPQy1zN01Jb0xMc2hFWDlpUEdaU1VrY2NHWTFCXzdzclh4TU1rUXFfajBDcTNCdnFiczFsQzRpWXJkTFZPLUljRmtUb0VuV1BLZ0xZQVNWSnM0ZVZMZUdKZ2hHQVo4TW9WazQ?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Sat, 24 Oct 2026 12:30:12 GMT",
+        "base_score": 58,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "0d94fedbd4fc32a536dd8c4a",
         "mode": "sportdog",
         "title": "AEK Athens vs Panaitolikos: Greek Super League stats & head-to-head - BBC",
@@ -35,8 +75,8 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 24 Oct 2026 18:04:31 GMT",
         "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "AEK",
           "Super League"
@@ -68,6 +108,26 @@
         "needs_second_source": true
       },
       {
+        "external_id": "e91b1d300f4379b26dd19738",
+        "mode": "sportdog",
+        "title": "Roma send scouts to view Olympiacos defender - RomaPress",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZTZuTS00b1U1U2tQOGdmbXZYS3RCck5xMnNmTGQyMEltbHdIRUhxX040SHRkZ0pJYm5XV3ljWS1URGd6eVBENHBrc2JDaHpDeFJSc3UzOG5PWElRRUZFZjR6Vm45R05yTDlITVVxbWlxeGNlaVE?oc=5",
+        "source": "Transfer Insiders Greece Only",
+        "published": "Sun, 25 Oct 2026 12:05:08 GMT",
+        "base_score": 40,
+        "candidate_score": 63,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "defender"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "bcf499f424964c2b3b5cd520",
         "mode": "sportdog",
         "title": "Man City fans stay away from 5-1 Champions League rout of AEK Athens - ABC News - Breaking News, Latest News and Videos",
@@ -75,7 +135,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 24 Oct 2026 17:59:59 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -108,22 +168,40 @@
         "needs_second_source": true
       },
       {
-        "external_id": "007ced58c682adb230c092be",
+        "external_id": "35d66ae33b0c1da96fec7365",
         "mode": "sportdog",
-        "title": "Olympiacos Winger Gelson Martins on Their Recent Results: “As a Group, We’re at Our Best” - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHEyRnNOTW9WeDJhbld1MXdCcTBUdHJ4V19maW9DaTdOSzQtMTZvNDQ0TmtNa19jN0oxb1ZBTGdFRmFkeVVzZVpmN3MyR0ZqdEwtNk1aLUFzRDhDVlJSakZySDdsUzZRclpCZEdHakd3U3phdnJiWUhCb2hVRkc0TWY3LUp4VFYxMzNZSXFoeEZJbUtMODg5bjhsT0xxcTBUSjZZWjVlbzdFN05ZWE91cnRfZW5EUzVyUE1HMFd3V3JwZlFnM3owWkNfVkhDb1JSVzZuaXBxYk4xdw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 23 Oct 2026 21:43:01 GMT",
-        "base_score": 39,
-        "candidate_score": 47,
+        "title": "OFI vs PAOK Prediction, Betting Tips, Lineups & Odds | 25 Oct 2026 - Sportsgambler",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTNfNjhRckhUWnZoUG5VaFZSbUs3YUNIRlUyM0FldHZwckptaHpWSjhNME5YaktFTk43aTd0X1RwczNlS1ZpUVgwY3lWUlozdjFQTDRkYndiN2VwT2xmQ1J1b0VBcklVUWNmTGVUODZDTTVBZkgxektoam1yalpnRUZFRFdseEVUTi16MlV0cUNpX1JGSzdsY2wxRjI5dDhT?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 25 Oct 2026 09:32:56 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos",
-          "winger"
+          "PAOK"
         ],
         "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "61cd3b4286ea90d452441c47",
+        "mode": "sportdog",
+        "title": "Foden hattrick fuels Man City rout of AEK Athens - The Daily Star",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVVscUw2S1dZcW1YQ3M5a1BlVzg3b204QVBtX25aOEUtbC1aSE1hTnlILTRmRk9VYlQ2SnI0dGpFdzRjMzJObllkODU5UC0zZWhKdkw3aGFUZm5xY1ZldFFsUmhLSjd0WXhyWDItQ0U5WnhYTFhwekl4c2c2NkMzRUJJc0xjS1FCRDBrdDl6N1hwQ2ZTeXpxOGhEaTg2OU9SYkJKODZR?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sun, 25 Oct 2026 06:58:10 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -154,7 +232,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 24 Oct 2026 17:57:39 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -173,7 +251,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 24 Oct 2026 15:06:51 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -181,25 +259,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "61cd3b4286ea90d452441c47",
-        "mode": "sportdog",
-        "title": "Foden hattrick fuels Man City rout of AEK Athens - The Daily Star",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVVscUw2S1dZcW1YQ3M5a1BlVzg3b204QVBtX25aOEUtbC1aSE1hTnlILTRmRk9VYlQ2SnI0dGpFdzRjMzJObllkODU5UC0zZWhKdkw3aGFUZm5xY1ZldFFsUmhLSjd0WXhyWDItQ0U5WnhYTFhwekl4c2c2NkMzRUJJc0xjS1FCRDBrdDl6N1hwQ2ZTeXpxOGhEaTg2OU9SYkJKODZR?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Sat, 24 Oct 2026 01:23:48 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       }
@@ -213,7 +272,7 @@
         "source": "Aegean Turkey Watch",
         "published": "Sun, 25 Oct 2026 01:06:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Ege",
@@ -232,7 +291,7 @@
         "source": "Turkish Greek Relations Deep Watch",
         "published": "Sat, 24 Oct 2026 14:13:28 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Doğu Akdeniz",
@@ -261,31 +320,52 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "2b70119db9fe7e71bd1c86a0",
+        "external_id": "4882fd0fb155fb268d11ad31",
         "mode": "geopolitico",
-        "title": "Annita Dimitriu ve Kirakos Miçotakis görüşmesi: Kıbrıs, GSI ve Türkiye-AB ilişkileri gündemdeydi - Kıbrıs Postası",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMl9ERzRhM3MtS3pMSXItVlNaZ1Y5bDVfQWtaWk9XaW9OdWRKaXlPTVVQYVpCZ0F4RERVTlZwbjZUNDB1ajBqeUJZUUFLOWcwMkZUMlNfUnVIZm1OY3lSZklvVl8wOEVpX1hBZ3h3R21tNDNiQm9YREJUZWVoR2RCOUx4UElSalVBOGlVWFV1SEFUcUdNMkV6M3JNQnhpTlRuTzhkaGxPaWxacEZjaU53bF9rUzY0em9jRzQ5am1xWFJTNFFQd0NDaFUxdTluQldxUF95VFRxX2pxREQtVFZqLWJn?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 24 Oct 2026 10:01:00 GMT",
+        "title": "Güney Kıbrıs’tan yeni Doğu Akdeniz hamlesi: Yunanistan’la MEB sınırlandırması gündemde - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTFTNkZRQlZsWF9lbmtfVWZRdy1NOVdROEpMa1hNdFYyZDFOa19BdV9LQThJa2U1RUFZbExQUjhKSEZ1eC1ZanN4UnFLZHFoNnJuN1JTTVhIREtPajdWQTNoMV9rVjEtZmJxYWJ3dWwwaF84OWVqaG45T2hvZm9pM2xBWmQ5WkZMWElhNXFXOEN0cjVVM0tZeTAwM1V4S1JCTllZcTZaR0lTV3Fq?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Sat, 24 Oct 2026 08:18:08 GMT",
         "base_score": 100,
         "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
-          "GSI",
-          "Miçotakis",
+          "Yunanistan",
+          "Doğu Akdeniz",
           "Kıbrıs",
-          "görüşme",
-          "GSI"
+          "Güney Kıbrıs",
+          "MEB",
+          "sınır"
         ],
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "38dccba44bede36e282ac21b",
+        "external_id": "802bcf70d9acfd0fc625b506",
         "mode": "geopolitico",
-        "title": "Rum milletvekilinden Yunanistan-Güney Kıbrıs-İsrail hattı paylaşımı - Karadeniz Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDJDNXl3MVRkZ0dmZVUwU05PcFJHUnh0NndHMV9IekplNWJ6SlROWU1FZkJlOGNGSkR6ZXZad0ZvUFdsTXFuc2Z3QllHQllSR0plVDVua1hMU01hQ052VVBPTTE0QVh0QW9OWVZjTVZFMGZGTXI5Qk1oNWdBU2U0SE1fWVd6WFlLZXBQdTVzZGpXRk1JQ3FySjVueXU0Y1RfWG9VV1ZoVXMybXF0Z0l5MQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 24 Oct 2026 08:56:00 GMT",
+        "title": "Doğu Akdeniz'de yeni gerilim: Güney Kıbrıs ve Yunanistan'dan AB'ye Türkiye şikayeti - Yeni Ankara",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkxXYi1nclRqQk8zVm5ubnlmdzFlQ0FwaUxhTEFPSDd5dDljMkFwN0hrc0hsYU1ZaW5hMHdodUNYMFZVeUIwblNHUWpTZlhzZDhSdTlSeTVaV0V4cGw3TXFuelVUVHJtRmlFRUh5STlDRE43MlBId2FRWE9UT3FnUGZubVE1VWc1Vi1WSEJLQTZWWFBQamJJTVhZYWJiNXpaS0tVRDNTbS1UcHdRYmlNNFVmUUlFNEZX0gG-AUFVX3lxTE5WYUZHN3dYQ3dYOWVUcHNubkJ5eGM0Q2ZCQUI5YWNpNllzU1BzbnhuSjlaMlQ2Xzl3akxILWhVSUNUbXRTR1F1VFdPczRfbG5UUXo0QlNjTkNST1BVNVdRVDNTQVZSVVQzckx1bHI2cXhTenFYUXB0NUN1M280WEdEeGRNZjBFY0ZFU2FCUTJFQTFSUF84MUVHNXpZQVdFWmVzLTB3M1c0d0NHdmI4XzFkamV4U1VzY2tMZHpYTkE?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Sat, 24 Oct 2026 07:22:21 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Doğu Akdeniz",
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "Ankara",
+          "gerilim"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "ca27a6bff8dd1a54ca2176e6",
+        "mode": "geopolitico",
+        "title": "Güney Kıbrıs’tan Türkiye’ye karşı Yunanistan’la ortak hareket çağrısı - Ekovitrin Haber",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFpWeHlDYl9MenFVU2ZTQ25Za0JjV3ZSSFNqM2QwcnlabkxnWnRXVGMtcWpyY29nak1wTTFNbmg3VERDc3U0UXBzZk1xT0pCWG94YVhmUHd3WUNsWVhveDRhNW1WUTZNY2F5QlB2UHhxNE8yS2h3VFU5U1RDcUUzVmVVQlFPTklVMi1LamlpeTA0ZVZ4d19J?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Sat, 24 Oct 2026 06:52:00 GMT",
         "base_score": 100,
         "candidate_score": 103,
         "priority": "URGENT",
@@ -315,36 +395,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "2370e69b775a0572172938b4",
+        "external_id": "8834ca15a65555e64b49b541",
         "mode": "geopolitico",
-        "title": "Güney Kıbrıs'tan Atina'da Türkiye'ye karşı ortak hareket çağrısı - Notbir",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVBLUXV2Z3AybmRWbDI2Qk9ZWWNoUTBVUEJFV2hRa0lwNGMwdTBpRGs0NEtjaVJXWGkwTGFhRlhZeHdGV01aZUZXdFpOQmZ2cmtGekd1TEtfZFd5b3N0ZHk0QWlDTmo2aXBSdzQtN21GOWYwWlRxNER6Qy16c1dEb1ZZSkU2V0VSb2VYZzFNWEFpdlN6OVJN?oc=5",
-        "source": "Turkish Greek Relations Deep Watch",
-        "published": "Sat, 24 Oct 2026 06:53:07 GMT",
-        "base_score": 81,
-        "candidate_score": 84,
+        "title": "Pakistan-Iran Border Reopening Monday: Taftan Resumes Trade, LPG Trucks Await Clearance - Balochistan Pulse",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZHpUQ0J2TzBZdEtIS1lUajlQRm1FeDFXTzdiSG1heTUzN1c4UXdjZVhiTTY0X1lxRHVzdHg0X3NSZXl1d3pncmJGbllnWVdpQU9kdm5GVm9NeGo3ay1fX2FpNW0yNGtkRkZQS0NFdFFsOWpXUXNjTVd6UXR6bm53X01YQ0zSAYQBQVVfeXFMTWR6VENCdk8wWXRLSEtZVGo5UEZtRXgxV083YkhtYXk1MzdXOFF3Y2VYYk02NF9ZcUR1c3R4NF9zUmV5dXd6Z3JiRm5ZZ1lXaUFPZHZuRlZvTXhqN2stX19haTVtMjRrZEZGUEtDRXRRbDlqV1FzY01XelF0em5ud19NWENM?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 25 Oct 2026 11:17:32 GMT",
+        "base_score": 74,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "Atina"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "fb0e9a342d2fbdff3febff6c",
-        "mode": "geopolitico",
-        "title": "Israeli, Greek navies drill in Mediterranean, in apparent message to Turkey - The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMXMzNXg2cjNIMTBYYUhDb3pjeF9XUmRpNEtNWF9PX3RKOUphRTJpYl9XLWZBMzVyeFBDXzRCUHdkYkFVclVkdXEzUjVMdjlVOWl0dlN6WFdxUC05dGZ2em1xTnNOOURrSlZKZWJMSEo2S3BYd2hjYndid3dScTlBLTRyUHV2dWxWOXN3US12Zlp3MXJDUGJ0Y2Z5cTg3ekFyR0NaYXgtUdIBrAFBVV95cUxNZWtVemxOcHpzc1hudU1ub2l2Z1ZPcko2OXhpR2lVMmJvS1ZsUVZtTUtkdmxjTE9LejZ1Vnp0THFWSEx5NXBtZF9wano2czZIRHctYVlLLWFzWXdxVTVZNWcwRVdWaEE4Q1ZOMFcybWJtOTk0b2FyZy1MUUZURjFaTHFTdmlCN2IxQkxTRE9Xek1EWDJId0JZNWhXU190b21FVTZVLUQ5TF85MU5G?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Sun, 25 Oct 2026 04:09:49 GMT",
-        "base_score": 66,
-        "candidate_score": 81,
-        "priority": "High",
-        "matched_keywords": [
-          "Israel",
-          "Israeli",
-          "Turkey"
+          "Pakistan",
+          "Balochistan",
+          "Iran",
+          "trade"
         ],
         "content_type": "news"
       }
@@ -375,7 +439,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sat, 24 Oct 2026 14:35:57 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -402,6 +466,42 @@
         "content_type": "news"
       },
       {
+        "external_id": "69a59363e8f2cb28d4073fd6",
+        "mode": "pontos_voice",
+        "title": "Gençlik ve Spor Bakan Yardımcısı Hamza Yerlikaya'dan 61saat'e özel açıklamalar! \"Trabzon boksun membası gibi\"",
+        "url": "https://www.61saat.com/genclik-ve-spor-bakan-yardimcisi-hamza-yerlikayadan-61saate-ozel-aciklamalar-trabzon-boksun-membasi-gibi",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 25 Oct 2026 12:38:00 +0300",
+        "base_score": 49,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "bakan",
+          "açıklama",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "0682124d7630a6096475fe98",
+        "mode": "pontos_voice",
+        "title": "Başkan Suat Hekimoğlu 61saat'e açıkladı! Trabzon'a yeni şampiyona gelecek mi?",
+        "url": "https://www.61saat.com/baskan-suat-hekimoglu-61saate-acikladi-trabzona-yeni-sampiyona-gelecek-mi",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 25 Oct 2026 12:16:00 +0300",
+        "base_score": 49,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "açıklama",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "03fcdcbd3961fd27a7b84284",
         "mode": "pontos_voice",
         "title": "Karadeniz derbisinde zıt tablo! Rizespor evinde kayıp, Trabzonspor deplasmanda çıkış peşinde - Haber61",
@@ -409,47 +509,13 @@
         "source": "Haber61 Trabzon",
         "published": "Sun, 25 Oct 2026 05:48:41 GMT",
         "base_score": 53,
-        "candidate_score": 68,
+        "candidate_score": 63,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "Rize",
           "Trabzon",
           "Karadeniz"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "16dce3657fd64a6165165767",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor'un Rize üstünlüğü! Rakamlar konuşuyor",
-        "url": "https://www.61saat.com/trabzonsporun-rize-ustunlugu-rakamlar-konusuyor",
-        "source": "61Saat Trabzon",
-        "published": "Sun, 25 Oct 2026 09:42:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Rize",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "3383f5fb226677ed60a3081e",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor mağlubiyeti Rizepor tarihinde yer alacak! Daha önce yaşamadılar - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUtvTnRxek5SNjRUcWJsM0pUeXBZOVNXTDNKb2dpeWRkTXZoUjNFUXFtYlZhLTFqT2RBbWhubm1EaUVobFgxTXVyaGExeWgtMFhfc1VOeTlsRHFtSU9Lck9IZ1h2aEtWeXpXZFdUcXZ1YUtrWEVkS1dpV0tyVm9UcDNob1o4QVZxMTZBeFFaemlaY3VrNFU4OVpiQWpudGg0T0hRWVBXbHVKbG9YNmtVZEM1cHBBRm90?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sun, 25 Oct 2026 06:40:58 GMT",
-        "base_score": 42,
-        "candidate_score": 57,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Rize",
-          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -477,6 +543,46 @@
       "needs_second_source": false
     },
     {
+      "external_id": "d3382d529a1d2b9a312e8e82",
+      "mode": "sportdog",
+      "title": "Imrân Louza Transfer from Watford to Panathinaikos - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFlQSG9kLV8tbWoxSldISkxjclZBRkJwRW5SS0lkYVBOLWUyM2RsMUE3X2RneWFlYzJiaTZCZ2d6cC12bUU5ZnNaM29vT3dFWDVRd3FOVTdFZjdUbF81VzU1UDdRbm5yaGt5WnR4M0NUOWJGU2tvc0VGVkVRdDZvZmROMmdESkhG?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Sat, 24 Oct 2026 12:46:51 GMT",
+      "base_score": 58,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "3cb00839c8ed034cce3164bd",
+      "mode": "sportdog",
+      "title": "Etienne Camara Transfer from Sporting Charleroi to Panathinaikos - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQzIwQk1DVmhTT0dSVjg5WW51MmNHNi1UNExneDZnZl9GSE5QMEI5OGlPQy1zN01Jb0xMc2hFWDlpUEdaU1VrY2NHWTFCXzdzclh4TU1rUXFfajBDcTNCdnFiczFsQzRpWXJkTFZPLUljRmtUb0VuV1BLZ0xZQVNWSnM0ZVZMZUdKZ2hHQVo4TW9WazQ?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Sat, 24 Oct 2026 12:30:12 GMT",
+      "base_score": 58,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "0d94fedbd4fc32a536dd8c4a",
       "mode": "sportdog",
       "title": "AEK Athens vs Panaitolikos: Greek Super League stats & head-to-head - BBC",
@@ -484,8 +590,8 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 24 Oct 2026 18:04:31 GMT",
       "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "AEK",
         "Super League"
@@ -517,6 +623,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "e91b1d300f4379b26dd19738",
+      "mode": "sportdog",
+      "title": "Roma send scouts to view Olympiacos defender - RomaPress",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZTZuTS00b1U1U2tQOGdmbXZYS3RCck5xMnNmTGQyMEltbHdIRUhxX040SHRkZ0pJYm5XV3ljWS1URGd6eVBENHBrc2JDaHpDeFJSc3UzOG5PWElRRUZFZjR6Vm45R05yTDlITVVxbWlxeGNlaVE?oc=5",
+      "source": "Transfer Insiders Greece Only",
+      "published": "Sun, 25 Oct 2026 12:05:08 GMT",
+      "base_score": 40,
+      "candidate_score": 63,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "defender"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "bcf499f424964c2b3b5cd520",
       "mode": "sportdog",
       "title": "Man City fans stay away from 5-1 Champions League rout of AEK Athens - ABC News - Breaking News, Latest News and Videos",
@@ -524,7 +650,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 24 Oct 2026 17:59:59 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -557,22 +683,40 @@
       "needs_second_source": true
     },
     {
-      "external_id": "007ced58c682adb230c092be",
+      "external_id": "35d66ae33b0c1da96fec7365",
       "mode": "sportdog",
-      "title": "Olympiacos Winger Gelson Martins on Their Recent Results: “As a Group, We’re at Our Best” - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHEyRnNOTW9WeDJhbld1MXdCcTBUdHJ4V19maW9DaTdOSzQtMTZvNDQ0TmtNa19jN0oxb1ZBTGdFRmFkeVVzZVpmN3MyR0ZqdEwtNk1aLUFzRDhDVlJSakZySDdsUzZRclpCZEdHakd3U3phdnJiWUhCb2hVRkc0TWY3LUp4VFYxMzNZSXFoeEZJbUtMODg5bjhsT0xxcTBUSjZZWjVlbzdFN05ZWE91cnRfZW5EUzVyUE1HMFd3V3JwZlFnM3owWkNfVkhDb1JSVzZuaXBxYk4xdw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 23 Oct 2026 21:43:01 GMT",
-      "base_score": 39,
-      "candidate_score": 47,
+      "title": "OFI vs PAOK Prediction, Betting Tips, Lineups & Odds | 25 Oct 2026 - Sportsgambler",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTNfNjhRckhUWnZoUG5VaFZSbUs3YUNIRlUyM0FldHZwckptaHpWSjhNME5YaktFTk43aTd0X1RwczNlS1ZpUVgwY3lWUlozdjFQTDRkYndiN2VwT2xmQ1J1b0VBcklVUWNmTGVUODZDTTVBZkgxektoam1yalpnRUZFRFdseEVUTi16MlV0cUNpX1JGSzdsY2wxRjI5dDhT?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 25 Oct 2026 09:32:56 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos",
-        "winger"
+        "PAOK"
       ],
       "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "61cd3b4286ea90d452441c47",
+      "mode": "sportdog",
+      "title": "Foden hattrick fuels Man City rout of AEK Athens - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVVscUw2S1dZcW1YQ3M5a1BlVzg3b204QVBtX25aOEUtbC1aSE1hTnlILTRmRk9VYlQ2SnI0dGpFdzRjMzJObllkODU5UC0zZWhKdkw3aGFUZm5xY1ZldFFsUmhLSjd0WXhyWDItQ0U5WnhYTFhwekl4c2c2NkMzRUJJc0xjS1FCRDBrdDl6N1hwQ2ZTeXpxOGhEaTg2OU9SYkJKODZR?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sun, 25 Oct 2026 06:58:10 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -603,7 +747,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 24 Oct 2026 17:57:39 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -622,7 +766,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 24 Oct 2026 15:06:51 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -634,25 +778,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "61cd3b4286ea90d452441c47",
-      "mode": "sportdog",
-      "title": "Foden hattrick fuels Man City rout of AEK Athens - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVVscUw2S1dZcW1YQ3M5a1BlVzg3b204QVBtX25aOEUtbC1aSE1hTnlILTRmRk9VYlQ2SnI0dGpFdzRjMzJObllkODU5UC0zZWhKdkw3aGFUZm5xY1ZldFFsUmhLSjd0WXhyWDItQ0U5WnhYTFhwekl4c2c2NkMzRUJJc0xjS1FCRDBrdDl6N1hwQ2ZTeXpxOGhEaTg2OU9SYkJKODZR?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Sat, 24 Oct 2026 01:23:48 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "2976f707f8ca6fe310080a19",
       "mode": "geopolitico",
       "title": "Onur Öymen'den Hakan Fidan'a Ege'deki 12 mil açıklaması - Yeni Alanya",
@@ -660,7 +785,7 @@
       "source": "Aegean Turkey Watch",
       "published": "Sun, 25 Oct 2026 01:06:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Ege",
@@ -679,7 +804,7 @@
       "source": "Turkish Greek Relations Deep Watch",
       "published": "Sat, 24 Oct 2026 14:13:28 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Doğu Akdeniz",
@@ -708,31 +833,52 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "2b70119db9fe7e71bd1c86a0",
+      "external_id": "4882fd0fb155fb268d11ad31",
       "mode": "geopolitico",
-      "title": "Annita Dimitriu ve Kirakos Miçotakis görüşmesi: Kıbrıs, GSI ve Türkiye-AB ilişkileri gündemdeydi - Kıbrıs Postası",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMl9ERzRhM3MtS3pMSXItVlNaZ1Y5bDVfQWtaWk9XaW9OdWRKaXlPTVVQYVpCZ0F4RERVTlZwbjZUNDB1ajBqeUJZUUFLOWcwMkZUMlNfUnVIZm1OY3lSZklvVl8wOEVpX1hBZ3h3R21tNDNiQm9YREJUZWVoR2RCOUx4UElSalVBOGlVWFV1SEFUcUdNMkV6M3JNQnhpTlRuTzhkaGxPaWxacEZjaU53bF9rUzY0em9jRzQ5am1xWFJTNFFQd0NDaFUxdTluQldxUF95VFRxX2pxREQtVFZqLWJn?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 24 Oct 2026 10:01:00 GMT",
+      "title": "Güney Kıbrıs’tan yeni Doğu Akdeniz hamlesi: Yunanistan’la MEB sınırlandırması gündemde - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTFTNkZRQlZsWF9lbmtfVWZRdy1NOVdROEpMa1hNdFYyZDFOa19BdV9LQThJa2U1RUFZbExQUjhKSEZ1eC1ZanN4UnFLZHFoNnJuN1JTTVhIREtPajdWQTNoMV9rVjEtZmJxYWJ3dWwwaF84OWVqaG45T2hvZm9pM2xBWmQ5WkZMWElhNXFXOEN0cjVVM0tZeTAwM1V4S1JCTllZcTZaR0lTV3Fq?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Sat, 24 Oct 2026 08:18:08 GMT",
       "base_score": 100,
       "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
-        "GSI",
-        "Miçotakis",
+        "Yunanistan",
+        "Doğu Akdeniz",
         "Kıbrıs",
-        "görüşme",
-        "GSI"
+        "Güney Kıbrıs",
+        "MEB",
+        "sınır"
       ],
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "38dccba44bede36e282ac21b",
+      "external_id": "802bcf70d9acfd0fc625b506",
       "mode": "geopolitico",
-      "title": "Rum milletvekilinden Yunanistan-Güney Kıbrıs-İsrail hattı paylaşımı - Karadeniz Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDJDNXl3MVRkZ0dmZVUwU05PcFJHUnh0NndHMV9IekplNWJ6SlROWU1FZkJlOGNGSkR6ZXZad0ZvUFdsTXFuc2Z3QllHQllSR0plVDVua1hMU01hQ052VVBPTTE0QVh0QW9OWVZjTVZFMGZGTXI5Qk1oNWdBU2U0SE1fWVd6WFlLZXBQdTVzZGpXRk1JQ3FySjVueXU0Y1RfWG9VV1ZoVXMybXF0Z0l5MQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 24 Oct 2026 08:56:00 GMT",
+      "title": "Doğu Akdeniz'de yeni gerilim: Güney Kıbrıs ve Yunanistan'dan AB'ye Türkiye şikayeti - Yeni Ankara",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkxXYi1nclRqQk8zVm5ubnlmdzFlQ0FwaUxhTEFPSDd5dDljMkFwN0hrc0hsYU1ZaW5hMHdodUNYMFZVeUIwblNHUWpTZlhzZDhSdTlSeTVaV0V4cGw3TXFuelVUVHJtRmlFRUh5STlDRE43MlBId2FRWE9UT3FnUGZubVE1VWc1Vi1WSEJLQTZWWFBQamJJTVhZYWJiNXpaS0tVRDNTbS1UcHdRYmlNNFVmUUlFNEZX0gG-AUFVX3lxTE5WYUZHN3dYQ3dYOWVUcHNubkJ5eGM0Q2ZCQUI5YWNpNllzU1BzbnhuSjlaMlQ2Xzl3akxILWhVSUNUbXRTR1F1VFdPczRfbG5UUXo0QlNjTkNST1BVNVdRVDNTQVZSVVQzckx1bHI2cXhTenFYUXB0NUN1M280WEdEeGRNZjBFY0ZFU2FCUTJFQTFSUF84MUVHNXpZQVdFWmVzLTB3M1c0d0NHdmI4XzFkamV4U1VzY2tMZHpYTkE?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Sat, 24 Oct 2026 07:22:21 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Doğu Akdeniz",
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "Ankara",
+        "gerilim"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "ca27a6bff8dd1a54ca2176e6",
+      "mode": "geopolitico",
+      "title": "Güney Kıbrıs’tan Türkiye’ye karşı Yunanistan’la ortak hareket çağrısı - Ekovitrin Haber",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFpWeHlDYl9MenFVU2ZTQ25Za0JjV3ZSSFNqM2QwcnlabkxnWnRXVGMtcWpyY29nak1wTTFNbmg3VERDc3U0UXBzZk1xT0pCWG94YVhmUHd3WUNsWVhveDRhNW1WUTZNY2F5QlB2UHhxNE8yS2h3VFU5U1RDcUUzVmVVQlFPTklVMi1LamlpeTA0ZVZ4d19J?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Sat, 24 Oct 2026 06:52:00 GMT",
       "base_score": 100,
       "candidate_score": 103,
       "priority": "URGENT",
@@ -762,36 +908,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "2370e69b775a0572172938b4",
+      "external_id": "8834ca15a65555e64b49b541",
       "mode": "geopolitico",
-      "title": "Güney Kıbrıs'tan Atina'da Türkiye'ye karşı ortak hareket çağrısı - Notbir",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVBLUXV2Z3AybmRWbDI2Qk9ZWWNoUTBVUEJFV2hRa0lwNGMwdTBpRGs0NEtjaVJXWGkwTGFhRlhZeHdGV01aZUZXdFpOQmZ2cmtGekd1TEtfZFd5b3N0ZHk0QWlDTmo2aXBSdzQtN21GOWYwWlRxNER6Qy16c1dEb1ZZSkU2V0VSb2VYZzFNWEFpdlN6OVJN?oc=5",
-      "source": "Turkish Greek Relations Deep Watch",
-      "published": "Sat, 24 Oct 2026 06:53:07 GMT",
-      "base_score": 81,
-      "candidate_score": 84,
+      "title": "Pakistan-Iran Border Reopening Monday: Taftan Resumes Trade, LPG Trucks Await Clearance - Balochistan Pulse",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZHpUQ0J2TzBZdEtIS1lUajlQRm1FeDFXTzdiSG1heTUzN1c4UXdjZVhiTTY0X1lxRHVzdHg0X3NSZXl1d3pncmJGbllnWVdpQU9kdm5GVm9NeGo3ay1fX2FpNW0yNGtkRkZQS0NFdFFsOWpXUXNjTVd6UXR6bm53X01YQ0zSAYQBQVVfeXFMTWR6VENCdk8wWXRLSEtZVGo5UEZtRXgxV083YkhtYXk1MzdXOFF3Y2VYYk02NF9ZcUR1c3R4NF9zUmV5dXd6Z3JiRm5ZZ1lXaUFPZHZuRlZvTXhqN2stX19haTVtMjRrZEZGUEtDRXRRbDlqV1FzY01XelF0em5ud19NWENM?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 25 Oct 2026 11:17:32 GMT",
+      "base_score": 74,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "Atina"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "fb0e9a342d2fbdff3febff6c",
-      "mode": "geopolitico",
-      "title": "Israeli, Greek navies drill in Mediterranean, in apparent message to Turkey - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMXMzNXg2cjNIMTBYYUhDb3pjeF9XUmRpNEtNWF9PX3RKOUphRTJpYl9XLWZBMzVyeFBDXzRCUHdkYkFVclVkdXEzUjVMdjlVOWl0dlN6WFdxUC05dGZ2em1xTnNOOURrSlZKZWJMSEo2S3BYd2hjYndid3dScTlBLTRyUHV2dWxWOXN3US12Zlp3MXJDUGJ0Y2Z5cTg3ekFyR0NaYXgtUdIBrAFBVV95cUxNZWtVemxOcHpzc1hudU1ub2l2Z1ZPcko2OXhpR2lVMmJvS1ZsUVZtTUtkdmxjTE9LejZ1Vnp0THFWSEx5NXBtZF9wano2czZIRHctYVlLLWFzWXdxVTVZNWcwRVdWaEE4Q1ZOMFcybWJtOTk0b2FyZy1MUUZURjFaTHFTdmlCN2IxQkxTRE9Xek1EWDJId0JZNWhXU190b21FVTZVLUQ5TF85MU5G?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Sun, 25 Oct 2026 04:09:49 GMT",
-      "base_score": 66,
-      "candidate_score": 81,
-      "priority": "High",
-      "matched_keywords": [
-        "Israel",
-        "Israeli",
-        "Turkey"
+        "Pakistan",
+        "Balochistan",
+        "Iran",
+        "trade"
       ],
       "content_type": "news"
     },
@@ -820,7 +950,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sat, 24 Oct 2026 14:35:57 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -847,6 +977,42 @@
       "content_type": "news"
     },
     {
+      "external_id": "69a59363e8f2cb28d4073fd6",
+      "mode": "pontos_voice",
+      "title": "Gençlik ve Spor Bakan Yardımcısı Hamza Yerlikaya'dan 61saat'e özel açıklamalar! \"Trabzon boksun membası gibi\"",
+      "url": "https://www.61saat.com/genclik-ve-spor-bakan-yardimcisi-hamza-yerlikayadan-61saate-ozel-aciklamalar-trabzon-boksun-membasi-gibi",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 25 Oct 2026 12:38:00 +0300",
+      "base_score": 49,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "bakan",
+        "açıklama",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "0682124d7630a6096475fe98",
+      "mode": "pontos_voice",
+      "title": "Başkan Suat Hekimoğlu 61saat'e açıkladı! Trabzon'a yeni şampiyona gelecek mi?",
+      "url": "https://www.61saat.com/baskan-suat-hekimoglu-61saate-acikladi-trabzona-yeni-sampiyona-gelecek-mi",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 25 Oct 2026 12:16:00 +0300",
+      "base_score": 49,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "açıklama",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "03fcdcbd3961fd27a7b84284",
       "mode": "pontos_voice",
       "title": "Karadeniz derbisinde zıt tablo! Rizespor evinde kayıp, Trabzonspor deplasmanda çıkış peşinde - Haber61",
@@ -854,47 +1020,13 @@
       "source": "Haber61 Trabzon",
       "published": "Sun, 25 Oct 2026 05:48:41 GMT",
       "base_score": 53,
-      "candidate_score": 68,
+      "candidate_score": 63,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "Rize",
         "Trabzon",
         "Karadeniz"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "16dce3657fd64a6165165767",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor'un Rize üstünlüğü! Rakamlar konuşuyor",
-      "url": "https://www.61saat.com/trabzonsporun-rize-ustunlugu-rakamlar-konusuyor",
-      "source": "61Saat Trabzon",
-      "published": "Sun, 25 Oct 2026 09:42:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Rize",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "3383f5fb226677ed60a3081e",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor mağlubiyeti Rizepor tarihinde yer alacak! Daha önce yaşamadılar - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUtvTnRxek5SNjRUcWJsM0pUeXBZOVNXTDNKb2dpeWRkTXZoUjNFUXFtYlZhLTFqT2RBbWhubm1EaUVobFgxTXVyaGExeWgtMFhfc1VOeTlsRHFtSU9Lck9IZ1h2aEtWeXpXZFdUcXZ1YUtrWEVkS1dpV0tyVm9UcDNob1o4QVZxMTZBeFFaemlaY3VrNFU4OVpiQWpudGg0T0hRWVBXbHVKbG9YNmtVZEM1cHBBRm90?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sun, 25 Oct 2026 06:40:58 GMT",
-      "base_score": 42,
-      "candidate_score": 57,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Rize",
-        "Trabzon"
       ],
       "content_type": "news"
     }
