@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:26:18.670979+00:00",
+  "generated_at": "2026-10-25T01:36:06.657613+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -76,8 +76,8 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 24 Oct 2026 20:49:33 GMT",
         "base_score": 50,
-        "candidate_score": 73,
-        "priority": "High",
+        "candidate_score": 68,
+        "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
           "Europa League"
@@ -85,26 +85,6 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "5013b0c7c134e140ce0833d5",
-        "mode": "sportdog",
-        "title": "PAOK sign Leland Walker, leave him on loan at Salon Vilpas - Eurohoops",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2MwbWNaNFltUDlMTmxvb3FFU0xmdDFON2R2cDd4RnZRV016VTdfRWlUcE5NTElCdGtXVkJ4SmwyR05yWVJ4YnVET3hzZ3JzMWVzMFJZT3hFMXZHc1FDRjN3OU9WRlh5SjFYbzkyUFVoenZLMVdBOW9fTTdCSzFBVVdrSnZ4NFZsUDNZYk56ek0wbUlvWDNiWWVuUWF2ZjFYT0IwWXZ3?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sat, 24 Oct 2026 21:16:00 GMT",
-        "base_score": 44,
-        "candidate_score": 67,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK",
-          "loan"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -124,6 +104,26 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "5013b0c7c134e140ce0833d5",
+        "mode": "sportdog",
+        "title": "PAOK sign Leland Walker, leave him on loan at Salon Vilpas - Eurohoops",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2MwbWNaNFltUDlMTmxvb3FFU0xmdDFON2R2cDd4RnZRV016VTdfRWlUcE5NTElCdGtXVkJ4SmwyR05yWVJ4YnVET3hzZ3JzMWVzMFJZT3hFMXZHc1FDRjN3OU9WRlh5SjFYbzkyUFVoenZLMVdBOW9fTTdCSzFBVVdrSnZ4NFZsUDNZYk56ek0wbUlvWDNiWWVuUWF2ZjFYT0IwWXZ3?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sat, 24 Oct 2026 21:16:00 GMT",
+        "base_score": 44,
+        "candidate_score": 62,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK",
+          "loan"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
         "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -228,20 +228,21 @@
     ],
     "geopolitico": [
       {
-        "external_id": "70543ad111063dfd79671a8c",
+        "external_id": "2976f707f8ca6fe310080a19",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de Girit ile Kıbrıs Arasında Kablo Araştırmaları Başlıyor - Mersin Haber",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5URjRoRDBjYnNsbU4ySjlON2VFVEduT05iYmVXMEJ4cVpwam1kVWZraEplZDNIa0s3cnpRTmx4TEk1QlQ0Yi15ZlRFUUxIVGtkWlJhd0tGWdIBV0FVX3lxTE5URjRoRDBjYnNsbU4ySjlON2VFVEduT05iYmVXMEJ4cVpwam1kVWZraEplZDNIa0s3cnpRTmx4TEk1QlQ0Yi15ZlRFUUxIVGtkWlJhd0tGWQ?oc=5",
-        "source": "Turkish Greek Relations Deep Watch",
-        "published": "Sat, 24 Oct 2026 14:13:28 GMT",
+        "title": "Onur Öymen'den Hakan Fidan'a Ege'deki 12 mil açıklaması - Yeni Alanya",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGJEenVNN2FEbENiZksxdGR5LXk1eWhnMHQyRjBmaWpVbzEtbzY0aGFIWEVYX0hNQWNJNVJIbnhITUl2RlJsdmhPQ1E1UDJXQVQxekk4Q2pIMUJ6SndzMF9qa1hXTUJIS1NKOHQ3V3l4UHJjYkNCU2pwY0JtNVZ0WGh2NWNKdw?oc=5",
+        "source": "Aegean Turkey Watch",
+        "published": "Sun, 25 Oct 2026 01:06:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 115,
         "priority": "URGENT",
         "matched_keywords": [
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "Girit",
-          "kablo"
+          "Ege",
+          "Fidan",
+          "12 mil",
+          "Fidan",
+          "açıklama"
         ],
         "content_type": "turkey_greece"
       },
@@ -300,23 +301,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "ff93d7e02f16d53b31458cd1",
-        "mode": "geopolitico",
-        "title": "﻿Yunanistan fena karıştı! Miçotakis'i beceriksiz, Dendias'ı kaçak ilan ettiler: Türkiye'den bir tokat daha yedik - STAR - Haberler",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDB6XzBhTFdlYms0dVdWNklwY2dnck92cXFHd1l6VzJybEF1QUNUbUJvenBBbDVDSUFuVHJtbnlIQ2xEWEpFejRmNXVqLW9vY2E2U2lvdVRHOUJfa1hCODhPUnVibUpEYzlZRzFZSW5PR0JadW5EX0RfZzdveVdaNkhyclp6NEMyUUxZendPUkFnV0pSZ0dJTXR2ci04akdFYWgtTk5ObVhaYzZRZFUyWjFKQlh3ek54c001T0xoX0lzRkxrTDBuenNMWUVqNkx5WkxV0gHTAUFVX3lxTE9IMHpfMGFMV2ViazR1V1Y2SXBjZ2dyT3ZxcUd3WXpXMnJsQXVBQ1RtQm96cEFsNUNJQW5Ucm1ueUhDbERYSkV6NGY1dWotb29jYTZTaW91VEc5Ql9rWEI4OE9SdWJtSkRjOVlHMVlJbk9HQlp1bkRfRF9nN295V1o2SHJyWno0QzJRTFl6d09SQWdXSlJnR0lNdHZyLThqR0VhaC1OTk5tWFpjNlFkVTJaMUpCWHd6TnhzTTVPTGhfSXNGTGtMMG56c0xZRWo2THlaTFU?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Fri, 23 Oct 2026 18:37:00 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Dendias",
-          "Miçotakis"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "76a3c363501e8e1143672a84",
         "mode": "geopolitico",
         "title": "Turkey opens trial of Netanyahu, 34 other Israelis over Gaza-bound Sumud flotilla interception - The Jerusalem Post",
@@ -335,22 +319,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "bdeed89fb873537b7ec5d21e",
+        "external_id": "de111e17e6a9ac442a7e5408",
         "mode": "geopolitico",
-        "title": "Egypt, Saudi Arabia, Turkey, Pakistan say 'Israeli occupation main source of regional instability' - The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQl9EVDlRSktIcnJXVEZfU1ZZckxmVDZjY0I2S0p6d1hSbUZLbXFXMG5WRWRZaFdta2FMX3JiVzRXeUhNLUYyOENPTHU1V1JCZGRRRTVxelB3WVdlU2V4a3huRWhUTGlpNEhjaHdXZ2hUUW9pZ1JsME5XempwaE9fSHQwYTZObWtFYU9Dd3pVLXRKZmQ5dk1ibVRLOEliQ2RwTU5VLWJfR1VDd2laS2oxaFA0OXJTcU4zQldnRzU0dERuZUlyWEpLX0tvQlRGNVFpemx4NWVB?oc=5",
-        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-        "published": "Fri, 23 Oct 2026 20:09:52 GMT",
-        "base_score": 96,
-        "candidate_score": 99,
-        "priority": "URGENT",
+        "title": "[ANALYST WATCH] Cem Gürdeniz — Cem Gürdeniz’in gündeme taşıdığı Yunanistan-İsrail tatbikatı: Girit açıklarında emekli fırkateyn batırıldı - 12punto",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLU83NXctaUhXRHA3VWROUGswS3h6V2FNV0FfTVpjUVNYM25CQ2stZFd4ZHpuQTNQZHhEcFluNE45Rl9TOWY4RHZoUHRVZWF5amZZUEwxUVVZa3NIZ1VJNElWZlRtR3JjMzZzWXphNlZKMGlnNjdGZVJPeG5oQXFRbC1NMG9YYWdpaTZsSzJDbjJ6Sm53OFAzTVBsMmxLdlVjVC1NV1RNSFRGUjZsY1lrUm5idnd3cGFTakZVTnFMV3p0bnRDcENvYk9HN2R3NFY3emkyVFZlYw?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Sat, 24 Oct 2026 22:00:18 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
         "matched_keywords": [
-          "Israel",
-          "Israeli",
-          "Pakistan",
-          "Turkey"
+          "Cem Gürdeniz",
+          "Cem Gürdeniz"
         ],
-        "content_type": "news"
+        "content_type": "analyst"
       },
       {
         "external_id": "214b183eb27bad853abdd8da",
@@ -358,13 +340,29 @@
         "title": "[ANALYST WATCH] Cihat Yaycı — Amiral Cihat Yaycı uyardı: Türk askeri Suudi Arabistan’da ne yapacak? - ssbulten.com.tr",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXpMSWhKWHVnRi1xZWVGdkZOQ3dpc0FKNkpCNUxVRW1TY2tnbDhPMURzcHRvckl3d1dvTi04cGxZelZVc0o1UnAyLVdKbHVPZC1nN0FPQ1JWZ25zNWtGMS1GMTN5T0hUWVlzdkNoRlk5bUM2d2xacDdxRWFUVVVlZGZ4ZnpWNzhNcDVlNzBkUTVMX0k0RGRPbmpMd1hRTmlvZVl2QmxyZzJrN1JNdEt5WGg4bGpSdw?oc=5",
         "source": "Analysts Watch · Turkey",
-        "published": "Sat, 24 Oct 2026 17:44:59 GMT",
+        "published": "Sat, 24 Oct 2026 17:58:52 GMT",
         "base_score": 75,
         "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Cihat Yaycı",
           "Cihat Yaycı"
+        ],
+        "content_type": "analyst"
+      },
+      {
+        "external_id": "7955f5183724772b7f2e4b80",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Yandaş savaşı çığrından çıktı: Ahmet Hakan koltuğunu kurtarma derdinde, Abdulkadir Selvi ölü taklidi yapıyor - soL Haber",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd21UU3V2bXJuQlFxT0xWNW1SWEtRT04yT19hTnU0alRabkZqdjl6cHdMRTVyeWdEYnQya014T1ZlTFQzQ2RtbU1uZ2c5cWxvejZZUzJlSy1MRGhqV1E2SV9sM0tCUi1INmdzU0xobWRGc2RGRVQ4WWRzd0pQYnRSRTBGdVNGWG1lNXVHbGVwSUpUX2hYWmw4TWx3alFBSEFTYUt3ckVHOTVDZ2xDVG1LMEJFaFZOTXlZak9pVmFR?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Sat, 24 Oct 2026 09:04:00 GMT",
+        "base_score": 75,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
         ],
         "content_type": "analyst"
       }
@@ -422,24 +420,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "59e3687bb5097a663c36a9e4",
-        "mode": "pontos_voice",
-        "title": "İrfan Can Eğribayat'tan yıllar sonra Trabzonspor itirafı! Trabzon halkından özür diledi",
-        "url": "https://www.61saat.com/irfan-can-egribayattan-yillar-sonra-trabzonspor-itirafi-trabzon-halkindan-ozur-diledi",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 24 Oct 2026 20:18:00 +0300",
-        "base_score": 49,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "açıklama",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "4312c4ae66a5086933bd1c39",
         "mode": "pontos_voice",
         "title": "Bakan Yardımcısı Hamza Yerlikaya'dan Trabzonspor'a ziyaret! Forma hediye edildi - Haber61",
@@ -452,6 +432,24 @@
         "matched_keywords": [
           "Trabzon",
           "bakan",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "59e3687bb5097a663c36a9e4",
+        "mode": "pontos_voice",
+        "title": "İrfan Can Eğribayat'tan yıllar sonra Trabzonspor itirafı! Trabzon halkından özür diledi",
+        "url": "https://www.61saat.com/irfan-can-egribayattan-yillar-sonra-trabzonspor-itirafi-trabzon-halkindan-ozur-diledi",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 24 Oct 2026 20:18:00 +0300",
+        "base_score": 49,
+        "candidate_score": 55,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "açıklama",
           "Trabzon",
           "dil"
         ],
@@ -546,8 +544,8 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 24 Oct 2026 20:49:33 GMT",
       "base_score": 50,
-      "candidate_score": 73,
-      "priority": "High",
+      "candidate_score": 68,
+      "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
         "Europa League"
@@ -555,26 +553,6 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "5013b0c7c134e140ce0833d5",
-      "mode": "sportdog",
-      "title": "PAOK sign Leland Walker, leave him on loan at Salon Vilpas - Eurohoops",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2MwbWNaNFltUDlMTmxvb3FFU0xmdDFON2R2cDd4RnZRV016VTdfRWlUcE5NTElCdGtXVkJ4SmwyR05yWVJ4YnVET3hzZ3JzMWVzMFJZT3hFMXZHc1FDRjN3OU9WRlh5SjFYbzkyUFVoenZLMVdBOW9fTTdCSzFBVVdrSnZ4NFZsUDNZYk56ek0wbUlvWDNiWWVuUWF2ZjFYT0IwWXZ3?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sat, 24 Oct 2026 21:16:00 GMT",
-      "base_score": 44,
-      "candidate_score": 67,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK",
-        "loan"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -594,6 +572,26 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "5013b0c7c134e140ce0833d5",
+      "mode": "sportdog",
+      "title": "PAOK sign Leland Walker, leave him on loan at Salon Vilpas - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2MwbWNaNFltUDlMTmxvb3FFU0xmdDFON2R2cDd4RnZRV016VTdfRWlUcE5NTElCdGtXVkJ4SmwyR05yWVJ4YnVET3hzZ3JzMWVzMFJZT3hFMXZHc1FDRjN3OU9WRlh5SjFYbzkyUFVoenZLMVdBOW9fTTdCSzFBVVdrSnZ4NFZsUDNZYk56ek0wbUlvWDNiWWVuUWF2ZjFYT0IwWXZ3?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sat, 24 Oct 2026 21:16:00 GMT",
+      "base_score": 44,
+      "candidate_score": 62,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK",
+        "loan"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
       "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -696,20 +694,21 @@
       "needs_second_source": true
     },
     {
-      "external_id": "70543ad111063dfd79671a8c",
+      "external_id": "2976f707f8ca6fe310080a19",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de Girit ile Kıbrıs Arasında Kablo Araştırmaları Başlıyor - Mersin Haber",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5URjRoRDBjYnNsbU4ySjlON2VFVEduT05iYmVXMEJ4cVpwam1kVWZraEplZDNIa0s3cnpRTmx4TEk1QlQ0Yi15ZlRFUUxIVGtkWlJhd0tGWdIBV0FVX3lxTE5URjRoRDBjYnNsbU4ySjlON2VFVEduT05iYmVXMEJ4cVpwam1kVWZraEplZDNIa0s3cnpRTmx4TEk1QlQ0Yi15ZlRFUUxIVGtkWlJhd0tGWQ?oc=5",
-      "source": "Turkish Greek Relations Deep Watch",
-      "published": "Sat, 24 Oct 2026 14:13:28 GMT",
+      "title": "Onur Öymen'den Hakan Fidan'a Ege'deki 12 mil açıklaması - Yeni Alanya",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGJEenVNN2FEbENiZksxdGR5LXk1eWhnMHQyRjBmaWpVbzEtbzY0aGFIWEVYX0hNQWNJNVJIbnhITUl2RlJsdmhPQ1E1UDJXQVQxekk4Q2pIMUJ6SndzMF9qa1hXTUJIS1NKOHQ3V3l4UHJjYkNCU2pwY0JtNVZ0WGh2NWNKdw?oc=5",
+      "source": "Aegean Turkey Watch",
+      "published": "Sun, 25 Oct 2026 01:06:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 115,
       "priority": "URGENT",
       "matched_keywords": [
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "Girit",
-        "kablo"
+        "Ege",
+        "Fidan",
+        "12 mil",
+        "Fidan",
+        "açıklama"
       ],
       "content_type": "turkey_greece"
     },
@@ -768,23 +767,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "ff93d7e02f16d53b31458cd1",
-      "mode": "geopolitico",
-      "title": "﻿Yunanistan fena karıştı! Miçotakis'i beceriksiz, Dendias'ı kaçak ilan ettiler: Türkiye'den bir tokat daha yedik - STAR - Haberler",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDB6XzBhTFdlYms0dVdWNklwY2dnck92cXFHd1l6VzJybEF1QUNUbUJvenBBbDVDSUFuVHJtbnlIQ2xEWEpFejRmNXVqLW9vY2E2U2lvdVRHOUJfa1hCODhPUnVibUpEYzlZRzFZSW5PR0JadW5EX0RfZzdveVdaNkhyclp6NEMyUUxZendPUkFnV0pSZ0dJTXR2ci04akdFYWgtTk5ObVhaYzZRZFUyWjFKQlh3ek54c001T0xoX0lzRkxrTDBuenNMWUVqNkx5WkxV0gHTAUFVX3lxTE9IMHpfMGFMV2ViazR1V1Y2SXBjZ2dyT3ZxcUd3WXpXMnJsQXVBQ1RtQm96cEFsNUNJQW5Ucm1ueUhDbERYSkV6NGY1dWotb29jYTZTaW91VEc5Ql9rWEI4OE9SdWJtSkRjOVlHMVlJbk9HQlp1bkRfRF9nN295V1o2SHJyWno0QzJRTFl6d09SQWdXSlJnR0lNdHZyLThqR0VhaC1OTk5tWFpjNlFkVTJaMUpCWHd6TnhzTTVPTGhfSXNGTGtMMG56c0xZRWo2THlaTFU?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Fri, 23 Oct 2026 18:37:00 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Dendias",
-        "Miçotakis"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "76a3c363501e8e1143672a84",
       "mode": "geopolitico",
       "title": "Turkey opens trial of Netanyahu, 34 other Israelis over Gaza-bound Sumud flotilla interception - The Jerusalem Post",
@@ -803,22 +785,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "bdeed89fb873537b7ec5d21e",
+      "external_id": "de111e17e6a9ac442a7e5408",
       "mode": "geopolitico",
-      "title": "Egypt, Saudi Arabia, Turkey, Pakistan say 'Israeli occupation main source of regional instability' - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQl9EVDlRSktIcnJXVEZfU1ZZckxmVDZjY0I2S0p6d1hSbUZLbXFXMG5WRWRZaFdta2FMX3JiVzRXeUhNLUYyOENPTHU1V1JCZGRRRTVxelB3WVdlU2V4a3huRWhUTGlpNEhjaHdXZ2hUUW9pZ1JsME5XempwaE9fSHQwYTZObWtFYU9Dd3pVLXRKZmQ5dk1ibVRLOEliQ2RwTU5VLWJfR1VDd2laS2oxaFA0OXJTcU4zQldnRzU0dERuZUlyWEpLX0tvQlRGNVFpemx4NWVB?oc=5",
-      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-      "published": "Fri, 23 Oct 2026 20:09:52 GMT",
-      "base_score": 96,
-      "candidate_score": 99,
-      "priority": "URGENT",
+      "title": "[ANALYST WATCH] Cem Gürdeniz — Cem Gürdeniz’in gündeme taşıdığı Yunanistan-İsrail tatbikatı: Girit açıklarında emekli fırkateyn batırıldı - 12punto",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLU83NXctaUhXRHA3VWROUGswS3h6V2FNV0FfTVpjUVNYM25CQ2stZFd4ZHpuQTNQZHhEcFluNE45Rl9TOWY4RHZoUHRVZWF5amZZUEwxUVVZa3NIZ1VJNElWZlRtR3JjMzZzWXphNlZKMGlnNjdGZVJPeG5oQXFRbC1NMG9YYWdpaTZsSzJDbjJ6Sm53OFAzTVBsMmxLdlVjVC1NV1RNSFRGUjZsY1lrUm5idnd3cGFTakZVTnFMV3p0bnRDcENvYk9HN2R3NFY3emkyVFZlYw?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Sat, 24 Oct 2026 22:00:18 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
       "matched_keywords": [
-        "Israel",
-        "Israeli",
-        "Pakistan",
-        "Turkey"
+        "Cem Gürdeniz",
+        "Cem Gürdeniz"
       ],
-      "content_type": "news"
+      "content_type": "analyst"
     },
     {
       "external_id": "214b183eb27bad853abdd8da",
@@ -826,13 +806,29 @@
       "title": "[ANALYST WATCH] Cihat Yaycı — Amiral Cihat Yaycı uyardı: Türk askeri Suudi Arabistan’da ne yapacak? - ssbulten.com.tr",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXpMSWhKWHVnRi1xZWVGdkZOQ3dpc0FKNkpCNUxVRW1TY2tnbDhPMURzcHRvckl3d1dvTi04cGxZelZVc0o1UnAyLVdKbHVPZC1nN0FPQ1JWZ25zNWtGMS1GMTN5T0hUWVlzdkNoRlk5bUM2d2xacDdxRWFUVVVlZGZ4ZnpWNzhNcDVlNzBkUTVMX0k0RGRPbmpMd1hRTmlvZVl2QmxyZzJrN1JNdEt5WGg4bGpSdw?oc=5",
       "source": "Analysts Watch · Turkey",
-      "published": "Sat, 24 Oct 2026 17:44:59 GMT",
+      "published": "Sat, 24 Oct 2026 17:58:52 GMT",
       "base_score": 75,
       "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Cihat Yaycı",
         "Cihat Yaycı"
+      ],
+      "content_type": "analyst"
+    },
+    {
+      "external_id": "7955f5183724772b7f2e4b80",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Yandaş savaşı çığrından çıktı: Ahmet Hakan koltuğunu kurtarma derdinde, Abdulkadir Selvi ölü taklidi yapıyor - soL Haber",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd21UU3V2bXJuQlFxT0xWNW1SWEtRT04yT19hTnU0alRabkZqdjl6cHdMRTVyeWdEYnQya014T1ZlTFQzQ2RtbU1uZ2c5cWxvejZZUzJlSy1MRGhqV1E2SV9sM0tCUi1INmdzU0xobWRGc2RGRVQ4WWRzd0pQYnRSRTBGdVNGWG1lNXVHbGVwSUpUX2hYWmw4TWx3alFBSEFTYUt3ckVHOTVDZ2xDVG1LMEJFaFZOTXlZak9pVmFR?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Sat, 24 Oct 2026 09:04:00 GMT",
+      "base_score": 75,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
       ],
       "content_type": "analyst"
     },
@@ -888,24 +884,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "59e3687bb5097a663c36a9e4",
-      "mode": "pontos_voice",
-      "title": "İrfan Can Eğribayat'tan yıllar sonra Trabzonspor itirafı! Trabzon halkından özür diledi",
-      "url": "https://www.61saat.com/irfan-can-egribayattan-yillar-sonra-trabzonspor-itirafi-trabzon-halkindan-ozur-diledi",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 24 Oct 2026 20:18:00 +0300",
-      "base_score": 49,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "açıklama",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "4312c4ae66a5086933bd1c39",
       "mode": "pontos_voice",
       "title": "Bakan Yardımcısı Hamza Yerlikaya'dan Trabzonspor'a ziyaret! Forma hediye edildi - Haber61",
@@ -918,6 +896,24 @@
       "matched_keywords": [
         "Trabzon",
         "bakan",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "59e3687bb5097a663c36a9e4",
+      "mode": "pontos_voice",
+      "title": "İrfan Can Eğribayat'tan yıllar sonra Trabzonspor itirafı! Trabzon halkından özür diledi",
+      "url": "https://www.61saat.com/irfan-can-egribayattan-yillar-sonra-trabzonspor-itirafi-trabzon-halkindan-ozur-diledi",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 24 Oct 2026 20:18:00 +0300",
+      "base_score": 49,
+      "candidate_score": 55,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "açıklama",
         "Trabzon",
         "dil"
       ],
