@@ -1,61 +1,21 @@
 {
-  "generated_at": "2026-10-25T21:56:35.456057+00:00",
+  "generated_at": "2026-10-26T00:15:13.835548+00:00",
   "counts": {
-    "sportdog": 15,
+    "sportdog": 13,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "f68ee236031a65c1189b2fbc",
-        "mode": "sportdog",
-        "title": "ΠΑΟΚ: Στο στόχαστρο ο «καυτός» Λέλαντ Γουόκερ που εντυπωσιάζει στο BCL - iefimerida.gr",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CX2l3QUlqS1BuTlFiNzg3NDlSVDR0aDRUN0F6d0d3SVY2bUZ3cFNMNXI0NTBrU2JtN3YwajJXY2FKSFdSelpBLXpLV1p4VDAxSWJ5Q3QtX19BLXg5dDAxSzk4by1PdXJYNTlDamprTFVrTDVRczY1b0s2d0RWSmM?oc=5",
-        "source": "Sportdog Greek Transfer Scenarios",
-        "published": "Sat, 24 Oct 2026 20:06:00 GMT",
-        "base_score": 78,
-        "candidate_score": 89,
-        "priority": "High",
-        "matched_keywords": [
-          "ΠΑΟΚ",
-          "στο στόχαστρο"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "PAOK",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "63291ab81b338a78a8fe6464",
-        "mode": "sportdog",
-        "title": "Volos NFC vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jc194UUcxUTBieGcxcGJTWjgzcVgxdmhhanhhY3IxMDBpRFd6VzVKakdMNC1PWnJ0T3RNTXhfYVE0SEpmZkFWTkFZVDVRREdReDdrMFlldU1pTVZ5S05oLXdNZw?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sun, 25 Oct 2026 18:58:42 GMT",
-        "base_score": 56,
-        "candidate_score": 79,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "df5604fce1e0a363641804f1",
+        "external_id": "a83bb0dd5de3bb1ee7ed1bf6",
         "mode": "sportdog",
         "title": "OFI Crete vs PAOK: Greek Super League stats & head-to-head - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NYWhIcVhlay00THVWN1UxMFR6U0dNTmI5Um8zZks5TURpM0xTbGgweVBRek1idWhXLVVENXd4MjVWak9nSUJqbFYxZlRHQms4QUhqNlBvZVh1QWhXb2xDbWdxc1BTQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JQzNOMnNGY1JKZXRTemMzUzFJQTB0dVdGWDVtYnNidDdLXzIyblpEQnV3N0prTXc1WDIzTmp0Y2JiSjdxQUVMOTBKQTRhbFZwR01LbERwbGFhMWdxQnNwOGYwYw?oc=5",
         "source": "PAOK Rumour Watch",
-        "published": "Sun, 25 Oct 2026 18:31:55 GMT",
+        "published": "Sun, 25 Oct 2026 21:40:27 GMT",
         "base_score": 56,
-        "candidate_score": 74,
+        "candidate_score": 79,
         "priority": "High",
         "matched_keywords": [
           "PAOK",
@@ -68,6 +28,46 @@
         "needs_second_source": true
       },
       {
+        "external_id": "63291ab81b338a78a8fe6464",
+        "mode": "sportdog",
+        "title": "Volos NFC vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jc194UUcxUTBieGcxcGJTWjgzcVgxdmhhanhhY3IxMDBpRFd6VzVKakdMNC1PWnJ0T3RNTXhfYVE0SEpmZkFWTkFZVDVRREdReDdrMFlldU1pTVZ5S05oLXdNZw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 25 Oct 2026 18:58:42 GMT",
+        "base_score": 56,
+        "candidate_score": 74,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "18f6eb15923e1eea8d912809",
+        "mode": "sportdog",
+        "title": "Celje – Olympiacos: kick-off 11 Dec 00:00 — Europa League - Operativ Məlumat Mərkəzi",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hVlBjd3JfblQwX3BTeVAtcDNYM1ZicU5QcUN6WHp3dmFTMDFiYlFxNmpFMkRDeGlPUW13X3VfMDdJaVU1RHM1cnE5VjBYSlU3N2drdjdoaTBNTmFxWDNqblkxRHFtWFIyZW1LUTZFY1VtVGx5V2ww?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 25 Oct 2026 11:08:21 GMT",
+        "base_score": 50,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "Europa League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "0d94fedbd4fc32a536dd8c4a",
         "mode": "sportdog",
         "title": "AEK Athens vs Panaitolikos: Greek Super League stats & head-to-head - BBC",
@@ -75,7 +75,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 24 Oct 2026 18:04:31 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -115,7 +115,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sun, 25 Oct 2026 15:13:33 GMT",
         "base_score": 41,
-        "candidate_score": 59,
+        "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -173,7 +173,26 @@
         "title": "OFI vs PAOK Prediction, Betting Tips, Lineups & Odds | 25 Oct 2026 - Sportsgambler",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTNfNjhRckhUWnZoUG5VaFZSbUs3YUNIRlUyM0FldHZwckptaHpWSjhNME5YaktFTk43aTd0X1RwczNlS1ZpUVgwY3lWUlozdjFQTDRkYndiN2VwT2xmQ1J1b0VBcklVUWNmTGVUODZDTTVBZkgxektoam1yalpnRUZFRFdseEVUTi16MlV0cUNpX1JGSzdsY2wxRjI5dDhT?oc=5",
         "source": "PAOK Rumour Watch",
-        "published": "Sun, 25 Oct 2026 21:41:46 GMT",
+        "published": "Sun, 25 Oct 2026 23:13:06 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "0f7d94ed327eb744fe032245",
+        "mode": "sportdog",
+        "title": "PAOK vs. Asteras Trip (Nov 1, 2026) Odds and Spread - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43cEI5RGRZQVRXTDQyNFkzMzBuZzNocE9xSDBTd21XMndVbV9LME56NzdvanRJR2llZ0M3bjVSTU85ZnR3U3ZoZml1VEl0N2VPRUpJaTFDSFdLVzZkSEV5Rg?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 25 Oct 2026 22:15:05 GMT",
         "base_score": 31,
         "candidate_score": 54,
         "priority": "Normal",
@@ -206,63 +225,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "c0c0e242a276633419b57e52",
-        "mode": "sportdog",
-        "title": "PAOK coach Lisci in precarious position after loss at OFI - eKathimerini.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVJTQ1hmdlo4RHlndFJRZ19PNHFLRFkwRURKSEhRMkthUzlfOFljQldGaFI5ODktWVpOWDU3Y2hGS18tc1Y4akFrSXJPWTdIZ1hzWUowY3BqYW5HX2hiTFBaS0pEUGx3SjA1NFRQeXB5TmZ6aF9BNXgxQlZtLVlTalZrSUpSamg2ZURQckZOZ0w4Nm9rRjFLckRiNXoxTDhvci11Vw?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Sun, 25 Oct 2026 20:33:11 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "0c93bc533e7672865288921d",
-        "mode": "sportdog",
-        "title": "Olympiacos vs Kalamata Prediction, Betting Tips, Lineups & Odds | 25 Oct 2026 - Sportsgambler",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnlpbVRHWEJtVENzWVJxYzZ2SUh3R3dWY21uQ3BaYjduVmpxaXdfZUwyLVRiTlc2Q1JDZk9wYXJfRVMxTzNjcF9UaG9scDBSVHlGYkdFaEdMOHVIZFdHbWJwWU1UR1JwdE5QTUY0OFRpRG4wSWhFU2x5ZG5jRGhkb3NDdlNkWXM4enJic2ZKTFdzdDJZQ3JLcGRYLWtKSVNWaklrWFotazNpb0laUlNv?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 25 Oct 2026 19:56:02 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "61cd3b4286ea90d452441c47",
-        "mode": "sportdog",
-        "title": "Foden hattrick fuels Man City rout of AEK Athens - The Daily Star",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVVscUw2S1dZcW1YQ3M5a1BlVzg3b204QVBtX25aOEUtbC1aSE1hTnlILTRmRk9VYlQ2SnI0dGpFdzRjMzJObllkODU5UC0zZWhKdkw3aGFUZm5xY1ZldFFsUmhLSjd0WXhyWDItQ0U5WnhYTFhwekl4c2c2NkMzRUJJc0xjS1FCRDBrdDl6N1hwQ2ZTeXpxOGhEaTg2OU9SYkJKODZR?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Sun, 25 Oct 2026 06:58:10 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "e6c278debb17995984a13cb3",
         "mode": "sportdog",
         "title": "Zine- AEK Athens - ligue1.com",
@@ -289,7 +251,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 24 Oct 2026 17:57:39 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -310,7 +272,7 @@
         "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
         "published": "Sun, 25 Oct 2026 21:15:00 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Israel",
@@ -374,22 +336,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "b2b0abdfedaaf2e67933a996",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz’de Yeni Denklem: Türkiye-Libya Anlaşması ve Denizlerin Jeopolitik Mücadelesi - Star Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yWDRBeHdMSkRjaWh2N2JEZngyYWZHbFF2bTYwSU9GM3lFbjRwd0ZWcmExdnVyUWozMHJUaDF3cFFYa3Vqa1NnelptS3ozcWRyQ0lRWjhvcm5oMURyOUNkcQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sun, 25 Oct 2026 20:13:47 GMT",
-        "base_score": 69,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "Kıbrıs"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "47b1474c5f40ab1bdc0a2f2b",
         "mode": "geopolitico",
         "title": "Rafael Subsidiary DND and SAS Technology Explore Arming Unmanned Platforms - Israel Defense",
@@ -403,23 +349,6 @@
           "Israel",
           "Rafael",
           "defense",
-          "technology"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "b938b59d4bccf5a7cb707902",
-        "mode": "geopolitico",
-        "title": "U.S.-China AI rivalry forces countries to navigate competing technology blocs (NVDA:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUhSWGZJVzFWbXR0a09Nb2FMbVhIR2NkRko2eHRqQWFjT2JlaW0zTUNqSWp6cTUzZk9XUGNPR09yemVSQ240Y2haUEtSWURhZkFBWk1PVzBnZ2d3SnFMX3NZUVk1ai1VUEdDUWNLNXloTnFCZ2FjNmN1NEJrWnNDUmxvS2x2dzBBdnJ1WGUydkwyYXItU2M1VjRWN25TSWp2MzduV0h5U0RXZ3doTDFpcXhSUHc?oc=5",
-        "source": "China Strategic Watch",
-        "published": "Sun, 25 Oct 2026 15:57:01 GMT",
-        "base_score": 71,
-        "candidate_score": 81,
-        "priority": "High",
-        "matched_keywords": [
-          "China",
-          "China AI",
           "technology"
         ],
         "content_type": "news"
@@ -439,6 +368,40 @@
           "Cem Gürdeniz"
         ],
         "content_type": "analyst"
+      },
+      {
+        "external_id": "8834ca15a65555e64b49b541",
+        "mode": "geopolitico",
+        "title": "Pakistan-Iran Border Reopening Monday: Taftan Resumes Trade, LPG Trucks Await Clearance - Balochistan Pulse",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZHpUQ0J2TzBZdEtIS1lUajlQRm1FeDFXTzdiSG1heTUzN1c4UXdjZVhiTTY0X1lxRHVzdHg0X3NSZXl1d3pncmJGbllnWVdpQU9kdm5GVm9NeGo3ay1fX2FpNW0yNGtkRkZQS0NFdFFsOWpXUXNjTVd6UXR6bm53X01YQ0zSAYQBQVVfeXFMTWR6VENCdk8wWXRLSEtZVGo5UEZtRXgxV083YkhtYXk1MzdXOFF3Y2VYYk02NF9ZcUR1c3R4NF9zUmV5dXd6Z3JiRm5ZZ1lXaUFPZHZuRlZvTXhqN2stX19haTVtMjRrZEZGUEtDRXRRbDlqV1FzY01XelF0em5ud19NWENM?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 25 Oct 2026 11:17:32 GMT",
+        "base_score": 74,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "Pakistan",
+          "Balochistan",
+          "Iran",
+          "trade"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "b2b0abdfedaaf2e67933a996",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz’de Yeni Denklem: Türkiye-Libya Anlaşması ve Denizlerin Jeopolitik Mücadelesi - Star Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yWDRBeHdMSkRjaWh2N2JEZngyYWZHbFF2bTYwSU9GM3lFbjRwd0ZWcmExdnVyUWozMHJUaDF3cFFYa3Vqa1NnelptS3ozcWRyQ0lRWjhvcm5oMURyOUNkcQ?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sun, 25 Oct 2026 20:13:47 GMT",
+        "base_score": 69,
+        "candidate_score": 79,
+        "priority": "High",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "Kıbrıs"
+        ],
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -454,22 +417,6 @@
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
-          "Παναγία Σουμελά",
-          "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "344e101eb22c0a7a66aff998",
-        "mode": "pontos_voice",
-        "title": "Παναγία Σουμελά: Η ιστορική συνάντηση του Πόντου και της Κρήτης στο Ρέθυμνο – Συγκίνηση στην πρώτη υποδοχή της ιερής εικόνας - η ναυτεμπορικη",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOFJCRXF5V1RXQV8wcU9OQUVGZDZPZ1FEVkFMSGpSQTFUM1luZGlmVDBVSEVFeEo2aDhnZjZucVRrcmtLVjcyeE5zOEJKYTRtN0t5bEpieWRLNURpaldUMVp2d2JHZ3hRSF8zZUstLVZHeDd0RFBBWHV2c2V4aXlRVTY4ZnplV3FnbEtKeDg1WnRfM2hVNkxEb0hSUG50WVhnY19pcUZ5eVIxbEphb3owV0VkazlWb3JuRlIxRy1yMEp0MUVuNkhsdERwYWxNM19vbTBfc1plQVFWd1Z3V1hSbnpmYm1FZ0Z2UTNtb21adnlfcWJXbFlBVnBmY0g?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Sun, 25 Oct 2026 20:44:21 GMT",
-        "base_score": 86,
-        "candidate_score": 101,
-        "priority": "URGENT",
-        "matched_keywords": [
           "Παναγία Σουμελά",
           "Σουμελά"
         ],
@@ -493,37 +440,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "af775e9d91cf9d756359d3dd",
+        "external_id": "34fba3a4c1eb5946e3ba6d19",
         "mode": "pontos_voice",
-        "title": "Trabzonspor, Rizespor deplasmanına çıkıyor! Muhtemel 11'de dikkat çeken tercihler...",
-        "url": "https://www.61saat.com/trabzonspor-rizespor-deplasmanina-cikiyor-muhtemel-11de-dikkat-ceken-tercihler",
-        "source": "61Saat Trabzon",
-        "published": "Sun, 25 Oct 2026 23:24:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
-        "priority": "Normal",
+        "title": "Παναγία Σουμελά: Έφτασε στην Κρήτη η θαυματουργή εικόνα – Το απόγευμα του Σαββάτου η επίσημη υποδοχή - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORUZmbGFJSjZkMkpIUlRvT0txbHJzRmVNZml0c0U0RnVwRWtxbXp0N1dHa0ZvNy1PQ0sxbUNrb0UxeFRCWDEwbEJ1dFdEZzRrZkpMYjdfUURlbGhwdHlqR1Q0cG04OTFGQWhBOGFBT0dLbHVZRjlyVEJSbEg1dGd5OGV2elZ2RWZua0hMV1FxVVZDUXExZHhqVkR4Q0JoMmw1?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 24 Oct 2026 12:17:41 GMT",
+        "base_score": 100,
+        "candidate_score": 100,
+        "priority": "URGENT",
         "matched_keywords": [
-          "Trabzon",
-          "Rize",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "03fcdcbd3961fd27a7b84284",
-        "mode": "pontos_voice",
-        "title": "Karadeniz derbisinde zıt tablo! Rizespor evinde kayıp, Trabzonspor deplasmanda çıkış peşinde - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR21ISlJ6UFpQZUtMRWpyOHpZRTN2eHFHVWJqSWN0b0lrWEppUXRCLXhRSXZiSl9xa0tKM3Z3RVBhR1pVbi1MdTBXdmZuQmNUejZaMVU0b0pwU1pCS3hpS0xxYjF3TFJGeHBzRnZSMmxGYjR3REhCT3otc1RFcV9pcGlnamZPX0RzUVFZNnd6bHh6VmlUdGJCOUQ5dDNxVXBybURiaDVISm1yVFJZQmJ5dWhzWHdwV1dJeFNVZHVYRGNoMzdKTC05c20xVVVJQQ?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sun, 25 Oct 2026 05:48:41 GMT",
-        "base_score": 53,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Rize",
-          "Trabzon",
-          "Karadeniz"
+          "Pontos",
+          "Παναγία Σουμελά",
+          "Σουμελά"
         ],
         "content_type": "news"
       },
@@ -544,59 +473,54 @@
           "Trabzon"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "03fcdcbd3961fd27a7b84284",
+        "mode": "pontos_voice",
+        "title": "Karadeniz derbisinde zıt tablo! Rizespor evinde kayıp, Trabzonspor deplasmanda çıkış peşinde - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR21ISlJ6UFpQZUtMRWpyOHpZRTN2eHFHVWJqSWN0b0lrWEppUXRCLXhRSXZiSl9xa0tKM3Z3RVBhR1pVbi1MdTBXdmZuQmNUejZaMVU0b0pwU1pCS3hpS0xxYjF3TFJGeHBzRnZSMmxGYjR3REhCT3otc1RFcV9pcGlnamZPX0RzUVFZNnd6bHh6VmlUdGJCOUQ5dDNxVXBybURiaDVISm1yVFJZQmJ5dWhzWHdwV1dJeFNVZHVYRGNoMzdKTC05c20xVVVJQQ?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Sun, 25 Oct 2026 05:48:41 GMT",
+        "base_score": 53,
+        "candidate_score": 56,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Rize",
+          "Trabzon",
+          "Karadeniz"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "af775e9d91cf9d756359d3dd",
+        "mode": "pontos_voice",
+        "title": "Trabzonspor, Rizespor deplasmanına çıkıyor! Muhtemel 11'de dikkat çeken tercihler...",
+        "url": "https://www.61saat.com/trabzonspor-rizespor-deplasmanina-cikiyor-muhtemel-11de-dikkat-ceken-tercihler",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 25 Oct 2026 23:24:00 +0300",
+        "base_score": 44,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Rize",
+          "Trabzon"
+        ],
+        "content_type": "news"
       }
     ]
   },
   "items": [
     {
-      "external_id": "f68ee236031a65c1189b2fbc",
-      "mode": "sportdog",
-      "title": "ΠΑΟΚ: Στο στόχαστρο ο «καυτός» Λέλαντ Γουόκερ που εντυπωσιάζει στο BCL - iefimerida.gr",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CX2l3QUlqS1BuTlFiNzg3NDlSVDR0aDRUN0F6d0d3SVY2bUZ3cFNMNXI0NTBrU2JtN3YwajJXY2FKSFdSelpBLXpLV1p4VDAxSWJ5Q3QtX19BLXg5dDAxSzk4by1PdXJYNTlDamprTFVrTDVRczY1b0s2d0RWSmM?oc=5",
-      "source": "Sportdog Greek Transfer Scenarios",
-      "published": "Sat, 24 Oct 2026 20:06:00 GMT",
-      "base_score": 78,
-      "candidate_score": 89,
-      "priority": "High",
-      "matched_keywords": [
-        "ΠΑΟΚ",
-        "στο στόχαστρο"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "PAOK",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "63291ab81b338a78a8fe6464",
-      "mode": "sportdog",
-      "title": "Volos NFC vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jc194UUcxUTBieGcxcGJTWjgzcVgxdmhhanhhY3IxMDBpRFd6VzVKakdMNC1PWnJ0T3RNTXhfYVE0SEpmZkFWTkFZVDVRREdReDdrMFlldU1pTVZ5S05oLXdNZw?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sun, 25 Oct 2026 18:58:42 GMT",
-      "base_score": 56,
-      "candidate_score": 79,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "df5604fce1e0a363641804f1",
+      "external_id": "a83bb0dd5de3bb1ee7ed1bf6",
       "mode": "sportdog",
       "title": "OFI Crete vs PAOK: Greek Super League stats & head-to-head - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NYWhIcVhlay00THVWN1UxMFR6U0dNTmI5Um8zZks5TURpM0xTbGgweVBRek1idWhXLVVENXd4MjVWak9nSUJqbFYxZlRHQms4QUhqNlBvZVh1QWhXb2xDbWdxc1BTQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JQzNOMnNGY1JKZXRTemMzUzFJQTB0dVdGWDVtYnNidDdLXzIyblpEQnV3N0prTXc1WDIzTmp0Y2JiSjdxQUVMOTBKQTRhbFZwR01LbERwbGFhMWdxQnNwOGYwYw?oc=5",
       "source": "PAOK Rumour Watch",
-      "published": "Sun, 25 Oct 2026 18:31:55 GMT",
+      "published": "Sun, 25 Oct 2026 21:40:27 GMT",
       "base_score": 56,
-      "candidate_score": 74,
+      "candidate_score": 79,
       "priority": "High",
       "matched_keywords": [
         "PAOK",
@@ -609,6 +533,46 @@
       "needs_second_source": true
     },
     {
+      "external_id": "63291ab81b338a78a8fe6464",
+      "mode": "sportdog",
+      "title": "Volos NFC vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jc194UUcxUTBieGcxcGJTWjgzcVgxdmhhanhhY3IxMDBpRFd6VzVKakdMNC1PWnJ0T3RNTXhfYVE0SEpmZkFWTkFZVDVRREdReDdrMFlldU1pTVZ5S05oLXdNZw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 25 Oct 2026 18:58:42 GMT",
+      "base_score": 56,
+      "candidate_score": 74,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "18f6eb15923e1eea8d912809",
+      "mode": "sportdog",
+      "title": "Celje – Olympiacos: kick-off 11 Dec 00:00 — Europa League - Operativ Məlumat Mərkəzi",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hVlBjd3JfblQwX3BTeVAtcDNYM1ZicU5QcUN6WHp3dmFTMDFiYlFxNmpFMkRDeGlPUW13X3VfMDdJaVU1RHM1cnE5VjBYSlU3N2drdjdoaTBNTmFxWDNqblkxRHFtWFIyZW1LUTZFY1VtVGx5V2ww?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 25 Oct 2026 11:08:21 GMT",
+      "base_score": 50,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "Europa League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "0d94fedbd4fc32a536dd8c4a",
       "mode": "sportdog",
       "title": "AEK Athens vs Panaitolikos: Greek Super League stats & head-to-head - BBC",
@@ -616,7 +580,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 24 Oct 2026 18:04:31 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -656,7 +620,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sun, 25 Oct 2026 15:13:33 GMT",
       "base_score": 41,
-      "candidate_score": 59,
+      "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -714,7 +678,26 @@
       "title": "OFI vs PAOK Prediction, Betting Tips, Lineups & Odds | 25 Oct 2026 - Sportsgambler",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTNfNjhRckhUWnZoUG5VaFZSbUs3YUNIRlUyM0FldHZwckptaHpWSjhNME5YaktFTk43aTd0X1RwczNlS1ZpUVgwY3lWUlozdjFQTDRkYndiN2VwT2xmQ1J1b0VBcklVUWNmTGVUODZDTTVBZkgxektoam1yalpnRUZFRFdseEVUTi16MlV0cUNpX1JGSzdsY2wxRjI5dDhT?oc=5",
       "source": "PAOK Rumour Watch",
-      "published": "Sun, 25 Oct 2026 21:41:46 GMT",
+      "published": "Sun, 25 Oct 2026 23:13:06 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "0f7d94ed327eb744fe032245",
+      "mode": "sportdog",
+      "title": "PAOK vs. Asteras Trip (Nov 1, 2026) Odds and Spread - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43cEI5RGRZQVRXTDQyNFkzMzBuZzNocE9xSDBTd21XMndVbV9LME56NzdvanRJR2llZ0M3bjVSTU85ZnR3U3ZoZml1VEl0N2VPRUpJaTFDSFdLVzZkSEV5Rg?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 25 Oct 2026 22:15:05 GMT",
       "base_score": 31,
       "candidate_score": 54,
       "priority": "Normal",
@@ -747,63 +730,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "c0c0e242a276633419b57e52",
-      "mode": "sportdog",
-      "title": "PAOK coach Lisci in precarious position after loss at OFI - eKathimerini.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVJTQ1hmdlo4RHlndFJRZ19PNHFLRFkwRURKSEhRMkthUzlfOFljQldGaFI5ODktWVpOWDU3Y2hGS18tc1Y4akFrSXJPWTdIZ1hzWUowY3BqYW5HX2hiTFBaS0pEUGx3SjA1NFRQeXB5TmZ6aF9BNXgxQlZtLVlTalZrSUpSamg2ZURQckZOZ0w4Nm9rRjFLckRiNXoxTDhvci11Vw?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Sun, 25 Oct 2026 20:33:11 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "0c93bc533e7672865288921d",
-      "mode": "sportdog",
-      "title": "Olympiacos vs Kalamata Prediction, Betting Tips, Lineups & Odds | 25 Oct 2026 - Sportsgambler",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnlpbVRHWEJtVENzWVJxYzZ2SUh3R3dWY21uQ3BaYjduVmpxaXdfZUwyLVRiTlc2Q1JDZk9wYXJfRVMxTzNjcF9UaG9scDBSVHlGYkdFaEdMOHVIZFdHbWJwWU1UR1JwdE5QTUY0OFRpRG4wSWhFU2x5ZG5jRGhkb3NDdlNkWXM4enJic2ZKTFdzdDJZQ3JLcGRYLWtKSVNWaklrWFotazNpb0laUlNv?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 25 Oct 2026 19:56:02 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "61cd3b4286ea90d452441c47",
-      "mode": "sportdog",
-      "title": "Foden hattrick fuels Man City rout of AEK Athens - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVVscUw2S1dZcW1YQ3M5a1BlVzg3b204QVBtX25aOEUtbC1aSE1hTnlILTRmRk9VYlQ2SnI0dGpFdzRjMzJObllkODU5UC0zZWhKdkw3aGFUZm5xY1ZldFFsUmhLSjd0WXhyWDItQ0U5WnhYTFhwekl4c2c2NkMzRUJJc0xjS1FCRDBrdDl6N1hwQ2ZTeXpxOGhEaTg2OU9SYkJKODZR?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Sun, 25 Oct 2026 06:58:10 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "e6c278debb17995984a13cb3",
       "mode": "sportdog",
       "title": "Zine- AEK Athens - ligue1.com",
@@ -830,7 +756,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 24 Oct 2026 17:57:39 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -849,7 +775,7 @@
       "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
       "published": "Sun, 25 Oct 2026 21:15:00 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Israel",
@@ -913,22 +839,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "b2b0abdfedaaf2e67933a996",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz’de Yeni Denklem: Türkiye-Libya Anlaşması ve Denizlerin Jeopolitik Mücadelesi - Star Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yWDRBeHdMSkRjaWh2N2JEZngyYWZHbFF2bTYwSU9GM3lFbjRwd0ZWcmExdnVyUWozMHJUaDF3cFFYa3Vqa1NnelptS3ozcWRyQ0lRWjhvcm5oMURyOUNkcQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sun, 25 Oct 2026 20:13:47 GMT",
-      "base_score": 69,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "Doğu Akdeniz",
-        "Kıbrıs"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "47b1474c5f40ab1bdc0a2f2b",
       "mode": "geopolitico",
       "title": "Rafael Subsidiary DND and SAS Technology Explore Arming Unmanned Platforms - Israel Defense",
@@ -942,23 +852,6 @@
         "Israel",
         "Rafael",
         "defense",
-        "technology"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "b938b59d4bccf5a7cb707902",
-      "mode": "geopolitico",
-      "title": "U.S.-China AI rivalry forces countries to navigate competing technology blocs (NVDA:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUhSWGZJVzFWbXR0a09Nb2FMbVhIR2NkRko2eHRqQWFjT2JlaW0zTUNqSWp6cTUzZk9XUGNPR09yemVSQ240Y2haUEtSWURhZkFBWk1PVzBnZ2d3SnFMX3NZUVk1ai1VUEdDUWNLNXloTnFCZ2FjNmN1NEJrWnNDUmxvS2x2dzBBdnJ1WGUydkwyYXItU2M1VjRWN25TSWp2MzduV0h5U0RXZ3doTDFpcXhSUHc?oc=5",
-      "source": "China Strategic Watch",
-      "published": "Sun, 25 Oct 2026 15:57:01 GMT",
-      "base_score": 71,
-      "candidate_score": 81,
-      "priority": "High",
-      "matched_keywords": [
-        "China",
-        "China AI",
         "technology"
       ],
       "content_type": "news"
@@ -980,6 +873,40 @@
       "content_type": "analyst"
     },
     {
+      "external_id": "8834ca15a65555e64b49b541",
+      "mode": "geopolitico",
+      "title": "Pakistan-Iran Border Reopening Monday: Taftan Resumes Trade, LPG Trucks Await Clearance - Balochistan Pulse",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZHpUQ0J2TzBZdEtIS1lUajlQRm1FeDFXTzdiSG1heTUzN1c4UXdjZVhiTTY0X1lxRHVzdHg0X3NSZXl1d3pncmJGbllnWVdpQU9kdm5GVm9NeGo3ay1fX2FpNW0yNGtkRkZQS0NFdFFsOWpXUXNjTVd6UXR6bm53X01YQ0zSAYQBQVVfeXFMTWR6VENCdk8wWXRLSEtZVGo5UEZtRXgxV083YkhtYXk1MzdXOFF3Y2VYYk02NF9ZcUR1c3R4NF9zUmV5dXd6Z3JiRm5ZZ1lXaUFPZHZuRlZvTXhqN2stX19haTVtMjRrZEZGUEtDRXRRbDlqV1FzY01XelF0em5ud19NWENM?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 25 Oct 2026 11:17:32 GMT",
+      "base_score": 74,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "Pakistan",
+        "Balochistan",
+        "Iran",
+        "trade"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "b2b0abdfedaaf2e67933a996",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz’de Yeni Denklem: Türkiye-Libya Anlaşması ve Denizlerin Jeopolitik Mücadelesi - Star Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yWDRBeHdMSkRjaWh2N2JEZngyYWZHbFF2bTYwSU9GM3lFbjRwd0ZWcmExdnVyUWozMHJUaDF3cFFYa3Vqa1NnelptS3ozcWRyQ0lRWjhvcm5oMURyOUNkcQ?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sun, 25 Oct 2026 20:13:47 GMT",
+      "base_score": 69,
+      "candidate_score": 79,
+      "priority": "High",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "Kıbrıs"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "d1081c87c81ba170eadeae8b",
       "mode": "pontos_voice",
       "title": "Παναγία Σουμελά: Συγκίνηση και δέος κατά την υποδοχή της στο Ρέθυμνο – «Μας ενώνει η πίστη και η εθνική μνήμη» - pontosnews.gr",
@@ -991,22 +918,6 @@
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
-        "Παναγία Σουμελά",
-        "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "344e101eb22c0a7a66aff998",
-      "mode": "pontos_voice",
-      "title": "Παναγία Σουμελά: Η ιστορική συνάντηση του Πόντου και της Κρήτης στο Ρέθυμνο – Συγκίνηση στην πρώτη υποδοχή της ιερής εικόνας - η ναυτεμπορικη",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOFJCRXF5V1RXQV8wcU9OQUVGZDZPZ1FEVkFMSGpSQTFUM1luZGlmVDBVSEVFeEo2aDhnZjZucVRrcmtLVjcyeE5zOEJKYTRtN0t5bEpieWRLNURpaldUMVp2d2JHZ3hRSF8zZUstLVZHeDd0RFBBWHV2c2V4aXlRVTY4ZnplV3FnbEtKeDg1WnRfM2hVNkxEb0hSUG50WVhnY19pcUZ5eVIxbEphb3owV0VkazlWb3JuRlIxRy1yMEp0MUVuNkhsdERwYWxNM19vbTBfc1plQVFWd1Z3V1hSbnpmYm1FZ0Z2UTNtb21adnlfcWJXbFlBVnBmY0g?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Sun, 25 Oct 2026 20:44:21 GMT",
-      "base_score": 86,
-      "candidate_score": 101,
-      "priority": "URGENT",
-      "matched_keywords": [
         "Παναγία Σουμελά",
         "Σουμελά"
       ],
@@ -1030,37 +941,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "af775e9d91cf9d756359d3dd",
+      "external_id": "34fba3a4c1eb5946e3ba6d19",
       "mode": "pontos_voice",
-      "title": "Trabzonspor, Rizespor deplasmanına çıkıyor! Muhtemel 11'de dikkat çeken tercihler...",
-      "url": "https://www.61saat.com/trabzonspor-rizespor-deplasmanina-cikiyor-muhtemel-11de-dikkat-ceken-tercihler",
-      "source": "61Saat Trabzon",
-      "published": "Sun, 25 Oct 2026 23:24:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
-      "priority": "Normal",
+      "title": "Παναγία Σουμελά: Έφτασε στην Κρήτη η θαυματουργή εικόνα – Το απόγευμα του Σαββάτου η επίσημη υποδοχή - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORUZmbGFJSjZkMkpIUlRvT0txbHJzRmVNZml0c0U0RnVwRWtxbXp0N1dHa0ZvNy1PQ0sxbUNrb0UxeFRCWDEwbEJ1dFdEZzRrZkpMYjdfUURlbGhwdHlqR1Q0cG04OTFGQWhBOGFBT0dLbHVZRjlyVEJSbEg1dGd5OGV2elZ2RWZua0hMV1FxVVZDUXExZHhqVkR4Q0JoMmw1?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 24 Oct 2026 12:17:41 GMT",
+      "base_score": 100,
+      "candidate_score": 100,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Trabzon",
-        "Rize",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "03fcdcbd3961fd27a7b84284",
-      "mode": "pontos_voice",
-      "title": "Karadeniz derbisinde zıt tablo! Rizespor evinde kayıp, Trabzonspor deplasmanda çıkış peşinde - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR21ISlJ6UFpQZUtMRWpyOHpZRTN2eHFHVWJqSWN0b0lrWEppUXRCLXhRSXZiSl9xa0tKM3Z3RVBhR1pVbi1MdTBXdmZuQmNUejZaMVU0b0pwU1pCS3hpS0xxYjF3TFJGeHBzRnZSMmxGYjR3REhCT3otc1RFcV9pcGlnamZPX0RzUVFZNnd6bHh6VmlUdGJCOUQ5dDNxVXBybURiaDVISm1yVFJZQmJ5dWhzWHdwV1dJeFNVZHVYRGNoMzdKTC05c20xVVVJQQ?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sun, 25 Oct 2026 05:48:41 GMT",
-      "base_score": 53,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Rize",
-        "Trabzon",
-        "Karadeniz"
+        "Pontos",
+        "Παναγία Σουμελά",
+        "Σουμελά"
       ],
       "content_type": "news"
     },
@@ -1078,6 +971,41 @@
         "Trabzon",
         "Of",
         "açıklama",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "03fcdcbd3961fd27a7b84284",
+      "mode": "pontos_voice",
+      "title": "Karadeniz derbisinde zıt tablo! Rizespor evinde kayıp, Trabzonspor deplasmanda çıkış peşinde - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR21ISlJ6UFpQZUtMRWpyOHpZRTN2eHFHVWJqSWN0b0lrWEppUXRCLXhRSXZiSl9xa0tKM3Z3RVBhR1pVbi1MdTBXdmZuQmNUejZaMVU0b0pwU1pCS3hpS0xxYjF3TFJGeHBzRnZSMmxGYjR3REhCT3otc1RFcV9pcGlnamZPX0RzUVFZNnd6bHh6VmlUdGJCOUQ5dDNxVXBybURiaDVISm1yVFJZQmJ5dWhzWHdwV1dJeFNVZHVYRGNoMzdKTC05c20xVVVJQQ?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Sun, 25 Oct 2026 05:48:41 GMT",
+      "base_score": 53,
+      "candidate_score": 56,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Rize",
+        "Trabzon",
+        "Karadeniz"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "af775e9d91cf9d756359d3dd",
+      "mode": "pontos_voice",
+      "title": "Trabzonspor, Rizespor deplasmanına çıkıyor! Muhtemel 11'de dikkat çeken tercihler...",
+      "url": "https://www.61saat.com/trabzonspor-rizespor-deplasmanina-cikiyor-muhtemel-11de-dikkat-ceken-tercihler",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 25 Oct 2026 23:24:00 +0300",
+      "base_score": 44,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Rize",
         "Trabzon"
       ],
       "content_type": "news"
