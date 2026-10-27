@@ -1,31 +1,32 @@
 {
-  "generated_at": "2026-10-27T12:29:15.539690+00:00",
+  "generated_at": "2026-10-27T18:15:36.792177+00:00",
   "counts": {
-    "sportdog": 9,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "aba4f489c0e3235248625a28",
+        "external_id": "b745ee4b9e33258c0e63afa0",
         "mode": "sportdog",
-        "title": "Sergej Jakirovic opens up on Christos Mouzakitis Hull City absence following eye-catching Olympiacos deal - Hull Live",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEx6bEwydWxIbFJpa2M1R1JNb1lDakJYOHZmdFB5cXZ4dmJzc2NNZlVQdk9oX3dWZHRpUHMtY2tVZ1R3UzFTdGcyYmw5UTZ6b3ZxanMzM0RJZWxHU3g4VkVDMDFNTkxwUkdCUzZMZUZJU0ZhUFl4TWhaM1ZSU2pYREFpcmtiMGJzdUwxVHpIa2RfUTVYZHNMUlFUSEV1WXNuUURLaGFqaw?oc=5",
+        "title": "Transfer: Olympiacos Bids €3 Million for Bi Zaouai - Africa Top Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUZGQlBmWDVrWER3dVhWcEMya2gzMm5aS0NyOTRyR0NrUmdnd2c3X3N5N2UzWUN2NXlJRHo2Q2xPcndDQ0RkUmtVWlRJMjhWOG5Fc1lnODB3YVdPZzVsTjNWeFRmN29UMWRNOGJGQkFCSy1McE94WDVwNmI0SFpvVm9iT1hROGVG?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 27 Oct 2026 05:00:00 GMT",
-        "base_score": 56,
-        "candidate_score": 84,
-        "priority": "High",
+        "published": "Tue, 27 Oct 2026 14:45:25 GMT",
+        "base_score": 75,
+        "candidate_score": 105,
+        "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
-          "deal"
+          "transfer",
+          "bid"
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
+        "readiness": "READY",
+        "needs_second_source": false
       },
       {
         "external_id": "a57d21d3a86e88c994e56913",
@@ -35,7 +36,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Mon, 26 Oct 2026 18:52:55 GMT",
         "base_score": 62,
-        "candidate_score": 84,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "AEK",
@@ -48,22 +49,22 @@
         "needs_second_source": true
       },
       {
-        "external_id": "36fdaf05cb9285ae77ae15c6",
+        "external_id": "aba4f489c0e3235248625a28",
         "mode": "sportdog",
-        "title": "Panathinaikos vs Aris Predictions & Live Stream – Entertaining Match in the Greek Cup - FreeTips",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmpQdnRMVUdka0paZlh2MEhJWWJ4R3E3YVFiVE9lU1g2WGlNYWk1X2NWT1pUMkxDaXFCMnYxNngzSlMyZjVoY2UzRzJ5NkY3UFZUQ1YxZ3p4RnFqd1k2b2Zael9GcEdwQnpodmR3UGpIdDBlZUYzdzV2UU9NZTE5QjV3SV9NcDJQcWc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Mon, 26 Oct 2026 21:32:30 GMT",
+        "title": "Sergej Jakirovic opens up on Christos Mouzakitis Hull City absence following eye-catching Olympiacos deal - Hull Live",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEx6bEwydWxIbFJpa2M1R1JNb1lDakJYOHZmdFB5cXZ4dmJzc2NNZlVQdk9oX3dWZHRpUHMtY2tVZ1R3UzFTdGcyYmw5UTZ6b3ZxanMzM0RJZWxHU3g4VkVDMDFNTkxwUkdCUzZMZUZJU0ZhUFl4TWhaM1ZSU2pYREFpcmtiMGJzdUwxVHpIa2RfUTVYZHNMUlFUSEV1WXNuUURLaGFqaw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Tue, 27 Oct 2026 05:00:00 GMT",
         "base_score": 56,
-        "candidate_score": 70,
+        "candidate_score": 80,
         "priority": "High",
         "matched_keywords": [
-          "Panathinaikos",
-          "Aris"
+          "Olympiacos",
+          "deal"
         ],
         "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Panathinaikos",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -75,7 +76,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 26 Oct 2026 20:21:18 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -88,12 +89,12 @@
         "needs_second_source": true
       },
       {
-        "external_id": "e3f4d1fae01fe5e2b9586faa",
+        "external_id": "cf4603d4e2019c71eaa8b9ef",
         "mode": "sportdog",
-        "title": "Marko vs. Olympiacos: Greek Cup Preview - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDRhZ0pFLTVlTzBPQ3BhZ051RXE0RU1VbW5peHJEczVUakNpSnUwdkc1TWFmRkoxbU5WcFFXM2dHcjFxRkxIYkxQNHEwM1liaFBBXzZ1bHdMemhWWVdwOXBodVBLbWg3VE9pNUtLSkZmQzgyRFNudzNnbExmZDBMSWNDLVhGd0NUWkYyTHJjdnRScy1MSDhzOWFyTEpxTXkt?oc=5",
+        "title": "How to Watch Marko 1927 F.C. vs. Olympiacos: Kick-off Time, TV Channels, Streaming Details - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG5IalVGcG8yRWJEbFBnOUFxTEdTdERfNXdYRHZJUVQtdVRTWDREWnlHUC01M1NOWFNrMk5pQlhoeHFkU2VVNzRzZUJJbDVST2NrMUVTbGVQdV9xbF85RkIzYVl5c0NKYVlUbjRSeUxvWTl3bkNhVU1wV1ZWLXNya0V0SFVveWRFbnRkZl9JSDIwUWFVMVYyT0RPTzhDd19hSFNXUlVid3lYMndYMzQ5RnIxZWhUMmJrM0d2RWNYaHROVTMzYVNIQjFjVXIzOFpYOEpER0h6enFhbVA0R0I2ZA?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 27 Oct 2026 09:17:02 GMT",
+        "published": "Tue, 27 Oct 2026 15:05:06 GMT",
         "base_score": 31,
         "candidate_score": 49,
         "priority": "Normal",
@@ -126,25 +127,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "6deeb5e1bc16f94b20766e37",
-        "mode": "sportdog",
-        "title": "Olympiacos Fans Chant 'Hormiga' as Armando Gonzalez Wins Them Over - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmtCeTBGR0xPVDEyUlVoTzNuT3hJZThUVlRvUDZJUnV4dVJyd21GM2ZHVjY5ME5DOGw5UEtMQ3NhVVR5UzUycVVqRjRNX3c0Zi1oNmhBMXFxczJaOHNjeTUzNlVRS2tmVDVjeTlIeUk2OERONDZVeGtIM2hFQnNCTDZJbU1PTU1iWFFvNTQ0YUQ2WlNjWjlmQWI1amZSSlRkaGZPZm4yV254TVFacUNDcVFzckhrWlVtaGV5aExn?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 27 Oct 2026 02:04:00 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "8b35994ef12615a352fe013c",
         "mode": "sportdog",
         "title": "Sani Becirovic reveals how Panathinaikos missed out on Jean Montero - basketballsphere.com",
@@ -164,26 +146,44 @@
         "needs_second_source": true
       },
       {
-        "external_id": "beedf749ca7cb5b3595d9716",
+        "external_id": "920e900a7d976b775729b8e4",
         "mode": "sportdog",
-        "title": "Athletic Bilbao - AEK Athens 2-0 - Flashscore.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWkxOUhtODFkOXdWMGtiMkhvd3FXb0J6TUVudFo1N21abHBoczEwV3R4RktKdmtDN1BYTFU2VmtmOE9hUkhuODlJb1FQZzZISTNWejZDNnVXQUV5aTVMaTBsTXFTMGE3UERLOFRoVHdsVnVaU2NHSTgtQjJVYWJ5OQ?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Mon, 26 Oct 2026 00:31:25 GMT",
+        "title": "Panathinaikos - Brighton - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY09mZlRfcjd0TnlPOE5NSV9tOHIweTlLNy1nclhTRTJIazRoRnRSdnZMb0dldDBuQ3dWTDNRekJIUjk4X0ZEUVNOVDM5WGg4VlUybjBZOWd2dUljMlBiblFHX0VGSEhvSUxiWmhQLUdROXN4cUtoXy1mampQd0lBQlVyajM5Y0ZjUWYw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Mon, 26 Oct 2026 14:29:36 GMT",
         "base_score": 31,
-        "candidate_score": 39,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
-          "AEK"
+          "Panathinaikos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "AEK",
+        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "1796c0876288af38233a9e55",
+        "mode": "geopolitico",
+        "title": "Greece rallies 3 Arab states against Turkey-Libya sea deal as Crete gas and maritime borders fuel tension - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORHpNcWRIbEJpcjVCT3g1R1NpVXlCbGEwc295eU9Ydlp1MFc1aUVWR0hlSDlnV0hLU04yRF9CUzhsZUNFa2EtQ1dDOFVNaVp3bzNnekpvbFBXaXFlYkxpSU50RWNTdklxWGJuZ091M1pkWHp2YXExNWd4WjBIdU5JYWdreEZ5cl9QUWJDQlZhdHgxZXJFRW9jYlRGOWplRW9FbjB2SUNETElOMlJKTkRnb3BXVnVXM1hURktEMC11LTV6dGZGcVlmX0tmN09SY2ozei12dzF2cHhqb0daa0psQmZtYzBDMHlWZmhXUUUzM0pEcThDTDl0Sm9iUTNfNi1Cc2hoUmM3T0FDcEhDU1HSAZMCQVVfeXFMTjZ4d2NYNWdYcmRyUVZkbzdmckt5RzRocXJ6a2ItbHVBY0E0UG04LS1aYmx2bFhNV09vXzJwVi0zc1VwSFowZVE4Qlc2RkRFNEJTc1NPblh4ZFhjSUE1aXZSRS1SOVFHWWFsWllVWG9NNnBMWE5abnowWGVhalM0Q2RFX3loYXNOUFdpaGRBelRBY0lzUktiTnU2YXpyUzRvbE1iSHd2MDZSVko0b3Q5NURDVDNJcG11ZE9ZSWszQzg5Q1V0amowUWI4SWJmdEJCUTJVOU41QS1ZQlZFbW1sY2VDSnp2QkhtenZIRVl3Qkk4a0RfTUtvZTF2ZHg4MFhubGVwajFKd2s1VkJkZVJXSjRhZnc?oc=5",
+        "source": "Cyprus Eastern Mediterranean Watch",
+        "published": "Tue, 27 Oct 2026 11:32:00 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "India",
+          "India Greece",
+          "Turkey"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "ff9a2880db302e1787aad58d",
         "mode": "geopolitico",
@@ -192,7 +192,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Tue, 27 Oct 2026 06:57:05 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -210,7 +210,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Tue, 27 Oct 2026 05:05:38 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -220,6 +220,59 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "2da774288bd9e2cb9ddd2451",
+        "mode": "geopolitico",
+        "title": "Dışişleri Bakanlığından, Türkiye'nin Ege ve Doğu Akdeniz politikasına ilişkin iddialara yönelik açıklama - Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSGJKMU0tV2hYN3lTMnBfT050SGdEVVNtRzllWEdHcXFTTUhWcTc1Q2FyczkzaFptQ2tGQ2hxamRseWdTRk42aDl5a09QT1pQbWJkVkVhY2lfNjVMZnh0anJCMWNBN3o0c2pieF9NMHQ4REhYQWNBZUc1VHFZbk50RUMwRWt1X0J2SGRraGRjaGFXRGFWNEtVc01iQ2IxWHhXeG1pc2ozdmNyTHpHNDZiVXRGdmRoNWVidll2T3FmMjJseTJobFhrbzlzaTdReW1zY1lwZ0JpVUQzUQ?oc=5",
+        "source": "Anadolu Greece Watch",
+        "published": "Tue, 27 Oct 2026 17:39:46 GMT",
+        "base_score": 86,
+        "candidate_score": 101,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Ege",
+          "Doğu Akdeniz",
+          "Dışişleri Bakanlığı",
+          "açıklama"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "21e5afaf3a12e7e388ef06c4",
+        "mode": "geopolitico",
+        "title": "Dışişleri Bakanlığı'ndan Ege ve Doğu Akdeniz iddialarına yanıt: \"Türkiye’nin tüm platformlarda kararlılıkla savunduğu görüşlerinde herhangi bir değişiklik söz konusu değildir\" - Anka Haber",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdjV2cGdTTXZOYU4tUk5razlpaFlMN2FaeDFHTDE0RDdITzY0Um1Ja1ZUalV1Q1B1RGFzU0FGLVVqVzUxV0hTWktLdGdkb19remxtVGI4YnVTeFVzXzlpMXM4bEpyb1ZJdTRtQ19icm5jNE1pZldfVWlsMk9VdGpWM2ZDMTlFOVdRaGJaZHZySzcwUEdxVmxNS2R6R3phMWw4N0dHT29uTjBDZncwZ1g2ZkNJdzJ6bGRRTXdXUTVyQ3dVYmV5YzUwVEZTVnFtdGZKbnpsOE1PcjdhLXkxQ2hObkZjWklpTDRjSTJNcC15MlBYOVJSZm01MTRpMzFGbHlYS0hGLW1jdDVCNUtjLVpaYlNvRVdJVWdodDQyb3RYUzg5Q0puaF9OVm5wbVdqMUJwc3Nv?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Tue, 27 Oct 2026 18:08:39 GMT",
+        "base_score": 84,
+        "candidate_score": 99,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Ege",
+          "Doğu Akdeniz",
+          "Dışişleri Bakanlığı"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "849e29049b8b7c51d58875ae",
+        "mode": "geopolitico",
+        "title": "Tehreek-e-Taliban Pakistan (TTP) Claims 334 Operations In September 2026, Killing 213 Pakistani Security Personnel - MEMRI | Middle East Media Research Institute",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkpnYUNNV0dWSUdORGFSX1FfbHJUaE5VMTd6cFB4VmtGaExKMkdKSWZTZTdraVBnYVVyNndvSUxKcmMwcWprUEZETi1DMUVvV2VhVVBJM0Jnb3JRTHVLRGJ0LWsxYzBzWlFFQ19ERWlDV0wxTFlma0JCazREak5pWDRUTy1WRURldmZDZEE1ODJIQjdwZDl1cExuUWU3VzZrMktlZWljNEJkMUU0VkN3Um5aOU1DVjA?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Tue, 27 Oct 2026 13:09:46 GMT",
+        "base_score": 86,
+        "candidate_score": 96,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pakistan",
+          "Pakistani",
+          "TTP",
+          "research"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "cf91dda7c0dbb9245e0c990a",
         "mode": "geopolitico",
         "title": "How the TTP Uses Religion to Justify Terrorism in Pakistan - Balochistan Pulse",
@@ -227,8 +280,8 @@
         "source": "Pakistan Security Watch",
         "published": "Tue, 27 Oct 2026 07:46:30 GMT",
         "base_score": 88,
-        "candidate_score": 98,
-        "priority": "URGENT",
+        "candidate_score": 94,
+        "priority": "High",
         "matched_keywords": [
           "Pakistan",
           "TTP",
@@ -236,41 +289,6 @@
           "terrorism"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "4ad4514072104735b362b729",
-        "mode": "geopolitico",
-        "title": "Erdoğan’dan Doğu Akdeniz mesajı: “Birilerine gol atmanın peşinde değiliz” - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFg4dDMxTkZLZjhQdXhIQVF2NFBIT3FCU1FrVmtJLTJhbVp3YmU2aVFRQTBDUFZ0WnlaVEtkbmx6QTlQYVhuOFNXWGhrcnlqTllUM01pYlppanNYNEtDV0FpMlJvUS1uOVlobGNEN3k5ZjR1UUtmRGxyY1pDZ3NQS1hWeVNXTXliZUlKVGVNdVhZS2V4TnQ0Qkln?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Tue, 27 Oct 2026 04:59:02 GMT",
-        "base_score": 84,
-        "candidate_score": 94,
-        "priority": "High",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "Erdoğan"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "158199098f00bf5ffc95aff9",
-        "mode": "geopolitico",
-        "title": "Türkiye-Libya anlaşması Yunanistan’ı karıştırdı: Fransa Atina’yı erteledi, Miçotakis küplere bindi! - Türkinform",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3FCRnBqd1gxeFFINlNCdnpXZ1VSYmxlSENuVGZINHFram9kU2otOFl4TXZ4al9BZnJUTGVrSzFyU2lnVFRfSjVNRlN1Rlp6ZnFiaHJVbmpGVC1fODg2SzFqTVpCeTlfMWZTSFdmM2ViWXlQUFo2VVpUZ2RVd2hwb0xHdkhHcGkyMVRYeVIzejJZQnlBQVVVLS1pMUNlNThEYlVlWW1iR2JfYk1KWmNBZ0k0d3ZBUjkzZHdPSw?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-        "base_score": 90,
-        "candidate_score": 93,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "Miçotakis",
-          "Atina",
-          "Fransa"
-        ],
-        "content_type": "turkey_greece"
       },
       {
         "external_id": "6ccd49ace12ca11e28c40b31",
@@ -288,44 +306,58 @@
           "Rafael"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "f7e8c17460b59cda74b0a250",
-        "mode": "geopolitico",
-        "title": "Pakistan Counterterrorism Operations - Balochistan Pulse",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbkFxQXMwSGpzcS1uYzI4S0g4SFRiQUZnZmtDblQweU9mYTBlMlYtVzBiSEU5dFpRbUEyV2tUU0N2elRoRUxjd2FIX0tvZmVCQUhiQnVJZ0VjRFVfemtsQTBURm9zOGpKTlU0eW1rdE81NHQzRGM4SGFEenppZFVCSXFINmhHSDhfZkppQ2lrbDhINUIyaDd6WEZscXNlZzBlYWdLLWVEd1JqdjdobUg2Xzl4TUw4eUtUdXVlMmFhd3VfSHVtRFktLXFMR3YtMWpRamZBdE9JUmNmQWRYTFpxbVpfYw?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Tue, 27 Oct 2026 05:28:50 GMT",
-        "base_score": 77,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "Pakistan",
-          "Balochistan",
-          "terrorism",
-          "counterterrorism"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "9ba6d565cc043b9c2f3cd49d",
-        "mode": "geopolitico",
-        "title": "Israel to Supply Cyprus with Patrol Vessel Equipped with Rafael Naval Systems - Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02eWRZWmpzdUVkUlo2RW03UlVYcWZ4bExEM0cxVUZfVmFIUk1ieGZCWm9tWlBNWld4eEpiVW9aLTR1RlVqel9MWkNSM2VxVEFhNFVydg?oc=5",
-        "source": "Ynet Greece Turkey Cyprus IMEC Watch",
-        "published": "Mon, 26 Oct 2026 12:00:50 GMT",
-        "base_score": 84,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "Israel",
-          "Cyprus",
-          "Rafael"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "4cad12c80f084624c1abbed1",
+        "mode": "pontos_voice",
+        "title": "Γενοκτονία στον Πόντο: Το μαρτύριο του παπα-Ιωάννη στην Εγκαρσή, στα Πλάτανα της Τραπεζούντας τον Οκτώβριο του 1916 - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnZOTzAwSXAwaXFzY2JQcUtibXk4U0NIZmxkWjBmTENJNTlqYU9tcGk0UTdqTHd5NjhkZTc1LXRTTWpIYlVNLUpNZWpBdllpOUNsRjZQTUZhQmhBbTh3TWhDamowa2h0XzZwT3B2VFFjTkV3dkstOWVRWHpqR2I4UElBOTFnZ2I2M0w5VnpXZmFoem1NYXZQLUJjclJOandaWUY2cFRFUFBJb0J4eXJSN19IVmM?oc=5",
+        "source": "Pontos News Watch",
+        "published": "Mon, 26 Oct 2026 13:30:45 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "Τραπεζούντα",
+          "Τραπεζούντας"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "d302e25a441ceca415c13e56",
+        "mode": "pontos_voice",
+        "title": "Κρήτη: Η Παναγία Σουμελά στα Ανώγεια – Βασίλης Σκουλάς και Γιώργος Στεφανίδης ένωσαν μουσικά Πόντο και Ψηλορείτη - Φωνή Μαλεβιζίου",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLUdRVXRfdVVGMXQweHRDMl9EVFlZcjdKUEV1LVRYZldlck5NXzRvaE1fb0cwUTlTbmszczM0eVhNU1ZuTHNZb1FQRzlpVWlhU09XdFZQMUh1TjZMZGdvS3dXb01aSEhJekJNYmF5YVFiTFlFTlN4RC1FQ2p6R1U3TnZQM0Q2a1lSWEhvM3BfcVl6a2loRXNKTGRvV19pM0V1aklWTkVHYXZOWFVlZTl5eW92ZDhKMl8wekNLZUNvSHBCQTREY2FJNG5fMVBQT1lLVkNvbk9yNDBCZHJEMGRBbHZR?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Tue, 27 Oct 2026 17:30:26 GMT",
+        "base_score": 86,
+        "candidate_score": 101,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Παναγία Σουμελά",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "989d162fee89e2d229a46f29",
+        "mode": "pontos_voice",
+        "title": "Ρέθυμνο: Στην Αντιπεριφέρεια ο Μητροπολίτης Βεροίας Παντελεήμων – Στο επίκεντρο η Παναγία Σουμελά - NeaKriti",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOenhVT3hvVWIxOWZKMmVva0YzTnlRMUVqcHpDa1M3RVlEZmJlZUxnZ3NMV3NIQ0ZITUdQcjRvVE5KNW42X2FSWmdhdFFZUDdjU0hEQVU0V1FVWUd0dU1BUTNZTmlHb2twZXBOUkxSeldFVWxrTUIzWW91cXFJTXhLWkpzWWtrSXdzQWVVY1BjUC15VGdJOWdyUTFpNXBycHlvbW44UzVmWm1fT25nVkdrRm1yMTXSAboBQVVfeXFMUFlmbjFzSHUyNlg5b2ZBVmd0X1ZrdXVzT3QwaTVJRnFjUmZRRkdVaFc0RzRLZnRqeEVNdU43ZFktTS1XdlotLWdrdmlJVVZUNEZJME5Ib2NfUm16YVpPX1JmN2lNbHJvTnpDOG5rSzB1QjhqWDJXbHBBb1hZUE5YUkFsdEwzMkZPVGZVOVFPMHh2WXRiWmIzckh3V3ppZUx0LVlkRDZFV085YkFOOGRQbmt3akFnT1VYQmFB?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Tue, 27 Oct 2026 12:50:57 GMT",
+        "base_score": 86,
+        "candidate_score": 96,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Παναγία Σουμελά",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "41505b8926becc75b445bb4f",
         "mode": "pontos_voice",
@@ -334,42 +366,10 @@
         "source": "Greek Press Pontic Watch",
         "published": "Tue, 27 Oct 2026 08:08:28 GMT",
         "base_score": 86,
-        "candidate_score": 96,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "3034ef98336259159bec4210",
-        "mode": "pontos_voice",
-        "title": "Ρέθυμνο: Οι Ανωγειανές έστρωσαν στους δρόμους τα κιλίμια τους και υποδέχθηκαν την Παναγία Σουμελά - Rethemnos News",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQWdKWEY4b3lBM21CYVFONHFMU3pJMWUwUG5uZWR3UDd4OGJROGJFSTRCdktVV0EtVjhWZ2RzV0hoYmM0V1RUcng4aFZwYkZQYUpWX3JTQmtzSnd2WHRnQkVGMlRUQk1EZVREVzN5VjVKN0JyRTBLTmkxM0hXZmw3dlp2ZF83WWhWZ1JSSlpYREQ4UUVoYUMxWXZ6WUZvclpWR2JyVk1aVTRwdHVVemxkTlZad3Y2c0gyTHdWWFF5MjFDbnYybmc?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Tue, 27 Oct 2026 06:26:11 GMT",
-        "base_score": 86,
-        "candidate_score": 96,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "767f9f9d4c42559baf12faf4",
-        "mode": "pontos_voice",
-        "title": "Κρήτη και Πόντος έγιναν \"ένα\": Συγκίνηση στην υποδοχή της Παναγίας Σουμελά στα Ανώγεια - ekriti.gr",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZW9xWWxGTVVDeXM4M0hMdVRHSmFONXl4UzBaNXBpbUs0bGVUTzRhZ0NfX01RbHBMSmg5THdYMjNqNS1mVmk4TmhOTmlXSEt5NVNMNWR2ckpDUG5ZQXdJcWRaSk8tU2sxNXNudkd0RzRxYzNNNzVtNFVJVWVURzd1dWxjX1o4VHg4NXhLUVJJdGFhUWZNYzVhcHJRMk9TcTBfb05acTVWWUt5NE1lXzZCRw?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Mon, 26 Oct 2026 18:50:00 GMT",
-        "base_score": 80,
-        "candidate_score": 86,
+        "candidate_score": 92,
         "priority": "High",
         "matched_keywords": [
-          "Πόντος",
+          "Παναγία Σουμελά",
           "Σουμελά"
         ],
         "content_type": "news"
@@ -382,7 +382,7 @@
         "source": "Pontos News Watch",
         "published": "Mon, 26 Oct 2026 18:33:24 GMT",
         "base_score": 78,
-        "candidate_score": 84,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -391,38 +391,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "74e5cdec0ec267c355e4dffd",
+        "external_id": "134038bc30ab360130c247de",
         "mode": "pontos_voice",
-        "title": "Trabzon'da Büyükşehir'den sıkı denetim! 6 okul kontrol edildi",
-        "url": "https://www.61saat.com/trabzonda-buyuksehirden-siki-denetim-6-okul-kontrol-edildi",
+        "title": "Trabzonlulara sorduk: Cumhuriyet sizin için ne ifade ediyor?",
+        "url": "https://www.61saat.com/trabzonlulara-sorduk-cumhuriyet-sizin-icin-ne-ifade-ediyor",
         "source": "61Saat Trabzon",
-        "published": "Tue, 27 Oct 2026 14:46:00 +0300",
-        "base_score": 67,
-        "candidate_score": 82,
-        "priority": "High",
+        "published": "Tue, 27 Oct 2026 18:14:00 +0300",
+        "base_score": 53,
+        "candidate_score": 63,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Rumlar",
+          "Ordu",
           "Trabzon",
           "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "27fd5e76f1122f7602b4842b",
-        "mode": "pontos_voice",
-        "title": "Rizeli taraftardan İstanbul takımlarına mesaj! Onlar bize lazım değil",
-        "url": "https://www.61saat.com/rizeli-taraftardan-istanbul-takimlarina-mesaj-onlar-bize-lazim-degil",
-        "source": "61Saat Trabzon",
-        "published": "Tue, 27 Oct 2026 13:00:00 +0300",
-        "base_score": 55,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "Rize",
-          "Trabzon",
-          "Karadeniz"
         ],
         "content_type": "news"
       }
@@ -430,24 +412,25 @@
   },
   "items": [
     {
-      "external_id": "aba4f489c0e3235248625a28",
+      "external_id": "b745ee4b9e33258c0e63afa0",
       "mode": "sportdog",
-      "title": "Sergej Jakirovic opens up on Christos Mouzakitis Hull City absence following eye-catching Olympiacos deal - Hull Live",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEx6bEwydWxIbFJpa2M1R1JNb1lDakJYOHZmdFB5cXZ4dmJzc2NNZlVQdk9oX3dWZHRpUHMtY2tVZ1R3UzFTdGcyYmw5UTZ6b3ZxanMzM0RJZWxHU3g4VkVDMDFNTkxwUkdCUzZMZUZJU0ZhUFl4TWhaM1ZSU2pYREFpcmtiMGJzdUwxVHpIa2RfUTVYZHNMUlFUSEV1WXNuUURLaGFqaw?oc=5",
+      "title": "Transfer: Olympiacos Bids €3 Million for Bi Zaouai - Africa Top Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUZGQlBmWDVrWER3dVhWcEMya2gzMm5aS0NyOTRyR0NrUmdnd2c3X3N5N2UzWUN2NXlJRHo2Q2xPcndDQ0RkUmtVWlRJMjhWOG5Fc1lnODB3YVdPZzVsTjNWeFRmN29UMWRNOGJGQkFCSy1McE94WDVwNmI0SFpvVm9iT1hROGVG?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 27 Oct 2026 05:00:00 GMT",
-      "base_score": 56,
-      "candidate_score": 84,
-      "priority": "High",
+      "published": "Tue, 27 Oct 2026 14:45:25 GMT",
+      "base_score": 75,
+      "candidate_score": 105,
+      "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
-        "deal"
+        "transfer",
+        "bid"
       ],
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
+      "readiness": "READY",
+      "needs_second_source": false
     },
     {
       "external_id": "a57d21d3a86e88c994e56913",
@@ -457,7 +440,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Mon, 26 Oct 2026 18:52:55 GMT",
       "base_score": 62,
-      "candidate_score": 84,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "AEK",
@@ -470,22 +453,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "36fdaf05cb9285ae77ae15c6",
+      "external_id": "aba4f489c0e3235248625a28",
       "mode": "sportdog",
-      "title": "Panathinaikos vs Aris Predictions & Live Stream – Entertaining Match in the Greek Cup - FreeTips",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmpQdnRMVUdka0paZlh2MEhJWWJ4R3E3YVFiVE9lU1g2WGlNYWk1X2NWT1pUMkxDaXFCMnYxNngzSlMyZjVoY2UzRzJ5NkY3UFZUQ1YxZ3p4RnFqd1k2b2Zael9GcEdwQnpodmR3UGpIdDBlZUYzdzV2UU9NZTE5QjV3SV9NcDJQcWc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Mon, 26 Oct 2026 21:32:30 GMT",
+      "title": "Sergej Jakirovic opens up on Christos Mouzakitis Hull City absence following eye-catching Olympiacos deal - Hull Live",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEx6bEwydWxIbFJpa2M1R1JNb1lDakJYOHZmdFB5cXZ4dmJzc2NNZlVQdk9oX3dWZHRpUHMtY2tVZ1R3UzFTdGcyYmw5UTZ6b3ZxanMzM0RJZWxHU3g4VkVDMDFNTkxwUkdCUzZMZUZJU0ZhUFl4TWhaM1ZSU2pYREFpcmtiMGJzdUwxVHpIa2RfUTVYZHNMUlFUSEV1WXNuUURLaGFqaw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Tue, 27 Oct 2026 05:00:00 GMT",
       "base_score": 56,
-      "candidate_score": 70,
+      "candidate_score": 80,
       "priority": "High",
       "matched_keywords": [
-        "Panathinaikos",
-        "Aris"
+        "Olympiacos",
+        "deal"
       ],
       "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Panathinaikos",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -497,7 +480,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 26 Oct 2026 20:21:18 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -510,12 +493,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "e3f4d1fae01fe5e2b9586faa",
+      "external_id": "cf4603d4e2019c71eaa8b9ef",
       "mode": "sportdog",
-      "title": "Marko vs. Olympiacos: Greek Cup Preview - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDRhZ0pFLTVlTzBPQ3BhZ051RXE0RU1VbW5peHJEczVUakNpSnUwdkc1TWFmRkoxbU5WcFFXM2dHcjFxRkxIYkxQNHEwM1liaFBBXzZ1bHdMemhWWVdwOXBodVBLbWg3VE9pNUtLSkZmQzgyRFNudzNnbExmZDBMSWNDLVhGd0NUWkYyTHJjdnRScy1MSDhzOWFyTEpxTXkt?oc=5",
+      "title": "How to Watch Marko 1927 F.C. vs. Olympiacos: Kick-off Time, TV Channels, Streaming Details - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG5IalVGcG8yRWJEbFBnOUFxTEdTdERfNXdYRHZJUVQtdVRTWDREWnlHUC01M1NOWFNrMk5pQlhoeHFkU2VVNzRzZUJJbDVST2NrMUVTbGVQdV9xbF85RkIzYVl5c0NKYVlUbjRSeUxvWTl3bkNhVU1wV1ZWLXNya0V0SFVveWRFbnRkZl9JSDIwUWFVMVYyT0RPTzhDd19hSFNXUlVid3lYMndYMzQ5RnIxZWhUMmJrM0d2RWNYaHROVTMzYVNIQjFjVXIzOFpYOEpER0h6enFhbVA0R0I2ZA?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 27 Oct 2026 09:17:02 GMT",
+      "published": "Tue, 27 Oct 2026 15:05:06 GMT",
       "base_score": 31,
       "candidate_score": 49,
       "priority": "Normal",
@@ -548,25 +531,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "6deeb5e1bc16f94b20766e37",
-      "mode": "sportdog",
-      "title": "Olympiacos Fans Chant 'Hormiga' as Armando Gonzalez Wins Them Over - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmtCeTBGR0xPVDEyUlVoTzNuT3hJZThUVlRvUDZJUnV4dVJyd21GM2ZHVjY5ME5DOGw5UEtMQ3NhVVR5UzUycVVqRjRNX3c0Zi1oNmhBMXFxczJaOHNjeTUzNlVRS2tmVDVjeTlIeUk2OERONDZVeGtIM2hFQnNCTDZJbU1PTU1iWFFvNTQ0YUQ2WlNjWjlmQWI1amZSSlRkaGZPZm4yV254TVFacUNDcVFzckhrWlVtaGV5aExn?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 27 Oct 2026 02:04:00 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "8b35994ef12615a352fe013c",
       "mode": "sportdog",
       "title": "Sani Becirovic reveals how Panathinaikos missed out on Jean Montero - basketballsphere.com",
@@ -586,23 +550,41 @@
       "needs_second_source": true
     },
     {
-      "external_id": "beedf749ca7cb5b3595d9716",
+      "external_id": "920e900a7d976b775729b8e4",
       "mode": "sportdog",
-      "title": "Athletic Bilbao - AEK Athens 2-0 - Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWkxOUhtODFkOXdWMGtiMkhvd3FXb0J6TUVudFo1N21abHBoczEwV3R4RktKdmtDN1BYTFU2VmtmOE9hUkhuODlJb1FQZzZISTNWejZDNnVXQUV5aTVMaTBsTXFTMGE3UERLOFRoVHdsVnVaU2NHSTgtQjJVYWJ5OQ?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Mon, 26 Oct 2026 00:31:25 GMT",
+      "title": "Panathinaikos - Brighton - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY09mZlRfcjd0TnlPOE5NSV9tOHIweTlLNy1nclhTRTJIazRoRnRSdnZMb0dldDBuQ3dWTDNRekJIUjk4X0ZEUVNOVDM5WGg4VlUybjBZOWd2dUljMlBiblFHX0VGSEhvSUxiWmhQLUdROXN4cUtoXy1mampQd0lBQlVyajM5Y0ZjUWYw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Mon, 26 Oct 2026 14:29:36 GMT",
       "base_score": 31,
-      "candidate_score": 39,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
-        "AEK"
+        "Panathinaikos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "AEK",
+      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "1796c0876288af38233a9e55",
+      "mode": "geopolitico",
+      "title": "Greece rallies 3 Arab states against Turkey-Libya sea deal as Crete gas and maritime borders fuel tension - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORHpNcWRIbEJpcjVCT3g1R1NpVXlCbGEwc295eU9Ydlp1MFc1aUVWR0hlSDlnV0hLU04yRF9CUzhsZUNFa2EtQ1dDOFVNaVp3bzNnekpvbFBXaXFlYkxpSU50RWNTdklxWGJuZ091M1pkWHp2YXExNWd4WjBIdU5JYWdreEZ5cl9QUWJDQlZhdHgxZXJFRW9jYlRGOWplRW9FbjB2SUNETElOMlJKTkRnb3BXVnVXM1hURktEMC11LTV6dGZGcVlmX0tmN09SY2ozei12dzF2cHhqb0daa0psQmZtYzBDMHlWZmhXUUUzM0pEcThDTDl0Sm9iUTNfNi1Cc2hoUmM3T0FDcEhDU1HSAZMCQVVfeXFMTjZ4d2NYNWdYcmRyUVZkbzdmckt5RzRocXJ6a2ItbHVBY0E0UG04LS1aYmx2bFhNV09vXzJwVi0zc1VwSFowZVE4Qlc2RkRFNEJTc1NPblh4ZFhjSUE1aXZSRS1SOVFHWWFsWllVWG9NNnBMWE5abnowWGVhalM0Q2RFX3loYXNOUFdpaGRBelRBY0lzUktiTnU2YXpyUzRvbE1iSHd2MDZSVko0b3Q5NURDVDNJcG11ZE9ZSWszQzg5Q1V0amowUWI4SWJmdEJCUTJVOU41QS1ZQlZFbW1sY2VDSnp2QkhtenZIRVl3Qkk4a0RfTUtvZTF2ZHg4MFhubGVwajFKd2s1VkJkZVJXSjRhZnc?oc=5",
+      "source": "Cyprus Eastern Mediterranean Watch",
+      "published": "Tue, 27 Oct 2026 11:32:00 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "India",
+        "India Greece",
+        "Turkey"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "ff9a2880db302e1787aad58d",
@@ -612,7 +594,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Tue, 27 Oct 2026 06:57:05 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -630,7 +612,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Tue, 27 Oct 2026 05:05:38 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -640,6 +622,59 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "2da774288bd9e2cb9ddd2451",
+      "mode": "geopolitico",
+      "title": "Dışişleri Bakanlığından, Türkiye'nin Ege ve Doğu Akdeniz politikasına ilişkin iddialara yönelik açıklama - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSGJKMU0tV2hYN3lTMnBfT050SGdEVVNtRzllWEdHcXFTTUhWcTc1Q2FyczkzaFptQ2tGQ2hxamRseWdTRk42aDl5a09QT1pQbWJkVkVhY2lfNjVMZnh0anJCMWNBN3o0c2pieF9NMHQ4REhYQWNBZUc1VHFZbk50RUMwRWt1X0J2SGRraGRjaGFXRGFWNEtVc01iQ2IxWHhXeG1pc2ozdmNyTHpHNDZiVXRGdmRoNWVidll2T3FmMjJseTJobFhrbzlzaTdReW1zY1lwZ0JpVUQzUQ?oc=5",
+      "source": "Anadolu Greece Watch",
+      "published": "Tue, 27 Oct 2026 17:39:46 GMT",
+      "base_score": 86,
+      "candidate_score": 101,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Ege",
+        "Doğu Akdeniz",
+        "Dışişleri Bakanlığı",
+        "açıklama"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "21e5afaf3a12e7e388ef06c4",
+      "mode": "geopolitico",
+      "title": "Dışişleri Bakanlığı'ndan Ege ve Doğu Akdeniz iddialarına yanıt: \"Türkiye’nin tüm platformlarda kararlılıkla savunduğu görüşlerinde herhangi bir değişiklik söz konusu değildir\" - Anka Haber",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdjV2cGdTTXZOYU4tUk5razlpaFlMN2FaeDFHTDE0RDdITzY0Um1Ja1ZUalV1Q1B1RGFzU0FGLVVqVzUxV0hTWktLdGdkb19remxtVGI4YnVTeFVzXzlpMXM4bEpyb1ZJdTRtQ19icm5jNE1pZldfVWlsMk9VdGpWM2ZDMTlFOVdRaGJaZHZySzcwUEdxVmxNS2R6R3phMWw4N0dHT29uTjBDZncwZ1g2ZkNJdzJ6bGRRTXdXUTVyQ3dVYmV5YzUwVEZTVnFtdGZKbnpsOE1PcjdhLXkxQ2hObkZjWklpTDRjSTJNcC15MlBYOVJSZm01MTRpMzFGbHlYS0hGLW1jdDVCNUtjLVpaYlNvRVdJVWdodDQyb3RYUzg5Q0puaF9OVm5wbVdqMUJwc3Nv?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Tue, 27 Oct 2026 18:08:39 GMT",
+      "base_score": 84,
+      "candidate_score": 99,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Ege",
+        "Doğu Akdeniz",
+        "Dışişleri Bakanlığı"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "849e29049b8b7c51d58875ae",
+      "mode": "geopolitico",
+      "title": "Tehreek-e-Taliban Pakistan (TTP) Claims 334 Operations In September 2026, Killing 213 Pakistani Security Personnel - MEMRI | Middle East Media Research Institute",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkpnYUNNV0dWSUdORGFSX1FfbHJUaE5VMTd6cFB4VmtGaExKMkdKSWZTZTdraVBnYVVyNndvSUxKcmMwcWprUEZETi1DMUVvV2VhVVBJM0Jnb3JRTHVLRGJ0LWsxYzBzWlFFQ19ERWlDV0wxTFlma0JCazREak5pWDRUTy1WRURldmZDZEE1ODJIQjdwZDl1cExuUWU3VzZrMktlZWljNEJkMUU0VkN3Um5aOU1DVjA?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Tue, 27 Oct 2026 13:09:46 GMT",
+      "base_score": 86,
+      "candidate_score": 96,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pakistan",
+        "Pakistani",
+        "TTP",
+        "research"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "cf91dda7c0dbb9245e0c990a",
       "mode": "geopolitico",
       "title": "How the TTP Uses Religion to Justify Terrorism in Pakistan - Balochistan Pulse",
@@ -647,8 +682,8 @@
       "source": "Pakistan Security Watch",
       "published": "Tue, 27 Oct 2026 07:46:30 GMT",
       "base_score": 88,
-      "candidate_score": 98,
-      "priority": "URGENT",
+      "candidate_score": 94,
+      "priority": "High",
       "matched_keywords": [
         "Pakistan",
         "TTP",
@@ -656,41 +691,6 @@
         "terrorism"
       ],
       "content_type": "news"
-    },
-    {
-      "external_id": "4ad4514072104735b362b729",
-      "mode": "geopolitico",
-      "title": "Erdoğan’dan Doğu Akdeniz mesajı: “Birilerine gol atmanın peşinde değiliz” - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFg4dDMxTkZLZjhQdXhIQVF2NFBIT3FCU1FrVmtJLTJhbVp3YmU2aVFRQTBDUFZ0WnlaVEtkbmx6QTlQYVhuOFNXWGhrcnlqTllUM01pYlppanNYNEtDV0FpMlJvUS1uOVlobGNEN3k5ZjR1UUtmRGxyY1pDZ3NQS1hWeVNXTXliZUlKVGVNdVhZS2V4TnQ0Qkln?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Tue, 27 Oct 2026 04:59:02 GMT",
-      "base_score": 84,
-      "candidate_score": 94,
-      "priority": "High",
-      "matched_keywords": [
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "Erdoğan"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "158199098f00bf5ffc95aff9",
-      "mode": "geopolitico",
-      "title": "Türkiye-Libya anlaşması Yunanistan’ı karıştırdı: Fransa Atina’yı erteledi, Miçotakis küplere bindi! - Türkinform",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3FCRnBqd1gxeFFINlNCdnpXZ1VSYmxlSENuVGZINHFram9kU2otOFl4TXZ4al9BZnJUTGVrSzFyU2lnVFRfSjVNRlN1Rlp6ZnFiaHJVbmpGVC1fODg2SzFqTVpCeTlfMWZTSFdmM2ViWXlQUFo2VVpUZ2RVd2hwb0xHdkhHcGkyMVRYeVIzejJZQnlBQVVVLS1pMUNlNThEYlVlWW1iR2JfYk1KWmNBZ0k0d3ZBUjkzZHdPSw?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "base_score": 90,
-      "candidate_score": 93,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "Miçotakis",
-        "Atina",
-        "Fransa"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "6ccd49ace12ca11e28c40b31",
@@ -710,37 +710,51 @@
       "content_type": "news"
     },
     {
-      "external_id": "f7e8c17460b59cda74b0a250",
-      "mode": "geopolitico",
-      "title": "Pakistan Counterterrorism Operations - Balochistan Pulse",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbkFxQXMwSGpzcS1uYzI4S0g4SFRiQUZnZmtDblQweU9mYTBlMlYtVzBiSEU5dFpRbUEyV2tUU0N2elRoRUxjd2FIX0tvZmVCQUhiQnVJZ0VjRFVfemtsQTBURm9zOGpKTlU0eW1rdE81NHQzRGM4SGFEenppZFVCSXFINmhHSDhfZkppQ2lrbDhINUIyaDd6WEZscXNlZzBlYWdLLWVEd1JqdjdobUg2Xzl4TUw4eUtUdXVlMmFhd3VfSHVtRFktLXFMR3YtMWpRamZBdE9JUmNmQWRYTFpxbVpfYw?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Tue, 27 Oct 2026 05:28:50 GMT",
-      "base_score": 77,
-      "candidate_score": 87,
-      "priority": "High",
+      "external_id": "4cad12c80f084624c1abbed1",
+      "mode": "pontos_voice",
+      "title": "Γενοκτονία στον Πόντο: Το μαρτύριο του παπα-Ιωάννη στην Εγκαρσή, στα Πλάτανα της Τραπεζούντας τον Οκτώβριο του 1916 - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnZOTzAwSXAwaXFzY2JQcUtibXk4U0NIZmxkWjBmTENJNTlqYU9tcGk0UTdqTHd5NjhkZTc1LXRTTWpIYlVNLUpNZWpBdllpOUNsRjZQTUZhQmhBbTh3TWhDamowa2h0XzZwT3B2VFFjTkV3dkstOWVRWHpqR2I4UElBOTFnZ2I2M0w5VnpXZmFoem1NYXZQLUJjclJOandaWUY2cFRFUFBJb0J4eXJSN19IVmM?oc=5",
+      "source": "Pontos News Watch",
+      "published": "Mon, 26 Oct 2026 13:30:45 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Pakistan",
-        "Balochistan",
-        "terrorism",
-        "counterterrorism"
+        "Pontos",
+        "Τραπεζούντα",
+        "Τραπεζούντας"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "9ba6d565cc043b9c2f3cd49d",
-      "mode": "geopolitico",
-      "title": "Israel to Supply Cyprus with Patrol Vessel Equipped with Rafael Naval Systems - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02eWRZWmpzdUVkUlo2RW03UlVYcWZ4bExEM0cxVUZfVmFIUk1ieGZCWm9tWlBNWld4eEpiVW9aLTR1RlVqel9MWkNSM2VxVEFhNFVydg?oc=5",
-      "source": "Ynet Greece Turkey Cyprus IMEC Watch",
-      "published": "Mon, 26 Oct 2026 12:00:50 GMT",
-      "base_score": 84,
-      "candidate_score": 87,
-      "priority": "High",
+      "external_id": "d302e25a441ceca415c13e56",
+      "mode": "pontos_voice",
+      "title": "Κρήτη: Η Παναγία Σουμελά στα Ανώγεια – Βασίλης Σκουλάς και Γιώργος Στεφανίδης ένωσαν μουσικά Πόντο και Ψηλορείτη - Φωνή Μαλεβιζίου",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLUdRVXRfdVVGMXQweHRDMl9EVFlZcjdKUEV1LVRYZldlck5NXzRvaE1fb0cwUTlTbmszczM0eVhNU1ZuTHNZb1FQRzlpVWlhU09XdFZQMUh1TjZMZGdvS3dXb01aSEhJekJNYmF5YVFiTFlFTlN4RC1FQ2p6R1U3TnZQM0Q2a1lSWEhvM3BfcVl6a2loRXNKTGRvV19pM0V1aklWTkVHYXZOWFVlZTl5eW92ZDhKMl8wekNLZUNvSHBCQTREY2FJNG5fMVBQT1lLVkNvbk9yNDBCZHJEMGRBbHZR?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Tue, 27 Oct 2026 17:30:26 GMT",
+      "base_score": 86,
+      "candidate_score": 101,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Israel",
-        "Cyprus",
-        "Rafael"
+        "Παναγία Σουμελά",
+        "Σουμελά"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "989d162fee89e2d229a46f29",
+      "mode": "pontos_voice",
+      "title": "Ρέθυμνο: Στην Αντιπεριφέρεια ο Μητροπολίτης Βεροίας Παντελεήμων – Στο επίκεντρο η Παναγία Σουμελά - NeaKriti",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOenhVT3hvVWIxOWZKMmVva0YzTnlRMUVqcHpDa1M3RVlEZmJlZUxnZ3NMV3NIQ0ZITUdQcjRvVE5KNW42X2FSWmdhdFFZUDdjU0hEQVU0V1FVWUd0dU1BUTNZTmlHb2twZXBOUkxSeldFVWxrTUIzWW91cXFJTXhLWkpzWWtrSXdzQWVVY1BjUC15VGdJOWdyUTFpNXBycHlvbW44UzVmWm1fT25nVkdrRm1yMTXSAboBQVVfeXFMUFlmbjFzSHUyNlg5b2ZBVmd0X1ZrdXVzT3QwaTVJRnFjUmZRRkdVaFc0RzRLZnRqeEVNdU43ZFktTS1XdlotLWdrdmlJVVZUNEZJME5Ib2NfUm16YVpPX1JmN2lNbHJvTnpDOG5rSzB1QjhqWDJXbHBBb1hZUE5YUkFsdEwzMkZPVGZVOVFPMHh2WXRiWmIzckh3V3ppZUx0LVlkRDZFV085YkFOOGRQbmt3akFnT1VYQmFB?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Tue, 27 Oct 2026 12:50:57 GMT",
+      "base_score": 86,
+      "candidate_score": 96,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Παναγία Σουμελά",
+        "Σουμελά"
       ],
       "content_type": "news"
     },
@@ -752,42 +766,10 @@
       "source": "Greek Press Pontic Watch",
       "published": "Tue, 27 Oct 2026 08:08:28 GMT",
       "base_score": 86,
-      "candidate_score": 96,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "3034ef98336259159bec4210",
-      "mode": "pontos_voice",
-      "title": "Ρέθυμνο: Οι Ανωγειανές έστρωσαν στους δρόμους τα κιλίμια τους και υποδέχθηκαν την Παναγία Σουμελά - Rethemnos News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQWdKWEY4b3lBM21CYVFONHFMU3pJMWUwUG5uZWR3UDd4OGJROGJFSTRCdktVV0EtVjhWZ2RzV0hoYmM0V1RUcng4aFZwYkZQYUpWX3JTQmtzSnd2WHRnQkVGMlRUQk1EZVREVzN5VjVKN0JyRTBLTmkxM0hXZmw3dlp2ZF83WWhWZ1JSSlpYREQ4UUVoYUMxWXZ6WUZvclpWR2JyVk1aVTRwdHVVemxkTlZad3Y2c0gyTHdWWFF5MjFDbnYybmc?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Tue, 27 Oct 2026 06:26:11 GMT",
-      "base_score": 86,
-      "candidate_score": 96,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "767f9f9d4c42559baf12faf4",
-      "mode": "pontos_voice",
-      "title": "Κρήτη και Πόντος έγιναν \"ένα\": Συγκίνηση στην υποδοχή της Παναγίας Σουμελά στα Ανώγεια - ekriti.gr",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZW9xWWxGTVVDeXM4M0hMdVRHSmFONXl4UzBaNXBpbUs0bGVUTzRhZ0NfX01RbHBMSmg5THdYMjNqNS1mVmk4TmhOTmlXSEt5NVNMNWR2ckpDUG5ZQXdJcWRaSk8tU2sxNXNudkd0RzRxYzNNNzVtNFVJVWVURzd1dWxjX1o4VHg4NXhLUVJJdGFhUWZNYzVhcHJRMk9TcTBfb05acTVWWUt5NE1lXzZCRw?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Mon, 26 Oct 2026 18:50:00 GMT",
-      "base_score": 80,
-      "candidate_score": 86,
+      "candidate_score": 92,
       "priority": "High",
       "matched_keywords": [
-        "Πόντος",
+        "Παναγία Σουμελά",
         "Σουμελά"
       ],
       "content_type": "news"
@@ -800,7 +782,7 @@
       "source": "Pontos News Watch",
       "published": "Mon, 26 Oct 2026 18:33:24 GMT",
       "base_score": 78,
-      "candidate_score": 84,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -809,38 +791,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "74e5cdec0ec267c355e4dffd",
+      "external_id": "134038bc30ab360130c247de",
       "mode": "pontos_voice",
-      "title": "Trabzon'da Büyükşehir'den sıkı denetim! 6 okul kontrol edildi",
-      "url": "https://www.61saat.com/trabzonda-buyuksehirden-siki-denetim-6-okul-kontrol-edildi",
+      "title": "Trabzonlulara sorduk: Cumhuriyet sizin için ne ifade ediyor?",
+      "url": "https://www.61saat.com/trabzonlulara-sorduk-cumhuriyet-sizin-icin-ne-ifade-ediyor",
       "source": "61Saat Trabzon",
-      "published": "Tue, 27 Oct 2026 14:46:00 +0300",
-      "base_score": 67,
-      "candidate_score": 82,
-      "priority": "High",
+      "published": "Tue, 27 Oct 2026 18:14:00 +0300",
+      "base_score": 53,
+      "candidate_score": 63,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Rumlar",
+        "Ordu",
         "Trabzon",
         "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "27fd5e76f1122f7602b4842b",
-      "mode": "pontos_voice",
-      "title": "Rizeli taraftardan İstanbul takımlarına mesaj! Onlar bize lazım değil",
-      "url": "https://www.61saat.com/rizeli-taraftardan-istanbul-takimlarina-mesaj-onlar-bize-lazim-degil",
-      "source": "61Saat Trabzon",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0300",
-      "base_score": 55,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "Rize",
-        "Trabzon",
-        "Karadeniz"
       ],
       "content_type": "news"
     }
