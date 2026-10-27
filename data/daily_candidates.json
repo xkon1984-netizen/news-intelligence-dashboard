@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T21:43:36.177534+00:00",
+  "generated_at": "2026-10-27T00:57:21.886935+00:00",
   "counts": {
     "sportdog": 11,
     "geopolitico": 8,
@@ -8,6 +8,27 @@
   "modes": {
     "sportdog": [
       {
+        "external_id": "ad0255b100af3a343828950e",
+        "mode": "sportdog",
+        "title": "PAOK Transfers - All Rumours and Latest News - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4za29VRGJSYVl4emdaMFJ0ZHFneXNGczVxY3d0WHQ1eUdndFJHend2c1NfT3loVnlvM3dEN3cyY3pJTVU3MFJQd29vYnZ1WGprYVUxVVpB?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Sun, 25 Oct 2026 18:29:52 GMT",
+        "base_score": 84,
+        "candidate_score": 114,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "PAOK",
+          "transfer",
+          "transfers"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
         "external_id": "a470d83b02a272a566888593",
         "mode": "sportdog",
         "title": "Strike Threat may Shift Europa League Match Between Stade Rennais vs. Olympiacos to Nov 4 - roundtable.io",
@@ -15,8 +36,8 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 26 Oct 2026 20:21:18 GMT",
         "base_score": 50,
-        "candidate_score": 73,
-        "priority": "High",
+        "candidate_score": 68,
+        "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
           "Europa League"
@@ -48,12 +69,31 @@
         "needs_second_source": true
       },
       {
-        "external_id": "c40d6ff7ee6312940c48c9ff",
+        "external_id": "d6848f020f421a3b9e95b013",
         "mode": "sportdog",
-        "title": "[4K] Olympiacos vs Kalamata Live Free HS Football 2026 - FC東京オフィシャルホームページ",
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPWnZ1XzJxMkJ0MkkwZXR6akhZZ0ZyaDBUN0ZjdEFnbW5nbkFoS2Z6dWUzLVo5cVJRWmZWU0w4V0dlV1dSWFJwZGthckVjcDlaNDFFZjdUbkViQ1FrZ0dJSER4dG1hb3EyTGhRbDVSX0ZZdEVDVUQ2TnNvSEV3ZmM2R1FoQW9TbVYyc05iNU02LU8xY1VpeXM4QWM3TEliQ3lEZTZkc3Z5TEtSRmNFWW5ocTdadVZoZ3E1cmJhNElZUEFTeFJnVjlZVms3eWQ5OThLU3Bfay1ENkx0cHhpUHlKbXREYmRXa0kzNlRnajBDSXRKUXpHYmlHRUxYblV1eUp5Z2ZVT0ZsT0ZKa3ktcDlOUnZPVVh6dTRWN19pODlvTzZ3TUx3b0ZtcUMzTTM5ZEctQnVsZlhGM2lnVlJKQlZlS3hIRQ?oc=5",
+        "title": "Jota Silva Achieves Olympiacos Feat After Scoring Hattrick Against Kalamata - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0F1OEF1THBJM1ZOSkdZUEJIRlAtcEZIalZuSVZWVFJZdHdsVG1EbEhvcmdrS0RaYTZ1SUNMSjBBNmZXVm4yQS1VS1dRZ1pkcVJsRldvQVp2UWN5bFU4V2NVMkZBa2FUdEJJNDI4NmRsMGxVb0h1QkJfcko1aHVKRnoteVUta1l4dWFjZ1ZZMEhZQ2h1NUFpWjdBamdmUUZkT0lFWEQxbnE0eUd6T2pCb1dFYjVMX2dXSXdRaFZEOEhmcmx4eHJISF8zRjI?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 25 Oct 2026 13:31:55 GMT",
+        "published": "Mon, 26 Oct 2026 19:09:03 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "e425226e30b6d28b5577a697",
+        "mode": "sportdog",
+        "title": "[[\"LiVeSTreaM\"]]tv* Olympiacos vs Kalamata LIvE FrEe StReAm HS Football 2026 - FC東京オフィシャルホームページ",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNZndiTUVPZHdydUpHS2FITDFlTVlCMzgyTXVtX00tUGVRZk80dm5ORTNGa1duWmpZeVZfU2gtaVJMeEkyMW1rZFJhelBMY3huck9oNDR5T2FBQzFqVkN6bnU5VDBUSEhRdjdBLTVkdzU1UWVZS25zNVFfQ3RqYkxWM0hmd0tLT1dNVEJ6RVRZbVY1UUkxVmQ2eTNYeTJBZXdvQzhxcENpTm5oZDhBRGdpUjVrY0ZhZWVrVVhjN3FJaXNBQmRhTTNFMm9FcnFnU0pmckttNUpWWS1oX25jTXRodEZEdlUxOW5jbmh5S3JuckdxNm5idmhUQjFWaGxZdkFUdXZZb29Qd0lJM1pMaWQtQnVadlhfZHQ4X1VyTU5QNjFMUGpoeG9mTGJJRUo2ekR3S2J4aUEyWVFXSVhGX2hpV1NxeTVOckw5TGVMNUJkTG1FcHg2MXBmUnMwWQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 25 Oct 2026 13:31:57 GMT",
         "base_score": 41,
         "candidate_score": 49,
         "priority": "Normal",
@@ -68,14 +108,14 @@
         "needs_second_source": true
       },
       {
-        "external_id": "e91b1d300f4379b26dd19738",
+        "external_id": "a04832143581d24888c2edb0",
         "mode": "sportdog",
-        "title": "Roma send scouts to view Olympiacos defender - RomaPress",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZTZuTS00b1U1U2tQOGdmbXZYS3RCck5xMnNmTGQyMEltbHdIRUhxX040SHRkZ0pJYm5XV3ljWS1URGd6eVBENHBrc2JDaHpDeFJSc3UzOG5PWElRRUZFZjR6Vm45R05yTDlITVVxbWlxeGNlaVE?oc=5",
-        "source": "Transfer Insiders Greece Only",
-        "published": "Sun, 25 Oct 2026 12:05:08 GMT",
-        "base_score": 40,
-        "candidate_score": 48,
+        "title": "AS Roma eye Olympiacos defender Lorenzo Pirola ahead of winter move - YSscores",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUU2VFBTRHY1M2p3a09sdDlsRUlsRjM2Z0hPLVFSLTVPQ0JTRFc1QTlJRUFROWNTbWRVdGp6cDl2WHVaYmdLMkU1WF9MLUFnQVoySHJXQ25Ec2NSZWc2dnQxeEZTMmxzdlpvU0RUX2ZBdkFaTmItNldWWW5aNmtISTRMT3hrNWRBYTh5MW4xUDUyOW5zOHNSd2tKekxKREhoN1RMTDFpa0VCYWhuRHc?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 25 Oct 2026 13:24:35 GMT",
+        "base_score": 39,
+        "candidate_score": 47,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -88,25 +128,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "cce57cc12d6d2e59f516838b",
-        "mode": "sportdog",
-        "title": "Watch Shakhtar Donetsk vs AEK Athens - TOD",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVhUbFdidVN1Z2dJMjh3VTZUbDVBbm1nZ2hhSE1KdVBBMlQ0YVl0YXU2UlFiTGNqZFhvQmh2Z2hueEc5SWQ1Yk9iTEpqSDNia0lYUW5TODI3bUQ3bGNqQTRRSFYxbXMyYkx5eE4yLUJqc1FfZkc2dVBoNDhnUmdnTkpCZ3VCZXFBWVBjYUI5VEYtZGpjUXg2czJvZmxwWG1nNnV0REloZklicnNNUEptOA?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Mon, 26 Oct 2026 12:06:21 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "35d66ae33b0c1da96fec7365",
         "mode": "sportdog",
         "title": "OFI vs PAOK Prediction, Betting Tips, Lineups & Odds | 25 Oct 2026 - Sportsgambler",
@@ -114,7 +135,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Mon, 26 Oct 2026 05:13:06 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -200,46 +221,9 @@
         "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "e04b21aa29fa29537a5f6fbd",
-        "mode": "sportdog",
-        "title": "Olympiacos May Attempt to Sign Genoa Midfield Maestro This Winter - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlBoZzFNdGVwNE1mQ19QY2pvQllFajN5TEh4Z3JDaHMzaHA2amhfRE1QWE1uNk53d25qVWVWTzJPS2dDcW82VEl4LXNGc0lIbS0tUkVUcjM4VzU3QzdPTXNvV2tQeHNUNFR3cTFlQTFVOTcyNm5ISjl5OExMN0hKUHZGUm1ER2RReDhVTXZ4TDNhVk4wNWtMNEdlaGxDRThhZ01xSkl5OEthenROQ0lWVEdGeU9uZmhqOV9GT2tMSQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 25 Oct 2026 18:32:28 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
-      {
-        "external_id": "0a39013793894910f86736d4",
-        "mode": "geopolitico",
-        "title": "Rick Scott says Israel, Greece, Cyprus trip ‘reinforced’ his critical approach to Erdoğan - Jewish Insider",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzJaaDRYUkctVEphMERjdi1EbFNzZGMxNlV1aFNfZXZUS1U4eE5yY0NjNVVmVG01WE45UE82RVJxV1hmcS1xUnJMUHgyZEx0bE45TXRQOVBqUG5PRVlILVlPX2lGZ2lDbnV0MlNXZk10ck5NbXNXc092ellDYVNHSUlZWnpUUQ?oc=5",
-        "source": "Cyprus Eastern Mediterranean Watch",
-        "published": "Mon, 26 Oct 2026 13:45:31 GMT",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Cyprus",
-          "Erdoğan"
-        ],
-        "content_type": "news"
-      },
       {
         "external_id": "d15351ec56eea58d05320a98",
         "mode": "geopolitico",
@@ -248,7 +232,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 26 Oct 2026 04:48:20 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Ege",
@@ -265,7 +249,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 26 Oct 2026 04:04:49 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -311,6 +295,24 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "a1d3e2ab2520efdfb90afb71",
+        "mode": "geopolitico",
+        "title": "Israel signs naval defense deal with Cyprus involving Israel Shipyards and Rafael - CTech",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43dkd3UC10WW1TaWk3b2NuNlptQUJDb1o3WkJQaEFmQzJPcGFYS2s2UnczblJubTU1M1RjckNqSmItZThUYm9LYUJQYUY4YlZ4WTJkYVFCNmZDX2c2Ry13T2NoSmFWQlE?oc=5",
+        "source": "Cyprus Eastern Mediterranean Watch",
+        "published": "Mon, 26 Oct 2026 12:35:00 GMT",
+        "base_score": 92,
+        "candidate_score": 98,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Israel",
+          "Cyprus",
+          "Rafael",
+          "defense"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "1547d74414bd5dcfe487eb60",
         "mode": "geopolitico",
         "title": "Rum basınında Türkiye paniği! Doğu Akdeniz'de yeni NAVTEX hamlesi: Türkiye doğal gaz hattı için harekete geçti - tv100 Haber",
@@ -318,7 +320,7 @@
         "source": "Turkish Greek Relations Deep Watch",
         "published": "Mon, 26 Oct 2026 04:38:00 GMT",
         "base_score": 88,
-        "candidate_score": 94,
+        "candidate_score": 91,
         "priority": "High",
         "matched_keywords": [
           "NAVTEX",
@@ -328,42 +330,56 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "4704189bfc10d89489fcc5ce",
+        "external_id": "2cd6d373bd5cb40d21a7061d",
         "mode": "geopolitico",
-        "title": "Yunanistan Rafale savaş uçağının merdivenini üretti - Defence Turk",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2JSeDY4bnVKbGRpRTYwQ2VlR0szWV9YeU11bTZHRUFoUVhmeHFvTDJpbXhWdGZSLTNpMkFOYmhJY0Z1cDkyeTJQZ1kzQm9LTlFpaHRCRmlWNmVLNlRCTzdlQ2t5TjNQV0N1WGU5NFJaNGlnYWtWdjdHUloxMnFzYTVnaWpvZw?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Mon, 26 Oct 2026 14:03:26 GMT",
-        "base_score": 80,
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Kılıçdaroğlu ‘erken seçime varız’ dedi ama asıl sürprizi başka | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnBtLTJ3cHQxNFhPSzlzZTRaZnFWNllIRFItcVZuZFdJYkFGVmUyU3BOMk9jdXItdmd6cEczU041MVU2amtONnlUOE5meG1vNlA1NlhFekFyUUctSFdWb3FrcjBmeUNSazM0OXpCNEhKTDBYZEhIMXZkMGxyQmdpLWtDNmIxc3Z1eWhHMXRHT2drU2lmNmF1OXUtOXR1TjJIM01HNFlMRFJsMldSUXFnblJjT2cyeVl0VXBoNzZGejM?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Mon, 26 Oct 2026 22:54:16 GMT",
+        "base_score": 75,
         "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
-          "Yunanistan",
-          "defence",
-          "savaş uçağı",
-          "Rafale"
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
         ],
-        "content_type": "turkey_greece"
+        "content_type": "analyst"
       },
       {
-        "external_id": "6ccd49ace12ca11e28c40b31",
+        "external_id": "3183fab1dcf3a284585cbb24",
         "mode": "geopolitico",
-        "title": "Israel to supply Cyprus with new offshore patrol vessel equipped with Rafael systems - The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PSkhDQjRYUy1fbVoyR3BXdm5KN29zWXdYallWUjF3NEpuaEtJZTRRQ2JHVFdtcnpmSzctclRhRmhuY25hVVpIOGYzYTJ2OHhyN05SLTJRVEt1b29aTU5COHFCYw?oc=5",
-        "source": "Cyprus Eastern Mediterranean Watch",
-        "published": "Mon, 26 Oct 2026 14:03:17 GMT",
-        "base_score": 80,
+        "title": "Cyprus Moves Towards €150 Million Israeli Naval Deal - Greek City Times",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR0JBMkRRUkdNWUl2Z2lhNml2VzNlektTQmhnLTVQR1FjZU5GVWdHNTFqRGx6NDRUYXRacUpYNVA1dUxKYVFiZXR5aUxFZmZKWDRJamF4NjV0SFB5M1dCV0lwOFdIRlhJUk5YN0tkZkdwWHlVLWg1Nms5WGx3akNtSw?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Mon, 26 Oct 2026 14:45:21 GMT",
+        "base_score": 84,
         "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
           "Israel",
-          "Cyprus",
-          "Rafael"
+          "Israeli",
+          "Cyprus"
         ],
         "content_type": "news"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "767f9f9d4c42559baf12faf4",
+        "mode": "pontos_voice",
+        "title": "Κρήτη και Πόντος έγιναν \"ένα\": Συγκίνηση στην υποδοχή της Παναγίας Σουμελά στα Ανώγεια - ekriti.gr",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZW9xWWxGTVVDeXM4M0hMdVRHSmFONXl4UzBaNXBpbUs0bGVUTzRhZ0NfX01RbHBMSmg5THdYMjNqNS1mVmk4TmhOTmlXSEt5NVNMNWR2ckpDUG5ZQXdJcWRaSk8tU2sxNXNudkd0RzRxYzNNNzVtNFVJVWVURzd1dWxjX1o4VHg4NXhLUVJJdGFhUWZNYzVhcHJRMk9TcTBfb05acTVWWUt5NE1lXzZCRw?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Mon, 26 Oct 2026 18:50:00 GMT",
+        "base_score": 80,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Πόντος",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "344e101eb22c0a7a66aff998",
         "mode": "pontos_voice",
@@ -413,22 +429,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "45931af71f4b719ec19479e2",
-        "mode": "pontos_voice",
-        "title": "Ένωση Χορευτών Δράμας «Πυρρίχιος»: 1η Εύξεινος Σύναξη – Στο επίκεντρο η ποντιακή ενδυμασία - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGZtcjlCOGQzUGVoaGZPdDRPUXNvWGNQSlEwaFRkMzZnYTRNMWI3N01zdV9rZU5tTi1GVERRN0tnSThZOGVyclFrU2x1VWc2UDRnb2NSYkVOOTFzZ0Z2VlFLdTU5NjNoUFgybU1qdTc0ZlZINzl1Ykw5OVpZU2x6UzdVZjY0RnFSUVR1UmZMN1Rqa0VXd19XWmctTUQyZko4MFU4R1JVelczYVk?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Mon, 26 Oct 2026 15:20:40 GMT",
-        "base_score": 69,
-        "candidate_score": 79,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακή"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "64d5cd4498d5716688c7951b",
         "mode": "pontos_voice",
         "title": "Karşılaşma öncesinde Recep Uçar’dan açıklama! “Maçı zor hale getireceğiz”",
@@ -436,8 +436,8 @@
         "source": "61Saat Trabzon",
         "published": "Mon, 26 Oct 2026 18:20:00 +0300",
         "base_score": 61,
-        "candidate_score": 71,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "Rize",
@@ -455,7 +455,7 @@
         "source": "61Saat Trabzon",
         "published": "Mon, 26 Oct 2026 18:25:00 +0300",
         "base_score": 59,
-        "candidate_score": 69,
+        "candidate_score": 65,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -470,6 +470,27 @@
   },
   "items": [
     {
+      "external_id": "ad0255b100af3a343828950e",
+      "mode": "sportdog",
+      "title": "PAOK Transfers - All Rumours and Latest News - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4za29VRGJSYVl4emdaMFJ0ZHFneXNGczVxY3d0WHQ1eUdndFJHend2c1NfT3loVnlvM3dEN3cyY3pJTVU3MFJQd29vYnZ1WGprYVUxVVpB?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Sun, 25 Oct 2026 18:29:52 GMT",
+      "base_score": 84,
+      "candidate_score": 114,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "PAOK",
+        "transfer",
+        "transfers"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "a470d83b02a272a566888593",
       "mode": "sportdog",
       "title": "Strike Threat may Shift Europa League Match Between Stade Rennais vs. Olympiacos to Nov 4 - roundtable.io",
@@ -477,8 +498,8 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 26 Oct 2026 20:21:18 GMT",
       "base_score": 50,
-      "candidate_score": 73,
-      "priority": "High",
+      "candidate_score": 68,
+      "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
         "Europa League"
@@ -510,12 +531,31 @@
       "needs_second_source": true
     },
     {
-      "external_id": "c40d6ff7ee6312940c48c9ff",
+      "external_id": "d6848f020f421a3b9e95b013",
       "mode": "sportdog",
-      "title": "[4K] Olympiacos vs Kalamata Live Free HS Football 2026 - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPWnZ1XzJxMkJ0MkkwZXR6akhZZ0ZyaDBUN0ZjdEFnbW5nbkFoS2Z6dWUzLVo5cVJRWmZWU0w4V0dlV1dSWFJwZGthckVjcDlaNDFFZjdUbkViQ1FrZ0dJSER4dG1hb3EyTGhRbDVSX0ZZdEVDVUQ2TnNvSEV3ZmM2R1FoQW9TbVYyc05iNU02LU8xY1VpeXM4QWM3TEliQ3lEZTZkc3Z5TEtSRmNFWW5ocTdadVZoZ3E1cmJhNElZUEFTeFJnVjlZVms3eWQ5OThLU3Bfay1ENkx0cHhpUHlKbXREYmRXa0kzNlRnajBDSXRKUXpHYmlHRUxYblV1eUp5Z2ZVT0ZsT0ZKa3ktcDlOUnZPVVh6dTRWN19pODlvTzZ3TUx3b0ZtcUMzTTM5ZEctQnVsZlhGM2lnVlJKQlZlS3hIRQ?oc=5",
+      "title": "Jota Silva Achieves Olympiacos Feat After Scoring Hattrick Against Kalamata - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0F1OEF1THBJM1ZOSkdZUEJIRlAtcEZIalZuSVZWVFJZdHdsVG1EbEhvcmdrS0RaYTZ1SUNMSjBBNmZXVm4yQS1VS1dRZ1pkcVJsRldvQVp2UWN5bFU4V2NVMkZBa2FUdEJJNDI4NmRsMGxVb0h1QkJfcko1aHVKRnoteVUta1l4dWFjZ1ZZMEhZQ2h1NUFpWjdBamdmUUZkT0lFWEQxbnE0eUd6T2pCb1dFYjVMX2dXSXdRaFZEOEhmcmx4eHJISF8zRjI?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 25 Oct 2026 13:31:55 GMT",
+      "published": "Mon, 26 Oct 2026 19:09:03 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "e425226e30b6d28b5577a697",
+      "mode": "sportdog",
+      "title": "[[\"LiVeSTreaM\"]]tv* Olympiacos vs Kalamata LIvE FrEe StReAm HS Football 2026 - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNZndiTUVPZHdydUpHS2FITDFlTVlCMzgyTXVtX00tUGVRZk80dm5ORTNGa1duWmpZeVZfU2gtaVJMeEkyMW1rZFJhelBMY3huck9oNDR5T2FBQzFqVkN6bnU5VDBUSEhRdjdBLTVkdzU1UWVZS25zNVFfQ3RqYkxWM0hmd0tLT1dNVEJ6RVRZbVY1UUkxVmQ2eTNYeTJBZXdvQzhxcENpTm5oZDhBRGdpUjVrY0ZhZWVrVVhjN3FJaXNBQmRhTTNFMm9FcnFnU0pmckttNUpWWS1oX25jTXRodEZEdlUxOW5jbmh5S3JuckdxNm5idmhUQjFWaGxZdkFUdXZZb29Qd0lJM1pMaWQtQnVadlhfZHQ4X1VyTU5QNjFMUGpoeG9mTGJJRUo2ekR3S2J4aUEyWVFXSVhGX2hpV1NxeTVOckw5TGVMNUJkTG1FcHg2MXBmUnMwWQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 25 Oct 2026 13:31:57 GMT",
       "base_score": 41,
       "candidate_score": 49,
       "priority": "Normal",
@@ -530,14 +570,14 @@
       "needs_second_source": true
     },
     {
-      "external_id": "e91b1d300f4379b26dd19738",
+      "external_id": "a04832143581d24888c2edb0",
       "mode": "sportdog",
-      "title": "Roma send scouts to view Olympiacos defender - RomaPress",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZTZuTS00b1U1U2tQOGdmbXZYS3RCck5xMnNmTGQyMEltbHdIRUhxX040SHRkZ0pJYm5XV3ljWS1URGd6eVBENHBrc2JDaHpDeFJSc3UzOG5PWElRRUZFZjR6Vm45R05yTDlITVVxbWlxeGNlaVE?oc=5",
-      "source": "Transfer Insiders Greece Only",
-      "published": "Sun, 25 Oct 2026 12:05:08 GMT",
-      "base_score": 40,
-      "candidate_score": 48,
+      "title": "AS Roma eye Olympiacos defender Lorenzo Pirola ahead of winter move - YSscores",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUU2VFBTRHY1M2p3a09sdDlsRUlsRjM2Z0hPLVFSLTVPQ0JTRFc1QTlJRUFROWNTbWRVdGp6cDl2WHVaYmdLMkU1WF9MLUFnQVoySHJXQ25Ec2NSZWc2dnQxeEZTMmxzdlpvU0RUX2ZBdkFaTmItNldWWW5aNmtISTRMT3hrNWRBYTh5MW4xUDUyOW5zOHNSd2tKekxKREhoN1RMTDFpa0VCYWhuRHc?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 25 Oct 2026 13:24:35 GMT",
+      "base_score": 39,
+      "candidate_score": 47,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -550,25 +590,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "cce57cc12d6d2e59f516838b",
-      "mode": "sportdog",
-      "title": "Watch Shakhtar Donetsk vs AEK Athens - TOD",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVhUbFdidVN1Z2dJMjh3VTZUbDVBbm1nZ2hhSE1KdVBBMlQ0YVl0YXU2UlFiTGNqZFhvQmh2Z2hueEc5SWQ1Yk9iTEpqSDNia0lYUW5TODI3bUQ3bGNqQTRRSFYxbXMyYkx5eE4yLUJqc1FfZkc2dVBoNDhnUmdnTkpCZ3VCZXFBWVBjYUI5VEYtZGpjUXg2czJvZmxwWG1nNnV0REloZklicnNNUEptOA?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Mon, 26 Oct 2026 12:06:21 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "35d66ae33b0c1da96fec7365",
       "mode": "sportdog",
       "title": "OFI vs PAOK Prediction, Betting Tips, Lineups & Odds | 25 Oct 2026 - Sportsgambler",
@@ -576,7 +597,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Mon, 26 Oct 2026 05:13:06 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -664,43 +685,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "e04b21aa29fa29537a5f6fbd",
-      "mode": "sportdog",
-      "title": "Olympiacos May Attempt to Sign Genoa Midfield Maestro This Winter - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlBoZzFNdGVwNE1mQ19QY2pvQllFajN5TEh4Z3JDaHMzaHA2amhfRE1QWE1uNk53d25qVWVWTzJPS2dDcW82VEl4LXNGc0lIbS0tUkVUcjM4VzU3QzdPTXNvV2tQeHNUNFR3cTFlQTFVOTcyNm5ISjl5OExMN0hKUHZGUm1ER2RReDhVTXZ4TDNhVk4wNWtMNEdlaGxDRThhZ01xSkl5OEthenROQ0lWVEdGeU9uZmhqOV9GT2tMSQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 25 Oct 2026 18:32:28 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "0a39013793894910f86736d4",
-      "mode": "geopolitico",
-      "title": "Rick Scott says Israel, Greece, Cyprus trip ‘reinforced’ his critical approach to Erdoğan - Jewish Insider",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzJaaDRYUkctVEphMERjdi1EbFNzZGMxNlV1aFNfZXZUS1U4eE5yY0NjNVVmVG01WE45UE82RVJxV1hmcS1xUnJMUHgyZEx0bE45TXRQOVBqUG5PRVlILVlPX2lGZ2lDbnV0MlNXZk10ck5NbXNXc092ellDYVNHSUlZWnpUUQ?oc=5",
-      "source": "Cyprus Eastern Mediterranean Watch",
-      "published": "Mon, 26 Oct 2026 13:45:31 GMT",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Cyprus",
-        "Erdoğan"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "d15351ec56eea58d05320a98",
       "mode": "geopolitico",
       "title": "Türkiye “Mavi Vatan”ı yasaya taşıyor: Ege ve Doğu Akdeniz için yeni çerçeve - Bugün Kıbrıs",
@@ -708,7 +692,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 26 Oct 2026 04:48:20 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Ege",
@@ -725,7 +709,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 26 Oct 2026 04:04:49 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -771,6 +755,24 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "a1d3e2ab2520efdfb90afb71",
+      "mode": "geopolitico",
+      "title": "Israel signs naval defense deal with Cyprus involving Israel Shipyards and Rafael - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43dkd3UC10WW1TaWk3b2NuNlptQUJDb1o3WkJQaEFmQzJPcGFYS2s2UnczblJubTU1M1RjckNqSmItZThUYm9LYUJQYUY4YlZ4WTJkYVFCNmZDX2c2Ry13T2NoSmFWQlE?oc=5",
+      "source": "Cyprus Eastern Mediterranean Watch",
+      "published": "Mon, 26 Oct 2026 12:35:00 GMT",
+      "base_score": 92,
+      "candidate_score": 98,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Israel",
+        "Cyprus",
+        "Rafael",
+        "defense"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "1547d74414bd5dcfe487eb60",
       "mode": "geopolitico",
       "title": "Rum basınında Türkiye paniği! Doğu Akdeniz'de yeni NAVTEX hamlesi: Türkiye doğal gaz hattı için harekete geçti - tv100 Haber",
@@ -778,7 +780,7 @@
       "source": "Turkish Greek Relations Deep Watch",
       "published": "Mon, 26 Oct 2026 04:38:00 GMT",
       "base_score": 88,
-      "candidate_score": 94,
+      "candidate_score": 91,
       "priority": "High",
       "matched_keywords": [
         "NAVTEX",
@@ -788,37 +790,51 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "4704189bfc10d89489fcc5ce",
+      "external_id": "2cd6d373bd5cb40d21a7061d",
       "mode": "geopolitico",
-      "title": "Yunanistan Rafale savaş uçağının merdivenini üretti - Defence Turk",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2JSeDY4bnVKbGRpRTYwQ2VlR0szWV9YeU11bTZHRUFoUVhmeHFvTDJpbXhWdGZSLTNpMkFOYmhJY0Z1cDkyeTJQZ1kzQm9LTlFpaHRCRmlWNmVLNlRCTzdlQ2t5TjNQV0N1WGU5NFJaNGlnYWtWdjdHUloxMnFzYTVnaWpvZw?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Mon, 26 Oct 2026 14:03:26 GMT",
-      "base_score": 80,
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Kılıçdaroğlu ‘erken seçime varız’ dedi ama asıl sürprizi başka | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnBtLTJ3cHQxNFhPSzlzZTRaZnFWNllIRFItcVZuZFdJYkFGVmUyU3BOMk9jdXItdmd6cEczU041MVU2amtONnlUOE5meG1vNlA1NlhFekFyUUctSFdWb3FrcjBmeUNSazM0OXpCNEhKTDBYZEhIMXZkMGxyQmdpLWtDNmIxc3Z1eWhHMXRHT2drU2lmNmF1OXUtOXR1TjJIM01HNFlMRFJsMldSUXFnblJjT2cyeVl0VXBoNzZGejM?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Mon, 26 Oct 2026 22:54:16 GMT",
+      "base_score": 75,
       "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
-        "Yunanistan",
-        "defence",
-        "savaş uçağı",
-        "Rafale"
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
       ],
-      "content_type": "turkey_greece"
+      "content_type": "analyst"
     },
     {
-      "external_id": "6ccd49ace12ca11e28c40b31",
+      "external_id": "3183fab1dcf3a284585cbb24",
       "mode": "geopolitico",
-      "title": "Israel to supply Cyprus with new offshore patrol vessel equipped with Rafael systems - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PSkhDQjRYUy1fbVoyR3BXdm5KN29zWXdYallWUjF3NEpuaEtJZTRRQ2JHVFdtcnpmSzctclRhRmhuY25hVVpIOGYzYTJ2OHhyN05SLTJRVEt1b29aTU5COHFCYw?oc=5",
-      "source": "Cyprus Eastern Mediterranean Watch",
-      "published": "Mon, 26 Oct 2026 14:03:17 GMT",
-      "base_score": 80,
+      "title": "Cyprus Moves Towards €150 Million Israeli Naval Deal - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR0JBMkRRUkdNWUl2Z2lhNml2VzNlektTQmhnLTVQR1FjZU5GVWdHNTFqRGx6NDRUYXRacUpYNVA1dUxKYVFiZXR5aUxFZmZKWDRJamF4NjV0SFB5M1dCV0lwOFdIRlhJUk5YN0tkZkdwWHlVLWg1Nms5WGx3akNtSw?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Mon, 26 Oct 2026 14:45:21 GMT",
+      "base_score": 84,
       "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
         "Israel",
-        "Cyprus",
-        "Rafael"
+        "Israeli",
+        "Cyprus"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "767f9f9d4c42559baf12faf4",
+      "mode": "pontos_voice",
+      "title": "Κρήτη και Πόντος έγιναν \"ένα\": Συγκίνηση στην υποδοχή της Παναγίας Σουμελά στα Ανώγεια - ekriti.gr",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZW9xWWxGTVVDeXM4M0hMdVRHSmFONXl4UzBaNXBpbUs0bGVUTzRhZ0NfX01RbHBMSmg5THdYMjNqNS1mVmk4TmhOTmlXSEt5NVNMNWR2ckpDUG5ZQXdJcWRaSk8tU2sxNXNudkd0RzRxYzNNNzVtNFVJVWVURzd1dWxjX1o4VHg4NXhLUVJJdGFhUWZNYzVhcHJRMk9TcTBfb05acTVWWUt5NE1lXzZCRw?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Mon, 26 Oct 2026 18:50:00 GMT",
+      "base_score": 80,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Πόντος",
+        "Σουμελά"
       ],
       "content_type": "news"
     },
@@ -871,22 +887,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "45931af71f4b719ec19479e2",
-      "mode": "pontos_voice",
-      "title": "Ένωση Χορευτών Δράμας «Πυρρίχιος»: 1η Εύξεινος Σύναξη – Στο επίκεντρο η ποντιακή ενδυμασία - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGZtcjlCOGQzUGVoaGZPdDRPUXNvWGNQSlEwaFRkMzZnYTRNMWI3N01zdV9rZU5tTi1GVERRN0tnSThZOGVyclFrU2x1VWc2UDRnb2NSYkVOOTFzZ0Z2VlFLdTU5NjNoUFgybU1qdTc0ZlZINzl1Ykw5OVpZU2x6UzdVZjY0RnFSUVR1UmZMN1Rqa0VXd19XWmctTUQyZko4MFU4R1JVelczYVk?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Mon, 26 Oct 2026 15:20:40 GMT",
-      "base_score": 69,
-      "candidate_score": 79,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακή"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "64d5cd4498d5716688c7951b",
       "mode": "pontos_voice",
       "title": "Karşılaşma öncesinde Recep Uçar’dan açıklama! “Maçı zor hale getireceğiz”",
@@ -894,8 +894,8 @@
       "source": "61Saat Trabzon",
       "published": "Mon, 26 Oct 2026 18:20:00 +0300",
       "base_score": 61,
-      "candidate_score": 71,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "Rize",
@@ -913,7 +913,7 @@
       "source": "61Saat Trabzon",
       "published": "Mon, 26 Oct 2026 18:25:00 +0300",
       "base_score": 59,
-      "candidate_score": 69,
+      "candidate_score": 65,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
