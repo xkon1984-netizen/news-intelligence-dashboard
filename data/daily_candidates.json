@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T07:35:29.920518+00:00",
+  "generated_at": "2026-10-28T14:29:21.849185+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 28 Oct 2026 07:10:39 GMT",
         "base_score": 94,
-        "candidate_score": 129,
+        "candidate_score": 124,
         "priority": "URGENT",
         "matched_keywords": [
           "Panathinaikos",
@@ -29,6 +29,27 @@
         "needs_second_source": false
       },
       {
+        "external_id": "55fcd0b10b6e6a02b8dff9b0",
+        "mode": "sportdog",
+        "title": "PAOK closes deal with Leland Walker, loans him to Cluj-Napoca - Eurohoops",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2xBdHVFSlBqNzV5YzFWQjJpMTN5UHM4dUZmWTR6YTNqR1E5OE16Q2dHYzhOZHdHYUZ4Qzg2aXBNM21EbzRmR2E0YkN6UVFCWjFxeGUxdWpNT3pJWmk4M21qMXpSRFl5NzByNGlNc2RzQXo0TXJ4Skg4V2ZyeTZPSnZFazB5TS1sNW81V0E4aHJTZDI3dmZ6cHFMQm5idw?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Wed, 28 Oct 2026 13:09:00 GMT",
+        "base_score": 69,
+        "candidate_score": 102,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "PAOK",
+          "deal",
+          "loan"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
         "external_id": "b745ee4b9e33258c0e63afa0",
         "mode": "sportdog",
         "title": "Transfer: Olympiacos Bids €3 Million for Bi Zaouai - Africa Top Sports",
@@ -36,7 +57,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 27 Oct 2026 14:45:25 GMT",
         "base_score": 75,
-        "candidate_score": 101,
+        "candidate_score": 98,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -57,7 +78,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Wed, 28 Oct 2026 02:29:16 GMT",
         "base_score": 70,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -67,8 +88,8 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "aba4f489c0e3235248625a28",
@@ -78,7 +99,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 27 Oct 2026 05:00:00 GMT",
         "base_score": 56,
-        "candidate_score": 77,
+        "candidate_score": 74,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -91,42 +112,40 @@
         "needs_second_source": true
       },
       {
-        "external_id": "36fdaf05cb9285ae77ae15c6",
+        "external_id": "c018e1134aadf241463c027e",
         "mode": "sportdog",
-        "title": "Panathinaikos vs Aris Predictions & Live Stream – Entertaining Match in the Greek Cup - FreeTips",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmpQdnRMVUdka0paZlh2MEhJWWJ4R3E3YVFiVE9lU1g2WGlNYWk1X2NWT1pUMkxDaXFCMnYxNngzSlMyZjVoY2UzRzJ5NkY3UFZUQ1YxZ3p4RnFqd1k2b2Zael9GcEdwQnpodmR3UGpIdDBlZUYzdzV2UU9NZTE5QjV3SV9NcDJQcWc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Mon, 26 Oct 2026 21:32:30 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
+        "title": "Stefan Ortega: Imanol Alguacil’s Man Behind Olympiacos Rebuild - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNODlMODdkVkxLemZsLWkyRU8wSUJCTER0emgyTEg1bEI0RGdPOWFhaHg4VTMyNEEzVXVmTW50a1NkRjVtVk14SW9kV19uTy1BNWNxN0pQdjlpR05rMHZmVUdCdFlzcDBrSHhEUkcxc0tMMzFBVTdUWThzdUkweVNWbHQwQ2JNTDNxNjNMT0NvQ3J6T0cxamRCME9leTJmTWluZEtNbnpqQW9xS1k2ZmVyUzNYWWVjM3RET3ozOUpR?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Wed, 28 Oct 2026 13:40:46 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos",
-          "Aris"
+          "Olympiacos"
         ],
         "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
-        "external_id": "a470d83b02a272a566888593",
+        "external_id": "38ffaedfadaf7fd381b85b09",
         "mode": "sportdog",
-        "title": "Strike Threat may Shift Europa League Match Between Stade Rennais vs. Olympiacos to Nov 4 - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ3lRVF9uMFZ1R2pzdlBEQzZsVXVJZTZtT3BZb0Q1UnNNS1NmdWp3b3JpWi1yYlZEeG9jQUxfNnVLbjFVZ1NDbmYzSXZ3T3U4dmpLLXdiQVVabE83TUNmeHd2ay12ckhyVmkzTHNhazhQR0UyS0UyT1ZKcUlGTnFiOTNkTHpnZ2FxOTFxUjRtTEF4V0VwV2hWTFRZMnY5S0xvb2dQQ3RYUnZTeDVOdEdvc0FiVkZKSG9DRUFndnMzS2NRYXZSZGJ6d2V6MXhnVzRYWU01cQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 26 Oct 2026 20:21:18 GMT",
-        "base_score": 50,
-        "candidate_score": 58,
+        "title": "Panathinaikos AKTOR Athens: roster, news, schedule and stats - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ISW10Vk9kMk5uanlNalRYWnpweUVSZGpOVUN0QnVNYVJLNVJpdlFpbVZod0VNa25qU3puVFZzTVFCSDdDWTBQZHFieWE1b2tPYUphdEM0YnBTeGY1WWxJVDN0MHBEUVZFVUk1aWcybUE?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 28 Oct 2026 07:16:08 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos",
-          "Europa League"
+          "Panathinaikos"
         ],
         "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -138,7 +157,7 @@
         "source": "AEK Rumour Watch",
         "published": "Wed, 28 Oct 2026 03:47:06 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -157,7 +176,7 @@
         "source": "AEK Rumour Watch",
         "published": "Tue, 27 Oct 2026 23:49:21 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -188,44 +207,26 @@
         "needs_second_source": true
       },
       {
-        "external_id": "4cf7e006fa07926715ed3631",
+        "external_id": "d396568c3b037d364f2b1c91",
         "mode": "sportdog",
-        "title": "[𝐒𝐓ream]hERE'S*! Panathinaikos vs EA7 Milano LIVE Basketball free Stream - NYC Health + Hospitals",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUjdLQWVBanpkbmNWdnVDaU41TDdsd2N1Y0YxWm1VMGpfZ2ZmN096azg1cElxWHBrTTFJM0dLdGFkd29XcnFzcnpDcU5teDJidWg3Q2pSMk16UWFtakhfTUstUUpONFNGSzdzOU5XQTd3bGZxNHVzbDdVZFVDTG04R1R5cFVrVndYTjZkVV8wanlxRXZZZUJwSDZWUmdaUjNrSXlpNDROczBBd3J2TGVpVDlteWRONG9waDhncG1NQjF6R0pIZ1FJaHBYZTRVU21Db2lnR3pzeGdfU0hmXzROZ0h6WjF1Q0ZvRy1nVEFtUktHSllOdDF5Z0lnMVBHWnVGdmMtOW16OEdXd1lpMWVIX2wwY2YxUkpXZWM5Z1dCV2VUdw?oc=5",
+        "title": "Dessers reacts after Panathinaikos matchwinner - Punch Newspapers",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfLVFOb2JrSHdnV2dCbXVhckRaUmt0RlhFLUMyQXBteF9TY2t5SlJiVTR3OHFMaDItb1NDS2QtOUJvSFg2U3hYN01LcU9ULTFQUGh6Qk4xcDV1d1JMYkxvQ1JrSjRjSUZMbU5Bak15VGZHdzJtYlE?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Tue, 27 Oct 2026 17:43:31 GMT",
+        "published": "Tue, 27 Oct 2026 02:36:53 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
         ],
         "content_type": "news",
-        "editorial_type": "Team News",
+        "editorial_type": "Match / Analysis",
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
     ],
     "geopolitico": [
-      {
-        "external_id": "bd3fad81823cb3afb6c2fca7",
-        "mode": "geopolitico",
-        "title": "Dışişleri Bakanlığı, Fidan'ın Yunanistan'da gazeteye mülakat vermediğini açıkladı - Son Dakika",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzBtM3YwNkJjT2dzWEFoanl3VUMwN2pKVHRnT1kxLXpGVWhfXy1jQ2ZHQ042aWRwREQxLWxsTjVEQ2V6VkRZaWc5ZXYtTWVLWTh3T3gtZUJGS2I4NER1djRCaGYtVjI0VE1wcm9JTklOTEhhRjVzZWlXSTZxSjJhcVFrVVJ6M0RkTHNaajBEYW1VcFI0ZllPbUY3eS1zWF9R0gGcAUFVX3lxTE5jb1h4TFE2bFlXRmZNZDhLR21uenN1MUVMNjA2WnFzdkVkdUZhR2s5ZUFKRDlSaHR3MVZPc1JrV081WkZNNTMyODlMTVpLRk9pSlE3bFQwcnNjVjNHcTNxTUNHYjZyMnBiMzdTT3BONUhKUjRlenhiNnhSTGRBVFlRbDhGbUcxeWdNWEI2WE5nYnVxUXo3enFNRUZiWg?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 28 Oct 2026 06:12:53 GMT",
-        "base_score": 96,
-        "candidate_score": 111,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Fidan",
-          "Fidan",
-          "Dışişleri Bakanlığı"
-        ],
-        "content_type": "turkey_greece"
-      },
       {
         "external_id": "cb47e1797d9e172a1e3839fa",
         "mode": "geopolitico",
@@ -234,7 +235,7 @@
         "source": "Pakistan Security Watch",
         "published": "Wed, 28 Oct 2026 06:39:30 GMT",
         "base_score": 94,
-        "candidate_score": 109,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
           "Pakistan",
@@ -253,7 +254,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Tue, 27 Oct 2026 20:06:58 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -271,7 +272,7 @@
         "source": "Cyprus Eastern Mediterranean Watch",
         "published": "Tue, 27 Oct 2026 19:12:57 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -292,7 +293,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Tue, 27 Oct 2026 18:06:38 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Ege",
@@ -304,39 +305,22 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "ff9a2880db302e1787aad58d",
+        "external_id": "5be94d88c5e66d1c2ad0e17b",
         "mode": "geopolitico",
-        "title": "Yunanistan-Kıbrıs elektrik kablosu projesinde izin krizi büyüyor - ssbulten.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzRiREVWSXM2OTIyUDFEdXl2M0xrVHdramcxOUF6MUxscmxTR2t3NVV0TXRxcjNydzBLOTRzUjQxRDJabE9yYXpwQTVXWEU3cC1heTJBb050QmxLb092eDI2dWYwZ1B3UUFtdWQ1bGJFVFhRUV84anhZbnJ3aTdpelZJVTV0aS1jMUJzem9ST2VQd3RlbmdWcUdBMVhNZlhSNEd2QVJyTVVaY1Bi?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Tue, 27 Oct 2026 06:57:05 GMT",
+        "title": "Dışişleri’nden Ege ve Doğu Akdeniz mesajı! Hakan Fidan iddiasına net yanıt - Takvim",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVNNcl8tbTNOZnc2a2ZFck5JaGpwcE5mU3BSdm9kdllQSHdiaTFqRUxDeHlrX0pFWFU0WmxNeXp5UzExalpxY0I4RHdoMHJHbXpGYlVlQnUzWlNFWUhkTWJUbjlSQUh3SVRlTEQwXzA3aW1SZ0tISmR0WlRuRllvWG1oNjQtbVlob3VKSFpQSFNSVlVPdHlEZWVPaFJic0ZjRzdWY0tZdnZEVC1EaGdRcmMyNA?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Tue, 27 Oct 2026 18:00:52 GMT",
         "base_score": 100,
         "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "kriz",
-          "kablo"
+          "Ege",
+          "Fidan",
+          "Doğu Akdeniz",
+          "Fidan"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "31f0bce8dcb7012492f4395b",
-        "mode": "geopolitico",
-        "title": "Chinese Markets Fall Amid Rising US-China AI Competition - RS Web Solutions",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzZHdVpxS3gtdjFvQThySTJDeWxYc0U5LW43dE1NbUtXTjd3dXVhYXAtclZoSU5BVW9TbGwzcG54Q1doLVpSVzU1bHJwaWV3cWJldmxOWC16S20zdnpnRVdGc3NtUzlSWkdjMTEtTUw2Z2w5M1dhTnJIZzRkYURBcl9DMVlwZ1Etc1RZM25YaE9JS1IyMFBsZTk4WFU1WUdtbTFNeGFqU25TRmo0VElhQkR5eUN4UTg?oc=5",
-        "source": "China Strategic Watch",
-        "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-        "base_score": 84,
-        "candidate_score": 94,
-        "priority": "High",
-        "matched_keywords": [
-          "China",
-          "Chinese",
-          "China AI"
-        ],
-        "content_type": "news"
       },
       {
         "external_id": "849e29049b8b7c51d58875ae",
@@ -346,7 +330,7 @@
         "source": "Pakistan Security Watch",
         "published": "Tue, 27 Oct 2026 18:02:45 GMT",
         "base_score": 86,
-        "candidate_score": 92,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "Pakistan",
@@ -355,22 +339,56 @@
           "research"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "ba63f7439907e8b18284fc5c",
+        "mode": "geopolitico",
+        "title": "The Pakistani Army kills nine alleged Baloch militiamen in two operations in Baluchistan - Demócrata",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenc4Z2ZkZC15bzZSVEJxVmdSQU1jWDA1Ql9qYmlEemsteUt0a2ROdV9MLXVEemJKZ0JUSWE3NHgzSkRYQ1FpQkZicTk5U2U1eDFYdFl5Y1NiTk5BeklIbzdBZEdCTS10eGJXT0JGaWpaUHI1bWN5UVZ4cVlmQS1DOExRR1lHOWJVNTRHZGMtWWd0RVFCS0F4ZExwekhQTFg4ZFhzNTVfVE1vNFl1RkFpNU5Ja21RNkVxT2dEbmNpS1cwa3BudXpFbklfONIB0AFBVV95cUxOWkw0bnItVXF3RzgwUTF2T0lJdldWYTcxVjVmNF9WcjVMMWx5cmhnM2FOdFVhSlFtZHc5UWI2dGF2aXNBSDdoRkRYREJTZElVbmdlZ01OMHFwUV8tdGp3Zl9WQkNvb3lnbGhoZG9YM0lycWUtQWpMMjBoZkpkbnA2Tzk0LXZnZEY0V3BrQTBhWldQSnRzREFjWk1nU0xYdzBCcjZBUTBJTjQ0eTNPaWZISHRtaFBkWEt0aHB1SG92VFN6bm10RTAxSUwzMnpsYWVN?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Wed, 28 Oct 2026 10:51:07 GMT",
+        "base_score": 77,
+        "candidate_score": 87,
+        "priority": "High",
+        "matched_keywords": [
+          "Pakistan",
+          "Pakistani",
+          "Ege"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "95a1d98f9065248c9408c352",
+        "mode": "geopolitico",
+        "title": "'Warship Destroyed': Greece and Israel Sank the Retired Frigate HS Bouboulina North of Crete With Israeli Spike Missiles and a German Torpedo From a Type 214 Submarine - 19FortyFive",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQ0RtRncxaFRNbEREa1N2T2w1UFQzNXdISmJuZHU4VUt1TU1VallVUm5nOENsazhJY3l6bWt2MXQzaU93VkJnYzBSMlQ3WWU4UF8wNGk3VFFBSGZXZW9lR2xhZkh5RHVTN3oxVFdkd3VuSGxpTFgxUHhaZGl4d3JuMUFjRmlrYnFab0tkZ3BVQVAyVV8xM3RCbThIZks5MDA4d3RYazYwaHg4by15aXpvM05fTURNMUg0VExkV0h0V3VqMmRZWFRxMWNhbEhpbURQRFpaUDFfVnc1ZFRybnhmMXFwRDNWZXlvM2p5eFUtc2dpOU85UmVxYTEwSTcwcGVfN3h1VHBPNkUyQkpnaWVZa1B3ZlRYVzhOdU9NQnA5djRsWWZMV3cwMQ?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Tue, 27 Oct 2026 18:52:23 GMT",
+        "base_score": 84,
+        "candidate_score": 87,
+        "priority": "High",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Israeli"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
       {
-        "external_id": "fac1898c4542d01657d0b5fd",
+        "external_id": "e71a53c11b6ee1c374439b96",
         "mode": "pontos_voice",
-        "title": "Έπος του ’40: Πόντιοι, Μικρασιάτες και Αρμένιοι στην πρώτη γραμμή της ελευθερίας - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzloamdHVTNoSjNueUxyVkVleEFCMjZoemU1YnNFWF9wdGhTT3Q0T2UzTXFNZU9KaENSaXl1T2ItVS1QVlhwYUFDU3JKXy1fOFJaNlJtQWxNcnljbE9JUjdjNFV5a3UxMGRoTDBTWTZjZm9fTE9zbDJXMFY5SVY0MVN4dm81V0liZTl6bWk0MS1BaFVaMWZ1X1dHWS1Qc1pud3NPWmV6YldYMGhmTDV1Skp4LW8wYzQ0RzNFQ25KdldIUGM?oc=5",
+        "title": "Σέρρες: Το Τίμιο Ξύλο από την Παναγία Σουμελά στον Ιερό Ναό Αγίων Θεοδώρων - LionNews",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDREaERkX0RhWE52blVDVS1JaDNoeVVleFVTaEpkS1NwM0Q2VTcyR3d3RzdBRG9mWmJ3V2FLaS0wdk1FdmVsWUFwQzRiU2c2YWpiempLdWFFX1BNZGphbFVfZkIyb0hCR2d1VEhVWUZkaUtIcHdhSkNWMEd0TDIwY2tubE5Kek9DYjFZcmdlZGtOOXRmMUR5YVFHWQ?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Wed, 28 Oct 2026 06:48:58 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
+        "published": "Wed, 28 Oct 2026 10:11:23 GMT",
+        "base_score": 86,
+        "candidate_score": 96,
+        "priority": "URGENT",
         "matched_keywords": [
-          "Pontos",
-          "Πόντιοι"
+          "Παναγία Σουμελά",
+          "Σουμελά"
         ],
         "content_type": "news"
       },
@@ -391,6 +409,22 @@
         "content_type": "news"
       },
       {
+        "external_id": "fac1898c4542d01657d0b5fd",
+        "mode": "pontos_voice",
+        "title": "Έπος του ’40: Πόντιοι, Μικρασιάτες και Αρμένιοι στην πρώτη γραμμή της ελευθερίας - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzloamdHVTNoSjNueUxyVkVleEFCMjZoemU1YnNFWF9wdGhTT3Q0T2UzTXFNZU9KaENSaXl1T2ItVS1QVlhwYUFDU3JKXy1fOFJaNlJtQWxNcnljbE9JUjdjNFV5a3UxMGRoTDBTWTZjZm9fTE9zbDJXMFY5SVY0MVN4dm81V0liZTl6bWk0MS1BaFVaMWZ1X1dHWS1Qc1pud3NPWmV6YldYMGhmTDV1Skp4LW8wYzQ0RzNFQ25KdldIUGM?oc=5",
+        "source": "Pontos News Watch",
+        "published": "Wed, 28 Oct 2026 06:48:58 GMT",
+        "base_score": 78,
+        "candidate_score": 88,
+        "priority": "High",
+        "matched_keywords": [
+          "Pontos",
+          "Πόντιοι"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "41505b8926becc75b445bb4f",
         "mode": "pontos_voice",
         "title": "Η Παναγία Σουμελά και Ιερά Λείψανα του Αγίου Δημητρίου στον Ιερό Ναό Αγίου Νικολάου Περάματος - Cretalive",
@@ -398,7 +432,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Tue, 27 Oct 2026 08:08:28 GMT",
         "base_score": 86,
-        "candidate_score": 89,
+        "candidate_score": 86,
         "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -423,38 +457,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "57b172dfbec26d79a8cf6f2f",
+        "external_id": "8b265ec3d9c5b734e70c9a45",
         "mode": "pontos_voice",
-        "title": "Trabzonspor PFDK'ya sevk edildi",
-        "url": "https://www.61saat.com/trabzonspor-pfdkya-sevk-edildi-38",
+        "title": "Trabzon’da Suiçmez ailesinin acı günü",
+        "url": "https://www.61saat.com/trabzonda-suicmez-ailesinin-aci-gunu",
         "source": "61Saat Trabzon",
-        "published": "Wed, 28 Oct 2026 08:57:00 +0300",
+        "published": "Wed, 28 Oct 2026 15:56:00 +0300",
         "base_score": 53,
         "candidate_score": 68,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Rize",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "94d69f15db45a5f4541a1184",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor PFDK'ya sevk edildi! Rizespor maçı sonrası ceza geliyor - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZms0Z3hXc0ZsUnVMXzY4U1dwNE5lZ09ETjdoMWlTZHRWb3pqV3VTTHoyM3VLalMwUkFtT2hZTVFMV3Q0Z1d1RzZTb0JacVVsclZxcWdMWlpIcGRPSEl0LW90VFFFNlFFaVZLQWo1dmxIUG4ybFNMQ1R2N0VwemJlUzByYmhURU9GZ2dLNXV3M3VlUzB6emZFaHBZaG5qbWpYcHg3Yko3Vi11QnJ2bVE?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Wed, 28 Oct 2026 05:43:48 GMT",
-        "base_score": 51,
-        "candidate_score": 66,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Rize",
-          "Trabzon",
-          "dil"
+          "milletvekili",
+          "belediye başkanı",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -469,7 +485,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 28 Oct 2026 07:10:39 GMT",
       "base_score": 94,
-      "candidate_score": 129,
+      "candidate_score": 124,
       "priority": "URGENT",
       "matched_keywords": [
         "Panathinaikos",
@@ -483,6 +499,27 @@
       "needs_second_source": false
     },
     {
+      "external_id": "55fcd0b10b6e6a02b8dff9b0",
+      "mode": "sportdog",
+      "title": "PAOK closes deal with Leland Walker, loans him to Cluj-Napoca - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2xBdHVFSlBqNzV5YzFWQjJpMTN5UHM4dUZmWTR6YTNqR1E5OE16Q2dHYzhOZHdHYUZ4Qzg2aXBNM21EbzRmR2E0YkN6UVFCWjFxeGUxdWpNT3pJWmk4M21qMXpSRFl5NzByNGlNc2RzQXo0TXJ4Skg4V2ZyeTZPSnZFazB5TS1sNW81V0E4aHJTZDI3dmZ6cHFMQm5idw?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Wed, 28 Oct 2026 13:09:00 GMT",
+      "base_score": 69,
+      "candidate_score": 102,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "PAOK",
+        "deal",
+        "loan"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "b745ee4b9e33258c0e63afa0",
       "mode": "sportdog",
       "title": "Transfer: Olympiacos Bids €3 Million for Bi Zaouai - Africa Top Sports",
@@ -490,7 +527,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 27 Oct 2026 14:45:25 GMT",
       "base_score": 75,
-      "candidate_score": 101,
+      "candidate_score": 98,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -511,7 +548,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Wed, 28 Oct 2026 02:29:16 GMT",
       "base_score": 70,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -521,8 +558,8 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "aba4f489c0e3235248625a28",
@@ -532,7 +569,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 27 Oct 2026 05:00:00 GMT",
       "base_score": 56,
-      "candidate_score": 77,
+      "candidate_score": 74,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -545,42 +582,40 @@
       "needs_second_source": true
     },
     {
-      "external_id": "36fdaf05cb9285ae77ae15c6",
+      "external_id": "c018e1134aadf241463c027e",
       "mode": "sportdog",
-      "title": "Panathinaikos vs Aris Predictions & Live Stream – Entertaining Match in the Greek Cup - FreeTips",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmpQdnRMVUdka0paZlh2MEhJWWJ4R3E3YVFiVE9lU1g2WGlNYWk1X2NWT1pUMkxDaXFCMnYxNngzSlMyZjVoY2UzRzJ5NkY3UFZUQ1YxZ3p4RnFqd1k2b2Zael9GcEdwQnpodmR3UGpIdDBlZUYzdzV2UU9NZTE5QjV3SV9NcDJQcWc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Mon, 26 Oct 2026 21:32:30 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
+      "title": "Stefan Ortega: Imanol Alguacil’s Man Behind Olympiacos Rebuild - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNODlMODdkVkxLemZsLWkyRU8wSUJCTER0emgyTEg1bEI0RGdPOWFhaHg4VTMyNEEzVXVmTW50a1NkRjVtVk14SW9kV19uTy1BNWNxN0pQdjlpR05rMHZmVUdCdFlzcDBrSHhEUkcxc0tMMzFBVTdUWThzdUkweVNWbHQwQ2JNTDNxNjNMT0NvQ3J6T0cxamRCME9leTJmTWluZEtNbnpqQW9xS1k2ZmVyUzNYWWVjM3RET3ozOUpR?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Wed, 28 Oct 2026 13:40:46 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos",
-        "Aris"
+        "Olympiacos"
       ],
       "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
-      "external_id": "a470d83b02a272a566888593",
+      "external_id": "38ffaedfadaf7fd381b85b09",
       "mode": "sportdog",
-      "title": "Strike Threat may Shift Europa League Match Between Stade Rennais vs. Olympiacos to Nov 4 - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ3lRVF9uMFZ1R2pzdlBEQzZsVXVJZTZtT3BZb0Q1UnNNS1NmdWp3b3JpWi1yYlZEeG9jQUxfNnVLbjFVZ1NDbmYzSXZ3T3U4dmpLLXdiQVVabE83TUNmeHd2ay12ckhyVmkzTHNhazhQR0UyS0UyT1ZKcUlGTnFiOTNkTHpnZ2FxOTFxUjRtTEF4V0VwV2hWTFRZMnY5S0xvb2dQQ3RYUnZTeDVOdEdvc0FiVkZKSG9DRUFndnMzS2NRYXZSZGJ6d2V6MXhnVzRYWU01cQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 26 Oct 2026 20:21:18 GMT",
-      "base_score": 50,
-      "candidate_score": 58,
+      "title": "Panathinaikos AKTOR Athens: roster, news, schedule and stats - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ISW10Vk9kMk5uanlNalRYWnpweUVSZGpOVUN0QnVNYVJLNVJpdlFpbVZod0VNa25qU3puVFZzTVFCSDdDWTBQZHFieWE1b2tPYUphdEM0YnBTeGY1WWxJVDN0MHBEUVZFVUk1aWcybUE?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 28 Oct 2026 07:16:08 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos",
-        "Europa League"
+        "Panathinaikos"
       ],
       "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -592,7 +627,7 @@
       "source": "AEK Rumour Watch",
       "published": "Wed, 28 Oct 2026 03:47:06 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -611,7 +646,7 @@
       "source": "AEK Rumour Watch",
       "published": "Tue, 27 Oct 2026 23:49:21 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -642,41 +677,23 @@
       "needs_second_source": true
     },
     {
-      "external_id": "4cf7e006fa07926715ed3631",
+      "external_id": "d396568c3b037d364f2b1c91",
       "mode": "sportdog",
-      "title": "[𝐒𝐓ream]hERE'S*! Panathinaikos vs EA7 Milano LIVE Basketball free Stream - NYC Health + Hospitals",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUjdLQWVBanpkbmNWdnVDaU41TDdsd2N1Y0YxWm1VMGpfZ2ZmN096azg1cElxWHBrTTFJM0dLdGFkd29XcnFzcnpDcU5teDJidWg3Q2pSMk16UWFtakhfTUstUUpONFNGSzdzOU5XQTd3bGZxNHVzbDdVZFVDTG04R1R5cFVrVndYTjZkVV8wanlxRXZZZUJwSDZWUmdaUjNrSXlpNDROczBBd3J2TGVpVDlteWRONG9waDhncG1NQjF6R0pIZ1FJaHBYZTRVU21Db2lnR3pzeGdfU0hmXzROZ0h6WjF1Q0ZvRy1nVEFtUktHSllOdDF5Z0lnMVBHWnVGdmMtOW16OEdXd1lpMWVIX2wwY2YxUkpXZWM5Z1dCV2VUdw?oc=5",
+      "title": "Dessers reacts after Panathinaikos matchwinner - Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfLVFOb2JrSHdnV2dCbXVhckRaUmt0RlhFLUMyQXBteF9TY2t5SlJiVTR3OHFMaDItb1NDS2QtOUJvSFg2U3hYN01LcU9ULTFQUGh6Qk4xcDV1d1JMYkxvQ1JrSjRjSUZMbU5Bak15VGZHdzJtYlE?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Tue, 27 Oct 2026 17:43:31 GMT",
+      "published": "Tue, 27 Oct 2026 02:36:53 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
       ],
       "content_type": "news",
-      "editorial_type": "Team News",
+      "editorial_type": "Match / Analysis",
       "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
-    },
-    {
-      "external_id": "bd3fad81823cb3afb6c2fca7",
-      "mode": "geopolitico",
-      "title": "Dışişleri Bakanlığı, Fidan'ın Yunanistan'da gazeteye mülakat vermediğini açıkladı - Son Dakika",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzBtM3YwNkJjT2dzWEFoanl3VUMwN2pKVHRnT1kxLXpGVWhfXy1jQ2ZHQ042aWRwREQxLWxsTjVEQ2V6VkRZaWc5ZXYtTWVLWTh3T3gtZUJGS2I4NER1djRCaGYtVjI0VE1wcm9JTklOTEhhRjVzZWlXSTZxSjJhcVFrVVJ6M0RkTHNaajBEYW1VcFI0ZllPbUY3eS1zWF9R0gGcAUFVX3lxTE5jb1h4TFE2bFlXRmZNZDhLR21uenN1MUVMNjA2WnFzdkVkdUZhR2s5ZUFKRDlSaHR3MVZPc1JrV081WkZNNTMyODlMTVpLRk9pSlE3bFQwcnNjVjNHcTNxTUNHYjZyMnBiMzdTT3BONUhKUjRlenhiNnhSTGRBVFlRbDhGbUcxeWdNWEI2WE5nYnVxUXo3enFNRUZiWg?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 28 Oct 2026 06:12:53 GMT",
-      "base_score": 96,
-      "candidate_score": 111,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Fidan",
-        "Fidan",
-        "Dışişleri Bakanlığı"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "cb47e1797d9e172a1e3839fa",
@@ -686,7 +703,7 @@
       "source": "Pakistan Security Watch",
       "published": "Wed, 28 Oct 2026 06:39:30 GMT",
       "base_score": 94,
-      "candidate_score": 109,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
         "Pakistan",
@@ -705,7 +722,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Tue, 27 Oct 2026 20:06:58 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -723,7 +740,7 @@
       "source": "Cyprus Eastern Mediterranean Watch",
       "published": "Tue, 27 Oct 2026 19:12:57 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -744,7 +761,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Tue, 27 Oct 2026 18:06:38 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Ege",
@@ -756,39 +773,22 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "ff9a2880db302e1787aad58d",
+      "external_id": "5be94d88c5e66d1c2ad0e17b",
       "mode": "geopolitico",
-      "title": "Yunanistan-Kıbrıs elektrik kablosu projesinde izin krizi büyüyor - ssbulten.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzRiREVWSXM2OTIyUDFEdXl2M0xrVHdramcxOUF6MUxscmxTR2t3NVV0TXRxcjNydzBLOTRzUjQxRDJabE9yYXpwQTVXWEU3cC1heTJBb050QmxLb092eDI2dWYwZ1B3UUFtdWQ1bGJFVFhRUV84anhZbnJ3aTdpelZJVTV0aS1jMUJzem9ST2VQd3RlbmdWcUdBMVhNZlhSNEd2QVJyTVVaY1Bi?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Tue, 27 Oct 2026 06:57:05 GMT",
+      "title": "Dışişleri’nden Ege ve Doğu Akdeniz mesajı! Hakan Fidan iddiasına net yanıt - Takvim",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVNNcl8tbTNOZnc2a2ZFck5JaGpwcE5mU3BSdm9kdllQSHdiaTFqRUxDeHlrX0pFWFU0WmxNeXp5UzExalpxY0I4RHdoMHJHbXpGYlVlQnUzWlNFWUhkTWJUbjlSQUh3SVRlTEQwXzA3aW1SZ0tISmR0WlRuRllvWG1oNjQtbVlob3VKSFpQSFNSVlVPdHlEZWVPaFJic0ZjRzdWY0tZdnZEVC1EaGdRcmMyNA?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Tue, 27 Oct 2026 18:00:52 GMT",
       "base_score": 100,
       "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "kriz",
-        "kablo"
+        "Ege",
+        "Fidan",
+        "Doğu Akdeniz",
+        "Fidan"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "31f0bce8dcb7012492f4395b",
-      "mode": "geopolitico",
-      "title": "Chinese Markets Fall Amid Rising US-China AI Competition - RS Web Solutions",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzZHdVpxS3gtdjFvQThySTJDeWxYc0U5LW43dE1NbUtXTjd3dXVhYXAtclZoSU5BVW9TbGwzcG54Q1doLVpSVzU1bHJwaWV3cWJldmxOWC16S20zdnpnRVdGc3NtUzlSWkdjMTEtTUw2Z2w5M1dhTnJIZzRkYURBcl9DMVlwZ1Etc1RZM25YaE9JS1IyMFBsZTk4WFU1WUdtbTFNeGFqU25TRmo0VElhQkR5eUN4UTg?oc=5",
-      "source": "China Strategic Watch",
-      "published": "Wed, 28 Oct 2026 02:00:00 GMT",
-      "base_score": 84,
-      "candidate_score": 94,
-      "priority": "High",
-      "matched_keywords": [
-        "China",
-        "Chinese",
-        "China AI"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "849e29049b8b7c51d58875ae",
@@ -798,7 +798,7 @@
       "source": "Pakistan Security Watch",
       "published": "Tue, 27 Oct 2026 18:02:45 GMT",
       "base_score": 86,
-      "candidate_score": 92,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "Pakistan",
@@ -809,18 +809,52 @@
       "content_type": "news"
     },
     {
-      "external_id": "fac1898c4542d01657d0b5fd",
-      "mode": "pontos_voice",
-      "title": "Έπος του ’40: Πόντιοι, Μικρασιάτες και Αρμένιοι στην πρώτη γραμμή της ελευθερίας - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzloamdHVTNoSjNueUxyVkVleEFCMjZoemU1YnNFWF9wdGhTT3Q0T2UzTXFNZU9KaENSaXl1T2ItVS1QVlhwYUFDU3JKXy1fOFJaNlJtQWxNcnljbE9JUjdjNFV5a3UxMGRoTDBTWTZjZm9fTE9zbDJXMFY5SVY0MVN4dm81V0liZTl6bWk0MS1BaFVaMWZ1X1dHWS1Qc1pud3NPWmV6YldYMGhmTDV1Skp4LW8wYzQ0RzNFQ25KdldIUGM?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 28 Oct 2026 06:48:58 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
+      "external_id": "ba63f7439907e8b18284fc5c",
+      "mode": "geopolitico",
+      "title": "The Pakistani Army kills nine alleged Baloch militiamen in two operations in Baluchistan - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenc4Z2ZkZC15bzZSVEJxVmdSQU1jWDA1Ql9qYmlEemsteUt0a2ROdV9MLXVEemJKZ0JUSWE3NHgzSkRYQ1FpQkZicTk5U2U1eDFYdFl5Y1NiTk5BeklIbzdBZEdCTS10eGJXT0JGaWpaUHI1bWN5UVZ4cVlmQS1DOExRR1lHOWJVNTRHZGMtWWd0RVFCS0F4ZExwekhQTFg4ZFhzNTVfVE1vNFl1RkFpNU5Ja21RNkVxT2dEbmNpS1cwa3BudXpFbklfONIB0AFBVV95cUxOWkw0bnItVXF3RzgwUTF2T0lJdldWYTcxVjVmNF9WcjVMMWx5cmhnM2FOdFVhSlFtZHc5UWI2dGF2aXNBSDdoRkRYREJTZElVbmdlZ01OMHFwUV8tdGp3Zl9WQkNvb3lnbGhoZG9YM0lycWUtQWpMMjBoZkpkbnA2Tzk0LXZnZEY0V3BrQTBhWldQSnRzREFjWk1nU0xYdzBCcjZBUTBJTjQ0eTNPaWZISHRtaFBkWEt0aHB1SG92VFN6bm10RTAxSUwzMnpsYWVN?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Wed, 28 Oct 2026 10:51:07 GMT",
+      "base_score": 77,
+      "candidate_score": 87,
       "priority": "High",
       "matched_keywords": [
-        "Pontos",
-        "Πόντιοι"
+        "Pakistan",
+        "Pakistani",
+        "Ege"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "95a1d98f9065248c9408c352",
+      "mode": "geopolitico",
+      "title": "'Warship Destroyed': Greece and Israel Sank the Retired Frigate HS Bouboulina North of Crete With Israeli Spike Missiles and a German Torpedo From a Type 214 Submarine - 19FortyFive",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQ0RtRncxaFRNbEREa1N2T2w1UFQzNXdISmJuZHU4VUt1TU1VallVUm5nOENsazhJY3l6bWt2MXQzaU93VkJnYzBSMlQ3WWU4UF8wNGk3VFFBSGZXZW9lR2xhZkh5RHVTN3oxVFdkd3VuSGxpTFgxUHhaZGl4d3JuMUFjRmlrYnFab0tkZ3BVQVAyVV8xM3RCbThIZks5MDA4d3RYazYwaHg4by15aXpvM05fTURNMUg0VExkV0h0V3VqMmRZWFRxMWNhbEhpbURQRFpaUDFfVnc1ZFRybnhmMXFwRDNWZXlvM2p5eFUtc2dpOU85UmVxYTEwSTcwcGVfN3h1VHBPNkUyQkpnaWVZa1B3ZlRYVzhOdU9NQnA5djRsWWZMV3cwMQ?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Tue, 27 Oct 2026 18:52:23 GMT",
+      "base_score": 84,
+      "candidate_score": 87,
+      "priority": "High",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "Israeli"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e71a53c11b6ee1c374439b96",
+      "mode": "pontos_voice",
+      "title": "Σέρρες: Το Τίμιο Ξύλο από την Παναγία Σουμελά στον Ιερό Ναό Αγίων Θεοδώρων - LionNews",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDREaERkX0RhWE52blVDVS1JaDNoeVVleFVTaEpkS1NwM0Q2VTcyR3d3RzdBRG9mWmJ3V2FLaS0wdk1FdmVsWUFwQzRiU2c2YWpiempLdWFFX1BNZGphbFVfZkIyb0hCR2d1VEhVWUZkaUtIcHdhSkNWMEd0TDIwY2tubE5Kek9DYjFZcmdlZGtOOXRmMUR5YVFHWQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Wed, 28 Oct 2026 10:11:23 GMT",
+      "base_score": 86,
+      "candidate_score": 96,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Παναγία Σουμελά",
+        "Σουμελά"
       ],
       "content_type": "news"
     },
@@ -841,6 +875,22 @@
       "content_type": "news"
     },
     {
+      "external_id": "fac1898c4542d01657d0b5fd",
+      "mode": "pontos_voice",
+      "title": "Έπος του ’40: Πόντιοι, Μικρασιάτες και Αρμένιοι στην πρώτη γραμμή της ελευθερίας - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzloamdHVTNoSjNueUxyVkVleEFCMjZoemU1YnNFWF9wdGhTT3Q0T2UzTXFNZU9KaENSaXl1T2ItVS1QVlhwYUFDU3JKXy1fOFJaNlJtQWxNcnljbE9JUjdjNFV5a3UxMGRoTDBTWTZjZm9fTE9zbDJXMFY5SVY0MVN4dm81V0liZTl6bWk0MS1BaFVaMWZ1X1dHWS1Qc1pud3NPWmV6YldYMGhmTDV1Skp4LW8wYzQ0RzNFQ25KdldIUGM?oc=5",
+      "source": "Pontos News Watch",
+      "published": "Wed, 28 Oct 2026 06:48:58 GMT",
+      "base_score": 78,
+      "candidate_score": 88,
+      "priority": "High",
+      "matched_keywords": [
+        "Pontos",
+        "Πόντιοι"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "41505b8926becc75b445bb4f",
       "mode": "pontos_voice",
       "title": "Η Παναγία Σουμελά και Ιερά Λείψανα του Αγίου Δημητρίου στον Ιερό Ναό Αγίου Νικολάου Περάματος - Cretalive",
@@ -848,7 +898,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Tue, 27 Oct 2026 08:08:28 GMT",
       "base_score": 86,
-      "candidate_score": 89,
+      "candidate_score": 86,
       "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -873,38 +923,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "57b172dfbec26d79a8cf6f2f",
+      "external_id": "8b265ec3d9c5b734e70c9a45",
       "mode": "pontos_voice",
-      "title": "Trabzonspor PFDK'ya sevk edildi",
-      "url": "https://www.61saat.com/trabzonspor-pfdkya-sevk-edildi-38",
+      "title": "Trabzon’da Suiçmez ailesinin acı günü",
+      "url": "https://www.61saat.com/trabzonda-suicmez-ailesinin-aci-gunu",
       "source": "61Saat Trabzon",
-      "published": "Wed, 28 Oct 2026 08:57:00 +0300",
+      "published": "Wed, 28 Oct 2026 15:56:00 +0300",
       "base_score": 53,
       "candidate_score": 68,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Rize",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "94d69f15db45a5f4541a1184",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor PFDK'ya sevk edildi! Rizespor maçı sonrası ceza geliyor - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZms0Z3hXc0ZsUnVMXzY4U1dwNE5lZ09ETjdoMWlTZHRWb3pqV3VTTHoyM3VLalMwUkFtT2hZTVFMV3Q0Z1d1RzZTb0JacVVsclZxcWdMWlpIcGRPSEl0LW90VFFFNlFFaVZLQWo1dmxIUG4ybFNMQ1R2N0VwemJlUzByYmhURU9GZ2dLNXV3M3VlUzB6emZFaHBZaG5qbWpYcHg3Yko3Vi11QnJ2bVE?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Wed, 28 Oct 2026 05:43:48 GMT",
-      "base_score": 51,
-      "candidate_score": 66,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Rize",
-        "Trabzon",
-        "dil"
+        "milletvekili",
+        "belediye başkanı",
+        "Trabzon"
       ],
       "content_type": "news"
     }
