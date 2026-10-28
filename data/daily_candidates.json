@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T22:27:01.130696+00:00",
+  "generated_at": "2026-10-28T01:40:51.098428+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 9,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 27 Oct 2026 14:45:25 GMT",
         "base_score": 75,
-        "candidate_score": 105,
+        "candidate_score": 101,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -36,7 +36,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Mon, 26 Oct 2026 18:52:55 GMT",
         "base_score": 62,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "AEK",
@@ -56,7 +56,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 27 Oct 2026 05:00:00 GMT",
         "base_score": 56,
-        "candidate_score": 80,
+        "candidate_score": 77,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -76,7 +76,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Mon, 26 Oct 2026 18:51:01 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
@@ -109,6 +109,44 @@
         "needs_second_source": true
       },
       {
+        "external_id": "9feab9d4a76e8faec5fe4152",
+        "mode": "sportdog",
+        "title": "Watch Manchester City vs AEK Athens - TOD",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHZzVXV0QUlVQWVQRjFvRU9oYUt6NDZqczF3MUxiRlUtb3J6RnM1OGZ0TjVSTDNqc3J3ODNlM2lGb0dFMC0yMnlGbWNYYWI2Q1lmaVoyX0dkTnhsNENBQTNGeGFmRlpaaHg2Tm01VWkwcmZYOXY1eng5X3laMDhIMXg4ellTeXluVmpOdURlQXVESnRxYTNPRHBuWHVVZTJNUFhWQXB3aU9CZnZiMGNV?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Tue, 27 Oct 2026 23:49:21 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "76b2872242654d77dc6e32d8",
+        "mode": "sportdog",
+        "title": "Basketball, European Cups: Milan's free-throw trap dooms Milan, Panathinaikos wins. - Quotidiano Sportivo",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWHRFTWdhTk1rZUFJT0x6QlFCNjdmWjRUREl4b0t4M1BDTkVzaHZjT2FpZGFwbDI3bFUwLXlWa0dFVEtBT3c3c0Nxa0t3UWpKV2x5VldVdVloeXVIalg1WnNJQVdrOGNvYVdFMU9pRm80eHVnUzhmRmltMXZsMmtBRUM3VGgxdHVPOEpQY3lUT0gzNUZ6c01rR0dWN182VFdacFhxZmNzNmJJVVlxSDlTNk5neTExNnpOT1B5bU5nNTBaNUJGY1RGVDBjZEhrSmJQZnZr?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Tue, 27 Oct 2026 22:15:00 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "4d8e642e28c8f6f619fb0268",
         "mode": "sportdog",
         "title": "Greek Media Break Down Imanol Alguacil's Impact at Olympiacos - roundtable.io",
@@ -116,7 +154,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 27 Oct 2026 21:11:06 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -145,25 +183,6 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "8b35994ef12615a352fe013c",
-        "mode": "sportdog",
-        "title": "Sani Becirovic reveals how Panathinaikos missed out on Jean Montero - basketballsphere.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qYnRwX3V3eDFlLWY0RFNyUzZrVE5oTV8yTldfQms0aVZvMUUyaWhUNnZBYXBzZzhHU1c0SlVIb3hZUVhhRUJNUnZ5NG00c1BXU01kdVJGWWlnVm1NUjFib0pkZUhmS0xYVVZPM28zN2ItWWhva2w5RUF0eHM4QUk?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Mon, 26 Oct 2026 16:02:31 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -175,7 +194,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Tue, 27 Oct 2026 20:06:58 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -241,6 +260,25 @@
         "content_type": "news"
       },
       {
+        "external_id": "8ad1d5ffbc063a15c477ab71",
+        "mode": "geopolitico",
+        "title": "Will Pak and Turkey-led Badr Pact lay foundation for a Halal defence industry? - India Today",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPenMzZGNncFBXSUoxa2V4V3h3QUtPVk5WdE54Z1V2Ny1SZWtqN2RpakdmRkkxVW1fYktuNUc5WE1kQm04Q0N3RXhLVkVJUXJHX0hMaGNtcENQby1vV3oybk5lRTZ2UmpkS2o2ZzlGVU10VjY1S01mX0ZxQmpQb1RQRWhRczZyVVhvbFRHaVNWYUhudzhVcnU2akxMWUNkM2ZLM2VPXzBwbWQ1UDRHcVBteWwzaWo5WlFyMU4yZW9NNFpEbFpXXzFHbmFJbTVMcFNOVFpQc2t0SWhMbGpCUE1CbUgtRklMd2lIazRIa21vR2U4WS03MENr?oc=5",
+        "source": "Pakistan Turkey Watch",
+        "published": "Wed, 28 Oct 2026 01:00:00 GMT",
+        "base_score": 80,
+        "candidate_score": 95,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Turkey",
+          "defence",
+          "industry",
+          "defence industry"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "95a1d98f9065248c9408c352",
         "mode": "geopolitico",
         "title": "'Warship Destroyed': Greece and Israel Sank the Retired Frigate HS Bouboulina North of Crete With Israeli Spike Missiles and a German Torpedo From a Type 214 Submarine - 19FortyFive",
@@ -276,57 +314,25 @@
         "content_type": "news"
       },
       {
-        "external_id": "6f716babe27dcc85700280bb",
+        "external_id": "2da774288bd9e2cb9ddd2451",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Cihat Yaycı — Müstafi Tümamiral Prof. Dr. Cihat Yaycı’dan dikkat çeken analiz! KKTC'nin kaderi değişecek - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjhmeVF4LXc1NG51ZVVHUU5mOGU1SG16Qnl0NXNqcDl1QVQ3bTBkN05xSy1oRG5tcDh3ak56WTZMc21GNWw4U0VROGpUM25oTzNqbUJJbnNoYW1sU1d6TmFlQ2dXLW1Xb2ZaM3FiNm42M0xieVZBSEU3c1d3cjNZNGFhandsc2tNak9NdG1PLThYT18tcDU4amYxNkIwM2x0d0FncDhtdUh1TlRrQkM4MmcwZFlLZ0o2OWJGZ1UxNlRvaXdYU0FENFRDZUbSAc8BQVVfeXFMUDFGeDhPTy1WNUU3cWZBdkNqVVozY214WUFwaFpiWG91d0VOZXBJUVBxVTBoTERpa2ptcFpnZDhWdVVjdHc4SmtpZnhTWVM2V2FxZFBKaERXaE5HQTVGSUt1LTRncUZldE5ORFl5MHN1VVlxRDJvUmpqXzNFdEpaUnlzQmpPOEVkNWV1VVk0YS1DUklfbUF2aTdmbkh5a09CUklpeDJoRk9MR1U0TXhnazFqNG53TTlUNXhFa080d1pWQzlRNDBwU0Z2VnhwUHlV?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Tue, 27 Oct 2026 22:13:34 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Cihat Yaycı",
-          "Cihat Yaycı"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "5d2ec5962597288a2aa72d1b",
-        "mode": "geopolitico",
-        "title": "Dışişleri Bakanlığı: Ege ve Doğu Akdeniz'deki haklarımızı taviz vermeden koruyacağız - TRT Haber",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWwwRDZ5bjdEdDR0YUJrX1BxSWJHM3lsUWZRb2tvZ3AxbVZMMEFfbElXZHhOMW5yMWZNMEVKbl9yNmRKTmxVcUFMRVVkNmdYdTRaTk9ma0wtUGRkNlRxN1ZVd3o4aWFmQkQxOTdwelZMV0pabzZaVFFubloxVjYzQ09YbUNEMWJYN1MtTGVoRDVjVUF4dllSd3M0TnBOcDBEY2lBRVpGeHRGUTJJNDE3X3lrWkVjWjB6ZDIya2tlVmJMMUlRMXRYSmZNUWY?oc=5",
-        "source": "TRT Haber Greece Watch",
-        "published": "Tue, 27 Oct 2026 17:38:00 GMT",
-        "base_score": 74,
-        "candidate_score": 84,
+        "title": "Dışişleri Bakanlığından, Türkiye'nin Ege ve Doğu Akdeniz politikasına ilişkin iddialara yönelik açıklama - Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSGJKMU0tV2hYN3lTMnBfT050SGdEVVNtRzllWEdHcXFTTUhWcTc1Q2FyczkzaFptQ2tGQ2hxamRseWdTRk42aDl5a09QT1pQbWJkVkVhY2lfNjVMZnh0anJCMWNBN3o0c2pieF9NMHQ4REhYQWNBZUc1VHFZbk50RUMwRWt1X0J2SGRraGRjaGFXRGFWNEtVc01iQ2IxWHhXeG1pc2ozdmNyTHpHNDZiVXRGdmRoNWVidll2T3FmMjJseTJobFhrbzlzaTdReW1zY1lwZ0JpVUQzUQ?oc=5",
+        "source": "Anadolu Greece Watch",
+        "published": "Tue, 27 Oct 2026 17:39:46 GMT",
+        "base_score": 86,
+        "candidate_score": 92,
         "priority": "High",
         "matched_keywords": [
           "Ege",
           "Doğu Akdeniz",
-          "Dışişleri Bakanlığı"
+          "Dışişleri Bakanlığı",
+          "açıklama"
         ],
         "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
-      {
-        "external_id": "4cad12c80f084624c1abbed1",
-        "mode": "pontos_voice",
-        "title": "Γενοκτονία στον Πόντο: Το μαρτύριο του παπα-Ιωάννη στην Εγκαρσή, στα Πλάτανα της Τραπεζούντας τον Οκτώβριο του 1916 - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnZOTzAwSXAwaXFzY2JQcUtibXk4U0NIZmxkWjBmTENJNTlqYU9tcGk0UTdqTHd5NjhkZTc1LXRTTWpIYlVNLUpNZWpBdllpOUNsRjZQTUZhQmhBbTh3TWhDamowa2h0XzZwT3B2VFFjTkV3dkstOWVRWHpqR2I4UElBOTFnZ2I2M0w5VnpXZmFoem1NYXZQLUJjclJOandaWUY2cFRFUFBJb0J4eXJSN19IVmM?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Mon, 26 Oct 2026 13:30:45 GMT",
-        "base_score": 100,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "Τραπεζούντα",
-          "Τραπεζούντας"
-        ],
-        "content_type": "news"
-      },
       {
         "external_id": "989d162fee89e2d229a46f29",
         "mode": "pontos_voice",
@@ -367,7 +373,7 @@
         "source": "Pontos News Watch",
         "published": "Mon, 26 Oct 2026 18:33:24 GMT",
         "base_score": 78,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -383,7 +389,7 @@
         "source": "61Saat Trabzon",
         "published": "Tue, 27 Oct 2026 23:25:00 +0300",
         "base_score": 61,
-        "candidate_score": 76,
+        "candidate_score": 71,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
@@ -395,18 +401,37 @@
         "content_type": "news"
       },
       {
-        "external_id": "7ce8ee89daf798f755d60bec",
+        "external_id": "07470b07ca6133765bdec13f",
         "mode": "pontos_voice",
-        "title": "Εύξεινος Λέσχη Ποντίων Νάουσας: Δίνει βήμα στα παιδιά, να μιλήσουν με τα έργα τους - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjd1aTBfZWJiWnIweU54QXZhaDJteHowMGVlR3dkMG1YazhJVWFfeE1sZXlsRzViMWt1ZEhPT0pHMm5qZ0ZHQ3ZZNEw0V1lsV1JkNEhDanpVWGdJSm1rQlJtMzlLbGk4TEJoNExPLVFENnowSTVLajRUVVFIVndOXy00ekJ6TDZnZTJTeU9RNExCNWMzVkdJcWVfcFFMLVhwdG1Pc3MzSFlWUQ?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Mon, 26 Oct 2026 21:12:41 GMT",
-        "base_score": 72,
-        "candidate_score": 75,
-        "priority": "High",
+        "title": "Rizespor-Trabzonspor maçı sonrası basın tribününde tansiyon yükselmişti! TGC'den açıklama",
+        "url": "https://www.61saat.com/rizespor-trabzonspor-maci-sonrasi-basin-tribununde-tansiyon-yukselmisti-tgcden-aciklama",
+        "source": "61Saat Trabzon",
+        "published": "Tue, 27 Oct 2026 22:18:00 +0300",
+        "base_score": 59,
+        "candidate_score": 69,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Rize",
+          "açıklama",
+          "tepki",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "45931af71f4b719ec19479e2",
+        "mode": "pontos_voice",
+        "title": "Ένωση Χορευτών Δράμας «Πυρρίχιος»: 1η Εύξεινος Σύναξη – Στο επίκεντρο η ποντιακή ενδυμασία - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGZtcjlCOGQzUGVoaGZPdDRPUXNvWGNQSlEwaFRkMzZnYTRNMWI3N01zdV9rZU5tTi1GVERRN0tnSThZOGVyclFrU2x1VWc2UDRnb2NSYkVOOTFzZ0Z2VlFLdTU5NjNoUFgybU1qdTc0ZlZINzl1Ykw5OVpZU2x6UzdVZjY0RnFSUVR1UmZMN1Rqa0VXd19XWmctTUQyZko4MFU4R1JVelczYVk?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Mon, 26 Oct 2026 15:20:40 GMT",
+        "base_score": 69,
+        "candidate_score": 69,
+        "priority": "Normal",
         "matched_keywords": [
           "Pontos",
-          "Εύξεινος Λέσχη"
+          "ποντιακή"
         ],
         "content_type": "news"
       }
@@ -421,7 +446,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 27 Oct 2026 14:45:25 GMT",
       "base_score": 75,
-      "candidate_score": 105,
+      "candidate_score": 101,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -442,7 +467,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Mon, 26 Oct 2026 18:52:55 GMT",
       "base_score": 62,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "AEK",
@@ -462,7 +487,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 27 Oct 2026 05:00:00 GMT",
       "base_score": 56,
-      "candidate_score": 80,
+      "candidate_score": 77,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -482,7 +507,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Mon, 26 Oct 2026 18:51:01 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
@@ -515,6 +540,44 @@
       "needs_second_source": true
     },
     {
+      "external_id": "9feab9d4a76e8faec5fe4152",
+      "mode": "sportdog",
+      "title": "Watch Manchester City vs AEK Athens - TOD",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHZzVXV0QUlVQWVQRjFvRU9oYUt6NDZqczF3MUxiRlUtb3J6RnM1OGZ0TjVSTDNqc3J3ODNlM2lGb0dFMC0yMnlGbWNYYWI2Q1lmaVoyX0dkTnhsNENBQTNGeGFmRlpaaHg2Tm01VWkwcmZYOXY1eng5X3laMDhIMXg4ellTeXluVmpOdURlQXVESnRxYTNPRHBuWHVVZTJNUFhWQXB3aU9CZnZiMGNV?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Tue, 27 Oct 2026 23:49:21 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "76b2872242654d77dc6e32d8",
+      "mode": "sportdog",
+      "title": "Basketball, European Cups: Milan's free-throw trap dooms Milan, Panathinaikos wins. - Quotidiano Sportivo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWHRFTWdhTk1rZUFJT0x6QlFCNjdmWjRUREl4b0t4M1BDTkVzaHZjT2FpZGFwbDI3bFUwLXlWa0dFVEtBT3c3c0Nxa0t3UWpKV2x5VldVdVloeXVIalg1WnNJQVdrOGNvYVdFMU9pRm80eHVnUzhmRmltMXZsMmtBRUM3VGgxdHVPOEpQY3lUT0gzNUZ6c01rR0dWN182VFdacFhxZmNzNmJJVVlxSDlTNk5neTExNnpOT1B5bU5nNTBaNUJGY1RGVDBjZEhrSmJQZnZr?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Tue, 27 Oct 2026 22:15:00 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "4d8e642e28c8f6f619fb0268",
       "mode": "sportdog",
       "title": "Greek Media Break Down Imanol Alguacil's Impact at Olympiacos - roundtable.io",
@@ -522,7 +585,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 27 Oct 2026 21:11:06 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -553,25 +616,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "8b35994ef12615a352fe013c",
-      "mode": "sportdog",
-      "title": "Sani Becirovic reveals how Panathinaikos missed out on Jean Montero - basketballsphere.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qYnRwX3V3eDFlLWY0RFNyUzZrVE5oTV8yTldfQms0aVZvMUUyaWhUNnZBYXBzZzhHU1c0SlVIb3hZUVhhRUJNUnZ5NG00c1BXU01kdVJGWWlnVm1NUjFib0pkZUhmS0xYVVZPM28zN2ItWWhva2w5RUF0eHM4QUk?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Mon, 26 Oct 2026 16:02:31 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "3306ded065c48fcefb0a17d0",
       "mode": "geopolitico",
       "title": "Milli Savunma Bakanı Güler'den Yunanistan'a Ege ve Doğu Akdeniz mesajı - Tabya Dijital",
@@ -579,7 +623,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Tue, 27 Oct 2026 20:06:58 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -645,6 +689,25 @@
       "content_type": "news"
     },
     {
+      "external_id": "8ad1d5ffbc063a15c477ab71",
+      "mode": "geopolitico",
+      "title": "Will Pak and Turkey-led Badr Pact lay foundation for a Halal defence industry? - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPenMzZGNncFBXSUoxa2V4V3h3QUtPVk5WdE54Z1V2Ny1SZWtqN2RpakdmRkkxVW1fYktuNUc5WE1kQm04Q0N3RXhLVkVJUXJHX0hMaGNtcENQby1vV3oybk5lRTZ2UmpkS2o2ZzlGVU10VjY1S01mX0ZxQmpQb1RQRWhRczZyVVhvbFRHaVNWYUhudzhVcnU2akxMWUNkM2ZLM2VPXzBwbWQ1UDRHcVBteWwzaWo5WlFyMU4yZW9NNFpEbFpXXzFHbmFJbTVMcFNOVFpQc2t0SWhMbGpCUE1CbUgtRklMd2lIazRIa21vR2U4WS03MENr?oc=5",
+      "source": "Pakistan Turkey Watch",
+      "published": "Wed, 28 Oct 2026 01:00:00 GMT",
+      "base_score": 80,
+      "candidate_score": 95,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Turkey",
+        "defence",
+        "industry",
+        "defence industry"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "95a1d98f9065248c9408c352",
       "mode": "geopolitico",
       "title": "'Warship Destroyed': Greece and Israel Sank the Retired Frigate HS Bouboulina North of Crete With Israeli Spike Missiles and a German Torpedo From a Type 214 Submarine - 19FortyFive",
@@ -680,54 +743,22 @@
       "content_type": "news"
     },
     {
-      "external_id": "6f716babe27dcc85700280bb",
+      "external_id": "2da774288bd9e2cb9ddd2451",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Cihat Yaycı — Müstafi Tümamiral Prof. Dr. Cihat Yaycı’dan dikkat çeken analiz! KKTC'nin kaderi değişecek - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjhmeVF4LXc1NG51ZVVHUU5mOGU1SG16Qnl0NXNqcDl1QVQ3bTBkN05xSy1oRG5tcDh3ak56WTZMc21GNWw4U0VROGpUM25oTzNqbUJJbnNoYW1sU1d6TmFlQ2dXLW1Xb2ZaM3FiNm42M0xieVZBSEU3c1d3cjNZNGFhandsc2tNak9NdG1PLThYT18tcDU4amYxNkIwM2x0d0FncDhtdUh1TlRrQkM4MmcwZFlLZ0o2OWJGZ1UxNlRvaXdYU0FENFRDZUbSAc8BQVVfeXFMUDFGeDhPTy1WNUU3cWZBdkNqVVozY214WUFwaFpiWG91d0VOZXBJUVBxVTBoTERpa2ptcFpnZDhWdVVjdHc4SmtpZnhTWVM2V2FxZFBKaERXaE5HQTVGSUt1LTRncUZldE5ORFl5MHN1VVlxRDJvUmpqXzNFdEpaUnlzQmpPOEVkNWV1VVk0YS1DUklfbUF2aTdmbkh5a09CUklpeDJoRk9MR1U0TXhnazFqNG53TTlUNXhFa080d1pWQzlRNDBwU0Z2VnhwUHlV?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Tue, 27 Oct 2026 22:13:34 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Cihat Yaycı",
-        "Cihat Yaycı"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "5d2ec5962597288a2aa72d1b",
-      "mode": "geopolitico",
-      "title": "Dışişleri Bakanlığı: Ege ve Doğu Akdeniz'deki haklarımızı taviz vermeden koruyacağız - TRT Haber",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWwwRDZ5bjdEdDR0YUJrX1BxSWJHM3lsUWZRb2tvZ3AxbVZMMEFfbElXZHhOMW5yMWZNMEVKbl9yNmRKTmxVcUFMRVVkNmdYdTRaTk9ma0wtUGRkNlRxN1ZVd3o4aWFmQkQxOTdwelZMV0pabzZaVFFubloxVjYzQ09YbUNEMWJYN1MtTGVoRDVjVUF4dllSd3M0TnBOcDBEY2lBRVpGeHRGUTJJNDE3X3lrWkVjWjB6ZDIya2tlVmJMMUlRMXRYSmZNUWY?oc=5",
-      "source": "TRT Haber Greece Watch",
-      "published": "Tue, 27 Oct 2026 17:38:00 GMT",
-      "base_score": 74,
-      "candidate_score": 84,
+      "title": "Dışişleri Bakanlığından, Türkiye'nin Ege ve Doğu Akdeniz politikasına ilişkin iddialara yönelik açıklama - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSGJKMU0tV2hYN3lTMnBfT050SGdEVVNtRzllWEdHcXFTTUhWcTc1Q2FyczkzaFptQ2tGQ2hxamRseWdTRk42aDl5a09QT1pQbWJkVkVhY2lfNjVMZnh0anJCMWNBN3o0c2pieF9NMHQ4REhYQWNBZUc1VHFZbk50RUMwRWt1X0J2SGRraGRjaGFXRGFWNEtVc01iQ2IxWHhXeG1pc2ozdmNyTHpHNDZiVXRGdmRoNWVidll2T3FmMjJseTJobFhrbzlzaTdReW1zY1lwZ0JpVUQzUQ?oc=5",
+      "source": "Anadolu Greece Watch",
+      "published": "Tue, 27 Oct 2026 17:39:46 GMT",
+      "base_score": 86,
+      "candidate_score": 92,
       "priority": "High",
       "matched_keywords": [
         "Ege",
         "Doğu Akdeniz",
-        "Dışişleri Bakanlığı"
+        "Dışişleri Bakanlığı",
+        "açıklama"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "4cad12c80f084624c1abbed1",
-      "mode": "pontos_voice",
-      "title": "Γενοκτονία στον Πόντο: Το μαρτύριο του παπα-Ιωάννη στην Εγκαρσή, στα Πλάτανα της Τραπεζούντας τον Οκτώβριο του 1916 - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnZOTzAwSXAwaXFzY2JQcUtibXk4U0NIZmxkWjBmTENJNTlqYU9tcGk0UTdqTHd5NjhkZTc1LXRTTWpIYlVNLUpNZWpBdllpOUNsRjZQTUZhQmhBbTh3TWhDamowa2h0XzZwT3B2VFFjTkV3dkstOWVRWHpqR2I4UElBOTFnZ2I2M0w5VnpXZmFoem1NYXZQLUJjclJOandaWUY2cFRFUFBJb0J4eXJSN19IVmM?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Mon, 26 Oct 2026 13:30:45 GMT",
-      "base_score": 100,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "Τραπεζούντα",
-        "Τραπεζούντας"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "989d162fee89e2d229a46f29",
@@ -769,7 +800,7 @@
       "source": "Pontos News Watch",
       "published": "Mon, 26 Oct 2026 18:33:24 GMT",
       "base_score": 78,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -785,7 +816,7 @@
       "source": "61Saat Trabzon",
       "published": "Tue, 27 Oct 2026 23:25:00 +0300",
       "base_score": 61,
-      "candidate_score": 76,
+      "candidate_score": 71,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
@@ -797,18 +828,37 @@
       "content_type": "news"
     },
     {
-      "external_id": "7ce8ee89daf798f755d60bec",
+      "external_id": "07470b07ca6133765bdec13f",
       "mode": "pontos_voice",
-      "title": "Εύξεινος Λέσχη Ποντίων Νάουσας: Δίνει βήμα στα παιδιά, να μιλήσουν με τα έργα τους - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjd1aTBfZWJiWnIweU54QXZhaDJteHowMGVlR3dkMG1YazhJVWFfeE1sZXlsRzViMWt1ZEhPT0pHMm5qZ0ZHQ3ZZNEw0V1lsV1JkNEhDanpVWGdJSm1rQlJtMzlLbGk4TEJoNExPLVFENnowSTVLajRUVVFIVndOXy00ekJ6TDZnZTJTeU9RNExCNWMzVkdJcWVfcFFMLVhwdG1Pc3MzSFlWUQ?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Mon, 26 Oct 2026 21:12:41 GMT",
-      "base_score": 72,
-      "candidate_score": 75,
-      "priority": "High",
+      "title": "Rizespor-Trabzonspor maçı sonrası basın tribününde tansiyon yükselmişti! TGC'den açıklama",
+      "url": "https://www.61saat.com/rizespor-trabzonspor-maci-sonrasi-basin-tribununde-tansiyon-yukselmisti-tgcden-aciklama",
+      "source": "61Saat Trabzon",
+      "published": "Tue, 27 Oct 2026 22:18:00 +0300",
+      "base_score": 59,
+      "candidate_score": 69,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Rize",
+        "açıklama",
+        "tepki",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "45931af71f4b719ec19479e2",
+      "mode": "pontos_voice",
+      "title": "Ένωση Χορευτών Δράμας «Πυρρίχιος»: 1η Εύξεινος Σύναξη – Στο επίκεντρο η ποντιακή ενδυμασία - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGZtcjlCOGQzUGVoaGZPdDRPUXNvWGNQSlEwaFRkMzZnYTRNMWI3N01zdV9rZU5tTi1GVERRN0tnSThZOGVyclFrU2x1VWc2UDRnb2NSYkVOOTFzZ0Z2VlFLdTU5NjNoUFgybU1qdTc0ZlZINzl1Ykw5OVpZU2x6UzdVZjY0RnFSUVR1UmZMN1Rqa0VXd19XWmctTUQyZko4MFU4R1JVelczYVk?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Mon, 26 Oct 2026 15:20:40 GMT",
+      "base_score": 69,
+      "candidate_score": 69,
+      "priority": "Normal",
       "matched_keywords": [
         "Pontos",
-        "Εύξεινος Λέσχη"
+        "ποντιακή"
       ],
       "content_type": "news"
     }
