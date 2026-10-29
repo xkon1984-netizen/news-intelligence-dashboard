@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T23:43:31.388747+00:00",
+  "generated_at": "2026-10-29T02:58:26.834056+00:00",
   "counts": {
-    "sportdog": 13,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -36,7 +36,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 28 Oct 2026 07:10:39 GMT",
         "base_score": 94,
-        "candidate_score": 120,
+        "candidate_score": 117,
         "priority": "URGENT",
         "matched_keywords": [
           "Panathinaikos",
@@ -46,27 +46,6 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "b745ee4b9e33258c0e63afa0",
-        "mode": "sportdog",
-        "title": "Transfer: Olympiacos Bids €3 Million for Bi Zaouai - Africa Top Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUZGQlBmWDVrWER3dVhWcEMya2gzMm5aS0NyOTRyR0NrUmdnd2c3X3N5N2UzWUN2NXlJRHo2Q2xPcndDQ0RkUmtVWlRJMjhWOG5Fc1lnODB3YVdPZzVsTjNWeFRmN29UMWRNOGJGQkFCSy1McE94WDVwNmI0SFpvVm9iT1hROGVG?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 27 Oct 2026 14:45:25 GMT",
-        "base_score": 75,
-        "candidate_score": 95,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Olympiacos",
-          "transfer",
-          "bid"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
       },
@@ -120,7 +99,7 @@
         "source": "AEK Rumour Watch",
         "published": "Wed, 28 Oct 2026 18:16:45 GMT",
         "base_score": 62,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "AEK",
@@ -129,8 +108,8 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "7f710fd298be07d60cfcadcc",
@@ -161,7 +140,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 27 Oct 2026 19:36:17 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 76,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -194,23 +173,22 @@
         "needs_second_source": true
       },
       {
-        "external_id": "93e16c0df82fbcf2ce8c8b14",
+        "external_id": "30a64096ee4a0e42bf246b6a",
         "mode": "sportdog",
-        "title": "PAOK BC announce the signing of Leland Walker on a three-year contract - www.paokbc.gr",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1RqUlIycEFLTjJCMk03TzFIeWF3dkZDTkFfYlpGbjJteFFaNDQwSmtkQ1JOV2s2VzJXSzhiUHR2WXhrX2hiVVlNMi1ZSGhOMkp2eUYtUVpiZGRNYnU5T0Q2RTVkQThqb1hQbVVDMHRjZXlzRFA1enYtbFR5NkExZXcwd0cwSDJxNWtCWGVZOC1KOU4xQ1pSLXdGaGctWW9BMzIxblI5QXd0NFIxZldj?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Wed, 28 Oct 2026 21:14:25 GMT",
-        "base_score": 41,
-        "candidate_score": 64,
+        "title": "Olympiacos Stay Perfect in Greek Cup League Phase: Full Standings - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWN3MHZCeEhWNHlsb0hGY0NJRFZxaXMtaVdIdnF1LWcyRlhVQ2dDalVXamRNVkFGWHBNZFJHLW83T3QzSTZTTHZvTWpQWXZlQWljSEJQcl9xVENrZDk4NVVsYmxxMFV2LUMxMV9tMFpmX1E0V2MzMGY4Y2RWS0VKRFljLVYyNElEM2dNdld3YzJQcHVoQlRXNElKbVZaaHd2Vk4zRFZVZ1NjN3Zuc3hlZ2g4NDNITFpaM1dpZHJn?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Wed, 28 Oct 2026 23:15:40 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
-          "PAOK",
-          "contract"
+          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "VERIFY",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -240,7 +218,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 28 Oct 2026 07:16:08 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -250,43 +228,43 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "b38a8d58e78ef3f9f7124306",
-        "mode": "sportdog",
-        "title": "Bahcesehir College Istanbul-PAOK Thessaloniki | Round 5 Highlights | 2026-27 BKT EuroCup - Euroleague Basketball",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjVaWk1PMVFqem5BTWpUbUM1S0xlTTBXNEh2NVBOM1RTV2oxYTZSVWw1NHJYZ20tNkV2c1gweXhyZmtTQTZjcmZXY3hyZFNPWU5ZTU85cmQtazFRVFNOcXhFbjgwbXk0a3NxWkhQektJUDl5R3lOdWUyOHppajlKbTRPNnFkbHFPRzA2TWZIQ01ocEtKanVHQkVWWnpOLUxPRks2QlgwVXBlY1da?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Tue, 27 Oct 2026 19:24:16 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
       {
-        "external_id": "3306ded065c48fcefb0a17d0",
+        "external_id": "c4fd08ad36cd76aec6af1457",
         "mode": "geopolitico",
-        "title": "Milli Savunma Bakanı Güler'den Yunanistan'a Ege ve Doğu Akdeniz mesajı - Tabya Dijital",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlZEMDdnVFJydTd1ZWVOcFNkVVl2cFBZbWFZWUpWNlRZWk1rbEV4MXAtdFU1UjE0OGxoamo4YUJkZFF3RGZEdFVjV2VyRUtpRGJ0WVNhZkRiUmRPQ1JsenFzeGJhTWk5TElpQ2pKQmx6QUNPWFZydVlhRVVmS1BJQm1vUTFUQTg2elVmdnU3SDFpZXVMUS1CYnBuOG5BNFUxeEQxNnRn?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Tue, 27 Oct 2026 20:06:58 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
+        "title": "Pakistani Religious Scholars Condemn Terrorism and Extremism - Balochistan Pulse",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzl5dnhXREx5Tjd4V3VxN21tZk4tYldRUjFWMWptdW5EdUF2SHRZbzZkd0hRa0R2TUtjZlFtcVo5N0FBQk1PY0ZSSGRiSWxrUE5SNHRhY1dicFROZlNsamx6aTlLSmdkRmpMM2R1Ry1QeThTd3kxTzU4WUNOT1Bxd1NvUXlzQlFqTlRfOGJWYXZKM3ZsRWxqSElOQ3AxVGk2WklCS2lHa2FGSE5TR1dKV0NaRlBUU0dwWDg4cHFNUnhnMWV0WFBrSDFNcWh6dw?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Thu, 29 Oct 2026 02:35:08 GMT",
+        "base_score": 96,
+        "candidate_score": 111,
         "priority": "URGENT",
         "matched_keywords": [
-          "Yunanistan",
-          "Ege",
+          "Pakistan",
+          "Pakistani",
+          "Balochistan",
+          "terrorism",
+          "extremism"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "80b9d21d746dd246baeeb957",
+        "mode": "geopolitico",
+        "title": "“Abeille Marengo” Gemisi Girit'e Ulaştı: Gözler Doğu Akdeniz'deki Kablo Projesinde - Kıbrıs Türk Haber",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVRzR3M2Y3VzWGRBZE03Q2VFc3dtQ2RubUNaRzRjMzBpc3BEY2o5WnFPd3pMU1dIS01kaG5RUHpTUUs4QXFBdlh2VEN1S0REcGxOZUpHbTdCbVg2XzJjOHpNM1I5dm5uRjVBZVBWcFRMVzlzenhSZ1RSN04xeDNINGZoeENWT3daOVdYYW5zVnJNcmVpSE51X2ZOdW9qZ1N3MkdmSmNCZw?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 28 Oct 2026 09:50:00 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
           "Doğu Akdeniz",
-          "savunma"
+          "Kıbrıs",
+          "Girit",
+          "kablo"
         ],
         "content_type": "turkey_greece"
       },
@@ -298,7 +276,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Wed, 28 Oct 2026 06:12:53 GMT",
         "base_score": 96,
-        "candidate_score": 102,
+        "candidate_score": 99,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -316,7 +294,7 @@
         "source": "Pakistan Security Watch",
         "published": "Wed, 28 Oct 2026 06:39:30 GMT",
         "base_score": 94,
-        "candidate_score": 100,
+        "candidate_score": 97,
         "priority": "URGENT",
         "matched_keywords": [
           "Pakistan",
@@ -335,8 +313,8 @@
         "source": "Foundation for Defense of Democracies FDD",
         "published": "Wed, 28 Oct 2026 21:33:45 GMT",
         "base_score": 84,
-        "candidate_score": 99,
-        "priority": "URGENT",
+        "candidate_score": 94,
+        "priority": "High",
         "matched_keywords": [
           "Israel",
           "Israeli",
@@ -346,6 +324,22 @@
         "content_type": "news"
       },
       {
+        "external_id": "2be0f119837dc016e88c4b85",
+        "mode": "geopolitico",
+        "title": "İsrailli yarbayın feryadı: Türkler IMEC'i de bloke ediyor, Doğu Akdeniz'de hiçbir şey onlardan izinsiz yapılamaz hale geliyor - TRHaber",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZV9nUGhITnhTRnc4ZHZjX19jckswb1RQN2ZnQ1VpUUFPckxtRW5KSUMxbkIxbmxBeG5MajJQSzB6QXIwNmxOY180SFl2TGNfblhJZ1R2TXpXdEpyUWxNd2FYWlQ0Wk8zSnRNX05oUzdFU0JLajFPSXJubXZRNFg2bVlKd1JBRDlnbExRbGtxVGxkZ0tESndDWllUQWMta1ZmNlpJbFBvVUFUUTJJTm9ZUVhyOG15QkJoQUZjdlV5Z0FTWlB2TkpJN0dCejZLYkprX3NYeW9pZVZIdFNSQjY0?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 28 Oct 2026 11:28:00 GMT",
+        "base_score": 81,
+        "candidate_score": 87,
+        "priority": "High",
+        "matched_keywords": [
+          "IMEC",
+          "Doğu Akdeniz"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "a2fd35f20139979aebd65f48",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Çalışma Bakanı emekli maaşları için olumlu konuştu | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
@@ -353,27 +347,11 @@
         "source": "Analysts Watch · Turkey",
         "published": "Wed, 28 Oct 2026 22:45:20 GMT",
         "base_score": 75,
-        "candidate_score": 90,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Abdulkadir Selvi",
           "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "b089e9f6d4be88b33f007802",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Cem Gürdeniz — Emekli Amiral Cem Gürdeniz uyardı: Çin karşısında kaybeden ABD’nin yeni planı! - https://www.babaocagi.com/",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTh3QVV5QWlRQy0tTUt5TEFzdGQzZlJ5YzJMTnZtWUNKZFVLcW1jSXBZdGIzakVnNHZMQWpvZEFSbGo5dVVRbjh2TEw1VmJEdTlmVjFRQnZDRGdtYktPdE1wS0VIM2QwaE5XMnZ4Z1k1ekpPN2V6WUJxblVoSW8xUkc3OGs3VVFYd0Zzd21VN285eFcwaXlQRXlPWXJqeUs3UzVGLTlDYw?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Wed, 28 Oct 2026 21:12:00 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Cem Gürdeniz",
-          "Cem Gürdeniz"
         ],
         "content_type": "analyst"
       },
@@ -385,30 +363,13 @@
         "source": "Analysts Watch · Turkey",
         "published": "Wed, 28 Oct 2026 20:48:00 GMT",
         "base_score": 75,
-        "candidate_score": 90,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Cem Gürdeniz",
           "Cem Gürdeniz"
         ],
         "content_type": "analyst"
-      },
-      {
-        "external_id": "e60e7e9e2ab636a38f240ed7",
-        "mode": "geopolitico",
-        "title": "Özgür Özel’den Erdoğan hükümetine Kıbrıs ve Doğu Akdeniz eleştirisi - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUFZaalI4MnZpNU1LbXRpRWhzWklZajRhNllBM0pRNG9SVXNwMmxXX1ZQVjN2UzRSWW9wNWllZ0czNjdJei1zZVRqMFhYRnExNHV6dEZlbVVvOEptalMwQ2p2dlkzU2Z1S3pLOEFoSHF5dWo3UjVOalN4UUowSm01WTU0UkVjeHRqNXVFclVySVBja2d6LXc?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 28 Oct 2026 05:53:47 GMT",
-        "base_score": 84,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "Kıbrıs",
-          "Erdoğan"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -420,8 +381,8 @@
         "source": "Greek Press Pontic Watch",
         "published": "Wed, 28 Oct 2026 17:43:06 GMT",
         "base_score": 86,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
           "Σουμελά"
@@ -436,8 +397,8 @@
         "source": "Greek Press Pontic Watch",
         "published": "Wed, 28 Oct 2026 17:31:35 GMT",
         "base_score": 86,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
           "Σουμελά"
@@ -468,7 +429,7 @@
         "source": "Pontos News Watch",
         "published": "Wed, 28 Oct 2026 06:48:58 GMT",
         "base_score": 78,
-        "candidate_score": 84,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -477,36 +438,36 @@
         "content_type": "news"
       },
       {
-        "external_id": "c8a5636839e218d4846bfdc1",
+        "external_id": "ebd76ac6773c9b6749a05c84",
         "mode": "pontos_voice",
-        "title": "TRABZON’DA GASTRONOMİ FESTİVALİ BAŞLIYOR",
-        "url": "https://www.61saat.com/trabzonda-gastronomi-festivali-basliyor",
+        "title": "Trabzon'da acı haber! Polis memuru yüzmeye gittiği sırada hayatını kaybetti",
+        "url": "https://www.61saat.com/trabzonda-aci-haber-polis-memuru-yuzmeye-gittigi-sirada-hayatini-kaybetti",
         "source": "61Saat Trabzon",
-        "published": "Thu, 29 Oct 2026 00:00:00 +0300",
-        "base_score": 41,
-        "candidate_score": 56,
+        "published": "Wed, 28 Oct 2026 22:57:00 +0300",
+        "base_score": 44,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "vali"
+          "belediye başkanı",
+          "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "d3539f133fe1e29f9b990741",
+        "external_id": "49a49d6fae99a4c70882890d",
         "mode": "pontos_voice",
-        "title": "Trabzon'da Kızılay çalışanlarından 29 Ekim Cumhuriyet Bayramı kutlaması",
-        "url": "https://www.61saat.com/trabzonda-kizilay-calisanlarindan-29-ekim-cumhuriyet-bayrami-kutlamasi",
+        "title": "1461 Trabzon FK, Türkiye Kupası'nda tur atladı!",
+        "url": "https://www.61saat.com/1461-trabzon-fk-turkiye-kupasinda-tur-atladi",
         "source": "61Saat Trabzon",
-        "published": "Wed, 28 Oct 2026 21:11:00 +0300",
-        "base_score": 46,
-        "candidate_score": 56,
+        "published": "Wed, 28 Oct 2026 22:23:00 +0300",
+        "base_score": 44,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "Karadeniz"
+          "Ordu",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -542,7 +503,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 28 Oct 2026 07:10:39 GMT",
       "base_score": 94,
-      "candidate_score": 120,
+      "candidate_score": 117,
       "priority": "URGENT",
       "matched_keywords": [
         "Panathinaikos",
@@ -552,27 +513,6 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "b745ee4b9e33258c0e63afa0",
-      "mode": "sportdog",
-      "title": "Transfer: Olympiacos Bids €3 Million for Bi Zaouai - Africa Top Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUZGQlBmWDVrWER3dVhWcEMya2gzMm5aS0NyOTRyR0NrUmdnd2c3X3N5N2UzWUN2NXlJRHo2Q2xPcndDQ0RkUmtVWlRJMjhWOG5Fc1lnODB3YVdPZzVsTjNWeFRmN29UMWRNOGJGQkFCSy1McE94WDVwNmI0SFpvVm9iT1hROGVG?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 27 Oct 2026 14:45:25 GMT",
-      "base_score": 75,
-      "candidate_score": 95,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Olympiacos",
-        "transfer",
-        "bid"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
       "readiness": "READY",
       "needs_second_source": false
     },
@@ -626,7 +566,7 @@
       "source": "AEK Rumour Watch",
       "published": "Wed, 28 Oct 2026 18:16:45 GMT",
       "base_score": 62,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "AEK",
@@ -635,8 +575,8 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "7f710fd298be07d60cfcadcc",
@@ -667,7 +607,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 27 Oct 2026 19:36:17 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 76,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -700,23 +640,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "93e16c0df82fbcf2ce8c8b14",
+      "external_id": "30a64096ee4a0e42bf246b6a",
       "mode": "sportdog",
-      "title": "PAOK BC announce the signing of Leland Walker on a three-year contract - www.paokbc.gr",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1RqUlIycEFLTjJCMk03TzFIeWF3dkZDTkFfYlpGbjJteFFaNDQwSmtkQ1JOV2s2VzJXSzhiUHR2WXhrX2hiVVlNMi1ZSGhOMkp2eUYtUVpiZGRNYnU5T0Q2RTVkQThqb1hQbVVDMHRjZXlzRFA1enYtbFR5NkExZXcwd0cwSDJxNWtCWGVZOC1KOU4xQ1pSLXdGaGctWW9BMzIxblI5QXd0NFIxZldj?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Wed, 28 Oct 2026 21:14:25 GMT",
-      "base_score": 41,
-      "candidate_score": 64,
+      "title": "Olympiacos Stay Perfect in Greek Cup League Phase: Full Standings - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWN3MHZCeEhWNHlsb0hGY0NJRFZxaXMtaVdIdnF1LWcyRlhVQ2dDalVXamRNVkFGWHBNZFJHLW83T3QzSTZTTHZvTWpQWXZlQWljSEJQcl9xVENrZDk4NVVsYmxxMFV2LUMxMV9tMFpmX1E0V2MzMGY4Y2RWS0VKRFljLVYyNElEM2dNdld3YzJQcHVoQlRXNElKbVZaaHd2Vk4zRFZVZ1NjN3Zuc3hlZ2g4NDNITFpaM1dpZHJn?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Wed, 28 Oct 2026 23:15:40 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
-        "PAOK",
-        "contract"
+        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "VERIFY",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -746,7 +685,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 28 Oct 2026 07:16:08 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -758,39 +697,39 @@
       "needs_second_source": true
     },
     {
-      "external_id": "b38a8d58e78ef3f9f7124306",
-      "mode": "sportdog",
-      "title": "Bahcesehir College Istanbul-PAOK Thessaloniki | Round 5 Highlights | 2026-27 BKT EuroCup - Euroleague Basketball",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjVaWk1PMVFqem5BTWpUbUM1S0xlTTBXNEh2NVBOM1RTV2oxYTZSVWw1NHJYZ20tNkV2c1gweXhyZmtTQTZjcmZXY3hyZFNPWU5ZTU85cmQtazFRVFNOcXhFbjgwbXk0a3NxWkhQektJUDl5R3lOdWUyOHppajlKbTRPNnFkbHFPRzA2TWZIQ01ocEtKanVHQkVWWnpOLUxPRks2QlgwVXBlY1da?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Tue, 27 Oct 2026 19:24:16 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "3306ded065c48fcefb0a17d0",
+      "external_id": "c4fd08ad36cd76aec6af1457",
       "mode": "geopolitico",
-      "title": "Milli Savunma Bakanı Güler'den Yunanistan'a Ege ve Doğu Akdeniz mesajı - Tabya Dijital",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlZEMDdnVFJydTd1ZWVOcFNkVVl2cFBZbWFZWUpWNlRZWk1rbEV4MXAtdFU1UjE0OGxoamo4YUJkZFF3RGZEdFVjV2VyRUtpRGJ0WVNhZkRiUmRPQ1JsenFzeGJhTWk5TElpQ2pKQmx6QUNPWFZydVlhRVVmS1BJQm1vUTFUQTg2elVmdnU3SDFpZXVMUS1CYnBuOG5BNFUxeEQxNnRn?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Tue, 27 Oct 2026 20:06:58 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
+      "title": "Pakistani Religious Scholars Condemn Terrorism and Extremism - Balochistan Pulse",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzl5dnhXREx5Tjd4V3VxN21tZk4tYldRUjFWMWptdW5EdUF2SHRZbzZkd0hRa0R2TUtjZlFtcVo5N0FBQk1PY0ZSSGRiSWxrUE5SNHRhY1dicFROZlNsamx6aTlLSmdkRmpMM2R1Ry1QeThTd3kxTzU4WUNOT1Bxd1NvUXlzQlFqTlRfOGJWYXZKM3ZsRWxqSElOQ3AxVGk2WklCS2lHa2FGSE5TR1dKV0NaRlBUU0dwWDg4cHFNUnhnMWV0WFBrSDFNcWh6dw?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Thu, 29 Oct 2026 02:35:08 GMT",
+      "base_score": 96,
+      "candidate_score": 111,
       "priority": "URGENT",
       "matched_keywords": [
-        "Yunanistan",
-        "Ege",
+        "Pakistan",
+        "Pakistani",
+        "Balochistan",
+        "terrorism",
+        "extremism"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "80b9d21d746dd246baeeb957",
+      "mode": "geopolitico",
+      "title": "“Abeille Marengo” Gemisi Girit'e Ulaştı: Gözler Doğu Akdeniz'deki Kablo Projesinde - Kıbrıs Türk Haber",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVRzR3M2Y3VzWGRBZE03Q2VFc3dtQ2RubUNaRzRjMzBpc3BEY2o5WnFPd3pMU1dIS01kaG5RUHpTUUs4QXFBdlh2VEN1S0REcGxOZUpHbTdCbVg2XzJjOHpNM1I5dm5uRjVBZVBWcFRMVzlzenhSZ1RSN04xeDNINGZoeENWT3daOVdYYW5zVnJNcmVpSE51X2ZOdW9qZ1N3MkdmSmNCZw?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 28 Oct 2026 09:50:00 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
         "Doğu Akdeniz",
-        "savunma"
+        "Kıbrıs",
+        "Girit",
+        "kablo"
       ],
       "content_type": "turkey_greece"
     },
@@ -802,7 +741,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Wed, 28 Oct 2026 06:12:53 GMT",
       "base_score": 96,
-      "candidate_score": 102,
+      "candidate_score": 99,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -820,7 +759,7 @@
       "source": "Pakistan Security Watch",
       "published": "Wed, 28 Oct 2026 06:39:30 GMT",
       "base_score": 94,
-      "candidate_score": 100,
+      "candidate_score": 97,
       "priority": "URGENT",
       "matched_keywords": [
         "Pakistan",
@@ -839,8 +778,8 @@
       "source": "Foundation for Defense of Democracies FDD",
       "published": "Wed, 28 Oct 2026 21:33:45 GMT",
       "base_score": 84,
-      "candidate_score": 99,
-      "priority": "URGENT",
+      "candidate_score": 94,
+      "priority": "High",
       "matched_keywords": [
         "Israel",
         "Israeli",
@@ -850,6 +789,22 @@
       "content_type": "news"
     },
     {
+      "external_id": "2be0f119837dc016e88c4b85",
+      "mode": "geopolitico",
+      "title": "İsrailli yarbayın feryadı: Türkler IMEC'i de bloke ediyor, Doğu Akdeniz'de hiçbir şey onlardan izinsiz yapılamaz hale geliyor - TRHaber",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZV9nUGhITnhTRnc4ZHZjX19jckswb1RQN2ZnQ1VpUUFPckxtRW5KSUMxbkIxbmxBeG5MajJQSzB6QXIwNmxOY180SFl2TGNfblhJZ1R2TXpXdEpyUWxNd2FYWlQ0Wk8zSnRNX05oUzdFU0JLajFPSXJubXZRNFg2bVlKd1JBRDlnbExRbGtxVGxkZ0tESndDWllUQWMta1ZmNlpJbFBvVUFUUTJJTm9ZUVhyOG15QkJoQUZjdlV5Z0FTWlB2TkpJN0dCejZLYkprX3NYeW9pZVZIdFNSQjY0?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 28 Oct 2026 11:28:00 GMT",
+      "base_score": 81,
+      "candidate_score": 87,
+      "priority": "High",
+      "matched_keywords": [
+        "IMEC",
+        "Doğu Akdeniz"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "a2fd35f20139979aebd65f48",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Çalışma Bakanı emekli maaşları için olumlu konuştu | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
@@ -857,27 +812,11 @@
       "source": "Analysts Watch · Turkey",
       "published": "Wed, 28 Oct 2026 22:45:20 GMT",
       "base_score": 75,
-      "candidate_score": 90,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Abdulkadir Selvi",
         "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "b089e9f6d4be88b33f007802",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Cem Gürdeniz — Emekli Amiral Cem Gürdeniz uyardı: Çin karşısında kaybeden ABD’nin yeni planı! - https://www.babaocagi.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTh3QVV5QWlRQy0tTUt5TEFzdGQzZlJ5YzJMTnZtWUNKZFVLcW1jSXBZdGIzakVnNHZMQWpvZEFSbGo5dVVRbjh2TEw1VmJEdTlmVjFRQnZDRGdtYktPdE1wS0VIM2QwaE5XMnZ4Z1k1ekpPN2V6WUJxblVoSW8xUkc3OGs3VVFYd0Zzd21VN285eFcwaXlQRXlPWXJqeUs3UzVGLTlDYw?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Wed, 28 Oct 2026 21:12:00 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Cem Gürdeniz",
-        "Cem Gürdeniz"
       ],
       "content_type": "analyst"
     },
@@ -889,30 +828,13 @@
       "source": "Analysts Watch · Turkey",
       "published": "Wed, 28 Oct 2026 20:48:00 GMT",
       "base_score": 75,
-      "candidate_score": 90,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Cem Gürdeniz",
         "Cem Gürdeniz"
       ],
       "content_type": "analyst"
-    },
-    {
-      "external_id": "e60e7e9e2ab636a38f240ed7",
-      "mode": "geopolitico",
-      "title": "Özgür Özel’den Erdoğan hükümetine Kıbrıs ve Doğu Akdeniz eleştirisi - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUFZaalI4MnZpNU1LbXRpRWhzWklZajRhNllBM0pRNG9SVXNwMmxXX1ZQVjN2UzRSWW9wNWllZ0czNjdJei1zZVRqMFhYRnExNHV6dEZlbVVvOEptalMwQ2p2dlkzU2Z1S3pLOEFoSHF5dWo3UjVOalN4UUowSm01WTU0UkVjeHRqNXVFclVySVBja2d6LXc?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 28 Oct 2026 05:53:47 GMT",
-      "base_score": 84,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Doğu Akdeniz",
-        "Kıbrıs",
-        "Erdoğan"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "be8071b5cf1aa427b0cb82f6",
@@ -922,8 +844,8 @@
       "source": "Greek Press Pontic Watch",
       "published": "Wed, 28 Oct 2026 17:43:06 GMT",
       "base_score": 86,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
         "Σουμελά"
@@ -938,8 +860,8 @@
       "source": "Greek Press Pontic Watch",
       "published": "Wed, 28 Oct 2026 17:31:35 GMT",
       "base_score": 86,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
         "Σουμελά"
@@ -970,7 +892,7 @@
       "source": "Pontos News Watch",
       "published": "Wed, 28 Oct 2026 06:48:58 GMT",
       "base_score": 78,
-      "candidate_score": 84,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -979,36 +901,36 @@
       "content_type": "news"
     },
     {
-      "external_id": "c8a5636839e218d4846bfdc1",
+      "external_id": "ebd76ac6773c9b6749a05c84",
       "mode": "pontos_voice",
-      "title": "TRABZON’DA GASTRONOMİ FESTİVALİ BAŞLIYOR",
-      "url": "https://www.61saat.com/trabzonda-gastronomi-festivali-basliyor",
+      "title": "Trabzon'da acı haber! Polis memuru yüzmeye gittiği sırada hayatını kaybetti",
+      "url": "https://www.61saat.com/trabzonda-aci-haber-polis-memuru-yuzmeye-gittigi-sirada-hayatini-kaybetti",
       "source": "61Saat Trabzon",
-      "published": "Thu, 29 Oct 2026 00:00:00 +0300",
-      "base_score": 41,
-      "candidate_score": 56,
+      "published": "Wed, 28 Oct 2026 22:57:00 +0300",
+      "base_score": 44,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "vali"
+        "belediye başkanı",
+        "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "d3539f133fe1e29f9b990741",
+      "external_id": "49a49d6fae99a4c70882890d",
       "mode": "pontos_voice",
-      "title": "Trabzon'da Kızılay çalışanlarından 29 Ekim Cumhuriyet Bayramı kutlaması",
-      "url": "https://www.61saat.com/trabzonda-kizilay-calisanlarindan-29-ekim-cumhuriyet-bayrami-kutlamasi",
+      "title": "1461 Trabzon FK, Türkiye Kupası'nda tur atladı!",
+      "url": "https://www.61saat.com/1461-trabzon-fk-turkiye-kupasinda-tur-atladi",
       "source": "61Saat Trabzon",
-      "published": "Wed, 28 Oct 2026 21:11:00 +0300",
-      "base_score": 46,
-      "candidate_score": 56,
+      "published": "Wed, 28 Oct 2026 22:23:00 +0300",
+      "base_score": 44,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "Karadeniz"
+        "Ordu",
+        "Trabzon"
       ],
       "content_type": "news"
     }
