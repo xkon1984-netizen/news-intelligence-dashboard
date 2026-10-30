@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:24:49.222779+00:00",
+  "generated_at": "2026-10-30T19:42:45.291377+00:00",
   "counts": {
     "sportdog": 5,
     "geopolitico": 8,
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 30 Oct 2026 00:56:02 GMT",
         "base_score": 89,
-        "candidate_score": 103,
+        "candidate_score": 100,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -28,6 +28,26 @@
         "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
+      },
+      {
+        "external_id": "4a6270ce54e890597328dbcd",
+        "mode": "sportdog",
+        "title": "Ronaldo Transfer from Rostov to PAOK - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PNGhRN00yaGYydzhnS09LSW1RUHdTa0tpU2xzRDhLVFBRYkxWOXE1WmpBbDdmOFk5TkRoT1BHeVpBZ3RvQjh0QVRhSFlhSDBMRmdpZ19pZVdQNWtWZnF6QnNJSW54ZmtOOFNidVlBaWdOMjVUeEE?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Fri, 30 Oct 2026 08:50:49 GMT",
+        "base_score": 58,
+        "candidate_score": 84,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "1be27c007578fa4eb50d29f6",
@@ -57,7 +77,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 29 Oct 2026 09:44:41 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 76,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -70,38 +90,17 @@
         "needs_second_source": true
       },
       {
-        "external_id": "e5e94b6df14a0b775e798699",
+        "external_id": "ff73ed77be243e69d5ebcc88",
         "mode": "sportdog",
-        "title": "(Updates)! Levski Sofia v AEK Athens Live Free UCL UEFA Champions League Coverage August 18, 2026 - Port of Rotterdam",
-        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxONGluLW9nMnNSMmVjcVpsak1NMDRfT204Q3ZnU0RWY0lzWndud0NBenhWZmJUVTFkeUJlWENFRmEyczJ3RGhvandGRWs5Yy1iRmZpOXBkRVBaeTg0cXFBX0twc0l0enIzZDJ6TDcwbWdsWGd4dGJHcEZiLV9HeDBTRGlqdUM1RXVkRFdzbmtPWVFlZHBGUDF1dThKZG9kOE5fd0QtNF93RFdtaE1oRW5taW10c21tYkFVLWZVeE9PMTBScktCZmszck9KYWdURzdmUkk2clFyQW1PYjNMVjVpRElkTVp6Rnl0WTdlYXZKZHVwaXZ4RmN6VXA2MEpGM0xlZzdBdmI0S3VaUFRpaExoNVRhdVAyeHlZN3NhX29zbVhQOHJ5YjJYME9LRzJJVXptOUh6VktSZw?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Thu, 29 Oct 2026 22:31:19 GMT",
-        "base_score": 50,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "Champions League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "b7e6f843f7e0661bccda34d7",
-        "mode": "sportdog",
-        "title": "Olympiacos target Sabah defender Steve Solvet amid Saudi interest - İdman.Biz",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mcU1HcVg3Z1BQREdxMEVNNjV1Mm1KSDZMRmRIRy1Yc2U0aEpzNjZvTkJ2alNVeWNBbzBjYTJCcDdzVTlwdVFfRm9sRXJKSk55MFVtNzFxbjg?oc=5",
+        "title": "[ＭＡＴＣＨ!LIVE] Olimpia Milano v Olympiacos Piraeus LIVE Stream - Port of Rotterdam",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPMDBBcExBeXQxd2czOWxBN2Zzdlphd3VpZ2R4cW9CUkh2MGxjTExoTTFrWGR0SFd2SzJaNG8wZ3llekhJVVNXZHlEVHlzclhtaU00c3lFdy11X1o5b0xYN0JUZTZVY19ZaFZveXJyS2RYUlcydHN0WVpIejlCVVlKZ2NIMnVjVDdjWENreVJhblFDc0JGckIxQ3Y4ZHdYaUROcEYyVHVWTFlFbU40Rm5pZ3dITlBJcnRMVExlTkRMdXlmaW4yN3NGZDBhY0JQU0c2dHBya2ptUlRWbHZRaEVuS0dmWXZJYUdqMHExaFgtZzFmRzRPaWF4ZDJ5c3VLU1NILTF4TVlIR05ZbW9mbTFMYW42ZTRfRW9PLXdVdEREazAwcHVmSnMyM0h1ajlZaURVUy12NTlVU2J3YzNiemRxcDZZS0RKSHQyMnJRLUxxemNtRzVlVEtfUFpCQTUzOThQMGRZalN3eWs0QQ?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 30 Oct 2026 10:29:00 GMT",
-        "base_score": 39,
-        "candidate_score": 57,
+        "published": "Fri, 30 Oct 2026 19:23:56 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos",
-          "defender"
+          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
@@ -111,6 +110,24 @@
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "c9ea60b48b69a7756d0bdd08",
+        "mode": "geopolitico",
+        "title": "Netanyahu Defies Exit Polls to Take Lead in Israeli Election — What It Means for Iran War - Middle East Forum",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3BCT3ZyXzdQbUFtVUtjNGNzOW5obzEtWURkU2RTc2h6V1lIbnZZdXdrby1RamVmeUFQRkd1VXZ3aEd4VGluMWl3Q0ttR0d6LUg2anlkbEJsUTZ0UnNsZzQ1MUNFMk92M0xvSV9UaHllTkljY2QzbXlYcm1rUXRkWjFqazV4bDd5RWY3Z0ItN2o3Ml93MjJGcFVvUTd0VHFFc3JWN3FqdGtYNTBFSHFVRWFId0s1OVBNemFwN2xCNA?oc=5",
+        "source": "Middle East Forum Watch",
+        "published": "Fri, 30 Oct 2026 19:03:01 GMT",
+        "base_score": 96,
+        "candidate_score": 111,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Israel",
+          "Israeli",
+          "Netanyahu",
+          "Iran"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "453aa93e8222bd08e062b36a",
         "mode": "geopolitico",
@@ -133,50 +150,15 @@
         "content_type": "news"
       },
       {
-        "external_id": "21e4bf8a508c7c2a4eb17943",
-        "mode": "geopolitico",
-        "title": "Politics behind 22 ancient artifacts: Israel, Greece and Achilles Shield - Türkiye Today",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3c3UEhxZnpleVdFR1BrZ3lLTGFzTTJUQW93ZjhSX0RER3lMVVdDdDg4Z3FZdzd5TUJCWkpkNjdzWkNoLUNpVFFKQXVjWjNHY0FobjVNOXRnbnp6QnlyOEdydmszbkF2TE1neGFxTnhsaG5nQ2cxbjZPalZ1QXhfeVhqVzRwOEpZVjd2dWI4eENRQ05rc3ptUTgwdFRPZVJGbmlBenBQWVBmZENqYnZFMWsxWEVrZ2J3YUpxTzV2a0s?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Thu, 29 Oct 2026 13:03:18 GMT",
-        "base_score": 96,
-        "candidate_score": 99,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Achilles Shield"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "f9f156a278bc86ddeffe68cb",
-        "mode": "geopolitico",
-        "title": "Rum Savunma Bakanı Palmas: İki Yunan F-16’sı ve bir savaş gemisi Güney Kıbrıs’ta kalıcı olacak - Kıbrıs Postası",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeGFCVzhyQ0tOUUlSU2UxNjNHaUdjNUgzSEJGSjFFNTVLWWQzekF3SEU2RldYbklzOUVpMnhJOHV3dWt6cHVyVUx1b0lmNmQ0bmlLYWdMMGdmenZHOEtWMkdFS0J5M2RPWktMaTFOcFh3UXotZkJRSWN5MGFvNzNHWWV4TFJHVmtiSmhnd01RYkhETWFEOTFxQ0c3UmNfZjI4UEM4NFptcXdiRWp6M3lyTnJnbDhSVFctcnVpMVloNUtGYWZlQlRLVUNDLVp2VzRYcHF4a2poNXZHVDBaR2c?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-        "base_score": 96,
-        "candidate_score": 99,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "F-16",
-          "savunma"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "101a6f0a3a01d14b769a6e8d",
         "mode": "geopolitico",
         "title": "Yunanistan Başbakanı: Türkiye-Libya Deniz Yetki Alanları Anlaşması yasa dışı ve geçersizdir - Şarkul Avsat Türkçe",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLXJ3UDdHa2dkSDUxeGJTSWc2ZktOMVNUcldPWi1WY2Q4UTlyZmpNUWx0TGQybDZacGtLUmpEZUExaUxkYjgxcW5HVjZYZ2tRWGdDUkJ0RUFuS1B6VDNweldKMEJfcnllX043YTFnWXcxREdxSU5lYXdNR0JNekFGek1FMHFzMGpYSzdoa1l0bXBXUjdoYW5wN0hTai1BSWFpM0ZFRmxkZUZkRFZUMXlUN3UzNWlaRWg3YkVsSkFzWkNfY2pxc2xlYXVaRFlrVkRFYVVUeVljb1hsQzI1SU9vZ0JVcmhreFFCQ0ZjdmM5R004RzZnV2cyc3MtdVRudw?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 30 Oct 2026 11:55:56 GMT",
-        "base_score": 81,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Fri, 30 Oct 2026 17:31:36 GMT",
+        "base_score": 78,
+        "candidate_score": 93,
+        "priority": "High",
         "matched_keywords": [
           "Yunanistan",
           "deniz yetki alanları"
@@ -184,19 +166,50 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "2060a6727680d234d8929e3f",
+        "external_id": "b33a6400fd84ade4f9b9c0ba",
         "mode": "geopolitico",
-        "title": "Yunan F-16’ları Güney Kıbrıs’ta kalıcı konuşlanacak - Haber Aero",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTQ5MmJRajdrWmI5eFQyZ2hoeEY2QmxtcGpPUWZhQ3N3ZmdKanBSOTRLRUxoMjlmaEU2Z2xxOVhKWmQ5ZzkwQ3MtMnFwaThsVlVtV1phV3JhTzAyam9jTTEzcE9ZY2Y1N2YxWHYzR1p3UHRDYlRTT0ZhRG1kcDBxdk03VU1PLURs?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Thu, 29 Oct 2026 10:27:35 GMT",
-        "base_score": 84,
-        "candidate_score": 87,
+        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi’den seçim kulisi: Özgür Özel aday olursa Mansur Yavaş ne yapar? - Şok Gazetesi",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2laVUZLZXRKb3dXS2hkWFpEb0l3WFRpZ0dkeTNxVURKbmNlbHRNQmlqeGxURk9QeE1Ub3hPejhFZllzdXhpbkV3b3ppQ0FwUGJXUXRsQTBrZTRtT0ZQWFRidndYb1JXQWZkYWN1b0xFbUNRaUFSeXVBOEpXQms4cXNQRldXaWpTTUZWX0VnaDlzeHpUcUY1cmF2YlUwVkFmM1VscEEtTDJLMFJF?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Fri, 30 Oct 2026 18:27:00 GMT",
+        "base_score": 75,
+        "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "F-16"
+          "Abdulkadir Selvi",
+          "Abdulkadir Selvi"
+        ],
+        "content_type": "analyst"
+      },
+      {
+        "external_id": "757bf5ca1c25683125b996fe",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Σάββας Καλεντερίδης — Σάββας Καλεντερίδης: Περί προληπτικής διπλωματίας και «Γαλάζιας Παράνοιας» - εφημερίδα δημοκρατία",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGNfQXFmRk8xNmhScmpIMy1ZX20yWTFYQlpvQ09aNE5MXzRaNTViZUpTRXVwU0dSeHk1SHJtYmVwbUZNLTlrMDR5M0ctdEpWY3lNOTEyS013OVMzeWg0QUJPSmxUazZiNlEwTE41VEp4bVhOanlzdldILWVUcGJDNktIeWQtZVJQSDB4WHlSVU1CZ1E1aEtyU29B?oc=5",
+        "source": "Analysts Watch · Greece",
+        "published": "Fri, 30 Oct 2026 16:29:46 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Σάββας Καλεντερίδης",
+          "Σάββας Καλεντερίδης"
+        ],
+        "content_type": "analyst"
+      },
+      {
+        "external_id": "296e5993f430816922cce0c2",
+        "mode": "geopolitico",
+        "title": "Yunanistanlı emekli general Konstantinos Floros'tan Türkiye'ye tehdit! Doğu Akdeniz'de sahayı işaret etti - Avaz Türk",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVdESXAwMUdndmpuOFJpbk1kX01rcnlKUHg0RWhIdXJOaXVMWFBwaGJQMHVIS3pvWl85TmdCc2Q5WEpTZ01XVWpybEhmSmJHY0FEcE53LVp2OEc0c2w0d1JZUUdMeHBjVlQ5UTVtbjVady1ONUN0WUd0WlBtQUEzdWRUbjZiaWl5aUdybGhXYW9jT2pDZnFVQzJuM1BUMU51TmdpNE50TWJhVzZRcnRObjgtNjZzVWxtWWfSAcoBQVVfeXFMUFd3bmRoNHNwaE01NThEU3NKbHhjLVBSLUlfV0RsOE5yN0l1TlhmTHdOOTBicW9BOVl3eHdENURXbHRZNFktNXktS0FYcWtvRUhRdEJBMnZ5c1liMlNhTTJkd2EyUTcxUEpod2tILVVPXzhFVE1ZZ3M5bVZCSkJFOFNKTkpUZFlfTHY1MTVpRXFzV28zUnZ0SWlpS1I5c0Z0VkRYLVJ2YzVyNUlrdW8yV0VnSHMzT09qVUxOZlU4S1lSTUVuZ203R2hBUQ?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Fri, 30 Oct 2026 13:55:28 GMT",
+        "base_score": 72,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "Yunanistan",
+          "Doğu Akdeniz"
         ],
         "content_type": "turkey_greece"
       },
@@ -208,31 +221,13 @@
         "source": "Analysts Watch · Turkey",
         "published": "Fri, 30 Oct 2026 08:17:34 GMT",
         "base_score": 75,
-        "candidate_score": 85,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Cihat Yaycı",
           "Cihat Yaycı"
         ],
         "content_type": "analyst"
-      },
-      {
-        "external_id": "ddec676f3fc2997c0252211e",
-        "mode": "geopolitico",
-        "title": "Pakistani Court Sentences Two Human Rights Lawyers to 10 Years Under Anti-Terrorism Law - Ratopati",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2VPNUZZZzQyUVM3bjJZOGhYOFRIZ3RoSDVqaVJuV3cwUnpwd3FXYWE5UlZicWRpTzh2SVlFUU9JdHlpTWtLMS1PYjhlSHdJMjRYUy1MUk5kSGQ4dlpCT1BfQk5qazFmNE9makRMS2plNzc1TU5Ec1E4LVdpSUtObzg5WDBDeGdDcGUxbFJ3XzNzVzRfUnJNVGFYdmkxazJha3FjT0Jxaw?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Thu, 29 Oct 2026 16:57:03 GMT",
-        "base_score": 82,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "Pakistan",
-          "Pakistani",
-          "human rights",
-          "terrorism"
-        ],
-        "content_type": "news"
       },
       {
         "external_id": "c973df93d62e24d6d294c79b",
@@ -253,6 +248,23 @@
     ],
     "pontos_voice": [
       {
+        "external_id": "b711b35b2a66ea156ef56a9f",
+        "mode": "pontos_voice",
+        "title": "Παναγία Σουμελά: Αναχώρησε από την Κρήτη η εικόνα – Τελευταία στάση στο στρατόπεδο Ρεθύμνου - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLW5qX1k4ZXBaVzZMN0FsNGRITmUwOEI5TjZaMTFDWi1NTGhDT29tb29JS1FoLVpuc3hFeGUzMEtqbkR0VEZrQjg4TGlwd0J5M0ZGenQxd0xOT3BwVjdlWExnX2VzTHZrUExoY3NBR1FmVDdpUW9TZGRIdEdxQ0RERU9FcVVBYjV5THNXTGhBYTR4UDh5VTNqVDdpZGVHRkZQZnlsaWhpWQ?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Fri, 30 Oct 2026 15:27:13 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "Παναγία Σουμελά",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "bc51030b642b82be7e4d0120",
         "mode": "pontos_voice",
         "title": "Τορόντο: Περηφάνεια για την ομογένεια και την Αδελφότητα Ποντίων «Παναγία Σουμελά» στην παρέλαση της 28ης Οκτωβρίου - pontosnews.gr",
@@ -270,91 +282,77 @@
         "content_type": "news"
       },
       {
-        "external_id": "1f1d7fc9d049f0c72535611f",
+        "external_id": "86c4821861c8777e67d0103f",
         "mode": "pontos_voice",
-        "title": "Doğu Karadeniz'in balları görücüye çıktı",
-        "url": "https://www.61saat.com/dogu-karadenizin-ballari-gorucuye-cikti",
+        "title": "Trabzonspor açıkladı! Franculino Dju ve Aral Şimşir’in sağlık durumları...",
+        "url": "https://www.61saat.com/trabzonspor-acikladi-franculino-dju-ve-aral-simsirin-saglik-durumlari",
         "source": "61Saat Trabzon",
-        "published": "Fri, 30 Oct 2026 13:52:00 +0300",
-        "base_score": 78,
-        "candidate_score": 88,
+        "published": "Fri, 30 Oct 2026 19:19:00 +0300",
+        "base_score": 70,
+        "candidate_score": 80,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
-          "Gümüşhane",
-          "Rize",
-          "anıt",
-          "Trabzon",
-          "Karadeniz"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "be8071b5cf1aa427b0cb82f6",
-        "mode": "pontos_voice",
-        "title": "Πλήθος πιστών στο Ρέθυμνο για την Παναγία Σουμελά – Η λιτάνευση της Ιερής Εικόνας (pics) - patris.gr",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEdBaGR4bUhFS2FFTzktQlBoNFZiV19CRGNVWHVkTG9jeEhiUzhadU5vLXdUMkh3QS1MWngySXFaWGtHd1FoeW5wZnZVUE1COEdFYmZPVVFFNmE0U0t5YzhQNEc0ZGlZeFU0NkM3SEVuRDFyNWpMV2Y5LWJhQzN2N3VBcE9udXdPMnJZdzBOc1VQVGRBNXVSbDFWRzVjSkRNZHhYSVNwWXMzUnFjOE00?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 28 Oct 2026 17:43:06 GMT",
-        "base_score": 86,
-        "candidate_score": 86,
-        "priority": "High",
-        "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "166d6736ec14e3e9f1753833",
-        "mode": "pontos_voice",
-        "title": "Ρέθυμνο: Λαοθάλασσα για την Παναγία Σουμελά – Συγκινητικές στιγμές στην κοινή λιτάνευση με την εικόνα των Τεσσάρων Μαρτύρων (pics, vid) - NeaKriti",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWdVOWV5aEppNnNHUFVFV3JieWlmWkV3ZkdZaGxPWE1YQnJCbVdGd0c1RzVkYnRzWl9JQUFjTDdEVWtzejdQUDE2RXNqbEFLX1VNMmFkQ3Z3NnZJZFREX0lHd25yazQ3N0RrTVI5WmJIWkczQUlyZE9wRFJCRkFVYlRSaE51amt6NVZoYmpIbm1yRGxtRWlwb3NnUS1SNlBUdUtrMl9kZzlRaHoxcVRfRWN2QmRWMDBCUl84SHEyT3LSAcYBQVVfeXFMUHN6TkxrMUFFX0ltVm1WdFp0ZVFfcjVBbllNNVJmdXpIUThRVkI4UzRReWplVW9vNkFiaFZmWlJWN0lsanlveHlmcUxZd0NPR0VrT0Vlcmt3TjcyMHdKQVUteHk4TWhuMnEzMDJZRk1YWDVxb2t6MV9fakZPU0R3eUVzSldwWUJOU0doOWJwaEdPWGlKekxpM2M0bDRfS19ZcnhIbzFMazNBeWxYbmhpeU9PY2J2MXB2UEpiaDl3RHBvZ1QxUnVR?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 28 Oct 2026 17:31:35 GMT",
-        "base_score": 86,
-        "candidate_score": 86,
-        "priority": "High",
-        "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "e51e6a08548e90a86a9c0b6f",
-        "mode": "pontos_voice",
-        "title": "Karaismailoğlu: Trabzon'un yüzyılına hizmet edecek!",
-        "url": "https://www.61saat.com/karaismailoglu-trabzonun-yuzyilina-hizmet-edecek",
-        "source": "61Saat Trabzon",
-        "published": "Fri, 30 Oct 2026 14:27:00 +0300",
-        "base_score": 59,
-        "candidate_score": 74,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "milletvekili",
+          "Rumlar",
+          "Of",
           "açıklama",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "39550eb951b28a4010c11147",
+        "mode": "pontos_voice",
+        "title": "Bir dönem Cumhurbaşkanı Erdoğan'ın da doktorluğunu yapan Trabzonlu Cevdet Erdöl'ün acı günü!",
+        "url": "https://www.61saat.com/bir-donem-cumhurbaskani-erdoganin-da-doktorlugunu-yapan-trabzonlu-cevdet-erdolun-aci-gunu",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 30 Oct 2026 21:26:00 +0300",
+        "base_score": 60,
+        "candidate_score": 75,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "Of",
+          "milletvekili",
           "Trabzon",
           "dil"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "e14de5b6e8354d94ac680c42",
+        "external_id": "aa27a85647bfa77fa5778287",
         "mode": "pontos_voice",
-        "title": "İYİ Parti Trabzon’da 7 Kasım mitingi hazırlıkları sürüyor! Şalpazarı’nda bir araya geldiler",
-        "url": "https://www.61saat.com/iyi-parti-trabzonda-7-kasim-mitingi-hazirliklari-suruyor-salpazarinda-bir-araya-geldiler",
+        "title": "Trabzon Gastronomi Festivali’ne yoğun ilgi sürüyor",
+        "url": "https://www.61saat.com/trabzon-gastronomi-festivaline-yogun-ilgi-suruyor",
         "source": "61Saat Trabzon",
-        "published": "Fri, 30 Oct 2026 16:46:00 +0300",
-        "base_score": 53,
-        "candidate_score": 68,
+        "published": "Fri, 30 Oct 2026 17:40:00 +0300",
+        "base_score": 60,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "belediye başkanı",
+          "Trabzon",
+          "dil",
+          "vali"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e11286d73a067b852858732a",
+        "mode": "pontos_voice",
+        "title": "Trabzon Gastronomi Festivali’nde tereyağı krizi! Tonya Belediyesi standını kapattı - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWIybDVyWHl5aERGYkpSWGZQeGdhYU8zNlVfUWhGSEo2aGlQR212VVpMdzdHUVAtSXdwZXBabzFZcUZNVE5PVGdHYWo1ZWFHYXAyUjI4Mk9wZU9QalJ1Q0VRZTdxTGRXSGxJVG5GUU04aVZTQmp3MmxDQll0VENoRW1tV2U5bjN1UlZrWndWRXhVTlExVUszeGwyQ3p5NGhhamZYVEI4NTFMQUlHUnhvYTJTQmViT0ZENG94NQ?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 30 Oct 2026 09:30:00 GMT",
+        "base_score": 48,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "milletvekili",
+          "Tonya",
           "Trabzon",
-          "dil"
+          "vali"
         ],
         "content_type": "news"
       }
@@ -369,7 +367,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 30 Oct 2026 00:56:02 GMT",
       "base_score": 89,
-      "candidate_score": 103,
+      "candidate_score": 100,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -382,6 +380,26 @@
       "team": "Olympiacos",
       "readiness": "READY",
       "needs_second_source": false
+    },
+    {
+      "external_id": "4a6270ce54e890597328dbcd",
+      "mode": "sportdog",
+      "title": "Ronaldo Transfer from Rostov to PAOK - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PNGhRN00yaGYydzhnS09LSW1RUHdTa0tpU2xzRDhLVFBRYkxWOXE1WmpBbDdmOFk5TkRoT1BHeVpBZ3RvQjh0QVRhSFlhSDBMRmdpZ19pZVdQNWtWZnF6QnNJSW54ZmtOOFNidVlBaWdOMjVUeEE?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Fri, 30 Oct 2026 08:50:49 GMT",
+      "base_score": 58,
+      "candidate_score": 84,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "1be27c007578fa4eb50d29f6",
@@ -411,7 +429,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 29 Oct 2026 09:44:41 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 76,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -424,44 +442,41 @@
       "needs_second_source": true
     },
     {
-      "external_id": "e5e94b6df14a0b775e798699",
+      "external_id": "ff73ed77be243e69d5ebcc88",
       "mode": "sportdog",
-      "title": "(Updates)! Levski Sofia v AEK Athens Live Free UCL UEFA Champions League Coverage August 18, 2026 - Port of Rotterdam",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxONGluLW9nMnNSMmVjcVpsak1NMDRfT204Q3ZnU0RWY0lzWndud0NBenhWZmJUVTFkeUJlWENFRmEyczJ3RGhvandGRWs5Yy1iRmZpOXBkRVBaeTg0cXFBX0twc0l0enIzZDJ6TDcwbWdsWGd4dGJHcEZiLV9HeDBTRGlqdUM1RXVkRFdzbmtPWVFlZHBGUDF1dThKZG9kOE5fd0QtNF93RFdtaE1oRW5taW10c21tYkFVLWZVeE9PMTBScktCZmszck9KYWdURzdmUkk2clFyQW1PYjNMVjVpRElkTVp6Rnl0WTdlYXZKZHVwaXZ4RmN6VXA2MEpGM0xlZzdBdmI0S3VaUFRpaExoNVRhdVAyeHlZN3NhX29zbVhQOHJ5YjJYME9LRzJJVXptOUh6VktSZw?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Thu, 29 Oct 2026 22:31:19 GMT",
-      "base_score": 50,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "Champions League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "b7e6f843f7e0661bccda34d7",
-      "mode": "sportdog",
-      "title": "Olympiacos target Sabah defender Steve Solvet amid Saudi interest - İdman.Biz",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mcU1HcVg3Z1BQREdxMEVNNjV1Mm1KSDZMRmRIRy1Yc2U0aEpzNjZvTkJ2alNVeWNBbzBjYTJCcDdzVTlwdVFfRm9sRXJKSk55MFVtNzFxbjg?oc=5",
+      "title": "[ＭＡＴＣＨ!LIVE] Olimpia Milano v Olympiacos Piraeus LIVE Stream - Port of Rotterdam",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPMDBBcExBeXQxd2czOWxBN2Zzdlphd3VpZ2R4cW9CUkh2MGxjTExoTTFrWGR0SFd2SzJaNG8wZ3llekhJVVNXZHlEVHlzclhtaU00c3lFdy11X1o5b0xYN0JUZTZVY19ZaFZveXJyS2RYUlcydHN0WVpIejlCVVlKZ2NIMnVjVDdjWENreVJhblFDc0JGckIxQ3Y4ZHdYaUROcEYyVHVWTFlFbU40Rm5pZ3dITlBJcnRMVExlTkRMdXlmaW4yN3NGZDBhY0JQU0c2dHBya2ptUlRWbHZRaEVuS0dmWXZJYUdqMHExaFgtZzFmRzRPaWF4ZDJ5c3VLU1NILTF4TVlIR05ZbW9mbTFMYW42ZTRfRW9PLXdVdEREazAwcHVmSnMyM0h1ajlZaURVUy12NTlVU2J3YzNiemRxcDZZS0RKSHQyMnJRLUxxemNtRzVlVEtfUFpCQTUzOThQMGRZalN3eWs0QQ?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 30 Oct 2026 10:29:00 GMT",
-      "base_score": 39,
-      "candidate_score": 57,
+      "published": "Fri, 30 Oct 2026 19:23:56 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos",
-        "defender"
+        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "c9ea60b48b69a7756d0bdd08",
+      "mode": "geopolitico",
+      "title": "Netanyahu Defies Exit Polls to Take Lead in Israeli Election — What It Means for Iran War - Middle East Forum",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3BCT3ZyXzdQbUFtVUtjNGNzOW5obzEtWURkU2RTc2h6V1lIbnZZdXdrby1RamVmeUFQRkd1VXZ3aEd4VGluMWl3Q0ttR0d6LUg2anlkbEJsUTZ0UnNsZzQ1MUNFMk92M0xvSV9UaHllTkljY2QzbXlYcm1rUXRkWjFqazV4bDd5RWY3Z0ItN2o3Ml93MjJGcFVvUTd0VHFFc3JWN3FqdGtYNTBFSHFVRWFId0s1OVBNemFwN2xCNA?oc=5",
+      "source": "Middle East Forum Watch",
+      "published": "Fri, 30 Oct 2026 19:03:01 GMT",
+      "base_score": 96,
+      "candidate_score": 111,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Israel",
+        "Israeli",
+        "Netanyahu",
+        "Iran"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "453aa93e8222bd08e062b36a",
@@ -485,50 +500,15 @@
       "content_type": "news"
     },
     {
-      "external_id": "21e4bf8a508c7c2a4eb17943",
-      "mode": "geopolitico",
-      "title": "Politics behind 22 ancient artifacts: Israel, Greece and Achilles Shield - Türkiye Today",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3c3UEhxZnpleVdFR1BrZ3lLTGFzTTJUQW93ZjhSX0RER3lMVVdDdDg4Z3FZdzd5TUJCWkpkNjdzWkNoLUNpVFFKQXVjWjNHY0FobjVNOXRnbnp6QnlyOEdydmszbkF2TE1neGFxTnhsaG5nQ2cxbjZPalZ1QXhfeVhqVzRwOEpZVjd2dWI4eENRQ05rc3ptUTgwdFRPZVJGbmlBenBQWVBmZENqYnZFMWsxWEVrZ2J3YUpxTzV2a0s?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Thu, 29 Oct 2026 13:03:18 GMT",
-      "base_score": 96,
-      "candidate_score": 99,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Achilles Shield"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "f9f156a278bc86ddeffe68cb",
-      "mode": "geopolitico",
-      "title": "Rum Savunma Bakanı Palmas: İki Yunan F-16’sı ve bir savaş gemisi Güney Kıbrıs’ta kalıcı olacak - Kıbrıs Postası",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeGFCVzhyQ0tOUUlSU2UxNjNHaUdjNUgzSEJGSjFFNTVLWWQzekF3SEU2RldYbklzOUVpMnhJOHV3dWt6cHVyVUx1b0lmNmQ0bmlLYWdMMGdmenZHOEtWMkdFS0J5M2RPWktMaTFOcFh3UXotZkJRSWN5MGFvNzNHWWV4TFJHVmtiSmhnd01RYkhETWFEOTFxQ0c3UmNfZjI4UEM4NFptcXdiRWp6M3lyTnJnbDhSVFctcnVpMVloNUtGYWZlQlRLVUNDLVp2VzRYcHF4a2poNXZHVDBaR2c?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "base_score": 96,
-      "candidate_score": 99,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "F-16",
-        "savunma"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "101a6f0a3a01d14b769a6e8d",
       "mode": "geopolitico",
       "title": "Yunanistan Başbakanı: Türkiye-Libya Deniz Yetki Alanları Anlaşması yasa dışı ve geçersizdir - Şarkul Avsat Türkçe",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLXJ3UDdHa2dkSDUxeGJTSWc2ZktOMVNUcldPWi1WY2Q4UTlyZmpNUWx0TGQybDZacGtLUmpEZUExaUxkYjgxcW5HVjZYZ2tRWGdDUkJ0RUFuS1B6VDNweldKMEJfcnllX043YTFnWXcxREdxSU5lYXdNR0JNekFGek1FMHFzMGpYSzdoa1l0bXBXUjdoYW5wN0hTai1BSWFpM0ZFRmxkZUZkRFZUMXlUN3UzNWlaRWg3YkVsSkFzWkNfY2pxc2xlYXVaRFlrVkRFYVVUeVljb1hsQzI1SU9vZ0JVcmhreFFCQ0ZjdmM5R004RzZnV2cyc3MtdVRudw?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 30 Oct 2026 11:55:56 GMT",
-      "base_score": 81,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Fri, 30 Oct 2026 17:31:36 GMT",
+      "base_score": 78,
+      "candidate_score": 93,
+      "priority": "High",
       "matched_keywords": [
         "Yunanistan",
         "deniz yetki alanları"
@@ -536,19 +516,50 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "2060a6727680d234d8929e3f",
+      "external_id": "b33a6400fd84ade4f9b9c0ba",
       "mode": "geopolitico",
-      "title": "Yunan F-16’ları Güney Kıbrıs’ta kalıcı konuşlanacak - Haber Aero",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTQ5MmJRajdrWmI5eFQyZ2hoeEY2QmxtcGpPUWZhQ3N3ZmdKanBSOTRLRUxoMjlmaEU2Z2xxOVhKWmQ5ZzkwQ3MtMnFwaThsVlVtV1phV3JhTzAyam9jTTEzcE9ZY2Y1N2YxWHYzR1p3UHRDYlRTT0ZhRG1kcDBxdk03VU1PLURs?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Thu, 29 Oct 2026 10:27:35 GMT",
-      "base_score": 84,
-      "candidate_score": 87,
+      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi’den seçim kulisi: Özgür Özel aday olursa Mansur Yavaş ne yapar? - Şok Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2laVUZLZXRKb3dXS2hkWFpEb0l3WFRpZ0dkeTNxVURKbmNlbHRNQmlqeGxURk9QeE1Ub3hPejhFZllzdXhpbkV3b3ppQ0FwUGJXUXRsQTBrZTRtT0ZQWFRidndYb1JXQWZkYWN1b0xFbUNRaUFSeXVBOEpXQms4cXNQRldXaWpTTUZWX0VnaDlzeHpUcUY1cmF2YlUwVkFmM1VscEEtTDJLMFJF?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Fri, 30 Oct 2026 18:27:00 GMT",
+      "base_score": 75,
+      "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "F-16"
+        "Abdulkadir Selvi",
+        "Abdulkadir Selvi"
+      ],
+      "content_type": "analyst"
+    },
+    {
+      "external_id": "757bf5ca1c25683125b996fe",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Σάββας Καλεντερίδης — Σάββας Καλεντερίδης: Περί προληπτικής διπλωματίας και «Γαλάζιας Παράνοιας» - εφημερίδα δημοκρατία",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGNfQXFmRk8xNmhScmpIMy1ZX20yWTFYQlpvQ09aNE5MXzRaNTViZUpTRXVwU0dSeHk1SHJtYmVwbUZNLTlrMDR5M0ctdEpWY3lNOTEyS013OVMzeWg0QUJPSmxUazZiNlEwTE41VEp4bVhOanlzdldILWVUcGJDNktIeWQtZVJQSDB4WHlSVU1CZ1E1aEtyU29B?oc=5",
+      "source": "Analysts Watch · Greece",
+      "published": "Fri, 30 Oct 2026 16:29:46 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Σάββας Καλεντερίδης",
+        "Σάββας Καλεντερίδης"
+      ],
+      "content_type": "analyst"
+    },
+    {
+      "external_id": "296e5993f430816922cce0c2",
+      "mode": "geopolitico",
+      "title": "Yunanistanlı emekli general Konstantinos Floros'tan Türkiye'ye tehdit! Doğu Akdeniz'de sahayı işaret etti - Avaz Türk",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVdESXAwMUdndmpuOFJpbk1kX01rcnlKUHg0RWhIdXJOaXVMWFBwaGJQMHVIS3pvWl85TmdCc2Q5WEpTZ01XVWpybEhmSmJHY0FEcE53LVp2OEc0c2w0d1JZUUdMeHBjVlQ5UTVtbjVady1ONUN0WUd0WlBtQUEzdWRUbjZiaWl5aUdybGhXYW9jT2pDZnFVQzJuM1BUMU51TmdpNE50TWJhVzZRcnRObjgtNjZzVWxtWWfSAcoBQVVfeXFMUFd3bmRoNHNwaE01NThEU3NKbHhjLVBSLUlfV0RsOE5yN0l1TlhmTHdOOTBicW9BOVl3eHdENURXbHRZNFktNXktS0FYcWtvRUhRdEJBMnZ5c1liMlNhTTJkd2EyUTcxUEpod2tILVVPXzhFVE1ZZ3M5bVZCSkJFOFNKTkpUZFlfTHY1MTVpRXFzV28zUnZ0SWlpS1I5c0Z0VkRYLVJ2YzVyNUlrdW8yV0VnSHMzT09qVUxOZlU4S1lSTUVuZ203R2hBUQ?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Fri, 30 Oct 2026 13:55:28 GMT",
+      "base_score": 72,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "Yunanistan",
+        "Doğu Akdeniz"
       ],
       "content_type": "turkey_greece"
     },
@@ -560,31 +571,13 @@
       "source": "Analysts Watch · Turkey",
       "published": "Fri, 30 Oct 2026 08:17:34 GMT",
       "base_score": 75,
-      "candidate_score": 85,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Cihat Yaycı",
         "Cihat Yaycı"
       ],
       "content_type": "analyst"
-    },
-    {
-      "external_id": "ddec676f3fc2997c0252211e",
-      "mode": "geopolitico",
-      "title": "Pakistani Court Sentences Two Human Rights Lawyers to 10 Years Under Anti-Terrorism Law - Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2VPNUZZZzQyUVM3bjJZOGhYOFRIZ3RoSDVqaVJuV3cwUnpwd3FXYWE5UlZicWRpTzh2SVlFUU9JdHlpTWtLMS1PYjhlSHdJMjRYUy1MUk5kSGQ4dlpCT1BfQk5qazFmNE9makRMS2plNzc1TU5Ec1E4LVdpSUtObzg5WDBDeGdDcGUxbFJ3XzNzVzRfUnJNVGFYdmkxazJha3FjT0Jxaw?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Thu, 29 Oct 2026 16:57:03 GMT",
-      "base_score": 82,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "Pakistan",
-        "Pakistani",
-        "human rights",
-        "terrorism"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "c973df93d62e24d6d294c79b",
@@ -601,6 +594,23 @@
         "Abdulkadir Selvi"
       ],
       "content_type": "analyst"
+    },
+    {
+      "external_id": "b711b35b2a66ea156ef56a9f",
+      "mode": "pontos_voice",
+      "title": "Παναγία Σουμελά: Αναχώρησε από την Κρήτη η εικόνα – Τελευταία στάση στο στρατόπεδο Ρεθύμνου - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLW5qX1k4ZXBaVzZMN0FsNGRITmUwOEI5TjZaMTFDWi1NTGhDT29tb29JS1FoLVpuc3hFeGUzMEtqbkR0VEZrQjg4TGlwd0J5M0ZGenQxd0xOT3BwVjdlWExnX2VzTHZrUExoY3NBR1FmVDdpUW9TZGRIdEdxQ0RERU9FcVVBYjV5THNXTGhBYTR4UDh5VTNqVDdpZGVHRkZQZnlsaWhpWQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Fri, 30 Oct 2026 15:27:13 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "Παναγία Σουμελά",
+        "Σουμελά"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "bc51030b642b82be7e4d0120",
@@ -620,91 +630,77 @@
       "content_type": "news"
     },
     {
-      "external_id": "1f1d7fc9d049f0c72535611f",
+      "external_id": "86c4821861c8777e67d0103f",
       "mode": "pontos_voice",
-      "title": "Doğu Karadeniz'in balları görücüye çıktı",
-      "url": "https://www.61saat.com/dogu-karadenizin-ballari-gorucuye-cikti",
+      "title": "Trabzonspor açıkladı! Franculino Dju ve Aral Şimşir’in sağlık durumları...",
+      "url": "https://www.61saat.com/trabzonspor-acikladi-franculino-dju-ve-aral-simsirin-saglik-durumlari",
       "source": "61Saat Trabzon",
-      "published": "Fri, 30 Oct 2026 13:52:00 +0300",
-      "base_score": 78,
-      "candidate_score": 88,
+      "published": "Fri, 30 Oct 2026 19:19:00 +0300",
+      "base_score": 70,
+      "candidate_score": 80,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
-        "Gümüşhane",
-        "Rize",
-        "anıt",
-        "Trabzon",
-        "Karadeniz"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "be8071b5cf1aa427b0cb82f6",
-      "mode": "pontos_voice",
-      "title": "Πλήθος πιστών στο Ρέθυμνο για την Παναγία Σουμελά – Η λιτάνευση της Ιερής Εικόνας (pics) - patris.gr",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEdBaGR4bUhFS2FFTzktQlBoNFZiV19CRGNVWHVkTG9jeEhiUzhadU5vLXdUMkh3QS1MWngySXFaWGtHd1FoeW5wZnZVUE1COEdFYmZPVVFFNmE0U0t5YzhQNEc0ZGlZeFU0NkM3SEVuRDFyNWpMV2Y5LWJhQzN2N3VBcE9udXdPMnJZdzBOc1VQVGRBNXVSbDFWRzVjSkRNZHhYSVNwWXMzUnFjOE00?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 28 Oct 2026 17:43:06 GMT",
-      "base_score": 86,
-      "candidate_score": 86,
-      "priority": "High",
-      "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "166d6736ec14e3e9f1753833",
-      "mode": "pontos_voice",
-      "title": "Ρέθυμνο: Λαοθάλασσα για την Παναγία Σουμελά – Συγκινητικές στιγμές στην κοινή λιτάνευση με την εικόνα των Τεσσάρων Μαρτύρων (pics, vid) - NeaKriti",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWdVOWV5aEppNnNHUFVFV3JieWlmWkV3ZkdZaGxPWE1YQnJCbVdGd0c1RzVkYnRzWl9JQUFjTDdEVWtzejdQUDE2RXNqbEFLX1VNMmFkQ3Z3NnZJZFREX0lHd25yazQ3N0RrTVI5WmJIWkczQUlyZE9wRFJCRkFVYlRSaE51amt6NVZoYmpIbm1yRGxtRWlwb3NnUS1SNlBUdUtrMl9kZzlRaHoxcVRfRWN2QmRWMDBCUl84SHEyT3LSAcYBQVVfeXFMUHN6TkxrMUFFX0ltVm1WdFp0ZVFfcjVBbllNNVJmdXpIUThRVkI4UzRReWplVW9vNkFiaFZmWlJWN0lsanlveHlmcUxZd0NPR0VrT0Vlcmt3TjcyMHdKQVUteHk4TWhuMnEzMDJZRk1YWDVxb2t6MV9fakZPU0R3eUVzSldwWUJOU0doOWJwaEdPWGlKekxpM2M0bDRfS19ZcnhIbzFMazNBeWxYbmhpeU9PY2J2MXB2UEpiaDl3RHBvZ1QxUnVR?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 28 Oct 2026 17:31:35 GMT",
-      "base_score": 86,
-      "candidate_score": 86,
-      "priority": "High",
-      "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "e51e6a08548e90a86a9c0b6f",
-      "mode": "pontos_voice",
-      "title": "Karaismailoğlu: Trabzon'un yüzyılına hizmet edecek!",
-      "url": "https://www.61saat.com/karaismailoglu-trabzonun-yuzyilina-hizmet-edecek",
-      "source": "61Saat Trabzon",
-      "published": "Fri, 30 Oct 2026 14:27:00 +0300",
-      "base_score": 59,
-      "candidate_score": 74,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "milletvekili",
+        "Rumlar",
+        "Of",
         "açıklama",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "39550eb951b28a4010c11147",
+      "mode": "pontos_voice",
+      "title": "Bir dönem Cumhurbaşkanı Erdoğan'ın da doktorluğunu yapan Trabzonlu Cevdet Erdöl'ün acı günü!",
+      "url": "https://www.61saat.com/bir-donem-cumhurbaskani-erdoganin-da-doktorlugunu-yapan-trabzonlu-cevdet-erdolun-aci-gunu",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 30 Oct 2026 21:26:00 +0300",
+      "base_score": 60,
+      "candidate_score": 75,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "Of",
+        "milletvekili",
         "Trabzon",
         "dil"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "e14de5b6e8354d94ac680c42",
+      "external_id": "aa27a85647bfa77fa5778287",
       "mode": "pontos_voice",
-      "title": "İYİ Parti Trabzon’da 7 Kasım mitingi hazırlıkları sürüyor! Şalpazarı’nda bir araya geldiler",
-      "url": "https://www.61saat.com/iyi-parti-trabzonda-7-kasim-mitingi-hazirliklari-suruyor-salpazarinda-bir-araya-geldiler",
+      "title": "Trabzon Gastronomi Festivali’ne yoğun ilgi sürüyor",
+      "url": "https://www.61saat.com/trabzon-gastronomi-festivaline-yogun-ilgi-suruyor",
       "source": "61Saat Trabzon",
-      "published": "Fri, 30 Oct 2026 16:46:00 +0300",
-      "base_score": 53,
-      "candidate_score": 68,
+      "published": "Fri, 30 Oct 2026 17:40:00 +0300",
+      "base_score": 60,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "belediye başkanı",
+        "Trabzon",
+        "dil",
+        "vali"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e11286d73a067b852858732a",
+      "mode": "pontos_voice",
+      "title": "Trabzon Gastronomi Festivali’nde tereyağı krizi! Tonya Belediyesi standını kapattı - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWIybDVyWHl5aERGYkpSWGZQeGdhYU8zNlVfUWhGSEo2aGlQR212VVpMdzdHUVAtSXdwZXBabzFZcUZNVE5PVGdHYWo1ZWFHYXAyUjI4Mk9wZU9QalJ1Q0VRZTdxTGRXSGxJVG5GUU04aVZTQmp3MmxDQll0VENoRW1tV2U5bjN1UlZrWndWRXhVTlExVUszeGwyQ3p5NGhhamZYVEI4NTFMQUlHUnhvYTJTQmViT0ZENG94NQ?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "base_score": 48,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "milletvekili",
+        "Tonya",
         "Trabzon",
-        "dil"
+        "vali"
       ],
       "content_type": "news"
     }
