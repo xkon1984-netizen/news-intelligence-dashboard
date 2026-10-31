@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T23:19:29.728313+00:00",
+  "generated_at": "2026-10-31T02:33:03.241632+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -57,7 +57,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 29 Oct 2026 18:32:25 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 76,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -66,6 +66,26 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "e5e94b6df14a0b775e798699",
+        "mode": "sportdog",
+        "title": "(Updates)! Levski Sofia v AEK Athens Live Free UCL UEFA Champions League Coverage August 18, 2026 - Port of Rotterdam",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxONGluLW9nMnNSMmVjcVpsak1NMDRfT204Q3ZnU0RWY0lzWndud0NBenhWZmJUVTFkeUJlWENFRmEyczJ3RGhvandGRWs5Yy1iRmZpOXBkRVBaeTg0cXFBX0twc0l0enIzZDJ6TDcwbWdsWGd4dGJHcEZiLV9HeDBTRGlqdUM1RXVkRFdzbmtPWVFlZHBGUDF1dThKZG9kOE5fd0QtNF93RFdtaE1oRW5taW10c21tYkFVLWZVeE9PMTBScktCZmszck9KYWdURzdmUkk2clFyQW1PYjNMVjVpRElkTVp6Rnl0WTdlYXZKZHVwaXZ4RmN6VXA2MEpGM0xlZzdBdmI0S3VaUFRpaExoNVRhdVAyeHlZN3NhX29zbVhQOHJ5YjJYME9LRzJJVXptOUh6VktSZw?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Thu, 29 Oct 2026 22:31:19 GMT",
+        "base_score": 50,
+        "candidate_score": 61,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -108,28 +128,27 @@
         "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "920e900a7d976b775729b8e4",
-        "mode": "sportdog",
-        "title": "Panathinaikos - Brighton - Flashscore.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY09mZlRfcjd0TnlPOE5NSV9tOHIweTlLNy1nclhTRTJIazRoRnRSdnZMb0dldDBuQ3dWTDNRekJIUjk4X0ZEUVNOVDM5WGg4VlUybjBZOWd2dUljMlBiblFHX0VGSEhvSUxiWmhQLUdROXN4cUtoXy1mampQd0lBQlVyajM5Y0ZjUWYw?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 30 Oct 2026 01:45:23 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "9da3af3e9edda7deb1884a30",
+        "mode": "geopolitico",
+        "title": "What Israel Elections Means for Greece as Aegean Tensions Rise - Greek City Times",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVFjVUthMzlmcF9YTFBtX2d2ZDFycjVjbmhPM2Jlb1JiWWQzNmRlUVZTbHBGMVM0cXI5dnJUclJhMHA2ckZLc01sR015MXVIdDNtRGhBMUZTRVdNLWxub0NtcUJlZjZRdnBzSGQtODhiYmRjVzRYaGM5YnUxc0lQUVpQNGdrZlZ0bkxqSm41aHNjWjBiak5YOC1FSXJXdmlQdDQ0?oc=5",
+        "source": "Cyprus Eastern Mediterranean Watch",
+        "published": "Sat, 31 Oct 2026 01:20:51 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Aegean",
+          "Ege"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "c9ea60b48b69a7756d0bdd08",
         "mode": "geopolitico",
@@ -149,22 +168,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "7f8ce295190766627afda936",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Namık Tan — Namık Tan | ABD ara seçimleri: Demokrasi mi, otoriteryenlik tercihi mi? - T24",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekJRdmk2TTdBNkkzV3hjVUNqSGpuRGNrY2MtWWVlNFJhX3NpcVZVUnR2dGdzcEZvZ2xMOFFmVEZycEdYd0paNGNuQTNsZU90VlhqVmZOeFZXZ0UyUVFNRmZpaUphUkJMVE0tTUotUTNCY0p1RkxtS2JGb1BQcXd3cW5YWkMwakthWGsyVUoxSGVidkxXcE9TYWZkSnF4TVMwSGc?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Fri, 30 Oct 2026 21:00:00 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Namık Tan",
-          "Namık Tan"
-        ],
-        "content_type": "analyst"
-      },
-      {
         "external_id": "101a6f0a3a01d14b769a6e8d",
         "mode": "geopolitico",
         "title": "Yunanistan Başbakanı: Türkiye-Libya Deniz Yetki Alanları Anlaşması yasa dışı ve geçersizdir - Şarkul Avsat Türkçe",
@@ -172,7 +175,7 @@
         "source": "Eastern Mediterranean Turkey Watch",
         "published": "Fri, 30 Oct 2026 17:31:36 GMT",
         "base_score": 78,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Yunanistan",
@@ -188,7 +191,7 @@
         "source": "Analysts Watch · Turkey",
         "published": "Fri, 30 Oct 2026 18:27:00 GMT",
         "base_score": 75,
-        "candidate_score": 85,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Abdulkadir Selvi",
@@ -204,7 +207,7 @@
         "source": "Analysts Watch · Greece",
         "published": "Fri, 30 Oct 2026 16:29:46 GMT",
         "base_score": 75,
-        "candidate_score": 85,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Σάββας Καλεντερίδης",
@@ -213,32 +216,30 @@
         "content_type": "analyst"
       },
       {
-        "external_id": "e56e42b3e8ee09972bff9411",
+        "external_id": "19166bd96682d7017fd78863",
         "mode": "geopolitico",
-        "title": "Syria’s counterterrorism dilemma: Who can Washington trust? - Foundation for Defense of Democracies",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRG05YUN5T0t4cHpxUENMd0ZqLURLMmxraEtzQnpOUzBVbjlUWnRLQm5YbEV2OUIyV2pONUNiNEhYeHJsUklpQjd0X2pDaDM2eHlGN0did3RKMlc2NERuTE1Gc09iYm9yWXEwbDVLU1lud1g5Sm5VNjFwOUg3Z1BnVDZjZlJyRm5YUThJVnhMOA?oc=5",
-        "source": "Foundation for Defense of Democracies FDD",
-        "published": "Fri, 30 Oct 2026 22:41:15 GMT",
-        "base_score": 66,
+        "title": "[ANALYST WATCH] Michael Rubin — Michael Rubin - 2012-10-25 - The Ten Best Serial Entrepreneurs You've Never Heard Of - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KMDN6NW1xWm95dVFOMklyMnVfQ2tPd1d2Y3VFd014T0gyWUt0RGd6RmI3bU9PWkVON3RUS19zVXU5UmlyY1VKUWZYbG9VeVIzc3QzdUEzcHVTODVFMUVrb1MzM3JsbmVkeGhFSE5oWnJ5ekYtRkFWd1B3?oc=5",
+        "source": "Analysts Watch · United States",
+        "published": "Fri, 30 Oct 2026 14:55:57 GMT",
+        "base_score": 75,
         "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
-          "Syria",
-          "terrorism",
-          "counterterrorism",
-          "defense"
+          "Michael Rubin",
+          "Michael Rubin"
         ],
-        "content_type": "news"
+        "content_type": "analyst"
       },
       {
         "external_id": "296e5993f430816922cce0c2",
         "mode": "geopolitico",
         "title": "Yunanistanlı emekli general Konstantinos Floros'tan Türkiye'ye tehdit! Doğu Akdeniz'de sahayı işaret etti - Avaz Türk",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVdESXAwMUdndmpuOFJpbk1kX01rcnlKUHg0RWhIdXJOaXVMWFBwaGJQMHVIS3pvWl85TmdCc2Q5WEpTZ01XVWpybEhmSmJHY0FEcE53LVp2OEc0c2w0d1JZUUdMeHBjVlQ5UTVtbjVady1ONUN0WUd0WlBtQUEzdWRUbjZiaWl5aUdybGhXYW9jT2pDZnFVQzJuM1BUMU51TmdpNE50TWJhVzZRcnRObjgtNjZzVWxtWWfSAcoBQVVfeXFMUFd3bmRoNHNwaE01NThEU3NKbHhjLVBSLUlfV0RsOE5yN0l1TlhmTHdOOTBicW9BOVl3eHdENURXbHRZNFktNXktS0FYcWtvRUhRdEJBMnZ5c1liMlNhTTJkd2EyUTcxUEpod2tILVVPXzhFVE1ZZ3M5bVZCSkJFOFNKTkpUZFlfTHY1MTVpRXFzV28zUnZ0SWlpS1I5c0Z0VkRYLVJ2YzVyNUlrdW8yV0VnSHMzT09qVUxOZlU4S1lSTUVuZ203R2hBUQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
+        "source": "Eastern Mediterranean Turkey Watch",
         "published": "Fri, 30 Oct 2026 13:55:28 GMT",
-        "base_score": 75,
-        "candidate_score": 81,
+        "base_score": 72,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "Yunanistan",
@@ -254,7 +255,7 @@
         "source": "Analysts Watch · Turkey",
         "published": "Fri, 30 Oct 2026 08:17:34 GMT",
         "base_score": 75,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "Cihat Yaycı",
@@ -272,7 +273,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 30 Oct 2026 15:27:13 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -306,7 +307,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 30 Oct 2026 19:19:00 +0300",
         "base_score": 70,
-        "candidate_score": 80,
+        "candidate_score": 76,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
@@ -325,8 +326,8 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 30 Oct 2026 21:26:00 +0300",
         "base_score": 60,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 66,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "Of",
@@ -426,7 +427,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 29 Oct 2026 18:32:25 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 76,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -435,6 +436,26 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "e5e94b6df14a0b775e798699",
+      "mode": "sportdog",
+      "title": "(Updates)! Levski Sofia v AEK Athens Live Free UCL UEFA Champions League Coverage August 18, 2026 - Port of Rotterdam",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxONGluLW9nMnNSMmVjcVpsak1NMDRfT204Q3ZnU0RWY0lzWndud0NBenhWZmJUVTFkeUJlWENFRmEyczJ3RGhvandGRWs5Yy1iRmZpOXBkRVBaeTg0cXFBX0twc0l0enIzZDJ6TDcwbWdsWGd4dGJHcEZiLV9HeDBTRGlqdUM1RXVkRFdzbmtPWVFlZHBGUDF1dThKZG9kOE5fd0QtNF93RFdtaE1oRW5taW10c21tYkFVLWZVeE9PMTBScktCZmszck9KYWdURzdmUkk2clFyQW1PYjNMVjVpRElkTVp6Rnl0WTdlYXZKZHVwaXZ4RmN6VXA2MEpGM0xlZzdBdmI0S3VaUFRpaExoNVRhdVAyeHlZN3NhX29zbVhQOHJ5YjJYME9LRzJJVXptOUh6VktSZw?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Thu, 29 Oct 2026 22:31:19 GMT",
+      "base_score": 50,
+      "candidate_score": 61,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -479,23 +500,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "920e900a7d976b775729b8e4",
-      "mode": "sportdog",
-      "title": "Panathinaikos - Brighton - Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY09mZlRfcjd0TnlPOE5NSV9tOHIweTlLNy1nclhTRTJIazRoRnRSdnZMb0dldDBuQ3dWTDNRekJIUjk4X0ZEUVNOVDM5WGg4VlUybjBZOWd2dUljMlBiblFHX0VGSEhvSUxiWmhQLUdROXN4cUtoXy1mampQd0lBQlVyajM5Y0ZjUWYw?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 30 Oct 2026 01:45:23 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
+      "external_id": "9da3af3e9edda7deb1884a30",
+      "mode": "geopolitico",
+      "title": "What Israel Elections Means for Greece as Aegean Tensions Rise - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVFjVUthMzlmcF9YTFBtX2d2ZDFycjVjbmhPM2Jlb1JiWWQzNmRlUVZTbHBGMVM0cXI5dnJUclJhMHA2ckZLc01sR015MXVIdDNtRGhBMUZTRVdNLWxub0NtcUJlZjZRdnBzSGQtODhiYmRjVzRYaGM5YnUxc0lQUVpQNGdrZlZ0bkxqSm41aHNjWjBiak5YOC1FSXJXdmlQdDQ0?oc=5",
+      "source": "Cyprus Eastern Mediterranean Watch",
+      "published": "Sat, 31 Oct 2026 01:20:51 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Panathinaikos"
+        "Greece",
+        "Israel",
+        "Aegean",
+        "Ege"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "news"
     },
     {
       "external_id": "c9ea60b48b69a7756d0bdd08",
@@ -516,22 +536,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "7f8ce295190766627afda936",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Namık Tan — Namık Tan | ABD ara seçimleri: Demokrasi mi, otoriteryenlik tercihi mi? - T24",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekJRdmk2TTdBNkkzV3hjVUNqSGpuRGNrY2MtWWVlNFJhX3NpcVZVUnR2dGdzcEZvZ2xMOFFmVEZycEdYd0paNGNuQTNsZU90VlhqVmZOeFZXZ0UyUVFNRmZpaUphUkJMVE0tTUotUTNCY0p1RkxtS2JGb1BQcXd3cW5YWkMwakthWGsyVUoxSGVidkxXcE9TYWZkSnF4TVMwSGc?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Fri, 30 Oct 2026 21:00:00 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Namık Tan",
-        "Namık Tan"
-      ],
-      "content_type": "analyst"
-    },
-    {
       "external_id": "101a6f0a3a01d14b769a6e8d",
       "mode": "geopolitico",
       "title": "Yunanistan Başbakanı: Türkiye-Libya Deniz Yetki Alanları Anlaşması yasa dışı ve geçersizdir - Şarkul Avsat Türkçe",
@@ -539,7 +543,7 @@
       "source": "Eastern Mediterranean Turkey Watch",
       "published": "Fri, 30 Oct 2026 17:31:36 GMT",
       "base_score": 78,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Yunanistan",
@@ -555,7 +559,7 @@
       "source": "Analysts Watch · Turkey",
       "published": "Fri, 30 Oct 2026 18:27:00 GMT",
       "base_score": 75,
-      "candidate_score": 85,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Abdulkadir Selvi",
@@ -571,7 +575,7 @@
       "source": "Analysts Watch · Greece",
       "published": "Fri, 30 Oct 2026 16:29:46 GMT",
       "base_score": 75,
-      "candidate_score": 85,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Σάββας Καλεντερίδης",
@@ -580,32 +584,30 @@
       "content_type": "analyst"
     },
     {
-      "external_id": "e56e42b3e8ee09972bff9411",
+      "external_id": "19166bd96682d7017fd78863",
       "mode": "geopolitico",
-      "title": "Syria’s counterterrorism dilemma: Who can Washington trust? - Foundation for Defense of Democracies",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRG05YUN5T0t4cHpxUENMd0ZqLURLMmxraEtzQnpOUzBVbjlUWnRLQm5YbEV2OUIyV2pONUNiNEhYeHJsUklpQjd0X2pDaDM2eHlGN0did3RKMlc2NERuTE1Gc09iYm9yWXEwbDVLU1lud1g5Sm5VNjFwOUg3Z1BnVDZjZlJyRm5YUThJVnhMOA?oc=5",
-      "source": "Foundation for Defense of Democracies FDD",
-      "published": "Fri, 30 Oct 2026 22:41:15 GMT",
-      "base_score": 66,
+      "title": "[ANALYST WATCH] Michael Rubin — Michael Rubin - 2012-10-25 - The Ten Best Serial Entrepreneurs You've Never Heard Of - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KMDN6NW1xWm95dVFOMklyMnVfQ2tPd1d2Y3VFd014T0gyWUt0RGd6RmI3bU9PWkVON3RUS19zVXU5UmlyY1VKUWZYbG9VeVIzc3QzdUEzcHVTODVFMUVrb1MzM3JsbmVkeGhFSE5oWnJ5ekYtRkFWd1B3?oc=5",
+      "source": "Analysts Watch · United States",
+      "published": "Fri, 30 Oct 2026 14:55:57 GMT",
+      "base_score": 75,
       "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
-        "Syria",
-        "terrorism",
-        "counterterrorism",
-        "defense"
+        "Michael Rubin",
+        "Michael Rubin"
       ],
-      "content_type": "news"
+      "content_type": "analyst"
     },
     {
       "external_id": "296e5993f430816922cce0c2",
       "mode": "geopolitico",
       "title": "Yunanistanlı emekli general Konstantinos Floros'tan Türkiye'ye tehdit! Doğu Akdeniz'de sahayı işaret etti - Avaz Türk",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVdESXAwMUdndmpuOFJpbk1kX01rcnlKUHg0RWhIdXJOaXVMWFBwaGJQMHVIS3pvWl85TmdCc2Q5WEpTZ01XVWpybEhmSmJHY0FEcE53LVp2OEc0c2w0d1JZUUdMeHBjVlQ5UTVtbjVady1ONUN0WUd0WlBtQUEzdWRUbjZiaWl5aUdybGhXYW9jT2pDZnFVQzJuM1BUMU51TmdpNE50TWJhVzZRcnRObjgtNjZzVWxtWWfSAcoBQVVfeXFMUFd3bmRoNHNwaE01NThEU3NKbHhjLVBSLUlfV0RsOE5yN0l1TlhmTHdOOTBicW9BOVl3eHdENURXbHRZNFktNXktS0FYcWtvRUhRdEJBMnZ5c1liMlNhTTJkd2EyUTcxUEpod2tILVVPXzhFVE1ZZ3M5bVZCSkJFOFNKTkpUZFlfTHY1MTVpRXFzV28zUnZ0SWlpS1I5c0Z0VkRYLVJ2YzVyNUlrdW8yV0VnSHMzT09qVUxOZlU4S1lSTUVuZ203R2hBUQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
+      "source": "Eastern Mediterranean Turkey Watch",
       "published": "Fri, 30 Oct 2026 13:55:28 GMT",
-      "base_score": 75,
-      "candidate_score": 81,
+      "base_score": 72,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "Yunanistan",
@@ -621,7 +623,7 @@
       "source": "Analysts Watch · Turkey",
       "published": "Fri, 30 Oct 2026 08:17:34 GMT",
       "base_score": 75,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "Cihat Yaycı",
@@ -637,7 +639,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 30 Oct 2026 15:27:13 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -671,7 +673,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 30 Oct 2026 19:19:00 +0300",
       "base_score": 70,
-      "candidate_score": 80,
+      "candidate_score": 76,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
@@ -690,8 +692,8 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 30 Oct 2026 21:26:00 +0300",
       "base_score": 60,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 66,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "Of",
