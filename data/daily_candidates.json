@@ -1,30 +1,28 @@
 {
-  "generated_at": "2026-10-31T08:51:36.445380+00:00",
+  "generated_at": "2026-10-31T14:54:31.035479+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "508a92c01c74f5956a9e76ed",
+        "external_id": "88dc69327f79adc0c8a57c1a",
         "mode": "sportdog",
-        "title": "Olympiacos Interested in Champions League Defender - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEFBZHdLQ0M0YTB2UW1JWWtGa3RXQnNYWEhvU0Z6c3NrRlJJTDBPNnhHUVpsRGZLYW1qTmtVZTluamNCQ2lROUY4NkRmdDBxdjMzMHN2bERoRFplcWpkNzJOaFo3RjJRMW4wdlFrREMtQW1sOGxmVjNaSnlJSUdiWDdvRTI5ZjZja04yQ0ZVb2tuTjBpTnZ2UUtrRGdaZWsxYWIzTVFBLUdoSEloTUZ6NW9n?oc=5",
+        "title": "Bartzokas confirms Olympiacos transfer plan, speaks out on Tyler Dorsey - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWC1NVHVhSUlIWjhxNU9iZmJINEw4ZUFPYURaVUloTDdrZTAxR0wyVVZxUWlpUlM1QS1seTV2WTJ6UDNSX0lsSDJIRFFhTFBKZW1Ga1huV2VqaFdoSlVGMzBjUHByenNvOEI2MG5iMFhFY0kzQWZvbzQ0UVhJZGNWWnNPdHdkVUdRVEJpMVpvbHdvYU1rUzJhYndGUFNJdVBPNk1JR2VmMUFRTjl6WWVxVEc5YWM0bFdmc20wcHlnNTY?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 30 Oct 2026 00:56:02 GMT",
-        "base_score": 89,
-        "candidate_score": 97,
-        "priority": "URGENT",
+        "published": "Sat, 31 Oct 2026 07:24:00 GMT",
+        "base_score": 56,
+        "candidate_score": 86,
+        "priority": "High",
         "matched_keywords": [
           "Olympiacos",
-          "Champions League",
-          "interested in",
-          "defender"
+          "transfer"
         ],
         "content_type": "news",
-        "editorial_type": "Team News",
+        "editorial_type": "Transfer Report",
         "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
@@ -35,9 +33,9 @@
         "title": "Ronaldo Transfer from Rostov to PAOK - TransferFeed",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PNGhRN00yaGYydzhnS09LSW1RUHdTa0tpU2xzRDhLVFBRYkxWOXE1WmpBbDdmOFk5TkRoT1BHeVpBZ3RvQjh0QVRhSFlhSDBMRmdpZ19pZVdQNWtWZnF6QnNJSW54ZmtOOFNidVlBaWdOMjVUeEE?oc=5",
         "source": "TransferFeed Greek Super League",
-        "published": "Fri, 30 Oct 2026 08:50:49 GMT",
+        "published": "Fri, 30 Oct 2026 08:20:18 GMT",
         "base_score": 58,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "PAOK",
@@ -50,25 +48,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "f14e90dbcdc12042304dc161",
-        "mode": "sportdog",
-        "title": "Anadolu Efes stuns Panathinaikos after 30-point defeat - TalkBasket.net",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUldLQjZhVVpGOHk2d2tlREJ1Qy1oOGZfOUhheGZnOGlyTnN1R3BiWWJlV2lqeDlBM0xDNWVDek92VTFfVGtIWkpNOG5yTGZKNF9DY050amdBdElvcE83VHJWOEZKWkxZeGFCRVBoZG5GSy1nYklZR3p1Um1PajVTVFVrTVZicnU3NkNvY291aVp4Zw?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 31 Oct 2026 06:06:53 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
         "external_id": "e609f59ca11613e7b26523cb",
         "mode": "sportdog",
         "title": "Olympiacos Eyeing Guadelopian Defender; May Arrive in January - roundtable.io",
@@ -76,7 +55,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 30 Oct 2026 19:20:56 GMT",
         "base_score": 39,
-        "candidate_score": 53,
+        "candidate_score": 50,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -109,42 +88,185 @@
         "needs_second_source": true
       },
       {
-        "external_id": "a2d2871b1c672bef78ccb5af",
+        "external_id": "eb15e9bb73b6cc7a65c879fd",
         "mode": "sportdog",
-        "title": "Young Midfielder May Possibly Leave Olympiacos; Departure Imminent - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGlKc3NNZHRydm9qcy1IbWs2dllYVzNPYnlPaS1Ja1FWcFNjU1dNSEhPQ182RWJlNzEybzAwZy1LbTVTRUVsWUZGbWpvZjlnT1g1bWpmY0RlN2lhVm1uSUJwZ1Njd1pGWVJkamp5R2g0Q290VHBZazh3QUhRNjNLUkZxaVBoNXhhVjVrSlM5NnpkSlFJMkZkbmJwNko2SVE2endSdTVXUV9xZWwwb3BpdV9RT09FTFdMRXJPVHJpMA?oc=5",
+        "title": "7 potential NBA options for Olympiacos to replace Jean Montero - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0tvOGt3VHdTTlRwWFhPa1ZtLTZ2SWFzSjRVNDJPTVZtR0ZoODZyblJ5TXBNWmtiaEYxZVdyWE4yVUlveUZSaDJ3R1R3ZFh1YXMyUW9tSXg0WlhHZVNfOWcyOWdWYXJReXo3RGt2aVltRUVKWVRELU5iT0QyY29oc3NCVHh2c0p2MWR4RHVoN0w5VWtyR1E?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 29 Oct 2026 21:45:12 GMT",
-        "base_score": 39,
-        "candidate_score": 47,
+        "published": "Sat, 31 Oct 2026 11:23:49 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos",
-          "midfielder"
+          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
+      },
+      {
+        "external_id": "f14e90dbcdc12042304dc161",
+        "mode": "sportdog",
+        "title": "Anadolu Efes stuns Panathinaikos after 30-point defeat - TalkBasket.net",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUldLQjZhVVpGOHk2d2tlREJ1Qy1oOGZfOUhheGZnOGlyTnN1R3BiWWJlV2lqeDlBM0xDNWVDek92VTFfVGtIWkpNOG5yTGZKNF9DY050amdBdElvcE83VHJWOEZKWkxZeGFCRVBoZG5GSy1nYklZR3p1Um1PajVTVFVrTVZicnU3NkNvY291aVp4Zw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sat, 31 Oct 2026 06:06:53 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6433b1f38318d8615c34c313",
+        "mode": "sportdog",
+        "title": "Inter - AEK Athens 0-0 - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oekd2bGtzZ19jVHh2UmJadjlDRWlZUlFXRmRFZzQyTGhON0FMUGk5N2NVaVhGTklfV3JrSWduWC1RT2xRVHNCMFpfNXBtcWk3cXlJYWZNdmkyZTloeHJYdUFEOVN2X0VLV1BMMzhQUFdqb1BvQUZvV2xn?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Fri, 30 Oct 2026 11:26:38 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "d10baf51110f15de7b3c09dc",
+        "mode": "geopolitico",
+        "title": "AB, Yunanistan-Güney Kıbrıs elektrik bağlantı projesine desteğini yeniden teyit etti - Kıbrıs Postası",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0FpMlpmQlIwQWZqR2JCb2sxdEpMeDNhU3NNaFN1ZnFpdWpDWHk4TXE3QlhQZzM5MTJlaDNVTUUxanJJclAtSGpmSVh3RHJDODI1dHVKLWdZaG43aXhfZkxpTjBESUw0TUM0WW5MOWE5U05QWUZ6NjZNTkZHUENXMkxfTjQ2Tm1ZNnVuY1NheWpmbVFwTndUY1BVUjlYLUdra0RITEdveXFka0ppYUFMYlJ3cU1tWDhzUHZsMzZxaThycm8xTW5Wa0xGZGxzQ0pBbEFR?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sat, 31 Oct 2026 11:30:00 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "Güney Kıbrıs"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "2ec2fb2f7d76190d7d995c9e",
+        "mode": "geopolitico",
+        "title": "Indian soldier arrested for alleged spying for Pakistan - Daily Observer",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QaWRSXzI4TXhBUXJIUWIxaEY3WXoyeHEyZjVueEFUbzkwdk9Md1pwZURaOXBLYl8tRklJelRVejNmekVDN2JVMUNR?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sat, 31 Oct 2026 10:24:53 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Ege",
+          "spying",
+          "arrest"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "9da3af3e9edda7deb1884a30",
         "mode": "geopolitico",
         "title": "What Israel Elections Means for Greece as Aegean Tensions Rise - Greek City Times",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVFjVUthMzlmcF9YTFBtX2d2ZDFycjVjbmhPM2Jlb1JiWWQzNmRlUVZTbHBGMVM0cXI5dnJUclJhMHA2ckZLc01sR015MXVIdDNtRGhBMUZTRVdNLWxub0NtcUJlZjZRdnBzSGQtODhiYmRjVzRYaGM5YnUxc0lQUVpQNGdrZlZ0bkxqSm41aHNjWjBiak5YOC1FSXJXdmlQdDQ0?oc=5",
-        "source": "Cyprus Eastern Mediterranean Watch",
+        "source": "Greece Israel Strategic Watch",
         "published": "Sat, 31 Oct 2026 01:20:51 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
           "Israel",
           "Aegean",
           "Ege"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "c9f89268ca3cfe5949b39ed1",
+        "mode": "geopolitico",
+        "title": "BM Zirvesinde Doğu Akdeniz Gerilimi Miçotakis Harita Gösterdi, Türkiye'den Anında Yanıt Geldi - Haber.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0M5QXEydnc0cVU0UEVNaGcySFhEOE1kTVg4Y0xzb0JiREFESWdXb3ZoLVZJdDhPRnlldTRiaG1qWURUX09pWDFSVS0ycS1jcUw1Nm9DcmQwbTJGV01GSTljZ3cxQzAtSnU1M0NyLVB0bDVfRzJIOGJGdXRic0M3a3htM2gzdTI1bmpVTTZ5azUwdUxGU1hUeFpoWUtKU2VGTWRETzZYMFNmUlJEYkVSR1FEZ3Y4SmhxU0VpNUdKMGMxNW8?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sat, 31 Oct 2026 14:32:00 GMT",
+        "base_score": 88,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Miçotakis",
+          "Doğu Akdeniz",
+          "gerilim"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "8f0c5f0c903790fa910286e7",
+        "mode": "geopolitico",
+        "title": "Ege Denizi ve Yunanistan Açıklarında 5.0 Büyüklüğünde Deprem! Marmara Denizi Armutlu da Sallandı - Sivas İrade",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPelhDNzhqRmRZbDRsdnpZZWZSdFBQdC1rak5PZjQ4djhxUzhxNE1XVVhtN1pyLVYzUkRFWjd4OXFkNXJSOFVoc1NWZDRNWVRxM3lnQ1JCZmRmTjNmUW03ekcxQXlTOTI4WUhmQ0tDWHlObW54VkUtVFE4MFBrQ3NjczhqbEV0SzNDWmRYU3pDZWZYWWN1MG1jdGRFR3F3WWVBendHVmlNVlREV2xOZHFybmxjNUxtbjA4R0g2YXh3?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 30 Oct 2026 19:07:30 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Ege",
+          "Ege Denizi"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "e8286f4aad8e9533bdc14cc8",
+        "mode": "geopolitico",
+        "title": "Army soldier arrested in Hasimara for allegedly leaking military secrets to Pakistan’s ISI - The CSR Journal",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFVCdEUwWTBMN0FSd2I5UjlJZkYwRTk2QkVLbjhKbnM5b0ctb21oLXl0elc4eFA5SHRBUjJxNXVtN1JHeExQNGpJczNnWlJYZS1FZWdDX0wzZmw4N1ZXcWplRHJZdURoaVFhUkhvZXI3c29tb1Y0WHFHX2tfRG5kUWFiNHpmX180MHB3OXItWVI5WHBpdGhuSUo4WVVhUUJ2eGxLbXNR?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sat, 31 Oct 2026 11:54:11 GMT",
+        "base_score": 91,
+        "candidate_score": 101,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pakistan",
+          "Ege",
+          "ISI",
+          "arrest"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "f5bf2b77a050698aa315a890",
+        "mode": "geopolitico",
+        "title": "Ex-Army employee arrested in Bengal on charges of working for Pakistan's ISI | India News - Hindustan Times",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQenYzMXcyaHZRTDVZWk9fLV9WWE5TT3E0cEtTemRxUVN3VkJjamkzRlNsSDI3eExnUzU4MkxGbHdRSUtQdVhpX1VKNG5YYWNMT3VYcEt6UXktTVJFUGlEdlhjbi1hM2FqMVk1QURXMWFURmMtX3JWYjJQc2FMWnUzSFRSWVZUSlRnenIzMmNtcmZmTjhCVjZYQWppMXZZRVBQdzU5Wlk1aWxGVXM1RjRHZ25HZnZ3c2piNHVUbWpCWUtxSVcxZWotRVdWemFnWl84SWlLXzdCU0h2X0VMRXk0TmJ6RTQ3OS0yR3lOalZuYzhRd9IB9wFBVV95cUxNYTd4R1RKY25ucEJxQW52T01INGhOLUc4ZnIzalQwTjFEN0oxTE95NFc4czViMURmUlpaQUtwOUR2R25YZlo1Ym5GTEktVGROTmpSVlhXVGxTVUtHR2NHTktCWWo1Rnh3cFcyZC16RkduZFc1UE1GRTVKbUhJeEtRVW1xR1loVXlmeFZydUFlbjFEMDJBMXR2QjRtNDMwaUp4OEZIQS1scUNoOXpNQ19abElodjl4ZG1GMGE2UDU1RGRHQ0Q3TFV3blp4QnB5SldPRnBCUE84V3ZWNkhnZkdOMEp6YmY2RGNXLTRkNzk2SFVWeV8xcXZB?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sat, 31 Oct 2026 09:04:12 GMT",
+        "base_score": 91,
+        "candidate_score": 101,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "ISI",
+          "arrest"
         ],
         "content_type": "news"
       },
@@ -156,7 +278,7 @@
         "source": "Middle East Forum Watch",
         "published": "Fri, 30 Oct 2026 19:03:01 GMT",
         "base_score": 96,
-        "candidate_score": 102,
+        "candidate_score": 99,
         "priority": "URGENT",
         "matched_keywords": [
           "Israel",
@@ -165,107 +287,26 @@
           "Iran"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "ef4a04989cea5ad0f2d17bc5",
-        "mode": "geopolitico",
-        "title": "Yunanistan, Fransa'dan bin km menzilli füze taşıyan gemi aldı: 'Egemenlik haklarımız için en gelişmiş seçenek' - Gazete Oksijen",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0lNdmpxRHJvaUVad3NxSHMtTmlMeFNJNUlpX2VBTU1PbkQzbHlEN3BEdm0yRDdXdVZFVU9sYjUxeVVIalhDWUVpbWhDY3JsSkh4MkRPUjhHejR5SHJYaE91cndDUDV0bE5zWUxzRE5nT25HNUxRaTZ5amZmLXZSSDQwUlc2YlJCLWdDUWNzNWNCOGExcTRoV2FiQ3h4OTN2N0d3ZVkzQ1Bna1ZLb2xNN3lDcy1odlN2SHRIaDdLSGhDUHBiTXVkOEJoeFlwYkRLME5yX1d4NmY1V25K?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Sat, 31 Oct 2026 06:52:00 GMT",
-        "base_score": 81,
-        "candidate_score": 96,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Ege",
-          "Fransa"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "7127e69c29f34923986a2b62",
-        "mode": "geopolitico",
-        "title": "Miçotakis'in Doğu Akdeniz'deki algı diplomasisi BMGK'da iflas etti: Türkiye'den sert yanıt! - Yirmidort.tv",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXRrSmdSUlMzczF0NEFWZllTZkM1MG94QWtMb3JYdmxjSFZHMGNveUtSVm1vc1BYS0ZQVXZscDJqWVgwUWhhQ0I0NTlJb25kOW42SGJ5R2hUMzRVa2FNN3NFcTNhYkdnRXJPMGhTbEs0MHoyZXpDSmxLWW0zVWdZcFgxVHVySENRR1JXRnVaYVE4SHZxbG12MzVNNHhrS00xMy02UUwtM1dKTkRJQzcxaDNfOVAyY0xNNzJENXZTdGM?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 31 Oct 2026 04:46:00 GMT",
-        "base_score": 81,
-        "candidate_score": 91,
-        "priority": "High",
-        "matched_keywords": [
-          "Miçotakis",
-          "Doğu Akdeniz",
-          "diplomasi"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "2251b701a4f545b5fd8bd9e7",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de Türkiye'nin yeni hamleleri! Mısır ve Suriye ile olası anlaşmalar Yunanistan'ı endişelendirdi - A Haber",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOVJYWGhqR29CZmZEbGN2LXdiLVAzZ05tZlpaM0tLSGktX2RsUkprZ0loSVNkUWYwN01fajFLVEtwOGp2WjJxeVp4YXBCN1lfUFo1MDY5WGE4U2NZWGdlMjE1UWdDUG9KaC1EMlF3R2tDSjZ4a2lZN1pRNmVRMkh4UmF5VFAycVBDengxSlZyYWtOZkxWc1FVRDNWMEJqTDlWeGZsUnVBc1hDRjhfVVVJaGhrTnBvQWFJX1luUDJYNE9FME93V1N5OTlEWTJVSDBVZmNidHhwNFdwM1Ftc2tiM2JLbzA0NThq?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 31 Oct 2026 06:11:19 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "715dbb5b2ea4ff57a2162556",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı 'uyanık olmak lazım' diyerek Türkiye'ye kurulan ikili tuzağı açıkladı - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDF5eGVzNlMxaDYxSFVzZG9MZ21DbFhrVEdCNEJ0ZHg4QkllM1JEY1FRQnBReExnTjRjWVZlRGZ4MGdKeXZPMHdCdHpXdWxkLUt1MkZLSFlEd21sUG1WUXZsYXRISWplRk1VbnpkWkw4NXBvVWVWa0lCT3J1UUlLTDBfX3RWajNlMmt6ZVFDSTNCSFFqX3dxbVJ2NVFsbkU0RE0yb2dnREpTZEx1RFFNbTlERXU2RFNNazVR0gG-AUFVX3lxTE9zMkJpM0JNLWl6VkpzRDJUT1BUcmNZN0Q4Nkl3Y1hMWmhRMDItVmlpdVhydDVzVnUyMjJ4UVZWWTh3VHlTRUppTnRtekhIN3VhQVlqQ1J2Y3FZZ0NzSkZXZElDX0JNMFNVY0NBMnRqUFA1STdRWk4zR2s4bTVQYllqYks2Y0hUQUR3U1Y0ZEhyRUZGbWpuRTg0RE1YWm10d0xRUjluZnNyOUJSNTgyS3ZaVlJpeVN6OC00YnZ0MXc?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Sat, 31 Oct 2026 04:29:23 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "Cihat Yaycı",
-          "Cihat Yaycı"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "10205f78f515074c0e548fcd",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Hakan Çelik — İstanbul’dan dünyaya uzanan 35 uzun yıl - Hakan Çelik - Posta",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGE1Z0x1Q01HN2c1bHg2bW9WQVpZMGxxYTFiNjJTWVltaGxUdVFvYzUtLWdmdUhGOWRNR3JGSG9PdllBV0xoX3pKcGdjRmRRbW5xcjlwa2dsc3dzRXZNX3hLcDdIc1RNQXpiUWQ3am4wYlpVS3dDcHZya0FHUG9wLVpjQkRnc2NRM2RSVUdvZGtWb1dsQUdB?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Sat, 31 Oct 2026 04:00:00 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "Hakan Çelik",
-          "Hakan Çelik"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "36f82b25843b570b6ac03b77",
-        "mode": "geopolitico",
-        "title": "Ege’de “Topunuz gelin” dedirten hamle! Yunanistan, İsrail’in füze ve kalkan sistemlerini sokaklara indirdi - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQamt0MjFYcmlwVVVVNU9IMk1sMnZFLTJkNGhUMVUyMUxjMTIzb0tEOExpcEJMSG1BVVZ0RUpnQ3BoMGcyVm5vblZXR0FQN2JZNDRiSXAwVWdKXzZ4TVAxcVk0bFVQSFFRcm91MWNLYUNJSE94MHN6Q3NrWi1rXzFEdmVFa3lsN0ZmdWxld2tpb0RBY1o2NS0yNEVEVk1icmk2NEduSnd3eDJPUUJVOWZCSmY3U2JfczZaSG9McjkyNkhjUjNEdFZtNzByOFlVcTJ4MVJ0QmlVdUVKb0FKdUpuaG5mMNIB4wFBVV95cUxQamt0MjFYcmlwVVVVNU9IMk1sMnZFLTJkNGhUMVUyMUxjMTIzb0tEOExpcEJMSG1BVVZ0RUpnQ3BoMGcyVm5vblZXR0FQN2JZNDRiSXAwVWdKXzZ4TVAxcVk0bFVQSFFRcm91MWNLYUNJSE94MHN6Q3NrWi1rXzFEdmVFa3lsN0ZmdWxld2tpb0RBY1o2NS0yNEVEVk1icmk2NEduSnd3eDJPUUJVOWZCSmY3U2JfczZaSG9McjkyNkhjUjNEdFZtNzByOFlVcTJ4MVJ0QmlVdUVKb0FKdUpuaG5mMA?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Sat, 31 Oct 2026 07:41:00 GMT",
-        "base_score": 69,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "Ege"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "78042e0eaf87803a870e1a31",
+        "mode": "pontos_voice",
+        "title": "Ποντιακός Σύλλογος «Το Καΐστρι»: Έρχεται η ώρα του 3ου ετήσιου χορού, με μεγάλα ονόματα της ποντιακής μουσικής - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVpWN3JVeE4wQTM4SENpSEQ2V2U2Mkx1VHc4VmtBSURZMVlOTHpxWDVIdC1DTjhZbmw0Z1NzeWJaU2hubU1WSUNzM0JLRHUwWjVHWWlwS1d3MlBBM2R0eUdldDl3N3N2Q2RrWkQ0NklfSTM0YTBxTFZTeWxmVTRLMGpXd1JHeW1wanlLdkRBVm1NWERoUWtXUFBiZVFiNUJFVEZz?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 31 Oct 2026 12:40:29 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακός",
+          "ποντιακή"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "b711b35b2a66ea156ef56a9f",
         "mode": "pontos_voice",
@@ -274,7 +315,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 30 Oct 2026 15:27:13 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -284,48 +325,64 @@
         "content_type": "news"
       },
       {
-        "external_id": "73def04a55a498db8bba5a45",
+        "external_id": "96fe56faf8b0e4595424f569",
         "mode": "pontos_voice",
-        "title": "Trabzon'a ödül yağmuru! Yılın en iyileri arasında dikkat çeken isimler",
-        "url": "https://www.61saat.com/trabzona-odul-yagmuru-yilin-en-iyileri-arasinda-dikkat-ceken-isimler",
+        "title": "Πάνος Καλίδης: Από την ποντιακή λύρα στις μεγάλες επιτυχίες του λαϊκού τραγουδιού - MusicPress",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhYkJRN1V2Nkx4eEh3UURhM2dhV3Y0T3NyZndhTThSS000Y3VMUmNfRVZGQ1ZzaFlXR0dQV3ZPUnFSbVlyam5ZbnNpY21oY1AxTHc?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 31 Oct 2026 04:37:15 GMT",
+        "base_score": 86,
+        "candidate_score": 92,
+        "priority": "High",
+        "matched_keywords": [
+          "ποντιακή",
+          "ποντιακή λύρα",
+          "λύρα"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "0556e7b32fed85427f084da9",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da MHP camiasının acı günü!",
+        "url": "https://www.61saat.com/trabzonda-mhp-camiasinin-aci-gunu",
         "source": "61Saat Trabzon",
-        "published": "Sat, 31 Oct 2026 10:47:00 +0300",
-        "base_score": 55,
+        "published": "Sat, 31 Oct 2026 12:45:00 +0300",
+        "base_score": 60,
         "candidate_score": 70,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
-          "Trabzon",
-          "Karadeniz"
+          "milliyetçi",
+          "MHP",
+          "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "87c58f574513dbc8f773d54a",
+        "external_id": "60feffe678c137e2596e423f",
         "mode": "pontos_voice",
-        "title": "Trabzonspor maçı Gastronomi Festivali'nin saatini değiştirdi!",
-        "url": "https://www.61saat.com/trabzonspor-maci-gastronomi-festivalinin-saatini-degistirdi",
+        "title": "Trabzon-Aşkale Yolu'nda çalışmalar sürüyor! Bakan Uraloğlu açıkladı",
+        "url": "https://www.61saat.com/trabzon-askale-yolunda-calismalar-suruyor-bakan-uraloglu-acikladi",
         "source": "61Saat Trabzon",
-        "published": "Sat, 31 Oct 2026 11:13:00 +0300",
-        "base_score": 53,
-        "candidate_score": 68,
+        "published": "Sat, 31 Oct 2026 17:39:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "Karadeniz",
-          "vali"
+          "bakan",
+          "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "4c46f78d073faca327072b94",
+        "external_id": "62bdad1227dcb841c399428c",
         "mode": "pontos_voice",
-        "title": "Trabzon'daki ölümlü tekne kazasında şoke eden detay ortaya çıktı!",
-        "url": "https://www.61saat.com/trabzondaki-olumlu-tekne-kazasinda-soke-eden-detay-ortaya-cikti",
+        "title": "Trabzon'da yüzde 60 istihdam garantili kurs başladı!",
+        "url": "https://www.61saat.com/trabzonda-yuzde-60-istihdam-garantili-kurs-basladi",
         "source": "61Saat Trabzon",
-        "published": "Sat, 31 Oct 2026 10:03:00 +0300",
+        "published": "Sat, 31 Oct 2026 16:00:00 +0300",
         "base_score": 44,
         "candidate_score": 59,
         "priority": "Normal",
@@ -335,62 +392,26 @@
           "dil"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "02179111bd3aa3b8785e5096",
-        "mode": "pontos_voice",
-        "title": "SBÜ Kurucu Rektörü ve eski Trabzon Milletvekili Cevdet Erdöl’ün acı günü! - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTI4Qm1fWU80TDVZVUVFZ3dZbjE1Zm51a3hqMGJZcjVRNVh5RjFzQS0wVHp3WGZOdG5wemhMeldwSl9BNDNfd2hrcURaOFBtMVhzTjNBSHdta2lMd2ZRdmJfU2JnVG5JTkt6eFhpWTdIR1VTTDJwSmpUUmFsUlp4OGlUZjNWdmY0VllpdHpVWW5jbEdzemRlanVOZjUxUVdUXzVfenVYSjJjY3l4T1BMRg?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sat, 31 Oct 2026 05:58:19 GMT",
-        "base_score": 42,
-        "candidate_score": 57,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "milletvekili",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "3a4ca4626bfcd95025713be8",
-        "mode": "pontos_voice",
-        "title": "Trabzon Gastronomi Festivali’nde coşku sürüyor! Açılış saati değişti - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzNSX21pcEFUckRYTUx6cHFYWVpwTHBjZEdfYTNDVVM0TmhXdTl3dkJLbnBjaVJJZ1pMT2JZQTdOLVBiSlhnVlVjM0ZwSVNEZmRHZG9Zd3J5MjhOZ1lKbU5tVUdhaFBUXzNRTlc0SnRhRFpQSHplR1RxRl8wMGJXRjZqY2pfdXVYN2RqSU41NjlfZ2hoVUJxaWxHemJiT0JxbGJGWTRZeDRJZw?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sat, 31 Oct 2026 07:47:18 GMT",
-        "base_score": 40,
-        "candidate_score": 55,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "vali"
-        ],
-        "content_type": "news"
       }
     ]
   },
   "items": [
     {
-      "external_id": "508a92c01c74f5956a9e76ed",
+      "external_id": "88dc69327f79adc0c8a57c1a",
       "mode": "sportdog",
-      "title": "Olympiacos Interested in Champions League Defender - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEFBZHdLQ0M0YTB2UW1JWWtGa3RXQnNYWEhvU0Z6c3NrRlJJTDBPNnhHUVpsRGZLYW1qTmtVZTluamNCQ2lROUY4NkRmdDBxdjMzMHN2bERoRFplcWpkNzJOaFo3RjJRMW4wdlFrREMtQW1sOGxmVjNaSnlJSUdiWDdvRTI5ZjZja04yQ0ZVb2tuTjBpTnZ2UUtrRGdaZWsxYWIzTVFBLUdoSEloTUZ6NW9n?oc=5",
+      "title": "Bartzokas confirms Olympiacos transfer plan, speaks out on Tyler Dorsey - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWC1NVHVhSUlIWjhxNU9iZmJINEw4ZUFPYURaVUloTDdrZTAxR0wyVVZxUWlpUlM1QS1seTV2WTJ6UDNSX0lsSDJIRFFhTFBKZW1Ga1huV2VqaFdoSlVGMzBjUHByenNvOEI2MG5iMFhFY0kzQWZvbzQ0UVhJZGNWWnNPdHdkVUdRVEJpMVpvbHdvYU1rUzJhYndGUFNJdVBPNk1JR2VmMUFRTjl6WWVxVEc5YWM0bFdmc20wcHlnNTY?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 30 Oct 2026 00:56:02 GMT",
-      "base_score": 89,
-      "candidate_score": 97,
-      "priority": "URGENT",
+      "published": "Sat, 31 Oct 2026 07:24:00 GMT",
+      "base_score": 56,
+      "candidate_score": 86,
+      "priority": "High",
       "matched_keywords": [
         "Olympiacos",
-        "Champions League",
-        "interested in",
-        "defender"
+        "transfer"
       ],
       "content_type": "news",
-      "editorial_type": "Team News",
+      "editorial_type": "Transfer Report",
       "team": "Olympiacos",
       "readiness": "READY",
       "needs_second_source": false
@@ -401,9 +422,9 @@
       "title": "Ronaldo Transfer from Rostov to PAOK - TransferFeed",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PNGhRN00yaGYydzhnS09LSW1RUHdTa0tpU2xzRDhLVFBRYkxWOXE1WmpBbDdmOFk5TkRoT1BHeVpBZ3RvQjh0QVRhSFlhSDBMRmdpZ19pZVdQNWtWZnF6QnNJSW54ZmtOOFNidVlBaWdOMjVUeEE?oc=5",
       "source": "TransferFeed Greek Super League",
-      "published": "Fri, 30 Oct 2026 08:50:49 GMT",
+      "published": "Fri, 30 Oct 2026 08:20:18 GMT",
       "base_score": 58,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "PAOK",
@@ -416,25 +437,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "f14e90dbcdc12042304dc161",
-      "mode": "sportdog",
-      "title": "Anadolu Efes stuns Panathinaikos after 30-point defeat - TalkBasket.net",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUldLQjZhVVpGOHk2d2tlREJ1Qy1oOGZfOUhheGZnOGlyTnN1R3BiWWJlV2lqeDlBM0xDNWVDek92VTFfVGtIWkpNOG5yTGZKNF9DY050amdBdElvcE83VHJWOEZKWkxZeGFCRVBoZG5GSy1nYklZR3p1Um1PajVTVFVrTVZicnU3NkNvY291aVp4Zw?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 31 Oct 2026 06:06:53 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
       "external_id": "e609f59ca11613e7b26523cb",
       "mode": "sportdog",
       "title": "Olympiacos Eyeing Guadelopian Defender; May Arrive in January - roundtable.io",
@@ -442,7 +444,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 30 Oct 2026 19:20:56 GMT",
       "base_score": 39,
-      "candidate_score": 53,
+      "candidate_score": 50,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -475,18 +477,17 @@
       "needs_second_source": true
     },
     {
-      "external_id": "a2d2871b1c672bef78ccb5af",
+      "external_id": "eb15e9bb73b6cc7a65c879fd",
       "mode": "sportdog",
-      "title": "Young Midfielder May Possibly Leave Olympiacos; Departure Imminent - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGlKc3NNZHRydm9qcy1IbWs2dllYVzNPYnlPaS1Ja1FWcFNjU1dNSEhPQ182RWJlNzEybzAwZy1LbTVTRUVsWUZGbWpvZjlnT1g1bWpmY0RlN2lhVm1uSUJwZ1Njd1pGWVJkamp5R2g0Q290VHBZazh3QUhRNjNLUkZxaVBoNXhhVjVrSlM5NnpkSlFJMkZkbmJwNko2SVE2endSdTVXUV9xZWwwb3BpdV9RT09FTFdMRXJPVHJpMA?oc=5",
+      "title": "7 potential NBA options for Olympiacos to replace Jean Montero - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0tvOGt3VHdTTlRwWFhPa1ZtLTZ2SWFzSjRVNDJPTVZtR0ZoODZyblJ5TXBNWmtiaEYxZVdyWE4yVUlveUZSaDJ3R1R3ZFh1YXMyUW9tSXg0WlhHZVNfOWcyOWdWYXJReXo3RGt2aVltRUVKWVRELU5iT0QyY29oc3NCVHh2c0p2MWR4RHVoN0w5VWtyR1E?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 29 Oct 2026 21:45:12 GMT",
-      "base_score": 39,
-      "candidate_score": 47,
+      "published": "Sat, 31 Oct 2026 11:23:49 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos",
-        "midfielder"
+        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -495,20 +496,164 @@
       "needs_second_source": true
     },
     {
+      "external_id": "f14e90dbcdc12042304dc161",
+      "mode": "sportdog",
+      "title": "Anadolu Efes stuns Panathinaikos after 30-point defeat - TalkBasket.net",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUldLQjZhVVpGOHk2d2tlREJ1Qy1oOGZfOUhheGZnOGlyTnN1R3BiWWJlV2lqeDlBM0xDNWVDek92VTFfVGtIWkpNOG5yTGZKNF9DY050amdBdElvcE83VHJWOEZKWkxZeGFCRVBoZG5GSy1nYklZR3p1Um1PajVTVFVrTVZicnU3NkNvY291aVp4Zw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sat, 31 Oct 2026 06:06:53 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6433b1f38318d8615c34c313",
+      "mode": "sportdog",
+      "title": "Inter - AEK Athens 0-0 - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oekd2bGtzZ19jVHh2UmJadjlDRWlZUlFXRmRFZzQyTGhON0FMUGk5N2NVaVhGTklfV3JrSWduWC1RT2xRVHNCMFpfNXBtcWk3cXlJYWZNdmkyZTloeHJYdUFEOVN2X0VLV1BMMzhQUFdqb1BvQUZvV2xn?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Fri, 30 Oct 2026 11:26:38 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "d10baf51110f15de7b3c09dc",
+      "mode": "geopolitico",
+      "title": "AB, Yunanistan-Güney Kıbrıs elektrik bağlantı projesine desteğini yeniden teyit etti - Kıbrıs Postası",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0FpMlpmQlIwQWZqR2JCb2sxdEpMeDNhU3NNaFN1ZnFpdWpDWHk4TXE3QlhQZzM5MTJlaDNVTUUxanJJclAtSGpmSVh3RHJDODI1dHVKLWdZaG43aXhfZkxpTjBESUw0TUM0WW5MOWE5U05QWUZ6NjZNTkZHUENXMkxfTjQ2Tm1ZNnVuY1NheWpmbVFwTndUY1BVUjlYLUdra0RITEdveXFka0ppYUFMYlJ3cU1tWDhzUHZsMzZxaThycm8xTW5Wa0xGZGxzQ0pBbEFR?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sat, 31 Oct 2026 11:30:00 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kıbrıs",
+        "Güney Kıbrıs"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "2ec2fb2f7d76190d7d995c9e",
+      "mode": "geopolitico",
+      "title": "Indian soldier arrested for alleged spying for Pakistan - Daily Observer",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QaWRSXzI4TXhBUXJIUWIxaEY3WXoyeHEyZjVueEFUbzkwdk9Md1pwZURaOXBLYl8tRklJelRVejNmekVDN2JVMUNR?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sat, 31 Oct 2026 10:24:53 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Ege",
+        "spying",
+        "arrest"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "9da3af3e9edda7deb1884a30",
       "mode": "geopolitico",
       "title": "What Israel Elections Means for Greece as Aegean Tensions Rise - Greek City Times",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVFjVUthMzlmcF9YTFBtX2d2ZDFycjVjbmhPM2Jlb1JiWWQzNmRlUVZTbHBGMVM0cXI5dnJUclJhMHA2ckZLc01sR015MXVIdDNtRGhBMUZTRVdNLWxub0NtcUJlZjZRdnBzSGQtODhiYmRjVzRYaGM5YnUxc0lQUVpQNGdrZlZ0bkxqSm41aHNjWjBiak5YOC1FSXJXdmlQdDQ0?oc=5",
-      "source": "Cyprus Eastern Mediterranean Watch",
+      "source": "Greece Israel Strategic Watch",
       "published": "Sat, 31 Oct 2026 01:20:51 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
         "Israel",
         "Aegean",
         "Ege"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "c9f89268ca3cfe5949b39ed1",
+      "mode": "geopolitico",
+      "title": "BM Zirvesinde Doğu Akdeniz Gerilimi Miçotakis Harita Gösterdi, Türkiye'den Anında Yanıt Geldi - Haber.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0M5QXEydnc0cVU0UEVNaGcySFhEOE1kTVg4Y0xzb0JiREFESWdXb3ZoLVZJdDhPRnlldTRiaG1qWURUX09pWDFSVS0ycS1jcUw1Nm9DcmQwbTJGV01GSTljZ3cxQzAtSnU1M0NyLVB0bDVfRzJIOGJGdXRic0M3a3htM2gzdTI1bmpVTTZ5azUwdUxGU1hUeFpoWUtKU2VGTWRETzZYMFNmUlJEYkVSR1FEZ3Y4SmhxU0VpNUdKMGMxNW8?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sat, 31 Oct 2026 14:32:00 GMT",
+      "base_score": 88,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Miçotakis",
+        "Doğu Akdeniz",
+        "gerilim"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "8f0c5f0c903790fa910286e7",
+      "mode": "geopolitico",
+      "title": "Ege Denizi ve Yunanistan Açıklarında 5.0 Büyüklüğünde Deprem! Marmara Denizi Armutlu da Sallandı - Sivas İrade",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPelhDNzhqRmRZbDRsdnpZZWZSdFBQdC1rak5PZjQ4djhxUzhxNE1XVVhtN1pyLVYzUkRFWjd4OXFkNXJSOFVoc1NWZDRNWVRxM3lnQ1JCZmRmTjNmUW03ekcxQXlTOTI4WUhmQ0tDWHlObW54VkUtVFE4MFBrQ3NjczhqbEV0SzNDWmRYU3pDZWZYWWN1MG1jdGRFR3F3WWVBendHVmlNVlREV2xOZHFybmxjNUxtbjA4R0g2YXh3?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 30 Oct 2026 19:07:30 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Ege",
+        "Ege Denizi"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "e8286f4aad8e9533bdc14cc8",
+      "mode": "geopolitico",
+      "title": "Army soldier arrested in Hasimara for allegedly leaking military secrets to Pakistan’s ISI - The CSR Journal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFVCdEUwWTBMN0FSd2I5UjlJZkYwRTk2QkVLbjhKbnM5b0ctb21oLXl0elc4eFA5SHRBUjJxNXVtN1JHeExQNGpJczNnWlJYZS1FZWdDX0wzZmw4N1ZXcWplRHJZdURoaVFhUkhvZXI3c29tb1Y0WHFHX2tfRG5kUWFiNHpmX180MHB3OXItWVI5WHBpdGhuSUo4WVVhUUJ2eGxLbXNR?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sat, 31 Oct 2026 11:54:11 GMT",
+      "base_score": 91,
+      "candidate_score": 101,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pakistan",
+        "Ege",
+        "ISI",
+        "arrest"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "f5bf2b77a050698aa315a890",
+      "mode": "geopolitico",
+      "title": "Ex-Army employee arrested in Bengal on charges of working for Pakistan's ISI | India News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQenYzMXcyaHZRTDVZWk9fLV9WWE5TT3E0cEtTemRxUVN3VkJjamkzRlNsSDI3eExnUzU4MkxGbHdRSUtQdVhpX1VKNG5YYWNMT3VYcEt6UXktTVJFUGlEdlhjbi1hM2FqMVk1QURXMWFURmMtX3JWYjJQc2FMWnUzSFRSWVZUSlRnenIzMmNtcmZmTjhCVjZYQWppMXZZRVBQdzU5Wlk1aWxGVXM1RjRHZ25HZnZ3c2piNHVUbWpCWUtxSVcxZWotRVdWemFnWl84SWlLXzdCU0h2X0VMRXk0TmJ6RTQ3OS0yR3lOalZuYzhRd9IB9wFBVV95cUxNYTd4R1RKY25ucEJxQW52T01INGhOLUc4ZnIzalQwTjFEN0oxTE95NFc4czViMURmUlpaQUtwOUR2R25YZlo1Ym5GTEktVGROTmpSVlhXVGxTVUtHR2NHTktCWWo1Rnh3cFcyZC16RkduZFc1UE1GRTVKbUhJeEtRVW1xR1loVXlmeFZydUFlbjFEMDJBMXR2QjRtNDMwaUp4OEZIQS1scUNoOXpNQ19abElodjl4ZG1GMGE2UDU1RGRHQ0Q3TFV3blp4QnB5SldPRnBCUE84V3ZWNkhnZkdOMEp6YmY2RGNXLTRkNzk2SFVWeV8xcXZB?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sat, 31 Oct 2026 09:04:12 GMT",
+      "base_score": 91,
+      "candidate_score": 101,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "ISI",
+        "arrest"
       ],
       "content_type": "news"
     },
@@ -520,7 +665,7 @@
       "source": "Middle East Forum Watch",
       "published": "Fri, 30 Oct 2026 19:03:01 GMT",
       "base_score": 96,
-      "candidate_score": 102,
+      "candidate_score": 99,
       "priority": "URGENT",
       "matched_keywords": [
         "Israel",
@@ -531,102 +676,21 @@
       "content_type": "news"
     },
     {
-      "external_id": "ef4a04989cea5ad0f2d17bc5",
-      "mode": "geopolitico",
-      "title": "Yunanistan, Fransa'dan bin km menzilli füze taşıyan gemi aldı: 'Egemenlik haklarımız için en gelişmiş seçenek' - Gazete Oksijen",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0lNdmpxRHJvaUVad3NxSHMtTmlMeFNJNUlpX2VBTU1PbkQzbHlEN3BEdm0yRDdXdVZFVU9sYjUxeVVIalhDWUVpbWhDY3JsSkh4MkRPUjhHejR5SHJYaE91cndDUDV0bE5zWUxzRE5nT25HNUxRaTZ5amZmLXZSSDQwUlc2YlJCLWdDUWNzNWNCOGExcTRoV2FiQ3h4OTN2N0d3ZVkzQ1Bna1ZLb2xNN3lDcy1odlN2SHRIaDdLSGhDUHBiTXVkOEJoeFlwYkRLME5yX1d4NmY1V25K?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Sat, 31 Oct 2026 06:52:00 GMT",
-      "base_score": 81,
-      "candidate_score": 96,
+      "external_id": "78042e0eaf87803a870e1a31",
+      "mode": "pontos_voice",
+      "title": "Ποντιακός Σύλλογος «Το Καΐστρι»: Έρχεται η ώρα του 3ου ετήσιου χορού, με μεγάλα ονόματα της ποντιακής μουσικής - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVpWN3JVeE4wQTM4SENpSEQ2V2U2Mkx1VHc4VmtBSURZMVlOTHpxWDVIdC1DTjhZbmw0Z1NzeWJaU2hubU1WSUNzM0JLRHUwWjVHWWlwS1d3MlBBM2R0eUdldDl3N3N2Q2RrWkQ0NklfSTM0YTBxTFZTeWxmVTRLMGpXd1JHeW1wanlLdkRBVm1NWERoUWtXUFBiZVFiNUJFVEZz?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 31 Oct 2026 12:40:29 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
       "priority": "URGENT",
       "matched_keywords": [
-        "Yunanistan",
-        "Ege",
-        "Fransa"
+        "Pontos",
+        "ποντιακός",
+        "ποντιακή"
       ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "7127e69c29f34923986a2b62",
-      "mode": "geopolitico",
-      "title": "Miçotakis'in Doğu Akdeniz'deki algı diplomasisi BMGK'da iflas etti: Türkiye'den sert yanıt! - Yirmidort.tv",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXRrSmdSUlMzczF0NEFWZllTZkM1MG94QWtMb3JYdmxjSFZHMGNveUtSVm1vc1BYS0ZQVXZscDJqWVgwUWhhQ0I0NTlJb25kOW42SGJ5R2hUMzRVa2FNN3NFcTNhYkdnRXJPMGhTbEs0MHoyZXpDSmxLWW0zVWdZcFgxVHVySENRR1JXRnVaYVE4SHZxbG12MzVNNHhrS00xMy02UUwtM1dKTkRJQzcxaDNfOVAyY0xNNzJENXZTdGM?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 31 Oct 2026 04:46:00 GMT",
-      "base_score": 81,
-      "candidate_score": 91,
-      "priority": "High",
-      "matched_keywords": [
-        "Miçotakis",
-        "Doğu Akdeniz",
-        "diplomasi"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "2251b701a4f545b5fd8bd9e7",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de Türkiye'nin yeni hamleleri! Mısır ve Suriye ile olası anlaşmalar Yunanistan'ı endişelendirdi - A Haber",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOVJYWGhqR29CZmZEbGN2LXdiLVAzZ05tZlpaM0tLSGktX2RsUkprZ0loSVNkUWYwN01fajFLVEtwOGp2WjJxeVp4YXBCN1lfUFo1MDY5WGE4U2NZWGdlMjE1UWdDUG9KaC1EMlF3R2tDSjZ4a2lZN1pRNmVRMkh4UmF5VFAycVBDengxSlZyYWtOZkxWc1FVRDNWMEJqTDlWeGZsUnVBc1hDRjhfVVVJaGhrTnBvQWFJX1luUDJYNE9FME93V1N5OTlEWTJVSDBVZmNidHhwNFdwM1Ftc2tiM2JLbzA0NThq?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 31 Oct 2026 06:11:19 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "715dbb5b2ea4ff57a2162556",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı 'uyanık olmak lazım' diyerek Türkiye'ye kurulan ikili tuzağı açıkladı - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDF5eGVzNlMxaDYxSFVzZG9MZ21DbFhrVEdCNEJ0ZHg4QkllM1JEY1FRQnBReExnTjRjWVZlRGZ4MGdKeXZPMHdCdHpXdWxkLUt1MkZLSFlEd21sUG1WUXZsYXRISWplRk1VbnpkWkw4NXBvVWVWa0lCT3J1UUlLTDBfX3RWajNlMmt6ZVFDSTNCSFFqX3dxbVJ2NVFsbkU0RE0yb2dnREpTZEx1RFFNbTlERXU2RFNNazVR0gG-AUFVX3lxTE9zMkJpM0JNLWl6VkpzRDJUT1BUcmNZN0Q4Nkl3Y1hMWmhRMDItVmlpdVhydDVzVnUyMjJ4UVZWWTh3VHlTRUppTnRtekhIN3VhQVlqQ1J2Y3FZZ0NzSkZXZElDX0JNMFNVY0NBMnRqUFA1STdRWk4zR2s4bTVQYllqYks2Y0hUQUR3U1Y0ZEhyRUZGbWpuRTg0RE1YWm10d0xRUjluZnNyOUJSNTgyS3ZaVlJpeVN6OC00YnZ0MXc?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Sat, 31 Oct 2026 04:29:23 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "Cihat Yaycı",
-        "Cihat Yaycı"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "10205f78f515074c0e548fcd",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Hakan Çelik — İstanbul’dan dünyaya uzanan 35 uzun yıl - Hakan Çelik - Posta",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGE1Z0x1Q01HN2c1bHg2bW9WQVpZMGxxYTFiNjJTWVltaGxUdVFvYzUtLWdmdUhGOWRNR3JGSG9PdllBV0xoX3pKcGdjRmRRbW5xcjlwa2dsc3dzRXZNX3hLcDdIc1RNQXpiUWQ3am4wYlpVS3dDcHZya0FHUG9wLVpjQkRnc2NRM2RSVUdvZGtWb1dsQUdB?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Sat, 31 Oct 2026 04:00:00 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "Hakan Çelik",
-        "Hakan Çelik"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "36f82b25843b570b6ac03b77",
-      "mode": "geopolitico",
-      "title": "Ege’de “Topunuz gelin” dedirten hamle! Yunanistan, İsrail’in füze ve kalkan sistemlerini sokaklara indirdi - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQamt0MjFYcmlwVVVVNU9IMk1sMnZFLTJkNGhUMVUyMUxjMTIzb0tEOExpcEJMSG1BVVZ0RUpnQ3BoMGcyVm5vblZXR0FQN2JZNDRiSXAwVWdKXzZ4TVAxcVk0bFVQSFFRcm91MWNLYUNJSE94MHN6Q3NrWi1rXzFEdmVFa3lsN0ZmdWxld2tpb0RBY1o2NS0yNEVEVk1icmk2NEduSnd3eDJPUUJVOWZCSmY3U2JfczZaSG9McjkyNkhjUjNEdFZtNzByOFlVcTJ4MVJ0QmlVdUVKb0FKdUpuaG5mMNIB4wFBVV95cUxQamt0MjFYcmlwVVVVNU9IMk1sMnZFLTJkNGhUMVUyMUxjMTIzb0tEOExpcEJMSG1BVVZ0RUpnQ3BoMGcyVm5vblZXR0FQN2JZNDRiSXAwVWdKXzZ4TVAxcVk0bFVQSFFRcm91MWNLYUNJSE94MHN6Q3NrWi1rXzFEdmVFa3lsN0ZmdWxld2tpb0RBY1o2NS0yNEVEVk1icmk2NEduSnd3eDJPUUJVOWZCSmY3U2JfczZaSG9McjkyNkhjUjNEdFZtNzByOFlVcTJ4MVJ0QmlVdUVKb0FKdUpuaG5mMA?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Sat, 31 Oct 2026 07:41:00 GMT",
-      "base_score": 69,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "Ege"
-      ],
-      "content_type": "turkey_greece"
+      "content_type": "news"
     },
     {
       "external_id": "b711b35b2a66ea156ef56a9f",
@@ -636,7 +700,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 30 Oct 2026 15:27:13 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -646,48 +710,64 @@
       "content_type": "news"
     },
     {
-      "external_id": "73def04a55a498db8bba5a45",
+      "external_id": "96fe56faf8b0e4595424f569",
       "mode": "pontos_voice",
-      "title": "Trabzon'a ödül yağmuru! Yılın en iyileri arasında dikkat çeken isimler",
-      "url": "https://www.61saat.com/trabzona-odul-yagmuru-yilin-en-iyileri-arasinda-dikkat-ceken-isimler",
+      "title": "Πάνος Καλίδης: Από την ποντιακή λύρα στις μεγάλες επιτυχίες του λαϊκού τραγουδιού - MusicPress",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhYkJRN1V2Nkx4eEh3UURhM2dhV3Y0T3NyZndhTThSS000Y3VMUmNfRVZGQ1ZzaFlXR0dQV3ZPUnFSbVlyam5ZbnNpY21oY1AxTHc?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 31 Oct 2026 04:37:15 GMT",
+      "base_score": 86,
+      "candidate_score": 92,
+      "priority": "High",
+      "matched_keywords": [
+        "ποντιακή",
+        "ποντιακή λύρα",
+        "λύρα"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "0556e7b32fed85427f084da9",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da MHP camiasının acı günü!",
+      "url": "https://www.61saat.com/trabzonda-mhp-camiasinin-aci-gunu",
       "source": "61Saat Trabzon",
-      "published": "Sat, 31 Oct 2026 10:47:00 +0300",
-      "base_score": 55,
+      "published": "Sat, 31 Oct 2026 12:45:00 +0300",
+      "base_score": 60,
       "candidate_score": 70,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
-        "Trabzon",
-        "Karadeniz"
+        "milliyetçi",
+        "MHP",
+        "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "87c58f574513dbc8f773d54a",
+      "external_id": "60feffe678c137e2596e423f",
       "mode": "pontos_voice",
-      "title": "Trabzonspor maçı Gastronomi Festivali'nin saatini değiştirdi!",
-      "url": "https://www.61saat.com/trabzonspor-maci-gastronomi-festivalinin-saatini-degistirdi",
+      "title": "Trabzon-Aşkale Yolu'nda çalışmalar sürüyor! Bakan Uraloğlu açıkladı",
+      "url": "https://www.61saat.com/trabzon-askale-yolunda-calismalar-suruyor-bakan-uraloglu-acikladi",
       "source": "61Saat Trabzon",
-      "published": "Sat, 31 Oct 2026 11:13:00 +0300",
-      "base_score": 53,
-      "candidate_score": 68,
+      "published": "Sat, 31 Oct 2026 17:39:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "Karadeniz",
-        "vali"
+        "bakan",
+        "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "4c46f78d073faca327072b94",
+      "external_id": "62bdad1227dcb841c399428c",
       "mode": "pontos_voice",
-      "title": "Trabzon'daki ölümlü tekne kazasında şoke eden detay ortaya çıktı!",
-      "url": "https://www.61saat.com/trabzondaki-olumlu-tekne-kazasinda-soke-eden-detay-ortaya-cikti",
+      "title": "Trabzon'da yüzde 60 istihdam garantili kurs başladı!",
+      "url": "https://www.61saat.com/trabzonda-yuzde-60-istihdam-garantili-kurs-basladi",
       "source": "61Saat Trabzon",
-      "published": "Sat, 31 Oct 2026 10:03:00 +0300",
+      "published": "Sat, 31 Oct 2026 16:00:00 +0300",
       "base_score": 44,
       "candidate_score": 59,
       "priority": "Normal",
@@ -695,40 +775,6 @@
         "Trabzon",
         "Trabzon",
         "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "02179111bd3aa3b8785e5096",
-      "mode": "pontos_voice",
-      "title": "SBÜ Kurucu Rektörü ve eski Trabzon Milletvekili Cevdet Erdöl’ün acı günü! - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTI4Qm1fWU80TDVZVUVFZ3dZbjE1Zm51a3hqMGJZcjVRNVh5RjFzQS0wVHp3WGZOdG5wemhMeldwSl9BNDNfd2hrcURaOFBtMVhzTjNBSHdta2lMd2ZRdmJfU2JnVG5JTkt6eFhpWTdIR1VTTDJwSmpUUmFsUlp4OGlUZjNWdmY0VllpdHpVWW5jbEdzemRlanVOZjUxUVdUXzVfenVYSjJjY3l4T1BMRg?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sat, 31 Oct 2026 05:58:19 GMT",
-      "base_score": 42,
-      "candidate_score": 57,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "milletvekili",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "3a4ca4626bfcd95025713be8",
-      "mode": "pontos_voice",
-      "title": "Trabzon Gastronomi Festivali’nde coşku sürüyor! Açılış saati değişti - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzNSX21pcEFUckRYTUx6cHFYWVpwTHBjZEdfYTNDVVM0TmhXdTl3dkJLbnBjaVJJZ1pMT2JZQTdOLVBiSlhnVlVjM0ZwSVNEZmRHZG9Zd3J5MjhOZ1lKbU5tVUdhaFBUXzNRTlc0SnRhRFpQSHplR1RxRl8wMGJXRjZqY2pfdXVYN2RqSU41NjlfZ2hoVUJxaWxHemJiT0JxbGJGWTRZeDRJZw?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sat, 31 Oct 2026 07:47:18 GMT",
-      "base_score": 40,
-      "candidate_score": 55,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "vali"
       ],
       "content_type": "news"
     }
