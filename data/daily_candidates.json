@@ -1,29 +1,49 @@
 {
-  "generated_at": "2026-10-31T22:37:42.570734+00:00",
+  "generated_at": "2026-11-01T01:29:09.718645+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "27e86680cdc6c27ec3b2444e",
+        "external_id": "09be04634feafdb649b4a722",
         "mode": "sportdog",
-        "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar.am",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sat, 31 Oct 2026 07:00:01 GMT",
-        "base_score": 56,
-        "candidate_score": 82,
+        "title": "Antonio Marin Transfer from Olimpija to Panathinaikos - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3RoQXhjUFBpOXphWWI1dUVpTkhVRGpnZHM2YUtRejlRYjdrbGZCNDk2eGdIaEo2N3VabmxybE9rZDF0RWg5ZWY0am56ZmgyX0tmUmZpRC1kSkRjdS04SGZORlE4WlVWNVdZNUtSUDIwLV9sX1R6QzNwRU5VWjhOdW1KTXdrOWdCRXZIeg?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Fri, 30 Oct 2026 20:41:09 GMT",
+        "base_score": 58,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
-          "Olympiacos",
+          "Panathinaikos",
           "transfer"
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "5447ba2b9ecfd40d68fca0ad",
+        "mode": "sportdog",
+        "title": "Levi García Transfer from Spartak Moskva to Panathinaikos - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTRKeHJ3WlJObVp5Z1cyNEdDMTdlYk5Hdk1IQndXR2F3TWlKQ0dkZm1zeWNkWnNvRktmYS1OVGhpR2wzbzVIbjFJcUw4M2dYbEZyOEpWX0dOa1NneG8ySXJwM2l5QUtCR1YxSWlTTnlSTHhreDJiS2hxelE5STF4NnVIMnMzN2ZLdHR1NXZlRHp0QQ?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Fri, 30 Oct 2026 15:29:24 GMT",
+        "base_score": 58,
+        "candidate_score": 78,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -35,7 +55,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 31 Oct 2026 16:47:39 GMT",
         "base_score": 56,
-        "candidate_score": 74,
+        "candidate_score": 70,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -68,6 +88,26 @@
         "needs_second_source": true
       },
       {
+        "external_id": "19d7187997a3626f962a62a9",
+        "mode": "sportdog",
+        "title": "▶️ Watch AEK Athens vs Real Madrid Live Stream | Predictions & Tips - 4 Nov - FootballPredictions.NET",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlFNWVYxYWd5RGMzeXNuMWlxaGdPYVN4Y25xUmthVUQ5aEdNblZDeUtjRVVGTGEtMHEyWnJuUmQtaWNMa29MNHdPSTJYc0xWenhTNF9Zem9wMHlIT3NubHVicXVlVnRPVDM0YUZTRHBrUkdpRWFhOUt2elBFdUpFcFNFbGRicVky?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sat, 31 Oct 2026 06:25:28 GMT",
+        "base_score": 41,
+        "candidate_score": 52,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "c7f086a6e26a4017da437fbd",
         "mode": "sportdog",
         "title": "Olympiacos Eyeing Guadelopian Defender; May Arrive in January - Yahoo Sports",
@@ -75,7 +115,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 30 Oct 2026 19:20:39 GMT",
         "base_score": 39,
-        "candidate_score": 50,
+        "candidate_score": 47,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -84,6 +124,44 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "eb15e9bb73b6cc7a65c879fd",
+        "mode": "sportdog",
+        "title": "7 potential NBA options for Olympiacos to replace Jean Montero - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0tvOGt3VHdTTlRwWFhPa1ZtLTZ2SWFzSjRVNDJPTVZtR0ZoODZyblJ5TXBNWmtiaEYxZVdyWE4yVUlveUZSaDJ3R1R3ZFh1YXMyUW9tSXg0WlhHZVNfOWcyOWdWYXJReXo3RGt2aVltRUVKWVRELU5iT0QyY29oc3NCVHh2c0p2MWR4RHVoN0w5VWtyR1E?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sat, 31 Oct 2026 11:23:49 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "9feab9d4a76e8faec5fe4152",
+        "mode": "sportdog",
+        "title": "Watch Manchester City vs AEK Athens - TOD",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHZzVXV0QUlVQWVQRjFvRU9oYUt6NDZqczF3MUxiRlUtb3J6RnM1OGZ0TjVSTDNqc3J3ODNlM2lGb0dFMC0yMnlGbWNYYWI2Q1lmaVoyX0dkTnhsNENBQTNGeGFmRlpaaHg2Tm01VWkwcmZYOXY1eng5X3laMDhIMXg4ellTeXluVmpOdURlQXVESnRxYTNPRHBuWHVVZTJNUFhWQXB3aU9CZnZiMGNV?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sat, 31 Oct 2026 01:08:53 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -114,7 +192,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Fri, 30 Oct 2026 19:24:16 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -133,7 +211,7 @@
         "source": "AEK Rumour Watch",
         "published": "Fri, 30 Oct 2026 18:27:41 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -164,25 +242,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "2ec2fb2f7d76190d7d995c9e",
-        "mode": "geopolitico",
-        "title": "Indian soldier arrested for alleged spying for Pakistan - Daily Observer",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QaWRSXzI4TXhBUXJIUWIxaEY3WXoyeHEyZjVueEFUbzkwdk9Md1pwZURaOXBLYl8tRklJelRVejNmekVDN2JVMUNR?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sat, 31 Oct 2026 10:24:53 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Ege",
-          "spying",
-          "arrest"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "df5307ccccebe374b454ea60",
         "mode": "geopolitico",
         "title": "Batı basını Türkiye'nin yeni hamlesini yazdı: Yunanistan, İsrail ve Güney Kıbrıs'ı birbirinden koparacak - El-Aziz Gazetesi",
@@ -190,7 +249,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 31 Oct 2026 05:00:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -200,6 +259,24 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "9da3af3e9edda7deb1884a30",
+        "mode": "geopolitico",
+        "title": "What Israel Elections Means for Greece as Aegean Tensions Rise - Greek City Times",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVFjVUthMzlmcF9YTFBtX2d2ZDFycjVjbmhPM2Jlb1JiWWQzNmRlUVZTbHBGMVM0cXI5dnJUclJhMHA2ckZLc01sR015MXVIdDNtRGhBMUZTRVdNLWxub0NtcUJlZjZRdnBzSGQtODhiYmRjVzRYaGM5YnUxc0lQUVpQNGdrZlZ0bkxqSm41aHNjWjBiak5YOC1FSXJXdmlQdDQ0?oc=5",
+        "source": "Cyprus Eastern Mediterranean Watch",
+        "published": "Sat, 31 Oct 2026 01:20:51 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Aegean",
+          "Ege"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "9299d45e0032c375832ac312",
         "mode": "geopolitico",
         "title": "Yunanistan Savunma Bakanı Dendias'tan Türkiye-Libya mutabakatı açıklaması - 12punto",
@@ -207,7 +284,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 31 Oct 2026 16:12:00 GMT",
         "base_score": 91,
-        "candidate_score": 101,
+        "candidate_score": 97,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -216,42 +293,6 @@
           "savunma"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "c9ea60b48b69a7756d0bdd08",
-        "mode": "geopolitico",
-        "title": "Netanyahu Defies Exit Polls to Take Lead in Israeli Election — What It Means for Iran War - Middle East Forum",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3BCT3ZyXzdQbUFtVUtjNGNzOW5obzEtWURkU2RTc2h6V1lIbnZZdXdrby1RamVmeUFQRkd1VXZ3aEd4VGluMWl3Q0ttR0d6LUg2anlkbEJsUTZ0UnNsZzQ1MUNFMk92M0xvSV9UaHllTkljY2QzbXlYcm1rUXRkWjFqazV4bDd5RWY3Z0ItN2o3Ml93MjJGcFVvUTd0VHFFc3JWN3FqdGtYNTBFSHFVRWFId0s1OVBNemFwN2xCNA?oc=5",
-        "source": "Middle East Forum Watch",
-        "published": "Fri, 30 Oct 2026 19:03:01 GMT",
-        "base_score": 96,
-        "candidate_score": 99,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Israel",
-          "Israeli",
-          "Netanyahu",
-          "Iran"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "e8286f4aad8e9533bdc14cc8",
-        "mode": "geopolitico",
-        "title": "Army soldier arrested in Hasimara for allegedly leaking military secrets to Pakistan’s ISI - The CSR Journal",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFVCdEUwWTBMN0FSd2I5UjlJZkYwRTk2QkVLbjhKbnM5b0ctb21oLXl0elc4eFA5SHRBUjJxNXVtN1JHeExQNGpJczNnWlJYZS1FZWdDX0wzZmw4N1ZXcWplRHJZdURoaVFhUkhvZXI3c29tb1Y0WHFHX2tfRG5kUWFiNHpmX180MHB3OXItWVI5WHBpdGhuSUo4WVVhUUJ2eGxLbXNR?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sat, 31 Oct 2026 11:54:57 GMT",
-        "base_score": 91,
-        "candidate_score": 97,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pakistan",
-          "Ege",
-          "ISI",
-          "arrest"
-        ],
-        "content_type": "news"
       },
       {
         "external_id": "f5bf2b77a050698aa315a890",
@@ -272,6 +313,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "3c6e48cb8d3946f7d33ed8d0",
+        "mode": "geopolitico",
+        "title": "How Turkey’s Submarine-hunting Drones Could Challenge The Israeli Navy - i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHNUYldvLUo2NTRWcUdPQWo2RkFKMGJJSW5Oc3o3MHBLX0loZXpqd1VTTjQyT0NOSmFfcjFneEJoRmk3ai1yY2VxMFNPTFN4NXZSLXR3YjNkM0s3NlhIV3Etb3h3YUx5TWhTa1lWNlFSQk9ob3ZWYjRZcW5GYjVMS3JIeTlDYUxWaHljYzVVWEVjcXNMSHIyNDhON0hhaWZoQk5SZC1Oc1dHWEx6T1BOMnJ0WjV6Nm51RnV0WFZB?oc=5",
+        "source": "i24NEWS Greece Turkey Cyprus IMEC Watch",
+        "published": "Sun, 01 Nov 2026 00:22:00 GMT",
+        "base_score": 78,
+        "candidate_score": 93,
+        "priority": "High",
+        "matched_keywords": [
+          "Israel",
+          "Israeli",
+          "Turkey",
+          "drone"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "efd2da5e993a9e97bbb391f3",
         "mode": "geopolitico",
         "title": "Yunanistan'a kaçmaya çalışırken Ege Denizi'nde boğuldu - Haber 7",
@@ -279,14 +338,31 @@
         "source": "Haber7 Greece Watch",
         "published": "Sat, 31 Oct 2026 15:58:00 GMT",
         "base_score": 85,
-        "candidate_score": 95,
-        "priority": "URGENT",
+        "candidate_score": 91,
+        "priority": "High",
         "matched_keywords": [
           "Yunanistan",
           "Ege",
           "Ege Denizi"
         ],
         "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "819c210274892f962d2a0e74",
+        "mode": "geopolitico",
+        "title": "Hangor-Class vs Kalvari-Class: How Do Pakistan’s and India’s Newest Submarines Compare? - DefenceXP",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2d4a193WTRIbElkdmQ3VGZTQy1NTmNNQnpoelhTZGpGMkotQ2FWWE1sZDJaeVEwb3VpMnZ2RlJRVzU3SVBIV2l1bVhUVlpnVHRaV2pQVGJrbldyTFJxMEZHbkFyVXpMNHNaTUVldU9xZ0V2MWp5MFE5SnJYd0lYbk1KSUd6NWc?oc=5",
+        "source": "DefenceXP India Watch",
+        "published": "Sat, 31 Oct 2026 18:54:01 GMT",
+        "base_score": 69,
+        "candidate_score": 79,
+        "priority": "High",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "defence"
+        ],
+        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -308,23 +384,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "e1db8d17441ab55b3540ea44",
-        "mode": "pontos_voice",
-        "title": "Φθινόπωρο στον Βαζελώνα – Το ιστορικό μοναστήρι του Πόντου στην αγκαλιά του δάσους - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkFEVXhRbFRwTjRqY2tRamZYZ252bTVCQUJIdHozMFdFU2xZZ0JmRE9mdERrRzNxaGNiVjlBUjRUZlhvTHBHeTZVRUdXSzZUZFk5b3FtWC1EeXNRT2lDbEtlQmlaTDF3V1Bmand3cjRjbnpYUkFVUVZsNlhLM2NOMy1GdHNLNzlOamk5eG9ITzU2VXVOdUpwOW56bVBvMVU?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Sat, 31 Oct 2026 19:49:14 GMT",
-        "base_score": 92,
-        "candidate_score": 107,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "Βαζελώνα",
-          "μοναστήρι"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "78042e0eaf87803a870e1a31",
         "mode": "pontos_voice",
         "title": "Ποντιακός Σύλλογος «Το Καΐστρι»: Έρχεται η ώρα του 3ου ετήσιου χορού, με μεγάλα ονόματα της ποντιακής μουσικής - pontosnews.gr",
@@ -338,6 +397,23 @@
           "Pontos",
           "ποντιακός",
           "ποντιακή"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e1db8d17441ab55b3540ea44",
+        "mode": "pontos_voice",
+        "title": "Φθινόπωρο στον Βαζελώνα – Το ιστορικό μοναστήρι του Πόντου στην αγκαλιά του δάσους - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkFEVXhRbFRwTjRqY2tRamZYZ252bTVCQUJIdHozMFdFU2xZZ0JmRE9mdERrRzNxaGNiVjlBUjRUZlhvTHBHeTZVRUdXSzZUZFk5b3FtWC1EeXNRT2lDbEtlQmlaTDF3V1Bmand3cjRjbnpYUkFVUVZsNlhLM2NOMy1GdHNLNzlOamk5eG9ITzU2VXVOdUpwOW56bVBvMVU?oc=5",
+        "source": "Pontos News Watch",
+        "published": "Sat, 31 Oct 2026 19:49:14 GMT",
+        "base_score": 92,
+        "candidate_score": 102,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "Βαζελώνα",
+          "μοναστήρι"
         ],
         "content_type": "news"
       },
@@ -366,7 +442,7 @@
         "source": "61Saat Trabzon",
         "published": "Sat, 31 Oct 2026 23:20:00 +0300",
         "base_score": 49,
-        "candidate_score": 64,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -377,19 +453,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "886bf5abb4fb125ece7bfad0",
+        "external_id": "b6d586e0c87978923566e9e6",
         "mode": "pontos_voice",
-        "title": "TRABZON’DA GASTRONOMİ FESTİVALİ BAŞLIYOR",
-        "url": "https://www.61saat.com/trabzonda-gastronomi-festivali-basliyor-1",
+        "title": "Harun Çelik'ten Nuri Bekar'ın romanına övgü: “Cengiz Aytmatov’un Toprak Ana’sı” gibi",
+        "url": "https://www.61saat.com/harun-celikten-nuri-bekarin-romanina-ovgu-cengiz-aytmatovun-toprak-anasi-gibi",
         "source": "61Saat Trabzon",
-        "published": "Sun, 01 Nov 2026 00:00:00 +0300",
-        "base_score": 41,
-        "candidate_score": 56,
+        "published": "Sat, 31 Oct 2026 20:00:00 +0300",
+        "base_score": 46,
+        "candidate_score": 52,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "vali"
+          "Roma",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -397,22 +473,42 @@
   },
   "items": [
     {
-      "external_id": "27e86680cdc6c27ec3b2444e",
+      "external_id": "09be04634feafdb649b4a722",
       "mode": "sportdog",
-      "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar.am",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sat, 31 Oct 2026 07:00:01 GMT",
-      "base_score": 56,
-      "candidate_score": 82,
+      "title": "Antonio Marin Transfer from Olimpija to Panathinaikos - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3RoQXhjUFBpOXphWWI1dUVpTkhVRGpnZHM2YUtRejlRYjdrbGZCNDk2eGdIaEo2N3VabmxybE9rZDF0RWg5ZWY0am56ZmgyX0tmUmZpRC1kSkRjdS04SGZORlE4WlVWNVdZNUtSUDIwLV9sX1R6QzNwRU5VWjhOdW1KTXdrOWdCRXZIeg?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Fri, 30 Oct 2026 20:41:09 GMT",
+      "base_score": 58,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
-        "Olympiacos",
+        "Panathinaikos",
         "transfer"
       ],
       "content_type": "news",
       "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "5447ba2b9ecfd40d68fca0ad",
+      "mode": "sportdog",
+      "title": "Levi García Transfer from Spartak Moskva to Panathinaikos - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTRKeHJ3WlJObVp5Z1cyNEdDMTdlYk5Hdk1IQndXR2F3TWlKQ0dkZm1zeWNkWnNvRktmYS1OVGhpR2wzbzVIbjFJcUw4M2dYbEZyOEpWX0dOa1NneG8ySXJwM2l5QUtCR1YxSWlTTnlSTHhreDJiS2hxelE5STF4NnVIMnMzN2ZLdHR1NXZlRHp0QQ?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Fri, 30 Oct 2026 15:29:24 GMT",
+      "base_score": 58,
+      "candidate_score": 78,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -424,7 +520,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 31 Oct 2026 16:47:39 GMT",
       "base_score": 56,
-      "candidate_score": 74,
+      "candidate_score": 70,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -457,6 +553,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "19d7187997a3626f962a62a9",
+      "mode": "sportdog",
+      "title": "▶️ Watch AEK Athens vs Real Madrid Live Stream | Predictions & Tips - 4 Nov - FootballPredictions.NET",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlFNWVYxYWd5RGMzeXNuMWlxaGdPYVN4Y25xUmthVUQ5aEdNblZDeUtjRVVGTGEtMHEyWnJuUmQtaWNMa29MNHdPSTJYc0xWenhTNF9Zem9wMHlIT3NubHVicXVlVnRPVDM0YUZTRHBrUkdpRWFhOUt2elBFdUpFcFNFbGRicVky?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sat, 31 Oct 2026 06:25:28 GMT",
+      "base_score": 41,
+      "candidate_score": 52,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "c7f086a6e26a4017da437fbd",
       "mode": "sportdog",
       "title": "Olympiacos Eyeing Guadelopian Defender; May Arrive in January - Yahoo Sports",
@@ -464,7 +580,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 30 Oct 2026 19:20:39 GMT",
       "base_score": 39,
-      "candidate_score": 50,
+      "candidate_score": 47,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -473,6 +589,44 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "eb15e9bb73b6cc7a65c879fd",
+      "mode": "sportdog",
+      "title": "7 potential NBA options for Olympiacos to replace Jean Montero - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0tvOGt3VHdTTlRwWFhPa1ZtLTZ2SWFzSjRVNDJPTVZtR0ZoODZyblJ5TXBNWmtiaEYxZVdyWE4yVUlveUZSaDJ3R1R3ZFh1YXMyUW9tSXg0WlhHZVNfOWcyOWdWYXJReXo3RGt2aVltRUVKWVRELU5iT0QyY29oc3NCVHh2c0p2MWR4RHVoN0w5VWtyR1E?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sat, 31 Oct 2026 11:23:49 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "9feab9d4a76e8faec5fe4152",
+      "mode": "sportdog",
+      "title": "Watch Manchester City vs AEK Athens - TOD",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHZzVXV0QUlVQWVQRjFvRU9oYUt6NDZqczF3MUxiRlUtb3J6RnM1OGZ0TjVSTDNqc3J3ODNlM2lGb0dFMC0yMnlGbWNYYWI2Q1lmaVoyX0dkTnhsNENBQTNGeGFmRlpaaHg2Tm01VWkwcmZYOXY1eng5X3laMDhIMXg4ellTeXluVmpOdURlQXVESnRxYTNPRHBuWHVVZTJNUFhWQXB3aU9CZnZiMGNV?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sat, 31 Oct 2026 01:08:53 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -503,7 +657,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Fri, 30 Oct 2026 19:24:16 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -522,7 +676,7 @@
       "source": "AEK Rumour Watch",
       "published": "Fri, 30 Oct 2026 18:27:41 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -551,25 +705,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "2ec2fb2f7d76190d7d995c9e",
-      "mode": "geopolitico",
-      "title": "Indian soldier arrested for alleged spying for Pakistan - Daily Observer",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QaWRSXzI4TXhBUXJIUWIxaEY3WXoyeHEyZjVueEFUbzkwdk9Md1pwZURaOXBLYl8tRklJelRVejNmekVDN2JVMUNR?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sat, 31 Oct 2026 10:24:53 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Ege",
-        "spying",
-        "arrest"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "df5307ccccebe374b454ea60",
       "mode": "geopolitico",
       "title": "Batı basını Türkiye'nin yeni hamlesini yazdı: Yunanistan, İsrail ve Güney Kıbrıs'ı birbirinden koparacak - El-Aziz Gazetesi",
@@ -577,7 +712,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 31 Oct 2026 05:00:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -587,6 +722,24 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "9da3af3e9edda7deb1884a30",
+      "mode": "geopolitico",
+      "title": "What Israel Elections Means for Greece as Aegean Tensions Rise - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVFjVUthMzlmcF9YTFBtX2d2ZDFycjVjbmhPM2Jlb1JiWWQzNmRlUVZTbHBGMVM0cXI5dnJUclJhMHA2ckZLc01sR015MXVIdDNtRGhBMUZTRVdNLWxub0NtcUJlZjZRdnBzSGQtODhiYmRjVzRYaGM5YnUxc0lQUVpQNGdrZlZ0bkxqSm41aHNjWjBiak5YOC1FSXJXdmlQdDQ0?oc=5",
+      "source": "Cyprus Eastern Mediterranean Watch",
+      "published": "Sat, 31 Oct 2026 01:20:51 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "Aegean",
+        "Ege"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "9299d45e0032c375832ac312",
       "mode": "geopolitico",
       "title": "Yunanistan Savunma Bakanı Dendias'tan Türkiye-Libya mutabakatı açıklaması - 12punto",
@@ -594,7 +747,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 31 Oct 2026 16:12:00 GMT",
       "base_score": 91,
-      "candidate_score": 101,
+      "candidate_score": 97,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -603,42 +756,6 @@
         "savunma"
       ],
       "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "c9ea60b48b69a7756d0bdd08",
-      "mode": "geopolitico",
-      "title": "Netanyahu Defies Exit Polls to Take Lead in Israeli Election — What It Means for Iran War - Middle East Forum",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3BCT3ZyXzdQbUFtVUtjNGNzOW5obzEtWURkU2RTc2h6V1lIbnZZdXdrby1RamVmeUFQRkd1VXZ3aEd4VGluMWl3Q0ttR0d6LUg2anlkbEJsUTZ0UnNsZzQ1MUNFMk92M0xvSV9UaHllTkljY2QzbXlYcm1rUXRkWjFqazV4bDd5RWY3Z0ItN2o3Ml93MjJGcFVvUTd0VHFFc3JWN3FqdGtYNTBFSHFVRWFId0s1OVBNemFwN2xCNA?oc=5",
-      "source": "Middle East Forum Watch",
-      "published": "Fri, 30 Oct 2026 19:03:01 GMT",
-      "base_score": 96,
-      "candidate_score": 99,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Israel",
-        "Israeli",
-        "Netanyahu",
-        "Iran"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "e8286f4aad8e9533bdc14cc8",
-      "mode": "geopolitico",
-      "title": "Army soldier arrested in Hasimara for allegedly leaking military secrets to Pakistan’s ISI - The CSR Journal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFVCdEUwWTBMN0FSd2I5UjlJZkYwRTk2QkVLbjhKbnM5b0ctb21oLXl0elc4eFA5SHRBUjJxNXVtN1JHeExQNGpJczNnWlJYZS1FZWdDX0wzZmw4N1ZXcWplRHJZdURoaVFhUkhvZXI3c29tb1Y0WHFHX2tfRG5kUWFiNHpmX180MHB3OXItWVI5WHBpdGhuSUo4WVVhUUJ2eGxLbXNR?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sat, 31 Oct 2026 11:54:57 GMT",
-      "base_score": 91,
-      "candidate_score": 97,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pakistan",
-        "Ege",
-        "ISI",
-        "arrest"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "f5bf2b77a050698aa315a890",
@@ -659,6 +776,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "3c6e48cb8d3946f7d33ed8d0",
+      "mode": "geopolitico",
+      "title": "How Turkey’s Submarine-hunting Drones Could Challenge The Israeli Navy - i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHNUYldvLUo2NTRWcUdPQWo2RkFKMGJJSW5Oc3o3MHBLX0loZXpqd1VTTjQyT0NOSmFfcjFneEJoRmk3ai1yY2VxMFNPTFN4NXZSLXR3YjNkM0s3NlhIV3Etb3h3YUx5TWhTa1lWNlFSQk9ob3ZWYjRZcW5GYjVMS3JIeTlDYUxWaHljYzVVWEVjcXNMSHIyNDhON0hhaWZoQk5SZC1Oc1dHWEx6T1BOMnJ0WjV6Nm51RnV0WFZB?oc=5",
+      "source": "i24NEWS Greece Turkey Cyprus IMEC Watch",
+      "published": "Sun, 01 Nov 2026 00:22:00 GMT",
+      "base_score": 78,
+      "candidate_score": 93,
+      "priority": "High",
+      "matched_keywords": [
+        "Israel",
+        "Israeli",
+        "Turkey",
+        "drone"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "efd2da5e993a9e97bbb391f3",
       "mode": "geopolitico",
       "title": "Yunanistan'a kaçmaya çalışırken Ege Denizi'nde boğuldu - Haber 7",
@@ -666,14 +801,31 @@
       "source": "Haber7 Greece Watch",
       "published": "Sat, 31 Oct 2026 15:58:00 GMT",
       "base_score": 85,
-      "candidate_score": 95,
-      "priority": "URGENT",
+      "candidate_score": 91,
+      "priority": "High",
       "matched_keywords": [
         "Yunanistan",
         "Ege",
         "Ege Denizi"
       ],
       "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "819c210274892f962d2a0e74",
+      "mode": "geopolitico",
+      "title": "Hangor-Class vs Kalvari-Class: How Do Pakistan’s and India’s Newest Submarines Compare? - DefenceXP",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2d4a193WTRIbElkdmQ3VGZTQy1NTmNNQnpoelhTZGpGMkotQ2FWWE1sZDJaeVEwb3VpMnZ2RlJRVzU3SVBIV2l1bVhUVlpnVHRaV2pQVGJrbldyTFJxMEZHbkFyVXpMNHNaTUVldU9xZ0V2MWp5MFE5SnJYd0lYbk1KSUd6NWc?oc=5",
+      "source": "DefenceXP India Watch",
+      "published": "Sat, 31 Oct 2026 18:54:01 GMT",
+      "base_score": 69,
+      "candidate_score": 79,
+      "priority": "High",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "defence"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "52261f1b7858c6071a380480",
@@ -693,23 +845,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "e1db8d17441ab55b3540ea44",
-      "mode": "pontos_voice",
-      "title": "Φθινόπωρο στον Βαζελώνα – Το ιστορικό μοναστήρι του Πόντου στην αγκαλιά του δάσους - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkFEVXhRbFRwTjRqY2tRamZYZ252bTVCQUJIdHozMFdFU2xZZ0JmRE9mdERrRzNxaGNiVjlBUjRUZlhvTHBHeTZVRUdXSzZUZFk5b3FtWC1EeXNRT2lDbEtlQmlaTDF3V1Bmand3cjRjbnpYUkFVUVZsNlhLM2NOMy1GdHNLNzlOamk5eG9ITzU2VXVOdUpwOW56bVBvMVU?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Sat, 31 Oct 2026 19:49:14 GMT",
-      "base_score": 92,
-      "candidate_score": 107,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "Βαζελώνα",
-        "μοναστήρι"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "78042e0eaf87803a870e1a31",
       "mode": "pontos_voice",
       "title": "Ποντιακός Σύλλογος «Το Καΐστρι»: Έρχεται η ώρα του 3ου ετήσιου χορού, με μεγάλα ονόματα της ποντιακής μουσικής - pontosnews.gr",
@@ -723,6 +858,23 @@
         "Pontos",
         "ποντιακός",
         "ποντιακή"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e1db8d17441ab55b3540ea44",
+      "mode": "pontos_voice",
+      "title": "Φθινόπωρο στον Βαζελώνα – Το ιστορικό μοναστήρι του Πόντου στην αγκαλιά του δάσους - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkFEVXhRbFRwTjRqY2tRamZYZ252bTVCQUJIdHozMFdFU2xZZ0JmRE9mdERrRzNxaGNiVjlBUjRUZlhvTHBHeTZVRUdXSzZUZFk5b3FtWC1EeXNRT2lDbEtlQmlaTDF3V1Bmand3cjRjbnpYUkFVUVZsNlhLM2NOMy1GdHNLNzlOamk5eG9ITzU2VXVOdUpwOW56bVBvMVU?oc=5",
+      "source": "Pontos News Watch",
+      "published": "Sat, 31 Oct 2026 19:49:14 GMT",
+      "base_score": 92,
+      "candidate_score": 102,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "Βαζελώνα",
+        "μοναστήρι"
       ],
       "content_type": "news"
     },
@@ -751,7 +903,7 @@
       "source": "61Saat Trabzon",
       "published": "Sat, 31 Oct 2026 23:20:00 +0300",
       "base_score": 49,
-      "candidate_score": 64,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -762,19 +914,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "886bf5abb4fb125ece7bfad0",
+      "external_id": "b6d586e0c87978923566e9e6",
       "mode": "pontos_voice",
-      "title": "TRABZON’DA GASTRONOMİ FESTİVALİ BAŞLIYOR",
-      "url": "https://www.61saat.com/trabzonda-gastronomi-festivali-basliyor-1",
+      "title": "Harun Çelik'ten Nuri Bekar'ın romanına övgü: “Cengiz Aytmatov’un Toprak Ana’sı” gibi",
+      "url": "https://www.61saat.com/harun-celikten-nuri-bekarin-romanina-ovgu-cengiz-aytmatovun-toprak-anasi-gibi",
       "source": "61Saat Trabzon",
-      "published": "Sun, 01 Nov 2026 00:00:00 +0300",
-      "base_score": 41,
-      "candidate_score": 56,
+      "published": "Sat, 31 Oct 2026 20:00:00 +0300",
+      "base_score": 46,
+      "candidate_score": 52,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "vali"
+        "Roma",
+        "Trabzon"
       ],
       "content_type": "news"
     }
