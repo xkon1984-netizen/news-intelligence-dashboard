@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:37:38.168453+00:00",
+  "generated_at": "2026-11-04T02:44:18.826430+00:00",
   "counts": {
     "sportdog": 15,
     "geopolitico": 8,
@@ -8,24 +8,24 @@
   "modes": {
     "sportdog": [
       {
-        "external_id": "668f10fe5b2b44073b6e5091",
+        "external_id": "ab3f051d9a6de415218840d0",
         "mode": "sportdog",
-        "title": "Tom Louchet Transfer from Nice to PAOK - TransferFeed",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcG54eXlKdnZKRWVDNVZqcFBYWW9qZUgzZkQtTF82V09ZbXRZcmFQR1ByT0R4WVEwRVFxT2RfYm1xUWxRY1lYemJoRmhBNG5UMXF3OElUUlRLNU5HLWo4MTZzNWlwTVkxTEotTVVxSExNeVhyRHJhczJ1TzN6N281eUd3?oc=5",
-        "source": "TransferFeed Greek Super League",
-        "published": "Mon, 02 Nov 2026 21:17:47 GMT",
-        "base_score": 58,
-        "candidate_score": 81,
+        "title": "Panathinaikos - AEK: Live Score, Stream and H2H results 01/11/2026 - Tribuna.com",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMSWJUbmNnMmpfaW92cWJ6ZVk2LVdpNDY0X1RQbi1mTDVhU1ZmV09adWRWNThRVmkzbnlHVGFyeEtHOXRHbDk2NVpBOWdlLWk3?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 04 Nov 2026 00:04:05 GMT",
+        "base_score": 62,
+        "candidate_score": 93,
         "priority": "High",
         "matched_keywords": [
-          "PAOK",
-          "transfer"
+          "AEK",
+          "Panathinaikos"
         ],
         "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "PAOK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
+        "readiness": "READY",
+        "needs_second_source": false
       },
       {
         "external_id": "e588e6c37f282ebb136829cf",
@@ -48,92 +48,12 @@
         "needs_second_source": true
       },
       {
-        "external_id": "338532b5390691b6061bdb13",
-        "mode": "sportdog",
-        "title": "Big chances missed - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEhlTDRYS1d6MGZpTkxod29OTUEwN0t1enNGVVZkeXZDTzd3aGNrY2FKSGNvaGxpRjgwbmRoVEN1ZkJNYkRyU3pSTENHMEZHWHh2cVVMSDJPUFh3M2ZGUHBURTVRTzlLNWVqMFRPUDRFTE94eC15QkRlamFSbnc1akR5RjBKTEJKcVkxVFZWN2pDbkNQR0J4ZXlhdTFyNERDeWg1UzRxYmRyWFdrS1E?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 03 Nov 2026 08:45:50 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "8a703a49ad1d17c6de1b8a71",
         "mode": "sportdog",
         "title": "Goals conceded per match - Olympiacos stats for Super League 1 2026/2027 - FotMob",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0Z2T055azlVTGZtaVI4azV3X0R1TmZZMWhkT05hdGFDZm1VM0NZY2l1RlRQUW4tcVJDRGdOWTVXaVFOSlBFeElyRk83U1dvN29KOW5wM0kxTDNDdFZOZWdSR2xwZW8xV3hEaGdqZmZnUEs0YlZGQXZjcW93M0FfMDBwQVhqS3dYSzFGWmhwZGFZdmpuLWxUUUx6b1BkSHRtQVNWbkdURE9zU2haQTdSRkx3?oc=5",
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 03 Nov 2026 07:27:57 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "e23c7d53ce562e566ac8dff0",
-        "mode": "sportdog",
-        "title": "Top scorer - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1NKUnI3RjFHS1lQa2JsUWhMLU4xWk56V2hJbS1XLVMyc0FrdS1hVHFNdm1OTUpIbV8xZi1aWFdWMHFDS3IybjFqSnpCZGJmVXhYaWQ0THI4dXRZYW01eDB3ZVpfTGwzVF91VFYzaU80eHhGMzNrdTZuaDhqWVdEOEJrSFB0QVRIdTdkYmJnRlVNak9yakQ5Umt1MzRaUjI0SlpN?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Tue, 03 Nov 2026 05:17:24 GMT",
-        "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "e3b226903aa7c49c08fd6329",
-        "mode": "sportdog",
-        "title": "Team News: AEK Athens vs. Real Madrid injury, suspension list, predicted XIs - Sports Mole",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQVk0d2FGOXNSRDMzMkVySGpSclBaVU9OSTdwd2tuYnVRV05KeWZPVFZrc2IyT0ZJcUMtdl91azB3ZDZsVXJZUjhmbGU5VUhBV0FVNDlwcUVnNFNCVUQxNnlyZy0tYnpnNDZUeVhhRFFPZHM3N2JtZGl0eVAtTDBPS0JQSHlpZUtLdzdqeHZuX01mTHNLT0Q3X1c0eEQ0blJYTk9wT2xBUjVaMzVxWnE1TTdGa01La3BaNjVNc09pbnJhTGxwNVFYNlUyZzdSWWpfdkY5YTFtSEQwMzJE?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Tue, 03 Nov 2026 17:45:00 GMT",
-        "base_score": 41,
-        "candidate_score": 68,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "injury"
-        ],
-        "content_type": "news",
-        "editorial_type": "Injury",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "869ef551f68ec92ed213e194",
-        "mode": "sportdog",
-        "title": "Penalties awarded - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcl96Q3ViZWduQ0dFdmZnQmhFNlFFSVd6ZllvaXZqb1BuTXpLM0VLVkd4am90ODd1cEhzMjdCdVdKdHVOTU02UzRFX3N6ckxjM1VyN25ueTB2bDJxa3E5YnRMLVA3TVY0dXVPdjFvLVRid2JMeVVMNHdyMmppRnJTcGQ3M0NmNWxHc2NRXzNJTkM2TGJVdmJ1WWJMQW9heTdoVEx3Yl93?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 03 Nov 2026 03:05:52 GMT",
         "base_score": 56,
         "candidate_score": 67,
         "priority": "Normal",
@@ -142,7 +62,7 @@
           "Super League"
         ],
         "content_type": "news",
-        "editorial_type": "Team News",
+        "editorial_type": "Match / Analysis",
         "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -168,6 +88,46 @@
         "needs_second_source": true
       },
       {
+        "external_id": "7489bc2bd1613bf568c7ad81",
+        "mode": "sportdog",
+        "title": "▶️ Watch Rennes vs Olympiacos Live Stream | Predictions & Tips - 4 Nov - FootballPredictions.NET",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2k4Z18yYmktcjZDTjB6OGRZY0wxT0NEWXVzZlNObTJnUjhJTnI5czlxMzZlck84ZC1NSUpodWFXNU9EODluZGxwN280bXRwUjhvLThwYS05c2hucElWUmhmSlNmTllEOUR5WERwUzNvSDdDMi14SEIzZUtYQVUza0xn?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Tue, 03 Nov 2026 23:49:07 GMT",
+        "base_score": 41,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "51f9017ca9b72f35959b232e",
+        "mode": "sportdog",
+        "title": "Real Madrid Predicted Lineup vs. AEK Athens: Vinicius Jr Returns for Champions League - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVoxOEtvUkNPd1hyOVZZSHZIdUw4TjRCWEl4WE9sSXBuc041bWlOU3JZUHY2UHhJOTdjQXZNUzVMRVo3b0IxbC1TUEp1aUVPOWRCTmpsVDdNb0cwQ2JuNG9ZZEdXV2Zoel8xMnFKQnFEdnUyWWV6R2NCWXk5bGs2QlZOWG9kYnRzenVnRjlhX0lqdFRqSlRwMEd1WTB6aVR3VTdJRmZIdWtrT3VfMWtVOGZuNmJNenZtSkdQNXpDTUUwRFlYX3FDWA?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Tue, 03 Nov 2026 13:45:00 GMT",
+        "base_score": 50,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Champions League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "7444c9dd630cc3a77c4f9a37",
         "mode": "sportdog",
         "title": "Yellow cards - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
@@ -175,7 +135,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Mon, 02 Nov 2026 20:40:54 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
@@ -195,7 +155,7 @@
         "source": "AEK Rumour Watch",
         "published": "Tue, 03 Nov 2026 07:00:00 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -228,18 +188,18 @@
         "needs_second_source": true
       },
       {
-        "external_id": "675926116386be85e95efee3",
+        "external_id": "19d7187997a3626f962a62a9",
         "mode": "sportdog",
-        "title": "AEK Athens vs. Real Madrid: Head-to-head record and past meetings ahead of Champions League clash - Sports Mole",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRkRQUWxLMnBVckl1blBIU0JUR3RtZFZsdWZWTGZCbFdHT2tOTXR0bE1NekVoSnlfZ2hoZl9jMHZnQkhUSWVDMjBfZEdyeFVpNjFnY3lGRnJJSzhJbHE3RVVwY0JSWDBwYkhtM3k2NFJ4WkJLRWoyTXZ6U0RKS2lmRy1kN0tOUy1OQkNMMkVCem9IM2R6NlpGQ1lILVBJdE95R2p3SlhBbHo1aDk5UlFKeEdjYzhINUV6a1F4TWFQUmh0dFdGY3U1YTFoVGtGcTZyZ0haSWVSVlhNRkFEYTRhQzdKR3h0QUpITGM4?oc=5",
+        "title": "▶️ Watch AEK Athens vs Real Madrid Live Stream | Predictions & Tips - 4 Nov - FootballPredictions.NET",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlFNWVYxYWd5RGMzeXNuMWlxaGdPYVN4Y25xUmthVUQ5aEdNblZDeUtjRVVGTGEtMHEyWnJuUmQtaWNMa29MNHdPSTJYc0xWenhTNF9Zem9wMHlIT3NubHVicXVlVnRPVDM0YUZTRHBrUkdpRWFhOUt2elBFdUpFcFNFbGRicVky?oc=5",
         "source": "AEK Rumour Watch",
-        "published": "Mon, 02 Nov 2026 14:42:00 GMT",
-        "base_score": 50,
-        "candidate_score": 58,
+        "published": "Tue, 03 Nov 2026 21:53:37 GMT",
+        "base_score": 41,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
-          "Champions League"
+          "football"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
@@ -255,7 +215,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Tue, 03 Nov 2026 20:53:19 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -267,6 +227,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "b10be3afbd7ba842529a05ee",
+        "mode": "sportdog",
+        "title": "Stade Rennes v Olympiacos Match Stats, Hit Rates & Bet Builder Data - Andy's Bet Club",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFVWMUNtYklOcG5rc3haNmx0MGRYdFJ4a2N4dnU0Z0o2NEhJYVRNcDRqVmNQWk1wWEpjVm1HUzkxTE40YUJDb0NrWkN3Zm10MEhjT3BOcDVkUGJ0YXhNZkEydDh3bGJnX3VNV196TmlnRDhxOTBwaXQ2TmJLV0JxZUVGQy1PbEl4aDI3cnBjSjV3TXQ0RVE?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Tue, 03 Nov 2026 20:26:05 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "2cbc7001666711f7f15b7599",
         "mode": "sportdog",
         "title": "EuroLeague fines Panathinaikos, launches disciplinary case against Giannakopoulos - BasketNews.com",
@@ -274,7 +253,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Tue, 03 Nov 2026 19:43:00 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -286,21 +265,40 @@
         "needs_second_source": true
       },
       {
-        "external_id": "a20d85367abbadb516c4d8fc",
+        "external_id": "d997a1bf956cee99f6357cef",
         "mode": "sportdog",
-        "title": "Onuralp Bitim vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObUNQQjh5UHh5Q1BsdDhmOVZLU1FwY3l4NUd3YjVCbjlad2MxU2xMWDh4aHJMVUQwellkS0JpaTZSeUZSM2VLUmpRdHRMNm1tN2NpS0lxME45bl9TY0lLbUF1dVpFTld0RUhHdzJfLWZKTVF3NHdTekZyYlBnejVUX0oxRU9RaklBeDNwNzN0RnR5SUd6eXgxczMzY3VKMkZU?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Tue, 03 Nov 2026 15:01:37 GMT",
+        "title": "Crvena Zvezda reject PAOK move for star guard - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVFnMzlsREpoZjUyZzBva0ZxRWE2d1ZvdFF6Rk5GbHFTRDRfejlLODRWTm5vRF82Z0gzck14LUhBSDIzVjJNT3FNbnNETHFPZnB5SUlOUUZNZVg4NTRuTmw5SFdaRE8xYmZrZG5NazNIM1AtVjVXOXBvZGtmSjI5M3FjeWRYN3h5bXc?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Tue, 03 Nov 2026 07:21:00 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos"
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "7a43d1a617670415ff9bc4cb",
+        "mode": "sportdog",
+        "title": "Lukasz Kolenda vs PAOK mateco: stats, game log - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPajc3X1B1V1NrbTBfMkUtencwMzNFNm5uX1g1Vl9uMVc4ZkJvNVhseGl3VDJ0b1Y0QmY5SHdWTzdHMmY0Ni1GT0JYeUlSUUNndS1SUnRRSnFPTVZyenNOU2lnamF3UHJIam9POURXQUp0alR0ZDBxRjd5TmtFTVJGQVdZWUowTFNGSkprMk9WVQ?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Mon, 02 Nov 2026 23:29:44 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
         ],
         "content_type": "news",
         "editorial_type": "Match / Analysis",
-        "team": "Panathinaikos",
+        "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
       }
@@ -314,7 +312,7 @@
         "source": "Turkish Greek Defence Watch",
         "published": "Tue, 03 Nov 2026 14:57:38 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -333,7 +331,7 @@
         "source": "Greece India Strategic Watch",
         "published": "Tue, 03 Nov 2026 08:08:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -350,7 +348,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Tue, 03 Nov 2026 08:05:32 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -368,7 +366,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Tue, 03 Nov 2026 04:45:00 GMT",
         "base_score": 98,
-        "candidate_score": 104,
+        "candidate_score": 101,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -386,7 +384,7 @@
         "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
         "published": "Tue, 03 Nov 2026 20:17:26 GMT",
         "base_score": 88,
-        "candidate_score": 103,
+        "candidate_score": 98,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -403,8 +401,8 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Tue, 03 Nov 2026 18:02:20 GMT",
         "base_score": 88,
-        "candidate_score": 98,
-        "priority": "URGENT",
+        "candidate_score": 94,
+        "priority": "High",
         "matched_keywords": [
           "MIT",
           "Miçotakis",
@@ -414,6 +412,24 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "be8bb779bd67728a7a732357",
+        "mode": "geopolitico",
+        "title": "Beijing offers to boost China-Pakistan corridor safety as terror threat grows - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXgyWGhHQ0dVeGhkelY2WWRWWDN5UFhmektXOFJLdGVzTElGc3lTT1dWWHlvOEdsM2JTY0FramlLNXdqTnBvcnU2ZDIzanFQMDgyZy12bTQ3NGtpc1prMjRocXpCMXI1WVZxTDRvNllYSTZlZ1dJMU5MenJYc1lOaVF5OXVVXzJ3S0dkZ21HUF9WbDNLMFFTOVA5OGE1ZUlZTExWdXFJeXNqcEtaUks1a3lQczM1ZnItZjZ1MWNwbTg5SHRkUjZlR9IByAFBVV95cUxQeFB3azBqcGF1SlEtb3hnc3MwQXNQb3hHemduTmxXNWN3ckVUejRPSk05UlBXdGZDUGNvZ0lvaU9EMlJON1RlY29EVHppdko3djNrTl96YlZvSFZCSTVEdHA2VllnYl92bTd3ZDFnQ1duVllfS1JSaVpTRHRjajZNRzVfSks1V2dYaEprbHlDb185bmk5VHpSaWtJbUUxU0pFaXpPYkJPT0oxbkwyRDdvZ1FYMlYzX2dXZU9BdVZocVRKRWMzcGtDdQ?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Tue, 03 Nov 2026 11:00:14 GMT",
+        "base_score": 86,
+        "candidate_score": 92,
+        "priority": "High",
+        "matched_keywords": [
+          "Pakistan",
+          "China",
+          "Beijing",
+          "corridor"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "08a12943c3d9570e3772544a",
         "mode": "geopolitico",
         "title": "All passengers evacuated from Israeli ship docked in Greece following bomb threat - Ynetnews",
@@ -421,24 +437,7 @@
         "source": "Ynet Greece Turkey Cyprus IMEC Watch",
         "published": "Tue, 03 Nov 2026 17:49:25 GMT",
         "base_score": 84,
-        "candidate_score": 94,
-        "priority": "High",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Israeli"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "94b8843da299273b1549a4bb",
-        "mode": "geopolitico",
-        "title": "Over 1,500 held up in Greece as bomb threat prompts checks on Israeli-operated cruise ship - The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnl5bFh2aklDZDNJbGtBUXJRVGdBdE4wN1kzcXhybWZQMFlNWVJIeE1GbXRqQmtYYmcwcGJaMHdqa0pyaGZFay1zOFAxLU0zM0pTOG90c3dyamVBR1QyRU5rRWQtNkRRZW5XX3RrREg5Qm4xYzVXUlVrYkRaNWlGRk52Q294QWh2ZWxiYzBUdzZXNFBRVkwxaE0xVlNrbXBlcnRsY2QwSjk2V0Y4NTVUeDNBeUhZaV9tS09IREI1elFpWm56N3ZUVnQ0STlLSjZu?oc=5",
-        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-        "published": "Tue, 03 Nov 2026 17:09:25 GMT",
-        "base_score": 84,
-        "candidate_score": 94,
+        "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
           "Greece",
@@ -457,7 +456,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Tue, 03 Nov 2026 15:46:36 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -491,7 +490,7 @@
         "source": "Pontos News Watch",
         "published": "Tue, 03 Nov 2026 08:20:49 GMT",
         "base_score": 96,
-        "candidate_score": 102,
+        "candidate_score": 99,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -542,7 +541,7 @@
         "source": "61Saat Trabzon",
         "published": "Tue, 03 Nov 2026 21:00:00 +0300",
         "base_score": 71,
-        "candidate_score": 81,
+        "candidate_score": 77,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
@@ -558,24 +557,24 @@
   },
   "items": [
     {
-      "external_id": "668f10fe5b2b44073b6e5091",
+      "external_id": "ab3f051d9a6de415218840d0",
       "mode": "sportdog",
-      "title": "Tom Louchet Transfer from Nice to PAOK - TransferFeed",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcG54eXlKdnZKRWVDNVZqcFBYWW9qZUgzZkQtTF82V09ZbXRZcmFQR1ByT0R4WVEwRVFxT2RfYm1xUWxRY1lYemJoRmhBNG5UMXF3OElUUlRLNU5HLWo4MTZzNWlwTVkxTEotTVVxSExNeVhyRHJhczJ1TzN6N281eUd3?oc=5",
-      "source": "TransferFeed Greek Super League",
-      "published": "Mon, 02 Nov 2026 21:17:47 GMT",
-      "base_score": 58,
-      "candidate_score": 81,
+      "title": "Panathinaikos - AEK: Live Score, Stream and H2H results 01/11/2026 - Tribuna.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMSWJUbmNnMmpfaW92cWJ6ZVk2LVdpNDY0X1RQbi1mTDVhU1ZmV09adWRWNThRVmkzbnlHVGFyeEtHOXRHbDk2NVpBOWdlLWk3?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 04 Nov 2026 00:04:05 GMT",
+      "base_score": 62,
+      "candidate_score": 93,
       "priority": "High",
       "matched_keywords": [
-        "PAOK",
-        "transfer"
+        "AEK",
+        "Panathinaikos"
       ],
       "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "PAOK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
+      "readiness": "READY",
+      "needs_second_source": false
     },
     {
       "external_id": "e588e6c37f282ebb136829cf",
@@ -598,92 +597,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "338532b5390691b6061bdb13",
-      "mode": "sportdog",
-      "title": "Big chances missed - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEhlTDRYS1d6MGZpTkxod29OTUEwN0t1enNGVVZkeXZDTzd3aGNrY2FKSGNvaGxpRjgwbmRoVEN1ZkJNYkRyU3pSTENHMEZHWHh2cVVMSDJPUFh3M2ZGUHBURTVRTzlLNWVqMFRPUDRFTE94eC15QkRlamFSbnc1akR5RjBKTEJKcVkxVFZWN2pDbkNQR0J4ZXlhdTFyNERDeWg1UzRxYmRyWFdrS1E?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 03 Nov 2026 08:45:50 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "8a703a49ad1d17c6de1b8a71",
       "mode": "sportdog",
       "title": "Goals conceded per match - Olympiacos stats for Super League 1 2026/2027 - FotMob",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0Z2T055azlVTGZtaVI4azV3X0R1TmZZMWhkT05hdGFDZm1VM0NZY2l1RlRQUW4tcVJDRGdOWTVXaVFOSlBFeElyRk83U1dvN29KOW5wM0kxTDNDdFZOZWdSR2xwZW8xV3hEaGdqZmZnUEs0YlZGQXZjcW93M0FfMDBwQVhqS3dYSzFGWmhwZGFZdmpuLWxUUUx6b1BkSHRtQVNWbkdURE9zU2haQTdSRkx3?oc=5",
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 03 Nov 2026 07:27:57 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "e23c7d53ce562e566ac8dff0",
-      "mode": "sportdog",
-      "title": "Top scorer - PAOK Thessaloniki stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1NKUnI3RjFHS1lQa2JsUWhMLU4xWk56V2hJbS1XLVMyc0FrdS1hVHFNdm1OTUpIbV8xZi1aWFdWMHFDS3IybjFqSnpCZGJmVXhYaWQ0THI4dXRZYW01eDB3ZVpfTGwzVF91VFYzaU80eHhGMzNrdTZuaDhqWVdEOEJrSFB0QVRIdTdkYmJnRlVNak9yakQ5Umt1MzRaUjI0SlpN?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Tue, 03 Nov 2026 05:17:24 GMT",
-      "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "e3b226903aa7c49c08fd6329",
-      "mode": "sportdog",
-      "title": "Team News: AEK Athens vs. Real Madrid injury, suspension list, predicted XIs - Sports Mole",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQVk0d2FGOXNSRDMzMkVySGpSclBaVU9OSTdwd2tuYnVRV05KeWZPVFZrc2IyT0ZJcUMtdl91azB3ZDZsVXJZUjhmbGU5VUhBV0FVNDlwcUVnNFNCVUQxNnlyZy0tYnpnNDZUeVhhRFFPZHM3N2JtZGl0eVAtTDBPS0JQSHlpZUtLdzdqeHZuX01mTHNLT0Q3X1c0eEQ0blJYTk9wT2xBUjVaMzVxWnE1TTdGa01La3BaNjVNc09pbnJhTGxwNVFYNlUyZzdSWWpfdkY5YTFtSEQwMzJE?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Tue, 03 Nov 2026 17:45:00 GMT",
-      "base_score": 41,
-      "candidate_score": 68,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "injury"
-      ],
-      "content_type": "news",
-      "editorial_type": "Injury",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "869ef551f68ec92ed213e194",
-      "mode": "sportdog",
-      "title": "Penalties awarded - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcl96Q3ViZWduQ0dFdmZnQmhFNlFFSVd6ZllvaXZqb1BuTXpLM0VLVkd4am90ODd1cEhzMjdCdVdKdHVOTU02UzRFX3N6ckxjM1VyN25ueTB2bDJxa3E5YnRMLVA3TVY0dXVPdjFvLVRid2JMeVVMNHdyMmppRnJTcGQ3M0NmNWxHc2NRXzNJTkM2TGJVdmJ1WWJMQW9heTdoVEx3Yl93?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 03 Nov 2026 03:05:52 GMT",
       "base_score": 56,
       "candidate_score": 67,
       "priority": "Normal",
@@ -692,7 +611,7 @@
         "Super League"
       ],
       "content_type": "news",
-      "editorial_type": "Team News",
+      "editorial_type": "Match / Analysis",
       "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -718,6 +637,46 @@
       "needs_second_source": true
     },
     {
+      "external_id": "7489bc2bd1613bf568c7ad81",
+      "mode": "sportdog",
+      "title": "▶️ Watch Rennes vs Olympiacos Live Stream | Predictions & Tips - 4 Nov - FootballPredictions.NET",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2k4Z18yYmktcjZDTjB6OGRZY0wxT0NEWXVzZlNObTJnUjhJTnI5czlxMzZlck84ZC1NSUpodWFXNU9EODluZGxwN280bXRwUjhvLThwYS05c2hucElWUmhmSlNmTllEOUR5WERwUzNvSDdDMi14SEIzZUtYQVUza0xn?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Tue, 03 Nov 2026 23:49:07 GMT",
+      "base_score": 41,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "51f9017ca9b72f35959b232e",
+      "mode": "sportdog",
+      "title": "Real Madrid Predicted Lineup vs. AEK Athens: Vinicius Jr Returns for Champions League - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVoxOEtvUkNPd1hyOVZZSHZIdUw4TjRCWEl4WE9sSXBuc041bWlOU3JZUHY2UHhJOTdjQXZNUzVMRVo3b0IxbC1TUEp1aUVPOWRCTmpsVDdNb0cwQ2JuNG9ZZEdXV2Zoel8xMnFKQnFEdnUyWWV6R2NCWXk5bGs2QlZOWG9kYnRzenVnRjlhX0lqdFRqSlRwMEd1WTB6aVR3VTdJRmZIdWtrT3VfMWtVOGZuNmJNenZtSkdQNXpDTUUwRFlYX3FDWA?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Tue, 03 Nov 2026 13:45:00 GMT",
+      "base_score": 50,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Champions League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "7444c9dd630cc3a77c4f9a37",
       "mode": "sportdog",
       "title": "Yellow cards - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
@@ -725,7 +684,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Mon, 02 Nov 2026 20:40:54 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
@@ -745,7 +704,7 @@
       "source": "AEK Rumour Watch",
       "published": "Tue, 03 Nov 2026 07:00:00 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -778,18 +737,18 @@
       "needs_second_source": true
     },
     {
-      "external_id": "675926116386be85e95efee3",
+      "external_id": "19d7187997a3626f962a62a9",
       "mode": "sportdog",
-      "title": "AEK Athens vs. Real Madrid: Head-to-head record and past meetings ahead of Champions League clash - Sports Mole",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRkRQUWxLMnBVckl1blBIU0JUR3RtZFZsdWZWTGZCbFdHT2tOTXR0bE1NekVoSnlfZ2hoZl9jMHZnQkhUSWVDMjBfZEdyeFVpNjFnY3lGRnJJSzhJbHE3RVVwY0JSWDBwYkhtM3k2NFJ4WkJLRWoyTXZ6U0RKS2lmRy1kN0tOUy1OQkNMMkVCem9IM2R6NlpGQ1lILVBJdE95R2p3SlhBbHo1aDk5UlFKeEdjYzhINUV6a1F4TWFQUmh0dFdGY3U1YTFoVGtGcTZyZ0haSWVSVlhNRkFEYTRhQzdKR3h0QUpITGM4?oc=5",
+      "title": "▶️ Watch AEK Athens vs Real Madrid Live Stream | Predictions & Tips - 4 Nov - FootballPredictions.NET",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlFNWVYxYWd5RGMzeXNuMWlxaGdPYVN4Y25xUmthVUQ5aEdNblZDeUtjRVVGTGEtMHEyWnJuUmQtaWNMa29MNHdPSTJYc0xWenhTNF9Zem9wMHlIT3NubHVicXVlVnRPVDM0YUZTRHBrUkdpRWFhOUt2elBFdUpFcFNFbGRicVky?oc=5",
       "source": "AEK Rumour Watch",
-      "published": "Mon, 02 Nov 2026 14:42:00 GMT",
-      "base_score": 50,
-      "candidate_score": 58,
+      "published": "Tue, 03 Nov 2026 21:53:37 GMT",
+      "base_score": 41,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
-        "Champions League"
+        "football"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -805,7 +764,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Tue, 03 Nov 2026 20:53:19 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -817,6 +776,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "b10be3afbd7ba842529a05ee",
+      "mode": "sportdog",
+      "title": "Stade Rennes v Olympiacos Match Stats, Hit Rates & Bet Builder Data - Andy's Bet Club",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFVWMUNtYklOcG5rc3haNmx0MGRYdFJ4a2N4dnU0Z0o2NEhJYVRNcDRqVmNQWk1wWEpjVm1HUzkxTE40YUJDb0NrWkN3Zm10MEhjT3BOcDVkUGJ0YXhNZkEydDh3bGJnX3VNV196TmlnRDhxOTBwaXQ2TmJLV0JxZUVGQy1PbEl4aDI3cnBjSjV3TXQ0RVE?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Tue, 03 Nov 2026 20:26:05 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "2cbc7001666711f7f15b7599",
       "mode": "sportdog",
       "title": "EuroLeague fines Panathinaikos, launches disciplinary case against Giannakopoulos - BasketNews.com",
@@ -824,7 +802,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Tue, 03 Nov 2026 19:43:00 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -836,21 +814,40 @@
       "needs_second_source": true
     },
     {
-      "external_id": "a20d85367abbadb516c4d8fc",
+      "external_id": "d997a1bf956cee99f6357cef",
       "mode": "sportdog",
-      "title": "Onuralp Bitim vs Panathinaikos AKTOR Athens: stats, game log - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObUNQQjh5UHh5Q1BsdDhmOVZLU1FwY3l4NUd3YjVCbjlad2MxU2xMWDh4aHJMVUQwellkS0JpaTZSeUZSM2VLUmpRdHRMNm1tN2NpS0lxME45bl9TY0lLbUF1dVpFTld0RUhHdzJfLWZKTVF3NHdTekZyYlBnejVUX0oxRU9RaklBeDNwNzN0RnR5SUd6eXgxczMzY3VKMkZU?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Tue, 03 Nov 2026 15:01:37 GMT",
+      "title": "Crvena Zvezda reject PAOK move for star guard - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVFnMzlsREpoZjUyZzBva0ZxRWE2d1ZvdFF6Rk5GbHFTRDRfejlLODRWTm5vRF82Z0gzck14LUhBSDIzVjJNT3FNbnNETHFPZnB5SUlOUUZNZVg4NTRuTmw5SFdaRE8xYmZrZG5NazNIM1AtVjVXOXBvZGtmSjI5M3FjeWRYN3h5bXc?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Tue, 03 Nov 2026 07:21:00 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos"
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "7a43d1a617670415ff9bc4cb",
+      "mode": "sportdog",
+      "title": "Lukasz Kolenda vs PAOK mateco: stats, game log - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPajc3X1B1V1NrbTBfMkUtencwMzNFNm5uX1g1Vl9uMVc4ZkJvNVhseGl3VDJ0b1Y0QmY5SHdWTzdHMmY0Ni1GT0JYeUlSUUNndS1SUnRRSnFPTVZyenNOU2lnamF3UHJIam9POURXQUp0alR0ZDBxRjd5TmtFTVJGQVdZWUowTFNGSkprMk9WVQ?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Mon, 02 Nov 2026 23:29:44 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
       ],
       "content_type": "news",
       "editorial_type": "Match / Analysis",
-      "team": "Panathinaikos",
+      "team": "PAOK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -862,7 +859,7 @@
       "source": "Turkish Greek Defence Watch",
       "published": "Tue, 03 Nov 2026 14:57:38 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -881,7 +878,7 @@
       "source": "Greece India Strategic Watch",
       "published": "Tue, 03 Nov 2026 08:08:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -898,7 +895,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Tue, 03 Nov 2026 08:05:32 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -916,7 +913,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Tue, 03 Nov 2026 04:45:00 GMT",
       "base_score": 98,
-      "candidate_score": 104,
+      "candidate_score": 101,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -934,7 +931,7 @@
       "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
       "published": "Tue, 03 Nov 2026 20:17:26 GMT",
       "base_score": 88,
-      "candidate_score": 103,
+      "candidate_score": 98,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -951,8 +948,8 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Tue, 03 Nov 2026 18:02:20 GMT",
       "base_score": 88,
-      "candidate_score": 98,
-      "priority": "URGENT",
+      "candidate_score": 94,
+      "priority": "High",
       "matched_keywords": [
         "MIT",
         "Miçotakis",
@@ -962,6 +959,24 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "be8bb779bd67728a7a732357",
+      "mode": "geopolitico",
+      "title": "Beijing offers to boost China-Pakistan corridor safety as terror threat grows - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXgyWGhHQ0dVeGhkelY2WWRWWDN5UFhmektXOFJLdGVzTElGc3lTT1dWWHlvOEdsM2JTY0FramlLNXdqTnBvcnU2ZDIzanFQMDgyZy12bTQ3NGtpc1prMjRocXpCMXI1WVZxTDRvNllYSTZlZ1dJMU5MenJYc1lOaVF5OXVVXzJ3S0dkZ21HUF9WbDNLMFFTOVA5OGE1ZUlZTExWdXFJeXNqcEtaUks1a3lQczM1ZnItZjZ1MWNwbTg5SHRkUjZlR9IByAFBVV95cUxQeFB3azBqcGF1SlEtb3hnc3MwQXNQb3hHemduTmxXNWN3ckVUejRPSk05UlBXdGZDUGNvZ0lvaU9EMlJON1RlY29EVHppdko3djNrTl96YlZvSFZCSTVEdHA2VllnYl92bTd3ZDFnQ1duVllfS1JSaVpTRHRjajZNRzVfSks1V2dYaEprbHlDb185bmk5VHpSaWtJbUUxU0pFaXpPYkJPT0oxbkwyRDdvZ1FYMlYzX2dXZU9BdVZocVRKRWMzcGtDdQ?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Tue, 03 Nov 2026 11:00:14 GMT",
+      "base_score": 86,
+      "candidate_score": 92,
+      "priority": "High",
+      "matched_keywords": [
+        "Pakistan",
+        "China",
+        "Beijing",
+        "corridor"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "08a12943c3d9570e3772544a",
       "mode": "geopolitico",
       "title": "All passengers evacuated from Israeli ship docked in Greece following bomb threat - Ynetnews",
@@ -969,24 +984,7 @@
       "source": "Ynet Greece Turkey Cyprus IMEC Watch",
       "published": "Tue, 03 Nov 2026 17:49:25 GMT",
       "base_score": 84,
-      "candidate_score": 94,
-      "priority": "High",
-      "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Israeli"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "94b8843da299273b1549a4bb",
-      "mode": "geopolitico",
-      "title": "Over 1,500 held up in Greece as bomb threat prompts checks on Israeli-operated cruise ship - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnl5bFh2aklDZDNJbGtBUXJRVGdBdE4wN1kzcXhybWZQMFlNWVJIeE1GbXRqQmtYYmcwcGJaMHdqa0pyaGZFay1zOFAxLU0zM0pTOG90c3dyamVBR1QyRU5rRWQtNkRRZW5XX3RrREg5Qm4xYzVXUlVrYkRaNWlGRk52Q294QWh2ZWxiYzBUdzZXNFBRVkwxaE0xVlNrbXBlcnRsY2QwSjk2V0Y4NTVUeDNBeUhZaV9tS09IREI1elFpWm56N3ZUVnQ0STlLSjZu?oc=5",
-      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-      "published": "Tue, 03 Nov 2026 17:09:25 GMT",
-      "base_score": 84,
-      "candidate_score": 94,
+      "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
         "Greece",
@@ -1003,7 +1001,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Tue, 03 Nov 2026 15:46:36 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -1037,7 +1035,7 @@
       "source": "Pontos News Watch",
       "published": "Tue, 03 Nov 2026 08:20:49 GMT",
       "base_score": 96,
-      "candidate_score": 102,
+      "candidate_score": 99,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -1088,7 +1086,7 @@
       "source": "61Saat Trabzon",
       "published": "Tue, 03 Nov 2026 21:00:00 +0300",
       "base_score": 71,
-      "candidate_score": 81,
+      "candidate_score": 77,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
