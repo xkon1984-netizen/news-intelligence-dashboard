@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:59:31.594463+00:00",
+  "generated_at": "2026-11-06T20:52:20.657555+00:00",
   "counts": {
     "sportdog": 4,
     "geopolitico": 8,
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 06 Nov 2026 02:52:07 GMT",
         "base_score": 62,
-        "candidate_score": 84,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -35,7 +35,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Thu, 05 Nov 2026 13:19:08 GMT",
         "base_score": 41,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -44,7 +44,7 @@
         "content_type": "news",
         "editorial_type": "Injury",
         "team": "PAOK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -75,7 +75,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Fri, 06 Nov 2026 09:06:50 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -89,12 +89,12 @@
     ],
     "geopolitico": [
       {
-        "external_id": "5cad2955d952a7b249749b38",
+        "external_id": "16bc08a5b0d10cfd721f007f",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de işler tersine döndü! Yunanistan Türkiye'nin kapısını çalmak zorunda kaldı, \"Macron yönetimi devreye girdi\" - Türkiye Gazetesi",
+        "title": "Doğu Akdeniz'de işler tersine döndü! Yunanistan Türkiye'nin kapısını çalmak zorunda kaldı, 'Macron yönetimi devreye girdi' - Türkiye Gazetesi",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNjczcE45dWtKRW9ucEYwNy1VSUo4bF9HazZiMVJEbWFkTjBfU1Fkcm12dE9EQVl5Z3B1TExYOUVzb3hFMmxuX29SR0t1MVl6d3NsbkpWb2ZwcXpuTWFGa0d6ZHUtQ1hZS3ZFOWpIMDdBZGVDRzJFWl9peko4ek9qZzd5N2RmV0NFVERVUmpUUkppbVk5Mi1rV1FiN3V5ZHROaU9IeFVqb1JKaWRUbEJ0NGtqSlh1V3JaMmdXQ0xCY3dLRkVOWVlVV2RJQlF0VmM?oc=5",
-        "source": "Turkiye Gazetesi Greece Watch",
-        "published": "Fri, 06 Nov 2026 14:30:35 GMT",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 06 Nov 2026 20:28:29 GMT",
         "base_score": 100,
         "candidate_score": 115,
         "priority": "URGENT",
@@ -106,31 +106,71 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "c4dcdf5bb71447ad3de8dad5",
+        "external_id": "25be19b719132ab5db4aaad7",
         "mode": "geopolitico",
-        "title": "Rum Yönetimi ve Yunanistan’dan denizaltı araştırmaları için ayrı NAVTEX - Haber Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjJwN2pEUmhua28xZGJCWnU3SVdhSUZ2dGxSTXk0anpnLVAta1o5dFg2aWZ6NGFDNjFubjdhbzF1VTZZV3RMbkxaUlBkd0h6LWtSRktZYTdTaGFXN2tzbVFiZnNTOUNRUVhWRUpnd1JrSlZIeFptSjNONzBnLU1KelJZLUVYZ2dCSkVnVkJjbjdwbV9oLW5lcFFGSlJlYl90UU02d3dQUEVzTUUtNG1xOXp6cF8xQQ?oc=5",
+        "title": "Dışişleri Bakanlığı'ndan Doğu Akdeniz'de Türk kıta sahanlığında izinsiz araştırma yapan Fransız bayraklı gemiyle ilgili açıklama: Yunanistan ve GKRY'nin ikazları iptal edildi - TGRT Haber",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODFueFJDMTUtMVpwQmhrTkc0b3RZU0ZxdTNGeTdHZGdyY0hQcm5JRmIzYUM4OUVVYWdOdTlnWDFEUVRqd1ZiYzQyTzdXSUJsdU1sWWtWcnR5MG12ZXkzZFBRaF9tWUhueDFQeXNWUWx6c0ZuU3haQWRXbXhmamxRdGlrdHlKSXF1YmVvMThhZVVnczhCN3RwYnVZcFJQbDBmV3A1YmNUY09HNU9Ybng2NVlORDU1cG90b3Z6VkpVQldHZmc?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 06 Nov 2026 12:43:22 GMT",
+        "published": "Fri, 06 Nov 2026 20:09:49 GMT",
         "base_score": 100,
         "candidate_score": 115,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
-          "NAVTEX",
-          "Kıbrıs"
+          "Doğu Akdeniz",
+          "kıta sahanlığı",
+          "Dışişleri Bakanlığı",
+          "açıklama"
         ],
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "4a9659e400b959e723df2ad9",
+        "external_id": "f404c003f8a32c49c85ee34b",
         "mode": "geopolitico",
-        "title": "Israel, Greece and Cyprus reject Turkey-Libya maritime deal, expand defense ties - JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV284WXpZbGVGWU1PM0VLcm5nX2kyRTNod2V3OVFVRUtrOXFqdy15cW04dUxZOGw4bVVyR1BfOGhlOFhiUGhqaEpVXzAwSUw5VlFDUXpISXU4XzZOVDkyblFZRklvV3Y5RmxHQzRvTzMyWjRZOHQ4UWZEcU9ndlBTaDlwWHlWY1ItS0E5Mi0zVTdjTlI3T2ctNUt2WGRzTnRqNGprbEJodFFmdnJBYk1uN0FQc3pHdw?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Fri, 06 Nov 2026 11:08:48 GMT",
+        "title": "Doğu Akdeniz’de Girit-Güney Kıbrıs hattında yeni gerilim… - Haber Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWVDOTExQmRycTIxY1BMMm5qVlNHdlhIYlp2bkFqQ3pHdy1uYUFRLThtU0ZHbnp1V19nU0VOMmdMVHhqXzhCcW95dnNXWmsxcnFxV0t6WGhua242U0FuRUkxQnZpUXVBaTdHZWhCNzJsOUJXQzNQb0hDczltOVlvQnVNTnJNeWlaRjVlX3NINHNUeHpMcWV1WTlsUWpEd21TNUE?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 06 Nov 2026 19:32:29 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "Kıbrıs",
+          "Güney Kıbrıs",
+          "Girit",
+          "gerilim"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "47cd100b5c6bb645fd1df2b6",
+        "mode": "geopolitico",
+        "title": "China’s HQ-9B Claims Missile Intercept After Pakistan’s Air Defence Failure Against India - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcldRWUI4T01scjdOVlVaSXU5R2VOZ2lKTEtPWkItanFCempUdWJVcExrV3JuOVRfZ2lNM0VCcHBHYWxXTlpFanVMVkpndG9zX1plajJJTUpJSWp4a0JGZXBTdXRpcG9zMHpmLTNlS2ptMXczTU45bFFUS2dCNF92YlRQbkVSdzF1c1FuQXI5dFY4OWFRNF9qOFNMTFFxRXZCcHNXNFpVcy0teWVvd3hlaVFFTDdIU1hKek8wWGxfMV9HamNZQ2JYeVl6SUFGc21Dak4yLWtETnpxX0JmOHJMeTlWVmM3eUMyLUo0dzdPZ3UwVXpxLXJyNGN2UdIBgAJBVV95cUxNWThZMTVmNlZOVkEzU3VySE9rdkQ4d0RCQ2d2cVF0LWgzYTZTR0YzN1NRS2gtSHdNX3hqMzZwYVhHVDdlUkZMX1dnNWd2cTNuMkZhOF83TndWSGMzLUNJUDRSa1dydXRQQ2JaY2diNWlyX05JdFdtNnE3VHNqNTBmQjRCZGEtSlJiTTVHelJSek13SnhPUmlyR09SZlZpR3dGTEYzbEVJNHV2SS1PNFN1d1M3Y1FCYk1ONDdvbVczVDkyV0FJanduaWRlRG12dmQ1T3didzBxZFN5M1lYaDFJVXgwV3ZjXzkwWGZYOG02Ry1xX2FJaFd6TmVYcDE3X2RF?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Fri, 06 Nov 2026 17:18:41 GMT",
         "base_score": 100,
         "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "China",
+          "defence",
+          "air defence"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "5cbfba99011fa0f60ce0e85a",
+        "mode": "geopolitico",
+        "title": "Israel, Greece and Cyprus reject Turkey-Libya maritime deal, expand defense ties - JNS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV284WXpZbGVGWU1PM0VLcm5nX2kyRTNod2V3OVFVRUtrOXFqdy15cW04dUxZOGw4bVVyR1BfOGhlOFhiUGhqaEpVXzAwSUw5VlFDUXpISXU4XzZOVDkyblFZRklvV3Y5RmxHQzRvTzMyWjRZOHQ4UWZEcU9ndlBTaDlwWHlWY1ItS0E5Mi0zVTdjTlI3T2ctNUt2WGRzTnRqNGprbEJodFFmdnJBYk1uN0FQc3pHdw?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Fri, 06 Nov 2026 11:54:10 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -149,7 +189,7 @@
         "source": "Pakistan Security Watch",
         "published": "Fri, 06 Nov 2026 07:47:34 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -159,43 +199,6 @@
           "defence"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "a9987919a2fcca8ec67c4111",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de Türkiye'ye karşı üçlü hamle! İsrail, Yunanistan ve GKRY Atina'da buluştu: Masada Türkiye-Libya anlaşması var - Haberet",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMGFoaHlKUjdWR0xfbE1IUVduTV9mdmNRaVBQYS16WWlPZlZ6NDc1YVhZSVVaNlNsRjFhSmwzRUdtMHN0YWFYcHZ2T1loTmo2ZmhCMlRWWHBPTmMtbUhTTDBZdGl2UVBjb04yNDJhX0daQ0pVV2NQemh6MjZSTE9zLVpiM3ZQUWlCeWx5OGxGTVRmazltMVg2aFBBYndWYjU5OURrSmhQU3g5ZmZHNFVYQ1VfNW1MQUt4cHRlVVFRTThUenhLX09vZUlHNjBRUjBNRmszTmJ5eUxEWVVUbVM4elE1OF9VYjhoQzY0?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 06 Nov 2026 11:07:10 GMT",
-        "base_score": 98,
-        "candidate_score": 108,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz",
-          "Atina",
-          "ada"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "6a5f7c7553d5d020fed98cd6",
-        "mode": "geopolitico",
-        "title": "Girit-Kıbrıs elektrik kablosunda kritik hafta sonu: Yunanistan NAVTEX yayımlamaya hazırlanıyor - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOankxSXhsbmt1bmdXZk5md1RFbmJmYkdVZHJRMWNfRkVDdlUzV2Y5UHVqOFB5WVlZZ1J0ckQ1Y2VQQ1JXSWF2S3pySUlNaFdUTGt4T2F0aHBXMGFMY013cTNPMUdMa2RISFk2T2dHS1YxeUY2Z3RGVjUzU19KbXhzUWUxelRuY24tRjVtTlFxcnRRcUg1b1ZSZF9KZUxQOUlSNGd5WU5wal9PY0pXS2JGVzRnTnlUWlp0Smc?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 06 Nov 2026 06:32:05 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "NAVTEX",
-          "Kıbrıs",
-          "Girit",
-          "kablo"
-        ],
-        "content_type": "turkey_greece"
       },
       {
         "external_id": "e58be24d687ba5601f0e3e69",
@@ -255,18 +258,37 @@
         "content_type": "news"
       },
       {
-        "external_id": "eb9008105358bfa1ad42c0ad",
+        "external_id": "baf15c09d223719ff804a834",
         "mode": "pontos_voice",
-        "title": "Θεσσαλονίκη: Πρώτη Συνάντηση Χορωδιών που διοργανώνει το Σωματείο “Παναγία Σουμελά” / Κυριακή 8 Νοεμβρίου - faretra.info",
+        "title": "Θεσσαλονίκη: Πρώτη Συνάντηση Χορωδιών που διοργανώνει το Σωματείο “Παναγία Σουμελά” / Κυριακή 8 Νοεμβρίου - Faretra.info",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnI0OVRmSHpNemlTMmlxTWx5dHlVU3dEMGJNU3JvVjcxSVhyMFhqajZlMmxZVlFqNHJBRkpzWEEwekp3M2xOQUlWSFRya19TVURrcGtjbzg2UUlBM3prRWpqUHdyMEVNaUJTQld1TVJfekJRSVA5d29vQmtFNDRGU3hnYU1hTHMxSnktaDltTUtRbWtsNlpBU2xMeVVUXzN5M1ZNbjhMbmxPOFlPT3F5Skg5N253dmlwSmhEYW5sU0FjMTNPNlBSQXRuVmpIOXVm?oc=5",
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 06 Nov 2026 12:56:58 GMT",
         "base_score": 86,
-        "candidate_score": 101,
+        "candidate_score": 96,
         "priority": "URGENT",
         "matched_keywords": [
           "Παναγία Σουμελά",
           "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "0ac7e3238d6ac63ab364c5d6",
+        "mode": "pontos_voice",
+        "title": "Mısırlılar Trabzon’a hayran kaldı! “Yemekleri muhteşem, doğası harika! Trabzon’a geleceğiz”",
+        "url": "https://www.61saat.com/misirlilar-trabzona-hayran-kaldi-yemekleri-muhtesem-dogasi-harika-trabzona-gelecegiz",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 06 Nov 2026 23:17:00 +0300",
+        "base_score": 69,
+        "candidate_score": 84,
+        "priority": "High",
+        "matched_keywords": [
+          "Trabzon",
+          "kültür",
+          "anıt",
+          "Trabzon",
+          "Karadeniz"
         ],
         "content_type": "news"
       },
@@ -287,54 +309,37 @@
         "content_type": "news"
       },
       {
-        "external_id": "2caddf8cc6cdc37dd456c9b1",
+        "external_id": "5bbe9a6d39f022dcafc34bce",
         "mode": "pontos_voice",
-        "title": "Freiburg'un hocasından Trabzonspor için Karadeniz benzetmesi! “Dalgaları püskürttük”",
-        "url": "https://www.61saat.com/freiburgun-hocasindan-trabzonspor-icin-karadeniz-benzetmesi-dalgalari-puskurttuk",
+        "title": "Mısır'da Trabzon için önemli adım! Turizmde yeni kapılar açılıyor",
+        "url": "https://www.61saat.com/misirda-trabzon-icin-onemli-adim-turizmde-yeni-kapilar-aciliyor",
         "source": "61Saat Trabzon",
-        "published": "Fri, 06 Nov 2026 13:30:00 +0300",
-        "base_score": 52,
-        "candidate_score": 62,
-        "priority": "Normal",
+        "published": "Fri, 06 Nov 2026 20:20:00 +0300",
+        "base_score": 67,
+        "candidate_score": 77,
+        "priority": "High",
         "matched_keywords": [
           "Trabzon",
-          "açıklama",
-          "Trabzon",
-          "Karadeniz"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "2a08e114291c6904ef3f232a",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor'un Rizespor maçındaki tartışmalara MHK son noktayı koydu! - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3FCTnhxcWd4M2dTQlFYbF9RZHQwZHZ6aWlSekFYQkljTUY3OVQwTUVsVERobTRKNmtkZnhGangtZWR3MG1Vdy1WNWlkQkkxN3liSmJITmM4dlBkVVJiRk9HVTk5eUtpYUFXejZJZnJHRDMxSFQ0MFZydzZFeG5fbUxiZG1sNzkxU0JzSHptRjNYczNfSlZlREFlQmE1SmR2WXNra3hLeUdpZ19UYkh5aA?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Fri, 06 Nov 2026 10:43:39 GMT",
-        "base_score": 51,
-        "candidate_score": 61,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Rize",
-          "tartışma",
+          "kültür",
+          "belediye başkanı",
+          "anıt",
           "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "8a317de53c7c627dcaa779db",
+        "external_id": "a060d8b8d4dd3bef6d5fb745",
         "mode": "pontos_voice",
-        "title": "Başkan Uraloğlu'nun babasının hayat hikayesi yarın TRT Haber'de",
-        "url": "https://www.61saat.com/baskan-uraloglunun-babasinin-hayat-hikayesi-yarin-trt-haberde",
+        "title": "Trabzon yolunda feci kaza! İtfaiye ekipleri seferber oldu",
+        "url": "https://www.61saat.com/trabzon-yolunda-feci-kaza-itfaiye-ekipleri-seferber-oldu",
         "source": "61Saat Trabzon",
-        "published": "Fri, 06 Nov 2026 16:41:00 +0300",
+        "published": "Fri, 06 Nov 2026 23:36:00 +0300",
         "base_score": 44,
         "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "bakan",
+          "Rize",
           "Trabzon"
         ],
         "content_type": "news"
@@ -350,7 +355,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 06 Nov 2026 02:52:07 GMT",
       "base_score": 62,
-      "candidate_score": 84,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -370,7 +375,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Thu, 05 Nov 2026 13:19:08 GMT",
       "base_score": 41,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -379,7 +384,7 @@
       "content_type": "news",
       "editorial_type": "Injury",
       "team": "PAOK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -410,7 +415,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Fri, 06 Nov 2026 09:06:50 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -422,12 +427,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "5cad2955d952a7b249749b38",
+      "external_id": "16bc08a5b0d10cfd721f007f",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de işler tersine döndü! Yunanistan Türkiye'nin kapısını çalmak zorunda kaldı, \"Macron yönetimi devreye girdi\" - Türkiye Gazetesi",
+      "title": "Doğu Akdeniz'de işler tersine döndü! Yunanistan Türkiye'nin kapısını çalmak zorunda kaldı, 'Macron yönetimi devreye girdi' - Türkiye Gazetesi",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNjczcE45dWtKRW9ucEYwNy1VSUo4bF9HazZiMVJEbWFkTjBfU1Fkcm12dE9EQVl5Z3B1TExYOUVzb3hFMmxuX29SR0t1MVl6d3NsbkpWb2ZwcXpuTWFGa0d6ZHUtQ1hZS3ZFOWpIMDdBZGVDRzJFWl9peko4ek9qZzd5N2RmV0NFVERVUmpUUkppbVk5Mi1rV1FiN3V5ZHROaU9IeFVqb1JKaWRUbEJ0NGtqSlh1V3JaMmdXQ0xCY3dLRkVOWVlVV2RJQlF0VmM?oc=5",
-      "source": "Turkiye Gazetesi Greece Watch",
-      "published": "Fri, 06 Nov 2026 14:30:35 GMT",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 06 Nov 2026 20:28:29 GMT",
       "base_score": 100,
       "candidate_score": 115,
       "priority": "URGENT",
@@ -439,31 +444,71 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "c4dcdf5bb71447ad3de8dad5",
+      "external_id": "25be19b719132ab5db4aaad7",
       "mode": "geopolitico",
-      "title": "Rum Yönetimi ve Yunanistan’dan denizaltı araştırmaları için ayrı NAVTEX - Haber Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjJwN2pEUmhua28xZGJCWnU3SVdhSUZ2dGxSTXk0anpnLVAta1o5dFg2aWZ6NGFDNjFubjdhbzF1VTZZV3RMbkxaUlBkd0h6LWtSRktZYTdTaGFXN2tzbVFiZnNTOUNRUVhWRUpnd1JrSlZIeFptSjNONzBnLU1KelJZLUVYZ2dCSkVnVkJjbjdwbV9oLW5lcFFGSlJlYl90UU02d3dQUEVzTUUtNG1xOXp6cF8xQQ?oc=5",
+      "title": "Dışişleri Bakanlığı'ndan Doğu Akdeniz'de Türk kıta sahanlığında izinsiz araştırma yapan Fransız bayraklı gemiyle ilgili açıklama: Yunanistan ve GKRY'nin ikazları iptal edildi - TGRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODFueFJDMTUtMVpwQmhrTkc0b3RZU0ZxdTNGeTdHZGdyY0hQcm5JRmIzYUM4OUVVYWdOdTlnWDFEUVRqd1ZiYzQyTzdXSUJsdU1sWWtWcnR5MG12ZXkzZFBRaF9tWUhueDFQeXNWUWx6c0ZuU3haQWRXbXhmamxRdGlrdHlKSXF1YmVvMThhZVVnczhCN3RwYnVZcFJQbDBmV3A1YmNUY09HNU9Ybng2NVlORDU1cG90b3Z6VkpVQldHZmc?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 06 Nov 2026 12:43:22 GMT",
+      "published": "Fri, 06 Nov 2026 20:09:49 GMT",
       "base_score": 100,
       "candidate_score": 115,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
-        "NAVTEX",
-        "Kıbrıs"
+        "Doğu Akdeniz",
+        "kıta sahanlığı",
+        "Dışişleri Bakanlığı",
+        "açıklama"
       ],
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "4a9659e400b959e723df2ad9",
+      "external_id": "f404c003f8a32c49c85ee34b",
       "mode": "geopolitico",
-      "title": "Israel, Greece and Cyprus reject Turkey-Libya maritime deal, expand defense ties - JNS.org",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV284WXpZbGVGWU1PM0VLcm5nX2kyRTNod2V3OVFVRUtrOXFqdy15cW04dUxZOGw4bVVyR1BfOGhlOFhiUGhqaEpVXzAwSUw5VlFDUXpISXU4XzZOVDkyblFZRklvV3Y5RmxHQzRvTzMyWjRZOHQ4UWZEcU9ndlBTaDlwWHlWY1ItS0E5Mi0zVTdjTlI3T2ctNUt2WGRzTnRqNGprbEJodFFmdnJBYk1uN0FQc3pHdw?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Fri, 06 Nov 2026 11:08:48 GMT",
+      "title": "Doğu Akdeniz’de Girit-Güney Kıbrıs hattında yeni gerilim… - Haber Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWVDOTExQmRycTIxY1BMMm5qVlNHdlhIYlp2bkFqQ3pHdy1uYUFRLThtU0ZHbnp1V19nU0VOMmdMVHhqXzhCcW95dnNXWmsxcnFxV0t6WGhua242U0FuRUkxQnZpUXVBaTdHZWhCNzJsOUJXQzNQb0hDczltOVlvQnVNTnJNeWlaRjVlX3NINHNUeHpMcWV1WTlsUWpEd21TNUE?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 06 Nov 2026 19:32:29 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "Kıbrıs",
+        "Güney Kıbrıs",
+        "Girit",
+        "gerilim"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "47cd100b5c6bb645fd1df2b6",
+      "mode": "geopolitico",
+      "title": "China’s HQ-9B Claims Missile Intercept After Pakistan’s Air Defence Failure Against India - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcldRWUI4T01scjdOVlVaSXU5R2VOZ2lKTEtPWkItanFCempUdWJVcExrV3JuOVRfZ2lNM0VCcHBHYWxXTlpFanVMVkpndG9zX1plajJJTUpJSWp4a0JGZXBTdXRpcG9zMHpmLTNlS2ptMXczTU45bFFUS2dCNF92YlRQbkVSdzF1c1FuQXI5dFY4OWFRNF9qOFNMTFFxRXZCcHNXNFpVcy0teWVvd3hlaVFFTDdIU1hKek8wWGxfMV9HamNZQ2JYeVl6SUFGc21Dak4yLWtETnpxX0JmOHJMeTlWVmM3eUMyLUo0dzdPZ3UwVXpxLXJyNGN2UdIBgAJBVV95cUxNWThZMTVmNlZOVkEzU3VySE9rdkQ4d0RCQ2d2cVF0LWgzYTZTR0YzN1NRS2gtSHdNX3hqMzZwYVhHVDdlUkZMX1dnNWd2cTNuMkZhOF83TndWSGMzLUNJUDRSa1dydXRQQ2JaY2diNWlyX05JdFdtNnE3VHNqNTBmQjRCZGEtSlJiTTVHelJSek13SnhPUmlyR09SZlZpR3dGTEYzbEVJNHV2SS1PNFN1d1M3Y1FCYk1ONDdvbVczVDkyV0FJanduaWRlRG12dmQ1T3didzBxZFN5M1lYaDFJVXgwV3ZjXzkwWGZYOG02Ry1xX2FJaFd6TmVYcDE3X2RF?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Fri, 06 Nov 2026 17:18:41 GMT",
       "base_score": 100,
       "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "China",
+        "defence",
+        "air defence"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "5cbfba99011fa0f60ce0e85a",
+      "mode": "geopolitico",
+      "title": "Israel, Greece and Cyprus reject Turkey-Libya maritime deal, expand defense ties - JNS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV284WXpZbGVGWU1PM0VLcm5nX2kyRTNod2V3OVFVRUtrOXFqdy15cW04dUxZOGw4bVVyR1BfOGhlOFhiUGhqaEpVXzAwSUw5VlFDUXpISXU4XzZOVDkyblFZRklvV3Y5RmxHQzRvTzMyWjRZOHQ4UWZEcU9ndlBTaDlwWHlWY1ItS0E5Mi0zVTdjTlI3T2ctNUt2WGRzTnRqNGprbEJodFFmdnJBYk1uN0FQc3pHdw?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Fri, 06 Nov 2026 11:54:10 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -482,7 +527,7 @@
       "source": "Pakistan Security Watch",
       "published": "Fri, 06 Nov 2026 07:47:34 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -492,43 +537,6 @@
         "defence"
       ],
       "content_type": "news"
-    },
-    {
-      "external_id": "a9987919a2fcca8ec67c4111",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de Türkiye'ye karşı üçlü hamle! İsrail, Yunanistan ve GKRY Atina'da buluştu: Masada Türkiye-Libya anlaşması var - Haberet",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMGFoaHlKUjdWR0xfbE1IUVduTV9mdmNRaVBQYS16WWlPZlZ6NDc1YVhZSVVaNlNsRjFhSmwzRUdtMHN0YWFYcHZ2T1loTmo2ZmhCMlRWWHBPTmMtbUhTTDBZdGl2UVBjb04yNDJhX0daQ0pVV2NQemh6MjZSTE9zLVpiM3ZQUWlCeWx5OGxGTVRmazltMVg2aFBBYndWYjU5OURrSmhQU3g5ZmZHNFVYQ1VfNW1MQUt4cHRlVVFRTThUenhLX09vZUlHNjBRUjBNRmszTmJ5eUxEWVVUbVM4elE1OF9VYjhoQzY0?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 06 Nov 2026 11:07:10 GMT",
-      "base_score": 98,
-      "candidate_score": 108,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz",
-        "Atina",
-        "ada"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "6a5f7c7553d5d020fed98cd6",
-      "mode": "geopolitico",
-      "title": "Girit-Kıbrıs elektrik kablosunda kritik hafta sonu: Yunanistan NAVTEX yayımlamaya hazırlanıyor - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOankxSXhsbmt1bmdXZk5md1RFbmJmYkdVZHJRMWNfRkVDdlUzV2Y5UHVqOFB5WVlZZ1J0ckQ1Y2VQQ1JXSWF2S3pySUlNaFdUTGt4T2F0aHBXMGFMY013cTNPMUdMa2RISFk2T2dHS1YxeUY2Z3RGVjUzU19KbXhzUWUxelRuY24tRjVtTlFxcnRRcUg1b1ZSZF9KZUxQOUlSNGd5WU5wal9PY0pXS2JGVzRnTnlUWlp0Smc?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 06 Nov 2026 06:32:05 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "NAVTEX",
-        "Kıbrıs",
-        "Girit",
-        "kablo"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "e58be24d687ba5601f0e3e69",
@@ -586,18 +594,37 @@
       "content_type": "news"
     },
     {
-      "external_id": "eb9008105358bfa1ad42c0ad",
+      "external_id": "baf15c09d223719ff804a834",
       "mode": "pontos_voice",
-      "title": "Θεσσαλονίκη: Πρώτη Συνάντηση Χορωδιών που διοργανώνει το Σωματείο “Παναγία Σουμελά” / Κυριακή 8 Νοεμβρίου - faretra.info",
+      "title": "Θεσσαλονίκη: Πρώτη Συνάντηση Χορωδιών που διοργανώνει το Σωματείο “Παναγία Σουμελά” / Κυριακή 8 Νοεμβρίου - Faretra.info",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnI0OVRmSHpNemlTMmlxTWx5dHlVU3dEMGJNU3JvVjcxSVhyMFhqajZlMmxZVlFqNHJBRkpzWEEwekp3M2xOQUlWSFRya19TVURrcGtjbzg2UUlBM3prRWpqUHdyMEVNaUJTQld1TVJfekJRSVA5d29vQmtFNDRGU3hnYU1hTHMxSnktaDltTUtRbWtsNlpBU2xMeVVUXzN5M1ZNbjhMbmxPOFlPT3F5Skg5N253dmlwSmhEYW5sU0FjMTNPNlBSQXRuVmpIOXVm?oc=5",
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 06 Nov 2026 12:56:58 GMT",
       "base_score": 86,
-      "candidate_score": 101,
+      "candidate_score": 96,
       "priority": "URGENT",
       "matched_keywords": [
         "Παναγία Σουμελά",
         "Σουμελά"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "0ac7e3238d6ac63ab364c5d6",
+      "mode": "pontos_voice",
+      "title": "Mısırlılar Trabzon’a hayran kaldı! “Yemekleri muhteşem, doğası harika! Trabzon’a geleceğiz”",
+      "url": "https://www.61saat.com/misirlilar-trabzona-hayran-kaldi-yemekleri-muhtesem-dogasi-harika-trabzona-gelecegiz",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 06 Nov 2026 23:17:00 +0300",
+      "base_score": 69,
+      "candidate_score": 84,
+      "priority": "High",
+      "matched_keywords": [
+        "Trabzon",
+        "kültür",
+        "anıt",
+        "Trabzon",
+        "Karadeniz"
       ],
       "content_type": "news"
     },
@@ -618,54 +645,37 @@
       "content_type": "news"
     },
     {
-      "external_id": "2caddf8cc6cdc37dd456c9b1",
+      "external_id": "5bbe9a6d39f022dcafc34bce",
       "mode": "pontos_voice",
-      "title": "Freiburg'un hocasından Trabzonspor için Karadeniz benzetmesi! “Dalgaları püskürttük”",
-      "url": "https://www.61saat.com/freiburgun-hocasindan-trabzonspor-icin-karadeniz-benzetmesi-dalgalari-puskurttuk",
+      "title": "Mısır'da Trabzon için önemli adım! Turizmde yeni kapılar açılıyor",
+      "url": "https://www.61saat.com/misirda-trabzon-icin-onemli-adim-turizmde-yeni-kapilar-aciliyor",
       "source": "61Saat Trabzon",
-      "published": "Fri, 06 Nov 2026 13:30:00 +0300",
-      "base_score": 52,
-      "candidate_score": 62,
-      "priority": "Normal",
+      "published": "Fri, 06 Nov 2026 20:20:00 +0300",
+      "base_score": 67,
+      "candidate_score": 77,
+      "priority": "High",
       "matched_keywords": [
         "Trabzon",
-        "açıklama",
-        "Trabzon",
-        "Karadeniz"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "2a08e114291c6904ef3f232a",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor'un Rizespor maçındaki tartışmalara MHK son noktayı koydu! - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3FCTnhxcWd4M2dTQlFYbF9RZHQwZHZ6aWlSekFYQkljTUY3OVQwTUVsVERobTRKNmtkZnhGangtZWR3MG1Vdy1WNWlkQkkxN3liSmJITmM4dlBkVVJiRk9HVTk5eUtpYUFXejZJZnJHRDMxSFQ0MFZydzZFeG5fbUxiZG1sNzkxU0JzSHptRjNYczNfSlZlREFlQmE1SmR2WXNra3hLeUdpZ19UYkh5aA?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Fri, 06 Nov 2026 10:43:39 GMT",
-      "base_score": 51,
-      "candidate_score": 61,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Rize",
-        "tartışma",
+        "kültür",
+        "belediye başkanı",
+        "anıt",
         "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "8a317de53c7c627dcaa779db",
+      "external_id": "a060d8b8d4dd3bef6d5fb745",
       "mode": "pontos_voice",
-      "title": "Başkan Uraloğlu'nun babasının hayat hikayesi yarın TRT Haber'de",
-      "url": "https://www.61saat.com/baskan-uraloglunun-babasinin-hayat-hikayesi-yarin-trt-haberde",
+      "title": "Trabzon yolunda feci kaza! İtfaiye ekipleri seferber oldu",
+      "url": "https://www.61saat.com/trabzon-yolunda-feci-kaza-itfaiye-ekipleri-seferber-oldu",
       "source": "61Saat Trabzon",
-      "published": "Fri, 06 Nov 2026 16:41:00 +0300",
+      "published": "Fri, 06 Nov 2026 23:36:00 +0300",
       "base_score": 44,
       "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "bakan",
+        "Rize",
         "Trabzon"
       ],
       "content_type": "news"
