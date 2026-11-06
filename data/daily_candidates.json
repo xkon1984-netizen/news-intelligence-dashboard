@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:06:19.557023+00:00",
+  "generated_at": "2026-11-06T00:11:00.709184+00:00",
   "counts": {
     "sportdog": 6,
     "geopolitico": 8,
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 05 Nov 2026 16:35:09 GMT",
         "base_score": 76,
-        "candidate_score": 107,
+        "candidate_score": 102,
         "priority": "URGENT",
         "matched_keywords": [
           "AEK",
@@ -37,7 +37,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Thu, 05 Nov 2026 13:19:08 GMT",
         "base_score": 41,
-        "candidate_score": 68,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -45,26 +45,6 @@
         ],
         "content_type": "news",
         "editorial_type": "Injury",
-        "team": "PAOK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "505d7fb53fd9abb501be2f22",
-        "mode": "sportdog",
-        "title": "PAOK and Despodov disagree over the length of the new contract ᐉ News from Fakti.bg - Sport - Fakti.bg",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0NzNmtVMzZhRVVCaEdWMXVnWFphYVlRa1J2bmMxZEJLaFRLVU1oX2thcHpULVZnN1BxY0UwLU44bnIxX3FLNW1keHRVR1FTUFB2UW5HaGRESjNnSmJVRWl6T1VWdk1WaEtXR0hTSGRWVkxKSS1BVlNZV2pRaE05UThWTVJsQkl0cWtlUmpid09WTTIzZDhFMUZFd1E?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Thu, 05 Nov 2026 16:13:00 GMT",
-        "base_score": 41,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK",
-          "contract"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
         "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
@@ -77,7 +57,7 @@
         "source": "AEK Rumour Watch",
         "published": "Thu, 05 Nov 2026 02:35:49 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -90,6 +70,26 @@
         "needs_second_source": true
       },
       {
+        "external_id": "505d7fb53fd9abb501be2f22",
+        "mode": "sportdog",
+        "title": "PAOK and Despodov disagree over the length of the new contract ᐉ News from Fakti.bg - Sport - Fakti.bg",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0NzNmtVMzZhRVVCaEdWMXVnWFphYVlRa1J2bmMxZEJLaFRLVU1oX2thcHpULVZnN1BxY0UwLU44bnIxX3FLNW1keHRVR1FTUFB2UW5HaGRESjNnSmJVRWl6T1VWdk1WaEtXR0hTSGRWVkxKSS1BVlNZV2pRaE05UThWTVJsQkl0cWtlUmpid09WTTIzZDhFMUZFd1E?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Thu, 05 Nov 2026 16:13:00 GMT",
+        "base_score": 41,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK",
+          "contract"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "1b0866cf5f296e220adcaf6d",
         "mode": "sportdog",
         "title": "Shocking injury blow for PAOK: Cedi Osman to undergo knee surgery - BasketNews.com",
@@ -97,7 +97,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Wed, 04 Nov 2026 14:28:00 GMT",
         "base_score": 41,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -106,7 +106,7 @@
         "content_type": "news",
         "editorial_type": "Injury",
         "team": "PAOK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -117,7 +117,7 @@
         "source": "Aris Rumour Watch",
         "published": "Wed, 04 Nov 2026 14:04:58 GMT",
         "base_score": 48,
-        "candidate_score": 51,
+        "candidate_score": 48,
         "priority": "Normal",
         "matched_keywords": [
           "Aris",
@@ -132,14 +132,33 @@
     ],
     "geopolitico": [
       {
+        "external_id": "2f3ddfd82ebd4b1432acd511",
+        "mode": "geopolitico",
+        "title": "Israel, Greece, Cyprus slam Turkey-Libya sea deal, agree to deepen defense ties - The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdG9oZm1hWXZybkdlX0tfVV9QbUh4ZWQ1cl8wSTlTS01jZHNtZXZzamRKdGNJRm5zWGk4dEZqWUVjZnJxaU00VXlIU0xhQlRGSlA1V2FiWmRwYjNO?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Thu, 05 Nov 2026 19:41:52 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Cyprus",
+          "Turkey",
+          "defense"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "6098529a3b67c42696ddce1f",
         "mode": "geopolitico",
         "title": "Greece, Cyprus, Israel Again Voice Rejection of Turkey-Libya Maritime Deal - tovima.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnhKQjY1TUFUQ0psOEVvOUViX3NudllBUVRLbFlqcWhQbldQV2tfM2swVXo0SEt6WkFaU0N4NGh0b0EycHhhYTdFb3psYlpEcUdfRWZXWjNoQk51cl9KWms1d0xrUEpqTFR6bmE1TllUOFVQY2lFSV9nckFvUHFkeWtIODhBcDhTZkVpNS1DdXVqUkduYmRkMFZ2YWRWWXlraUNCZWhndEQ?oc=5",
         "source": "Greece Israel Strategic Watch",
-        "published": "Thu, 05 Nov 2026 18:57:51 GMT",
+        "published": "Thu, 05 Nov 2026 18:56:57 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -157,7 +176,7 @@
         "source": "Greece Israel Strategic Watch",
         "published": "Thu, 05 Nov 2026 18:47:47 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -165,60 +184,6 @@
           "Cyprus",
           "Turkey",
           "defense"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "6f9aadcedf27a8a5cdc19bf9",
-        "mode": "geopolitico",
-        "title": "Israel, Greece, Cyprus Discuss Maritime Security Amid Tensions Over Turkey-Libya Deal - i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWnlVNkFKMHlxSVh1ZEgtQzJVR2lCcHFzOUNlVEc0MGtaeU1HLTBXZkNnVC1acmJUUnRvYjBudElCcjRpaVZqNTMxQkdaTXJsc3o0RWRGT1VWd0c2NDRzVWc1Q3htajNia1MzTy1JZDVZZTdJell3NktlcHpKSjREbS1xLXo5SjZDeG1aLW5BdkRnd3NWcF9JQjFJZDZuVnZLTi1GOGVfNlF4YnpJQTRhTmIxX2IwdkxoWjQ4ZmowcmNBQlRsX0lISHA5dVdYeFE?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Thu, 05 Nov 2026 18:29:27 GMT",
-        "base_score": 100,
-        "candidate_score": 115,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Cyprus",
-          "Turkey"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "757f1143a2838d37781935b4",
-        "mode": "geopolitico",
-        "title": "İsrail, Yunanistan ve Kıbrıs Cumhuriyeti Atina'da Savunma İşbirliğini Derinleştirdi - ssbulten.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1JISVNHcU1EaWxiS0hXYVE5UjJvZkRteWJhOElsN2EtNUNJUmg0VGY2akNybEhoZm9waFJTTGdNcHpiWmxLd3V0QWRvZWNTc0NMdVBiVWczR3Y2SGZYS3BFVldIcEFkYnBzYnQ4WmFOQVhPaEgtYmZXWGs2TkJ2UW9rWHBRTEZBaERoNnBCUjB5MmYtU0ZCY0l6UVhxVXBoYTYzWkt0ckpaTEFIVVhlb1VwYTJ1R2thUHZDVjd3OGNtOWs?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Thu, 05 Nov 2026 17:52:23 GMT",
-        "base_score": 94,
-        "candidate_score": 109,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "Atina",
-          "savunma"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "8725a3c0c39a06bd8c58d62e",
-        "mode": "geopolitico",
-        "title": "Great Sea Interconnector: Greece moves ahead with surveys as Turkey weighs its response - ProtoThema English",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRW1aTWhsMWh2NXVRcXJzbnh3bDBaenN0ZnFSNnZIZkJpTXpaUi0ydWlVNWdZZDZ4cDFnbXlFaW9KeWl0eVhhYWhXMnA5WUt2a1ZhSDdQUWRUUk9yc3Eyb2hnUlVvQWY2NWNma3BxWWVaQ2xWWG03N1BvaWdLMXZ3Y3ljWEltOGF5YVhNcnFBYmp0eXdJVEpiOHA1VUdRcE5jSDFWWGdzdndnZ05Vd0MxNFZMWjBnNm5zTEtaNXZWUmg?oc=5",
-        "source": "Greece Turkey Aegean Watch",
-        "published": "Thu, 05 Nov 2026 15:58:54 GMT",
-        "base_score": 96,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Great Sea Interconnector",
-          "Turkey",
-          "Great Sea Interconnector"
         ],
         "content_type": "news"
       },
@@ -240,20 +205,56 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "8fd3990ad2041d3b0daa6690",
+        "external_id": "757f1143a2838d37781935b4",
         "mode": "geopolitico",
-        "title": "Three Pakistan-backed UN arms control resolutions pass amid Indian, Israeli opposition - Arab News PK",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzRaTm5qRkdjVWNNUUI2bjV4bnAwXzhGS2tHN2pRRXdsSWxVS2NudXBHVnBWakRWOEVNaHV3RnpDd3NCNVVrSlE5Q2VHSzZHZTFVX3p5ZG9HQW1ValhxZHNkNmxIUnBlRVVMUGRLYWlOdzZMNTdYUV9BOTl3NXEwSHpsUnNNR0ZNalc2aUVvYWRYT3RvS3FIVE1VbjNpWVFlSUtzcFNBOHV5cV81NU5vNkR6aXlmUEFMZzZDcm1TYTVpTUlo?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Wed, 04 Nov 2026 17:21:23 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
+        "title": "İsrail, Yunanistan ve Kıbrıs Cumhuriyeti Atina'da Savunma İşbirliğini Derinleştirdi - ssbulten.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1JISVNHcU1EaWxiS0hXYVE5UjJvZkRteWJhOElsN2EtNUNJUmg0VGY2akNybEhoZm9waFJTTGdNcHpiWmxLd3V0QWRvZWNTc0NMdVBiVWczR3Y2SGZYS3BFVldIcEFkYnBzYnQ4WmFOQVhPaEgtYmZXWGs2TkJ2UW9rWHBRTEZBaERoNnBCUjB5MmYtU0ZCY0l6UVhxVXBoYTYzWkt0ckpaTEFIVVhlb1VwYTJ1R2thUHZDVjd3OGNtOWs?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 05 Nov 2026 17:52:23 GMT",
+        "base_score": 94,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
-          "India",
+          "Yunanistan",
+          "Kıbrıs",
+          "Atina",
+          "savunma"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "8725a3c0c39a06bd8c58d62e",
+        "mode": "geopolitico",
+        "title": "Great Sea Interconnector: Greece moves ahead with surveys as Turkey weighs its response - ProtoThema English",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRW1aTWhsMWh2NXVRcXJzbnh3bDBaenN0ZnFSNnZIZkJpTXpaUi0ydWlVNWdZZDZ4cDFnbXlFaW9KeWl0eVhhYWhXMnA5WUt2a1ZhSDdQUWRUUk9yc3Eyb2hnUlVvQWY2NWNma3BxWWVaQ2xWWG03N1BvaWdLMXZ3Y3ljWEltOGF5YVhNcnFBYmp0eXdJVEpiOHA1VUdRcE5jSDFWWGdzdndnZ05Vd0MxNFZMWjBnNm5zTEtaNXZWUmg?oc=5",
+        "source": "Greece Turkey Aegean Watch",
+        "published": "Thu, 05 Nov 2026 15:58:54 GMT",
+        "base_score": 96,
+        "candidate_score": 102,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Great Sea Interconnector",
+          "Turkey",
+          "Great Sea Interconnector"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "1d1c0f7c1b1290caad7531ff",
+        "mode": "geopolitico",
+        "title": "Turkey’s parliament ratifies defense pact with Pakistan and Saudi Arabia - The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkQzWkZGUl95S0VHdTgtM2R0SnRSYXFWUGo0VmxkMk5UMnFnc3prVVJpcTJrM25aLXdMTkR3NkpnUEpXOG1JNzJqOFhNZmtLU2dMSFhmdEUzdzJFNGFNNm5tQzAwcXlTeDRFUVYybmNJSFhQa1JsQkxnZEJ4T0JPdHdtempJMi1Ed2t6OVdPZTkwZ21hSWJjaG5ucm9BcllScndrVlRIMGZCLVE4ODl6bHdrTklOWFFL?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Thu, 05 Nov 2026 22:44:33 GMT",
+        "base_score": 84,
+        "candidate_score": 99,
+        "priority": "URGENT",
+        "matched_keywords": [
           "Israel",
-          "Israeli",
-          "Pakistan"
+          "Pakistan",
+          "Turkey",
+          "defense"
         ],
         "content_type": "news"
       },
@@ -265,7 +266,7 @@
         "source": "Analysts Watch · Turkey",
         "published": "Thu, 05 Nov 2026 17:32:23 GMT",
         "base_score": 75,
-        "candidate_score": 90,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Cihat Yaycı",
@@ -275,6 +276,23 @@
       }
     ],
     "pontos_voice": [
+      {
+        "external_id": "de63af3a203475c2a4dc8ee2",
+        "mode": "pontos_voice",
+        "title": "Ποντιακός Σύλλογος Νέας Κερασούντας: Πρόσκληση σε έκτακτη Γενική Συνέλευση - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1FVMEJkUVJVaEw2Ry1LSWJsMzNjVW5sd2dTZnp5dm91LU55LUhDSGZuY1dzMktacXFlcVhnWkR1UVZNU1k3Zms2dHVSY1VmckVqSDk5dnNGRjRhbmpxUE0yVTR1d3d6MkE4Sm9SNU96bG04aWpRU2FxbWkwd21XQ1hwYmZXSWxKQ293aUkwbGxDa0pLdUExd21pa0xyQTZfNGdiS0V5cHV5cjVPTktGS1pfUTR5X2plVXRvc1NUdVBCc2hhX1VYbk9rZ3BqUQ?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Thu, 05 Nov 2026 20:52:38 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακός",
+          "Κερασούντα"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "cb15c3dfb932f11f663461fe",
         "mode": "pontos_voice",
@@ -309,22 +327,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "877e2f42566ff77e246734b2",
-        "mode": "pontos_voice",
-        "title": "Πόντος, 1918: Σχολεία, εμπόριο και μεταλλεία στο φάκελο της ανεξαρτησίας - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZ5X1pyd19oRkJLT3NERXoyS0lackFxYnY1Y2V3YVIyNnRQTjI0WFVaSTJHVzFKV2RtUHVMNDRkaVcyX1p2MUpuank5cVJTSHBqaDhxRjBGaWw5cXFGVElYYmVBNV8wbDktR1VYeThvVG5LR3BiUVJBZFpVMVh1WS05NnRqZ21RSlJqa1dCVnhyMTZnSkNoemRISWx2M19NQWt5dmFvcFBYSlk0Z3h3RQ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Thu, 05 Nov 2026 18:42:13 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "Πόντος"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "2ecfe5fcd370feba76b63f24",
         "mode": "pontos_voice",
         "title": "Trabzon'da Salah Caddesi için geri sayım! Bakanlıktan onay çıktı",
@@ -332,7 +334,7 @@
         "source": "61Saat Trabzon",
         "published": "Thu, 05 Nov 2026 20:42:00 +0300",
         "base_score": 62,
-        "candidate_score": 77,
+        "candidate_score": 72,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
@@ -344,35 +346,36 @@
         "content_type": "news"
       },
       {
-        "external_id": "433a39c043e189863dd49d2e",
+        "external_id": "1de45b2d7072f138a740f27d",
         "mode": "pontos_voice",
-        "title": "Nostradamus'un 470 yıllık kitabında Trabzon detayı! 2027 iddiasının perde arkası",
-        "url": "https://www.61saat.com/nostradamusun-470-yillik-kitabinda-trabzon-detayi-2027-iddiasinin-perde-arkasi",
-        "source": "61Saat Trabzon",
-        "published": "Thu, 05 Nov 2026 19:23:00 +0300",
-        "base_score": 57,
-        "candidate_score": 72,
-        "priority": "High",
+        "title": "Trabzonspor'un yıldızı için tartışmalı karar! Taraftarlar tepki gösterdi - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmxoYld4YU5LUXpkNjVDQzg3dkZNeFN5ODlHT0NYdTRDVDJxUVZaMUY5WEFmSkx5UzlPVXdnamJfeW93cU1lNTZCVUMyMk5kSFVCSWhPaTZsa3FQVU53TEQ2X2VkSGFVcjQ3YTRjTERZeTd6SVRQcGdRRy02TGhJcUEwSW5JMzlETDRSdWRsbUc2aEpmODQyVGc4cEJQZDhXNWxBMGJGakZpX19ZRWZFYjdrcHM?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Thu, 05 Nov 2026 07:49:32 GMT",
+        "base_score": 51,
+        "candidate_score": 57,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Rumlar",
+          "tepki",
+          "tartışma",
           "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "05deee823e8aaa4bc1cb0a87",
+        "external_id": "78c50b72bb61dec08a7a80bf",
         "mode": "pontos_voice",
-        "title": "Başkan Genç, Salah'ı örnek vererek duyurdu! Yeni iş birliklerinin önünü açıyoruz",
-        "url": "https://www.61saat.com/baskan-genc-salahi-ornek-vererek-duyurdu-yeni-is-birliklerinin-onunu-aciyoruz",
+        "title": "Mendy’den dikkat çeken sözler! Önümüze bakacağız…",
+        "url": "https://www.61saat.com/mendyden-dikkat-ceken-sozler-onumuze-bakacagiz",
         "source": "61Saat Trabzon",
-        "published": "Thu, 05 Nov 2026 19:23:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
+        "published": "Thu, 05 Nov 2026 22:46:00 +0300",
+        "base_score": 46,
+        "candidate_score": 56,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
+          "müze",
           "Trabzon"
         ],
         "content_type": "news"
@@ -388,7 +391,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 05 Nov 2026 16:35:09 GMT",
       "base_score": 76,
-      "candidate_score": 107,
+      "candidate_score": 102,
       "priority": "URGENT",
       "matched_keywords": [
         "AEK",
@@ -410,7 +413,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Thu, 05 Nov 2026 13:19:08 GMT",
       "base_score": 41,
-      "candidate_score": 68,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -418,26 +421,6 @@
       ],
       "content_type": "news",
       "editorial_type": "Injury",
-      "team": "PAOK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "505d7fb53fd9abb501be2f22",
-      "mode": "sportdog",
-      "title": "PAOK and Despodov disagree over the length of the new contract ᐉ News from Fakti.bg - Sport - Fakti.bg",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0NzNmtVMzZhRVVCaEdWMXVnWFphYVlRa1J2bmMxZEJLaFRLVU1oX2thcHpULVZnN1BxY0UwLU44bnIxX3FLNW1keHRVR1FTUFB2UW5HaGRESjNnSmJVRWl6T1VWdk1WaEtXR0hTSGRWVkxKSS1BVlNZV2pRaE05UThWTVJsQkl0cWtlUmpid09WTTIzZDhFMUZFd1E?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Thu, 05 Nov 2026 16:13:00 GMT",
-      "base_score": 41,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK",
-        "contract"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
       "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
@@ -450,7 +433,7 @@
       "source": "AEK Rumour Watch",
       "published": "Thu, 05 Nov 2026 02:35:49 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -463,6 +446,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "505d7fb53fd9abb501be2f22",
+      "mode": "sportdog",
+      "title": "PAOK and Despodov disagree over the length of the new contract ᐉ News from Fakti.bg - Sport - Fakti.bg",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0NzNmtVMzZhRVVCaEdWMXVnWFphYVlRa1J2bmMxZEJLaFRLVU1oX2thcHpULVZnN1BxY0UwLU44bnIxX3FLNW1keHRVR1FTUFB2UW5HaGRESjNnSmJVRWl6T1VWdk1WaEtXR0hTSGRWVkxKSS1BVlNZV2pRaE05UThWTVJsQkl0cWtlUmpid09WTTIzZDhFMUZFd1E?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Thu, 05 Nov 2026 16:13:00 GMT",
+      "base_score": 41,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK",
+        "contract"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "1b0866cf5f296e220adcaf6d",
       "mode": "sportdog",
       "title": "Shocking injury blow for PAOK: Cedi Osman to undergo knee surgery - BasketNews.com",
@@ -470,7 +473,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Wed, 04 Nov 2026 14:28:00 GMT",
       "base_score": 41,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -479,7 +482,7 @@
       "content_type": "news",
       "editorial_type": "Injury",
       "team": "PAOK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -490,7 +493,7 @@
       "source": "Aris Rumour Watch",
       "published": "Wed, 04 Nov 2026 14:04:58 GMT",
       "base_score": 48,
-      "candidate_score": 51,
+      "candidate_score": 48,
       "priority": "Normal",
       "matched_keywords": [
         "Aris",
@@ -503,14 +506,33 @@
       "needs_second_source": true
     },
     {
+      "external_id": "2f3ddfd82ebd4b1432acd511",
+      "mode": "geopolitico",
+      "title": "Israel, Greece, Cyprus slam Turkey-Libya sea deal, agree to deepen defense ties - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdG9oZm1hWXZybkdlX0tfVV9QbUh4ZWQ1cl8wSTlTS01jZHNtZXZzamRKdGNJRm5zWGk4dEZqWUVjZnJxaU00VXlIU0xhQlRGSlA1V2FiWmRwYjNO?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Thu, 05 Nov 2026 19:41:52 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "Cyprus",
+        "Turkey",
+        "defense"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "6098529a3b67c42696ddce1f",
       "mode": "geopolitico",
       "title": "Greece, Cyprus, Israel Again Voice Rejection of Turkey-Libya Maritime Deal - tovima.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnhKQjY1TUFUQ0psOEVvOUViX3NudllBUVRLbFlqcWhQbldQV2tfM2swVXo0SEt6WkFaU0N4NGh0b0EycHhhYTdFb3psYlpEcUdfRWZXWjNoQk51cl9KWms1d0xrUEpqTFR6bmE1TllUOFVQY2lFSV9nckFvUHFkeWtIODhBcDhTZkVpNS1DdXVqUkduYmRkMFZ2YWRWWXlraUNCZWhndEQ?oc=5",
       "source": "Greece Israel Strategic Watch",
-      "published": "Thu, 05 Nov 2026 18:57:51 GMT",
+      "published": "Thu, 05 Nov 2026 18:56:57 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -528,7 +550,7 @@
       "source": "Greece Israel Strategic Watch",
       "published": "Thu, 05 Nov 2026 18:47:47 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -536,60 +558,6 @@
         "Cyprus",
         "Turkey",
         "defense"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "6f9aadcedf27a8a5cdc19bf9",
-      "mode": "geopolitico",
-      "title": "Israel, Greece, Cyprus Discuss Maritime Security Amid Tensions Over Turkey-Libya Deal - i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWnlVNkFKMHlxSVh1ZEgtQzJVR2lCcHFzOUNlVEc0MGtaeU1HLTBXZkNnVC1acmJUUnRvYjBudElCcjRpaVZqNTMxQkdaTXJsc3o0RWRGT1VWd0c2NDRzVWc1Q3htajNia1MzTy1JZDVZZTdJell3NktlcHpKSjREbS1xLXo5SjZDeG1aLW5BdkRnd3NWcF9JQjFJZDZuVnZLTi1GOGVfNlF4YnpJQTRhTmIxX2IwdkxoWjQ4ZmowcmNBQlRsX0lISHA5dVdYeFE?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Thu, 05 Nov 2026 18:29:27 GMT",
-      "base_score": 100,
-      "candidate_score": 115,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Cyprus",
-        "Turkey"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "757f1143a2838d37781935b4",
-      "mode": "geopolitico",
-      "title": "İsrail, Yunanistan ve Kıbrıs Cumhuriyeti Atina'da Savunma İşbirliğini Derinleştirdi - ssbulten.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1JISVNHcU1EaWxiS0hXYVE5UjJvZkRteWJhOElsN2EtNUNJUmg0VGY2akNybEhoZm9waFJTTGdNcHpiWmxLd3V0QWRvZWNTc0NMdVBiVWczR3Y2SGZYS3BFVldIcEFkYnBzYnQ4WmFOQVhPaEgtYmZXWGs2TkJ2UW9rWHBRTEZBaERoNnBCUjB5MmYtU0ZCY0l6UVhxVXBoYTYzWkt0ckpaTEFIVVhlb1VwYTJ1R2thUHZDVjd3OGNtOWs?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Thu, 05 Nov 2026 17:52:23 GMT",
-      "base_score": 94,
-      "candidate_score": 109,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "Atina",
-        "savunma"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "8725a3c0c39a06bd8c58d62e",
-      "mode": "geopolitico",
-      "title": "Great Sea Interconnector: Greece moves ahead with surveys as Turkey weighs its response - ProtoThema English",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRW1aTWhsMWh2NXVRcXJzbnh3bDBaenN0ZnFSNnZIZkJpTXpaUi0ydWlVNWdZZDZ4cDFnbXlFaW9KeWl0eVhhYWhXMnA5WUt2a1ZhSDdQUWRUUk9yc3Eyb2hnUlVvQWY2NWNma3BxWWVaQ2xWWG03N1BvaWdLMXZ3Y3ljWEltOGF5YVhNcnFBYmp0eXdJVEpiOHA1VUdRcE5jSDFWWGdzdndnZ05Vd0MxNFZMWjBnNm5zTEtaNXZWUmg?oc=5",
-      "source": "Greece Turkey Aegean Watch",
-      "published": "Thu, 05 Nov 2026 15:58:54 GMT",
-      "base_score": 96,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "Great Sea Interconnector",
-        "Turkey",
-        "Great Sea Interconnector"
       ],
       "content_type": "news"
     },
@@ -611,20 +579,56 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "8fd3990ad2041d3b0daa6690",
+      "external_id": "757f1143a2838d37781935b4",
       "mode": "geopolitico",
-      "title": "Three Pakistan-backed UN arms control resolutions pass amid Indian, Israeli opposition - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzRaTm5qRkdjVWNNUUI2bjV4bnAwXzhGS2tHN2pRRXdsSWxVS2NudXBHVnBWakRWOEVNaHV3RnpDd3NCNVVrSlE5Q2VHSzZHZTFVX3p5ZG9HQW1ValhxZHNkNmxIUnBlRVVMUGRLYWlOdzZMNTdYUV9BOTl3NXEwSHpsUnNNR0ZNalc2aUVvYWRYT3RvS3FIVE1VbjNpWVFlSUtzcFNBOHV5cV81NU5vNkR6aXlmUEFMZzZDcm1TYTVpTUlo?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Wed, 04 Nov 2026 17:21:23 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
+      "title": "İsrail, Yunanistan ve Kıbrıs Cumhuriyeti Atina'da Savunma İşbirliğini Derinleştirdi - ssbulten.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1JISVNHcU1EaWxiS0hXYVE5UjJvZkRteWJhOElsN2EtNUNJUmg0VGY2akNybEhoZm9waFJTTGdNcHpiWmxLd3V0QWRvZWNTc0NMdVBiVWczR3Y2SGZYS3BFVldIcEFkYnBzYnQ4WmFOQVhPaEgtYmZXWGs2TkJ2UW9rWHBRTEZBaERoNnBCUjB5MmYtU0ZCY0l6UVhxVXBoYTYzWkt0ckpaTEFIVVhlb1VwYTJ1R2thUHZDVjd3OGNtOWs?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 05 Nov 2026 17:52:23 GMT",
+      "base_score": 94,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
-        "India",
+        "Yunanistan",
+        "Kıbrıs",
+        "Atina",
+        "savunma"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "8725a3c0c39a06bd8c58d62e",
+      "mode": "geopolitico",
+      "title": "Great Sea Interconnector: Greece moves ahead with surveys as Turkey weighs its response - ProtoThema English",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRW1aTWhsMWh2NXVRcXJzbnh3bDBaenN0ZnFSNnZIZkJpTXpaUi0ydWlVNWdZZDZ4cDFnbXlFaW9KeWl0eVhhYWhXMnA5WUt2a1ZhSDdQUWRUUk9yc3Eyb2hnUlVvQWY2NWNma3BxWWVaQ2xWWG03N1BvaWdLMXZ3Y3ljWEltOGF5YVhNcnFBYmp0eXdJVEpiOHA1VUdRcE5jSDFWWGdzdndnZ05Vd0MxNFZMWjBnNm5zTEtaNXZWUmg?oc=5",
+      "source": "Greece Turkey Aegean Watch",
+      "published": "Thu, 05 Nov 2026 15:58:54 GMT",
+      "base_score": 96,
+      "candidate_score": 102,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "Great Sea Interconnector",
+        "Turkey",
+        "Great Sea Interconnector"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "1d1c0f7c1b1290caad7531ff",
+      "mode": "geopolitico",
+      "title": "Turkey’s parliament ratifies defense pact with Pakistan and Saudi Arabia - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkQzWkZGUl95S0VHdTgtM2R0SnRSYXFWUGo0VmxkMk5UMnFnc3prVVJpcTJrM25aLXdMTkR3NkpnUEpXOG1JNzJqOFhNZmtLU2dMSFhmdEUzdzJFNGFNNm5tQzAwcXlTeDRFUVYybmNJSFhQa1JsQkxnZEJ4T0JPdHdtempJMi1Ed2t6OVdPZTkwZ21hSWJjaG5ucm9BcllScndrVlRIMGZCLVE4ODl6bHdrTklOWFFL?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Thu, 05 Nov 2026 22:44:33 GMT",
+      "base_score": 84,
+      "candidate_score": 99,
+      "priority": "URGENT",
+      "matched_keywords": [
         "Israel",
-        "Israeli",
-        "Pakistan"
+        "Pakistan",
+        "Turkey",
+        "defense"
       ],
       "content_type": "news"
     },
@@ -636,13 +640,30 @@
       "source": "Analysts Watch · Turkey",
       "published": "Thu, 05 Nov 2026 17:32:23 GMT",
       "base_score": 75,
-      "candidate_score": 90,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Cihat Yaycı",
         "Cihat Yaycı"
       ],
       "content_type": "analyst"
+    },
+    {
+      "external_id": "de63af3a203475c2a4dc8ee2",
+      "mode": "pontos_voice",
+      "title": "Ποντιακός Σύλλογος Νέας Κερασούντας: Πρόσκληση σε έκτακτη Γενική Συνέλευση - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1FVMEJkUVJVaEw2Ry1LSWJsMzNjVW5sd2dTZnp5dm91LU55LUhDSGZuY1dzMktacXFlcVhnWkR1UVZNU1k3Zms2dHVSY1VmckVqSDk5dnNGRjRhbmpxUE0yVTR1d3d6MkE4Sm9SNU96bG04aWpRU2FxbWkwd21XQ1hwYmZXSWxKQ293aUkwbGxDa0pLdUExd21pa0xyQTZfNGdiS0V5cHV5cjVPTktGS1pfUTR5X2plVXRvc1NUdVBCc2hhX1VYbk9rZ3BqUQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Thu, 05 Nov 2026 20:52:38 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "ποντιακός",
+        "Κερασούντα"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "cb15c3dfb932f11f663461fe",
@@ -678,22 +699,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "877e2f42566ff77e246734b2",
-      "mode": "pontos_voice",
-      "title": "Πόντος, 1918: Σχολεία, εμπόριο και μεταλλεία στο φάκελο της ανεξαρτησίας - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZ5X1pyd19oRkJLT3NERXoyS0lackFxYnY1Y2V3YVIyNnRQTjI0WFVaSTJHVzFKV2RtUHVMNDRkaVcyX1p2MUpuank5cVJTSHBqaDhxRjBGaWw5cXFGVElYYmVBNV8wbDktR1VYeThvVG5LR3BiUVJBZFpVMVh1WS05NnRqZ21RSlJqa1dCVnhyMTZnSkNoemRISWx2M19NQWt5dmFvcFBYSlk0Z3h3RQ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Thu, 05 Nov 2026 18:42:13 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Πόντος"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "2ecfe5fcd370feba76b63f24",
       "mode": "pontos_voice",
       "title": "Trabzon'da Salah Caddesi için geri sayım! Bakanlıktan onay çıktı",
@@ -701,7 +706,7 @@
       "source": "61Saat Trabzon",
       "published": "Thu, 05 Nov 2026 20:42:00 +0300",
       "base_score": 62,
-      "candidate_score": 77,
+      "candidate_score": 72,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
@@ -713,35 +718,36 @@
       "content_type": "news"
     },
     {
-      "external_id": "433a39c043e189863dd49d2e",
+      "external_id": "1de45b2d7072f138a740f27d",
       "mode": "pontos_voice",
-      "title": "Nostradamus'un 470 yıllık kitabında Trabzon detayı! 2027 iddiasının perde arkası",
-      "url": "https://www.61saat.com/nostradamusun-470-yillik-kitabinda-trabzon-detayi-2027-iddiasinin-perde-arkasi",
-      "source": "61Saat Trabzon",
-      "published": "Thu, 05 Nov 2026 19:23:00 +0300",
-      "base_score": 57,
-      "candidate_score": 72,
-      "priority": "High",
+      "title": "Trabzonspor'un yıldızı için tartışmalı karar! Taraftarlar tepki gösterdi - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmxoYld4YU5LUXpkNjVDQzg3dkZNeFN5ODlHT0NYdTRDVDJxUVZaMUY5WEFmSkx5UzlPVXdnamJfeW93cU1lNTZCVUMyMk5kSFVCSWhPaTZsa3FQVU53TEQ2X2VkSGFVcjQ3YTRjTERZeTd6SVRQcGdRRy02TGhJcUEwSW5JMzlETDRSdWRsbUc2aEpmODQyVGc4cEJQZDhXNWxBMGJGakZpX19ZRWZFYjdrcHM?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Thu, 05 Nov 2026 07:49:32 GMT",
+      "base_score": 51,
+      "candidate_score": 57,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Rumlar",
+        "tepki",
+        "tartışma",
         "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "05deee823e8aaa4bc1cb0a87",
+      "external_id": "78c50b72bb61dec08a7a80bf",
       "mode": "pontos_voice",
-      "title": "Başkan Genç, Salah'ı örnek vererek duyurdu! Yeni iş birliklerinin önünü açıyoruz",
-      "url": "https://www.61saat.com/baskan-genc-salahi-ornek-vererek-duyurdu-yeni-is-birliklerinin-onunu-aciyoruz",
+      "title": "Mendy’den dikkat çeken sözler! Önümüze bakacağız…",
+      "url": "https://www.61saat.com/mendyden-dikkat-ceken-sozler-onumuze-bakacagiz",
       "source": "61Saat Trabzon",
-      "published": "Thu, 05 Nov 2026 19:23:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
+      "published": "Thu, 05 Nov 2026 22:46:00 +0300",
+      "base_score": 46,
+      "candidate_score": 56,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
+        "müze",
         "Trabzon"
       ],
       "content_type": "news"
