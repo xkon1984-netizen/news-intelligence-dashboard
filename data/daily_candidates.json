@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T06:33:44.686748+00:00",
+  "generated_at": "2026-11-07T13:31:58.559472+00:00",
   "counts": {
-    "sportdog": 2,
+    "sportdog": 4,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 06 Nov 2026 02:52:07 GMT",
         "base_score": 62,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -25,6 +25,45 @@
         "editorial_type": "Team News",
         "team": "Olympiacos",
         "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "96c8e06fcc208ab4f57bc988",
+        "mode": "sportdog",
+        "title": "Expected assists (xA) - Aris Thessaloniki stats for Super League 1 2025/2026 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT2daZjRjUmw0QXB1WkVwQnhnYk1WY1V4Z1JQMDFuQUZyd3NZNmtWUEhjTjV0djFSOGZDQnFvdmVWNHA1bmx4NEtyWmdoOE1IazRXWF9xT3Zfck9UTHVDQ0Y4SXFsRzVpV3lxckV0MlEzNzJJeG12ZFdibWdMb3pjenZSdGRmOENZUjFqUW1Kd3pfdUNSSzNxeGdQQTAzQzdHTnF2bjBPakwxZE53RHdNVWVrOWZpMmpqOXpKb1BrUmM2Q25aNjRqWGtxZll2M3c?oc=5",
+        "source": "Aris Rumour Watch",
+        "published": "Fri, 06 Nov 2026 23:11:34 GMT",
+        "base_score": 48,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Aris",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Aris",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "c6aa6cc6a2b73cd480ab972c",
+        "mode": "sportdog",
+        "title": "Dynamo Kyiv vs PAOK | July 30, 2026 | UEL Matchup - theScore",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NTmMzdDhvOE9LT0VaNUI0ei14YXpkaUpuSldKeElaUmE0MjU2TGxfelFGT3RNN1pXOWFGSFppOWxieGRPUWFCbFVPd2QyMGdxQUU2WlRR?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Fri, 06 Nov 2026 17:26:31 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "PAOK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "PAOK",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -49,58 +88,75 @@
     ],
     "geopolitico": [
       {
-        "external_id": "b5edaf969b57686dca95ed3a",
+        "external_id": "d13734fce46ef0dc450786ae",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de yeniden gerilim rüzgarı: Ankara'dan Atinaya kıta sahanlığımızı ihlal etme uyarısı | Video - CNN Türk",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZGpRNFd4bWUtQk5LOHI3NzMzeEE0Rk1Yc1Vsak05SDEwbllwTk0zdVFvWDFRZ0JDeEI4by04VUE2SnAtZnBYaUM4N1dSM0U1R0hZamtvOTVFRGZBWHEzVnVnRjRoeU5EQVpqQXNJaFVNd1JrNHJJZFRidkxERFNGaEllUU1CTXZYcklLOU1MSkJCaFZJZFdLWk0tdGRCTGwtbmRLSURURnA1Z3BvaWZlZEgxTERGZHBMaVhkZjRQOEZKbVowMGJsSHkyQkg?oc=5",
+        "title": "Doğu Akdeniz'de NAVTEX satrancı! Yunanistan o hamleden korktu: Asla kabul etmeyecek - Medyatava",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHR5dHhzeGtKcTdhcXQzNy1uaDdsQVAyNlRtRk9PaFlhQUh3LXBlbEI3cmU3QlpWY3ZDMHJNZVp3dXBQUU5hdkI0V0VTc1pCVEdkeDZPb013eGlnTExJSXNZcU95QV9OS21QcVFLdXh6MHpFSlVwVlN2VDdOZ3ptWFVCbk51eWxvb1hRZ01EellsNmpDeTdzNl81VmJVSXVVXzdRQXcyX0RaeGRqQXpSU1I4ZElaQW1WdWdocnJtdEM?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 07 Nov 2026 06:23:51 GMT",
-        "base_score": 100,
-        "candidate_score": 115,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "kıta sahanlığı",
-          "Ankara",
-          "Atina",
-          "gerilim"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "4553e457f6c70692b699f565",
-        "mode": "geopolitico",
-        "title": "Yunanistan Girit-Kıbrıs elektrik hattı için NAVTEX yayımladı: Araştırmalar yeniden başlıyor! - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjl3VnNsWVBnTHpiWEdaSmdzREp0UDFrZ2JjbFBCRHJxNUY3Wk9KX1pzNVFrcGZNdDVIdXpnOVgtRVN4YWhuRDhrWUx5Q0ozbS1pdHllZVVpYXRzVVI2aC1GVkQ2MDREeFFwdVh4eEtUemlJVUJ3OERhSUg1NnFEVVQ5Vk9PSlZjSjJheDlkZloyUFI5Sk02a19wbHJKaWpKVWxKaks0eVBndFBtOV9veUNORTFXdw?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 07 Nov 2026 04:06:57 GMT",
+        "published": "Sat, 07 Nov 2026 12:34:00 GMT",
         "base_score": 100,
         "candidate_score": 115,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
           "NAVTEX",
-          "Kıbrıs",
-          "elektrik hattı",
-          "Girit"
+          "Doğu Akdeniz"
         ],
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "7a7a276c6a9b64ed32e3365e",
+        "external_id": "82fdbd0b3b7ae16fbcbd51e6",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de Fransız gemisi gerilimi! Yunanistan ve GKRY'nin seyir ikazları iptal edildi - Ankara Net Haber",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0UyMXVHZVdGdnh6MGFZVlc0UjhFRlM3U3pIeGl2MldPRTZyY3phUzNNcS1TcG9FbUpQU3JJbVJyalY0YVdXSjc5TUdWOUdsTDJ3bGtPZ25EUmFPclZ0blVHa1BpeDFOeW45akluLWNJY08zc2Z4VDJwcTdGcENqeUVtRFJOeDRIbm1fWXdOQ3dHNmFVUXM5LW1ta2dqY2lOUFF6Tk1DSGxiQUxURzhmMk9tYkRKQy1QRU1B?oc=5",
+        "title": "Doğu Akdeniz’de Kablo Hattı Gerilimi: Türkiye NAVTEX ile Yanıt Verdi - Bölge Gündemi",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2JSWndXamRtZDZDOUM2clZwY2hOaGw1OEp1dDRSaVVNb0lXQUVseHBlRkdNZmxZdERSUzlWY0lkUG5BckxlY1pTYzBBY0dxSWNRZzN2QlJnUVNOc1FmS1B4YmZyVy1qQ3Blc1B2Vng5OVhmMVBUNnZfZDIxdG4xamJpR2V5Mlk3VG5iUnF3bWNhVkdlbkRsVHZKaU5JU2pDQnczbHRhQjgwV0xWNmhyVC1tdw?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 07 Nov 2026 03:38:00 GMT",
+        "published": "Sat, 07 Nov 2026 10:40:12 GMT",
         "base_score": 100,
         "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "NAVTEX",
+          "Doğu Akdeniz",
+          "gerilim",
+          "kablo"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "16b1072b57ee4d6fa9b9d2f7",
+        "mode": "geopolitico",
+        "title": "Yunanistan'ı Doğu Akdeniz Korkusu Sardı! 'Paris Yönetimi Ankara İle Masada'-Türkiye Gazetesi - ssbulten.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0tNRUdiWlNneDE2QXFqZWMxZHpNNjVHMWNVVEdRYUtteko2OXdBRGw0SHc5cm1idEpNQ0tKNTNnSm8xN1BJbklxUE9VSU82am43di1RNTY5YkNERDQ5dDBDbnY3bHU4UTZ1RVlXMHZtQXh6a0FlMklWMm1UakUwSHBqak0yXzQxZDJtSC1Kdkk5WFRDYTFuMExfOTJmRk5NVzgwQnNDMGtWeDJIWjZiRkxJQ3lqdkE4dDNXODVDclh2V0wzZkd6dnR1V1pvOUVoVTZv?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sat, 07 Nov 2026 13:21:17 GMT",
+        "base_score": 98,
+        "candidate_score": 113,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
           "Doğu Akdeniz",
           "Ankara",
-          "gerilim"
+          "ada"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "f444d228ef2bcad5e51cf220",
+        "mode": "geopolitico",
+        "title": "Yunanistan'dan GSI projesi için NAVTEX hamlesi, Ankara'dan tepki - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRG83ek0xWWpOdmF0T3JyMkNSNTJxQmU5VG1HQ3E3Y0VnZEZMYmppV3VzQUxoeWdjQ0pBX2pLVGRibkUwOVoyV0hIYzBhX2Vxckc1VmpscXNwX1Axcko3a2VQdTlGQWtqemluVHUxVU42MEVfcjZmYmVFNUM2cUJHN01fMHlmdldPRWVvcTBCMXpOWExHeGI1U0gwYjBidk43TXR4SDRWR0lkSWFQQ196Z3V6bw?oc=5",
+        "source": "Aegean Turkey Watch",
+        "published": "Sat, 07 Nov 2026 09:36:04 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "NAVTEX",
+          "GSI",
+          "Ankara",
+          "tepki",
+          "GSI"
         ],
         "content_type": "turkey_greece"
       },
@@ -112,7 +168,7 @@
         "source": "Pakistan Security Watch",
         "published": "Fri, 06 Nov 2026 17:18:41 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -162,42 +218,22 @@
         "content_type": "news"
       },
       {
-        "external_id": "e58be24d687ba5601f0e3e69",
+        "external_id": "a63f7b68aeb57e63a4500ab9",
         "mode": "geopolitico",
-        "title": "Israel, Greece and Cyprus Deepen Defence Cooperation at Trilateral Meeting - Raksha Anirveda",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSVVhR2RhaVZuVEUtclpZTkdlQnlSMTNEMWE3ZHdrMGtpYUVmSW1YR1hfV2NUdHoya3pFd1h6U3FJbE1IQ29rRFV2ODZrVWR6OV95eEpHd1JuNjZYanRVUmlpclF3UmlmSjdJUy0zOThVM0FtcWowbzlCYW9sbVJWM2tWZ2QycE1CM2xLZnRnSzRIaFhIWVNiZU5IQ2FHcVJnV1czRw?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Fri, 06 Nov 2026 06:23:36 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
+        "title": "Dışişleri Bakanı Hakan Fidan, Mısırlı mevkidaşıyla görüştü: Masada Orta Doğu ve Doğu Akdeniz var - TGRT Haber",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSEtNd0NERmE3OTlpMkRtc2xENFVVU1J4SExURDBzX1ltcTlOMl9RYjRPNjdTbkRDQVZIaFV3dzBJZkw1VVpnMWVmRktUa1VBRFlzcWVremdacVFhU1NST2Z1WUNtWWdPaHZoQXRnTTNNdjVxODVPcmhpXzRaellVQk9mMTUtVW13VGtTR3VJZlZ4T0RBeW5SNGZsazZQT2lQZERfNXJfak9nalpmTHZ4UXNwQjNxUmd5bE9UOXVvQzUtS1E?oc=5",
+        "source": "TGRT Haber Greece Watch",
+        "published": "Sat, 07 Nov 2026 12:15:01 GMT",
+        "base_score": 84,
+        "candidate_score": 99,
         "priority": "URGENT",
         "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Cyprus",
-          "defence",
-          "defence cooperation"
+          "Fidan",
+          "Doğu Akdeniz",
+          "Fidan",
+          "ada"
         ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "2f3ddfd82ebd4b1432acd511",
-        "mode": "geopolitico",
-        "title": "Israel, Greece, Cyprus slam Turkey-Libya sea deal, agree to deepen defense ties - The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdG9oZm1hWXZybkdlX0tfVV9QbUh4ZWQ1cl8wSTlTS01jZHNtZXZzamRKdGNJRm5zWGk4dEZqWUVjZnJxaU00VXlIU0xhQlRGSlA1V2FiWmRwYjNO?oc=5",
-        "source": "Cyprus Eastern Mediterranean Watch",
-        "published": "Fri, 06 Nov 2026 05:59:28 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Cyprus",
-          "Turkey",
-          "defense"
-        ],
-        "content_type": "news"
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -209,7 +245,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 06 Nov 2026 12:56:58 GMT",
         "base_score": 86,
-        "candidate_score": 92,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -234,67 +270,71 @@
         "content_type": "news"
       },
       {
-        "external_id": "877e2f42566ff77e246734b2",
+        "external_id": "f1cdf463951d510bbb804725",
         "mode": "pontos_voice",
-        "title": "Πόντος, 1918: Σχολεία, εμπόριο και μεταλλεία στο φάκελο της ανεξαρτησίας - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZ5X1pyd19oRkJLT3NERXoyS0lackFxYnY1Y2V3YVIyNnRQTjI0WFVaSTJHVzFKV2RtUHVMNDRkaVcyX1p2MUpuank5cVJTSHBqaDhxRjBGaWw5cXFGVElYYmVBNV8wbDktR1VYeThvVG5LR3BiUVJBZFpVMVh1WS05NnRqZ21RSlJqa1dCVnhyMTZnSkNoemRISWx2M19NQWt5dmFvcFBYSlk0Z3h3RQ?oc=5",
+        "title": "Trabzon Üniversitesi'nde 8 yıllık dönem sona erdi! Rektör veda etti",
+        "url": "https://www.61saat.com/trabzon-universitesinde-8-yillik-donem-sona-erdi-rektor-veda-etti",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 07 Nov 2026 16:25:00 +0300",
+        "base_score": 51,
+        "candidate_score": 66,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Of",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "956e19b557da38315edfa8a9",
+        "mode": "pontos_voice",
+        "title": "Trabzon'a kar geliyor! Meteoroloji uyardı: Yarın başlıyor",
+        "url": "https://www.61saat.com/trabzona-kar-geliyor-meteoroloji-uyardi-yarin-basliyor",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 07 Nov 2026 13:31:00 +0300",
+        "base_score": 53,
+        "candidate_score": 63,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Giresun",
+          "Ordu",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "8c52ff50175ba4583469e6c1",
+        "mode": "pontos_voice",
+        "title": "Παραδοσιακό παρακάθ’ από την Οργάνωση Ποντίων Ν. Καστοριάς “Ο Εύξεινος Πόντος” - Φωνή της Καστοριάς",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1MxbnlkdHdZXzJrVFN4RTNKOTlFMGw1eF9vUGVQOHJtRzJLLW5mTjdWSjJjb0lmREV4U2d0WGE4QXJFX1dvaUs1VE1xOXFJR052dl8xeFBvNUxuck12aFRjVlNuNHdNUlQ2YUp2enAwOXRLYnFHd3N1ckNmdzk2dUlHUXJCaXg3QlB0RHp2ZjFoVkZWTWNsdXNjWnF1eVdYZEg0?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Thu, 05 Nov 2026 18:42:13 GMT",
-        "base_score": 75,
-        "candidate_score": 75,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "Πόντος"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "edd8282aebd1441a86019be7",
-        "mode": "pontos_voice",
-        "title": "Trabzon’u dün karanlıkta bırakan kesintiye tepki! Tahsilatta var, hizmette yok! - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakY5R0tqUXQ3X2RWSE9ZYjNHaGFUOFhreV96b1A0WkU5Nms5Mk44eVVlX2RwNVZneDJ6U3FYNlE5VUhjSGVueXFLcHVJWGhmc2J3V0xaTDg0VTBheURaeUJpMWpZYmgwUUtzYWpwLURFeFRNOVJqY2NNMEpIT2h3dVhXRzJ6RkhsYzBSS2Q3UGczTVJuWWh2aDF1eG1QV2drX25Qd0RacDJlR3k5YXFxUFNRXzVUZw?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sat, 07 Nov 2026 05:35:07 GMT",
-        "base_score": 42,
-        "candidate_score": 57,
+        "published": "Fri, 06 Nov 2026 09:56:23 GMT",
+        "base_score": 57,
+        "candidate_score": 60,
         "priority": "Normal",
         "matched_keywords": [
-          "Trabzon",
-          "tepki",
-          "Trabzon"
+          "Πόντος",
+          "Εύξεινος Πόντος"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "b093f7a0537fe7fd18a25e89",
+        "external_id": "67eb0d89f07bc3e8795a9247",
         "mode": "pontos_voice",
-        "title": "Trabzonspor reytinglerde Beşiktaş'ı geride bıraktı!",
-        "url": "https://www.61saat.com/trabzonspor-reytinglerde-besiktasi-geride-birakti",
+        "title": "Trabzonspor'un Alanyaspor kadrosunda 4 yeni isim! İşte kadroda olmayanlar",
+        "url": "https://www.61saat.com/trabzonsporun-alanyaspor-kadrosunda-4-yeni-isim-iste-kadroda-olmayanlar",
         "source": "61Saat Trabzon",
-        "published": "Sat, 07 Nov 2026 09:18:00 +0300",
-        "base_score": 34,
-        "candidate_score": 49,
+        "published": "Sat, 07 Nov 2026 15:35:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "4813602bc0fc528d3234fb3a",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da altın fiyatlarında bir haftada dikkat çeken değişim! İşte son durum",
-        "url": "https://www.61saat.com/trabzonda-altin-fiyatlarinda-bir-haftada-dikkat-ceken-degisim-iste-son-durum",
-        "source": "61Saat Trabzon",
-        "published": "Sat, 07 Nov 2026 09:08:00 +0300",
-        "base_score": 34,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
           "Trabzon",
-          "Trabzon"
+          "dil"
         ],
         "content_type": "news"
       }
@@ -309,7 +349,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 06 Nov 2026 02:52:07 GMT",
       "base_score": 62,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -319,6 +359,45 @@
       "editorial_type": "Team News",
       "team": "Olympiacos",
       "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "96c8e06fcc208ab4f57bc988",
+      "mode": "sportdog",
+      "title": "Expected assists (xA) - Aris Thessaloniki stats for Super League 1 2025/2026 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT2daZjRjUmw0QXB1WkVwQnhnYk1WY1V4Z1JQMDFuQUZyd3NZNmtWUEhjTjV0djFSOGZDQnFvdmVWNHA1bmx4NEtyWmdoOE1IazRXWF9xT3Zfck9UTHVDQ0Y4SXFsRzVpV3lxckV0MlEzNzJJeG12ZFdibWdMb3pjenZSdGRmOENZUjFqUW1Kd3pfdUNSSzNxeGdQQTAzQzdHTnF2bjBPakwxZE53RHdNVWVrOWZpMmpqOXpKb1BrUmM2Q25aNjRqWGtxZll2M3c?oc=5",
+      "source": "Aris Rumour Watch",
+      "published": "Fri, 06 Nov 2026 23:11:34 GMT",
+      "base_score": 48,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Aris",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Aris",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "c6aa6cc6a2b73cd480ab972c",
+      "mode": "sportdog",
+      "title": "Dynamo Kyiv vs PAOK | July 30, 2026 | UEL Matchup - theScore",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NTmMzdDhvOE9LT0VaNUI0ei14YXpkaUpuSldKeElaUmE0MjU2TGxfelFGT3RNN1pXOWFGSFppOWxieGRPUWFCbFVPd2QyMGdxQUU2WlRR?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Fri, 06 Nov 2026 17:26:31 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "PAOK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "PAOK",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -341,58 +420,75 @@
       "needs_second_source": true
     },
     {
-      "external_id": "b5edaf969b57686dca95ed3a",
+      "external_id": "d13734fce46ef0dc450786ae",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de yeniden gerilim rüzgarı: Ankara'dan Atinaya kıta sahanlığımızı ihlal etme uyarısı | Video - CNN Türk",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZGpRNFd4bWUtQk5LOHI3NzMzeEE0Rk1Yc1Vsak05SDEwbllwTk0zdVFvWDFRZ0JDeEI4by04VUE2SnAtZnBYaUM4N1dSM0U1R0hZamtvOTVFRGZBWHEzVnVnRjRoeU5EQVpqQXNJaFVNd1JrNHJJZFRidkxERFNGaEllUU1CTXZYcklLOU1MSkJCaFZJZFdLWk0tdGRCTGwtbmRLSURURnA1Z3BvaWZlZEgxTERGZHBMaVhkZjRQOEZKbVowMGJsSHkyQkg?oc=5",
+      "title": "Doğu Akdeniz'de NAVTEX satrancı! Yunanistan o hamleden korktu: Asla kabul etmeyecek - Medyatava",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHR5dHhzeGtKcTdhcXQzNy1uaDdsQVAyNlRtRk9PaFlhQUh3LXBlbEI3cmU3QlpWY3ZDMHJNZVp3dXBQUU5hdkI0V0VTc1pCVEdkeDZPb013eGlnTExJSXNZcU95QV9OS21QcVFLdXh6MHpFSlVwVlN2VDdOZ3ptWFVCbk51eWxvb1hRZ01EellsNmpDeTdzNl81VmJVSXVVXzdRQXcyX0RaeGRqQXpSU1I4ZElaQW1WdWdocnJtdEM?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 07 Nov 2026 06:23:51 GMT",
-      "base_score": 100,
-      "candidate_score": 115,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Doğu Akdeniz",
-        "kıta sahanlığı",
-        "Ankara",
-        "Atina",
-        "gerilim"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "4553e457f6c70692b699f565",
-      "mode": "geopolitico",
-      "title": "Yunanistan Girit-Kıbrıs elektrik hattı için NAVTEX yayımladı: Araştırmalar yeniden başlıyor! - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjl3VnNsWVBnTHpiWEdaSmdzREp0UDFrZ2JjbFBCRHJxNUY3Wk9KX1pzNVFrcGZNdDVIdXpnOVgtRVN4YWhuRDhrWUx5Q0ozbS1pdHllZVVpYXRzVVI2aC1GVkQ2MDREeFFwdVh4eEtUemlJVUJ3OERhSUg1NnFEVVQ5Vk9PSlZjSjJheDlkZloyUFI5Sk02a19wbHJKaWpKVWxKaks0eVBndFBtOV9veUNORTFXdw?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 07 Nov 2026 04:06:57 GMT",
+      "published": "Sat, 07 Nov 2026 12:34:00 GMT",
       "base_score": 100,
       "candidate_score": 115,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
         "NAVTEX",
-        "Kıbrıs",
-        "elektrik hattı",
-        "Girit"
+        "Doğu Akdeniz"
       ],
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "7a7a276c6a9b64ed32e3365e",
+      "external_id": "82fdbd0b3b7ae16fbcbd51e6",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de Fransız gemisi gerilimi! Yunanistan ve GKRY'nin seyir ikazları iptal edildi - Ankara Net Haber",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0UyMXVHZVdGdnh6MGFZVlc0UjhFRlM3U3pIeGl2MldPRTZyY3phUzNNcS1TcG9FbUpQU3JJbVJyalY0YVdXSjc5TUdWOUdsTDJ3bGtPZ25EUmFPclZ0blVHa1BpeDFOeW45akluLWNJY08zc2Z4VDJwcTdGcENqeUVtRFJOeDRIbm1fWXdOQ3dHNmFVUXM5LW1ta2dqY2lOUFF6Tk1DSGxiQUxURzhmMk9tYkRKQy1QRU1B?oc=5",
+      "title": "Doğu Akdeniz’de Kablo Hattı Gerilimi: Türkiye NAVTEX ile Yanıt Verdi - Bölge Gündemi",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2JSWndXamRtZDZDOUM2clZwY2hOaGw1OEp1dDRSaVVNb0lXQUVseHBlRkdNZmxZdERSUzlWY0lkUG5BckxlY1pTYzBBY0dxSWNRZzN2QlJnUVNOc1FmS1B4YmZyVy1qQ3Blc1B2Vng5OVhmMVBUNnZfZDIxdG4xamJpR2V5Mlk3VG5iUnF3bWNhVkdlbkRsVHZKaU5JU2pDQnczbHRhQjgwV0xWNmhyVC1tdw?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 07 Nov 2026 03:38:00 GMT",
+      "published": "Sat, 07 Nov 2026 10:40:12 GMT",
       "base_score": 100,
       "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "NAVTEX",
+        "Doğu Akdeniz",
+        "gerilim",
+        "kablo"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "16b1072b57ee4d6fa9b9d2f7",
+      "mode": "geopolitico",
+      "title": "Yunanistan'ı Doğu Akdeniz Korkusu Sardı! 'Paris Yönetimi Ankara İle Masada'-Türkiye Gazetesi - ssbulten.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0tNRUdiWlNneDE2QXFqZWMxZHpNNjVHMWNVVEdRYUtteko2OXdBRGw0SHc5cm1idEpNQ0tKNTNnSm8xN1BJbklxUE9VSU82am43di1RNTY5YkNERDQ5dDBDbnY3bHU4UTZ1RVlXMHZtQXh6a0FlMklWMm1UakUwSHBqak0yXzQxZDJtSC1Kdkk5WFRDYTFuMExfOTJmRk5NVzgwQnNDMGtWeDJIWjZiRkxJQ3lqdkE4dDNXODVDclh2V0wzZkd6dnR1V1pvOUVoVTZv?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sat, 07 Nov 2026 13:21:17 GMT",
+      "base_score": 98,
+      "candidate_score": 113,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
         "Doğu Akdeniz",
         "Ankara",
-        "gerilim"
+        "ada"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "f444d228ef2bcad5e51cf220",
+      "mode": "geopolitico",
+      "title": "Yunanistan'dan GSI projesi için NAVTEX hamlesi, Ankara'dan tepki - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRG83ek0xWWpOdmF0T3JyMkNSNTJxQmU5VG1HQ3E3Y0VnZEZMYmppV3VzQUxoeWdjQ0pBX2pLVGRibkUwOVoyV0hIYzBhX2Vxckc1VmpscXNwX1Axcko3a2VQdTlGQWtqemluVHUxVU42MEVfcjZmYmVFNUM2cUJHN01fMHlmdldPRWVvcTBCMXpOWExHeGI1U0gwYjBidk43TXR4SDRWR0lkSWFQQ196Z3V6bw?oc=5",
+      "source": "Aegean Turkey Watch",
+      "published": "Sat, 07 Nov 2026 09:36:04 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "NAVTEX",
+        "GSI",
+        "Ankara",
+        "tepki",
+        "GSI"
       ],
       "content_type": "turkey_greece"
     },
@@ -404,7 +500,7 @@
       "source": "Pakistan Security Watch",
       "published": "Fri, 06 Nov 2026 17:18:41 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -454,42 +550,22 @@
       "content_type": "news"
     },
     {
-      "external_id": "e58be24d687ba5601f0e3e69",
+      "external_id": "a63f7b68aeb57e63a4500ab9",
       "mode": "geopolitico",
-      "title": "Israel, Greece and Cyprus Deepen Defence Cooperation at Trilateral Meeting - Raksha Anirveda",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSVVhR2RhaVZuVEUtclpZTkdlQnlSMTNEMWE3ZHdrMGtpYUVmSW1YR1hfV2NUdHoya3pFd1h6U3FJbE1IQ29rRFV2ODZrVWR6OV95eEpHd1JuNjZYanRVUmlpclF3UmlmSjdJUy0zOThVM0FtcWowbzlCYW9sbVJWM2tWZ2QycE1CM2xLZnRnSzRIaFhIWVNiZU5IQ2FHcVJnV1czRw?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Fri, 06 Nov 2026 06:23:36 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
+      "title": "Dışişleri Bakanı Hakan Fidan, Mısırlı mevkidaşıyla görüştü: Masada Orta Doğu ve Doğu Akdeniz var - TGRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSEtNd0NERmE3OTlpMkRtc2xENFVVU1J4SExURDBzX1ltcTlOMl9RYjRPNjdTbkRDQVZIaFV3dzBJZkw1VVpnMWVmRktUa1VBRFlzcWVremdacVFhU1NST2Z1WUNtWWdPaHZoQXRnTTNNdjVxODVPcmhpXzRaellVQk9mMTUtVW13VGtTR3VJZlZ4T0RBeW5SNGZsazZQT2lQZERfNXJfak9nalpmTHZ4UXNwQjNxUmd5bE9UOXVvQzUtS1E?oc=5",
+      "source": "TGRT Haber Greece Watch",
+      "published": "Sat, 07 Nov 2026 12:15:01 GMT",
+      "base_score": 84,
+      "candidate_score": 99,
       "priority": "URGENT",
       "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Cyprus",
-        "defence",
-        "defence cooperation"
+        "Fidan",
+        "Doğu Akdeniz",
+        "Fidan",
+        "ada"
       ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "2f3ddfd82ebd4b1432acd511",
-      "mode": "geopolitico",
-      "title": "Israel, Greece, Cyprus slam Turkey-Libya sea deal, agree to deepen defense ties - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdG9oZm1hWXZybkdlX0tfVV9QbUh4ZWQ1cl8wSTlTS01jZHNtZXZzamRKdGNJRm5zWGk4dEZqWUVjZnJxaU00VXlIU0xhQlRGSlA1V2FiWmRwYjNO?oc=5",
-      "source": "Cyprus Eastern Mediterranean Watch",
-      "published": "Fri, 06 Nov 2026 05:59:28 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Cyprus",
-        "Turkey",
-        "defense"
-      ],
-      "content_type": "news"
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "baf15c09d223719ff804a834",
@@ -499,7 +575,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 06 Nov 2026 12:56:58 GMT",
       "base_score": 86,
-      "candidate_score": 92,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -524,67 +600,71 @@
       "content_type": "news"
     },
     {
-      "external_id": "877e2f42566ff77e246734b2",
+      "external_id": "f1cdf463951d510bbb804725",
       "mode": "pontos_voice",
-      "title": "Πόντος, 1918: Σχολεία, εμπόριο και μεταλλεία στο φάκελο της ανεξαρτησίας - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZ5X1pyd19oRkJLT3NERXoyS0lackFxYnY1Y2V3YVIyNnRQTjI0WFVaSTJHVzFKV2RtUHVMNDRkaVcyX1p2MUpuank5cVJTSHBqaDhxRjBGaWw5cXFGVElYYmVBNV8wbDktR1VYeThvVG5LR3BiUVJBZFpVMVh1WS05NnRqZ21RSlJqa1dCVnhyMTZnSkNoemRISWx2M19NQWt5dmFvcFBYSlk0Z3h3RQ?oc=5",
+      "title": "Trabzon Üniversitesi'nde 8 yıllık dönem sona erdi! Rektör veda etti",
+      "url": "https://www.61saat.com/trabzon-universitesinde-8-yillik-donem-sona-erdi-rektor-veda-etti",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 07 Nov 2026 16:25:00 +0300",
+      "base_score": 51,
+      "candidate_score": 66,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Of",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "956e19b557da38315edfa8a9",
+      "mode": "pontos_voice",
+      "title": "Trabzon'a kar geliyor! Meteoroloji uyardı: Yarın başlıyor",
+      "url": "https://www.61saat.com/trabzona-kar-geliyor-meteoroloji-uyardi-yarin-basliyor",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 07 Nov 2026 13:31:00 +0300",
+      "base_score": 53,
+      "candidate_score": 63,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Giresun",
+        "Ordu",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "8c52ff50175ba4583469e6c1",
+      "mode": "pontos_voice",
+      "title": "Παραδοσιακό παρακάθ’ από την Οργάνωση Ποντίων Ν. Καστοριάς “Ο Εύξεινος Πόντος” - Φωνή της Καστοριάς",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1MxbnlkdHdZXzJrVFN4RTNKOTlFMGw1eF9vUGVQOHJtRzJLLW5mTjdWSjJjb0lmREV4U2d0WGE4QXJFX1dvaUs1VE1xOXFJR052dl8xeFBvNUxuck12aFRjVlNuNHdNUlQ2YUp2enAwOXRLYnFHd3N1ckNmdzk2dUlHUXJCaXg3QlB0RHp2ZjFoVkZWTWNsdXNjWnF1eVdYZEg0?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Thu, 05 Nov 2026 18:42:13 GMT",
-      "base_score": 75,
-      "candidate_score": 75,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Πόντος"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "edd8282aebd1441a86019be7",
-      "mode": "pontos_voice",
-      "title": "Trabzon’u dün karanlıkta bırakan kesintiye tepki! Tahsilatta var, hizmette yok! - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakY5R0tqUXQ3X2RWSE9ZYjNHaGFUOFhreV96b1A0WkU5Nms5Mk44eVVlX2RwNVZneDJ6U3FYNlE5VUhjSGVueXFLcHVJWGhmc2J3V0xaTDg0VTBheURaeUJpMWpZYmgwUUtzYWpwLURFeFRNOVJqY2NNMEpIT2h3dVhXRzJ6RkhsYzBSS2Q3UGczTVJuWWh2aDF1eG1QV2drX25Qd0RacDJlR3k5YXFxUFNRXzVUZw?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sat, 07 Nov 2026 05:35:07 GMT",
-      "base_score": 42,
-      "candidate_score": 57,
+      "published": "Fri, 06 Nov 2026 09:56:23 GMT",
+      "base_score": 57,
+      "candidate_score": 60,
       "priority": "Normal",
       "matched_keywords": [
-        "Trabzon",
-        "tepki",
-        "Trabzon"
+        "Πόντος",
+        "Εύξεινος Πόντος"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "b093f7a0537fe7fd18a25e89",
+      "external_id": "67eb0d89f07bc3e8795a9247",
       "mode": "pontos_voice",
-      "title": "Trabzonspor reytinglerde Beşiktaş'ı geride bıraktı!",
-      "url": "https://www.61saat.com/trabzonspor-reytinglerde-besiktasi-geride-birakti",
+      "title": "Trabzonspor'un Alanyaspor kadrosunda 4 yeni isim! İşte kadroda olmayanlar",
+      "url": "https://www.61saat.com/trabzonsporun-alanyaspor-kadrosunda-4-yeni-isim-iste-kadroda-olmayanlar",
       "source": "61Saat Trabzon",
-      "published": "Sat, 07 Nov 2026 09:18:00 +0300",
-      "base_score": 34,
-      "candidate_score": 49,
+      "published": "Sat, 07 Nov 2026 15:35:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "4813602bc0fc528d3234fb3a",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da altın fiyatlarında bir haftada dikkat çeken değişim! İşte son durum",
-      "url": "https://www.61saat.com/trabzonda-altin-fiyatlarinda-bir-haftada-dikkat-ceken-degisim-iste-son-durum",
-      "source": "61Saat Trabzon",
-      "published": "Sat, 07 Nov 2026 09:08:00 +0300",
-      "base_score": 34,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
         "Trabzon",
-        "Trabzon"
+        "dil"
       ],
       "content_type": "news"
     }
