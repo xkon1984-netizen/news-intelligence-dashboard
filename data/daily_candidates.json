@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:52:20.657555+00:00",
+  "generated_at": "2026-11-07T00:31:49.260641+00:00",
   "counts": {
     "sportdog": 4,
     "geopolitico": 8,
@@ -55,7 +55,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Thu, 05 Nov 2026 16:13:00 GMT",
         "base_score": 41,
-        "candidate_score": 52,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -89,23 +89,6 @@
     ],
     "geopolitico": [
       {
-        "external_id": "16bc08a5b0d10cfd721f007f",
-        "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de işler tersine döndü! Yunanistan Türkiye'nin kapısını çalmak zorunda kaldı, 'Macron yönetimi devreye girdi' - Türkiye Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNjczcE45dWtKRW9ucEYwNy1VSUo4bF9HazZiMVJEbWFkTjBfU1Fkcm12dE9EQVl5Z3B1TExYOUVzb3hFMmxuX29SR0t1MVl6d3NsbkpWb2ZwcXpuTWFGa0d6ZHUtQ1hZS3ZFOWpIMDdBZGVDRzJFWl9peko4ek9qZzd5N2RmV0NFVERVUmpUUkppbVk5Mi1rV1FiN3V5ZHROaU9IeFVqb1JKaWRUbEJ0NGtqSlh1V3JaMmdXQ0xCY3dLRkVOWVlVV2RJQlF0VmM?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 06 Nov 2026 20:28:29 GMT",
-        "base_score": 100,
-        "candidate_score": 115,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz",
-          "Yunanistan Türkiye"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "25be19b719132ab5db4aaad7",
         "mode": "geopolitico",
         "title": "Dışişleri Bakanlığı'ndan Doğu Akdeniz'de Türk kıta sahanlığında izinsiz araştırma yapan Fransız bayraklı gemiyle ilgili açıklama: Yunanistan ve GKRY'nin ikazları iptal edildi - TGRT Haber",
@@ -113,7 +96,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 06 Nov 2026 20:09:49 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -132,7 +115,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 06 Nov 2026 19:32:29 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 110,
         "priority": "URGENT",
         "matched_keywords": [
           "Doğu Akdeniz",
@@ -140,6 +123,23 @@
           "Güney Kıbrıs",
           "Girit",
           "gerilim"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "9ce4e6972c11f1606bb69c17",
+        "mode": "geopolitico",
+        "title": "Türkiye'den Yunanistan'a hukuksuz NAVTEX uyarısı: \"Bölge Türk kıta sahanlığı içerisinde\" - TRHaber",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSVVMN0lRcmpHcHBudG1KNDNFc2kyZm0zcVdNdzl5cnJ0dzRHdU1kZEZSSndQQ2FmTklVazRMeU5WeVAyeGluSUJubVcxWHVMcl9INlp2eDRZNmZkS0JRSHE3dDZIT3Y0RUxzYUthM2tZdlhGU2RPMjVDajdld2FzZnFaTnFwMW0weEhuVVdlZlo5Q2M0Mk4xQmJqN2luek5nWTVvYXFvcm91UDhYX0tEWXFUdWxhbTNBczdfZkZrd195VnlpN0UzckNB?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Fri, 06 Nov 2026 18:17:00 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "NAVTEX",
+          "kıta sahanlığı"
         ],
         "content_type": "turkey_greece"
       },
@@ -163,9 +163,9 @@
         "content_type": "news"
       },
       {
-        "external_id": "5cbfba99011fa0f60ce0e85a",
+        "external_id": "4a9659e400b959e723df2ad9",
         "mode": "geopolitico",
-        "title": "Israel, Greece and Cyprus reject Turkey-Libya maritime deal, expand defense ties - JNS",
+        "title": "Israel, Greece and Cyprus reject Turkey-Libya maritime deal, expand defense ties - JNS.org",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV284WXpZbGVGWU1PM0VLcm5nX2kyRTNod2V3OVFVRUtrOXFqdy15cW04dUxZOGw4bVVyR1BfOGhlOFhiUGhqaEpVXzAwSUw5VlFDUXpISXU4XzZOVDkyblFZRklvV3Y5RmxHQzRvTzMyWjRZOHQ4UWZEcU9ndlBTaDlwWHlWY1ItS0E5Mi0zVTdjTlI3T2ctNUt2WGRzTnRqNGprbEJodFFmdnJBYk1uN0FQc3pHdw?oc=5",
         "source": "Greece Israel Strategic Watch",
         "published": "Fri, 06 Nov 2026 11:54:10 GMT",
@@ -208,7 +208,7 @@
         "source": "Greece Israel Strategic Watch",
         "published": "Fri, 06 Nov 2026 06:23:36 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -224,10 +224,10 @@
         "mode": "geopolitico",
         "title": "Israel, Greece, Cyprus slam Turkey-Libya sea deal, agree to deepen defense ties - The Jerusalem Post",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdG9oZm1hWXZybkdlX0tfVV9QbUh4ZWQ1cl8wSTlTS01jZHNtZXZzamRKdGNJRm5zWGk4dEZqWUVjZnJxaU00VXlIU0xhQlRGSlA1V2FiWmRwYjNO?oc=5",
-        "source": "Cyprus Eastern Mediterranean Watch",
+        "source": "Greece Israel Strategic Watch",
         "published": "Fri, 06 Nov 2026 05:59:28 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -265,8 +265,8 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 06 Nov 2026 12:56:58 GMT",
         "base_score": 86,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
           "Σουμελά"
@@ -281,7 +281,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 06 Nov 2026 23:17:00 +0300",
         "base_score": 69,
-        "candidate_score": 84,
+        "candidate_score": 79,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
@@ -335,7 +335,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 06 Nov 2026 23:36:00 +0300",
         "base_score": 44,
-        "candidate_score": 59,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -395,7 +395,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Thu, 05 Nov 2026 16:13:00 GMT",
       "base_score": 41,
-      "candidate_score": 52,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -427,23 +427,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "16bc08a5b0d10cfd721f007f",
-      "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de işler tersine döndü! Yunanistan Türkiye'nin kapısını çalmak zorunda kaldı, 'Macron yönetimi devreye girdi' - Türkiye Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNjczcE45dWtKRW9ucEYwNy1VSUo4bF9HazZiMVJEbWFkTjBfU1Fkcm12dE9EQVl5Z3B1TExYOUVzb3hFMmxuX29SR0t1MVl6d3NsbkpWb2ZwcXpuTWFGa0d6ZHUtQ1hZS3ZFOWpIMDdBZGVDRzJFWl9peko4ek9qZzd5N2RmV0NFVERVUmpUUkppbVk5Mi1rV1FiN3V5ZHROaU9IeFVqb1JKaWRUbEJ0NGtqSlh1V3JaMmdXQ0xCY3dLRkVOWVlVV2RJQlF0VmM?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 06 Nov 2026 20:28:29 GMT",
-      "base_score": 100,
-      "candidate_score": 115,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz",
-        "Yunanistan Türkiye"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "25be19b719132ab5db4aaad7",
       "mode": "geopolitico",
       "title": "Dışişleri Bakanlığı'ndan Doğu Akdeniz'de Türk kıta sahanlığında izinsiz araştırma yapan Fransız bayraklı gemiyle ilgili açıklama: Yunanistan ve GKRY'nin ikazları iptal edildi - TGRT Haber",
@@ -451,7 +434,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 06 Nov 2026 20:09:49 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -470,7 +453,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 06 Nov 2026 19:32:29 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 110,
       "priority": "URGENT",
       "matched_keywords": [
         "Doğu Akdeniz",
@@ -478,6 +461,23 @@
         "Güney Kıbrıs",
         "Girit",
         "gerilim"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "9ce4e6972c11f1606bb69c17",
+      "mode": "geopolitico",
+      "title": "Türkiye'den Yunanistan'a hukuksuz NAVTEX uyarısı: \"Bölge Türk kıta sahanlığı içerisinde\" - TRHaber",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSVVMN0lRcmpHcHBudG1KNDNFc2kyZm0zcVdNdzl5cnJ0dzRHdU1kZEZSSndQQ2FmTklVazRMeU5WeVAyeGluSUJubVcxWHVMcl9INlp2eDRZNmZkS0JRSHE3dDZIT3Y0RUxzYUthM2tZdlhGU2RPMjVDajdld2FzZnFaTnFwMW0weEhuVVdlZlo5Q2M0Mk4xQmJqN2luek5nWTVvYXFvcm91UDhYX0tEWXFUdWxhbTNBczdfZkZrd195VnlpN0UzckNB?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Fri, 06 Nov 2026 18:17:00 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "NAVTEX",
+        "kıta sahanlığı"
       ],
       "content_type": "turkey_greece"
     },
@@ -501,9 +501,9 @@
       "content_type": "news"
     },
     {
-      "external_id": "5cbfba99011fa0f60ce0e85a",
+      "external_id": "4a9659e400b959e723df2ad9",
       "mode": "geopolitico",
-      "title": "Israel, Greece and Cyprus reject Turkey-Libya maritime deal, expand defense ties - JNS",
+      "title": "Israel, Greece and Cyprus reject Turkey-Libya maritime deal, expand defense ties - JNS.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV284WXpZbGVGWU1PM0VLcm5nX2kyRTNod2V3OVFVRUtrOXFqdy15cW04dUxZOGw4bVVyR1BfOGhlOFhiUGhqaEpVXzAwSUw5VlFDUXpISXU4XzZOVDkyblFZRklvV3Y5RmxHQzRvTzMyWjRZOHQ4UWZEcU9ndlBTaDlwWHlWY1ItS0E5Mi0zVTdjTlI3T2ctNUt2WGRzTnRqNGprbEJodFFmdnJBYk1uN0FQc3pHdw?oc=5",
       "source": "Greece Israel Strategic Watch",
       "published": "Fri, 06 Nov 2026 11:54:10 GMT",
@@ -546,7 +546,7 @@
       "source": "Greece Israel Strategic Watch",
       "published": "Fri, 06 Nov 2026 06:23:36 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -562,10 +562,10 @@
       "mode": "geopolitico",
       "title": "Israel, Greece, Cyprus slam Turkey-Libya sea deal, agree to deepen defense ties - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdG9oZm1hWXZybkdlX0tfVV9QbUh4ZWQ1cl8wSTlTS01jZHNtZXZzamRKdGNJRm5zWGk4dEZqWUVjZnJxaU00VXlIU0xhQlRGSlA1V2FiWmRwYjNO?oc=5",
-      "source": "Cyprus Eastern Mediterranean Watch",
+      "source": "Greece Israel Strategic Watch",
       "published": "Fri, 06 Nov 2026 05:59:28 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -601,8 +601,8 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 06 Nov 2026 12:56:58 GMT",
       "base_score": 86,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
         "Σουμελά"
@@ -617,7 +617,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 06 Nov 2026 23:17:00 +0300",
       "base_score": 69,
-      "candidate_score": 84,
+      "candidate_score": 79,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
@@ -671,7 +671,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 06 Nov 2026 23:36:00 +0300",
       "base_score": 44,
-      "candidate_score": 59,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
