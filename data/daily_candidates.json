@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:03:41.647841+00:00",
+  "generated_at": "2026-11-08T01:22:32.521981+00:00",
   "counts": {
     "sportdog": 9,
     "geopolitico": 8,
@@ -8,6 +8,26 @@
   "modes": {
     "sportdog": [
       {
+        "external_id": "4c343832113c9faabda2bbb9",
+        "mode": "sportdog",
+        "title": "xG conceded - AEK Athens stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTdJUjh5em0ybUs1ejNYdG1hc2xOOFN5bTktQV92Q2tGMlN5VndrNmUtMmt6ZC16Um1GT3FzcHEtZEZNR2FFbWlOYlFKbzVNbkVIcGY4ZTFLOUUtbzJlb1BILS1NUWRQX3AwbUpiTVRNQW9Wd3ZoLTBKMVp1VnRoTHZ2Z244VWJqcmZkMlcwZlRodjZuRHRtQnYtWnlmWGlCZUxsSG85cE53Y25GT2c?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Fri, 06 Nov 2026 19:08:02 GMT",
+        "base_score": 56,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "a4b7dee0442d0c8113b707de",
         "mode": "sportdog",
         "title": "Olympiacos Set To Compete With Ligue 1 Side For Craiova Defender Vladimir Screciu - roundtable.io",
@@ -15,7 +35,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 07 Nov 2026 15:30:13 GMT",
         "base_score": 39,
-        "candidate_score": 57,
+        "candidate_score": 53,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -55,7 +75,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 07 Nov 2026 17:08:23 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -74,7 +94,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sat, 07 Nov 2026 14:26:45 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -86,6 +106,25 @@
         "needs_second_source": true
       },
       {
+        "external_id": "e63a4bf7289b6fb67b336a86",
+        "mode": "sportdog",
+        "title": "Olympiacos Piraeus - AC Milan - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDBJNVItejFhTDNSaU9WZVU1UEZUOU1WeEgwdDd4SlFhUEFRVS03RkEyR2FLTXJHTlZRU2Z5UzZqV0RiOWtJa1FPWGZSWnZVMGZGN3ZZcHNRcThMMFpudWd1YWVfeUVzUV9pZ29XSG1qdkl5WHNEZThaOFBJTUJOZXNiekhibnBFQVY3ZzcyeEZmQQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sat, 07 Nov 2026 10:11:16 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "2191c9edb2bf23a7d69bd4df",
         "mode": "sportdog",
         "title": "Vezenkov scored 27 points in Olympiacos loss ᐉ News from Fakti.bg - Sport - Fakti.bg",
@@ -93,7 +132,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 07 Nov 2026 05:08:00 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -131,7 +170,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Fri, 06 Nov 2026 17:26:31 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -141,54 +180,16 @@
         "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "dc5be588236c120de3517512",
-        "mode": "sportdog",
-        "title": "Bellingham 9.0, Mbappe 8.5 | AEK Athens 2-3 Real Madrid: Player ratings - LiveScore",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnFXcU53aUVMaXRteFNpQ0lvemxoVERHbHQ3aVk2SUFvaUdJRGhITkRXeVZGUVk3a04zS3IyYUpEZzd6VU8xaW40S3dOeEJDcnVsVnoyeG5SOWg5dWVZN1JWSklWMVpiaXVnYkJIcTZJZS1jMUVXbDk1dnFCZ2hxTTdsYV92b1NJTlUwbDNJNldRRktFUHpTSzJubEVTWk9sdS00WlI2bW1RSFdyREl2by00b3dmc1h2Q3NtdUJGaFlrdmxYMjE2WnpPZUY3Umt6T21IYW13?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Fri, 06 Nov 2026 13:07:47 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "43af72e6d2c8ead089943541",
-        "mode": "sportdog",
-        "title": "Panathinaikos 2-1 CSKA Sofia (5 Nov, 2026) Team Stats - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTNGMzJEODNDZmNGWXdkUFB3b0FKODVqc2d0S25uaTY5WEpsa1dGZ3E4RjJ2MmR0b0x6NWNySWhtTEFIRG5QeExKOWZHM0FYUWZkVjVJcEZNdUQ4TEx2VVEtdGEzMzU2dHJhNXNkVDktWnF0LWx0S2lwVFZYaTNLaGItWlltOC1KUlFEbzBR?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 06 Nov 2026 10:48:12 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
       {
-        "external_id": "bc16ff73d04be0b66fbcb58a",
+        "external_id": "1bf989a8be99673e68fcc23f",
         "mode": "geopolitico",
         "title": "Türkiye kararı ilan etti: NAVTEX’lere izin verilmedi... Kıbrıs'ı ve Yunanistan'ı reddettiler - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc0xrSnk3X2c1YzBqSHRQSDBiTE02bVhieWtILS1UMXY0eDI5N05FbjFmRVRXNm1xWkVreDJtRjkzbHRlRFU5TEYtOE1vd1dQSm03X2tadk9raWViM2pMM0tmcmxleWhpbXlEcUJyZ1h0aE1lYlNHVGdnU24zUVNrZmxTX0NOY19zNG1adENqRDNxbDBGd0hBWmFPQjFlLTJkNlhXRTZPSWsxZkl1bmxRTk5fS201RHJBM0kzN0ZqVG1lbXBlQ2tQUWlBNi3SAc8BQVVfeXFMTWU2V3NDQTJ6VnRKSVZOdkhrYU0yTTNOdWZjTHQ2TVdnY2pENEwxWTQ0ZUJucm9ERDRROHBvWlZoeTFLVjViZldvVkZiWDB5Q2tjVFFTVXRzZTJoYzlzODNjd0Myeld3VjN3VU52WG1TVEJYdUtxT3pmNl96aC1SUlJfUnlMOU44LUVhTFJ1SDFpREtmWnhraDNmSmZvTDhCaUtva255ZzVONF9FNTcxZG9LVTVHMmFWWHZINjQ2X0EzaFRlS2hrSDdZX05jQldv?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTjNjdTZ4Tk03WFFEUXBUZW9yWHVJTWdqNzY3cEM0YjZFQlNaMVVISWRHUnRtZ1diYzVHczJENkFUS3RkMFJQMWhyRnFrRzY1ZGotUXpSOUJ0NjlJbU56YlVTM3MtZFBCYkkyVGFMdVFwbXNJS0pyT3R6NUEtejlrbkZiQS1CWG1CdHlDNjRXMW9sX2dnMHJ3cEp5aUpFdTRUcnd0eE9aLVh1VkhraHo0UHlyVDhxeG15MG9RMVhiVldISGd3cVluRUZYRTjSAc8BQVVfeXFMTWU2V3NDQTJ6VnRKSVZOdkhrYU0yTTNOdWZjTHQ2TVdnY2pENEwxWTQ0ZUJucm9ERDRROHBvWlZoeTFLVjViZldvVkZiWDB5Q2tjVFFTVXRzZTJoYzlzODNjd0Myeld3VjN3VU52WG1TVEJYdUtxT3pmNl96aC1SUlJfUnlMOU44LUVhTFJ1SDFpREtmWnhraDNmSmZvTDhCaUtva255ZzVONF9FNTcxZG9LVTVHMmFWWHZINjQ2X0EzaFRlS2hrSDdZX05jQldv?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 07 Nov 2026 20:54:44 GMT",
+        "published": "Sun, 08 Nov 2026 00:28:25 GMT",
         "base_score": 100,
         "candidate_score": 115,
         "priority": "URGENT",
@@ -207,7 +208,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sat, 07 Nov 2026 14:09:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -335,6 +336,24 @@
     ],
     "pontos_voice": [
       {
+        "external_id": "f442958a09459ab9e72f5006",
+        "mode": "pontos_voice",
+        "title": "Πόλυς Χάιτας (1901-1987): Ένας πιστός υπηρέτης του ποντιακού θεάτρου – Το χέρι του έγραψε το στίχο «Και λες, και κλαις, και χάρεσαι…», για την ποντιακή λύρα - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZnl4WXFmR0NWQi1MYWNzVTZzelUzWVo1clg2OU5kV1JvZVFZVnh5dFhFdmpfQ2wyeUo0S3FaaFJJbURIUEZOcjdiRzBoVEUxaHNGOGZxLW5oc0xSRE5mUXNzb3FzZEp0dFZVVUZDTnR6RHBlendqRGNGWXZNVkJ4STdVX2Y1ZEZCWWk1NDJGaEhPWlhVeGVfTHZraW16eERwMW1aSE94NWIwY05KcGozRTktaF9YSzhCTFUxeGw4RlU?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 07 Nov 2026 19:19:48 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακή",
+          "ποντιακή λύρα",
+          "λύρα"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "2fcacd84fa2750a03c86c613",
         "mode": "pontos_voice",
         "title": "Trabzon heyeti kentin değerlerini Mısır'da tanıttı",
@@ -342,8 +361,8 @@
         "source": "61Saat Trabzon",
         "published": "Sat, 07 Nov 2026 23:00:00 +0300",
         "base_score": 57,
-        "candidate_score": 72,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "kültür",
@@ -360,7 +379,7 @@
         "source": "61Saat Trabzon",
         "published": "Sun, 08 Nov 2026 00:00:00 +0300",
         "base_score": 51,
-        "candidate_score": 66,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -378,7 +397,7 @@
         "source": "61Saat Trabzon",
         "published": "Sat, 07 Nov 2026 22:46:00 +0300",
         "base_score": 51,
-        "candidate_score": 66,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -396,7 +415,7 @@
         "source": "Haber61 Trabzon",
         "published": "Sat, 07 Nov 2026 06:19:07 GMT",
         "base_score": 47,
-        "candidate_score": 53,
+        "candidate_score": 50,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -407,41 +426,43 @@
         "content_type": "news"
       },
       {
-        "external_id": "3010ecbd7c761486973cccdd",
+        "external_id": "3ba7c7ce86fb982345634f6b",
         "mode": "pontos_voice",
-        "title": "Trabzon mutfağı COP31'de dünyaya tanıtılacak! - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSE9lU3N0RDFKZE1LN1JHT3duVlhNSmNHRFZtQ1k2N2VTSk9QRWVxU0RWVTNBTWI0eVRsM3dOb3NOb1RPY3lTVlFlZXdRSm9UTXpPTXczUEl2eDVrbDJuc0xqYlNFZkQ2UHhZUkRBUzU5SVRfcURuMDVrNmdBcHVmVzZ0OVhIZS0xcnFF?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sat, 07 Nov 2026 11:23:33 GMT",
-        "base_score": 44,
-        "candidate_score": 50,
+        "title": "Εταιρείες «φαντάσματα»: Κακουργηματικές διώξεις για το κύκλωμα των 203 εκατ. ευρώ - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDNleGVSajhxRkp4dW9mSTl6UTJZS0c2clgtNnNmZkpjSWtkZ21ZVzluOGNQZThab3kzT2FCemdCdWg4dFFQcVNiMTBhTlBwLXZfR2tpVUhEeGNESkRHblI2dERHRzI5clZzd0ZRNlZ1XzZTdXJYaXE5LW5pSkFndWRMUnNSTDFxaEZnUUNYQmNqZDBUQ0M3bmJhU3V4OEZBclVRbzhtOS1ZbDhkUTBsVHlhRQ?oc=5",
+        "source": "Pontos News Watch",
+        "published": "Sat, 07 Nov 2026 21:36:24 GMT",
+        "base_score": 36,
+        "candidate_score": 46,
         "priority": "Normal",
         "matched_keywords": [
-          "Trabzon",
-          "anıt",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "b9a2875c24aa2949de76c57f",
-        "mode": "pontos_voice",
-        "title": "Galatasaray'ın galibiyeti sonrası Trabzonspor için ikincilik fırsatı sürüyor - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUNUSm4wdDBGb1hyVDFQcUVkTW9aWG1NcWJ5TWFTWVVDbTR4YlNqLW42VUFQZHBvSTFMTGs3V0NMaW5qaHliSEZqd2o2c0VFVmV3ekZ5V09iNlk5VlZsaFNmSUFDZWh5NEs4WTJ0bW5ORjVraEZwdzN6MzdUSl9pbjM2NHJPYXRGZE1FZy16bWQzcVM1T29OcDBLeUVyREpQMlgxX3NRV2tNeGxOQjZMS3BSOHo2VGttRXhF?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sat, 07 Nov 2026 19:05:57 GMT",
-        "base_score": 33,
-        "candidate_score": 48,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon"
+          "Pontos"
         ],
         "content_type": "news"
       }
     ]
   },
   "items": [
+    {
+      "external_id": "4c343832113c9faabda2bbb9",
+      "mode": "sportdog",
+      "title": "xG conceded - AEK Athens stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTdJUjh5em0ybUs1ejNYdG1hc2xOOFN5bTktQV92Q2tGMlN5VndrNmUtMmt6ZC16Um1GT3FzcHEtZEZNR2FFbWlOYlFKbzVNbkVIcGY4ZTFLOUUtbzJlb1BILS1NUWRQX3AwbUpiTVRNQW9Wd3ZoLTBKMVp1VnRoTHZ2Z244VWJqcmZkMlcwZlRodjZuRHRtQnYtWnlmWGlCZUxsSG85cE53Y25GT2c?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Fri, 06 Nov 2026 19:08:02 GMT",
+      "base_score": 56,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
     {
       "external_id": "a4b7dee0442d0c8113b707de",
       "mode": "sportdog",
@@ -450,7 +471,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 07 Nov 2026 15:30:13 GMT",
       "base_score": 39,
-      "candidate_score": 57,
+      "candidate_score": 53,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -490,7 +511,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 07 Nov 2026 17:08:23 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -509,7 +530,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sat, 07 Nov 2026 14:26:45 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -521,6 +542,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "e63a4bf7289b6fb67b336a86",
+      "mode": "sportdog",
+      "title": "Olympiacos Piraeus - AC Milan - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDBJNVItejFhTDNSaU9WZVU1UEZUOU1WeEgwdDd4SlFhUEFRVS03RkEyR2FLTXJHTlZRU2Z5UzZqV0RiOWtJa1FPWGZSWnZVMGZGN3ZZcHNRcThMMFpudWd1YWVfeUVzUV9pZ29XSG1qdkl5WHNEZThaOFBJTUJOZXNiekhibnBFQVY3ZzcyeEZmQQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sat, 07 Nov 2026 10:11:16 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "2191c9edb2bf23a7d69bd4df",
       "mode": "sportdog",
       "title": "Vezenkov scored 27 points in Olympiacos loss ᐉ News from Fakti.bg - Sport - Fakti.bg",
@@ -528,7 +568,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 07 Nov 2026 05:08:00 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -566,7 +606,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Fri, 06 Nov 2026 17:26:31 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -578,50 +618,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "dc5be588236c120de3517512",
-      "mode": "sportdog",
-      "title": "Bellingham 9.0, Mbappe 8.5 | AEK Athens 2-3 Real Madrid: Player ratings - LiveScore",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnFXcU53aUVMaXRteFNpQ0lvemxoVERHbHQ3aVk2SUFvaUdJRGhITkRXeVZGUVk3a04zS3IyYUpEZzd6VU8xaW40S3dOeEJDcnVsVnoyeG5SOWg5dWVZN1JWSklWMVpiaXVnYkJIcTZJZS1jMUVXbDk1dnFCZ2hxTTdsYV92b1NJTlUwbDNJNldRRktFUHpTSzJubEVTWk9sdS00WlI2bW1RSFdyREl2by00b3dmc1h2Q3NtdUJGaFlrdmxYMjE2WnpPZUY3Umt6T21IYW13?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Fri, 06 Nov 2026 13:07:47 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "43af72e6d2c8ead089943541",
-      "mode": "sportdog",
-      "title": "Panathinaikos 2-1 CSKA Sofia (5 Nov, 2026) Team Stats - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTNGMzJEODNDZmNGWXdkUFB3b0FKODVqc2d0S25uaTY5WEpsa1dGZ3E4RjJ2MmR0b0x6NWNySWhtTEFIRG5QeExKOWZHM0FYUWZkVjVJcEZNdUQ4TEx2VVEtdGEzMzU2dHJhNXNkVDktWnF0LWx0S2lwVFZYaTNLaGItWlltOC1KUlFEbzBR?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 06 Nov 2026 10:48:12 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "bc16ff73d04be0b66fbcb58a",
+      "external_id": "1bf989a8be99673e68fcc23f",
       "mode": "geopolitico",
       "title": "Türkiye kararı ilan etti: NAVTEX’lere izin verilmedi... Kıbrıs'ı ve Yunanistan'ı reddettiler - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc0xrSnk3X2c1YzBqSHRQSDBiTE02bVhieWtILS1UMXY0eDI5N05FbjFmRVRXNm1xWkVreDJtRjkzbHRlRFU5TEYtOE1vd1dQSm03X2tadk9raWViM2pMM0tmcmxleWhpbXlEcUJyZ1h0aE1lYlNHVGdnU24zUVNrZmxTX0NOY19zNG1adENqRDNxbDBGd0hBWmFPQjFlLTJkNlhXRTZPSWsxZkl1bmxRTk5fS201RHJBM0kzN0ZqVG1lbXBlQ2tQUWlBNi3SAc8BQVVfeXFMTWU2V3NDQTJ6VnRKSVZOdkhrYU0yTTNOdWZjTHQ2TVdnY2pENEwxWTQ0ZUJucm9ERDRROHBvWlZoeTFLVjViZldvVkZiWDB5Q2tjVFFTVXRzZTJoYzlzODNjd0Myeld3VjN3VU52WG1TVEJYdUtxT3pmNl96aC1SUlJfUnlMOU44LUVhTFJ1SDFpREtmWnhraDNmSmZvTDhCaUtva255ZzVONF9FNTcxZG9LVTVHMmFWWHZINjQ2X0EzaFRlS2hrSDdZX05jQldv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTjNjdTZ4Tk03WFFEUXBUZW9yWHVJTWdqNzY3cEM0YjZFQlNaMVVISWRHUnRtZ1diYzVHczJENkFUS3RkMFJQMWhyRnFrRzY1ZGotUXpSOUJ0NjlJbU56YlVTM3MtZFBCYkkyVGFMdVFwbXNJS0pyT3R6NUEtejlrbkZiQS1CWG1CdHlDNjRXMW9sX2dnMHJ3cEp5aUpFdTRUcnd0eE9aLVh1VkhraHo0UHlyVDhxeG15MG9RMVhiVldISGd3cVluRUZYRTjSAc8BQVVfeXFMTWU2V3NDQTJ6VnRKSVZOdkhrYU0yTTNOdWZjTHQ2TVdnY2pENEwxWTQ0ZUJucm9ERDRROHBvWlZoeTFLVjViZldvVkZiWDB5Q2tjVFFTVXRzZTJoYzlzODNjd0Myeld3VjN3VU52WG1TVEJYdUtxT3pmNl96aC1SUlJfUnlMOU44LUVhTFJ1SDFpREtmWnhraDNmSmZvTDhCaUtva255ZzVONF9FNTcxZG9LVTVHMmFWWHZINjQ2X0EzaFRlS2hrSDdZX05jQldv?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 07 Nov 2026 20:54:44 GMT",
+      "published": "Sun, 08 Nov 2026 00:28:25 GMT",
       "base_score": 100,
       "candidate_score": 115,
       "priority": "URGENT",
@@ -640,7 +642,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sat, 07 Nov 2026 14:09:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -766,6 +768,24 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "f442958a09459ab9e72f5006",
+      "mode": "pontos_voice",
+      "title": "Πόλυς Χάιτας (1901-1987): Ένας πιστός υπηρέτης του ποντιακού θεάτρου – Το χέρι του έγραψε το στίχο «Και λες, και κλαις, και χάρεσαι…», για την ποντιακή λύρα - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZnl4WXFmR0NWQi1MYWNzVTZzelUzWVo1clg2OU5kV1JvZVFZVnh5dFhFdmpfQ2wyeUo0S3FaaFJJbURIUEZOcjdiRzBoVEUxaHNGOGZxLW5oc0xSRE5mUXNzb3FzZEp0dFZVVUZDTnR6RHBlendqRGNGWXZNVkJ4STdVX2Y1ZEZCWWk1NDJGaEhPWlhVeGVfTHZraW16eERwMW1aSE94NWIwY05KcGozRTktaF9YSzhCTFUxeGw4RlU?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 07 Nov 2026 19:19:48 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "ποντιακή",
+        "ποντιακή λύρα",
+        "λύρα"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "2fcacd84fa2750a03c86c613",
       "mode": "pontos_voice",
       "title": "Trabzon heyeti kentin değerlerini Mısır'da tanıttı",
@@ -773,8 +793,8 @@
       "source": "61Saat Trabzon",
       "published": "Sat, 07 Nov 2026 23:00:00 +0300",
       "base_score": 57,
-      "candidate_score": 72,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "kültür",
@@ -791,7 +811,7 @@
       "source": "61Saat Trabzon",
       "published": "Sun, 08 Nov 2026 00:00:00 +0300",
       "base_score": 51,
-      "candidate_score": 66,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -809,7 +829,7 @@
       "source": "61Saat Trabzon",
       "published": "Sat, 07 Nov 2026 22:46:00 +0300",
       "base_score": 51,
-      "candidate_score": 66,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -827,7 +847,7 @@
       "source": "Haber61 Trabzon",
       "published": "Sat, 07 Nov 2026 06:19:07 GMT",
       "base_score": 47,
-      "candidate_score": 53,
+      "candidate_score": 50,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -838,35 +858,17 @@
       "content_type": "news"
     },
     {
-      "external_id": "3010ecbd7c761486973cccdd",
+      "external_id": "3ba7c7ce86fb982345634f6b",
       "mode": "pontos_voice",
-      "title": "Trabzon mutfağı COP31'de dünyaya tanıtılacak! - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSE9lU3N0RDFKZE1LN1JHT3duVlhNSmNHRFZtQ1k2N2VTSk9QRWVxU0RWVTNBTWI0eVRsM3dOb3NOb1RPY3lTVlFlZXdRSm9UTXpPTXczUEl2eDVrbDJuc0xqYlNFZkQ2UHhZUkRBUzU5SVRfcURuMDVrNmdBcHVmVzZ0OVhIZS0xcnFF?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sat, 07 Nov 2026 11:23:33 GMT",
-      "base_score": 44,
-      "candidate_score": 50,
+      "title": "Εταιρείες «φαντάσματα»: Κακουργηματικές διώξεις για το κύκλωμα των 203 εκατ. ευρώ - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDNleGVSajhxRkp4dW9mSTl6UTJZS0c2clgtNnNmZkpjSWtkZ21ZVzluOGNQZThab3kzT2FCemdCdWg4dFFQcVNiMTBhTlBwLXZfR2tpVUhEeGNESkRHblI2dERHRzI5clZzd0ZRNlZ1XzZTdXJYaXE5LW5pSkFndWRMUnNSTDFxaEZnUUNYQmNqZDBUQ0M3bmJhU3V4OEZBclVRbzhtOS1ZbDhkUTBsVHlhRQ?oc=5",
+      "source": "Pontos News Watch",
+      "published": "Sat, 07 Nov 2026 21:36:24 GMT",
+      "base_score": 36,
+      "candidate_score": 46,
       "priority": "Normal",
       "matched_keywords": [
-        "Trabzon",
-        "anıt",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "b9a2875c24aa2949de76c57f",
-      "mode": "pontos_voice",
-      "title": "Galatasaray'ın galibiyeti sonrası Trabzonspor için ikincilik fırsatı sürüyor - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUNUSm4wdDBGb1hyVDFQcUVkTW9aWG1NcWJ5TWFTWVVDbTR4YlNqLW42VUFQZHBvSTFMTGs3V0NMaW5qaHliSEZqd2o2c0VFVmV3ekZ5V09iNlk5VlZsaFNmSUFDZWh5NEs4WTJ0bW5ORjVraEZwdzN6MzdUSl9pbjM2NHJPYXRGZE1FZy16bWQzcVM1T29OcDBLeUVyREpQMlgxX3NRV2tNeGxOQjZMS3BSOHo2VGttRXhF?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sat, 07 Nov 2026 19:05:57 GMT",
-      "base_score": 33,
-      "candidate_score": 48,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon"
+        "Pontos"
       ],
       "content_type": "news"
     }
