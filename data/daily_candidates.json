@@ -1,12 +1,33 @@
 {
-  "generated_at": "2026-11-08T22:52:30.472792+00:00",
+  "generated_at": "2026-11-09T02:15:28.401011+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 12,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "0199a2bf55146fbbb3d9522e",
+        "mode": "sportdog",
+        "title": "Olympiacos vs. PAOK: Greek Super League Highlights, Score, Match Result - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRlU4b0NWVTFQeG9QUHJTTEdVVXRFWTA0ckhPYThJTkhnTW9oWFVZem9xRzJrZzFBV0EyeGt5UFQ2aWhlX1YtSG9ja2VPdzI4V1duLVB3aDJONml2R09ERXBfS0tkaTBRbnFsQnVLVVp5TU5OQnVIYVktX0NkUUdRSXVEdGt4dW9qYUlGRWpxUWxfUjVMajNNU0RPZ0I1VTdrNUlYZFYydVV6R3JUekVHd1VLVHgtVVJoYzZlTUJxXzh6dw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 08 Nov 2026 23:58:03 GMT",
+        "base_score": 88,
+        "candidate_score": 119,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Olympiacos",
+          "PAOK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
       {
         "external_id": "8f139ea4d2457ae9349ece08",
         "mode": "sportdog",
@@ -28,6 +49,46 @@
         "needs_second_source": true
       },
       {
+        "external_id": "d9743f2fb783ea747dc597ac",
+        "mode": "sportdog",
+        "title": "Olympiakos vs PAOK: Greek Super League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nUHZjWlBtaFZtbUFqZ3oxN0Z1ZlNSTGNzNDVaMF96aHl1UDFuRk9UQ2N4MlRKYnpKSHFtN1dxQmlHeV8wbkJubmU0V3JQM0RUTEJDUHYzSVhVRlpRYzVZamc1SQ?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 08 Nov 2026 22:24:19 GMT",
+        "base_score": 56,
+        "candidate_score": 74,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "e5cfc3cd0447d19fcfd4de2f",
+        "mode": "sportdog",
+        "title": "Iraklis 1908 vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BMzViUjY2U2hWOGZ6eTZQb1h2MGRaQzhPLWlyTHg5NlZhbFp6Slg4Z3VjSGFLaGxNWDgwSVZBaUpnWEFjWTNBcU9VeDREQ29fMkpMdVFmMDBsZVY1cXpJQ1lxaw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 08 Nov 2026 22:15:47 GMT",
+        "base_score": 56,
+        "candidate_score": 74,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "7042176982246176c4c2d8e8",
         "mode": "sportdog",
         "title": "AEK Athens vs Levadiakos: Greek Super League stats & head-to-head - BBC",
@@ -35,7 +96,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sun, 08 Nov 2026 20:33:35 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 74,
         "priority": "High",
         "matched_keywords": [
           "AEK",
@@ -48,42 +109,22 @@
         "needs_second_source": true
       },
       {
-        "external_id": "27e86680cdc6c27ec3b2444e",
+        "external_id": "809abbe0800d2133629485a1",
         "mode": "sportdog",
-        "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar.am",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sat, 07 Nov 2026 17:01:05 GMT",
+        "title": "Successful dribbles per 90 - PAOK Thessaloniki stats for Super League 1 2024/2025 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcExzekRpbEd6SzBWa0lPYXlCN08yakFTT2xFM1VuOE4tbXhrSGVENXJKQXBSLW83MXVRSDFkTV9mOXlWbU9nd2ZIb2VOMUFPY2ItWTY1aHFMTTFKZHdPa3lUdmZsXzJmTnFxY0VpZVdTN1NPeDhhWkNIRjdsNWJaRTlJQVFjYUtnak42NHV0Wk5uMENrSkFqOVVHLUJTSm0xZHZv?oc=5",
+        "source": "PAOK Rumour Watch",
+        "published": "Sun, 08 Nov 2026 16:38:23 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 70,
         "priority": "High",
         "matched_keywords": [
-          "Olympiacos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "e5cfc3cd0447d19fcfd4de2f",
-        "mode": "sportdog",
-        "title": "Iraklis 1908 vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BMzViUjY2U2hWOGZ6eTZQb1h2MGRaQzhPLWlyTHg5NlZhbFp6Slg4Z3VjSGFLaGxNWDgwSVZBaUpnWEFjWTNBcU9VeDREQ29fMkpMdVFmMDBsZVY1cXpJQ1lxaw?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sun, 08 Nov 2026 19:38:37 GMT",
-        "base_score": 56,
-        "candidate_score": 74,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
+          "PAOK",
           "Super League"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Panathinaikos",
+        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -108,66 +149,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "89e3f74173ad590f922cb33d",
-        "mode": "sportdog",
-        "title": "Recoveries per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGRqYVVoQWRwYzg1b1FjWlNmTFhHWkJSRkJ0Z29vdjk1N2ZTd0E5aUNtNHpmY0c0VlBfTmY4UVZid1pEcnlwbmNPdEozS0dRZ041QVowV3hRWHhTMXlFQlVKUUNuc1BscVFOQ29ZUE1yRHNQSWxGdERyVzJfeGxESWZKaVg1RlBVcXNzRWtKTE9TWjVrYkpuLWhKOExoQ2JZRGN3SmJ2S0ZvUQ?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 07 Nov 2026 13:58:16 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "5aa92f2c409b72076eb8b888",
-        "mode": "sportdog",
-        "title": "Goals conceded per 90 - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFBqWVJJcjM5bkpyQXoxVE9pZnlZWEt3YVg5UXZvTXNPcy1FTDdGSTlwRkx3U1Mwck0zSGc4N1pyMk93aEpJN2xGVEljNnpiOWktWVlkbllpUXl1aWFKQXpmTS1pWERyYmV1S0tYcXRRQXV2Xy1ZazVfYVk0R1hRTkNoNUdNeHJwQkJFZVlIMUxzbEpZSEl4azlqZGoxZw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sat, 07 Nov 2026 13:55:38 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "5e1f141909877e94117348bf",
-        "mode": "sportdog",
-        "title": "Paks vs Panathinaikos: live info and stats | Conference League Previa 2026/2027 - Diario AS",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzA1MldYajlGeHRuV0VNVDkyZXJ3OTQ1RkIza0dqWkZLQk5LS3BiTGhoMFp5WTNucnpXa1VSTlVJTXQxOFdCeHBmRGFTYldCWVV6a0R0QjR5eEw1Yy1qQWtJUUxQZ1ZpZ3R0ZGlTMXZUVWZLWXdqVTdqOGxEZmhaX0Z0STJ2T2RKdUFGRkNwek9hOHUxTlB2VXNnRFVTSkd2YjM0TU1SZEFMVEU3RktvNFVLZnpHWE1qQ1ZJNnR4cmRLMllP?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 07 Nov 2026 18:27:27 GMT",
-        "base_score": 50,
-        "candidate_score": 61,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos",
-          "Conference League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "655a9a358ec439eb78beaa71",
         "mode": "sportdog",
         "title": "Cyriel Dessers sparks Panathinaikos comeback - Pan Africa Football",
@@ -188,21 +169,41 @@
         "needs_second_source": true
       },
       {
-        "external_id": "84dba286661a8b7943406c77",
+        "external_id": "5e1f141909877e94117348bf",
         "mode": "sportdog",
-        "title": "AEK Athens 2-1 Levadiakos: Result, Goals and Stats - YSscores",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNX1hZZTF3Q1hMVm12cUJCZDdUNWhKWVpQZjNZWk85LUxCbXBmMVQ1NHJlTGFSanU0c28yWWtsSXRmcUZfWmFjVnlpNUV4QVRNeExyd0NVWlR1MU1BeFdRbnF2TldWd2ozVnNhTVBPdldySi1Jek9RZDFR?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Sun, 08 Nov 2026 18:26:11 GMT",
+        "title": "Paks vs Panathinaikos: live info and stats | Conference League Previa 2026/2027 - Diario AS",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzA1MldYajlGeHRuV0VNVDkyZXJ3OTQ1RkIza0dqWkZLQk5LS3BiTGhoMFp5WTNucnpXa1VSTlVJTXQxOFdCeHBmRGFTYldCWVV6a0R0QjR5eEw1Yy1qQWtJUUxQZ1ZpZ3R0ZGlTMXZUVWZLWXdqVTdqOGxEZmhaX0Z0STJ2T2RKdUFGRkNwek9hOHUxTlB2VXNnRFVTSkd2YjM0TU1SZEFMVEU3RktvNFVLZnpHWE1qQ1ZJNnR4cmRLMllP?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sat, 07 Nov 2026 18:27:27 GMT",
+        "base_score": 50,
+        "candidate_score": 58,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Conference League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "b076be46998b665893faae66",
+        "mode": "sportdog",
+        "title": "Iraklis vs Panathinaikos Prediction, Betting Tips, Lineups & Odds | 08 Nov 2026 - Sportsgambler",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0dDamJsMEE2QjB2N1puUjF5T0MtNlU0eUMyc0YtYTRDLTlCQ1JYdTFlRzlVN2Q0bkhWT0x3TE1jWFBhNm5CaV9EZXlyUnVDSTZHbEptNkIyWnVNTkZmUVhnTDRFd0NmM09xLUFjYmpOUzJEQWNSLWFpT3U2NGxHTzNZOVFkOERqTXBEdWpIa1NPNEY3eFhMd2NzdERyRi02X0k5SlNtZ0ozVzhMVjY2a0J3?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 08 Nov 2026 21:08:36 GMT",
         "base_score": 31,
         "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
-          "AEK"
+          "Panathinaikos"
         ],
         "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "AEK",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -219,6 +220,25 @@
         "matched_keywords": [
           "Olympiacos",
           "defender"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "cbdc30186acb9f6b8b633305",
+        "mode": "sportdog",
+        "title": "Newcastle - Olympiacos Piraeus 1-1 - Flashscore.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQk5ZdWh2Tnl1MEN5YkhKMGRCczdmRmFQN01hRmVudGJzSWpOWXJzZGxCeEhHVFVzeUIyWUlNVFlpRy1nS1c4OGZVWUNORm4xdlRGVWNkU29kbXVtVFJzNF91WW5LZUhqWUIzWlFmT2I2Y2JhbXZJWGFXTnA2d1dCVkd6bjJ3RWtXbUg1Yl9rY0dheW8xZFZ5bw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 08 Nov 2026 08:14:38 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
@@ -256,24 +276,6 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Sun, 08 Nov 2026 15:23:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "askeri"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "8fe3d0e3080dbd05b3e751c2",
-        "mode": "geopolitico",
-        "title": "Yunanistan ile Güney Kıbrıs arasında askeri iş birliği güçleniyor - Bağımsız Gazete",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVRIUFdCQ1hULU1uNzdsZUJyT2ZwXzIwNlBnM1dvb2RMZGxMclZMcU9uM0wtVU0xejE4dlBURWZyZ09sc3BRS3l6dUZvR1dMWTBILU9kTEVjZXFNT2l5UzZGZlZhUHFEUnNrdDEwNkdvZ21WYjhIMTFpeGNGY0xHd1ZCT2ctcE02eXpXcnNiaFFGQXAx?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sun, 08 Nov 2026 11:04:00 GMT",
-        "base_score": 100,
         "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
@@ -285,6 +287,24 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "4c2e088743e99b6af7f1a9bd",
+        "mode": "geopolitico",
+        "title": "GSI projesinde araştırmalar yarın başlayacak: Fransız gemisi Girit’ten hareket edecek - Kıbrıs Türk Haber",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajI1YTkyTU11VWd5SFY4SVRBZk5DV0pSS2hSN2R1Y0pHZUpQSjZKaG03WXN2ZnZab0xyNUF2TFpBT1VyR0lJR21DTmZjcVlPZ2FLOHY1cUV0YnNVTER0N3Z2bzIzc3VkV0NOT0p4Z2NZR3J4cnpYdWNFMjlqd1lDeXV1aUkwQ2tOc2xDdXhXT2x2SGZwY3d4LUlmQWUzTkR0bmZoSC1KLUJZZ1U0WnNB?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sun, 08 Nov 2026 14:30:00 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "GSI",
+          "Kıbrıs",
+          "Girit",
+          "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "1a796fd61da0e9c845619f01",
         "mode": "geopolitico",
         "title": "India questions US ‘double standards’ as Pakistan secures F-16 upgrade deal - South China Morning Post",
@@ -292,7 +312,7 @@
         "source": "Pakistan Security Watch",
         "published": "Sun, 08 Nov 2026 08:00:36 GMT",
         "base_score": 96,
-        "candidate_score": 102,
+        "candidate_score": 99,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -301,24 +321,6 @@
           "F-16"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "42a5db6425926a18e862fe5e",
-        "mode": "geopolitico",
-        "title": "Hakan Fidan'dan Doğu Akdeniz açıklaması - Gazete Pano",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXhXM1ZGejdmUGlsTGpCV2U0WVBjbnNwMnFZeGpDaW1EWThpZ1l0SkxxOFlpcmFId0pnYmdyTUd3TWVXWTRYMmNOakl0eU1XeHpmUFNDZE1URDFqVHFtMWl0Z1Y4S3FoME1ocS1ObHJidnNPWFRvX1JaX1lrTHJCNFdBVVljY0tpeURvNzZwX1lud2RKS05ua3JqZTlZVnNjM05ETEU0OTRsZko1bTVYNWxGV0kxTmZ2Yno1YzVCZFY?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Sat, 07 Nov 2026 18:22:59 GMT",
-        "base_score": 88,
-        "candidate_score": 91,
-        "priority": "High",
-        "matched_keywords": [
-          "Fidan",
-          "Doğu Akdeniz",
-          "Fidan",
-          "açıklama"
-        ],
-        "content_type": "turkey_greece"
       },
       {
         "external_id": "c256384f561cb9224011b8aa",
@@ -368,6 +370,22 @@
           "Özay Şendir"
         ],
         "content_type": "analyst"
+      },
+      {
+        "external_id": "32295924a489c8536def54fc",
+        "mode": "geopolitico",
+        "title": "Yunanistan Genelkurmay Ege'de altı Türk İHA hareketi kaydettiğini açıkladı - ssbulten.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5LbHhibXVNN0Z6WXJQRkJrTmtnalUzVGhfSVVKSmFfVUVLTTluZnQyMGY3c3ByZkxyM3BQSlZ6SzNiRVllQ25fWlZ0MlFSTFRfbDRzcVBDY2FuOGIxUHkwTWhlS0NXc0k0RzJWVVpndmpUOFJUQ0I3aWZlUGs0bzl1QXk0ai1sYWd6bTRTWFA1SThOYXJmOE54MlR1NVZ1R29mc2o3cXB4YjJiRW4wX2lCdE5tVU9MNWlrcC03bw?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Sat, 07 Nov 2026 20:33:43 GMT",
+        "base_score": 69,
+        "candidate_score": 72,
+        "priority": "High",
+        "matched_keywords": [
+          "Yunanistan",
+          "Ege"
+        ],
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -379,7 +397,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sun, 08 Nov 2026 17:47:49 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -396,7 +414,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sat, 07 Nov 2026 19:19:48 GMT",
         "base_score": 100,
-        "candidate_score": 103,
+        "candidate_score": 100,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -414,8 +432,8 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sun, 08 Nov 2026 21:35:44 GMT",
         "base_score": 84,
-        "candidate_score": 99,
-        "priority": "URGENT",
+        "candidate_score": 94,
+        "priority": "High",
         "matched_keywords": [
           "Πόντος",
           "Εύξεινος Λέσχη",
@@ -431,31 +449,13 @@
         "source": "61Saat Trabzon",
         "published": "Sun, 08 Nov 2026 18:03:00 +0300",
         "base_score": 54,
-        "candidate_score": 64,
+        "candidate_score": 60,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "restorasyon",
           "açıklama",
           "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "07959c0b697a68ffcd59110a",
-        "mode": "pontos_voice",
-        "title": "Thomas Reis, Alanya deplasmanında kaybedilen puanlara dikkat çekti!",
-        "url": "https://www.61saat.com/thomas-reis-alanya-deplasmaninda-kaybedilen-puanlara-dikkat-cekti",
-        "source": "61Saat Trabzon",
-        "published": "Sun, 08 Nov 2026 18:13:00 +0300",
-        "base_score": 49,
-        "candidate_score": 59,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "açıklama",
-          "Trabzon",
-          "dil"
         ],
         "content_type": "news"
       },
@@ -475,10 +475,48 @@
           "Trabzon"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "10c736b65461b846174adc5d",
+        "mode": "pontos_voice",
+        "title": "João Pereira’dan istifa sorusuna yanıt!",
+        "url": "https://www.61saat.com/joao-pereiradan-istifa-sorusuna-yanit",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 08 Nov 2026 21:27:00 +0300",
+        "base_score": 46,
+        "candidate_score": 56,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "anıt",
+          "Trabzon"
+        ],
+        "content_type": "news"
       }
     ]
   },
   "items": [
+    {
+      "external_id": "0199a2bf55146fbbb3d9522e",
+      "mode": "sportdog",
+      "title": "Olympiacos vs. PAOK: Greek Super League Highlights, Score, Match Result - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRlU4b0NWVTFQeG9QUHJTTEdVVXRFWTA0ckhPYThJTkhnTW9oWFVZem9xRzJrZzFBV0EyeGt5UFQ2aWhlX1YtSG9ja2VPdzI4V1duLVB3aDJONml2R09ERXBfS0tkaTBRbnFsQnVLVVp5TU5OQnVIYVktX0NkUUdRSXVEdGt4dW9qYUlGRWpxUWxfUjVMajNNU0RPZ0I1VTdrNUlYZFYydVV6R3JUekVHd1VLVHgtVVJoYzZlTUJxXzh6dw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 08 Nov 2026 23:58:03 GMT",
+      "base_score": 88,
+      "candidate_score": 119,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Olympiacos",
+        "PAOK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
     {
       "external_id": "8f139ea4d2457ae9349ece08",
       "mode": "sportdog",
@@ -500,6 +538,46 @@
       "needs_second_source": true
     },
     {
+      "external_id": "d9743f2fb783ea747dc597ac",
+      "mode": "sportdog",
+      "title": "Olympiakos vs PAOK: Greek Super League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nUHZjWlBtaFZtbUFqZ3oxN0Z1ZlNSTGNzNDVaMF96aHl1UDFuRk9UQ2N4MlRKYnpKSHFtN1dxQmlHeV8wbkJubmU0V3JQM0RUTEJDUHYzSVhVRlpRYzVZamc1SQ?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 08 Nov 2026 22:24:19 GMT",
+      "base_score": 56,
+      "candidate_score": 74,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "e5cfc3cd0447d19fcfd4de2f",
+      "mode": "sportdog",
+      "title": "Iraklis 1908 vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BMzViUjY2U2hWOGZ6eTZQb1h2MGRaQzhPLWlyTHg5NlZhbFp6Slg4Z3VjSGFLaGxNWDgwSVZBaUpnWEFjWTNBcU9VeDREQ29fMkpMdVFmMDBsZVY1cXpJQ1lxaw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 08 Nov 2026 22:15:47 GMT",
+      "base_score": 56,
+      "candidate_score": 74,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "7042176982246176c4c2d8e8",
       "mode": "sportdog",
       "title": "AEK Athens vs Levadiakos: Greek Super League stats & head-to-head - BBC",
@@ -507,7 +585,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sun, 08 Nov 2026 20:33:35 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 74,
       "priority": "High",
       "matched_keywords": [
         "AEK",
@@ -520,42 +598,22 @@
       "needs_second_source": true
     },
     {
-      "external_id": "27e86680cdc6c27ec3b2444e",
+      "external_id": "809abbe0800d2133629485a1",
       "mode": "sportdog",
-      "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar.am",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sat, 07 Nov 2026 17:01:05 GMT",
+      "title": "Successful dribbles per 90 - PAOK Thessaloniki stats for Super League 1 2024/2025 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcExzekRpbEd6SzBWa0lPYXlCN08yakFTT2xFM1VuOE4tbXhrSGVENXJKQXBSLW83MXVRSDFkTV9mOXlWbU9nd2ZIb2VOMUFPY2ItWTY1aHFMTTFKZHdPa3lUdmZsXzJmTnFxY0VpZVdTN1NPeDhhWkNIRjdsNWJaRTlJQVFjYUtnak42NHV0Wk5uMENrSkFqOVVHLUJTSm0xZHZv?oc=5",
+      "source": "PAOK Rumour Watch",
+      "published": "Sun, 08 Nov 2026 16:38:23 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 70,
       "priority": "High",
       "matched_keywords": [
-        "Olympiacos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "e5cfc3cd0447d19fcfd4de2f",
-      "mode": "sportdog",
-      "title": "Iraklis 1908 vs Panathinaikos: Greek Super League stats & head-to-head - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BMzViUjY2U2hWOGZ6eTZQb1h2MGRaQzhPLWlyTHg5NlZhbFp6Slg4Z3VjSGFLaGxNWDgwSVZBaUpnWEFjWTNBcU9VeDREQ29fMkpMdVFmMDBsZVY1cXpJQ1lxaw?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sun, 08 Nov 2026 19:38:37 GMT",
-      "base_score": 56,
-      "candidate_score": 74,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
+        "PAOK",
         "Super League"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Panathinaikos",
+      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -580,66 +638,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "89e3f74173ad590f922cb33d",
-      "mode": "sportdog",
-      "title": "Recoveries per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGRqYVVoQWRwYzg1b1FjWlNmTFhHWkJSRkJ0Z29vdjk1N2ZTd0E5aUNtNHpmY0c0VlBfTmY4UVZid1pEcnlwbmNPdEozS0dRZ041QVowV3hRWHhTMXlFQlVKUUNuc1BscVFOQ29ZUE1yRHNQSWxGdERyVzJfeGxESWZKaVg1RlBVcXNzRWtKTE9TWjVrYkpuLWhKOExoQ2JZRGN3SmJ2S0ZvUQ?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 07 Nov 2026 13:58:16 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "5aa92f2c409b72076eb8b888",
-      "mode": "sportdog",
-      "title": "Goals conceded per 90 - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFBqWVJJcjM5bkpyQXoxVE9pZnlZWEt3YVg5UXZvTXNPcy1FTDdGSTlwRkx3U1Mwck0zSGc4N1pyMk93aEpJN2xGVEljNnpiOWktWVlkbllpUXl1aWFKQXpmTS1pWERyYmV1S0tYcXRRQXV2Xy1ZazVfYVk0R1hRTkNoNUdNeHJwQkJFZVlIMUxzbEpZSEl4azlqZGoxZw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sat, 07 Nov 2026 13:55:38 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "5e1f141909877e94117348bf",
-      "mode": "sportdog",
-      "title": "Paks vs Panathinaikos: live info and stats | Conference League Previa 2026/2027 - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzA1MldYajlGeHRuV0VNVDkyZXJ3OTQ1RkIza0dqWkZLQk5LS3BiTGhoMFp5WTNucnpXa1VSTlVJTXQxOFdCeHBmRGFTYldCWVV6a0R0QjR5eEw1Yy1qQWtJUUxQZ1ZpZ3R0ZGlTMXZUVWZLWXdqVTdqOGxEZmhaX0Z0STJ2T2RKdUFGRkNwek9hOHUxTlB2VXNnRFVTSkd2YjM0TU1SZEFMVEU3RktvNFVLZnpHWE1qQ1ZJNnR4cmRLMllP?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 07 Nov 2026 18:27:27 GMT",
-      "base_score": 50,
-      "candidate_score": 61,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos",
-        "Conference League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "655a9a358ec439eb78beaa71",
       "mode": "sportdog",
       "title": "Cyriel Dessers sparks Panathinaikos comeback - Pan Africa Football",
@@ -660,21 +658,41 @@
       "needs_second_source": true
     },
     {
-      "external_id": "84dba286661a8b7943406c77",
+      "external_id": "5e1f141909877e94117348bf",
       "mode": "sportdog",
-      "title": "AEK Athens 2-1 Levadiakos: Result, Goals and Stats - YSscores",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNX1hZZTF3Q1hMVm12cUJCZDdUNWhKWVpQZjNZWk85LUxCbXBmMVQ1NHJlTGFSanU0c28yWWtsSXRmcUZfWmFjVnlpNUV4QVRNeExyd0NVWlR1MU1BeFdRbnF2TldWd2ozVnNhTVBPdldySi1Jek9RZDFR?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Sun, 08 Nov 2026 18:26:11 GMT",
+      "title": "Paks vs Panathinaikos: live info and stats | Conference League Previa 2026/2027 - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzA1MldYajlGeHRuV0VNVDkyZXJ3OTQ1RkIza0dqWkZLQk5LS3BiTGhoMFp5WTNucnpXa1VSTlVJTXQxOFdCeHBmRGFTYldCWVV6a0R0QjR5eEw1Yy1qQWtJUUxQZ1ZpZ3R0ZGlTMXZUVWZLWXdqVTdqOGxEZmhaX0Z0STJ2T2RKdUFGRkNwek9hOHUxTlB2VXNnRFVTSkd2YjM0TU1SZEFMVEU3RktvNFVLZnpHWE1qQ1ZJNnR4cmRLMllP?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sat, 07 Nov 2026 18:27:27 GMT",
+      "base_score": 50,
+      "candidate_score": 58,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Conference League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "b076be46998b665893faae66",
+      "mode": "sportdog",
+      "title": "Iraklis vs Panathinaikos Prediction, Betting Tips, Lineups & Odds | 08 Nov 2026 - Sportsgambler",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0dDamJsMEE2QjB2N1puUjF5T0MtNlU0eUMyc0YtYTRDLTlCQ1JYdTFlRzlVN2Q0bkhWT0x3TE1jWFBhNm5CaV9EZXlyUnVDSTZHbEptNkIyWnVNTkZmUVhnTDRFd0NmM09xLUFjYmpOUzJEQWNSLWFpT3U2NGxHTzNZOVFkOERqTXBEdWpIa1NPNEY3eFhMd2NzdERyRi02X0k5SlNtZ0ozVzhMVjY2a0J3?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 08 Nov 2026 21:08:36 GMT",
       "base_score": 31,
       "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
-        "AEK"
+        "Panathinaikos"
       ],
       "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "AEK",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -691,6 +709,25 @@
       "matched_keywords": [
         "Olympiacos",
         "defender"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "cbdc30186acb9f6b8b633305",
+      "mode": "sportdog",
+      "title": "Newcastle - Olympiacos Piraeus 1-1 - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQk5ZdWh2Tnl1MEN5YkhKMGRCczdmRmFQN01hRmVudGJzSWpOWXJzZGxCeEhHVFVzeUIyWUlNVFlpRy1nS1c4OGZVWUNORm4xdlRGVWNkU29kbXVtVFJzNF91WW5LZUhqWUIzWlFmT2I2Y2JhbXZJWGFXTnA2d1dCVkd6bjJ3RWtXbUg1Yl9rY0dheW8xZFZ5bw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 08 Nov 2026 08:14:38 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -726,24 +763,6 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Sun, 08 Nov 2026 15:23:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "askeri"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "8fe3d0e3080dbd05b3e751c2",
-      "mode": "geopolitico",
-      "title": "Yunanistan ile Güney Kıbrıs arasında askeri iş birliği güçleniyor - Bağımsız Gazete",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVRIUFdCQ1hULU1uNzdsZUJyT2ZwXzIwNlBnM1dvb2RMZGxMclZMcU9uM0wtVU0xejE4dlBURWZyZ09sc3BRS3l6dUZvR1dMWTBILU9kTEVjZXFNT2l5UzZGZlZhUHFEUnNrdDEwNkdvZ21WYjhIMTFpeGNGY0xHd1ZCT2ctcE02eXpXcnNiaFFGQXAx?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sun, 08 Nov 2026 11:04:00 GMT",
-      "base_score": 100,
       "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
@@ -755,6 +774,24 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "4c2e088743e99b6af7f1a9bd",
+      "mode": "geopolitico",
+      "title": "GSI projesinde araştırmalar yarın başlayacak: Fransız gemisi Girit’ten hareket edecek - Kıbrıs Türk Haber",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajI1YTkyTU11VWd5SFY4SVRBZk5DV0pSS2hSN2R1Y0pHZUpQSjZKaG03WXN2ZnZab0xyNUF2TFpBT1VyR0lJR21DTmZjcVlPZ2FLOHY1cUV0YnNVTER0N3Z2bzIzc3VkV0NOT0p4Z2NZR3J4cnpYdWNFMjlqd1lDeXV1aUkwQ2tOc2xDdXhXT2x2SGZwY3d4LUlmQWUzTkR0bmZoSC1KLUJZZ1U0WnNB?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sun, 08 Nov 2026 14:30:00 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "GSI",
+        "Kıbrıs",
+        "Girit",
+        "GSI"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "1a796fd61da0e9c845619f01",
       "mode": "geopolitico",
       "title": "India questions US ‘double standards’ as Pakistan secures F-16 upgrade deal - South China Morning Post",
@@ -762,7 +799,7 @@
       "source": "Pakistan Security Watch",
       "published": "Sun, 08 Nov 2026 08:00:36 GMT",
       "base_score": 96,
-      "candidate_score": 102,
+      "candidate_score": 99,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -771,24 +808,6 @@
         "F-16"
       ],
       "content_type": "news"
-    },
-    {
-      "external_id": "42a5db6425926a18e862fe5e",
-      "mode": "geopolitico",
-      "title": "Hakan Fidan'dan Doğu Akdeniz açıklaması - Gazete Pano",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXhXM1ZGejdmUGlsTGpCV2U0WVBjbnNwMnFZeGpDaW1EWThpZ1l0SkxxOFlpcmFId0pnYmdyTUd3TWVXWTRYMmNOakl0eU1XeHpmUFNDZE1URDFqVHFtMWl0Z1Y4S3FoME1ocS1ObHJidnNPWFRvX1JaX1lrTHJCNFdBVVljY0tpeURvNzZwX1lud2RKS05ua3JqZTlZVnNjM05ETEU0OTRsZko1bTVYNWxGV0kxTmZ2Yno1YzVCZFY?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Sat, 07 Nov 2026 18:22:59 GMT",
-      "base_score": 88,
-      "candidate_score": 91,
-      "priority": "High",
-      "matched_keywords": [
-        "Fidan",
-        "Doğu Akdeniz",
-        "Fidan",
-        "açıklama"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "c256384f561cb9224011b8aa",
@@ -840,6 +859,22 @@
       "content_type": "analyst"
     },
     {
+      "external_id": "32295924a489c8536def54fc",
+      "mode": "geopolitico",
+      "title": "Yunanistan Genelkurmay Ege'de altı Türk İHA hareketi kaydettiğini açıkladı - ssbulten.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5LbHhibXVNN0Z6WXJQRkJrTmtnalUzVGhfSVVKSmFfVUVLTTluZnQyMGY3c3ByZkxyM3BQSlZ6SzNiRVllQ25fWlZ0MlFSTFRfbDRzcVBDY2FuOGIxUHkwTWhlS0NXc0k0RzJWVVpndmpUOFJUQ0I3aWZlUGs0bzl1QXk0ai1sYWd6bTRTWFA1SThOYXJmOE54MlR1NVZ1R29mc2o3cXB4YjJiRW4wX2lCdE5tVU9MNWlrcC03bw?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Sat, 07 Nov 2026 20:33:43 GMT",
+      "base_score": 69,
+      "candidate_score": 72,
+      "priority": "High",
+      "matched_keywords": [
+        "Yunanistan",
+        "Ege"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "521914690024cafba96b2538",
       "mode": "pontos_voice",
       "title": "Ένωση Ποντίων Πιερίας: Με ποντιακή επιθεώρηση σκόρπισε το γέλιο στο Πολιτιστικό Κέντρο Σ.Σ. Μουριών Κιλκίς - pontosnews.gr",
@@ -847,7 +882,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sun, 08 Nov 2026 17:47:49 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -864,7 +899,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sat, 07 Nov 2026 19:19:48 GMT",
       "base_score": 100,
-      "candidate_score": 103,
+      "candidate_score": 100,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -882,8 +917,8 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sun, 08 Nov 2026 21:35:44 GMT",
       "base_score": 84,
-      "candidate_score": 99,
-      "priority": "URGENT",
+      "candidate_score": 94,
+      "priority": "High",
       "matched_keywords": [
         "Πόντος",
         "Εύξεινος Λέσχη",
@@ -899,7 +934,7 @@
       "source": "61Saat Trabzon",
       "published": "Sun, 08 Nov 2026 18:03:00 +0300",
       "base_score": 54,
-      "candidate_score": 64,
+      "candidate_score": 60,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -910,30 +945,29 @@
       "content_type": "news"
     },
     {
-      "external_id": "07959c0b697a68ffcd59110a",
-      "mode": "pontos_voice",
-      "title": "Thomas Reis, Alanya deplasmanında kaybedilen puanlara dikkat çekti!",
-      "url": "https://www.61saat.com/thomas-reis-alanya-deplasmaninda-kaybedilen-puanlara-dikkat-cekti",
-      "source": "61Saat Trabzon",
-      "published": "Sun, 08 Nov 2026 18:13:00 +0300",
-      "base_score": 49,
-      "candidate_score": 59,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "açıklama",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "a9dddf0566b806c9d3e5f128",
       "mode": "pontos_voice",
       "title": "Kim Milyoner Olmak İster'de 100 bin TL'lik Salah sorusu! Yanlış cevap verdi",
       "url": "https://www.61saat.com/kim-milyoner-olmak-isterde-100-bin-tllik-salah-sorusu-yanlis-cevap-verdi",
       "source": "61Saat Trabzon",
       "published": "Sun, 08 Nov 2026 21:40:00 +0300",
+      "base_score": 46,
+      "candidate_score": 56,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "anıt",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "10c736b65461b846174adc5d",
+      "mode": "pontos_voice",
+      "title": "João Pereira’dan istifa sorusuna yanıt!",
+      "url": "https://www.61saat.com/joao-pereiradan-istifa-sorusuna-yanit",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 08 Nov 2026 21:27:00 +0300",
       "base_score": 46,
       "candidate_score": 56,
       "priority": "Normal",
