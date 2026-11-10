@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T20:41:01.956714+00:00",
+  "generated_at": "2026-11-10T03:00:42.223942+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -36,8 +36,8 @@
         "source": "AEK Rumour Watch",
         "published": "Mon, 09 Nov 2026 05:20:49 GMT",
         "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "AEK",
           "Super League"
@@ -56,7 +56,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Sun, 08 Nov 2026 16:38:23 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -76,7 +76,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sun, 08 Nov 2026 18:58:38 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -85,7 +85,26 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "05042a4d82c17bd6362f129f",
+        "mode": "sportdog",
+        "title": "Viral έγινε βίντεο από ΑΕΚ-Λεβαδειακός! Χαστούκι του Παντέα στον Βάργκα μπροστά στον Μόσχου - Sportdog",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTZpX2tkMm0tWWxBd1pub0g3Nk5Nc28yVTVscGRIYlA5NlRfbmJoOHkzMl90Tm9SSG4yM0RYeTluMWt4MWJLRTZ0X2xLZzVUb1RjMGlMNk1lMlE2SUZYaTkwRXVGT0hfS0k4akQxcmZHdmNSSmFTVndkN09tTEtMa3ctOFFPZWtyUDdnUWRCbGY5SFB4QzdfYmEyeHhjbjlvQURabmhnaV9Oa1l6bjJrdkU4Sl9lQ193VkZ5TmN5bmtYU3RtcnF3SG44UXVFTWZVTUFPYTFqandkd1Bx?oc=5",
+        "source": "Sportdog Greek Transfer Scenarios",
+        "published": "Mon, 09 Nov 2026 12:30:00 GMT",
+        "base_score": 39,
+        "candidate_score": 53,
+        "priority": "Normal",
+        "matched_keywords": [
+          "ΑΕΚ"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -115,7 +134,7 @@
         "source": "Sportdog Greek Transfer Scenarios",
         "published": "Mon, 09 Nov 2026 07:55:00 GMT",
         "base_score": 39,
-        "candidate_score": 53,
+        "candidate_score": 50,
         "priority": "Normal",
         "matched_keywords": [
           "ΑΕΚ"
@@ -134,7 +153,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Sun, 08 Nov 2026 19:06:11 GMT",
         "base_score": 41,
-        "candidate_score": 52,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
@@ -154,7 +173,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 09 Nov 2026 05:19:22 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -173,7 +192,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Mon, 09 Nov 2026 03:08:36 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -192,7 +211,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sun, 08 Nov 2026 18:26:11 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -251,7 +270,7 @@
         "source": "Pakistan Security Watch",
         "published": "Mon, 09 Nov 2026 06:27:19 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pakistan",
@@ -270,7 +289,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Mon, 09 Nov 2026 05:28:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -289,7 +308,7 @@
         "source": "Hellas Journal National Watch",
         "published": "Mon, 09 Nov 2026 19:41:50 GMT",
         "base_score": 88,
-        "candidate_score": 103,
+        "candidate_score": 98,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -299,38 +318,40 @@
         "content_type": "news"
       },
       {
-        "external_id": "f34d17cf5ae3e298eeed74f5",
+        "external_id": "4f7d8b3e41f2fea344527dc4",
         "mode": "geopolitico",
-        "title": "Yunanistan ile Güney Kıbrıs arasındaki askeri iş birliğine ilişkin değerlendirme - Kıbrıs Manşet",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUxTX3JmaENtUl8zcGJGbmN0a0R4OFpzaWxBMGxJWjhsVTVkSEdxNWdOekloVmpjTE1DenhYMTVzMEtrYWV1V1ZFWDhWWFNjcHFwdzVTMmVkYWJheEVXc0RQRTd1bHNYMGZrekJ6OHJNQXBsVlk4bnNNd1p5eTF0QUZuOTV6RVhzZ2tnQnFnWmlndER6ckJITUdsa3h0bzg0WU1RMkRoNTZhZVZfUXc?oc=5",
+        "title": "Yunanistan, F-35 ve F-16 modernizasyonuyla hava gücünü artıracak - gdh dijital",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjB3LUhUSzVkajBkZnpqTVEyRWYybTU5ODB6UEs5bnVPcHk3ZEx3Sk5sZi1lQlJSYjJPNVNTdDBzdmRTYXdBYjlmWUdPc3FwcFVtNTNuVUY1UHhTaThEdkJ5d19yTXFiMTZWUERUTzBHdkN4TjF1Z29pOW1HYTBkT0RYeHlQUlpHRmp6Y1oySkVlMHpoWkMyY09xX2F0S1dfU1o4?oc=5",
         "source": "Turkish Greek Defence Watch",
-        "published": "Sun, 08 Nov 2026 15:23:00 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
+        "published": "Mon, 09 Nov 2026 14:17:59 GMT",
+        "base_score": 86,
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "Yunanistan",
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "askeri"
+          "F-35",
+          "F-16",
+          "F-35"
         ],
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "f96eb82af211f2dd0a6f5ab2",
+        "external_id": "4c7c675d0b1db6886271af26",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Γιάννος Χαραλαμπίδης — Γιάννος Χαραλαμπίδης στο BEST: «Η ενημέρωση της Τουρκίας ανοίγει τον δρόμο για διεκδίκηση δικαιοδοσίας» – Οι κίνδυνοι για Ελλάδα και Κύπρο (video) - BEST TV Καλαμάτα",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM2w3VkVRQ0tWWnY2TFE0WC13YVBJcXo2dUthZURhd3lBTGZ0b3ltQk56WXk2ZU40XzBQRkRvb2pqSm5BMXdaN04tUENDeTVWbXplUXhxeW9pQUZkY0lSMVN0NVQ5NC00bDZkMXVOa0hMb1Vab2tOUDF0bW5KR0RscDBCTW1HbkxuQUU4OXJJS1BFWEJJWmpwaVVzWkE4dzlwOG9tZ0NIVkRXZGE4QXY3bEtLWk1pVFdKbnNzZzBsME50b3gzMFgtRXVFaFlzY0dRdmFQVGtLYkVhX1dxb3JUQnN6T1kxbU5DM09iTXVRb2lpQQ?oc=5",
-        "source": "Analysts Watch · Cyprus",
-        "published": "Mon, 09 Nov 2026 20:10:23 GMT",
-        "base_score": 75,
+        "title": "Mission against Iran ‘still not complete,’ declares Israeli defence minister - The Jewish Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObURZaUZkdi0wOG41cUt3OHN0STNEZnE4Y2VZb0ZCMEJrdXdBTkxkTlBnTHEyMVlwejF1em1LYVpBTHRVSUpWTmVpSXBsVG5xM21BSGxDRU15RUVKUUI4aHJlaEh5VDJ2dmNoeG5RSmFQY2UyY2h4X2hfTVc4bEFkTkFsbmtxVWpJUXpFWm1zd205OWNGNG1vSEFtSVlnNTdvelpFVkY3d0pYVmF6elkwbTllTTNSZmc?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Mon, 09 Nov 2026 16:41:19 GMT",
+        "base_score": 84,
         "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
-          "Γιάννος Χαραλαμπίδης",
-          "Γιάννος Χαραλαμπίδης"
+          "Israel",
+          "Israeli",
+          "Iran",
+          "defence"
         ],
-        "content_type": "analyst"
+        "content_type": "news"
       },
       {
         "external_id": "335d524df4582224fe8a5368",
@@ -352,14 +373,14 @@
     ],
     "pontos_voice": [
       {
-        "external_id": "177f40a14ea0dd058dc8a3dd",
+        "external_id": "b639b836bc9b0c3c938b517e",
         "mode": "pontos_voice",
         "title": "Ποντιακή διάλεκτος: Εκδήλωση για το παρελθόν, το παρόν και το μέλλον της από τον Πανελλήνιο Σύνδεσμο Ποντίων Εκπαιδευτικών - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZm81YUpJcUZtTlNrdjJCeGZGVFJMNVA3SDdPRVFiUDBBTE1iQkNxVFVKcFhJRmc3Z2c5dlJ5UGNUOG5pZWM1aUpPS1dZQ1BhdXJiSzk4dWh3UlVyU1I1VkplaXNEU3lOOFIteWxtUnE0NW1icGJvNVlvcGtEb3FwMXlYZE1BbDV1UUJXM1MxdUZnQkRoSktUeHp0SnVQNWYwZW9J?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdU9lOGEtaFJDbnBVYUxrcl9rUExDTE4wVU1LVWV2REExRTJYRHBmM2xqaXNuUTloVHpVTGkzRnF3SkJUWFA5dHd4YktTR0ZCSm92aERQNzRLWlZMdzN5SUFHdThpWjdaVVhUa2R4Mnk0cUtFaWROSUFpaDRvV0Q5NjBrTzU2eVJfVDNaRWwyMzdiTXZELUZXNVV5VmltejNIOHdF?oc=5",
         "source": "Greek Press Pontic Watch",
         "published": "Mon, 09 Nov 2026 14:31:06 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -376,7 +397,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Mon, 09 Nov 2026 08:42:07 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -389,19 +410,19 @@
         "content_type": "news"
       },
       {
-        "external_id": "521914690024cafba96b2538",
+        "external_id": "90fec6c2fba9583c553c56fd",
         "mode": "pontos_voice",
-        "title": "Ένωση Ποντίων Πιερίας: Με ποντιακή επιθεώρηση σκόρπισε το γέλιο στο Πολιτιστικό Κέντρο Σ.Σ. Μουριών Κιλκίς - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRUw0aHh6S0FlUzQ0QlBfSVpVaXBVQkdMMlQ3SE96NDF1dkUzbkJTVmNqYVBTWjdXcm1WX1Y2SU5oSVdQaWhsN2J3R0M1Zk1KQ0RWS1c5U0R2czFibVJsQ2o5aFBxY0FldDhzeDdWYjJuQ3dfalhFdVlRYkphTXpORzF5Z2xUWERjMmdKRGh5bkVtWmhXc3YzT0h2OTZYZ0lhVElZSnZHZk9NZ2x0WG84Slh5N1d5UXF4Ul9ja1hEblZISDhpZHc?oc=5",
+        "title": "Παναγία Σουμελά: Η εικόνα που γύρισε το 1931 από τον Πόντο και έφερε μαζί της την ιστορία ενός ξεριζωμένου λαού - HuffPost Greece",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0FobXBtbWd4UWlJYloya1V2Z0h6emFjLWh1QkdPYUV5M0I0NUxyM05vT0dDQTQ3SGpmZVZycWFBdDB2ZkNkdVAxWklDOWFiZG1rYjFxeldnejh5SGlnemxraXNNLTN2UXVVdDlpbmt2VXNodkRJQkR4Q0JiNy1HYU1ZOExuYzQ?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Sun, 08 Nov 2026 17:47:49 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
+        "published": "Mon, 09 Nov 2026 04:09:36 GMT",
+        "base_score": 95,
+        "candidate_score": 98,
         "priority": "URGENT",
         "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "Ένωση Ποντίων"
+          "Παναγία Σουμελά",
+          "Σουμελά",
+          "ιστορία"
         ],
         "content_type": "news"
       },
@@ -413,8 +434,8 @@
         "source": "Pontos News Watch",
         "published": "Mon, 09 Nov 2026 18:16:16 GMT",
         "base_score": 82,
-        "candidate_score": 97,
-        "priority": "URGENT",
+        "candidate_score": 88,
+        "priority": "High",
         "matched_keywords": [
           "Pontos",
           "ποντιακή",
@@ -430,7 +451,7 @@
         "source": "61Saat Trabzon",
         "published": "Mon, 09 Nov 2026 22:18:00 +0300",
         "base_score": 53,
-        "candidate_score": 68,
+        "candidate_score": 63,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -448,7 +469,7 @@
         "source": "61Saat Trabzon",
         "published": "Mon, 09 Nov 2026 22:41:00 +0300",
         "base_score": 51,
-        "candidate_score": 66,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -490,8 +511,8 @@
       "source": "AEK Rumour Watch",
       "published": "Mon, 09 Nov 2026 05:20:49 GMT",
       "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "AEK",
         "Super League"
@@ -510,7 +531,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Sun, 08 Nov 2026 16:38:23 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -530,7 +551,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sun, 08 Nov 2026 18:58:38 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -539,7 +560,26 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "05042a4d82c17bd6362f129f",
+      "mode": "sportdog",
+      "title": "Viral έγινε βίντεο από ΑΕΚ-Λεβαδειακός! Χαστούκι του Παντέα στον Βάργκα μπροστά στον Μόσχου - Sportdog",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTZpX2tkMm0tWWxBd1pub0g3Nk5Nc28yVTVscGRIYlA5NlRfbmJoOHkzMl90Tm9SSG4yM0RYeTluMWt4MWJLRTZ0X2xLZzVUb1RjMGlMNk1lMlE2SUZYaTkwRXVGT0hfS0k4akQxcmZHdmNSSmFTVndkN09tTEtMa3ctOFFPZWtyUDdnUWRCbGY5SFB4QzdfYmEyeHhjbjlvQURabmhnaV9Oa1l6bjJrdkU4Sl9lQ193VkZ5TmN5bmtYU3RtcnF3SG44UXVFTWZVTUFPYTFqandkd1Bx?oc=5",
+      "source": "Sportdog Greek Transfer Scenarios",
+      "published": "Mon, 09 Nov 2026 12:30:00 GMT",
+      "base_score": 39,
+      "candidate_score": 53,
+      "priority": "Normal",
+      "matched_keywords": [
+        "ΑΕΚ"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -569,7 +609,7 @@
       "source": "Sportdog Greek Transfer Scenarios",
       "published": "Mon, 09 Nov 2026 07:55:00 GMT",
       "base_score": 39,
-      "candidate_score": 53,
+      "candidate_score": 50,
       "priority": "Normal",
       "matched_keywords": [
         "ΑΕΚ"
@@ -588,7 +628,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Sun, 08 Nov 2026 19:06:11 GMT",
       "base_score": 41,
-      "candidate_score": 52,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
@@ -608,7 +648,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 09 Nov 2026 05:19:22 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -627,7 +667,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Mon, 09 Nov 2026 03:08:36 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -646,7 +686,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sun, 08 Nov 2026 18:26:11 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -703,7 +743,7 @@
       "source": "Pakistan Security Watch",
       "published": "Mon, 09 Nov 2026 06:27:19 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pakistan",
@@ -722,7 +762,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Mon, 09 Nov 2026 05:28:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -741,7 +781,7 @@
       "source": "Hellas Journal National Watch",
       "published": "Mon, 09 Nov 2026 19:41:50 GMT",
       "base_score": 88,
-      "candidate_score": 103,
+      "candidate_score": 98,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -751,38 +791,40 @@
       "content_type": "news"
     },
     {
-      "external_id": "f34d17cf5ae3e298eeed74f5",
+      "external_id": "4f7d8b3e41f2fea344527dc4",
       "mode": "geopolitico",
-      "title": "Yunanistan ile Güney Kıbrıs arasındaki askeri iş birliğine ilişkin değerlendirme - Kıbrıs Manşet",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUxTX3JmaENtUl8zcGJGbmN0a0R4OFpzaWxBMGxJWjhsVTVkSEdxNWdOekloVmpjTE1DenhYMTVzMEtrYWV1V1ZFWDhWWFNjcHFwdzVTMmVkYWJheEVXc0RQRTd1bHNYMGZrekJ6OHJNQXBsVlk4bnNNd1p5eTF0QUZuOTV6RVhzZ2tnQnFnWmlndER6ckJITUdsa3h0bzg0WU1RMkRoNTZhZVZfUXc?oc=5",
+      "title": "Yunanistan, F-35 ve F-16 modernizasyonuyla hava gücünü artıracak - gdh dijital",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjB3LUhUSzVkajBkZnpqTVEyRWYybTU5ODB6UEs5bnVPcHk3ZEx3Sk5sZi1lQlJSYjJPNVNTdDBzdmRTYXdBYjlmWUdPc3FwcFVtNTNuVUY1UHhTaThEdkJ5d19yTXFiMTZWUERUTzBHdkN4TjF1Z29pOW1HYTBkT0RYeHlQUlpHRmp6Y1oySkVlMHpoWkMyY09xX2F0S1dfU1o4?oc=5",
       "source": "Turkish Greek Defence Watch",
-      "published": "Sun, 08 Nov 2026 15:23:00 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
+      "published": "Mon, 09 Nov 2026 14:17:59 GMT",
+      "base_score": 86,
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "Yunanistan",
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "askeri"
+        "F-35",
+        "F-16",
+        "F-35"
       ],
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "f96eb82af211f2dd0a6f5ab2",
+      "external_id": "4c7c675d0b1db6886271af26",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Γιάννος Χαραλαμπίδης — Γιάννος Χαραλαμπίδης στο BEST: «Η ενημέρωση της Τουρκίας ανοίγει τον δρόμο για διεκδίκηση δικαιοδοσίας» – Οι κίνδυνοι για Ελλάδα και Κύπρο (video) - BEST TV Καλαμάτα",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM2w3VkVRQ0tWWnY2TFE0WC13YVBJcXo2dUthZURhd3lBTGZ0b3ltQk56WXk2ZU40XzBQRkRvb2pqSm5BMXdaN04tUENDeTVWbXplUXhxeW9pQUZkY0lSMVN0NVQ5NC00bDZkMXVOa0hMb1Vab2tOUDF0bW5KR0RscDBCTW1HbkxuQUU4OXJJS1BFWEJJWmpwaVVzWkE4dzlwOG9tZ0NIVkRXZGE4QXY3bEtLWk1pVFdKbnNzZzBsME50b3gzMFgtRXVFaFlzY0dRdmFQVGtLYkVhX1dxb3JUQnN6T1kxbU5DM09iTXVRb2lpQQ?oc=5",
-      "source": "Analysts Watch · Cyprus",
-      "published": "Mon, 09 Nov 2026 20:10:23 GMT",
-      "base_score": 75,
+      "title": "Mission against Iran ‘still not complete,’ declares Israeli defence minister - The Jewish Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObURZaUZkdi0wOG41cUt3OHN0STNEZnE4Y2VZb0ZCMEJrdXdBTkxkTlBnTHEyMVlwejF1em1LYVpBTHRVSUpWTmVpSXBsVG5xM21BSGxDRU15RUVKUUI4aHJlaEh5VDJ2dmNoeG5RSmFQY2UyY2h4X2hfTVc4bEFkTkFsbmtxVWpJUXpFWm1zd205OWNGNG1vSEFtSVlnNTdvelpFVkY3d0pYVmF6elkwbTllTTNSZmc?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Mon, 09 Nov 2026 16:41:19 GMT",
+      "base_score": 84,
       "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
-        "Γιάννος Χαραλαμπίδης",
-        "Γιάννος Χαραλαμπίδης"
+        "Israel",
+        "Israeli",
+        "Iran",
+        "defence"
       ],
-      "content_type": "analyst"
+      "content_type": "news"
     },
     {
       "external_id": "335d524df4582224fe8a5368",
@@ -802,14 +844,14 @@
       "content_type": "news"
     },
     {
-      "external_id": "177f40a14ea0dd058dc8a3dd",
+      "external_id": "b639b836bc9b0c3c938b517e",
       "mode": "pontos_voice",
       "title": "Ποντιακή διάλεκτος: Εκδήλωση για το παρελθόν, το παρόν και το μέλλον της από τον Πανελλήνιο Σύνδεσμο Ποντίων Εκπαιδευτικών - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZm81YUpJcUZtTlNrdjJCeGZGVFJMNVA3SDdPRVFiUDBBTE1iQkNxVFVKcFhJRmc3Z2c5dlJ5UGNUOG5pZWM1aUpPS1dZQ1BhdXJiSzk4dWh3UlVyU1I1VkplaXNEU3lOOFIteWxtUnE0NW1icGJvNVlvcGtEb3FwMXlYZE1BbDV1UUJXM1MxdUZnQkRoSktUeHp0SnVQNWYwZW9J?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdU9lOGEtaFJDbnBVYUxrcl9rUExDTE4wVU1LVWV2REExRTJYRHBmM2xqaXNuUTloVHpVTGkzRnF3SkJUWFA5dHd4YktTR0ZCSm92aERQNzRLWlZMdzN5SUFHdThpWjdaVVhUa2R4Mnk0cUtFaWROSUFpaDRvV0Q5NjBrTzU2eVJfVDNaRWwyMzdiTXZELUZXNVV5VmltejNIOHdF?oc=5",
       "source": "Greek Press Pontic Watch",
       "published": "Mon, 09 Nov 2026 14:31:06 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -826,7 +868,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Mon, 09 Nov 2026 08:42:07 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -839,19 +881,19 @@
       "content_type": "news"
     },
     {
-      "external_id": "521914690024cafba96b2538",
+      "external_id": "90fec6c2fba9583c553c56fd",
       "mode": "pontos_voice",
-      "title": "Ένωση Ποντίων Πιερίας: Με ποντιακή επιθεώρηση σκόρπισε το γέλιο στο Πολιτιστικό Κέντρο Σ.Σ. Μουριών Κιλκίς - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRUw0aHh6S0FlUzQ0QlBfSVpVaXBVQkdMMlQ3SE96NDF1dkUzbkJTVmNqYVBTWjdXcm1WX1Y2SU5oSVdQaWhsN2J3R0M1Zk1KQ0RWS1c5U0R2czFibVJsQ2o5aFBxY0FldDhzeDdWYjJuQ3dfalhFdVlRYkphTXpORzF5Z2xUWERjMmdKRGh5bkVtWmhXc3YzT0h2OTZYZ0lhVElZSnZHZk9NZ2x0WG84Slh5N1d5UXF4Ul9ja1hEblZISDhpZHc?oc=5",
+      "title": "Παναγία Σουμελά: Η εικόνα που γύρισε το 1931 από τον Πόντο και έφερε μαζί της την ιστορία ενός ξεριζωμένου λαού - HuffPost Greece",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0FobXBtbWd4UWlJYloya1V2Z0h6emFjLWh1QkdPYUV5M0I0NUxyM05vT0dDQTQ3SGpmZVZycWFBdDB2ZkNkdVAxWklDOWFiZG1rYjFxeldnejh5SGlnemxraXNNLTN2UXVVdDlpbmt2VXNodkRJQkR4Q0JiNy1HYU1ZOExuYzQ?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Sun, 08 Nov 2026 17:47:49 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
+      "published": "Mon, 09 Nov 2026 04:09:36 GMT",
+      "base_score": 95,
+      "candidate_score": 98,
       "priority": "URGENT",
       "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "Ένωση Ποντίων"
+        "Παναγία Σουμελά",
+        "Σουμελά",
+        "ιστορία"
       ],
       "content_type": "news"
     },
@@ -863,8 +905,8 @@
       "source": "Pontos News Watch",
       "published": "Mon, 09 Nov 2026 18:16:16 GMT",
       "base_score": 82,
-      "candidate_score": 97,
-      "priority": "URGENT",
+      "candidate_score": 88,
+      "priority": "High",
       "matched_keywords": [
         "Pontos",
         "ποντιακή",
@@ -880,7 +922,7 @@
       "source": "61Saat Trabzon",
       "published": "Mon, 09 Nov 2026 22:18:00 +0300",
       "base_score": 53,
-      "candidate_score": 68,
+      "candidate_score": 63,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -898,7 +940,7 @@
       "source": "61Saat Trabzon",
       "published": "Mon, 09 Nov 2026 22:41:00 +0300",
       "base_score": 51,
-      "candidate_score": 66,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
