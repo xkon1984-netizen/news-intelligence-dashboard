@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:48:05.103087+00:00",
+  "generated_at": "2026-11-11T03:12:45.471496+00:00",
   "counts": {
     "sportdog": 4,
     "geopolitico": 8,
@@ -8,6 +8,26 @@
   "modes": {
     "sportdog": [
       {
+        "external_id": "ac766b4889b0448cdc5f6396",
+        "mode": "sportdog",
+        "title": "Shots on target per match - Olympiacos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYk41LVh0STVGV3dkaWFsWW1zRm1SOHI2aW5ZQmpfQUFSZHJLSDI3bDVBRTUxRjJPMmRHNzMxM3l1R3IxMHE0ZVJYVG9xQW9nUUZPWDdoTEVwcnNhaFd1ZXBhQ2g2SndXbW1SRmtfNFNoSmFVU1JJeHZPb0FLQ3lkY0U5eFRrLUVRLXNMUzQ1TmdsVDQ5dE1fUzNONFpqVmRqbTlNVnQ3SUd0WXh3Q0FMb1I4M083THdVWVE?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Tue, 10 Nov 2026 21:20:22 GMT",
+        "base_score": 56,
+        "candidate_score": 74,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "2c3b68a99b01e1520cc87062",
         "mode": "sportdog",
         "title": "Olympiacos Set to Reignite Interest in Wolfsburg Man - roundtable.io",
@@ -15,7 +35,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 10 Nov 2026 16:15:40 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -23,25 +43,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "05042a4d82c17bd6362f129f",
-        "mode": "sportdog",
-        "title": "Viral έγινε βίντεο από ΑΕΚ-Λεβαδειακός! Χαστούκι του Παντέα στον Βάργκα μπροστά στον Μόσχου - Sportdog",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTZpX2tkMm0tWWxBd1pub0g3Nk5Nc28yVTVscGRIYlA5NlRfbmJoOHkzMl90Tm9SSG4yM0RYeTluMWt4MWJLRTZ0X2xLZzVUb1RjMGlMNk1lMlE2SUZYaTkwRXVGT0hfS0k4akQxcmZHdmNSSmFTVndkN09tTEtMa3ctOFFPZWtyUDdnUWRCbGY5SFB4QzdfYmEyeHhjbjlvQURabmhnaV9Oa1l6bjJrdkU4Sl9lQ193VkZ5TmN5bmtYU3RtcnF3SG44UXVFTWZVTUFPYTFqandkd1Bx?oc=5",
-        "source": "Sportdog Greek Transfer Scenarios",
-        "published": "Mon, 09 Nov 2026 12:30:00 GMT",
-        "base_score": 39,
-        "candidate_score": 47,
-        "priority": "Normal",
-        "matched_keywords": [
-          "ΑΕΚ"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -72,7 +73,7 @@
         "source": "AEK Rumour Watch",
         "published": "Mon, 09 Nov 2026 18:50:20 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -85,6 +86,26 @@
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "dbb181d3c61694db6b124145",
+        "mode": "geopolitico",
+        "title": "GSI'de yeni NAVTEX gerilimi: Türkiye “Onay verdik” diyor, Yunanistan izin almadığını savunuyor - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNllVSi16SGZBWTUtR1VLS2NLTXJnMnFqYUh5N0tWcGJpVkNlVS0xLUZnQm5EYlhKaURSOVNSNjNyQ3ptT256RkVqMUJYck8takhUUEY2ZVlfWEFMS0lCYzc2MnRUb1lvaEx2TmlFZFFsbWM3VkpCZFloc2hpakFBV3daUEZlSUVUbE1ydTdlWEdNSDFvR3ZTd2Y3NFVVQkhnSlVLVE1IMGJxZGtOYV95X1VYeXA?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Wed, 11 Nov 2026 03:07:32 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "NAVTEX",
+          "GSI",
+          "Kıbrıs",
+          "gerilim",
+          "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "f5199e26b0c8e73e029b3f38",
         "mode": "geopolitico",
@@ -105,12 +126,12 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "7fadc4dd60cf7e5d15fdc863",
+        "external_id": "f2b54e4bd259ae57b528ab55",
         "mode": "geopolitico",
-        "title": "Güney Kıbrıs, Yunanistan ve Mısır Meclis Başkanları yarın üçlü zirvede buluşacak - Kıbrıs Postası",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcC1nMk5IZVljOGZ1Z0hhd2NXVnBVdklwUEpLR3JBTndheDRob2tFZjE3Y3pVV20tcUlUT1h3b3RmcThNZHUzei1jSERQX0UxeGpyelI4dUJsdG1MTGpwbV9DU2VtWURWZlQwazlNOWk0NTAyQ2hud25CZVlRcWZUcXJVRHNIS2E2R0NfYjZGeEh4eEhUVVZ0VEFldzdfNGZHUC1CelhpUVk1LUpXa05HUHM0ZHY2dnNJWUFtUFpSR054WG16WWNPcU9fcXBySjg?oc=5",
+        "title": "Güney Kıbrıs, Yunanistan ve Mısır meclis başkanları yarın bir araya gelecek - Haber Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGREYm1jVFFZSTh1Q3ZKeFpFcTBDZElBeGpacHNuMjVWaUFzTXBzRjZkS3JPbzh4ZGh2ZW5rdC1XUGJtV2Z6cEtaV01SQzFaNThRM2pDR281UVZfYkl5VEs0QXlvckZRX3BZRV9lZUVYczdNc0QtNGpKZUZ3TWx5eS1kQzNWSENZa0dZSk1RQ1RnblI3SkdaeGkzZDZJelNEZzFpV0o2cVA2VDd6SW9qQnBZNHhDTjlyd3hF?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Tue, 10 Nov 2026 08:48:00 GMT",
+        "published": "Tue, 10 Nov 2026 12:54:49 GMT",
         "base_score": 100,
         "candidate_score": 106,
         "priority": "URGENT",
@@ -140,21 +161,36 @@
         "content_type": "news"
       },
       {
-        "external_id": "f5efd5da93b62a18473f9d42",
+        "external_id": "d9a6c8f6f96672aaff474089",
         "mode": "geopolitico",
-        "title": "Atina’dan GSI açıklaması: “Türkiye’den izin istemedik, istemeyeceğiz” - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRjVWSVdxZWVjZHhvMkxZX0VtS0R4TVBhcDZuRkxqZXNYVmNfaFIyMnhPQzg5cFlOejdqOUp6aFVIamZLMVBoWHFaQlRnVWNWQTB4SGhFeHZyMUI0ajVZSW9jLXhOOTc3c2RnbWVxNFIwcmY1VmZQOFZtUE00dGRhRXk1LUdEQUxJTHdqbmtMeC1HQQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Tue, 10 Nov 2026 04:49:55 GMT",
-        "base_score": 98,
-        "candidate_score": 101,
+        "title": "GSI: Νέα τουρκική NAVTEX συγκατάθεσης - Παπασταύρου: Μην πέφτετε στην παγίδα, χωρίς αντίκρυσμα η τουρκική κίνηση - worldenergynews.gr",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMldMSU4xQzU0djhobG40Q2ZobmhGSUU2ZDhNMG9FZTJva2NPVEFabF9fbVpaWjVMa1FObDViSlhacExCeUVnRm50UmpUSHA0b1VNeml1TU5RSjg5andRVUk1UU5na05DcHlOWC1NMmw0WUtvNEFPUFdlTEpUNU1rZWxWQ0NLV0tuYWxNMjhTYUxqMlFHbF9VVDZNVFgwbThHUnlPVm01ZkY4RHVyZGtNZml3eS1xVjdMcm9aNU82Q3VfZDRwdmNsVkVrZnJIYlBfUFR2cHB2WjdOQ0RZTEl5VzNsQWVVQlc4eTdyZU9Idl9RSG1nUEE?oc=5",
+        "source": "Dodecanese Security Migration Watch",
+        "published": "Tue, 10 Nov 2026 22:25:09 GMT",
+        "base_score": 92,
+        "candidate_score": 102,
         "priority": "URGENT",
         "matched_keywords": [
+          "NAVTEX",
           "GSI",
-          "Kıbrıs",
-          "Atina",
-          "açıklama",
+          "energy",
           "GSI"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "1903b44b45506b98e29209aa",
+        "mode": "geopolitico",
+        "title": "İnces: Yunanistan Türkiye karşısında 9 kez geri adım attı - Hey Haber",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWpaNlFkelBsaUJ3Rk1Ic3J1NEdNUklyWm1yeFU1LWtNdnYzMWNHemRZNGNIOEZMQnhna21VcG5TUm5GMDFUS1dyV1dJYlZCOEVETEJhd1BHSFp2UkdEd0RLNml1MlBRUkxVOFNmZVRmRU5uZDZ3dlZZUkxBZ1duWkk3T2hUVzRITXZPZngtZw?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Wed, 11 Nov 2026 01:00:29 GMT",
+        "base_score": 78,
+        "candidate_score": 93,
+        "priority": "High",
+        "matched_keywords": [
+          "Yunanistan",
+          "Yunanistan Türkiye"
         ],
         "content_type": "turkey_greece"
       },
@@ -177,23 +213,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "2ca77371ae16c3c006bc0c78",
-        "mode": "geopolitico",
-        "title": "Marinakis: NAVTEX issued for Greece-Cyprus power cable; price cuts on 1,109 products - Hellasjournal.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk9MdjRORmI3aTBHMG5LMG04ajd4UkJjMzNTRGJkQlBuNUdRRTh1Q2xLV082TnloN0RUWkRIczVDRUU5ME9JZmtvNWhrRnBWbmhPM1VxWTktbWh1d3JWaVc1UTM1Z01SMkx5Z1dzVGVfTkNLZWN1THk5aThiTFdSYzVDQk5uUUVqU19jQWE3dWNTSEE5Zzh4Wm1ISmxwZmY0S3lPYUpoOURqWDk0aVBxajRiT1FVcFE?oc=5",
-        "source": "Hellas Journal National Watch",
-        "published": "Mon, 09 Nov 2026 19:41:50 GMT",
-        "base_score": 88,
-        "candidate_score": 91,
-        "priority": "High",
-        "matched_keywords": [
-          "Greece",
-          "Cyprus",
-          "NAVTEX"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "c6156e80c543d20ea7baf44c",
         "mode": "geopolitico",
         "title": "[ANALYST WATCH] Abdulkadir Selvi — Dokunulmazlık restleşmesi Özgür Özel’e uzanır mı | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
@@ -201,30 +220,13 @@
         "source": "Analysts Watch · Turkey",
         "published": "Tue, 10 Nov 2026 22:33:36 GMT",
         "base_score": 75,
-        "candidate_score": 90,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
           "Abdulkadir Selvi",
           "Abdulkadir Selvi"
         ],
         "content_type": "analyst"
-      },
-      {
-        "external_id": "cc5b83add60770b04d708cc8",
-        "mode": "geopolitico",
-        "title": "GSI: Η Αθήνα απορρίπτει τους τουρκικούς ισχυρισμούς για το Abeille Marengo – «Μόνο Ελλάδα και Κύπρος έλαβαν αίτημα για άδεια» – Η τουρκική NAVTEX και η προαναγγελία διπλωματικής αντίδρασης - topontiki.gr",
-        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPLUNHMkg4OHBEenBzTHhQUGVSUWt2cllvZndSMWRHZ0d4dnRkNEZITG5GbjBMUkdqWkNQeXF3QUVLZy1RSElxeUZVQy0wa3JLY1g0S21pM05TcmxnVGE4ekZQQ1hMX0RVWDJ0Y2RoZk5rd0pWbWhmcXMtWEpzcnQ1dUxTZEZ2cXZ5WHlWTmc4TThmOWxrQ1B5RTdIZnNhZ24wNVJ6WmI0YVhhck9HSlA1MDdJQTN3aGY0ekw4Tl94aVNYZUJCWW5kUnhQYUtJZ3ZaZlFGMndreTA1WklVUm9ZLVNNQ09TTC0xR2dpYXZGOHdDUGRNQ0RVZmF3aHo5VXBfbVk1REhoSDNhZ1pqVTZPVFQtWXE0RlItdnY4cVNqN25KVzdDaDZYUE12dHNmb25VVEQ4eTl4Yw?oc=5",
-        "source": "Greek Cyprus Watch",
-        "published": "Tue, 10 Nov 2026 20:41:09 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "NAVTEX",
-          "GSI",
-          "GSI"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -253,7 +255,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Tue, 10 Nov 2026 08:29:00 GMT",
         "base_score": 86,
-        "candidate_score": 92,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -269,7 +271,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Mon, 09 Nov 2026 18:06:43 GMT",
         "base_score": 86,
-        "candidate_score": 89,
+        "candidate_score": 86,
         "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -285,7 +287,7 @@
         "source": "Pontos News Watch",
         "published": "Mon, 09 Nov 2026 18:16:16 GMT",
         "base_score": 82,
-        "candidate_score": 85,
+        "candidate_score": 82,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -302,7 +304,7 @@
         "source": "61Saat Trabzon",
         "published": "Tue, 10 Nov 2026 21:55:00 +0300",
         "base_score": 59,
-        "candidate_score": 69,
+        "candidate_score": 65,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -321,7 +323,7 @@
         "source": "61Saat Trabzon",
         "published": "Tue, 10 Nov 2026 20:14:00 +0300",
         "base_score": 53,
-        "candidate_score": 63,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -335,6 +337,26 @@
   },
   "items": [
     {
+      "external_id": "ac766b4889b0448cdc5f6396",
+      "mode": "sportdog",
+      "title": "Shots on target per match - Olympiacos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYk41LVh0STVGV3dkaWFsWW1zRm1SOHI2aW5ZQmpfQUFSZHJLSDI3bDVBRTUxRjJPMmRHNzMxM3l1R3IxMHE0ZVJYVG9xQW9nUUZPWDdoTEVwcnNhaFd1ZXBhQ2g2SndXbW1SRmtfNFNoSmFVU1JJeHZPb0FLQ3lkY0U5eFRrLUVRLXNMUzQ1TmdsVDQ5dE1fUzNONFpqVmRqbTlNVnQ3SUd0WXh3Q0FMb1I4M083THdVWVE?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Tue, 10 Nov 2026 21:20:22 GMT",
+      "base_score": 56,
+      "candidate_score": 74,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "2c3b68a99b01e1520cc87062",
       "mode": "sportdog",
       "title": "Olympiacos Set to Reignite Interest in Wolfsburg Man - roundtable.io",
@@ -342,7 +364,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 10 Nov 2026 16:15:40 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -350,25 +372,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "05042a4d82c17bd6362f129f",
-      "mode": "sportdog",
-      "title": "Viral έγινε βίντεο από ΑΕΚ-Λεβαδειακός! Χαστούκι του Παντέα στον Βάργκα μπροστά στον Μόσχου - Sportdog",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSTZpX2tkMm0tWWxBd1pub0g3Nk5Nc28yVTVscGRIYlA5NlRfbmJoOHkzMl90Tm9SSG4yM0RYeTluMWt4MWJLRTZ0X2xLZzVUb1RjMGlMNk1lMlE2SUZYaTkwRXVGT0hfS0k4akQxcmZHdmNSSmFTVndkN09tTEtMa3ctOFFPZWtyUDdnUWRCbGY5SFB4QzdfYmEyeHhjbjlvQURabmhnaV9Oa1l6bjJrdkU4Sl9lQ193VkZ5TmN5bmtYU3RtcnF3SG44UXVFTWZVTUFPYTFqandkd1Bx?oc=5",
-      "source": "Sportdog Greek Transfer Scenarios",
-      "published": "Mon, 09 Nov 2026 12:30:00 GMT",
-      "base_score": 39,
-      "candidate_score": 47,
-      "priority": "Normal",
-      "matched_keywords": [
-        "ΑΕΚ"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -399,7 +402,7 @@
       "source": "AEK Rumour Watch",
       "published": "Mon, 09 Nov 2026 18:50:20 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -409,6 +412,26 @@
       "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "dbb181d3c61694db6b124145",
+      "mode": "geopolitico",
+      "title": "GSI'de yeni NAVTEX gerilimi: Türkiye “Onay verdik” diyor, Yunanistan izin almadığını savunuyor - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNllVSi16SGZBWTUtR1VLS2NLTXJnMnFqYUh5N0tWcGJpVkNlVS0xLUZnQm5EYlhKaURSOVNSNjNyQ3ptT256RkVqMUJYck8takhUUEY2ZVlfWEFMS0lCYzc2MnRUb1lvaEx2TmlFZFFsbWM3VkpCZFloc2hpakFBV3daUEZlSUVUbE1ydTdlWEdNSDFvR3ZTd2Y3NFVVQkhnSlVLVE1IMGJxZGtOYV95X1VYeXA?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Wed, 11 Nov 2026 03:07:32 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "NAVTEX",
+        "GSI",
+        "Kıbrıs",
+        "gerilim",
+        "GSI"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "f5199e26b0c8e73e029b3f38",
@@ -430,12 +453,12 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "7fadc4dd60cf7e5d15fdc863",
+      "external_id": "f2b54e4bd259ae57b528ab55",
       "mode": "geopolitico",
-      "title": "Güney Kıbrıs, Yunanistan ve Mısır Meclis Başkanları yarın üçlü zirvede buluşacak - Kıbrıs Postası",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcC1nMk5IZVljOGZ1Z0hhd2NXVnBVdklwUEpLR3JBTndheDRob2tFZjE3Y3pVV20tcUlUT1h3b3RmcThNZHUzei1jSERQX0UxeGpyelI4dUJsdG1MTGpwbV9DU2VtWURWZlQwazlNOWk0NTAyQ2hud25CZVlRcWZUcXJVRHNIS2E2R0NfYjZGeEh4eEhUVVZ0VEFldzdfNGZHUC1CelhpUVk1LUpXa05HUHM0ZHY2dnNJWUFtUFpSR054WG16WWNPcU9fcXBySjg?oc=5",
+      "title": "Güney Kıbrıs, Yunanistan ve Mısır meclis başkanları yarın bir araya gelecek - Haber Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGREYm1jVFFZSTh1Q3ZKeFpFcTBDZElBeGpacHNuMjVWaUFzTXBzRjZkS3JPbzh4ZGh2ZW5rdC1XUGJtV2Z6cEtaV01SQzFaNThRM2pDR281UVZfYkl5VEs0QXlvckZRX3BZRV9lZUVYczdNc0QtNGpKZUZ3TWx5eS1kQzNWSENZa0dZSk1RQ1RnblI3SkdaeGkzZDZJelNEZzFpV0o2cVA2VDd6SW9qQnBZNHhDTjlyd3hF?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Tue, 10 Nov 2026 08:48:00 GMT",
+      "published": "Tue, 10 Nov 2026 12:54:49 GMT",
       "base_score": 100,
       "candidate_score": 106,
       "priority": "URGENT",
@@ -465,21 +488,36 @@
       "content_type": "news"
     },
     {
-      "external_id": "f5efd5da93b62a18473f9d42",
+      "external_id": "d9a6c8f6f96672aaff474089",
       "mode": "geopolitico",
-      "title": "Atina’dan GSI açıklaması: “Türkiye’den izin istemedik, istemeyeceğiz” - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRjVWSVdxZWVjZHhvMkxZX0VtS0R4TVBhcDZuRkxqZXNYVmNfaFIyMnhPQzg5cFlOejdqOUp6aFVIamZLMVBoWHFaQlRnVWNWQTB4SGhFeHZyMUI0ajVZSW9jLXhOOTc3c2RnbWVxNFIwcmY1VmZQOFZtUE00dGRhRXk1LUdEQUxJTHdqbmtMeC1HQQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Tue, 10 Nov 2026 04:49:55 GMT",
-      "base_score": 98,
-      "candidate_score": 101,
+      "title": "GSI: Νέα τουρκική NAVTEX συγκατάθεσης - Παπασταύρου: Μην πέφτετε στην παγίδα, χωρίς αντίκρυσμα η τουρκική κίνηση - worldenergynews.gr",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMldMSU4xQzU0djhobG40Q2ZobmhGSUU2ZDhNMG9FZTJva2NPVEFabF9fbVpaWjVMa1FObDViSlhacExCeUVnRm50UmpUSHA0b1VNeml1TU5RSjg5andRVUk1UU5na05DcHlOWC1NMmw0WUtvNEFPUFdlTEpUNU1rZWxWQ0NLV0tuYWxNMjhTYUxqMlFHbF9VVDZNVFgwbThHUnlPVm01ZkY4RHVyZGtNZml3eS1xVjdMcm9aNU82Q3VfZDRwdmNsVkVrZnJIYlBfUFR2cHB2WjdOQ0RZTEl5VzNsQWVVQlc4eTdyZU9Idl9RSG1nUEE?oc=5",
+      "source": "Dodecanese Security Migration Watch",
+      "published": "Tue, 10 Nov 2026 22:25:09 GMT",
+      "base_score": 92,
+      "candidate_score": 102,
       "priority": "URGENT",
       "matched_keywords": [
+        "NAVTEX",
         "GSI",
-        "Kıbrıs",
-        "Atina",
-        "açıklama",
+        "energy",
         "GSI"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "1903b44b45506b98e29209aa",
+      "mode": "geopolitico",
+      "title": "İnces: Yunanistan Türkiye karşısında 9 kez geri adım attı - Hey Haber",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWpaNlFkelBsaUJ3Rk1Ic3J1NEdNUklyWm1yeFU1LWtNdnYzMWNHemRZNGNIOEZMQnhna21VcG5TUm5GMDFUS1dyV1dJYlZCOEVETEJhd1BHSFp2UkdEd0RLNml1MlBRUkxVOFNmZVRmRU5uZDZ3dlZZUkxBZ1duWkk3T2hUVzRITXZPZngtZw?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Wed, 11 Nov 2026 01:00:29 GMT",
+      "base_score": 78,
+      "candidate_score": 93,
+      "priority": "High",
+      "matched_keywords": [
+        "Yunanistan",
+        "Yunanistan Türkiye"
       ],
       "content_type": "turkey_greece"
     },
@@ -502,23 +540,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "2ca77371ae16c3c006bc0c78",
-      "mode": "geopolitico",
-      "title": "Marinakis: NAVTEX issued for Greece-Cyprus power cable; price cuts on 1,109 products - Hellasjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk9MdjRORmI3aTBHMG5LMG04ajd4UkJjMzNTRGJkQlBuNUdRRTh1Q2xLV082TnloN0RUWkRIczVDRUU5ME9JZmtvNWhrRnBWbmhPM1VxWTktbWh1d3JWaVc1UTM1Z01SMkx5Z1dzVGVfTkNLZWN1THk5aThiTFdSYzVDQk5uUUVqU19jQWE3dWNTSEE5Zzh4Wm1ISmxwZmY0S3lPYUpoOURqWDk0aVBxajRiT1FVcFE?oc=5",
-      "source": "Hellas Journal National Watch",
-      "published": "Mon, 09 Nov 2026 19:41:50 GMT",
-      "base_score": 88,
-      "candidate_score": 91,
-      "priority": "High",
-      "matched_keywords": [
-        "Greece",
-        "Cyprus",
-        "NAVTEX"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "c6156e80c543d20ea7baf44c",
       "mode": "geopolitico",
       "title": "[ANALYST WATCH] Abdulkadir Selvi — Dokunulmazlık restleşmesi Özgür Özel’e uzanır mı | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
@@ -526,30 +547,13 @@
       "source": "Analysts Watch · Turkey",
       "published": "Tue, 10 Nov 2026 22:33:36 GMT",
       "base_score": 75,
-      "candidate_score": 90,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
         "Abdulkadir Selvi",
         "Abdulkadir Selvi"
       ],
       "content_type": "analyst"
-    },
-    {
-      "external_id": "cc5b83add60770b04d708cc8",
-      "mode": "geopolitico",
-      "title": "GSI: Η Αθήνα απορρίπτει τους τουρκικούς ισχυρισμούς για το Abeille Marengo – «Μόνο Ελλάδα και Κύπρος έλαβαν αίτημα για άδεια» – Η τουρκική NAVTEX και η προαναγγελία διπλωματικής αντίδρασης - topontiki.gr",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPLUNHMkg4OHBEenBzTHhQUGVSUWt2cllvZndSMWRHZ0d4dnRkNEZITG5GbjBMUkdqWkNQeXF3QUVLZy1RSElxeUZVQy0wa3JLY1g0S21pM05TcmxnVGE4ekZQQ1hMX0RVWDJ0Y2RoZk5rd0pWbWhmcXMtWEpzcnQ1dUxTZEZ2cXZ5WHlWTmc4TThmOWxrQ1B5RTdIZnNhZ24wNVJ6WmI0YVhhck9HSlA1MDdJQTN3aGY0ekw4Tl94aVNYZUJCWW5kUnhQYUtJZ3ZaZlFGMndreTA1WklVUm9ZLVNNQ09TTC0xR2dpYXZGOHdDUGRNQ0RVZmF3aHo5VXBfbVk1REhoSDNhZ1pqVTZPVFQtWXE0RlItdnY4cVNqN25KVzdDaDZYUE12dHNmb25VVEQ4eTl4Yw?oc=5",
-      "source": "Greek Cyprus Watch",
-      "published": "Tue, 10 Nov 2026 20:41:09 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "NAVTEX",
-        "GSI",
-        "GSI"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "90fec6c2fba9583c553c56fd",
@@ -576,7 +580,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Tue, 10 Nov 2026 08:29:00 GMT",
       "base_score": 86,
-      "candidate_score": 92,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -592,7 +596,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Mon, 09 Nov 2026 18:06:43 GMT",
       "base_score": 86,
-      "candidate_score": 89,
+      "candidate_score": 86,
       "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -608,7 +612,7 @@
       "source": "Pontos News Watch",
       "published": "Mon, 09 Nov 2026 18:16:16 GMT",
       "base_score": 82,
-      "candidate_score": 85,
+      "candidate_score": 82,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -625,7 +629,7 @@
       "source": "61Saat Trabzon",
       "published": "Tue, 10 Nov 2026 21:55:00 +0300",
       "base_score": 59,
-      "candidate_score": 69,
+      "candidate_score": 65,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -644,7 +648,7 @@
       "source": "61Saat Trabzon",
       "published": "Tue, 10 Nov 2026 20:14:00 +0300",
       "base_score": 53,
-      "candidate_score": 63,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
