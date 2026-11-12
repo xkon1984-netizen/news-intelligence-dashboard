@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-11-12T01:06:58.615427+00:00",
+  "generated_at": "2026-11-12T08:16:13.072448+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "c8c01559309046dd0d877165",
+        "mode": "sportdog",
+        "title": "Fouls committed per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2otdlpBMmFzbXZqUndFNEV5dE02MjZoS1JaZzBXa2RqZGVuTjA0NGl3dmxyb2ROQzFWSXVhdU1tMHlvbEZiSVJWT1hoZGs1OGNOVEFreXZOQUFHQVJNdmx6VXpaSGhLUzVYMXRZM1J2VDFYbXlRbHVVMm5SLXJzaHMtUlBhZVdOTVVsRUZKZGFBZXhva1EwVHgyN183aHc?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Wed, 11 Nov 2026 07:02:27 GMT",
+        "base_score": 56,
+        "candidate_score": 67,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
       {
         "external_id": "ac766b4889b0448cdc5f6396",
         "mode": "sportdog",
@@ -15,7 +35,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 10 Nov 2026 21:20:22 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -28,26 +48,6 @@
         "needs_second_source": true
       },
       {
-        "external_id": "1ba8a4d5c2b5e2d3ee0384e6",
-        "mode": "sportdog",
-        "title": "Expected goals (xG) - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1ZhNlVULXh3RWJIUTc5WjVQRkVLdGtiSVgwUjFsLXZIQVRMeXFsVVJxS0ZwMnB1aFVlZWM1M2ZSanFOaU10QXpJNWh5YU5NdmluUEdoeGNYOVN1ZUpJbTVuNEI1bjNGdFhhSzRCdmhSY3JmZ1lVV1drdDYwQkJBRTFqSWM0ZGZ5WmIzcC0xV2ZUM2VSRjgySk9GLWpHRzcxakE?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Tue, 10 Nov 2026 15:20:59 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
-        "team": "AEK",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
         "external_id": "1bb6569ad2c5c0e0da2d8654",
         "mode": "sportdog",
         "title": "Panathinaikos Scores Historic European Water Polo Triumph - Greek City Times",
@@ -55,7 +55,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 11 Nov 2026 21:13:40 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -103,47 +103,49 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "a3c1036f8416c633f2681942",
-        "mode": "sportdog",
-        "title": "Freiburg vs Panathinaikos Prediction, Lineups, Stats & Standings (10 December 2026) - Dailysports",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WRWowNGhBSEpoV21aSGdQVS05U2VUdjhwTE5RbEJ5TndiU09SZ1BWdVFZOThqd0tOaHdkdElXNXVQTlhlRnNWT1VPRUk1a1JfUnQ2NjlQcmlsWm1wb29QeDVRQXpoTHpKY3JqckNCZlBxQQ?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 11 Nov 2026 04:19:54 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "3dfb90b0623d2c971d9ce2f4",
-        "mode": "sportdog",
-        "title": "Olympiacos Set to Reignite Interest in Wolfsburg Man - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlBUU05JSy1QNnRZZWM5SFNjVHhxUEtHNGhCU1MyWm94a2hWRVIzT2xTalM2eTFyNUFpaEZpTVpYYkI3TzBQb2ZScm5YeWxMMndfM1Y4ckpnSjRYa2tzMEQ5UnA0dklOUm5JZ3ByVFl2ZDhDaVh0TTUxQ3FTN21uX0Fkd0hGSEhUV1hvb0tDV3d4R0NZcnc?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 10 Nov 2026 16:13:59 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "0b3c30c26c1b5993c823abe6",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz'de Kablo Hattı Gerilimi: Ankara'nın Diplomatik Hamlesine Atina ve Lefkoşa'dan Karşı NAVTEX - Haber.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZnZkRmcWZ1WDB1ZlVKREUzcVcxWlRvdlZocjdVeW9KRVZfcXMyTldhRHBFalVwUi1Vdm1pMzRIRE1ZdFV4R3pqelEtbW9iVW1PV25rdXhYSE9mTnlPS3JPdjhqX2VpTExBbDBHdTQ1RmJCQTFuNDR3OXRjazFYWXNpaFhFNGE4TEQtMDJPNFJIS0JUZTcybmVUVWdYa3VEOGN2MXY1cU1lVW5lWk12S1g1Z1ZPejJkVy1hTGJxbDhlakxkZ0VSbzgzVnluaU0?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 12 Nov 2026 05:54:38 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "NAVTEX",
+          "Doğu Akdeniz",
+          "Ankara",
+          "Atina",
+          "gerilim",
+          "kablo"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "011971bcc33c54f664e2be3f",
+        "mode": "geopolitico",
+        "title": "GSI’de Fransa-Türkiye temasları Atina’yı karıştırdı: “Ankara’dan izin mi alındı?” - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSW1EU0RIaTM1bXVtLXVtUHFWeUpLZUJWMTdWdTR6WDE4RW9jT05naUg3dGxUbTF4Q19uUG1LbG5hLXFuZjZzSXZlMEdFUXllX2NBQ3V1ZmY1TFlZN0xKaDFlbWxuNjJKZFpHdWdiSVFVN0VGLU1JVlNuYkdMT19QaGRYUnp3bVRiZ3NkdGlsc0ZaZmhmTGdoeWpuWGFJcTFz?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 12 Nov 2026 03:18:52 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "GSI",
+          "Kıbrıs",
+          "Ankara",
+          "Atina",
+          "Fransa",
+          "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "05c7d91520d592e73cb9dadf",
         "mode": "geopolitico",
@@ -152,53 +154,13 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Wed, 11 Nov 2026 20:35:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
           "Kıbrıs",
           "elektrik hattı",
           "Ankara"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "dbb181d3c61694db6b124145",
-        "mode": "geopolitico",
-        "title": "GSI'de yeni NAVTEX gerilimi: Türkiye “Onay verdik” diyor, Yunanistan izin almadığını savunuyor - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNllVSi16SGZBWTUtR1VLS2NLTXJnMnFqYUh5N0tWcGJpVkNlVS0xLUZnQm5EYlhKaURSOVNSNjNyQ3ptT256RkVqMUJYck8takhUUEY2ZVlfWEFMS0lCYzc2MnRUb1lvaEx2TmlFZFFsbWM3VkpCZFloc2hpakFBV3daUEZlSUVUbE1ydTdlWEdNSDFvR3ZTd2Y3NFVVQkhnSlVLVE1IMGJxZGtOYV95X1VYeXA?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 11 Nov 2026 19:18:51 GMT",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "NAVTEX",
-          "GSI",
-          "Kıbrıs",
-          "gerilim",
-          "GSI"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "4906f8523f986d75c0bfe8e1",
-        "mode": "geopolitico",
-        "title": "Atina ve Lefkoşa’da GSI depremi! Fransa, Ankara’dan izin istedi, Yunanistan çaresiz kaldı - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQWUwQzJORWVYQmtCM2hkZE04OFhNTU1JakJySHVDNnNmY2c1RTB0bWlEMnB6aENkTTZYZ0hudHdUdXVpWTVYUWtxb0Y0MWRMSHVYYlNVYU0tU3pjYlJCMjU2NTlDWERjcXRzaFB5S0tSWDdxMjVSc01pVmhCamRsV0s3OUJoa2wtaFJ0R1EyZ0JwczhpTHRXaHdBVGZ3WDh5alM0b2RHOGdSMkpqMWtxaEhpZ3VVLWxzeDUwUTE3QVhqbk9qanhYb21Mb9IBxwFBVV95cUxNVHVZRDhCbldBVGk1TDJrSEYwWkNfOG52SFdLTXpmMTZzcXdiRDNvNTJmbVlMQkdlUlZBZ0Z5Z01UaW15N3R5WXY3RXJSYkFUblVuUktCcGJfYU8wbEdGbFN4VGtmblVaeENveGdIdTNfRDhKLWtMNnRQdUpyRnRZYWlOdHdoUDJ4SnlMOGlaUWNQV211MTJ2V2daYlB5NWVoMU5XRGNIdGpoYlhpU1V2RXFBX0J1WnMteU90cU1aVDd1d3JNNVBN?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 11 Nov 2026 14:51:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "GSI",
-          "Ankara",
-          "Atina",
-          "Fransa",
-          "GSI"
         ],
         "content_type": "turkey_greece"
       },
@@ -210,7 +172,7 @@
         "source": "Turkish Greek Defence Watch",
         "published": "Wed, 11 Nov 2026 08:57:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "GSI",
@@ -218,6 +180,41 @@
           "Ankara",
           "kablo",
           "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "0151d9668b09509d40afe0d1",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz'deki elektrik kablosu projesine Ankara'dan onay çıktı; Yunanistan 'geçersiz' ilan etti! - T24",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDB3NVBLR2UteUJRRVFkLVhaSUxvSW9aVUM2VlhJWGxqVUtoUkZWdmFUTWhpQ0pwLVozNlFUWHZEaHNnNXR2UlVveTdSQ21McFVyQjRYdVZxQ2s4QTZZVzhlRzl1dTU4Yjk2NUx5b3dmcE13bjlBdEoxTkVBR2pscVFQeVNpNDIwUGI5ZE5aWl9ERVY4ZUo0SDBqaHI2UTlDQmIwRGp5elZpajBBbFcycngwNHBUUkhLdFFsblp5NHJkT0wyZlE?oc=5",
+        "source": "Turkish Greek Relations Deep Watch",
+        "published": "Wed, 11 Nov 2026 07:46:00 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Doğu Akdeniz",
+          "Ankara",
+          "kablo"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "e5cdcf9f081ea3a622e3eb61",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz'de Elektrik Hattı Gerilimi: Fransız Gemisi İzinle Demir Aldı - Dosya Haber",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2toRXR2TTFfM3ZZUEdhMk4zTFhQQ1lnNlFsTmMyZzFmUXdLX3o2OXVZaGZkX0hVd3drV05talo3YUk4UV94OHBnaDBEaUpGX3hXYWZpcXN3endEZVFhb0dqYTdRdEtZQTZzTDlWR1dHeUhaalZwYmZiVWx3MjMzc2NsYm5aR3BVYlJrZDc2Q2g5UDZsOE5iM0RKeElJSTR1LWJFRWZoaEVFUEo3blRiTg?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Thu, 12 Nov 2026 05:52:10 GMT",
+        "base_score": 84,
+        "candidate_score": 99,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "elektrik hattı",
+          "gerilim"
         ],
         "content_type": "turkey_greece"
       },
@@ -240,64 +237,47 @@
         "content_type": "news"
       },
       {
-        "external_id": "5acef192ddb283712dea1b42",
+        "external_id": "d927cffc470d523a11bd386a",
         "mode": "geopolitico",
-        "title": "Κύπρος: Αντι-NAVTEX στην τουρκική αναγγελία για το Great Sea Interconnector – «Οι έρευνες έχουν αδειοδοτηθεί από τη Λευκωσία» - ertnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDd6U3dva1RWTTRPTHlSYlhOSGJvS21PUzJwTThfRXFGMWVMQ2dycmJlbTJXcXFSdFdrdzVOOUxfbFhCbFF1NUpLT1ROYU9KSFNLVU5Dbk1HbWxmdG9CSUhiRDVMYWw5TUR3bnJUdC1fZ0V0OVBWQ0U2TVJrS2RaWngzOEUxLWVpLUlrc1hrOGJObHRycmhPTEpPUENjRlRQbUxHbnZGU3pVU0psN0hqY0FoaUxsUkxfMVlfclc0VEdXS3lUeW0tbVU3VGlwLWFDMmcta1ZSX2h3MklRYXEtU3FVVW5nWmJ3c256eVlGbUwzdWJN0gH6AUFVX3lxTFBFWXJXZnlaSWZYajZoTlNzTWREVUU2TXNLMXpjT3lCQWd1WW1WdnJDSmxmR0pRdzNYUzNfZjczMi0zejhQbEM1aHRETThDeTlBNFY2a1EzNE8wNlBPQ3locm4tZDNncXBKX2kwQ0ZUNGNBb2NEZER1UXZ0Z0x2WlJmY2hfWm0xNXB0dUh6UWhvYVp1VGRBU05XVmJ6enFqOGFlamJhbC1jYWJuRnMtbGRSaVBJNVlKRFVBb0N5T0VwckRSbnhsNndNMkpkbnVFa25VeXdlSWN2aG8zQ3F2VDEtck4zTU9hS0FMLTE2LWFpZnlHVWp4WXpaU2c?oc=5",
-        "source": "Greek Cyprus Watch",
-        "published": "Wed, 11 Nov 2026 09:06:45 GMT",
-        "base_score": 86,
-        "candidate_score": 92,
+        "title": "US-China AI Dialogue: Bessent Says Cooperation Must Coexist With Strategic Competition | Watch - Livemint",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnR1R3JoWkFIamZTeFRINDFOa0R6RUJUU3B6My0wOVpBS0pxWWNISW1Vc1g0S1NhUWlVcGMzT1JYQTFySXVKVXRlM3NlOHNncGUzUXcwU1BKMUprVG5CSnR1TTA5UFVLSTBicV9XQms5ZzhoWl9rY25jZXo4YkNDTjZIWXZObDVSVnJpYzFDR1B2ZHhIYmc0dE1UeW5Eb1RNUy1IaHBTVkkzOW5Oay1zZjBBS1pncFZ0cjlMTzlUYVZjVjJlRVpMUjhHdHljSmNKT3lpb1JpVDNzZ9IB3wFBVV95cUxQTTNXc3RhYXBVSktOeTlXRU9oc2g2WS1NYk0tNVpCc0VUVDltTzRUVTNjd28yNHo5bFVBajE5RWpmRGh4WkZReS1Cbk1YTkotLXpRTkQ2ZmluUTBVeVZ2dWhRbV9GNURneUZBZ3oyM24wWFZNdklKQUVOb2NBYlJjRThxNkVmMUpROFBXdU1LdG9lcnhYRWVMS3I5Q2ZsbEFBTXhJQzBkSmhKdmhIcWJWRXRvdTVqeVV0cGF3MzlycU1aVkMyTnF0U2FMOU5ON3hnUWhuVGZoLWJOdVA2WGd3?oc=5",
+        "source": "China Strategic Watch",
+        "published": "Thu, 12 Nov 2026 05:59:13 GMT",
+        "base_score": 79,
+        "candidate_score": 94,
         "priority": "High",
         "matched_keywords": [
-          "NAVTEX",
-          "Great Sea Interconnector",
-          "Great Sea Interconnector"
+          "China",
+          "China AI",
+          "strategic competition"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "6f1fc61c5859eaa4fb0df9cf",
-        "mode": "geopolitico",
-        "title": "Mısır, Yunanistan ve GKRY meclis başkanları Güney Kıbrıs'ta buluştu - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1g2VU1pMmRrN25vRkVVTWVJMzBiWldNTVBxelh1MGFqNW0yamNkbTJfRk9zWGpTYnl0M3pjbGJOeGJvNmEyYklJYzJiMmNUcmVCb2tma3AyTHZnR25KdHh1YmpXcmJONW50UnlvN3FPc3laTnROZUxFSFRmZ0ptUFhQdXhRUG90WGwzRXVNbFFtWWdSdGN2STZodklqS294NDI2Z3Z2NE9rT0xVamZweHhR0gGuAUFVX3lxTE5hZ2tVVTNZcVdwNDR4SmMzTkFXTTJKaU9hOC1Pc2FCWC1DSEU1ZFlPNWM2WmRoOHh5X0xkTkRPNm5NMnAteGV1UUk1UkV1aWdONmozTmxSZ2JtR0JrbjVSeFJ5M2ZXOURjeWlmLWJXSUV0eTNJWHpoX0l6a205dWlpQS1jSlpWR0U2SnZiUFBUR3dRTnlRWkFmY2ptWWNEQ1Y3WlRpQmxhVzBRT3Rodw?oc=5",
-        "source": "Yeni Akit Greece Watch",
-        "published": "Wed, 11 Nov 2026 21:07:30 GMT",
-        "base_score": 81,
-        "candidate_score": 91,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "Güney Kıbrıs"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "24386c41817bfe61682e6e37",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Özgür Özel neden bu iddiaların odağında yer alıyor | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHlENlJhNUpTcVNYVXVkQjlOaGpKd3U5Wm5WLTFVYmJsdFhCYVRfWTA2NFJScWdoNlgtZFYyZWFFV3J3M0FRdnFYS2Zqa1lUTkVUR0Jrd0FILTgtcFFLRG92ZHNwekxwSkpiaGFXRXppLWhNWU9FVWd3YlBBbjFoSzRKOUk1bm1wSmtzRjU0SHUxb050RUtFU2Z1UVcxMjEyOExPdC1PMC00eWpoVEZWTnhtOA?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Thu, 12 Nov 2026 00:05:24 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
       {
-        "external_id": "4cb3bf5e08dd459792287152",
+        "external_id": "63638ce666d7d60a85129f53",
         "mode": "pontos_voice",
-        "title": "Στην 1η συνάντηση Χορωδιών του Σωματείου \"Παναγία Σουμελά\" συμμετείχε η Μικτή Χορωδία της ΚΕΠΑ Δ. Βέροιας - InVeria.gr",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KSTlYU1UxSzRIR0VabGpWcXhkNFhqdExZWlBDTV9hSXBKYXBwZEhkLXZ5OXo2dl9oMjNQX0RZeVBTMkcwQTRuclhPb0JRTjhtYmw1YUZ0ODJJVlRpa3ZSN0lmWQ?oc=5",
+        "title": "Εκδρομή στην Παναγία Σουμελά με τις Κόρες Πιερίων - Οδηγός Πιερίας",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0drdUpfSWQwZThpcjd3UERWU05iMG52RWpNZzQzS1BhUGhJTDBhZVRjT0tmMjRPNmFHdVJEaHB6MUkwYnluSHpTelN3UURQdUpad3lvdU1KYWdhVm1VczN6bHdlSjFkTlpsTGpLY01wVHFBUWc0bmJWeVFDZkQwTlhR?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Tue, 10 Nov 2026 18:30:00 GMT",
+        "published": "Thu, 12 Nov 2026 03:22:23 GMT",
+        "base_score": 86,
+        "candidate_score": 96,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Παναγία Σουμελά",
+          "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "32501a33be657a6cefa829c8",
+        "mode": "pontos_voice",
+        "title": "Θεσσαλονίκη: Στην πρώτη Συνάντηση Χορωδιών του Σωματείου «Παναγία Σουμελά», συμμετείχε η Μικτή Χορωδία της ΚΕΠΑ Δήμου Βέροιας - Faretra.info",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb25HcHoxZTBVYnJZaDJSRkFZRFZPMWhKTnZzU2dHc0hYS3REdDRHZzRoeXltOWYza3R2cDZlNUlUX0k3UmdIcEJTNmF6UmRfbC1xN0FjMW9zRUwzZWlRQ2NkVlhfQnkzOHNHUjZ4NHJ2ZTk3aDlJbHJzVFhhQ0NNMExhZFZNUjl0Y0xYM20yY0lsNnpYYmhkemRuU1ZfQ3NPVEdZTlB3QnVILWFOT3JfX29QWDVfTE5CY2ZqVm9sYmR4bmJCS0xCdTl6M0NOaFhpcXcxdXVQa2RfbE5hbXR2amZZRGdtbmpfN0lQWGNFSQ?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Tue, 10 Nov 2026 10:55:48 GMT",
         "base_score": 86,
         "candidate_score": 86,
         "priority": "High",
@@ -324,78 +304,81 @@
         "content_type": "news"
       },
       {
-        "external_id": "a93e94c1bd5f3af7bc02518d",
+        "external_id": "51259be640bf45d22d95d00d",
         "mode": "pontos_voice",
-        "title": "Trabzon'da kız öğrenci yurdunda afet tatbikatı! Öğrenciler tahliyeyi uygulamalı öğrendi",
-        "url": "https://www.61saat.com/trabzonda-kiz-ogrenci-yurdunda-afet-tatbikati-ogrenciler-tahliyeyi-uygulamali-ogrendi",
-        "source": "61Saat Trabzon",
-        "published": "Wed, 11 Nov 2026 18:56:00 +0300",
-        "base_score": 67,
-        "candidate_score": 73,
-        "priority": "High",
-        "matched_keywords": [
-          "Trabzon",
-          "Rumlar",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "58074619063f731f7b7ecda1",
-        "mode": "pontos_voice",
-        "title": "Η ποντιακή παράδοση μέσα από τα παιδικά παιχνίδια – Το βιβλίο του Βασίλη Ασβεστά παρουσιάστηκε στη Βέροια - Pliroforiodotis.gr",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHBSTEU4a2VoX3dLRnVFVWlyQ1NnUlhTRXBWblRLVmlmdEk4ajBsQ2F5ZllDdlpHNWhGMXNLN01FRFhGRW14THE0VU82dzRhOGlUVE5MMmNPeVBaYVZGaHdwa3JsYnlCc19pdFUwUHJPUXV3eUEzVXhjaG5pUU9Pa1I5Ynh2aFJuV1RzcWxndDQtRVpocmRqMnBSV2lIMkhpTlNnZUN5WEVTSFBsODdWZkwxRG9GOHhMY296Ymd1RmlSWkJWZVo0aUwyOE40ZWhBb3c?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 11 Nov 2026 21:03:59 GMT",
-        "base_score": 51,
-        "candidate_score": 61,
-        "priority": "Normal",
-        "matched_keywords": [
-          "ποντιακή",
-          "Of",
-          "παράδοση"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "f3a65cfcc6489aa06a1ef223",
-        "mode": "pontos_voice",
-        "title": "Trabzon Milletvekili Adil Karaismailoğlu'dan COP31’de dikkat çeken mesaj - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2tabHFSajdvbUJ6b3JBZEdZVnNobW9iWlFOVzg3N2dxQ3g4T0xOQW5ranZXRkY3bVFodTNzaVQzT3VrclNaYnNVSFdhYmZsaTAyUVlkOWhoR1BERUdKaHpnaVpXMkZkYzhkUXFEMmk0SUxGSjA0U2lNdEdhUDJ4M0l1MkhLdktzRHhvY0djOWEyclFBaXNnU0dtaHJuRUZnV3FjWmo0aXQySEYtX2t1MA?oc=5",
+        "title": "Trabzon’un yeni havalimanı Maçka’da endişe yarattı! Taş ocağı tepkisi - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHdjZjlsNDBjN0pEZFByWHJFM3NtSHRoVTVhTVlsTVhkZnVDSF9yd0Y3MGQtUWw1SUttdnhBdl80VkVqbW9HOEF1MzF3blFVYkxuMDFGdTltZnZ3ejZzcmNSa0JKZXJKdHljbjZwYWprcHJkQWxLQzRIZEpFYjFGRmJLSmtzbEZRUUZWb1k5X2NlZHlaeHlyaU5sT1ZMbWE3MXBrdDZLU2VIODA?oc=5",
         "source": "Haber61 Trabzon",
-        "published": "Wed, 11 Nov 2026 08:18:46 GMT",
-        "base_score": 51,
-        "candidate_score": 57,
+        "published": "Thu, 12 Nov 2026 04:56:05 GMT",
+        "base_score": 59,
+        "candidate_score": 69,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "milletvekili",
+          "Maçka",
+          "tepki",
           "Trabzon",
-          "dil"
+          "vali"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "6b285dac26b54949bf54d346",
+        "external_id": "5f2985e3a83aab922ed80682",
         "mode": "pontos_voice",
-        "title": "Trabzonspor kalesinde duvar ördü, ligin zirvesine çıktı",
-        "url": "https://www.61saat.com/trabzonspor-kalesinde-duvar-ordu-ligin-zirvesine-cikti",
+        "title": "TTSO heyetinden Başkan Kaya’ya ziyaret",
+        "url": "https://www.61saat.com/ttso-heyetinden-baskan-kayaya-ziyaret",
         "source": "61Saat Trabzon",
-        "published": "Wed, 11 Nov 2026 22:25:00 +0300",
-        "base_score": 46,
-        "candidate_score": 56,
+        "published": "Thu, 12 Nov 2026 10:46:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "belediye başkanı",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "6d819fdab9ab3f3a7b5d4f2e",
+        "mode": "pontos_voice",
+        "title": "Bir Trabzonlu yiğit evlat şehit oldu bayrağı bir başka Trabzonlu devraldı!",
+        "url": "https://www.61saat.com/bir-trabzonlu-yigit-evlat-sehit-oldu-bayragi-bir-baska-trabzonlu-devraldi",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 12 Nov 2026 10:35:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "Trabzon",
-          "Karadeniz"
+          "dil"
         ],
         "content_type": "news"
       }
     ]
   },
   "items": [
+    {
+      "external_id": "c8c01559309046dd0d877165",
+      "mode": "sportdog",
+      "title": "Fouls committed per 90 - Panathinaikos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2otdlpBMmFzbXZqUndFNEV5dE02MjZoS1JaZzBXa2RqZGVuTjA0NGl3dmxyb2ROQzFWSXVhdU1tMHlvbEZiSVJWT1hoZGs1OGNOVEFreXZOQUFHQVJNdmx6VXpaSGhLUzVYMXRZM1J2VDFYbXlRbHVVMm5SLXJzaHMtUlBhZVdOTVVsRUZKZGFBZXhva1EwVHgyN183aHc?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Wed, 11 Nov 2026 07:02:27 GMT",
+      "base_score": 56,
+      "candidate_score": 67,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
     {
       "external_id": "ac766b4889b0448cdc5f6396",
       "mode": "sportdog",
@@ -404,7 +387,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 10 Nov 2026 21:20:22 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -417,26 +400,6 @@
       "needs_second_source": true
     },
     {
-      "external_id": "1ba8a4d5c2b5e2d3ee0384e6",
-      "mode": "sportdog",
-      "title": "Expected goals (xG) - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1ZhNlVULXh3RWJIUTc5WjVQRkVLdGtiSVgwUjFsLXZIQVRMeXFsVVJxS0ZwMnB1aFVlZWM1M2ZSanFOaU10QXpJNWh5YU5NdmluUEdoeGNYOVN1ZUpJbTVuNEI1bjNGdFhhSzRCdmhSY3JmZ1lVV1drdDYwQkJBRTFqSWM0ZGZ5WmIzcC0xV2ZUM2VSRjgySk9GLWpHRzcxakE?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Tue, 10 Nov 2026 15:20:59 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
-      "team": "AEK",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
       "external_id": "1bb6569ad2c5c0e0da2d8654",
       "mode": "sportdog",
       "title": "Panathinaikos Scores Historic European Water Polo Triumph - Greek City Times",
@@ -444,7 +407,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 11 Nov 2026 21:13:40 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -494,42 +457,44 @@
       "needs_second_source": true
     },
     {
-      "external_id": "a3c1036f8416c633f2681942",
-      "mode": "sportdog",
-      "title": "Freiburg vs Panathinaikos Prediction, Lineups, Stats & Standings (10 December 2026) - Dailysports",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WRWowNGhBSEpoV21aSGdQVS05U2VUdjhwTE5RbEJ5TndiU09SZ1BWdVFZOThqd0tOaHdkdElXNXVQTlhlRnNWT1VPRUk1a1JfUnQ2NjlQcmlsWm1wb29QeDVRQXpoTHpKY3JqckNCZlBxQQ?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 11 Nov 2026 04:19:54 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
+      "external_id": "0b3c30c26c1b5993c823abe6",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz'de Kablo Hattı Gerilimi: Ankara'nın Diplomatik Hamlesine Atina ve Lefkoşa'dan Karşı NAVTEX - Haber.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZnZkRmcWZ1WDB1ZlVKREUzcVcxWlRvdlZocjdVeW9KRVZfcXMyTldhRHBFalVwUi1Vdm1pMzRIRE1ZdFV4R3pqelEtbW9iVW1PV25rdXhYSE9mTnlPS3JPdjhqX2VpTExBbDBHdTQ1RmJCQTFuNDR3OXRjazFYWXNpaFhFNGE4TEQtMDJPNFJIS0JUZTcybmVUVWdYa3VEOGN2MXY1cU1lVW5lWk12S1g1Z1ZPejJkVy1hTGJxbDhlakxkZ0VSbzgzVnluaU0?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 12 Nov 2026 05:54:38 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Panathinaikos"
+        "NAVTEX",
+        "Doğu Akdeniz",
+        "Ankara",
+        "Atina",
+        "gerilim",
+        "kablo"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "turkey_greece"
     },
     {
-      "external_id": "3dfb90b0623d2c971d9ce2f4",
-      "mode": "sportdog",
-      "title": "Olympiacos Set to Reignite Interest in Wolfsburg Man - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlBUU05JSy1QNnRZZWM5SFNjVHhxUEtHNGhCU1MyWm94a2hWRVIzT2xTalM2eTFyNUFpaEZpTVpYYkI3TzBQb2ZScm5YeWxMMndfM1Y4ckpnSjRYa2tzMEQ5UnA0dklOUm5JZ3ByVFl2ZDhDaVh0TTUxQ3FTN21uX0Fkd0hGSEhUV1hvb0tDV3d4R0NZcnc?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 10 Nov 2026 16:13:59 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
+      "external_id": "011971bcc33c54f664e2be3f",
+      "mode": "geopolitico",
+      "title": "GSI’de Fransa-Türkiye temasları Atina’yı karıştırdı: “Ankara’dan izin mi alındı?” - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSW1EU0RIaTM1bXVtLXVtUHFWeUpLZUJWMTdWdTR6WDE4RW9jT05naUg3dGxUbTF4Q19uUG1LbG5hLXFuZjZzSXZlMEdFUXllX2NBQ3V1ZmY1TFlZN0xKaDFlbWxuNjJKZFpHdWdiSVFVN0VGLU1JVlNuYkdMT19QaGRYUnp3bVRiZ3NkdGlsc0ZaZmhmTGdoeWpuWGFJcTFz?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 12 Nov 2026 03:18:52 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Olympiacos"
+        "GSI",
+        "Kıbrıs",
+        "Ankara",
+        "Atina",
+        "Fransa",
+        "GSI"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "05c7d91520d592e73cb9dadf",
@@ -539,53 +504,13 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Wed, 11 Nov 2026 20:35:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
         "Kıbrıs",
         "elektrik hattı",
         "Ankara"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "dbb181d3c61694db6b124145",
-      "mode": "geopolitico",
-      "title": "GSI'de yeni NAVTEX gerilimi: Türkiye “Onay verdik” diyor, Yunanistan izin almadığını savunuyor - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNllVSi16SGZBWTUtR1VLS2NLTXJnMnFqYUh5N0tWcGJpVkNlVS0xLUZnQm5EYlhKaURSOVNSNjNyQ3ptT256RkVqMUJYck8takhUUEY2ZVlfWEFMS0lCYzc2MnRUb1lvaEx2TmlFZFFsbWM3VkpCZFloc2hpakFBV3daUEZlSUVUbE1ydTdlWEdNSDFvR3ZTd2Y3NFVVQkhnSlVLVE1IMGJxZGtOYV95X1VYeXA?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 11 Nov 2026 19:18:51 GMT",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "NAVTEX",
-        "GSI",
-        "Kıbrıs",
-        "gerilim",
-        "GSI"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "4906f8523f986d75c0bfe8e1",
-      "mode": "geopolitico",
-      "title": "Atina ve Lefkoşa’da GSI depremi! Fransa, Ankara’dan izin istedi, Yunanistan çaresiz kaldı - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQWUwQzJORWVYQmtCM2hkZE04OFhNTU1JakJySHVDNnNmY2c1RTB0bWlEMnB6aENkTTZYZ0hudHdUdXVpWTVYUWtxb0Y0MWRMSHVYYlNVYU0tU3pjYlJCMjU2NTlDWERjcXRzaFB5S0tSWDdxMjVSc01pVmhCamRsV0s3OUJoa2wtaFJ0R1EyZ0JwczhpTHRXaHdBVGZ3WDh5alM0b2RHOGdSMkpqMWtxaEhpZ3VVLWxzeDUwUTE3QVhqbk9qanhYb21Mb9IBxwFBVV95cUxNVHVZRDhCbldBVGk1TDJrSEYwWkNfOG52SFdLTXpmMTZzcXdiRDNvNTJmbVlMQkdlUlZBZ0Z5Z01UaW15N3R5WXY3RXJSYkFUblVuUktCcGJfYU8wbEdGbFN4VGtmblVaeENveGdIdTNfRDhKLWtMNnRQdUpyRnRZYWlOdHdoUDJ4SnlMOGlaUWNQV211MTJ2V2daYlB5NWVoMU5XRGNIdGpoYlhpU1V2RXFBX0J1WnMteU90cU1aVDd1d3JNNVBN?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 11 Nov 2026 14:51:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "GSI",
-        "Ankara",
-        "Atina",
-        "Fransa",
-        "GSI"
       ],
       "content_type": "turkey_greece"
     },
@@ -597,7 +522,7 @@
       "source": "Turkish Greek Defence Watch",
       "published": "Wed, 11 Nov 2026 08:57:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "GSI",
@@ -605,6 +530,41 @@
         "Ankara",
         "kablo",
         "GSI"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "0151d9668b09509d40afe0d1",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz'deki elektrik kablosu projesine Ankara'dan onay çıktı; Yunanistan 'geçersiz' ilan etti! - T24",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDB3NVBLR2UteUJRRVFkLVhaSUxvSW9aVUM2VlhJWGxqVUtoUkZWdmFUTWhpQ0pwLVozNlFUWHZEaHNnNXR2UlVveTdSQ21McFVyQjRYdVZxQ2s4QTZZVzhlRzl1dTU4Yjk2NUx5b3dmcE13bjlBdEoxTkVBR2pscVFQeVNpNDIwUGI5ZE5aWl9ERVY4ZUo0SDBqaHI2UTlDQmIwRGp5elZpajBBbFcycngwNHBUUkhLdFFsblp5NHJkT0wyZlE?oc=5",
+      "source": "Turkish Greek Relations Deep Watch",
+      "published": "Wed, 11 Nov 2026 07:46:00 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Doğu Akdeniz",
+        "Ankara",
+        "kablo"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "e5cdcf9f081ea3a622e3eb61",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz'de Elektrik Hattı Gerilimi: Fransız Gemisi İzinle Demir Aldı - Dosya Haber",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2toRXR2TTFfM3ZZUEdhMk4zTFhQQ1lnNlFsTmMyZzFmUXdLX3o2OXVZaGZkX0hVd3drV05talo3YUk4UV94OHBnaDBEaUpGX3hXYWZpcXN3endEZVFhb0dqYTdRdEtZQTZzTDlWR1dHeUhaalZwYmZiVWx3MjMzc2NsYm5aR3BVYlJrZDc2Q2g5UDZsOE5iM0RKeElJSTR1LWJFRWZoaEVFUEo3blRiTg?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Thu, 12 Nov 2026 05:52:10 GMT",
+      "base_score": 84,
+      "candidate_score": 99,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "elektrik hattı",
+        "gerilim"
       ],
       "content_type": "turkey_greece"
     },
@@ -627,62 +587,45 @@
       "content_type": "news"
     },
     {
-      "external_id": "5acef192ddb283712dea1b42",
+      "external_id": "d927cffc470d523a11bd386a",
       "mode": "geopolitico",
-      "title": "Κύπρος: Αντι-NAVTEX στην τουρκική αναγγελία για το Great Sea Interconnector – «Οι έρευνες έχουν αδειοδοτηθεί από τη Λευκωσία» - ertnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDd6U3dva1RWTTRPTHlSYlhOSGJvS21PUzJwTThfRXFGMWVMQ2dycmJlbTJXcXFSdFdrdzVOOUxfbFhCbFF1NUpLT1ROYU9KSFNLVU5Dbk1HbWxmdG9CSUhiRDVMYWw5TUR3bnJUdC1fZ0V0OVBWQ0U2TVJrS2RaWngzOEUxLWVpLUlrc1hrOGJObHRycmhPTEpPUENjRlRQbUxHbnZGU3pVU0psN0hqY0FoaUxsUkxfMVlfclc0VEdXS3lUeW0tbVU3VGlwLWFDMmcta1ZSX2h3MklRYXEtU3FVVW5nWmJ3c256eVlGbUwzdWJN0gH6AUFVX3lxTFBFWXJXZnlaSWZYajZoTlNzTWREVUU2TXNLMXpjT3lCQWd1WW1WdnJDSmxmR0pRdzNYUzNfZjczMi0zejhQbEM1aHRETThDeTlBNFY2a1EzNE8wNlBPQ3locm4tZDNncXBKX2kwQ0ZUNGNBb2NEZER1UXZ0Z0x2WlJmY2hfWm0xNXB0dUh6UWhvYVp1VGRBU05XVmJ6enFqOGFlamJhbC1jYWJuRnMtbGRSaVBJNVlKRFVBb0N5T0VwckRSbnhsNndNMkpkbnVFa25VeXdlSWN2aG8zQ3F2VDEtck4zTU9hS0FMLTE2LWFpZnlHVWp4WXpaU2c?oc=5",
-      "source": "Greek Cyprus Watch",
-      "published": "Wed, 11 Nov 2026 09:06:45 GMT",
-      "base_score": 86,
-      "candidate_score": 92,
+      "title": "US-China AI Dialogue: Bessent Says Cooperation Must Coexist With Strategic Competition | Watch - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnR1R3JoWkFIamZTeFRINDFOa0R6RUJUU3B6My0wOVpBS0pxWWNISW1Vc1g0S1NhUWlVcGMzT1JYQTFySXVKVXRlM3NlOHNncGUzUXcwU1BKMUprVG5CSnR1TTA5UFVLSTBicV9XQms5ZzhoWl9rY25jZXo4YkNDTjZIWXZObDVSVnJpYzFDR1B2ZHhIYmc0dE1UeW5Eb1RNUy1IaHBTVkkzOW5Oay1zZjBBS1pncFZ0cjlMTzlUYVZjVjJlRVpMUjhHdHljSmNKT3lpb1JpVDNzZ9IB3wFBVV95cUxQTTNXc3RhYXBVSktOeTlXRU9oc2g2WS1NYk0tNVpCc0VUVDltTzRUVTNjd28yNHo5bFVBajE5RWpmRGh4WkZReS1Cbk1YTkotLXpRTkQ2ZmluUTBVeVZ2dWhRbV9GNURneUZBZ3oyM24wWFZNdklKQUVOb2NBYlJjRThxNkVmMUpROFBXdU1LdG9lcnhYRWVMS3I5Q2ZsbEFBTXhJQzBkSmhKdmhIcWJWRXRvdTVqeVV0cGF3MzlycU1aVkMyTnF0U2FMOU5ON3hnUWhuVGZoLWJOdVA2WGd3?oc=5",
+      "source": "China Strategic Watch",
+      "published": "Thu, 12 Nov 2026 05:59:13 GMT",
+      "base_score": 79,
+      "candidate_score": 94,
       "priority": "High",
       "matched_keywords": [
-        "NAVTEX",
-        "Great Sea Interconnector",
-        "Great Sea Interconnector"
+        "China",
+        "China AI",
+        "strategic competition"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "6f1fc61c5859eaa4fb0df9cf",
-      "mode": "geopolitico",
-      "title": "Mısır, Yunanistan ve GKRY meclis başkanları Güney Kıbrıs'ta buluştu - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1g2VU1pMmRrN25vRkVVTWVJMzBiWldNTVBxelh1MGFqNW0yamNkbTJfRk9zWGpTYnl0M3pjbGJOeGJvNmEyYklJYzJiMmNUcmVCb2tma3AyTHZnR25KdHh1YmpXcmJONW50UnlvN3FPc3laTnROZUxFSFRmZ0ptUFhQdXhRUG90WGwzRXVNbFFtWWdSdGN2STZodklqS294NDI2Z3Z2NE9rT0xVamZweHhR0gGuAUFVX3lxTE5hZ2tVVTNZcVdwNDR4SmMzTkFXTTJKaU9hOC1Pc2FCWC1DSEU1ZFlPNWM2WmRoOHh5X0xkTkRPNm5NMnAteGV1UUk1UkV1aWdONmozTmxSZ2JtR0JrbjVSeFJ5M2ZXOURjeWlmLWJXSUV0eTNJWHpoX0l6a205dWlpQS1jSlpWR0U2SnZiUFBUR3dRTnlRWkFmY2ptWWNEQ1Y3WlRpQmxhVzBRT3Rodw?oc=5",
-      "source": "Yeni Akit Greece Watch",
-      "published": "Wed, 11 Nov 2026 21:07:30 GMT",
-      "base_score": 81,
-      "candidate_score": 91,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "Güney Kıbrıs"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "24386c41817bfe61682e6e37",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Özgür Özel neden bu iddiaların odağında yer alıyor | Abdulkadir SELVİ Köşe Yazısı - Hürriyet",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHlENlJhNUpTcVNYVXVkQjlOaGpKd3U5Wm5WLTFVYmJsdFhCYVRfWTA2NFJScWdoNlgtZFYyZWFFV3J3M0FRdnFYS2Zqa1lUTkVUR0Jrd0FILTgtcFFLRG92ZHNwekxwSkpiaGFXRXppLWhNWU9FVWd3YlBBbjFoSzRKOUk1bm1wSmtzRjU0SHUxb050RUtFU2Z1UVcxMjEyOExPdC1PMC00eWpoVEZWTnhtOA?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Thu, 12 Nov 2026 00:05:24 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "4cb3bf5e08dd459792287152",
+      "external_id": "63638ce666d7d60a85129f53",
       "mode": "pontos_voice",
-      "title": "Στην 1η συνάντηση Χορωδιών του Σωματείου \"Παναγία Σουμελά\" συμμετείχε η Μικτή Χορωδία της ΚΕΠΑ Δ. Βέροιας - InVeria.gr",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KSTlYU1UxSzRIR0VabGpWcXhkNFhqdExZWlBDTV9hSXBKYXBwZEhkLXZ5OXo2dl9oMjNQX0RZeVBTMkcwQTRuclhPb0JRTjhtYmw1YUZ0ODJJVlRpa3ZSN0lmWQ?oc=5",
+      "title": "Εκδρομή στην Παναγία Σουμελά με τις Κόρες Πιερίων - Οδηγός Πιερίας",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0drdUpfSWQwZThpcjd3UERWU05iMG52RWpNZzQzS1BhUGhJTDBhZVRjT0tmMjRPNmFHdVJEaHB6MUkwYnluSHpTelN3UURQdUpad3lvdU1KYWdhVm1VczN6bHdlSjFkTlpsTGpLY01wVHFBUWc0bmJWeVFDZkQwTlhR?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Tue, 10 Nov 2026 18:30:00 GMT",
+      "published": "Thu, 12 Nov 2026 03:22:23 GMT",
+      "base_score": 86,
+      "candidate_score": 96,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Παναγία Σουμελά",
+        "Σουμελά"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "32501a33be657a6cefa829c8",
+      "mode": "pontos_voice",
+      "title": "Θεσσαλονίκη: Στην πρώτη Συνάντηση Χορωδιών του Σωματείου «Παναγία Σουμελά», συμμετείχε η Μικτή Χορωδία της ΚΕΠΑ Δήμου Βέροιας - Faretra.info",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb25HcHoxZTBVYnJZaDJSRkFZRFZPMWhKTnZzU2dHc0hYS3REdDRHZzRoeXltOWYza3R2cDZlNUlUX0k3UmdIcEJTNmF6UmRfbC1xN0FjMW9zRUwzZWlRQ2NkVlhfQnkzOHNHUjZ4NHJ2ZTk3aDlJbHJzVFhhQ0NNMExhZFZNUjl0Y0xYM20yY0lsNnpYYmhkemRuU1ZfQ3NPVEdZTlB3QnVILWFOT3JfX29QWDVfTE5CY2ZqVm9sYmR4bmJCS0xCdTl6M0NOaFhpcXcxdXVQa2RfbE5hbXR2amZZRGdtbmpfN0lQWGNFSQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Tue, 10 Nov 2026 10:55:48 GMT",
       "base_score": 86,
       "candidate_score": 86,
       "priority": "High",
@@ -709,72 +652,55 @@
       "content_type": "news"
     },
     {
-      "external_id": "a93e94c1bd5f3af7bc02518d",
+      "external_id": "51259be640bf45d22d95d00d",
       "mode": "pontos_voice",
-      "title": "Trabzon'da kız öğrenci yurdunda afet tatbikatı! Öğrenciler tahliyeyi uygulamalı öğrendi",
-      "url": "https://www.61saat.com/trabzonda-kiz-ogrenci-yurdunda-afet-tatbikati-ogrenciler-tahliyeyi-uygulamali-ogrendi",
-      "source": "61Saat Trabzon",
-      "published": "Wed, 11 Nov 2026 18:56:00 +0300",
-      "base_score": 67,
-      "candidate_score": 73,
-      "priority": "High",
-      "matched_keywords": [
-        "Trabzon",
-        "Rumlar",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "58074619063f731f7b7ecda1",
-      "mode": "pontos_voice",
-      "title": "Η ποντιακή παράδοση μέσα από τα παιδικά παιχνίδια – Το βιβλίο του Βασίλη Ασβεστά παρουσιάστηκε στη Βέροια - Pliroforiodotis.gr",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHBSTEU4a2VoX3dLRnVFVWlyQ1NnUlhTRXBWblRLVmlmdEk4ajBsQ2F5ZllDdlpHNWhGMXNLN01FRFhGRW14THE0VU82dzRhOGlUVE5MMmNPeVBaYVZGaHdwa3JsYnlCc19pdFUwUHJPUXV3eUEzVXhjaG5pUU9Pa1I5Ynh2aFJuV1RzcWxndDQtRVpocmRqMnBSV2lIMkhpTlNnZUN5WEVTSFBsODdWZkwxRG9GOHhMY296Ymd1RmlSWkJWZVo0aUwyOE40ZWhBb3c?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 11 Nov 2026 21:03:59 GMT",
-      "base_score": 51,
-      "candidate_score": 61,
-      "priority": "Normal",
-      "matched_keywords": [
-        "ποντιακή",
-        "Of",
-        "παράδοση"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "f3a65cfcc6489aa06a1ef223",
-      "mode": "pontos_voice",
-      "title": "Trabzon Milletvekili Adil Karaismailoğlu'dan COP31’de dikkat çeken mesaj - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2tabHFSajdvbUJ6b3JBZEdZVnNobW9iWlFOVzg3N2dxQ3g4T0xOQW5ranZXRkY3bVFodTNzaVQzT3VrclNaYnNVSFdhYmZsaTAyUVlkOWhoR1BERUdKaHpnaVpXMkZkYzhkUXFEMmk0SUxGSjA0U2lNdEdhUDJ4M0l1MkhLdktzRHhvY0djOWEyclFBaXNnU0dtaHJuRUZnV3FjWmo0aXQySEYtX2t1MA?oc=5",
+      "title": "Trabzon’un yeni havalimanı Maçka’da endişe yarattı! Taş ocağı tepkisi - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHdjZjlsNDBjN0pEZFByWHJFM3NtSHRoVTVhTVlsTVhkZnVDSF9yd0Y3MGQtUWw1SUttdnhBdl80VkVqbW9HOEF1MzF3blFVYkxuMDFGdTltZnZ3ejZzcmNSa0JKZXJKdHljbjZwYWprcHJkQWxLQzRIZEpFYjFGRmJLSmtzbEZRUUZWb1k5X2NlZHlaeHlyaU5sT1ZMbWE3MXBrdDZLU2VIODA?oc=5",
       "source": "Haber61 Trabzon",
-      "published": "Wed, 11 Nov 2026 08:18:46 GMT",
-      "base_score": 51,
-      "candidate_score": 57,
+      "published": "Thu, 12 Nov 2026 04:56:05 GMT",
+      "base_score": 59,
+      "candidate_score": 69,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "milletvekili",
+        "Maçka",
+        "tepki",
         "Trabzon",
-        "dil"
+        "vali"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "6b285dac26b54949bf54d346",
+      "external_id": "5f2985e3a83aab922ed80682",
       "mode": "pontos_voice",
-      "title": "Trabzonspor kalesinde duvar ördü, ligin zirvesine çıktı",
-      "url": "https://www.61saat.com/trabzonspor-kalesinde-duvar-ordu-ligin-zirvesine-cikti",
+      "title": "TTSO heyetinden Başkan Kaya’ya ziyaret",
+      "url": "https://www.61saat.com/ttso-heyetinden-baskan-kayaya-ziyaret",
       "source": "61Saat Trabzon",
-      "published": "Wed, 11 Nov 2026 22:25:00 +0300",
-      "base_score": 46,
-      "candidate_score": 56,
+      "published": "Thu, 12 Nov 2026 10:46:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "belediye başkanı",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "6d819fdab9ab3f3a7b5d4f2e",
+      "mode": "pontos_voice",
+      "title": "Bir Trabzonlu yiğit evlat şehit oldu bayrağı bir başka Trabzonlu devraldı!",
+      "url": "https://www.61saat.com/bir-trabzonlu-yigit-evlat-sehit-oldu-bayragi-bir-baska-trabzonlu-devraldi",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 12 Nov 2026 10:35:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "Trabzon",
-        "Karadeniz"
+        "dil"
       ],
       "content_type": "news"
     }
