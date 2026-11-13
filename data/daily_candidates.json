@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T03:00:25.229508+00:00",
+  "generated_at": "2026-11-13T10:52:59.844141+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 5,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 12 Nov 2026 15:30:14 GMT",
         "base_score": 81,
-        "candidate_score": 117,
+        "candidate_score": 114,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -29,14 +29,14 @@
         "needs_second_source": false
       },
       {
-        "external_id": "03d1aff0e9e8fc63425aad46",
+        "external_id": "a4e1c97b3aeecc1a81ff5e17",
         "mode": "sportdog",
         "title": "Panathinaikos strike record stadium rights agreement with Novibet - Sportcal",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTc1a0VXUnpMTTdLLUFfVFhTN2pnZzI3Um9Qc2lwTXN2S3ZHc2VJdmdoSG5jZTU2SFJmdGNwbVNpc2JLMUhLT1d5Wk1USFVjVXJMRG42N2Zveklab0ZLQ0g2ZWIyM056aTNsWllOVVo5YmUxWGNvZVBHX0FFWG9hV20ybHFSRktWdkh3TWRBZThhUXNPN0xjSENPVGI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHJtWEVCb2xKN2ZsVDg4YU41Y3YyTkVtckpfd2dpLUh1ekw5MG1UY3lXOUZRZkZ2TnlyOGtsTHJaRk1ES0pZdDZsYlI5ZUQzRWRDM1doN2wtR25nX0dmWUNWUkJoQ2hCR0hsbnBkYzhRcFNBdUQ1U19GeGdZSEpiTnN1blZ2dWdTejY0SVc1Zl80Zmo3U2o3c2w3LTNNb21Qd1JQZ2FB?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Thu, 12 Nov 2026 16:10:28 GMT",
+        "published": "Fri, 13 Nov 2026 09:21:41 GMT",
         "base_score": 56,
-        "candidate_score": 82,
+        "candidate_score": 91,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -45,8 +45,8 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
+        "readiness": "READY",
+        "needs_second_source": false
       },
       {
         "external_id": "4bf7ce41b9ea7a5bddf536cb",
@@ -56,7 +56,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 12 Nov 2026 19:24:56 GMT",
         "base_score": 50,
-        "candidate_score": 68,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -69,64 +69,83 @@
         "needs_second_source": true
       },
       {
-        "external_id": "86f5364d495cd1a24344cf83",
+        "external_id": "5cb71225f86a6bebef254e33",
         "mode": "sportdog",
-        "title": "Sasha Vezenkov makes EuroLeague history with Olympiacos, breaks Spanoulis' record - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTFoOUlSY05sRGphUW1zekJ1cW9XYkhvb3V4cy1YOW12Mng5cGk5YU0wNzdMMVpKenNzZnBXTExmcUF3M0NIdGVjeFVnanVXRlpERHRvSnFOTzk1bF9qV0kzMHRvcnlmTXhoQk1WelB6dWd4Vzd3TmYtLTFydkgyX1AyOTB2UmlLaTRlMy1SQXdBR0ZaWHU3VzRTUUJVU1hOcmdFY3pxNkdQRlVB?oc=5",
+        "title": "Marseille Show Interest in Olympiacos’ Argentine Midfielder - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFJlcXl3R2VnSHNQZEROZS1GU0FSeVZQWWVEMC1UaTZNbkFmNnp0VUp0TVBLaVNURVQ0N2dlNGdiaXZoX1ZMeWlBdDZHbUwyRE9YQTZoOGx4UmY5MVJBN3FXNlhKWFotNm5MTlU3X3k3cy0xbkVPMkwtVXNfTVVndEJGeHByZF9yay1scFlaeWFaSkM5ZnprbEhUMUxVeDJXV0ZMaWlZRHlJb2tYUW95aWRYQjVOQQ?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 12 Nov 2026 19:40:00 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
+        "published": "Fri, 13 Nov 2026 08:32:38 GMT",
+        "base_score": 39,
+        "candidate_score": 62,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos"
+          "Olympiacos",
+          "midfielder"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "WATCH",
+        "readiness": "VERIFY",
         "needs_second_source": true
       },
       {
-        "external_id": "66f7c27a67c90819740c61af",
+        "external_id": "80841a8b2cf8c5f5b64daa9a",
         "mode": "sportdog",
-        "title": "Who gets the whistle in the EuroLeague? Olympiacos lead, Besiktas rank last - basketballsphere.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGNJM2R4aHJxMmxhSFFMaVItaHZnc2x3OUtLeE4yUkN0Nk5WaUl2UE4wbVBqMVlfTjZKYUFuUVNCSHBCOUVmbnE5Qm1CaXdTOTZUMWpyMFZnM01CZk1KTDVHYWxXWmRTUnlEdk5wRkdFN29RMXpnUlF0d0R4LVhTUWZkZTVuNTQ?oc=5",
+        "title": "Argentine Midfielder to Leave Olympiacos: River Plate Show Interest - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVHphVm9CV0diYlg3TXdKWGxHSzVBQVJlWWVoNUJGTU9XUVFHQTFiamxNSlJ2WFg3emcyUXJiaDVRQXBhVDFjSGZRb21aM1MzUlIyZUdWN3BGekpuN2dJQ3E2Z1dKWjhscXhzd3hGUkEwWkdnMnZiU2hqbzNjdFpXMjdXZzdqTGRmajVWeGhhN01IS1J2SnkzcmhlWVQ2LS1QbHhxeWo2Z2pTdTJGeWs4M2FMRDVWaGMtTG9MeG15MzI?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 12 Nov 2026 16:31:16 GMT",
-        "base_score": 31,
-        "candidate_score": 45,
+        "published": "Fri, 13 Nov 2026 07:08:18 GMT",
+        "base_score": 39,
+        "candidate_score": 57,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos"
+          "Olympiacos",
+          "midfielder"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "1bb6569ad2c5c0e0da2d8654",
-        "mode": "sportdog",
-        "title": "Panathinaikos Scores Historic European Water Polo Triumph - Greek City Times",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2JpbFlIZzBRbnhYRGJGQ21jWTBIRFJFY3ZQSFhCeFhNNEVkc2k5dGJrY040R2RnZFlVa3o1czBIYlNORm5aRE1ETUZxWHFGNVpUYWJLcmVkM3otb1JpclBickZpMVo1a0xucEhYT2ZlYms4aFZwNTBIcDhPVXZnWUR0bHJDUVk5NGh3SzAtOW5LbUFieXl5TC1NRlk?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 11 Nov 2026 21:13:40 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "ec23fbcf3a029b32ba79bb1d",
+        "mode": "geopolitico",
+        "title": "Pakistani Army says 74 terrorists killed in operations across Balochistan, Khyber Pakhtunkhwa - Telegraph India",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVW1mLV9ZUDFDQWJ4Wmw3ZW54b203Z1Q3b0lxOHE5VS1SX0NqOE9tUGJlMXJLNHFFaHdPd3hxX2VMRjRGbUliUW5NbHVabXdNSm1iWXZOZmJqRXpNMFRuMFRRWTBGMzhheVU0Vm9aUnRiN0VUNGItVFZpQ2lmVzNpb0xBb01iaUxZMlhrdHNwa2E5ejRXblhnVkN1a1hiTFFnUGd6T25TNGpvaU9JRjBJdXExUXZWSzhjNml0M25IVGp4elJrclF4dVhrcGVnWE5ZZUx6WWhoc1HSAd4BQVVfeXFMTmZxX05ybkR1anp4b1NrdDJJN0ZEell2UzVuVWVtMk0zTjZ0OEZXcXQyZzRCNjZSTXlTYXJ0S3g5SFluRXFkUk55Tkl6NVgwMlRjUmJrXzlQQVl3d3hrNE9jYzFhQ1ZzYXhMQkpiN000emU2MU43bmg0aUFvN3BGeDYtb2JLWkx4SmVzV2dXd3M3b0pVRHFnQzFEbmxDd2FodW5HZXZlU0tBQU0tMkU3TnByYmFoYUQtMW16Ml8tMUFKYnBtcGx6MDV5QU9HYjg0UUl5YUVaMnB0TXdIcW5R?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Fri, 13 Nov 2026 09:38:46 GMT",
+        "base_score": 94,
+        "candidate_score": 109,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Pakistani",
+          "Balochistan"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "ea0777536b5fd2cc8c7de99d",
+        "mode": "geopolitico",
+        "title": "GSI’de yeni gelişme: Türk fırkateyninden Fransız araştırma gemisine telsiz uyarısı - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnNteFdvVnJqN1g0SmJFYjl5ZlBjQ2MtWFk3UDRpTE83Zm5IdG5xamFyUFNORmxHYVREcS1KbHRHR2RkTmNucjBEZGJMNkhHUUdack9JYmhlRDA1aHhqeTFoTjZ1dWYtNC1haUNRSUNWMEszOHlyWTRpYm5xbVl3RWpLWFB3R0dWa2dqeHBsS2M5dHJ0bGFpZ0JpQkNMOW0yWnhVTEV5Qk4?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 12 Nov 2026 14:43:56 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "GSI",
+          "Kıbrıs",
+          "araştırma gemisi",
+          "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "90e840af6afded39e59c22a5",
         "mode": "geopolitico",
@@ -135,7 +154,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 12 Nov 2026 12:10:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -152,7 +171,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Thu, 12 Nov 2026 11:08:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Kibris",
@@ -173,7 +192,7 @@
         "source": "Turkish Greek Relations Deep Watch",
         "published": "Thu, 12 Nov 2026 10:05:53 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "NAVTEX",
@@ -188,10 +207,10 @@
         "mode": "geopolitico",
         "title": "Güney Kıbrıs, Yunanistan ve Mısır’dan Doğu Akdeniz’de iş birliğini güçlendirme kararı - Haber Kıbrıs",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWdwYnN4dnlzSGQweGt0bGNBUHM3LUs0QjJJMG9aTzB5cUtSY1Y3dU5IZnpJbVhqN2dFbndweHloZ2lKOEltN094cTlvTWpKU2RVMjJXc3NPcWwyZmdRY01KN0QyTXQza3hsZTFYMk4teG1qNUJfNXp6MGliWnFlWS1OSUVwVTBtVzcxcE1EZzVpTXBWRUh1b3E1MU8yU0VWS1B1bmh5LU5mV21nb1JmOVpGc25VMUZJcDZWYkFzOVh1S0tSbEE?oc=5",
-        "source": "Turkey Greece Breaking Watch",
+        "source": "Eastern Mediterranean Turkey Watch",
         "published": "Thu, 12 Nov 2026 09:38:15 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -202,74 +221,40 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "6737fa4d816f4d6258dd459d",
+        "external_id": "f4850c340c967827a7daff10",
         "mode": "geopolitico",
-        "title": "BLA claims 18 killed in suicide vehicle attack on Pakistan Army camp in Balochistan - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSTBmZzlISVVQOTlPUUVnaG45VEhhZk5XOXNRalFGaW1ydHkxam5nMExXc3JJUzZnUjF5TXpDRjduSk5PR2ViRDVQdVdSd2tnMHA4Y2ZiVndoUEVuYUlSZldFSlRwMHFPLXl0SzliYWhzSEo4cndSTjBoSGVuSEd1RW53eDY0blNZdXB1SE81WGR3UzU5YUR6cUJfUDNIdDZOaFItX0hCaFV2TkhpT2RHemNWSVhOTHg2MXp2Z2ZYVHlENy1ocEJlNFdmQzJtTVE2UUI3dWpYdnlCdDhlS2xGaDJkQXVTQ3NoZXZhcWRLb0FwZ9IB9wFBVV95cUxOM28tMjZvTG1fb3hQUVByMjFuWlZiSnV5TmFHQ3kyM3JlUkY4NV9LS2xSXzZQWng3aXF0UjQ1bnR6RDJPTzFPakNMM0xLTTZxNE9rOWR1ZTlfNGJ6bzZOa2xyR1Y1N1V2SlRuZGZydng4cnF1UDVQdzBjZHpxbzBjOGx4WURKUDVTcXhyeU15YldRNlVtTi1WajVvYW5NMGVRcVBWY2FFMURTclk1eFFzdTNVZ25ESGV5azF2TlJQWHFqclVLWnlNNERMemJYV2JFWTNEYUFlWG1hYUZ2N3YwVm1XaEhfSUI0VkhyenVsVGJFVkphUWlV?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Thu, 12 Nov 2026 13:17:00 GMT",
-        "base_score": 99,
-        "candidate_score": 105,
+        "title": "» Yunanistan-Kıbrıs elektrik hattına Ankara’dan ‘izin’: Fransız gemisi yola çıktı - 10Haber",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXpkdVBJckpVYzY4RGtDS3dGcHZkMG9WVmpSb1d0cE9ROWIxLTBBTVp3RjdzSEFBMGNVVHZMVC1kTWcxdUhfUTRPTGFmVTJHa1JzSE1TWElUZDZ3bVpOb2ltM2xXVGpoQnF6bTlzMy14QXFKMlFGLVdkNm4xelhKMFQ1MTIyMklSWVRSTTBwOEd5eE1jV3dXMDB5al9xTnNnWFpxRXhDTU03UFhLR3c?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Thu, 12 Nov 2026 08:01:00 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Pakistan Army",
-          "Balochistan"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "82704b81af92822657db242f",
-        "mode": "geopolitico",
-        "title": "Pakistani forces, alleged state-backed death squad accused of assaulting women, burning houses in Balochistan’s Nushki - ANI News",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcmdJSkV3MGRVZU9La2tHaDd6M0hZWVFjMGlRd1NOdURKN1M5WHozU3JfVVdkVDBxbVR1Q25Bcy1LM2FEdGpaSWwtRElXa0tKZGNLRDlnWjFSSzRQTUxudllQWWpHVnpsdmJiVmVBMXBXeXZwLVNhNFp2VDBZRnFGbjZUSnZvUXIzVG95eGRzenpmTXRLT3dPN2JYb1VReFlIVnFOVk1LdWl5UnR4RW9CM2JQcE9XZjV5TFRmelhLTG85cXU4dHFHZFlWTWNLbXgzSXNndnRSRVZWb3FvQ2FfNHBCNmhtaUtyTFNVdU9LSEM3SURkZURCYkljQjA2Z3ZXcGc?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Thu, 12 Nov 2026 08:49:00 GMT",
-        "base_score": 94,
-        "candidate_score": 97,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pakistan",
-          "Pakistani",
-          "Ege",
-          "Balochistan"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "d127f5670c999e3e76c1ee53",
-        "mode": "geopolitico",
-        "title": "U.S., and Israel hit back at Turkey over Libya deal as Egypt, EU and Greece reject it, but Cairo joins Ankara to do the unexpected - Business Insider Africa",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmZ3SmNLTFJKWFFBd1FpajhUU2NISk5GVXJLYm5vOVVWUUdBZzZ2NEJub1FsMkUxSzlpSHFjSkNaUUhmc0gwMDduMjdXZm9HUjFOeWR0OEZDelBKc2FTemt1WlBtT3R4YXl0V0hyRjQyNll4YTJPNXVrSllGWmdYdVNXbHpkTXBEMDBoWTZFdnQ3RVVIcXUxV1hTdTRIUHRXRWJMUnQ5YXh6S1UzY3p4bVlna0NIaHlZb2FlSDVRemdadnlNNEJYcWZYOUtma3lHU1NBVTJ3?oc=5",
-        "source": "Cyprus Eastern Mediterranean Watch",
-        "published": "Thu, 12 Nov 2026 20:12:10 GMT",
-        "base_score": 80,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Greece",
-          "Israel",
-          "Turkey",
+          "Yunanistan",
+          "Kıbrıs",
+          "elektrik hattı",
           "Ankara"
         ],
-        "content_type": "news"
+        "content_type": "turkey_greece"
       },
       {
-        "external_id": "eec3665d26b99605f032cdc8",
+        "external_id": "5c5159a13282937718e63c58",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı 'gol yediler' diyerek açıkladı: Türkiye gemiyi hareket ettirmedi - Yeni Akit Gazetesi",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0w4RlIwQ2oyMGROU2UwREZERlpDZEtMRzQ1RUVIdXhlSVB1OXI4S3NhTUc5SWxnRWRNMU8yR0ozd3ZhTUlxTmJZanExU3dyd25qQjl4WnVzZ2xyak9MRGhnd09CeVhrbHlnQ1ZxMTRKOEdzZnFoWWNvbGt1SDc3UFo2SHBxRkFqX2dUMU83MW1KVTh1Z1BaWmpSN2VDSE9DVG4zeEVJTmZCOG5ET0NKemNwV0tjblNOajRFYdIBvwFBVV95cUxOU3EwWVI5ZjNFbmlJbWxpSGZramxxU0h3dGllenMzMTZZcVdmVU5NN3pGSWtjM1I2SGFtZGtaR2t0TWMyYk14enVidDk0bFV0ZDNjQ2o3NlB4NWRJWkhUZndVTFVvdDBXRllFamIxa0dqNUVtTWpxQXdRdEpzOWFPZzR6aWt6Tk9iT1NucnJGc3JCUjdaVVN4emVya3IzQkxhc0tCUmY5QWdMa0VVdFg3dFduMndfZlNKZ0JjQ2MtRQ?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Thu, 12 Nov 2026 20:59:59 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
+        "title": "Doğu Akdeniz'de Fransa ile Türkiye anlaştı, Yunanistan'da siyasi kriz çıktı - Haber Hürriyeti",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVA3bjRMQVl5SzRvOW9IcXBoSEd0TF91R0FsdUptY1NmTkZiclpXYndadnF0a2J3aHVEaHNfN19kZFQ1T2NfUk9aeFNNeHBpSHUxTTVRcXRGVGpYczBYbkk2YkFmTzVpRU1jTGdhd0JXb1NBSV9KWTRWTXBjaHMtMW5pWkxSRGdOdlo0WmpkbkhHNDNZVmJ1Y0M3bll6N3Q0VXQwLWNHcEx6YW5qTlVqOEs4YlVRd2stOHfSAb8BQVVfeXFMTkJxRVFrcFl2SmIxbmNVVGtycXJPbWNtbmlQanNhNTRqNWp3WVd6UEJtMlRMeGd0VWE4YjlwdFhDQWFUY0RzRS1BTmdLeThFNDNNWnJlTGdDeXRzOW11b0ZtRHc4Vk0xSG5DUVVqT3dxb1lBM3VzaW9Cc3F0eVFVUXFrQTg3WWZZMVUwWms0WHBycmNSZF9ZMUN2Q2gwVmYwSXVtUGdhTkxUTWlhV0dnZTZiaTZIaHFOTzktNW1hZmM?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Thu, 12 Nov 2026 06:28:00 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
         "matched_keywords": [
-          "Cihat Yaycı",
-          "Cihat Yaycı"
+          "Yunanistan",
+          "Doğu Akdeniz",
+          "Fransa",
+          "kriz"
         ],
-        "content_type": "analyst"
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -281,7 +266,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Thu, 12 Nov 2026 09:09:53 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -298,7 +283,7 @@
         "source": "Pontos News Watch",
         "published": "Thu, 12 Nov 2026 19:34:53 GMT",
         "base_score": 78,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -307,74 +292,75 @@
         "content_type": "news"
       },
       {
-        "external_id": "4656d0984354c788823194f2",
+        "external_id": "e0dd30909bc282a98afa4fff",
         "mode": "pontos_voice",
-        "title": "Tonya Belediye Başkanı Osman Beşel’den olaylı maç sonrası 61saat’e sert açıklama! Asabım bozuldu",
-        "url": "https://www.61saat.com/tonya-belediye-baskani-osman-beselden-olayli-mac-sonrasi-61saate-sert-aciklama-asabim-bozuldu",
+        "title": "Çukurçayır Muhtarı Hüseyin Erkut’tan olay sonrası ilk açıklama: “Bu olay bilinçli yapıldı”",
+        "url": "https://www.61saat.com/cukurcayir-muhtari-huseyin-erkuttan-olay-sonrasi-ilk-aciklama-bu-olay-bilincli-yapildi",
         "source": "61Saat Trabzon",
-        "published": "Thu, 12 Nov 2026 22:36:00 +0300",
-        "base_score": 59,
-        "candidate_score": 69,
-        "priority": "Normal",
+        "published": "Fri, 13 Nov 2026 12:17:00 +0300",
+        "base_score": 68,
+        "candidate_score": 83,
+        "priority": "High",
         "matched_keywords": [
           "Trabzon",
-          "Tonya",
           "belediye başkanı",
           "açıklama",
+          "tepki",
+          "tartışma",
           "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "6aa7a64fc1361a40362af2cd",
+        "external_id": "4a383abd854ed60c1e2ad012",
         "mode": "pontos_voice",
-        "title": "TRABZON BÜYÜKŞEHİR BELEDİYE BAŞKANLIĞI OF İLÇESİ KAPALI OTOPARK VE PAZARYERİ YAPIMI İHALESİ",
-        "url": "https://www.61saat.com/trabzon-buyuksehir-belediye-baskanligi-of-ilcesi-kapali-otopark-ve-pazaryeri-yapimi-ihalesi",
+        "title": "Trabzon’da 50 yıllık okul binasına dikkat çeken ziyaret! Eğlenceli anlar",
+        "url": "https://www.61saat.com/trabzonda-50-yillik-okul-binasina-dikkat-ceken-ziyaret-eglenceli-anlar",
         "source": "61Saat Trabzon",
-        "published": "Fri, 13 Nov 2026 00:00:00 +0300",
+        "published": "Fri, 13 Nov 2026 11:44:00 +0300",
         "base_score": 51,
-        "candidate_score": 61,
+        "candidate_score": 66,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "dil",
+          "vali"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "659c24f9920afeb966af37d8",
+        "mode": "pontos_voice",
+        "title": "TTSO'dan KTÜ Rektörü Çuvalcı'ya ziyaret",
+        "url": "https://www.61saat.com/ttsodan-ktu-rektoru-cuvalciya-ziyaret",
+        "source": "61Saat Trabzon",
+        "published": "Fri, 13 Nov 2026 09:51:00 +0300",
+        "base_score": 53,
+        "candidate_score": 63,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "Of",
           "Trabzon",
-          "dil"
+          "Karadeniz"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "d58eb39df3a78f819643726c",
+        "external_id": "3c90995ceaaf2125350063db",
         "mode": "pontos_voice",
-        "title": "Trabzon'da olaylı maçın ardından Tonyaspor'dan açıklama!",
-        "url": "https://www.61saat.com/trabzonda-olayli-macin-ardindan-tonyaspordan-aciklama",
-        "source": "61Saat Trabzon",
-        "published": "Thu, 12 Nov 2026 21:27:00 +0300",
-        "base_score": 49,
-        "candidate_score": 55,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Tonya",
-          "açıklama",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "58074619063f731f7b7ecda1",
-        "mode": "pontos_voice",
-        "title": "Η ποντιακή παράδοση μέσα από τα παιδικά παιχνίδια – Το βιβλίο του Βασίλη Ασβεστά παρουσιάστηκε στη Βέροια - Pliroforiodotis.gr",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHBSTEU4a2VoX3dLRnVFVWlyQ1NnUlhTRXBWblRLVmlmdEk4ajBsQ2F5ZllDdlpHNWhGMXNLN01FRFhGRW14THE0VU82dzRhOGlUVE5MMmNPeVBaYVZGaHdwa3JsYnlCc19pdFUwUHJPUXV3eUEzVXhjaG5pUU9Pa1I5Ynh2aFJuV1RzcWxndDQtRVpocmRqMnBSV2lIMkhpTlNnZUN5WEVTSFBsODdWZkwxRG9GOHhMY296Ymd1RmlSWkJWZVo0aUwyOE40ZWhBb3c?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 11 Nov 2026 21:03:59 GMT",
-        "base_score": 51,
+        "title": "Trabzonspor'un transfer gündemindeki isim için İsveç'ten yanıt! - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQklna2xaN1BjTnZ3SjFWNnFpdjlYendqckhhblZMalYyRzZqbHFZSUF3NGMtQ3Z5bi03cnJZU2VMcnQ4bE5WbDJNOFdhWFl4TWZJRHFhWWZCN3JzbzlZa3JGQ2IxUXZLbUJpQ015Z0ZaTWp0UjVFSXJEaDJhZ0ZlNmpreGtNWEhlOVNwTjdiQzRvMkw1Y3FQelpMa3NFNkJpZEZKMnc2QkQ?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Fri, 13 Nov 2026 07:22:25 GMT",
+        "base_score": 44,
         "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
-          "ποντιακή",
-          "Of",
-          "παράδοση"
+          "Trabzon",
+          "anıt",
+          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -389,7 +375,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 12 Nov 2026 15:30:14 GMT",
       "base_score": 81,
-      "candidate_score": 117,
+      "candidate_score": 114,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -403,14 +389,14 @@
       "needs_second_source": false
     },
     {
-      "external_id": "03d1aff0e9e8fc63425aad46",
+      "external_id": "a4e1c97b3aeecc1a81ff5e17",
       "mode": "sportdog",
       "title": "Panathinaikos strike record stadium rights agreement with Novibet - Sportcal",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTc1a0VXUnpMTTdLLUFfVFhTN2pnZzI3Um9Qc2lwTXN2S3ZHc2VJdmdoSG5jZTU2SFJmdGNwbVNpc2JLMUhLT1d5Wk1USFVjVXJMRG42N2Zveklab0ZLQ0g2ZWIyM056aTNsWllOVVo5YmUxWGNvZVBHX0FFWG9hV20ybHFSRktWdkh3TWRBZThhUXNPN0xjSENPVGI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHJtWEVCb2xKN2ZsVDg4YU41Y3YyTkVtckpfd2dpLUh1ekw5MG1UY3lXOUZRZkZ2TnlyOGtsTHJaRk1ES0pZdDZsYlI5ZUQzRWRDM1doN2wtR25nX0dmWUNWUkJoQ2hCR0hsbnBkYzhRcFNBdUQ1U19GeGdZSEpiTnN1blZ2dWdTejY0SVc1Zl80Zmo3U2o3c2w3LTNNb21Qd1JQZ2FB?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Thu, 12 Nov 2026 16:10:28 GMT",
+      "published": "Fri, 13 Nov 2026 09:21:41 GMT",
       "base_score": 56,
-      "candidate_score": 82,
+      "candidate_score": 91,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -419,8 +405,8 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
+      "readiness": "READY",
+      "needs_second_source": false
     },
     {
       "external_id": "4bf7ce41b9ea7a5bddf536cb",
@@ -430,7 +416,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 12 Nov 2026 19:24:56 GMT",
       "base_score": 50,
-      "candidate_score": 68,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -443,17 +429,38 @@
       "needs_second_source": true
     },
     {
-      "external_id": "86f5364d495cd1a24344cf83",
+      "external_id": "5cb71225f86a6bebef254e33",
       "mode": "sportdog",
-      "title": "Sasha Vezenkov makes EuroLeague history with Olympiacos, breaks Spanoulis' record - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTFoOUlSY05sRGphUW1zekJ1cW9XYkhvb3V4cy1YOW12Mng5cGk5YU0wNzdMMVpKenNzZnBXTExmcUF3M0NIdGVjeFVnanVXRlpERHRvSnFOTzk1bF9qV0kzMHRvcnlmTXhoQk1WelB6dWd4Vzd3TmYtLTFydkgyX1AyOTB2UmlLaTRlMy1SQXdBR0ZaWHU3VzRTUUJVU1hOcmdFY3pxNkdQRlVB?oc=5",
+      "title": "Marseille Show Interest in Olympiacos’ Argentine Midfielder - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFJlcXl3R2VnSHNQZEROZS1GU0FSeVZQWWVEMC1UaTZNbkFmNnp0VUp0TVBLaVNURVQ0N2dlNGdiaXZoX1ZMeWlBdDZHbUwyRE9YQTZoOGx4UmY5MVJBN3FXNlhKWFotNm5MTlU3X3k3cy0xbkVPMkwtVXNfTVVndEJGeHByZF9yay1scFlaeWFaSkM5ZnprbEhUMUxVeDJXV0ZMaWlZRHlJb2tYUW95aWRYQjVOQQ?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 12 Nov 2026 19:40:00 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
+      "published": "Fri, 13 Nov 2026 08:32:38 GMT",
+      "base_score": 39,
+      "candidate_score": 62,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos"
+        "Olympiacos",
+        "midfielder"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "80841a8b2cf8c5f5b64daa9a",
+      "mode": "sportdog",
+      "title": "Argentine Midfielder to Leave Olympiacos: River Plate Show Interest - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVHphVm9CV0diYlg3TXdKWGxHSzVBQVJlWWVoNUJGTU9XUVFHQTFiamxNSlJ2WFg3emcyUXJiaDVRQXBhVDFjSGZRb21aM1MzUlIyZUdWN3BGekpuN2dJQ3E2Z1dKWjhscXhzd3hGUkEwWkdnMnZiU2hqbzNjdFpXMjdXZzdqTGRmajVWeGhhN01IS1J2SnkzcmhlWVQ2LS1QbHhxeWo2Z2pTdTJGeWs4M2FMRDVWaGMtTG9MeG15MzI?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 13 Nov 2026 07:08:18 GMT",
+      "base_score": 39,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "midfielder"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -462,42 +469,40 @@
       "needs_second_source": true
     },
     {
-      "external_id": "66f7c27a67c90819740c61af",
-      "mode": "sportdog",
-      "title": "Who gets the whistle in the EuroLeague? Olympiacos lead, Besiktas rank last - basketballsphere.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGNJM2R4aHJxMmxhSFFMaVItaHZnc2x3OUtLeE4yUkN0Nk5WaUl2UE4wbVBqMVlfTjZKYUFuUVNCSHBCOUVmbnE5Qm1CaXdTOTZUMWpyMFZnM01CZk1KTDVHYWxXWmRTUnlEdk5wRkdFN29RMXpnUlF0d0R4LVhTUWZkZTVuNTQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 12 Nov 2026 16:31:16 GMT",
-      "base_score": 31,
-      "candidate_score": 45,
-      "priority": "Normal",
+      "external_id": "ec23fbcf3a029b32ba79bb1d",
+      "mode": "geopolitico",
+      "title": "Pakistani Army says 74 terrorists killed in operations across Balochistan, Khyber Pakhtunkhwa - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVW1mLV9ZUDFDQWJ4Wmw3ZW54b203Z1Q3b0lxOHE5VS1SX0NqOE9tUGJlMXJLNHFFaHdPd3hxX2VMRjRGbUliUW5NbHVabXdNSm1iWXZOZmJqRXpNMFRuMFRRWTBGMzhheVU0Vm9aUnRiN0VUNGItVFZpQ2lmVzNpb0xBb01iaUxZMlhrdHNwa2E5ejRXblhnVkN1a1hiTFFnUGd6T25TNGpvaU9JRjBJdXExUXZWSzhjNml0M25IVGp4elJrclF4dVhrcGVnWE5ZZUx6WWhoc1HSAd4BQVVfeXFMTmZxX05ybkR1anp4b1NrdDJJN0ZEell2UzVuVWVtMk0zTjZ0OEZXcXQyZzRCNjZSTXlTYXJ0S3g5SFluRXFkUk55Tkl6NVgwMlRjUmJrXzlQQVl3d3hrNE9jYzFhQ1ZzYXhMQkpiN000emU2MU43bmg0aUFvN3BGeDYtb2JLWkx4SmVzV2dXd3M3b0pVRHFnQzFEbmxDd2FodW5HZXZlU0tBQU0tMkU3TnByYmFoYUQtMW16Ml8tMUFKYnBtcGx6MDV5QU9HYjg0UUl5YUVaMnB0TXdIcW5R?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Fri, 13 Nov 2026 09:38:46 GMT",
+      "base_score": 94,
+      "candidate_score": 109,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Olympiacos"
+        "India",
+        "Pakistan",
+        "Pakistani",
+        "Balochistan"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "news"
     },
     {
-      "external_id": "1bb6569ad2c5c0e0da2d8654",
-      "mode": "sportdog",
-      "title": "Panathinaikos Scores Historic European Water Polo Triumph - Greek City Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2JpbFlIZzBRbnhYRGJGQ21jWTBIRFJFY3ZQSFhCeFhNNEVkc2k5dGJrY040R2RnZFlVa3o1czBIYlNORm5aRE1ETUZxWHFGNVpUYWJLcmVkM3otb1JpclBickZpMVo1a0xucEhYT2ZlYms4aFZwNTBIcDhPVXZnWUR0bHJDUVk5NGh3SzAtOW5LbUFieXl5TC1NRlk?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 11 Nov 2026 21:13:40 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
+      "external_id": "ea0777536b5fd2cc8c7de99d",
+      "mode": "geopolitico",
+      "title": "GSI’de yeni gelişme: Türk fırkateyninden Fransız araştırma gemisine telsiz uyarısı - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnNteFdvVnJqN1g0SmJFYjl5ZlBjQ2MtWFk3UDRpTE83Zm5IdG5xamFyUFNORmxHYVREcS1KbHRHR2RkTmNucjBEZGJMNkhHUUdack9JYmhlRDA1aHhqeTFoTjZ1dWYtNC1haUNRSUNWMEszOHlyWTRpYm5xbVl3RWpLWFB3R0dWa2dqeHBsS2M5dHJ0bGFpZ0JpQkNMOW0yWnhVTEV5Qk4?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 12 Nov 2026 14:43:56 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Panathinaikos"
+        "GSI",
+        "Kıbrıs",
+        "araştırma gemisi",
+        "GSI"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "90e840af6afded39e59c22a5",
@@ -507,7 +512,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 12 Nov 2026 12:10:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -524,7 +529,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Thu, 12 Nov 2026 11:08:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Kibris",
@@ -545,7 +550,7 @@
       "source": "Turkish Greek Relations Deep Watch",
       "published": "Thu, 12 Nov 2026 10:05:53 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "NAVTEX",
@@ -560,10 +565,10 @@
       "mode": "geopolitico",
       "title": "Güney Kıbrıs, Yunanistan ve Mısır’dan Doğu Akdeniz’de iş birliğini güçlendirme kararı - Haber Kıbrıs",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWdwYnN4dnlzSGQweGt0bGNBUHM3LUs0QjJJMG9aTzB5cUtSY1Y3dU5IZnpJbVhqN2dFbndweHloZ2lKOEltN094cTlvTWpKU2RVMjJXc3NPcWwyZmdRY01KN0QyTXQza3hsZTFYMk4teG1qNUJfNXp6MGliWnFlWS1OSUVwVTBtVzcxcE1EZzVpTXBWRUh1b3E1MU8yU0VWS1B1bmh5LU5mV21nb1JmOVpGc25VMUZJcDZWYkFzOVh1S0tSbEE?oc=5",
-      "source": "Turkey Greece Breaking Watch",
+      "source": "Eastern Mediterranean Turkey Watch",
       "published": "Thu, 12 Nov 2026 09:38:15 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -574,74 +579,40 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "6737fa4d816f4d6258dd459d",
+      "external_id": "f4850c340c967827a7daff10",
       "mode": "geopolitico",
-      "title": "BLA claims 18 killed in suicide vehicle attack on Pakistan Army camp in Balochistan - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSTBmZzlISVVQOTlPUUVnaG45VEhhZk5XOXNRalFGaW1ydHkxam5nMExXc3JJUzZnUjF5TXpDRjduSk5PR2ViRDVQdVdSd2tnMHA4Y2ZiVndoUEVuYUlSZldFSlRwMHFPLXl0SzliYWhzSEo4cndSTjBoSGVuSEd1RW53eDY0blNZdXB1SE81WGR3UzU5YUR6cUJfUDNIdDZOaFItX0hCaFV2TkhpT2RHemNWSVhOTHg2MXp2Z2ZYVHlENy1ocEJlNFdmQzJtTVE2UUI3dWpYdnlCdDhlS2xGaDJkQXVTQ3NoZXZhcWRLb0FwZ9IB9wFBVV95cUxOM28tMjZvTG1fb3hQUVByMjFuWlZiSnV5TmFHQ3kyM3JlUkY4NV9LS2xSXzZQWng3aXF0UjQ1bnR6RDJPTzFPakNMM0xLTTZxNE9rOWR1ZTlfNGJ6bzZOa2xyR1Y1N1V2SlRuZGZydng4cnF1UDVQdzBjZHpxbzBjOGx4WURKUDVTcXhyeU15YldRNlVtTi1WajVvYW5NMGVRcVBWY2FFMURTclk1eFFzdTNVZ25ESGV5azF2TlJQWHFqclVLWnlNNERMemJYV2JFWTNEYUFlWG1hYUZ2N3YwVm1XaEhfSUI0VkhyenVsVGJFVkphUWlV?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Thu, 12 Nov 2026 13:17:00 GMT",
-      "base_score": 99,
-      "candidate_score": 105,
+      "title": "» Yunanistan-Kıbrıs elektrik hattına Ankara’dan ‘izin’: Fransız gemisi yola çıktı - 10Haber",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXpkdVBJckpVYzY4RGtDS3dGcHZkMG9WVmpSb1d0cE9ROWIxLTBBTVp3RjdzSEFBMGNVVHZMVC1kTWcxdUhfUTRPTGFmVTJHa1JzSE1TWElUZDZ3bVpOb2ltM2xXVGpoQnF6bTlzMy14QXFKMlFGLVdkNm4xelhKMFQ1MTIyMklSWVRSTTBwOEd5eE1jV3dXMDB5al9xTnNnWFpxRXhDTU03UFhLR3c?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Thu, 12 Nov 2026 08:01:00 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Pakistan Army",
-        "Balochistan"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "82704b81af92822657db242f",
-      "mode": "geopolitico",
-      "title": "Pakistani forces, alleged state-backed death squad accused of assaulting women, burning houses in Balochistan’s Nushki - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcmdJSkV3MGRVZU9La2tHaDd6M0hZWVFjMGlRd1NOdURKN1M5WHozU3JfVVdkVDBxbVR1Q25Bcy1LM2FEdGpaSWwtRElXa0tKZGNLRDlnWjFSSzRQTUxudllQWWpHVnpsdmJiVmVBMXBXeXZwLVNhNFp2VDBZRnFGbjZUSnZvUXIzVG95eGRzenpmTXRLT3dPN2JYb1VReFlIVnFOVk1LdWl5UnR4RW9CM2JQcE9XZjV5TFRmelhLTG85cXU4dHFHZFlWTWNLbXgzSXNndnRSRVZWb3FvQ2FfNHBCNmhtaUtyTFNVdU9LSEM3SURkZURCYkljQjA2Z3ZXcGc?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Thu, 12 Nov 2026 08:49:00 GMT",
-      "base_score": 94,
-      "candidate_score": 97,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pakistan",
-        "Pakistani",
-        "Ege",
-        "Balochistan"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "d127f5670c999e3e76c1ee53",
-      "mode": "geopolitico",
-      "title": "U.S., and Israel hit back at Turkey over Libya deal as Egypt, EU and Greece reject it, but Cairo joins Ankara to do the unexpected - Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmZ3SmNLTFJKWFFBd1FpajhUU2NISk5GVXJLYm5vOVVWUUdBZzZ2NEJub1FsMkUxSzlpSHFjSkNaUUhmc0gwMDduMjdXZm9HUjFOeWR0OEZDelBKc2FTemt1WlBtT3R4YXl0V0hyRjQyNll4YTJPNXVrSllGWmdYdVNXbHpkTXBEMDBoWTZFdnQ3RVVIcXUxV1hTdTRIUHRXRWJMUnQ5YXh6S1UzY3p4bVlna0NIaHlZb2FlSDVRemdadnlNNEJYcWZYOUtma3lHU1NBVTJ3?oc=5",
-      "source": "Cyprus Eastern Mediterranean Watch",
-      "published": "Thu, 12 Nov 2026 20:12:10 GMT",
-      "base_score": 80,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Greece",
-        "Israel",
-        "Turkey",
+        "Yunanistan",
+        "Kıbrıs",
+        "elektrik hattı",
         "Ankara"
       ],
-      "content_type": "news"
+      "content_type": "turkey_greece"
     },
     {
-      "external_id": "eec3665d26b99605f032cdc8",
+      "external_id": "5c5159a13282937718e63c58",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı 'gol yediler' diyerek açıkladı: Türkiye gemiyi hareket ettirmedi - Yeni Akit Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0w4RlIwQ2oyMGROU2UwREZERlpDZEtMRzQ1RUVIdXhlSVB1OXI4S3NhTUc5SWxnRWRNMU8yR0ozd3ZhTUlxTmJZanExU3dyd25qQjl4WnVzZ2xyak9MRGhnd09CeVhrbHlnQ1ZxMTRKOEdzZnFoWWNvbGt1SDc3UFo2SHBxRkFqX2dUMU83MW1KVTh1Z1BaWmpSN2VDSE9DVG4zeEVJTmZCOG5ET0NKemNwV0tjblNOajRFYdIBvwFBVV95cUxOU3EwWVI5ZjNFbmlJbWxpSGZramxxU0h3dGllenMzMTZZcVdmVU5NN3pGSWtjM1I2SGFtZGtaR2t0TWMyYk14enVidDk0bFV0ZDNjQ2o3NlB4NWRJWkhUZndVTFVvdDBXRllFamIxa0dqNUVtTWpxQXdRdEpzOWFPZzR6aWt6Tk9iT1NucnJGc3JCUjdaVVN4emVya3IzQkxhc0tCUmY5QWdMa0VVdFg3dFduMndfZlNKZ0JjQ2MtRQ?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Thu, 12 Nov 2026 20:59:59 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
+      "title": "Doğu Akdeniz'de Fransa ile Türkiye anlaştı, Yunanistan'da siyasi kriz çıktı - Haber Hürriyeti",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVA3bjRMQVl5SzRvOW9IcXBoSEd0TF91R0FsdUptY1NmTkZiclpXYndadnF0a2J3aHVEaHNfN19kZFQ1T2NfUk9aeFNNeHBpSHUxTTVRcXRGVGpYczBYbkk2YkFmTzVpRU1jTGdhd0JXb1NBSV9KWTRWTXBjaHMtMW5pWkxSRGdOdlo0WmpkbkhHNDNZVmJ1Y0M3bll6N3Q0VXQwLWNHcEx6YW5qTlVqOEs4YlVRd2stOHfSAb8BQVVfeXFMTkJxRVFrcFl2SmIxbmNVVGtycXJPbWNtbmlQanNhNTRqNWp3WVd6UEJtMlRMeGd0VWE4YjlwdFhDQWFUY0RzRS1BTmdLeThFNDNNWnJlTGdDeXRzOW11b0ZtRHc4Vk0xSG5DUVVqT3dxb1lBM3VzaW9Cc3F0eVFVUXFrQTg3WWZZMVUwWms0WHBycmNSZF9ZMUN2Q2gwVmYwSXVtUGdhTkxUTWlhV0dnZTZiaTZIaHFOTzktNW1hZmM?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Thu, 12 Nov 2026 06:28:00 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Cihat Yaycı",
-        "Cihat Yaycı"
+        "Yunanistan",
+        "Doğu Akdeniz",
+        "Fransa",
+        "kriz"
       ],
-      "content_type": "analyst"
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "11f087d59882be8980adda0e",
@@ -651,7 +622,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Thu, 12 Nov 2026 09:09:53 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -668,7 +639,7 @@
       "source": "Pontos News Watch",
       "published": "Thu, 12 Nov 2026 19:34:53 GMT",
       "base_score": 78,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -677,74 +648,75 @@
       "content_type": "news"
     },
     {
-      "external_id": "4656d0984354c788823194f2",
+      "external_id": "e0dd30909bc282a98afa4fff",
       "mode": "pontos_voice",
-      "title": "Tonya Belediye Başkanı Osman Beşel’den olaylı maç sonrası 61saat’e sert açıklama! Asabım bozuldu",
-      "url": "https://www.61saat.com/tonya-belediye-baskani-osman-beselden-olayli-mac-sonrasi-61saate-sert-aciklama-asabim-bozuldu",
+      "title": "Çukurçayır Muhtarı Hüseyin Erkut’tan olay sonrası ilk açıklama: “Bu olay bilinçli yapıldı”",
+      "url": "https://www.61saat.com/cukurcayir-muhtari-huseyin-erkuttan-olay-sonrasi-ilk-aciklama-bu-olay-bilincli-yapildi",
       "source": "61Saat Trabzon",
-      "published": "Thu, 12 Nov 2026 22:36:00 +0300",
-      "base_score": 59,
-      "candidate_score": 69,
-      "priority": "Normal",
+      "published": "Fri, 13 Nov 2026 12:17:00 +0300",
+      "base_score": 68,
+      "candidate_score": 83,
+      "priority": "High",
       "matched_keywords": [
         "Trabzon",
-        "Tonya",
         "belediye başkanı",
         "açıklama",
+        "tepki",
+        "tartışma",
         "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "6aa7a64fc1361a40362af2cd",
+      "external_id": "4a383abd854ed60c1e2ad012",
       "mode": "pontos_voice",
-      "title": "TRABZON BÜYÜKŞEHİR BELEDİYE BAŞKANLIĞI OF İLÇESİ KAPALI OTOPARK VE PAZARYERİ YAPIMI İHALESİ",
-      "url": "https://www.61saat.com/trabzon-buyuksehir-belediye-baskanligi-of-ilcesi-kapali-otopark-ve-pazaryeri-yapimi-ihalesi",
+      "title": "Trabzon’da 50 yıllık okul binasına dikkat çeken ziyaret! Eğlenceli anlar",
+      "url": "https://www.61saat.com/trabzonda-50-yillik-okul-binasina-dikkat-ceken-ziyaret-eglenceli-anlar",
       "source": "61Saat Trabzon",
-      "published": "Fri, 13 Nov 2026 00:00:00 +0300",
+      "published": "Fri, 13 Nov 2026 11:44:00 +0300",
       "base_score": 51,
-      "candidate_score": 61,
+      "candidate_score": 66,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "dil",
+        "vali"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "659c24f9920afeb966af37d8",
+      "mode": "pontos_voice",
+      "title": "TTSO'dan KTÜ Rektörü Çuvalcı'ya ziyaret",
+      "url": "https://www.61saat.com/ttsodan-ktu-rektoru-cuvalciya-ziyaret",
+      "source": "61Saat Trabzon",
+      "published": "Fri, 13 Nov 2026 09:51:00 +0300",
+      "base_score": 53,
+      "candidate_score": 63,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "Of",
         "Trabzon",
-        "dil"
+        "Karadeniz"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "d58eb39df3a78f819643726c",
+      "external_id": "3c90995ceaaf2125350063db",
       "mode": "pontos_voice",
-      "title": "Trabzon'da olaylı maçın ardından Tonyaspor'dan açıklama!",
-      "url": "https://www.61saat.com/trabzonda-olayli-macin-ardindan-tonyaspordan-aciklama",
-      "source": "61Saat Trabzon",
-      "published": "Thu, 12 Nov 2026 21:27:00 +0300",
-      "base_score": 49,
-      "candidate_score": 55,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Tonya",
-        "açıklama",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "58074619063f731f7b7ecda1",
-      "mode": "pontos_voice",
-      "title": "Η ποντιακή παράδοση μέσα από τα παιδικά παιχνίδια – Το βιβλίο του Βασίλη Ασβεστά παρουσιάστηκε στη Βέροια - Pliroforiodotis.gr",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHBSTEU4a2VoX3dLRnVFVWlyQ1NnUlhTRXBWblRLVmlmdEk4ajBsQ2F5ZllDdlpHNWhGMXNLN01FRFhGRW14THE0VU82dzRhOGlUVE5MMmNPeVBaYVZGaHdwa3JsYnlCc19pdFUwUHJPUXV3eUEzVXhjaG5pUU9Pa1I5Ynh2aFJuV1RzcWxndDQtRVpocmRqMnBSV2lIMkhpTlNnZUN5WEVTSFBsODdWZkwxRG9GOHhMY296Ymd1RmlSWkJWZVo0aUwyOE40ZWhBb3c?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 11 Nov 2026 21:03:59 GMT",
-      "base_score": 51,
+      "title": "Trabzonspor'un transfer gündemindeki isim için İsveç'ten yanıt! - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQklna2xaN1BjTnZ3SjFWNnFpdjlYendqckhhblZMalYyRzZqbHFZSUF3NGMtQ3Z5bi03cnJZU2VMcnQ4bE5WbDJNOFdhWFl4TWZJRHFhWWZCN3JzbzlZa3JGQ2IxUXZLbUJpQ015Z0ZaTWp0UjVFSXJEaDJhZ0ZlNmpreGtNWEhlOVNwTjdiQzRvMkw1Y3FQelpMa3NFNkJpZEZKMnc2QkQ?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Fri, 13 Nov 2026 07:22:25 GMT",
+      "base_score": 44,
       "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
-        "ποντιακή",
-        "Of",
-        "παράδοση"
+        "Trabzon",
+        "anıt",
+        "Trabzon"
       ],
       "content_type": "news"
     }
