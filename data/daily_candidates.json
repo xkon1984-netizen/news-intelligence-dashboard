@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T22:43:09.616480+00:00",
+  "generated_at": "2026-11-13T03:00:25.229508+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 12 Nov 2026 15:30:14 GMT",
         "base_score": 81,
-        "candidate_score": 121,
+        "candidate_score": 117,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -36,7 +36,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Thu, 12 Nov 2026 16:10:28 GMT",
         "base_score": 56,
-        "candidate_score": 86,
+        "candidate_score": 82,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -45,26 +45,6 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "27e86680cdc6c27ec3b2444e",
-        "mode": "sportdog",
-        "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar.am",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Wed, 11 Nov 2026 19:31:45 GMT",
-        "base_score": 56,
-        "candidate_score": 79,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -89,17 +69,36 @@
         "needs_second_source": true
       },
       {
-        "external_id": "63b9a18dee13398e9e45ff7d",
+        "external_id": "86f5364d495cd1a24344cf83",
         "mode": "sportdog",
-        "title": "Live: Ολυμπιακός - Ντουμπάι (Euroleague 2026-27) - SDNA",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMEtyenNlcEd5ZGplN2pueDRGWS1zeHp4a1lPZVI1YVNJc3VOUDZSbWlzSzZkZEtnNXoyZFlDOTlacHJIeEVYSDlYX2xMTHJCeU9UTHIxT0FwTmRNRTdrTkJrSWhoaTdONm5FUFBYZmY3bzVTZWc1Nmt0TkpYTUlia25Zc2Jzdw?oc=5",
+        "title": "Sasha Vezenkov makes EuroLeague history with Olympiacos, breaks Spanoulis' record - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTFoOUlSY05sRGphUW1zekJ1cW9XYkhvb3V4cy1YOW12Mng5cGk5YU0wNzdMMVpKenNzZnBXTExmcUF3M0NIdGVjeFVnanVXRlpERHRvSnFOTzk1bF9qV0kzMHRvcnlmTXhoQk1WelB6dWd4Vzd3TmYtLTFydkgyX1AyOTB2UmlLaTRlMy1SQXdBR0ZaWHU3VzRTUUJVU1hOcmdFY3pxNkdQRlVB?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 12 Nov 2026 18:45:00 GMT",
-        "base_score": 38,
-        "candidate_score": 56,
+        "published": "Thu, 12 Nov 2026 19:40:00 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
-          "Ολυμπιακός"
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "66f7c27a67c90819740c61af",
+        "mode": "sportdog",
+        "title": "Who gets the whistle in the EuroLeague? Olympiacos lead, Besiktas rank last - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGNJM2R4aHJxMmxhSFFMaVItaHZnc2x3OUtLeE4yUkN0Nk5WaUl2UE4wbVBqMVlfTjZKYUFuUVNCSHBCOUVmbnE5Qm1CaXdTOTZUMWpyMFZnM01CZk1KTDVHYWxXWmRTUnlEdk5wRkdFN29RMXpnUlF0d0R4LVhTUWZkZTVuNTQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Thu, 12 Nov 2026 16:31:16 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
@@ -122,25 +121,6 @@
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "bc0a3661f87524a987ef0650",
-        "mode": "sportdog",
-        "title": "What has happened to Calabria? Three goals in the last 5 matches, leader of Panathinaikos. And if there's a penalty... - La Gazzetta dello Sport",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMGNmTEJFX0NYYzhvVlZFMDhJWi16MDJ6ZWhCWkhrQXBXWjZ3U3VwMExGYktuR1A0OTdxRHhXdWJTc2MxcGVDVmJRU3NYdkRfRW9mcDFSMWdzOTR4TlFoek5HNVlycTRLdVRJNmVsV1Vmc2ZfVDNtaEFoNVNPQm1rLW8zQnJ3XzZGN3N4UHlhN3YyMmwxX214b2haZVFEeUhDU3dOZGJaVmNxTzlWZGhJS1ZueDRyVXk3NGQ0T2YxOE5SYzlnUkU0V3ZTS0g5REthbWl4TtIB1AFBVV95cUxOMGNmTEJFX0NYYzhvVlZFMDhJWi16MDJ6ZWhCWkhrQXBXWjZ3U3VwMExGYktuR1A0OTdxRHhXdWJTc2MxcGVDVmJRU3NYdkRfRW9mcDFSMWdzOTR4TlFoek5HNVlycTRLdVRJNmVsV1Vmc2ZfVDNtaEFoNVNPQm1rLW8zQnJ3XzZGN3N4UHlhN3YyMmwxX214b2haZVFEeUhDU3dOZGJaVmNxTzlWZGhJS1ZueDRyVXk3NGQ0T2YxOE5SYzlnUkU0V3ZTS0g5REthbWl4Tg?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 11 Nov 2026 14:50:22 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Match / Analysis",
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
@@ -240,26 +220,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "dbb181d3c61694db6b124145",
-        "mode": "geopolitico",
-        "title": "GSI'de yeni NAVTEX gerilimi: Türkiye “Onay verdik” diyor, Yunanistan izin almadığını savunuyor - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNllVSi16SGZBWTUtR1VLS2NLTXJnMnFqYUh5N0tWcGJpVkNlVS0xLUZnQm5EYlhKaURSOVNSNjNyQ3ptT256RkVqMUJYck8takhUUEY2ZVlfWEFMS0lCYzc2MnRUb1lvaEx2TmlFZFFsbWM3VkpCZFloc2hpakFBV3daUEZlSUVUbE1ydTdlWEdNSDFvR3ZTd2Y3NFVVQkhnSlVLVE1IMGJxZGtOYV95X1VYeXA?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Wed, 11 Nov 2026 19:18:51 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "NAVTEX",
-          "GSI",
-          "Kıbrıs",
-          "gerilim",
-          "GSI"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "82704b81af92822657db242f",
         "mode": "geopolitico",
         "title": "Pakistani forces, alleged state-backed death squad accused of assaulting women, burning houses in Balochistan’s Nushki - ANI News",
@@ -267,7 +227,7 @@
         "source": "Pakistan Security Watch",
         "published": "Thu, 12 Nov 2026 08:49:00 GMT",
         "base_score": 94,
-        "candidate_score": 100,
+        "candidate_score": 97,
         "priority": "URGENT",
         "matched_keywords": [
           "Pakistan",
@@ -285,8 +245,8 @@
         "source": "Cyprus Eastern Mediterranean Watch",
         "published": "Thu, 12 Nov 2026 20:12:10 GMT",
         "base_score": 80,
-        "candidate_score": 95,
-        "priority": "URGENT",
+        "candidate_score": 90,
+        "priority": "High",
         "matched_keywords": [
           "Greece",
           "Israel",
@@ -294,6 +254,22 @@
           "Ankara"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "eec3665d26b99605f032cdc8",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı 'gol yediler' diyerek açıkladı: Türkiye gemiyi hareket ettirmedi - Yeni Akit Gazetesi",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0w4RlIwQ2oyMGROU2UwREZERlpDZEtMRzQ1RUVIdXhlSVB1OXI4S3NhTUc5SWxnRWRNMU8yR0ozd3ZhTUlxTmJZanExU3dyd25qQjl4WnVzZ2xyak9MRGhnd09CeVhrbHlnQ1ZxMTRKOEdzZnFoWWNvbGt1SDc3UFo2SHBxRkFqX2dUMU83MW1KVTh1Z1BaWmpSN2VDSE9DVG4zeEVJTmZCOG5ET0NKemNwV0tjblNOajRFYdIBvwFBVV95cUxOU3EwWVI5ZjNFbmlJbWxpSGZramxxU0h3dGllenMzMTZZcVdmVU5NN3pGSWtjM1I2SGFtZGtaR2t0TWMyYk14enVidDk0bFV0ZDNjQ2o3NlB4NWRJWkhUZndVTFVvdDBXRllFamIxa0dqNUVtTWpxQXdRdEpzOWFPZzR6aWt6Tk9iT1NucnJGc3JCUjdaVVN4emVya3IzQkxhc0tCUmY5QWdMa0VVdFg3dFduMndfZlNKZ0JjQ2MtRQ?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Thu, 12 Nov 2026 20:59:59 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Cihat Yaycı",
+          "Cihat Yaycı"
+        ],
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
@@ -350,22 +326,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "d71f7c04973c521504ba7c86",
-        "mode": "pontos_voice",
-        "title": "Αργοναύται-Κομνηνοί: Η Ποντιακή Χορωδία προσκαλεί στο πρώτο μουχαπέτ’ της χρονιάς - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlVYaG5wUWVVcDFwN2FHVXdhWUpxN1B2UTNBVXJVSlNzMnRvM18xbWtNVU12b3BjLTJIeHVUMllGdVVSX19ERTFZQWlrZXU5M3RqSzVTWVNHWTJtX1p3SWxCa0cwSXRoclNWUGo5QU0yNFhjbXlZWTNlNzBFOHRjb1pGV3JiNzg2WVFORTZOUEMtZlhWenZlc2hKcDFOMUQxNF9PdEJPdndZaXlhNmpZR0c4Qy0?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Wed, 11 Nov 2026 16:20:41 GMT",
-        "base_score": 69,
-        "candidate_score": 69,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακή"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "6aa7a64fc1361a40362af2cd",
         "mode": "pontos_voice",
         "title": "TRABZON BÜYÜKŞEHİR BELEDİYE BAŞKANLIĞI OF İLÇESİ KAPALI OTOPARK VE PAZARYERİ YAPIMI İHALESİ",
@@ -373,7 +333,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 13 Nov 2026 00:00:00 +0300",
         "base_score": 51,
-        "candidate_score": 66,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -384,19 +344,37 @@
         "content_type": "news"
       },
       {
-        "external_id": "bcc0cd3d6b4578f1cdbfc4ad",
+        "external_id": "d58eb39df3a78f819643726c",
         "mode": "pontos_voice",
-        "title": "TRABZON BÜYÜKŞEHİR BELEDİYESİ BETON AGREGASI ALIMI İHALESİ",
-        "url": "https://www.61saat.com/trabzon-buyuksehir-belediyesi-beton-agregasi-alimi-ihalesi",
+        "title": "Trabzon'da olaylı maçın ardından Tonyaspor'dan açıklama!",
+        "url": "https://www.61saat.com/trabzonda-olayli-macin-ardindan-tonyaspordan-aciklama",
         "source": "61Saat Trabzon",
-        "published": "Fri, 13 Nov 2026 00:00:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
+        "published": "Thu, 12 Nov 2026 21:27:00 +0300",
+        "base_score": 49,
+        "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "dil"
+          "Tonya",
+          "açıklama",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "58074619063f731f7b7ecda1",
+        "mode": "pontos_voice",
+        "title": "Η ποντιακή παράδοση μέσα από τα παιδικά παιχνίδια – Το βιβλίο του Βασίλη Ασβεστά παρουσιάστηκε στη Βέροια - Pliroforiodotis.gr",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHBSTEU4a2VoX3dLRnVFVWlyQ1NnUlhTRXBWblRLVmlmdEk4ajBsQ2F5ZllDdlpHNWhGMXNLN01FRFhGRW14THE0VU82dzRhOGlUVE5MMmNPeVBaYVZGaHdwa3JsYnlCc19pdFUwUHJPUXV3eUEzVXhjaG5pUU9Pa1I5Ynh2aFJuV1RzcWxndDQtRVpocmRqMnBSV2lIMkhpTlNnZUN5WEVTSFBsODdWZkwxRG9GOHhMY296Ymd1RmlSWkJWZVo0aUwyOE40ZWhBb3c?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Wed, 11 Nov 2026 21:03:59 GMT",
+        "base_score": 51,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "ποντιακή",
+          "Of",
+          "παράδοση"
         ],
         "content_type": "news"
       }
@@ -411,7 +389,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 12 Nov 2026 15:30:14 GMT",
       "base_score": 81,
-      "candidate_score": 121,
+      "candidate_score": 117,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -432,7 +410,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Thu, 12 Nov 2026 16:10:28 GMT",
       "base_score": 56,
-      "candidate_score": 86,
+      "candidate_score": 82,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -441,26 +419,6 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "27e86680cdc6c27ec3b2444e",
-      "mode": "sportdog",
-      "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar.am",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Wed, 11 Nov 2026 19:31:45 GMT",
-      "base_score": 56,
-      "candidate_score": 79,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -485,17 +443,36 @@
       "needs_second_source": true
     },
     {
-      "external_id": "63b9a18dee13398e9e45ff7d",
+      "external_id": "86f5364d495cd1a24344cf83",
       "mode": "sportdog",
-      "title": "Live: Ολυμπιακός - Ντουμπάι (Euroleague 2026-27) - SDNA",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMEtyenNlcEd5ZGplN2pueDRGWS1zeHp4a1lPZVI1YVNJc3VOUDZSbWlzSzZkZEtnNXoyZFlDOTlacHJIeEVYSDlYX2xMTHJCeU9UTHIxT0FwTmRNRTdrTkJrSWhoaTdONm5FUFBYZmY3bzVTZWc1Nmt0TkpYTUlia25Zc2Jzdw?oc=5",
+      "title": "Sasha Vezenkov makes EuroLeague history with Olympiacos, breaks Spanoulis' record - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTFoOUlSY05sRGphUW1zekJ1cW9XYkhvb3V4cy1YOW12Mng5cGk5YU0wNzdMMVpKenNzZnBXTExmcUF3M0NIdGVjeFVnanVXRlpERHRvSnFOTzk1bF9qV0kzMHRvcnlmTXhoQk1WelB6dWd4Vzd3TmYtLTFydkgyX1AyOTB2UmlLaTRlMy1SQXdBR0ZaWHU3VzRTUUJVU1hOcmdFY3pxNkdQRlVB?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 12 Nov 2026 18:45:00 GMT",
-      "base_score": 38,
-      "candidate_score": 56,
+      "published": "Thu, 12 Nov 2026 19:40:00 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
-        "Ολυμπιακός"
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "66f7c27a67c90819740c61af",
+      "mode": "sportdog",
+      "title": "Who gets the whistle in the EuroLeague? Olympiacos lead, Besiktas rank last - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGNJM2R4aHJxMmxhSFFMaVItaHZnc2x3OUtLeE4yUkN0Nk5WaUl2UE4wbVBqMVlfTjZKYUFuUVNCSHBCOUVmbnE5Qm1CaXdTOTZUMWpyMFZnM01CZk1KTDVHYWxXWmRTUnlEdk5wRkdFN29RMXpnUlF0d0R4LVhTUWZkZTVuNTQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Thu, 12 Nov 2026 16:31:16 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -518,25 +495,6 @@
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "bc0a3661f87524a987ef0650",
-      "mode": "sportdog",
-      "title": "What has happened to Calabria? Three goals in the last 5 matches, leader of Panathinaikos. And if there's a penalty... - La Gazzetta dello Sport",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMGNmTEJFX0NYYzhvVlZFMDhJWi16MDJ6ZWhCWkhrQXBXWjZ3U3VwMExGYktuR1A0OTdxRHhXdWJTc2MxcGVDVmJRU3NYdkRfRW9mcDFSMWdzOTR4TlFoek5HNVlycTRLdVRJNmVsV1Vmc2ZfVDNtaEFoNVNPQm1rLW8zQnJ3XzZGN3N4UHlhN3YyMmwxX214b2haZVFEeUhDU3dOZGJaVmNxTzlWZGhJS1ZueDRyVXk3NGQ0T2YxOE5SYzlnUkU0V3ZTS0g5REthbWl4TtIB1AFBVV95cUxOMGNmTEJFX0NYYzhvVlZFMDhJWi16MDJ6ZWhCWkhrQXBXWjZ3U3VwMExGYktuR1A0OTdxRHhXdWJTc2MxcGVDVmJRU3NYdkRfRW9mcDFSMWdzOTR4TlFoek5HNVlycTRLdVRJNmVsV1Vmc2ZfVDNtaEFoNVNPQm1rLW8zQnJ3XzZGN3N4UHlhN3YyMmwxX214b2haZVFEeUhDU3dOZGJaVmNxTzlWZGhJS1ZueDRyVXk3NGQ0T2YxOE5SYzlnUkU0V3ZTS0g5REthbWl4Tg?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 11 Nov 2026 14:50:22 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Match / Analysis",
       "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
@@ -634,26 +592,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "dbb181d3c61694db6b124145",
-      "mode": "geopolitico",
-      "title": "GSI'de yeni NAVTEX gerilimi: Türkiye “Onay verdik” diyor, Yunanistan izin almadığını savunuyor - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNllVSi16SGZBWTUtR1VLS2NLTXJnMnFqYUh5N0tWcGJpVkNlVS0xLUZnQm5EYlhKaURSOVNSNjNyQ3ptT256RkVqMUJYck8takhUUEY2ZVlfWEFMS0lCYzc2MnRUb1lvaEx2TmlFZFFsbWM3VkpCZFloc2hpakFBV3daUEZlSUVUbE1ydTdlWEdNSDFvR3ZTd2Y3NFVVQkhnSlVLVE1IMGJxZGtOYV95X1VYeXA?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Wed, 11 Nov 2026 19:18:51 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "NAVTEX",
-        "GSI",
-        "Kıbrıs",
-        "gerilim",
-        "GSI"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "82704b81af92822657db242f",
       "mode": "geopolitico",
       "title": "Pakistani forces, alleged state-backed death squad accused of assaulting women, burning houses in Balochistan’s Nushki - ANI News",
@@ -661,7 +599,7 @@
       "source": "Pakistan Security Watch",
       "published": "Thu, 12 Nov 2026 08:49:00 GMT",
       "base_score": 94,
-      "candidate_score": 100,
+      "candidate_score": 97,
       "priority": "URGENT",
       "matched_keywords": [
         "Pakistan",
@@ -679,8 +617,8 @@
       "source": "Cyprus Eastern Mediterranean Watch",
       "published": "Thu, 12 Nov 2026 20:12:10 GMT",
       "base_score": 80,
-      "candidate_score": 95,
-      "priority": "URGENT",
+      "candidate_score": 90,
+      "priority": "High",
       "matched_keywords": [
         "Greece",
         "Israel",
@@ -688,6 +626,22 @@
         "Ankara"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "eec3665d26b99605f032cdc8",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Cihat Yaycı — Cihat Yaycı 'gol yediler' diyerek açıkladı: Türkiye gemiyi hareket ettirmedi - Yeni Akit Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0w4RlIwQ2oyMGROU2UwREZERlpDZEtMRzQ1RUVIdXhlSVB1OXI4S3NhTUc5SWxnRWRNMU8yR0ozd3ZhTUlxTmJZanExU3dyd25qQjl4WnVzZ2xyak9MRGhnd09CeVhrbHlnQ1ZxMTRKOEdzZnFoWWNvbGt1SDc3UFo2SHBxRkFqX2dUMU83MW1KVTh1Z1BaWmpSN2VDSE9DVG4zeEVJTmZCOG5ET0NKemNwV0tjblNOajRFYdIBvwFBVV95cUxOU3EwWVI5ZjNFbmlJbWxpSGZramxxU0h3dGllenMzMTZZcVdmVU5NN3pGSWtjM1I2SGFtZGtaR2t0TWMyYk14enVidDk0bFV0ZDNjQ2o3NlB4NWRJWkhUZndVTFVvdDBXRllFamIxa0dqNUVtTWpxQXdRdEpzOWFPZzR6aWt6Tk9iT1NucnJGc3JCUjdaVVN4emVya3IzQkxhc0tCUmY5QWdMa0VVdFg3dFduMndfZlNKZ0JjQ2MtRQ?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Thu, 12 Nov 2026 20:59:59 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Cihat Yaycı",
+        "Cihat Yaycı"
+      ],
+      "content_type": "analyst"
     },
     {
       "external_id": "11f087d59882be8980adda0e",
@@ -742,22 +696,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "d71f7c04973c521504ba7c86",
-      "mode": "pontos_voice",
-      "title": "Αργοναύται-Κομνηνοί: Η Ποντιακή Χορωδία προσκαλεί στο πρώτο μουχαπέτ’ της χρονιάς - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlVYaG5wUWVVcDFwN2FHVXdhWUpxN1B2UTNBVXJVSlNzMnRvM18xbWtNVU12b3BjLTJIeHVUMllGdVVSX19ERTFZQWlrZXU5M3RqSzVTWVNHWTJtX1p3SWxCa0cwSXRoclNWUGo5QU0yNFhjbXlZWTNlNzBFOHRjb1pGV3JiNzg2WVFORTZOUEMtZlhWenZlc2hKcDFOMUQxNF9PdEJPdndZaXlhNmpZR0c4Qy0?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Wed, 11 Nov 2026 16:20:41 GMT",
-      "base_score": 69,
-      "candidate_score": 69,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακή"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "6aa7a64fc1361a40362af2cd",
       "mode": "pontos_voice",
       "title": "TRABZON BÜYÜKŞEHİR BELEDİYE BAŞKANLIĞI OF İLÇESİ KAPALI OTOPARK VE PAZARYERİ YAPIMI İHALESİ",
@@ -765,7 +703,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 13 Nov 2026 00:00:00 +0300",
       "base_score": 51,
-      "candidate_score": 66,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -776,19 +714,37 @@
       "content_type": "news"
     },
     {
-      "external_id": "bcc0cd3d6b4578f1cdbfc4ad",
+      "external_id": "d58eb39df3a78f819643726c",
       "mode": "pontos_voice",
-      "title": "TRABZON BÜYÜKŞEHİR BELEDİYESİ BETON AGREGASI ALIMI İHALESİ",
-      "url": "https://www.61saat.com/trabzon-buyuksehir-belediyesi-beton-agregasi-alimi-ihalesi",
+      "title": "Trabzon'da olaylı maçın ardından Tonyaspor'dan açıklama!",
+      "url": "https://www.61saat.com/trabzonda-olayli-macin-ardindan-tonyaspordan-aciklama",
       "source": "61Saat Trabzon",
-      "published": "Fri, 13 Nov 2026 00:00:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
+      "published": "Thu, 12 Nov 2026 21:27:00 +0300",
+      "base_score": 49,
+      "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "dil"
+        "Tonya",
+        "açıklama",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "58074619063f731f7b7ecda1",
+      "mode": "pontos_voice",
+      "title": "Η ποντιακή παράδοση μέσα από τα παιδικά παιχνίδια – Το βιβλίο του Βασίλη Ασβεστά παρουσιάστηκε στη Βέροια - Pliroforiodotis.gr",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHBSTEU4a2VoX3dLRnVFVWlyQ1NnUlhTRXBWblRLVmlmdEk4ajBsQ2F5ZllDdlpHNWhGMXNLN01FRFhGRW14THE0VU82dzRhOGlUVE5MMmNPeVBaYVZGaHdwa3JsYnlCc19pdFUwUHJPUXV3eUEzVXhjaG5pUU9Pa1I5Ynh2aFJuV1RzcWxndDQtRVpocmRqMnBSV2lIMkhpTlNnZUN5WEVTSFBsODdWZkwxRG9GOHhMY296Ymd1RmlSWkJWZVo0aUwyOE40ZWhBb3c?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Wed, 11 Nov 2026 21:03:59 GMT",
+      "base_score": 51,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "ποντιακή",
+        "Of",
+        "παράδοση"
       ],
       "content_type": "news"
     }
