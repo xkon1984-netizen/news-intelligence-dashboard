@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:44:50.426544+00:00",
+  "generated_at": "2026-11-14T03:40:51.211418+00:00",
   "counts": {
     "sportdog": 13,
     "geopolitico": 8,
@@ -7,27 +7,6 @@
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "85b3dee76aea4e64d866d0de",
-        "mode": "sportdog",
-        "title": "Nottingham Forest owner accused of favouring Olympiacos - Presidential candidate questions transfers - Sport Witness",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmJRMVY1aTUtSExCajg3ZE9qOTZ5VU9JNURRclBCRXYxRUhSMVNPOERpaGhpSTVNSEpXODk5WGgza09Eek9hUWt3bWJFQlM4c0wtMVlmdTloTzZlRGItNWE1TzQzVDNFMVhnbkNCMV83dmZNbDBYdkNhTWVMS040d2hKQlZpbEJNdEYwX3IzNE10Y250RGdFTkZubmN6LUE5dUc3SGk0QWliLXJpTFdqTDUyeXRaVUctQ29xS1ZrWnBiZ3Bl?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 12 Nov 2026 15:30:14 GMT",
-        "base_score": 81,
-        "candidate_score": 111,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Olympiacos",
-          "transfer",
-          "transfers"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
       {
         "external_id": "1eb71e54e66ee6a87c8727dd",
         "mode": "sportdog",
@@ -41,26 +20,6 @@
         "matched_keywords": [
           "Panathinaikos",
           "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "a4e1c97b3aeecc1a81ff5e17",
-        "mode": "sportdog",
-        "title": "Panathinaikos strike record stadium rights agreement with Novibet - Sportcal",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHJtWEVCb2xKN2ZsVDg4YU41Y3YyTkVtckpfd2dpLUh1ekw5MG1UY3lXOUZRZkZ2TnlyOGtsTHJaRk1ES0pZdDZsYlI5ZUQzRWRDM1doN2wtR25nX0dmWUNWUkJoQ2hCR0hsbnBkYzhRcFNBdUQ1U19GeGdZSEpiTnN1blZ2dWdTejY0SVc1Zl80Zmo3U2o3c2w3LTNNb21Qd1JQZ2FB?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 13 Nov 2026 09:30:23 GMT",
-        "base_score": 56,
-        "candidate_score": 82,
-        "priority": "High",
-        "matched_keywords": [
-          "Panathinaikos",
-          "agreement"
         ],
         "content_type": "news",
         "editorial_type": "Transfer Report",
@@ -89,6 +48,26 @@
         "needs_second_source": true
       },
       {
+        "external_id": "a4e1c97b3aeecc1a81ff5e17",
+        "mode": "sportdog",
+        "title": "Panathinaikos strike record stadium rights agreement with Novibet - Sportcal",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHJtWEVCb2xKN2ZsVDg4YU41Y3YyTkVtckpfd2dpLUh1ekw5MG1UY3lXOUZRZkZ2TnlyOGtsTHJaRk1ES0pZdDZsYlI5ZUQzRWRDM1doN2wtR25nX0dmWUNWUkJoQ2hCR0hsbnBkYzhRcFNBdUQ1U19GeGdZSEpiTnN1blZ2dWdTejY0SVc1Zl80Zmo3U2o3c2w3LTNNb21Qd1JQZ2FB?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 13 Nov 2026 09:30:23 GMT",
+        "base_score": 56,
+        "candidate_score": 79,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "agreement"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "4bf7ce41b9ea7a5bddf536cb",
         "mode": "sportdog",
         "title": "Olympiacos Eye January Reinforcements to Strengthen Title Bid: Three Positions Identified - roundtable.io",
@@ -96,7 +75,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Thu, 12 Nov 2026 19:24:56 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -105,21 +84,22 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
-        "external_id": "7d0ea1d1ef7834693f9c1c29",
+        "external_id": "056e0b61a2145e85f15fc935",
         "mode": "sportdog",
-        "title": "Live: Παναθηναϊκός AKTOR - Μπαρτσελόνα (Euroleague 2026-27) - SDNA",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGpJM18yUGlyRFpSaXFlS0JuR0tlMldjVHNfa2ZRMTFxak1nY1ZhdzE3WmhBVm1ITllKN2dmdVBxMmplZl90Ui1SSDJLMlJjbi1zdUpQbDh2UHZyMzFzUzVDMmRmWGJqOGFvV0lDTmFuVU1URGlfbEpYenRpMDFYNjN1bU84Q0pzNExTSjFqb0FTckpuYVE?oc=5",
+        "title": "‘Talking Crazy,’ ‘Getting a Little Carried Away’ – Fans React As Ex-Knicks Forward Claims Greek League’s Panathinaikos Would Beat NBA Teams - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXd4NDFZZjI0Qy02WXJScFhySld0VGtmZTFHRE8tYTctamktQnZ6NFo2d0VMdERZUWpOR0thV1drVno5VzJaWGZHbFoyM0VoMk5fbkNGUVBMYzZuUEQ1UFJCWjdUbEFWTDhST2dYY3d5UXJPSXJZTm5SaF85aGgxQkNVMEJiRU9kckE1LVZR?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 13 Nov 2026 18:47:31 GMT",
-        "base_score": 38,
-        "candidate_score": 56,
+        "published": "Fri, 13 Nov 2026 23:15:40 GMT",
+        "base_score": 39,
+        "candidate_score": 57,
         "priority": "Normal",
         "matched_keywords": [
-          "Παναθηναϊκός"
+          "Panathinaikos",
+          "forward"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
@@ -153,7 +133,7 @@
         "title": "Watch AEK Athens vs Real Madrid - TOD",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0dydi1uLU5acG5vemtkUU9VRUVXeXJTeDhNWndTUDFCZkZKZTg3ZV9GUndudmhCVzB3a2cxVFl2LWprNS1lTnZIeHhDa2pHbk9Qbm1BaUVzX3FLeU91eTJBTVFGNTlNeVBxQmQ5RmxqcjIxSWh2MWFrbm0tOXlBMC1sbEtDWnkzbzVOMHVvV3ZpaW9QT2pySV9VcTd1Tnp5QjRPREtnY3NHQQ?oc=5",
         "source": "AEK Rumour Watch",
-        "published": "Fri, 13 Nov 2026 23:07:07 GMT",
+        "published": "Sat, 14 Nov 2026 03:01:17 GMT",
         "base_score": 31,
         "candidate_score": 54,
         "priority": "Normal",
@@ -167,40 +147,21 @@
         "needs_second_source": true
       },
       {
-        "external_id": "d94698c6d4193ee7d8d6b0da",
+        "external_id": "7d0ea1d1ef7834693f9c1c29",
         "mode": "sportdog",
-        "title": "'Time to shut them up': Justin Robinson sends message after stunning Panathinaikos - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ25tOTNDbzZ1MzVzUXJ2SFI0TXA4dkpNeFFuT3NBRnhNMXRDenE3Q3hqOW90SmNPV1hxLW11OVRud1NtZkRlYk40R0dOd1h2Sl8wT3dxUFBCOHNDRkZLcjFxd2MxOXV0OUdTNmdBSzZHay1xcDlvdG45UWZLVktlYVhLRXhkRnpDeVBUNFEzeU9NXzVtVG1uaTJzSXdLMm5XUlNmTw?oc=5",
+        "title": "Live: Παναθηναϊκός AKTOR - Μπαρτσελόνα (Euroleague 2026-27) - SDNA",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGpJM18yUGlyRFpSaXFlS0JuR0tlMldjVHNfa2ZRMTFxak1nY1ZhdzE3WmhBVm1ITllKN2dmdVBxMmplZl90Ui1SSDJLMlJjbi1zdUpQbDh2UHZyMzFzUzVDMmRmWGJqOGFvV0lDTmFuVU1URGlfbEpYenRpMDFYNjN1bU84Q0pzNExTSjFqb0FTckpuYVE?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 13 Nov 2026 21:54:12 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
+        "published": "Fri, 13 Nov 2026 18:47:31 GMT",
+        "base_score": 38,
+        "candidate_score": 52,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos"
+          "Παναθηναϊκός"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "f966da6bb668220568e3caa5",
-        "mode": "sportdog",
-        "title": "Δικαίωση, πίστη, αμφιβολία, ερωτηματικά: Τι εμφανίζει σήμερα το μεταγραφικό καλοκαίρι της ΑΕΚ - Gazzetta.gr",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaTFORjNVUFdVYk52dGVHdGUwWVpqWm9SdzVldG1yLVQ4OHdXVnFYTHZQRWFNcDdTd1JRb2N6aHc3elFSMC1mX2V3R0hXd3F1MHFEd2d2c1lRTEl5elVyaWRrYThweHg1UVc5dWhQVmJTcW5NclRoNjBfbVVxM3lzZGRuenF0SUVfSHVRUGdYZFM1dGRicGk3NWxCWWx2cXI3OVJhaGIwTGE2WE05UXY2a0Q1TV90MG5RWE5Vd0ZQdEvSAcYBQVVfeXFMUEdtX3ZrM1hkLXFrendxOHQ5NTVoZzkwZzFJZXNPT3BiSTZ6bkxIbDNQSkVVU25FUW1keFBSVzM0WVRadE5oWUZUTGt6XzZYekJDdm9EZ2NMS1hBSkk5SThOUU9ERVo3OE1OcWpZNnBVcDRucnllRVkwVHo1V0dOTm9Iak9mSGhBcDY0eXBNN1JhS0E1NklVamVrc1B4WU1fOVYwS2NraUZkbHRIVXJ1MWtMYncwWVl1cGJYNFpudUVnVTBnNml3?oc=5",
-        "source": "Sportdog Greek Transfer Scenarios",
-        "published": "Fri, 13 Nov 2026 15:00:40 GMT",
-        "base_score": 39,
-        "candidate_score": 53,
-        "priority": "Normal",
-        "matched_keywords": [
-          "ΑΕΚ"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -212,7 +173,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 13 Nov 2026 08:32:38 GMT",
         "base_score": 39,
-        "candidate_score": 53,
+        "candidate_score": 50,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -232,7 +193,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 13 Nov 2026 07:08:18 GMT",
         "base_score": 39,
-        "candidate_score": 53,
+        "candidate_score": 50,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -241,6 +202,25 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "79983a2374e72bd6de16cc42",
+        "mode": "sportdog",
+        "title": "AEK Athens Transactions - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xZnZqZUxHcjdaSkU2VXRkUldFS3Nnd1FPVzVYRFNBUGRxYnl5QlVDNkJTa09wV2xqeXlSWDhVMnE0NDhRUElVMnlpOEstUzA3MEt0NGVSZklTN0YzcHdQS09ITzhEY3QxaUl2UkRGM0VqdmNaRFE?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Fri, 13 Nov 2026 23:48:41 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -262,6 +242,25 @@
         "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
+      },
+      {
+        "external_id": "52c3d7f5ff19279ff11c9bd9",
+        "mode": "sportdog",
+        "title": "Evan Fournier erupts for 28 as Olympiacos routs Dubai - TalkBasket.net",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNEJSc3BZZzUyRXY0dWJVU2NhR1UwT1FCRU9ON1kwMkpkZWNaQmZHNHQzLTUyMElEQVhIOGw2YUZ2VkFKcjNCblpaT3FnQ2s3ajQ5X1UwbVM5RVF0d0RyY2tSNFFaLW9rQ3pMWXVGV2RnUVV6b1B3eUswMlRZV3NIQXl4bDdCMnhBb005WWhCcmI?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 13 Nov 2026 07:10:57 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
       }
     ],
     "geopolitico": [
@@ -273,7 +272,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 13 Nov 2026 16:33:04 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -291,7 +290,7 @@
         "source": "China Strategic Watch",
         "published": "Fri, 13 Nov 2026 16:13:02 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -309,7 +308,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Fri, 13 Nov 2026 16:27:47 GMT",
         "base_score": 94,
-        "candidate_score": 104,
+        "candidate_score": 100,
         "priority": "URGENT",
         "matched_keywords": [
           "Dendias",
@@ -363,7 +362,7 @@
         "source": "Pakistan Security Watch",
         "published": "Fri, 13 Nov 2026 09:38:46 GMT",
         "base_score": 94,
-        "candidate_score": 100,
+        "candidate_score": 97,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -379,10 +378,10 @@
         "title": "Turkey and Qatar sign defense agreement as Erdogan, Al Thani discuss Iran and Gaza - The Times of Israel",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Wa0Y0TkdUdndjT0tJaG42TXZHNlFvNnpicDNMZFJDcWc3Y0hNOUc3V1NpOWFMdjFpLVppY19hejg5Qk9RbzZTNGtPdnhPLVBrOGfSAVdBVV95cUxQNTBHZVF0dkJaaHFYeDlEeHRaSGFrc0lrcy02YUl0ZWpBS1hBTFFTcjFEN3lsNU8zQUl3NG8zSUVUYk9sSlR0dnNzVS1Xc2NZWHBuOEI2T2M?oc=5",
         "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-        "published": "Fri, 13 Nov 2026 20:47:54 GMT",
+        "published": "Fri, 13 Nov 2026 20:34:00 GMT",
         "base_score": 84,
-        "candidate_score": 99,
-        "priority": "URGENT",
+        "candidate_score": 94,
+        "priority": "High",
         "matched_keywords": [
           "Israel",
           "Iran",
@@ -400,7 +399,7 @@
         "source": "Eastern Mediterranean Turkey Watch",
         "published": "Fri, 13 Nov 2026 07:40:00 GMT",
         "base_score": 88,
-        "candidate_score": 94,
+        "candidate_score": 91,
         "priority": "High",
         "matched_keywords": [
           "Ege",
@@ -438,7 +437,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 13 Nov 2026 18:48:27 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -448,15 +447,15 @@
         "content_type": "news"
       },
       {
-        "external_id": "1bc39e57fff613b90e660bc9",
+        "external_id": "ee406d392843bbfcea58a559",
         "mode": "pontos_voice",
-        "title": "Ευχαριστίας αντίδωρον στην Παναγία Σουμελά - Rethemnos News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUxXdXZuTV9zNFhBaTBIRFVZMTBpa2hGa1phT2VMMm9JMTdCNmhJakNzVE00aGdsTXZKNU5FQ2xXa0kxekZHYkY2cE9vX3lGc3RNU2hWS0RvbUpkVUp0ZkFhaWxJMHk0a01xV2hlSjB3RW55WW4zLUpES05NSE1adTU2ZDNOclBtelk3MWs1YUs?oc=5",
+        "title": "Ευχαριστίας αντίδωρον στην Παναγία Σουμελά - GOODnet.gr",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmNZOFVGSTVkSUZhOTE4bjItcDJ5N2IxVkJjVkk1UGVRbVlwYi05M01yOTdPNEoxdlNpTGl6OHhka3JRcG9oRExNSTVYME9qcUUxMi0wb0VPMmhMQXdBRGRndERNVVUzeEg1a3A0VzNTVTRmOG9ySWZXVFVUSG0xUUVzZG5WQVJV?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Fri, 13 Nov 2026 19:22:32 GMT",
+        "published": "Fri, 13 Nov 2026 17:19:00 GMT",
         "base_score": 86,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
           "Σουμελά"
@@ -471,7 +470,7 @@
         "source": "Pontos News Watch",
         "published": "Thu, 12 Nov 2026 19:34:53 GMT",
         "base_score": 78,
-        "candidate_score": 81,
+        "candidate_score": 78,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -487,7 +486,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 13 Nov 2026 20:14:00 +0300",
         "base_score": 59,
-        "candidate_score": 69,
+        "candidate_score": 65,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -506,7 +505,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 13 Nov 2026 19:40:00 +0300",
         "base_score": 59,
-        "candidate_score": 69,
+        "candidate_score": 65,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -521,27 +520,6 @@
   },
   "items": [
     {
-      "external_id": "85b3dee76aea4e64d866d0de",
-      "mode": "sportdog",
-      "title": "Nottingham Forest owner accused of favouring Olympiacos - Presidential candidate questions transfers - Sport Witness",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmJRMVY1aTUtSExCajg3ZE9qOTZ5VU9JNURRclBCRXYxRUhSMVNPOERpaGhpSTVNSEpXODk5WGgza09Eek9hUWt3bWJFQlM4c0wtMVlmdTloTzZlRGItNWE1TzQzVDNFMVhnbkNCMV83dmZNbDBYdkNhTWVMS040d2hKQlZpbEJNdEYwX3IzNE10Y250RGdFTkZubmN6LUE5dUc3SGk0QWliLXJpTFdqTDUyeXRaVUctQ29xS1ZrWnBiZ3Bl?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 12 Nov 2026 15:30:14 GMT",
-      "base_score": 81,
-      "candidate_score": 111,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Olympiacos",
-        "transfer",
-        "transfers"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
       "external_id": "1eb71e54e66ee6a87c8727dd",
       "mode": "sportdog",
       "title": "Nathan Gassama Transfer from Baltika to Panathinaikos - TransferFeed",
@@ -554,26 +532,6 @@
       "matched_keywords": [
         "Panathinaikos",
         "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "a4e1c97b3aeecc1a81ff5e17",
-      "mode": "sportdog",
-      "title": "Panathinaikos strike record stadium rights agreement with Novibet - Sportcal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHJtWEVCb2xKN2ZsVDg4YU41Y3YyTkVtckpfd2dpLUh1ekw5MG1UY3lXOUZRZkZ2TnlyOGtsTHJaRk1ES0pZdDZsYlI5ZUQzRWRDM1doN2wtR25nX0dmWUNWUkJoQ2hCR0hsbnBkYzhRcFNBdUQ1U19GeGdZSEpiTnN1blZ2dWdTejY0SVc1Zl80Zmo3U2o3c2w3LTNNb21Qd1JQZ2FB?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 13 Nov 2026 09:30:23 GMT",
-      "base_score": 56,
-      "candidate_score": 82,
-      "priority": "High",
-      "matched_keywords": [
-        "Panathinaikos",
-        "agreement"
       ],
       "content_type": "news",
       "editorial_type": "Transfer Report",
@@ -602,6 +560,26 @@
       "needs_second_source": true
     },
     {
+      "external_id": "a4e1c97b3aeecc1a81ff5e17",
+      "mode": "sportdog",
+      "title": "Panathinaikos strike record stadium rights agreement with Novibet - Sportcal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHJtWEVCb2xKN2ZsVDg4YU41Y3YyTkVtckpfd2dpLUh1ekw5MG1UY3lXOUZRZkZ2TnlyOGtsTHJaRk1ES0pZdDZsYlI5ZUQzRWRDM1doN2wtR25nX0dmWUNWUkJoQ2hCR0hsbnBkYzhRcFNBdUQ1U19GeGdZSEpiTnN1blZ2dWdTejY0SVc1Zl80Zmo3U2o3c2w3LTNNb21Qd1JQZ2FB?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 13 Nov 2026 09:30:23 GMT",
+      "base_score": 56,
+      "candidate_score": 79,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "agreement"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "4bf7ce41b9ea7a5bddf536cb",
       "mode": "sportdog",
       "title": "Olympiacos Eye January Reinforcements to Strengthen Title Bid: Three Positions Identified - roundtable.io",
@@ -609,7 +587,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Thu, 12 Nov 2026 19:24:56 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -618,21 +596,22 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
-      "external_id": "7d0ea1d1ef7834693f9c1c29",
+      "external_id": "056e0b61a2145e85f15fc935",
       "mode": "sportdog",
-      "title": "Live: Παναθηναϊκός AKTOR - Μπαρτσελόνα (Euroleague 2026-27) - SDNA",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGpJM18yUGlyRFpSaXFlS0JuR0tlMldjVHNfa2ZRMTFxak1nY1ZhdzE3WmhBVm1ITllKN2dmdVBxMmplZl90Ui1SSDJLMlJjbi1zdUpQbDh2UHZyMzFzUzVDMmRmWGJqOGFvV0lDTmFuVU1URGlfbEpYenRpMDFYNjN1bU84Q0pzNExTSjFqb0FTckpuYVE?oc=5",
+      "title": "‘Talking Crazy,’ ‘Getting a Little Carried Away’ – Fans React As Ex-Knicks Forward Claims Greek League’s Panathinaikos Would Beat NBA Teams - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXd4NDFZZjI0Qy02WXJScFhySld0VGtmZTFHRE8tYTctamktQnZ6NFo2d0VMdERZUWpOR0thV1drVno5VzJaWGZHbFoyM0VoMk5fbkNGUVBMYzZuUEQ1UFJCWjdUbEFWTDhST2dYY3d5UXJPSXJZTm5SaF85aGgxQkNVMEJiRU9kckE1LVZR?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 13 Nov 2026 18:47:31 GMT",
-      "base_score": 38,
-      "candidate_score": 56,
+      "published": "Fri, 13 Nov 2026 23:15:40 GMT",
+      "base_score": 39,
+      "candidate_score": 57,
       "priority": "Normal",
       "matched_keywords": [
-        "Παναθηναϊκός"
+        "Panathinaikos",
+        "forward"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -666,7 +645,7 @@
       "title": "Watch AEK Athens vs Real Madrid - TOD",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0dydi1uLU5acG5vemtkUU9VRUVXeXJTeDhNWndTUDFCZkZKZTg3ZV9GUndudmhCVzB3a2cxVFl2LWprNS1lTnZIeHhDa2pHbk9Qbm1BaUVzX3FLeU91eTJBTVFGNTlNeVBxQmQ5RmxqcjIxSWh2MWFrbm0tOXlBMC1sbEtDWnkzbzVOMHVvV3ZpaW9QT2pySV9VcTd1Tnp5QjRPREtnY3NHQQ?oc=5",
       "source": "AEK Rumour Watch",
-      "published": "Fri, 13 Nov 2026 23:07:07 GMT",
+      "published": "Sat, 14 Nov 2026 03:01:17 GMT",
       "base_score": 31,
       "candidate_score": 54,
       "priority": "Normal",
@@ -680,40 +659,21 @@
       "needs_second_source": true
     },
     {
-      "external_id": "d94698c6d4193ee7d8d6b0da",
+      "external_id": "7d0ea1d1ef7834693f9c1c29",
       "mode": "sportdog",
-      "title": "'Time to shut them up': Justin Robinson sends message after stunning Panathinaikos - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ25tOTNDbzZ1MzVzUXJ2SFI0TXA4dkpNeFFuT3NBRnhNMXRDenE3Q3hqOW90SmNPV1hxLW11OVRud1NtZkRlYk40R0dOd1h2Sl8wT3dxUFBCOHNDRkZLcjFxd2MxOXV0OUdTNmdBSzZHay1xcDlvdG45UWZLVktlYVhLRXhkRnpDeVBUNFEzeU9NXzVtVG1uaTJzSXdLMm5XUlNmTw?oc=5",
+      "title": "Live: Παναθηναϊκός AKTOR - Μπαρτσελόνα (Euroleague 2026-27) - SDNA",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGpJM18yUGlyRFpSaXFlS0JuR0tlMldjVHNfa2ZRMTFxak1nY1ZhdzE3WmhBVm1ITllKN2dmdVBxMmplZl90Ui1SSDJLMlJjbi1zdUpQbDh2UHZyMzFzUzVDMmRmWGJqOGFvV0lDTmFuVU1URGlfbEpYenRpMDFYNjN1bU84Q0pzNExTSjFqb0FTckpuYVE?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 13 Nov 2026 21:54:12 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
+      "published": "Fri, 13 Nov 2026 18:47:31 GMT",
+      "base_score": 38,
+      "candidate_score": 52,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos"
+        "Παναθηναϊκός"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "f966da6bb668220568e3caa5",
-      "mode": "sportdog",
-      "title": "Δικαίωση, πίστη, αμφιβολία, ερωτηματικά: Τι εμφανίζει σήμερα το μεταγραφικό καλοκαίρι της ΑΕΚ - Gazzetta.gr",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaTFORjNVUFdVYk52dGVHdGUwWVpqWm9SdzVldG1yLVQ4OHdXVnFYTHZQRWFNcDdTd1JRb2N6aHc3elFSMC1mX2V3R0hXd3F1MHFEd2d2c1lRTEl5elVyaWRrYThweHg1UVc5dWhQVmJTcW5NclRoNjBfbVVxM3lzZGRuenF0SUVfSHVRUGdYZFM1dGRicGk3NWxCWWx2cXI3OVJhaGIwTGE2WE05UXY2a0Q1TV90MG5RWE5Vd0ZQdEvSAcYBQVVfeXFMUEdtX3ZrM1hkLXFrendxOHQ5NTVoZzkwZzFJZXNPT3BiSTZ6bkxIbDNQSkVVU25FUW1keFBSVzM0WVRadE5oWUZUTGt6XzZYekJDdm9EZ2NMS1hBSkk5SThOUU9ERVo3OE1OcWpZNnBVcDRucnllRVkwVHo1V0dOTm9Iak9mSGhBcDY0eXBNN1JhS0E1NklVamVrc1B4WU1fOVYwS2NraUZkbHRIVXJ1MWtMYncwWVl1cGJYNFpudUVnVTBnNml3?oc=5",
-      "source": "Sportdog Greek Transfer Scenarios",
-      "published": "Fri, 13 Nov 2026 15:00:40 GMT",
-      "base_score": 39,
-      "candidate_score": 53,
-      "priority": "Normal",
-      "matched_keywords": [
-        "ΑΕΚ"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -725,7 +685,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 13 Nov 2026 08:32:38 GMT",
       "base_score": 39,
-      "candidate_score": 53,
+      "candidate_score": 50,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -745,7 +705,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 13 Nov 2026 07:08:18 GMT",
       "base_score": 39,
-      "candidate_score": 53,
+      "candidate_score": 50,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -754,6 +714,25 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "79983a2374e72bd6de16cc42",
+      "mode": "sportdog",
+      "title": "AEK Athens Transactions - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xZnZqZUxHcjdaSkU2VXRkUldFS3Nnd1FPVzVYRFNBUGRxYnl5QlVDNkJTa09wV2xqeXlSWDhVMnE0NDhRUElVMnlpOEstUzA3MEt0NGVSZklTN0YzcHdQS09ITzhEY3QxaUl2UkRGM0VqdmNaRFE?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Fri, 13 Nov 2026 23:48:41 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -777,6 +756,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "52c3d7f5ff19279ff11c9bd9",
+      "mode": "sportdog",
+      "title": "Evan Fournier erupts for 28 as Olympiacos routs Dubai - TalkBasket.net",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNEJSc3BZZzUyRXY0dWJVU2NhR1UwT1FCRU9ON1kwMkpkZWNaQmZHNHQzLTUyMElEQVhIOGw2YUZ2VkFKcjNCblpaT3FnQ2s3ajQ5X1UwbVM5RVF0d0RyY2tSNFFaLW9rQ3pMWXVGV2RnUVV6b1B3eUswMlRZV3NIQXl4bDdCMnhBb005WWhCcmI?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 13 Nov 2026 07:10:57 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "e88535184d2a4f1e44465276",
       "mode": "geopolitico",
       "title": "Yunanistan'dan Girit'te tatbikat: Dendias'tan tehdit - İşçi Haber",
@@ -784,7 +782,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 13 Nov 2026 16:33:04 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -802,7 +800,7 @@
       "source": "China Strategic Watch",
       "published": "Fri, 13 Nov 2026 16:13:02 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -820,7 +818,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Fri, 13 Nov 2026 16:27:47 GMT",
       "base_score": 94,
-      "candidate_score": 104,
+      "candidate_score": 100,
       "priority": "URGENT",
       "matched_keywords": [
         "Dendias",
@@ -874,7 +872,7 @@
       "source": "Pakistan Security Watch",
       "published": "Fri, 13 Nov 2026 09:38:46 GMT",
       "base_score": 94,
-      "candidate_score": 100,
+      "candidate_score": 97,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -890,10 +888,10 @@
       "title": "Turkey and Qatar sign defense agreement as Erdogan, Al Thani discuss Iran and Gaza - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Wa0Y0TkdUdndjT0tJaG42TXZHNlFvNnpicDNMZFJDcWc3Y0hNOUc3V1NpOWFMdjFpLVppY19hejg5Qk9RbzZTNGtPdnhPLVBrOGfSAVdBVV95cUxQNTBHZVF0dkJaaHFYeDlEeHRaSGFrc0lrcy02YUl0ZWpBS1hBTFFTcjFEN3lsNU8zQUl3NG8zSUVUYk9sSlR0dnNzVS1Xc2NZWHBuOEI2T2M?oc=5",
       "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-      "published": "Fri, 13 Nov 2026 20:47:54 GMT",
+      "published": "Fri, 13 Nov 2026 20:34:00 GMT",
       "base_score": 84,
-      "candidate_score": 99,
-      "priority": "URGENT",
+      "candidate_score": 94,
+      "priority": "High",
       "matched_keywords": [
         "Israel",
         "Iran",
@@ -911,7 +909,7 @@
       "source": "Eastern Mediterranean Turkey Watch",
       "published": "Fri, 13 Nov 2026 07:40:00 GMT",
       "base_score": 88,
-      "candidate_score": 94,
+      "candidate_score": 91,
       "priority": "High",
       "matched_keywords": [
         "Ege",
@@ -947,7 +945,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 13 Nov 2026 18:48:27 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -957,15 +955,15 @@
       "content_type": "news"
     },
     {
-      "external_id": "1bc39e57fff613b90e660bc9",
+      "external_id": "ee406d392843bbfcea58a559",
       "mode": "pontos_voice",
-      "title": "Ευχαριστίας αντίδωρον στην Παναγία Σουμελά - Rethemnos News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUxXdXZuTV9zNFhBaTBIRFVZMTBpa2hGa1phT2VMMm9JMTdCNmhJakNzVE00aGdsTXZKNU5FQ2xXa0kxekZHYkY2cE9vX3lGc3RNU2hWS0RvbUpkVUp0ZkFhaWxJMHk0a01xV2hlSjB3RW55WW4zLUpES05NSE1adTU2ZDNOclBtelk3MWs1YUs?oc=5",
+      "title": "Ευχαριστίας αντίδωρον στην Παναγία Σουμελά - GOODnet.gr",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmNZOFVGSTVkSUZhOTE4bjItcDJ5N2IxVkJjVkk1UGVRbVlwYi05M01yOTdPNEoxdlNpTGl6OHhka3JRcG9oRExNSTVYME9qcUUxMi0wb0VPMmhMQXdBRGRndERNVVUzeEg1a3A0VzNTVTRmOG9ySWZXVFVUSG0xUUVzZG5WQVJV?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Fri, 13 Nov 2026 19:22:32 GMT",
+      "published": "Fri, 13 Nov 2026 17:19:00 GMT",
       "base_score": 86,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
         "Σουμελά"
@@ -980,7 +978,7 @@
       "source": "Pontos News Watch",
       "published": "Thu, 12 Nov 2026 19:34:53 GMT",
       "base_score": 78,
-      "candidate_score": 81,
+      "candidate_score": 78,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -996,7 +994,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 13 Nov 2026 20:14:00 +0300",
       "base_score": 59,
-      "candidate_score": 69,
+      "candidate_score": 65,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -1015,7 +1013,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 13 Nov 2026 19:40:00 +0300",
       "base_score": 59,
-      "candidate_score": 69,
+      "candidate_score": 65,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
