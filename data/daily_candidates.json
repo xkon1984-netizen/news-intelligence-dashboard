@@ -1,12 +1,33 @@
 {
-  "generated_at": "2026-11-14T17:01:35.605966+00:00",
+  "generated_at": "2026-11-14T21:25:43.985004+00:00",
   "counts": {
-    "sportdog": 13,
+    "sportdog": 12,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "0eceaeec86bb79eb67462566",
+        "mode": "sportdog",
+        "title": "Olympiacos dealt major Nikola Milutinov injury blow ahead of Maccabi Tel Aviv clash - basketballsphere.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TeXRDajVOUzhQZVU4a3dqTTdNaDdwSzVISFk0UkM5ZndabmhFNEtEdEhNUTROWHZTNkZVTXQ5OUN0OTdFamI1cC04NlM5cl83ckJqeEY1WUk1LTc4aFRzbktKLW9FT21WWVVLanNITGN0TDkwX2c?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sat, 14 Nov 2026 13:55:56 GMT",
+        "base_score": 66,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Olympiacos",
+          "deal",
+          "injury"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
       {
         "external_id": "a4e1c97b3aeecc1a81ff5e17",
         "mode": "sportdog",
@@ -55,7 +76,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 14 Nov 2026 14:06:50 GMT",
         "base_score": 39,
-        "candidate_score": 62,
+        "candidate_score": 57,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -64,7 +85,7 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -75,7 +96,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 14 Nov 2026 15:55:27 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -87,18 +108,17 @@
         "needs_second_source": true
       },
       {
-        "external_id": "056e0b61a2145e85f15fc935",
+        "external_id": "7d0ea1d1ef7834693f9c1c29",
         "mode": "sportdog",
-        "title": "‘Talking Crazy,’ ‘Getting a Little Carried Away’ – Fans React As Ex-Knicks Forward Claims Greek League’s Panathinaikos Would Beat NBA Teams - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXd4NDFZZjI0Qy02WXJScFhySld0VGtmZTFHRE8tYTctamktQnZ6NFo2d0VMdERZUWpOR0thV1drVno5VzJaWGZHbFoyM0VoMk5fbkNGUVBMYzZuUEQ1UFJCWjdUbEFWTDhST2dYY3d5UXJPSXJZTm5SaF85aGgxQkNVMEJiRU9kckE1LVZR?oc=5",
+        "title": "Live: Παναθηναϊκός AKTOR - Μπαρτσελόνα (Euroleague 2026-27) - SDNA",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGpJM18yUGlyRFpSaXFlS0JuR0tlMldjVHNfa2ZRMTFxak1nY1ZhdzE3WmhBVm1ITllKN2dmdVBxMmplZl90Ui1SSDJLMlJjbi1zdUpQbDh2UHZyMzFzUzVDMmRmWGJqOGFvV0lDTmFuVU1URGlfbEpYenRpMDFYNjN1bU84Q0pzNExTSjFqb0FTckpuYVE?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 13 Nov 2026 23:15:40 GMT",
-        "base_score": 39,
-        "candidate_score": 53,
+        "published": "Fri, 13 Nov 2026 18:47:31 GMT",
+        "base_score": 38,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos",
-          "forward"
+          "Παναθηναϊκός"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
@@ -114,7 +134,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Fri, 13 Nov 2026 12:56:54 GMT",
         "base_score": 41,
-        "candidate_score": 52,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK",
@@ -134,7 +154,7 @@
         "source": "Sportdog Greek Transfer Scenarios",
         "published": "Fri, 13 Nov 2026 15:00:40 GMT",
         "base_score": 39,
-        "candidate_score": 50,
+        "candidate_score": 47,
         "priority": "Normal",
         "matched_keywords": [
           "ΑΕΚ"
@@ -153,7 +173,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Sat, 14 Nov 2026 10:48:11 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -161,46 +181,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "5cb71225f86a6bebef254e33",
-        "mode": "sportdog",
-        "title": "Marseille Show Interest in Olympiacos’ Argentine Midfielder - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFJlcXl3R2VnSHNQZEROZS1GU0FSeVZQWWVEMC1UaTZNbkFmNnp0VUp0TVBLaVNURVQ0N2dlNGdiaXZoX1ZMeWlBdDZHbUwyRE9YQTZoOGx4UmY5MVJBN3FXNlhKWFotNm5MTlU3X3k3cy0xbkVPMkwtVXNfTVVndEJGeHByZF9yay1scFlaeWFaSkM5ZnprbEhUMUxVeDJXV0ZMaWlZRHlJb2tYUW95aWRYQjVOQQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 13 Nov 2026 08:32:38 GMT",
-        "base_score": 39,
-        "candidate_score": 47,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "midfielder"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "80841a8b2cf8c5f5b64daa9a",
-        "mode": "sportdog",
-        "title": "Argentine Midfielder to Leave Olympiacos: River Plate Show Interest - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVHphVm9CV0diYlg3TXdKWGxHSzVBQVJlWWVoNUJGTU9XUVFHQTFiamxNSlJ2WFg3emcyUXJiaDVRQXBhVDFjSGZRb21aM1MzUlIyZUdWN3BGekpuN2dJQ3E2Z1dKWjhscXhzd3hGUkEwWkdnMnZiU2hqbzNjdFpXMjdXZzdqTGRmajVWeGhhN01IS1J2SnkzcmhlWVQ2LS1QbHhxeWo2Z2pTdTJGeWs4M2FMRDVWaGMtTG9MeG15MzI?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 13 Nov 2026 07:08:18 GMT",
-        "base_score": 39,
-        "candidate_score": 47,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "midfielder"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -231,7 +211,7 @@
         "source": "AEK Rumour Watch",
         "published": "Fri, 13 Nov 2026 23:48:41 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -250,7 +230,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Fri, 13 Nov 2026 13:12:24 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -263,6 +243,24 @@
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "7493f5878a1d8d731522b41b",
+        "mode": "geopolitico",
+        "title": "24 terrorists, 4 Pakistani soldiers killed in Balochistan, Khyber Pakhtunkhwa - India Today",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODJ3MUNhLWNOWXZhVENwc0xidXlkYlhSY2VRY3ptcTNyYTViUHc5dk0tZkFqclRUSnpoYXhRU0V1UzY5R2lBM3paNXNnRFhKS2QtQ0lPa1JwQWFUbE14RWFWUXVwSjV5dDVlNWt3ZDdqczNkRkdHcjczUlZBSE5JeUlEY2Jzd1d6TGkxOXNkN0d2a291NlQ0aXc1aWxUTjlZTjVBR1IzX0ZSa3VJSk1FVGhLZDJUXzhSbGpfZGVLNEEtaGRDcUh3ZEhfWGNxN1g3SXU1MVh4dnYzV25GMFhKbnBFUW82VUJIekkxbHFn0gHzAUFVX3lxTE5QcTduamY2a3BudWhYM0oxd1FxcnNITlVKZWhpR3JtRXVfUGpJdXFBeE5zTEZ6M2JaMGkwZFlzMVdkNXRaT25iT1V2a3RIVllJazNYRHlvUFljbEp6LUhwbEgteTNKdUhMbUJsY29Ccmg4RXNNLUtoRUNhN2pqUWZJeVQ0R1FCNGhIempfb0Z1RW14RWtBaDV1ZFg4N0gzYUJhdWdrZTlZQWRsWnNaSUVPa3hmbERrcUF5emJTTk1yOTh4UndWdV83MFJrd19rcG1tX1dJZV8xX19RNnNxX2tkVVRDMUY1Sl9pcGdVaHJaQ0JXaw?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sat, 14 Nov 2026 17:31:46 GMT",
+        "base_score": 94,
+        "candidate_score": 104,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Pakistani",
+          "Balochistan"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "e88535184d2a4f1e44465276",
         "mode": "geopolitico",
@@ -298,6 +296,24 @@
           "US China"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "e621e760b9c47fc56252edd0",
+        "mode": "geopolitico",
+        "title": "Türkiye ile Yunanistan arasında dikkat çeken askeri temas! Türk heyeti Girit Adası'nda - Yirmidort.tv",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTB6OG1kYlUta05PVHFMMkhLcFBXQU5LYmsyZGNNZERJbW1uNFhxcnVPZkpnTEhnNGhjSUpPSlh2RHRtbk9jazlRcE5pc2lXclM3N3BQWktmTThLRk1YVERjc2pQb3dxMHRVSlB6eWM5RTAwNWgxbmptdXRFRGVZN1FTeWYwT096S3RKY2RlNzZDMXBPT0wzR0E4REloWGhPQThDRFc4TUdhX0lZdU9tb3lpVm1ScHRrZHlCVkdWczc?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Sat, 14 Nov 2026 19:30:00 GMT",
+        "base_score": 85,
+        "candidate_score": 100,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Girit",
+          "ada",
+          "askeri"
+        ],
+        "content_type": "turkey_greece"
       },
       {
         "external_id": "24a207a0156b48b572105b8e",
@@ -353,50 +369,18 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "6c5ea528a3a164ddc5b0c79a",
+        "external_id": "e1156d3cbe5678b891c5751f",
         "mode": "geopolitico",
-        "title": "Yunanistan'ın Doğu Akdeniz Planına Mısır'dan Türkiye Şartı - Dosya Haber",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdXRSRU5LMlZYMEZKRzd3VkhVdVpLSWxyZ2hxRnVuVDVqcU45TkplXzM1NU01ZGRob1RnNFpjT3Jud3NFMk1nSHlIRk5QdTRDck9xSnBXaXYtLTFVRHJPMFU1amh3M0xzOGoyUkppaTc0NEJJb1pPRmo4ZEp6REtYNkpIdGdYSUpfUVBBR0s4aGMxUlI3SmM3anlOU2N0UQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 14 Nov 2026 16:29:42 GMT",
+        "title": "[ANALYST WATCH] Namık Tan — Namık Tan | Vaziyet nazik: İran, Ukrayna, Azerbaycan - T24",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2Y5ZDBmaFhJU0N3dWVUcGdvLTdPeE9BUXBIQmVuejV2SUdLM0liZVVmVGl1Y3ZjdzJ0V3Zsak42dVQ2U3dmWllfeGFzM1lNRDBESWR0T1VsdUpqT2czRm9DbWM0QTVoUkVJbkpReXNZVWlYWjQzbFExbE11QzhLcEtLWGhQSEdq?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Sat, 14 Nov 2026 21:00:00 GMT",
         "base_score": 75,
         "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "895ced6ff5b1f74b43347430",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Michael Rubin — Michael Rubin - okmagazine.com",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KbEQ1c3BKd0ZWTlp2RjIzMjdFUlZ6a21vdTBTSTFQWUdZaGtpaWdXR0VRMllvb0hVZklNWkdzWEdHQ2h1Q3lsYTc5RFJxMWpF?oc=5",
-        "source": "Analysts Watch · United States",
-        "published": "Sat, 14 Nov 2026 16:00:43 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Michael Rubin",
-          "Michael Rubin"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "6f50aad827638e9737443179",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Michael Rubin — Billionaire Michael Rubin Will 'Definitely' Have a Prenup With Camille Fishel, Source Says After Their Shock Engagement - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyTHA2NzBBbU4xQWNZakVtZW5GNDNVLUJSZmVCUmw2WEV4MWxNV2VQMlNZVVFzc2owVDBMdmkwN3hiUEU5c2pVcGdiQWhNOTAxS2JNWktONENPTE1hVkg3RFN6bDlFT0JOQlJEX2NEbkNfUWdHRWptTC1EdGdWeVd2bE1SbEpXQzlFTHlJQlM?oc=5",
-        "source": "Analysts Watch · United States",
-        "published": "Sat, 14 Nov 2026 15:55:24 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Michael Rubin",
-          "Michael Rubin"
+          "Namık Tan",
+          "Namık Tan"
         ],
         "content_type": "analyst"
       }
@@ -439,71 +423,74 @@
         "content_type": "news"
       },
       {
-        "external_id": "45d75764dcfedf803f068c32",
+        "external_id": "fa65ddb376084511faff1c92",
         "mode": "pontos_voice",
-        "title": "Η ποντιακή μουσική πέρα από σύνορα: Ελλάδα, Τουρκία και Ρωσία σε μία σκηνή - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS1JwM0stTGdrR1pna0xUQklXTDhqNzh1eEhWbVhxYllZbG16cDlxYnF5WXB0Slk4V2dxRUhfdlpqOHZ2UE9oUXJvWmVONVNWTkZSS3Q0LXNNTTVQUmJ1U0VabWtaM3luVkdDWEI1dlhCUnVibXlFRTREcWNHOG9SRUdaQ0MzVWhJOFJZRm1qUTBjVEZQRW1qOHhtZTlxTWNqTFE?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Fri, 13 Nov 2026 18:48:27 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
+        "title": "Trabzon'un lezzeti İstanbul'a taşındı! Horon ve kuymak bir arada",
+        "url": "https://www.61saat.com/trabzonun-lezzeti-istanbula-tasindi-horon-ve-kuymak-bir-arada",
+        "source": "61Saat Trabzon",
+        "published": "Sat, 14 Nov 2026 21:42:00 +0300",
+        "base_score": 83,
+        "candidate_score": 98,
         "priority": "URGENT",
         "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "ποντιακή μουσική"
+          "Trabzon",
+          "kültür",
+          "belediye başkanı",
+          "anıt",
+          "Trabzon",
+          "dil",
+          "vali"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "a5913f5501ff0078587a309e",
+        "external_id": "08713e2c63219a006b95f520",
         "mode": "pontos_voice",
-        "title": "Μαρτυρία Χαράλαμπου Χριστοφορίδη: Όταν ο Κεμάλ έκαψε τα χωριά της Σαμψούντας και οι Πόντιοι πήραν τα βουνά - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdkUFBuZ3ZZWVdLRUg4emNJVnRVSXJIc1d5S2ZoaUtYZEtpUlZMdm15U3kwemFUQjZfNzlzSmtlTXdNODFmQi1RYTRvX0NiWXZzZ0VQNEVZbnhOaW9HN0xDWjhrQkFMMmFKajhJR2tfMjA1eTZIdnlIM25WT0R5a1V1VTJpaWdCQWZRZVhRN1VObERJYzBVMkJHZy1USHl1RGZNN0tOSTU3QVpYVXJaME9MN2EyaV9GSWVFVg?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Thu, 12 Nov 2026 19:34:53 GMT",
-        "base_score": 78,
-        "candidate_score": 78,
-        "priority": "High",
+        "title": "Ευχαριστίας αντίδωρον στην Παναγία Σουμελά - εκκλησια online",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNC1YeGNLR2ZoNjN5Tk1HeGZ4MTZNSGpOMVdxVzBMX3lWTDQ4ZU5iTUtZYWMwSy1WWFBneksyOS1OTkRiMC1SRzBBSkRxdTVwQ1JqUzlWSVhHMUI5S050VE1rOE9JY0tQVTFnTkdKZU1ISFRDRTNrd2dPQkgzYVZ6OWNVaVQ?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 14 Nov 2026 16:36:26 GMT",
+        "base_score": 86,
+        "candidate_score": 96,
+        "priority": "URGENT",
         "matched_keywords": [
-          "Pontos",
-          "Πόντιοι"
+          "Παναγία Σουμελά",
+          "Σουμελά"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "7c072075da1377439214617a",
+        "external_id": "8258f7f7784e141d6c73eb24",
         "mode": "pontos_voice",
-        "title": "Karaismailoğlu açıkladı! Trabzon Şehir Hastanesi için iki önemli tarih",
-        "url": "https://www.61saat.com/karaismailoglu-acikladi-trabzon-sehir-hastanesi-icin-iki-onemli-tarih",
+        "title": "Trabzon Valisi Tahir Şahin'den Kore Gazisi Pirağa Uzun için taziye mesajı",
+        "url": "https://www.61saat.com/trabzon-valisi-tahir-sahinden-kore-gazisi-piraga-uzun-icin-taziye-mesaji",
         "source": "61Saat Trabzon",
-        "published": "Sat, 14 Nov 2026 15:38:00 +0300",
-        "base_score": 59,
-        "candidate_score": 69,
+        "published": "Sat, 14 Nov 2026 20:04:00 +0300",
+        "base_score": 51,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "milletvekili",
-          "açıklama",
           "Trabzon",
-          "dil"
+          "dil",
+          "vali"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "5f5a5efe150718b240d46dd6",
+        "external_id": "f5e096a01c5bdf8381927ea8",
         "mode": "pontos_voice",
-        "title": "TOFAŞ mağlubiyeti sonrası açıklama! “Daha çok çalışmalıyız”",
-        "url": "https://www.61saat.com/tofas-maglubiyeti-sonrasi-aciklama-daha-cok-calismaliyiz",
+        "title": "Trabzon Şehir Hastanesi'nde işe alım tartışması! “Siyasi yakınlık değil, liyakat!”",
+        "url": "https://www.61saat.com/trabzon-sehir-hastanesinde-ise-alim-tartismasi-siyasi-yakinlik-degil-liyakat",
         "source": "61Saat Trabzon",
-        "published": "Sat, 14 Nov 2026 19:15:00 +0300",
-        "base_score": 47,
-        "candidate_score": 62,
+        "published": "Sat, 14 Nov 2026 21:06:00 +0300",
+        "base_score": 49,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Of",
           "açıklama",
+          "tartışma",
           "Trabzon"
         ],
         "content_type": "news"
@@ -511,6 +498,27 @@
     ]
   },
   "items": [
+    {
+      "external_id": "0eceaeec86bb79eb67462566",
+      "mode": "sportdog",
+      "title": "Olympiacos dealt major Nikola Milutinov injury blow ahead of Maccabi Tel Aviv clash - basketballsphere.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TeXRDajVOUzhQZVU4a3dqTTdNaDdwSzVISFk0UkM5ZndabmhFNEtEdEhNUTROWHZTNkZVTXQ5OUN0OTdFamI1cC04NlM5cl83ckJqeEY1WUk1LTc4aFRzbktKLW9FT21WWVVLanNITGN0TDkwX2c?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sat, 14 Nov 2026 13:55:56 GMT",
+      "base_score": 66,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Olympiacos",
+        "deal",
+        "injury"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
     {
       "external_id": "a4e1c97b3aeecc1a81ff5e17",
       "mode": "sportdog",
@@ -559,7 +567,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 14 Nov 2026 14:06:50 GMT",
       "base_score": 39,
-      "candidate_score": 62,
+      "candidate_score": 57,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -568,7 +576,7 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -579,7 +587,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 14 Nov 2026 15:55:27 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -591,18 +599,17 @@
       "needs_second_source": true
     },
     {
-      "external_id": "056e0b61a2145e85f15fc935",
+      "external_id": "7d0ea1d1ef7834693f9c1c29",
       "mode": "sportdog",
-      "title": "‘Talking Crazy,’ ‘Getting a Little Carried Away’ – Fans React As Ex-Knicks Forward Claims Greek League’s Panathinaikos Would Beat NBA Teams - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXd4NDFZZjI0Qy02WXJScFhySld0VGtmZTFHRE8tYTctamktQnZ6NFo2d0VMdERZUWpOR0thV1drVno5VzJaWGZHbFoyM0VoMk5fbkNGUVBMYzZuUEQ1UFJCWjdUbEFWTDhST2dYY3d5UXJPSXJZTm5SaF85aGgxQkNVMEJiRU9kckE1LVZR?oc=5",
+      "title": "Live: Παναθηναϊκός AKTOR - Μπαρτσελόνα (Euroleague 2026-27) - SDNA",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGpJM18yUGlyRFpSaXFlS0JuR0tlMldjVHNfa2ZRMTFxak1nY1ZhdzE3WmhBVm1ITllKN2dmdVBxMmplZl90Ui1SSDJLMlJjbi1zdUpQbDh2UHZyMzFzUzVDMmRmWGJqOGFvV0lDTmFuVU1URGlfbEpYenRpMDFYNjN1bU84Q0pzNExTSjFqb0FTckpuYVE?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 13 Nov 2026 23:15:40 GMT",
-      "base_score": 39,
-      "candidate_score": 53,
+      "published": "Fri, 13 Nov 2026 18:47:31 GMT",
+      "base_score": 38,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos",
-        "forward"
+        "Παναθηναϊκός"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -618,7 +625,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Fri, 13 Nov 2026 12:56:54 GMT",
       "base_score": 41,
-      "candidate_score": 52,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK",
@@ -638,7 +645,7 @@
       "source": "Sportdog Greek Transfer Scenarios",
       "published": "Fri, 13 Nov 2026 15:00:40 GMT",
       "base_score": 39,
-      "candidate_score": 50,
+      "candidate_score": 47,
       "priority": "Normal",
       "matched_keywords": [
         "ΑΕΚ"
@@ -657,7 +664,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Sat, 14 Nov 2026 10:48:11 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -665,46 +672,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "5cb71225f86a6bebef254e33",
-      "mode": "sportdog",
-      "title": "Marseille Show Interest in Olympiacos’ Argentine Midfielder - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFJlcXl3R2VnSHNQZEROZS1GU0FSeVZQWWVEMC1UaTZNbkFmNnp0VUp0TVBLaVNURVQ0N2dlNGdiaXZoX1ZMeWlBdDZHbUwyRE9YQTZoOGx4UmY5MVJBN3FXNlhKWFotNm5MTlU3X3k3cy0xbkVPMkwtVXNfTVVndEJGeHByZF9yay1scFlaeWFaSkM5ZnprbEhUMUxVeDJXV0ZMaWlZRHlJb2tYUW95aWRYQjVOQQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 13 Nov 2026 08:32:38 GMT",
-      "base_score": 39,
-      "candidate_score": 47,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "midfielder"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "80841a8b2cf8c5f5b64daa9a",
-      "mode": "sportdog",
-      "title": "Argentine Midfielder to Leave Olympiacos: River Plate Show Interest - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVHphVm9CV0diYlg3TXdKWGxHSzVBQVJlWWVoNUJGTU9XUVFHQTFiamxNSlJ2WFg3emcyUXJiaDVRQXBhVDFjSGZRb21aM1MzUlIyZUdWN3BGekpuN2dJQ3E2Z1dKWjhscXhzd3hGUkEwWkdnMnZiU2hqbzNjdFpXMjdXZzdqTGRmajVWeGhhN01IS1J2SnkzcmhlWVQ2LS1QbHhxeWo2Z2pTdTJGeWs4M2FMRDVWaGMtTG9MeG15MzI?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 13 Nov 2026 07:08:18 GMT",
-      "base_score": 39,
-      "candidate_score": 47,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "midfielder"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -735,7 +702,7 @@
       "source": "AEK Rumour Watch",
       "published": "Fri, 13 Nov 2026 23:48:41 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -754,7 +721,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Fri, 13 Nov 2026 13:12:24 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -764,6 +731,24 @@
       "team": "PAOK",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "7493f5878a1d8d731522b41b",
+      "mode": "geopolitico",
+      "title": "24 terrorists, 4 Pakistani soldiers killed in Balochistan, Khyber Pakhtunkhwa - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODJ3MUNhLWNOWXZhVENwc0xidXlkYlhSY2VRY3ptcTNyYTViUHc5dk0tZkFqclRUSnpoYXhRU0V1UzY5R2lBM3paNXNnRFhKS2QtQ0lPa1JwQWFUbE14RWFWUXVwSjV5dDVlNWt3ZDdqczNkRkdHcjczUlZBSE5JeUlEY2Jzd1d6TGkxOXNkN0d2a291NlQ0aXc1aWxUTjlZTjVBR1IzX0ZSa3VJSk1FVGhLZDJUXzhSbGpfZGVLNEEtaGRDcUh3ZEhfWGNxN1g3SXU1MVh4dnYzV25GMFhKbnBFUW82VUJIekkxbHFn0gHzAUFVX3lxTE5QcTduamY2a3BudWhYM0oxd1FxcnNITlVKZWhpR3JtRXVfUGpJdXFBeE5zTEZ6M2JaMGkwZFlzMVdkNXRaT25iT1V2a3RIVllJazNYRHlvUFljbEp6LUhwbEgteTNKdUhMbUJsY29Ccmg4RXNNLUtoRUNhN2pqUWZJeVQ0R1FCNGhIempfb0Z1RW14RWtBaDV1ZFg4N0gzYUJhdWdrZTlZQWRsWnNaSUVPa3hmbERrcUF5emJTTk1yOTh4UndWdV83MFJrd19rcG1tX1dJZV8xX19RNnNxX2tkVVRDMUY1Sl9pcGdVaHJaQ0JXaw?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sat, 14 Nov 2026 17:31:46 GMT",
+      "base_score": 94,
+      "candidate_score": 104,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Pakistani",
+        "Balochistan"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "e88535184d2a4f1e44465276",
@@ -800,6 +785,24 @@
         "US China"
       ],
       "content_type": "news"
+    },
+    {
+      "external_id": "e621e760b9c47fc56252edd0",
+      "mode": "geopolitico",
+      "title": "Türkiye ile Yunanistan arasında dikkat çeken askeri temas! Türk heyeti Girit Adası'nda - Yirmidort.tv",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTB6OG1kYlUta05PVHFMMkhLcFBXQU5LYmsyZGNNZERJbW1uNFhxcnVPZkpnTEhnNGhjSUpPSlh2RHRtbk9jazlRcE5pc2lXclM3N3BQWktmTThLRk1YVERjc2pQb3dxMHRVSlB6eWM5RTAwNWgxbmptdXRFRGVZN1FTeWYwT096S3RKY2RlNzZDMXBPT0wzR0E4REloWGhPQThDRFc4TUdhX0lZdU9tb3lpVm1ScHRrZHlCVkdWczc?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Sat, 14 Nov 2026 19:30:00 GMT",
+      "base_score": 85,
+      "candidate_score": 100,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Girit",
+        "ada",
+        "askeri"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "24a207a0156b48b572105b8e",
@@ -855,50 +858,18 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "6c5ea528a3a164ddc5b0c79a",
+      "external_id": "e1156d3cbe5678b891c5751f",
       "mode": "geopolitico",
-      "title": "Yunanistan'ın Doğu Akdeniz Planına Mısır'dan Türkiye Şartı - Dosya Haber",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdXRSRU5LMlZYMEZKRzd3VkhVdVpLSWxyZ2hxRnVuVDVqcU45TkplXzM1NU01ZGRob1RnNFpjT3Jud3NFMk1nSHlIRk5QdTRDck9xSnBXaXYtLTFVRHJPMFU1amh3M0xzOGoyUkppaTc0NEJJb1pPRmo4ZEp6REtYNkpIdGdYSUpfUVBBR0s4aGMxUlI3SmM3anlOU2N0UQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 14 Nov 2026 16:29:42 GMT",
+      "title": "[ANALYST WATCH] Namık Tan — Namık Tan | Vaziyet nazik: İran, Ukrayna, Azerbaycan - T24",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2Y5ZDBmaFhJU0N3dWVUcGdvLTdPeE9BUXBIQmVuejV2SUdLM0liZVVmVGl1Y3ZjdzJ0V3Zsak42dVQ2U3dmWllfeGFzM1lNRDBESWR0T1VsdUpqT2czRm9DbWM0QTVoUkVJbkpReXNZVWlYWjQzbFExbE11QzhLcEtLWGhQSEdq?oc=5",
+      "source": "Analysts Watch · Turkey",
+      "published": "Sat, 14 Nov 2026 21:00:00 GMT",
       "base_score": 75,
       "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "895ced6ff5b1f74b43347430",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Michael Rubin — Michael Rubin - okmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KbEQ1c3BKd0ZWTlp2RjIzMjdFUlZ6a21vdTBTSTFQWUdZaGtpaWdXR0VRMllvb0hVZklNWkdzWEdHQ2h1Q3lsYTc5RFJxMWpF?oc=5",
-      "source": "Analysts Watch · United States",
-      "published": "Sat, 14 Nov 2026 16:00:43 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Michael Rubin",
-        "Michael Rubin"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "6f50aad827638e9737443179",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Michael Rubin — Billionaire Michael Rubin Will 'Definitely' Have a Prenup With Camille Fishel, Source Says After Their Shock Engagement - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyTHA2NzBBbU4xQWNZakVtZW5GNDNVLUJSZmVCUmw2WEV4MWxNV2VQMlNZVVFzc2owVDBMdmkwN3hiUEU5c2pVcGdiQWhNOTAxS2JNWktONENPTE1hVkg3RFN6bDlFT0JOQlJEX2NEbkNfUWdHRWptTC1EdGdWeVd2bE1SbEpXQzlFTHlJQlM?oc=5",
-      "source": "Analysts Watch · United States",
-      "published": "Sat, 14 Nov 2026 15:55:24 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Michael Rubin",
-        "Michael Rubin"
+        "Namık Tan",
+        "Namık Tan"
       ],
       "content_type": "analyst"
     },
@@ -939,71 +910,74 @@
       "content_type": "news"
     },
     {
-      "external_id": "45d75764dcfedf803f068c32",
+      "external_id": "fa65ddb376084511faff1c92",
       "mode": "pontos_voice",
-      "title": "Η ποντιακή μουσική πέρα από σύνορα: Ελλάδα, Τουρκία και Ρωσία σε μία σκηνή - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS1JwM0stTGdrR1pna0xUQklXTDhqNzh1eEhWbVhxYllZbG16cDlxYnF5WXB0Slk4V2dxRUhfdlpqOHZ2UE9oUXJvWmVONVNWTkZSS3Q0LXNNTTVQUmJ1U0VabWtaM3luVkdDWEI1dlhCUnVibXlFRTREcWNHOG9SRUdaQ0MzVWhJOFJZRm1qUTBjVEZQRW1qOHhtZTlxTWNqTFE?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Fri, 13 Nov 2026 18:48:27 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
+      "title": "Trabzon'un lezzeti İstanbul'a taşındı! Horon ve kuymak bir arada",
+      "url": "https://www.61saat.com/trabzonun-lezzeti-istanbula-tasindi-horon-ve-kuymak-bir-arada",
+      "source": "61Saat Trabzon",
+      "published": "Sat, 14 Nov 2026 21:42:00 +0300",
+      "base_score": 83,
+      "candidate_score": 98,
       "priority": "URGENT",
       "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "ποντιακή μουσική"
+        "Trabzon",
+        "kültür",
+        "belediye başkanı",
+        "anıt",
+        "Trabzon",
+        "dil",
+        "vali"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "a5913f5501ff0078587a309e",
+      "external_id": "08713e2c63219a006b95f520",
       "mode": "pontos_voice",
-      "title": "Μαρτυρία Χαράλαμπου Χριστοφορίδη: Όταν ο Κεμάλ έκαψε τα χωριά της Σαμψούντας και οι Πόντιοι πήραν τα βουνά - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdkUFBuZ3ZZWVdLRUg4emNJVnRVSXJIc1d5S2ZoaUtYZEtpUlZMdm15U3kwemFUQjZfNzlzSmtlTXdNODFmQi1RYTRvX0NiWXZzZ0VQNEVZbnhOaW9HN0xDWjhrQkFMMmFKajhJR2tfMjA1eTZIdnlIM25WT0R5a1V1VTJpaWdCQWZRZVhRN1VObERJYzBVMkJHZy1USHl1RGZNN0tOSTU3QVpYVXJaME9MN2EyaV9GSWVFVg?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Thu, 12 Nov 2026 19:34:53 GMT",
-      "base_score": 78,
-      "candidate_score": 78,
-      "priority": "High",
+      "title": "Ευχαριστίας αντίδωρον στην Παναγία Σουμελά - εκκλησια online",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNC1YeGNLR2ZoNjN5Tk1HeGZ4MTZNSGpOMVdxVzBMX3lWTDQ4ZU5iTUtZYWMwSy1WWFBneksyOS1OTkRiMC1SRzBBSkRxdTVwQ1JqUzlWSVhHMUI5S050VE1rOE9JY0tQVTFnTkdKZU1ISFRDRTNrd2dPQkgzYVZ6OWNVaVQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 14 Nov 2026 16:36:26 GMT",
+      "base_score": 86,
+      "candidate_score": 96,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Pontos",
-        "Πόντιοι"
+        "Παναγία Σουμελά",
+        "Σουμελά"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "7c072075da1377439214617a",
+      "external_id": "8258f7f7784e141d6c73eb24",
       "mode": "pontos_voice",
-      "title": "Karaismailoğlu açıkladı! Trabzon Şehir Hastanesi için iki önemli tarih",
-      "url": "https://www.61saat.com/karaismailoglu-acikladi-trabzon-sehir-hastanesi-icin-iki-onemli-tarih",
+      "title": "Trabzon Valisi Tahir Şahin'den Kore Gazisi Pirağa Uzun için taziye mesajı",
+      "url": "https://www.61saat.com/trabzon-valisi-tahir-sahinden-kore-gazisi-piraga-uzun-icin-taziye-mesaji",
       "source": "61Saat Trabzon",
-      "published": "Sat, 14 Nov 2026 15:38:00 +0300",
-      "base_score": 59,
-      "candidate_score": 69,
+      "published": "Sat, 14 Nov 2026 20:04:00 +0300",
+      "base_score": 51,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "milletvekili",
-        "açıklama",
         "Trabzon",
-        "dil"
+        "dil",
+        "vali"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "5f5a5efe150718b240d46dd6",
+      "external_id": "f5e096a01c5bdf8381927ea8",
       "mode": "pontos_voice",
-      "title": "TOFAŞ mağlubiyeti sonrası açıklama! “Daha çok çalışmalıyız”",
-      "url": "https://www.61saat.com/tofas-maglubiyeti-sonrasi-aciklama-daha-cok-calismaliyiz",
+      "title": "Trabzon Şehir Hastanesi'nde işe alım tartışması! “Siyasi yakınlık değil, liyakat!”",
+      "url": "https://www.61saat.com/trabzon-sehir-hastanesinde-ise-alim-tartismasi-siyasi-yakinlik-degil-liyakat",
       "source": "61Saat Trabzon",
-      "published": "Sat, 14 Nov 2026 19:15:00 +0300",
-      "base_score": 47,
-      "candidate_score": 62,
+      "published": "Sat, 14 Nov 2026 21:06:00 +0300",
+      "base_score": 49,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Of",
         "açıklama",
+        "tartışma",
         "Trabzon"
       ],
       "content_type": "news"
