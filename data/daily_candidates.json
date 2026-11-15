@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T15:38:40.173750+00:00",
+  "generated_at": "2026-11-15T20:36:11.141155+00:00",
   "counts": {
-    "sportdog": 8,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,8 +15,8 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 14 Nov 2026 13:55:56 GMT",
         "base_score": 66,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "candidate_score": 93,
+        "priority": "High",
         "matched_keywords": [
           "Olympiacos",
           "deal",
@@ -29,6 +29,26 @@
         "needs_second_source": false
       },
       {
+        "external_id": "a1c2013aa21e74c7cc1f6095",
+        "mode": "sportdog",
+        "title": "Giorgi Kvernadze Transfer from Frosinone to Panathinaikos - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0dPWlZ3WUkxUGY0R25DbTVWYUtzWnh5NnpGWWtPV1lBUFA2LVMxWU10S1ZQMEFpMGNSRDdTeVlXWjVpQUFBR0drWTJoRWtrc1IzakZRMjFVRzdjZXB3R2V5RGVreEthTzBKYkhaRm5KeTlrNXc1cFRRVnJYZW5HOFR3eEljMTVlNHVmbng2UVlxUQ?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Sun, 15 Nov 2026 12:50:30 GMT",
+        "base_score": 58,
+        "candidate_score": 88,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
         "external_id": "450f94de32d25f282e45cda1",
         "mode": "sportdog",
         "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar Armenia",
@@ -36,7 +56,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 14 Nov 2026 10:40:53 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 76,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -49,12 +69,12 @@
         "needs_second_source": true
       },
       {
-        "external_id": "cbd1a8afefa115d19aa0ec97",
+        "external_id": "e9cc91bbc01a84507193b175",
         "mode": "sportdog",
         "title": "Possession won final 3rd per 90 - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTVBoc0ttblR3cTUyTWo1SUt5NU9xMGtuN1c1d1VyNFUxeXMwQ3MtbFpDakRqVW9FcDN1d19OU2ZpT1YxRGpHUF8wUlRfbXN1QjQ5TVN3dUYtbW5acWFueGNJdGNoaWU2c1otWktNWE1MMkRzdEVSQ2RGX09jMjN6cGg3Y0dpb0hCYVFKMjNSaVRkNm5zZmtwZHNXckZ4c1BC?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXcyTWo4ZDVIa1c1Y0NJTkQ5czRWNGx0UUhzb0o5WjFuUV84VzA0N3o3cjdwTTQyNnhDQ282ZU5KX0g3QmU0REZlMFRFSDlQTjR1eUdXXzV3M2dyUlc0dXJ6cV9sRWhremJOQS1yaEpRNTBXWndPaWQyWGk3RG83d3hla3hoSFh6RTFZckZ0Y1BpV3hzWVFnMkNOUU9WalBiNzd6NVVBNjc?oc=5",
         "source": "AEK Rumour Watch",
-        "published": "Sun, 15 Nov 2026 06:03:48 GMT",
+        "published": "Sun, 15 Nov 2026 05:41:57 GMT",
         "base_score": 56,
         "candidate_score": 70,
         "priority": "High",
@@ -76,8 +96,8 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sun, 15 Nov 2026 00:50:54 GMT",
         "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
           "Super League"
@@ -116,44 +136,6 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Sat, 14 Nov 2026 10:48:11 GMT",
         "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "f5565a3a4272fa8f68ea9254",
-        "mode": "sportdog",
-        "title": "AEK Athens vs Galatasaray Box Score - December 08, 2026 - The Athletic - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzhrNEtuZ3E4QUg4NjBwdjJwY19RbGJ4Z3A5WFJDd0NCY1pVa0FqWU1RV3NzRkxzdEVaOXBaaW5wOVV3WGFVU3Z0VmFPQTkwWG0xZVJrNnBBY25GV2tRME1takxzanNjXzlBMzNLeXk2bWNYV3VyTGxJR2RaVGxhTllvejdrdXFVblVBb1NXbGVrTno4?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Sat, 14 Nov 2026 08:26:18 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "eac5146c90796c5f5873f31f",
-        "mode": "sportdog",
-        "title": "This was Barça's incredible victory over Panathinaikos in Athens - Blog de Basket",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTh4X3NreGFxWnJVbWNEWWU4QXowOUw0bzlVbVZBS2EtUU12UDhDdDUxWF9UalJkWmFtbGhsRDJIUnJpNi00TTV2eHpmSTU2b2xoUlNSek5qQ09FTjRJOUp4RVFaUEZPWll5eTJzVHAzU0d6LThpdlFiWVJHSXhmREoyVkc0aFVSZmRGZTJqOWhRZHNBTG5KelN3YUNNaWx5U3lRTG00aHhyUQ?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 14 Nov 2026 08:09:02 GMT",
-        "base_score": 31,
         "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
@@ -168,14 +150,33 @@
     ],
     "geopolitico": [
       {
-        "external_id": "5f6ab65e0e033957e07a2f66",
+        "external_id": "128cf6e16a459e91567d0894",
         "mode": "geopolitico",
-        "title": "Report: Israeli arrested in Cyprus on suspicion of possessing loaded ammunition magazine - Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SQ000QWcyenpKcm9mRFdCTXFRaWVtU3hhdEpEdVdMMVlqc19tZXdSRmxKTm1lUUY1U3E3dXo2al9PaS1TUkItZHJGdVF1alRnZXp0bw?oc=5",
-        "source": "Ynet Greece Turkey Cyprus IMEC Watch",
-        "published": "Sun, 15 Nov 2026 12:26:23 GMT",
-        "base_score": 94,
-        "candidate_score": 104,
+        "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Enerji FM 100.5",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnXzdZT080OVVVdHM5dktmeHhrTDRNM1ZSaDdYWGhzWmxERTQ1ZkpyaFBhTWREVTFvMU5ERm1teTZWNDNjVE1vSUkzc0FrTE9CQjh6X1F0Zw?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Sun, 15 Nov 2026 16:44:53 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "NAVTEX",
+          "Doğu Akdeniz",
+          "Ankara",
+          "Atina",
+          "enerji"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "7cc653207e8d2edb34949c79",
+        "mode": "geopolitico",
+        "title": "Israeli sets sail from Cyprus with wife, arrested over what was found in bag - The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CMkU2akNvQXl1Ukl0RzhXRmh4dGFUTi1tVDVfX0wtaFVON2J0NE4zMVRFUWhzdlJjY3V2WEtlaGk4UGoteEROeTcyZS1fOEp5SFJaZ21ScXc4OFVMTTVpaWViUlVhczh1R2h4cEhnZ2EwZw?oc=5",
+        "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
+        "published": "Sun, 15 Nov 2026 15:52:18 GMT",
+        "base_score": 98,
+        "candidate_score": 108,
         "priority": "URGENT",
         "matched_keywords": [
           "Israel",
@@ -186,36 +187,41 @@
         "content_type": "news"
       },
       {
-        "external_id": "31e5826d20df7b36892646cc",
+        "external_id": "4991b8c9624346a1b71b2d22",
         "mode": "geopolitico",
-        "title": "Rehman Gul once fought Taliban for Pakistan Army. Now he leads Baloch Liberation Army - India Today",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUNLXy1XZmlwTzNYQTFqWF9nRXlzQnA4aXVGS1RqVnJKTE5qNzNRUXFZeHFsODRYNXFYeDBtNi1rX1c4cUtiMTgxSExDdlBBMVExSDZJN01sQWNLWGNDdm5FdmFmTDhiUE0zWGxobHZ3M0lBdTNxNlJUUE1xLWlxLVRvc0poQ0pSV0FRRFpQY2VRWFNGTncyYTRQbTZnc0RsTk5Vd0ZjQ2VXT0JIVXhmM2M4alFtVkNpZmRn0gHAAUFVX3lxTE80Y3lrSnpVYm54S0ZkU1BGSjdJWUR5anFTNHpZTjRHN21fd3pTZXM1TmYxUmJUNVN6YWZjaUo4VWoxbkJvdVU5a283VWl6LXMwUlNCYmxuejJfZUZOSjNlNkJqT1ZFckg0UGZxR0Y3MXBzTVNFcHoxUjU1YlFVVGpQcjBrY1VXNXAtYzZBZlpRa2xWV0laRmhTSDlaSXhfNXRYZUY2ckdsdDgxWndQZExFa3RnQjJYRTdqOXJFV0F2bA?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sun, 15 Nov 2026 13:01:41 GMT",
-        "base_score": 82,
-        "candidate_score": 97,
+        "title": "Turkey’s Defense Pacts Could Put It on Collision Course With Israel, Iran & India: Can Erdogan Hide Behind NATO? OPED - EurAsian Times",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90X0FzOHFJb0dCRnU4OXUxSDc5MVljaFhORVQ1SFk0bktaOHh6eEZUUUI2dnBpWHZsWDFqXzAwMDdCcXpNSHJPRVZ2MTRWa01WNGlXLWhNNzh0ZDFqSlVpazR30gFiQVVfeXFMT3RfQXM4cUlvR0JGdTg5dTFINzkxWWNoWE5FVDVIWTRuS1o4eHp4RlRRQjZ2cGlYdmxYMWpfMDAwN0Jxek1Ick9FVnYxNFZrTVY0aVctaE03OHRkMWpKVWlrNHc?oc=5",
+        "source": "Pakistan Turkey Watch",
+        "published": "Sun, 15 Nov 2026 04:16:54 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
-          "Pakistan",
-          "Pakistan Army"
+          "Israel",
+          "Iran",
+          "Turkey",
+          "Erdogan",
+          "NATO",
+          "defense"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "72a813934c02fddd9f3d158c",
+        "external_id": "5f6ab65e0e033957e07a2f66",
         "mode": "geopolitico",
-        "title": "Baloch Liberation Army names ex Pakistan army officer Rehman Gul as new chief - India Today - India Today",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc3BBNzJZZFB0Y3pBLThYVmhTM0YyX0R2ekpoWHBvZGF2MDNKajkwSVVWQzB4b1BaWVVtYVVLV0pXSXd0UUVQLUp1ZkQzUEpBWGxUWEZqSHVpcWNyUlMyRUhxMW1DZHJsYjVFS243VF9yR0JxcXdRNnlTemV2NnZ4V2k1OGRZM3J0b0lnYnpQd2Y3RkFGb1MzM1N0REtEcnV1NDlnbEtfNTZJYXBNVHZrMEhnWUt6b05nbDVFRWdkUXlxRlJLSDhKV3BEUzZpeU9oYzV6VGlCZjVwVnRteXRraEhSMFI3QUUxOHVF0gHwAUFVX3lxTFBBUnpMRnVEVHg4QWhJWWw5TWpzU09IanRVZ2NxbXFlOHhnUFFtQU9icGZHaW9aMHVxbFpsRmEwamRTTmdmWThZOW9WbW5sTzltX055ckFYbDlUYUhHN0JRS2laVXN3M1EzQmdUZW5XRmZUMEhtSUNIdTBVa0FvaEdSSnFPcXV5b3M1emtJc25iaHBYenBsWnlFU1JZaDlpYldGZzZqYWZLMF81WV9MMnFENnExUFZvM0pmTWhpMm9zTk5xNnZMY1VpSEhHemRRclY3d3VzNnFWdE5VWjB3SEI2R3JWd1UxNHhZVl93bk80NA?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sun, 15 Nov 2026 12:58:26 GMT",
-        "base_score": 82,
-        "candidate_score": 97,
+        "title": "Report: Israeli arrested in Cyprus on suspicion of possessing loaded ammunition magazine - Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SQ000QWcyenpKcm9mRFdCTXFRaWVtU3hhdEpEdVdMMVlqc19tZXdSRmxKTm1lUUY1U3E3dXo2al9PaS1TUkItZHJGdVF1alRnZXp0bw?oc=5",
+        "source": "Ynet Greece Turkey Cyprus IMEC Watch",
+        "published": "Sun, 15 Nov 2026 12:26:23 GMT",
+        "base_score": 94,
+        "candidate_score": 100,
         "priority": "URGENT",
         "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Pakistan Army"
+          "Israel",
+          "Israeli",
+          "Cyprus",
+          "arrest"
         ],
         "content_type": "news"
       },
@@ -243,7 +249,7 @@
         "title": "Türk ve Yunan savaş gemileri sahaya çıktı: Doğu Akdeniz'deki GSI projesi - Gazete Oksijen",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZBWDcyMHY4ZE1kUkN2cmFkdmI2M21OT00wVzB3MDVlakpqb09kNUZkRkZ2bGZqV3pIZ1lkWDA0dDQ1TENUTnJwc3p6S01Ic2hIWGl1NEh3YUc4T0g1amZ1NDZJMHJlMTk0djlwd08wQ2EyeGxRdFFwcjN4R2liekh5Qzc5b0VOdkpfSXJOMnhfSTV3b1oyU0llYmwwUWpET05rTjMwdFlHRnZEQ0E?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Sun, 15 Nov 2026 14:08:46 GMT",
+        "published": "Sun, 15 Nov 2026 20:13:19 GMT",
         "base_score": 81,
         "candidate_score": 96,
         "priority": "URGENT",
@@ -255,68 +261,68 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "5a518cac711cbb2951e771c4",
+        "external_id": "d9127e33cce690db5478cf6b",
         "mode": "geopolitico",
-        "title": "Yunanistan'dan Kıbrıs açıklaması - manisahaberler.com.tr",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFdW5tSF9xVlc5RGtSQmZ5UFBKVWxaLU9sMFhZdW9sWmlKeDhnQTFiY0ladDJIWlJKRHVLUFdkOFhTbHNvNWdmM1RXUk52VTJtd0dQeWhRdzctcUJRcVBQTm5sdmwxdlE5VDFQUHVfb3NmeTJ2X2dNQ1BB?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sun, 15 Nov 2026 07:41:36 GMT",
-        "base_score": 79,
-        "candidate_score": 89,
+        "title": "Pakistan Army Says 24 Killed in Counterterrorism Operations, Including Two Citizens of Afghanistan - 8AM Media",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3FBYTFISlhuYUJPNE11blRhZV9tekVJczVFS2R5dWJfa1pYZzRrb3pQV2NxUExXNFhiSnlFaVBfcm11elFaaEQ3dkNRMVBSdGlBVXptUHppbTJCcmtMNzFUZkw3UV9HN25pQzNFMnIyR29wcWN6ZC1VLW5ZUXQwXzFYVnQ?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 15 Nov 2026 04:47:35 GMT",
+        "base_score": 88,
+        "candidate_score": 94,
         "priority": "High",
         "matched_keywords": [
-          "Yunanistan",
-          "Kıbrıs",
-          "açıklama"
+          "Pakistan",
+          "Pakistan Army",
+          "terrorism",
+          "counterterrorism"
         ],
-        "content_type": "turkey_greece"
+        "content_type": "news"
       },
       {
-        "external_id": "e621e760b9c47fc56252edd0",
+        "external_id": "31e5826d20df7b36892646cc",
         "mode": "geopolitico",
-        "title": "Türkiye ile Yunanistan arasında dikkat çeken askeri temas! Türk heyeti Girit Adası'nda - Yirmidort.tv",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTB6OG1kYlUta05PVHFMMkhLcFBXQU5LYmsyZGNNZERJbW1uNFhxcnVPZkpnTEhnNGhjSUpPSlh2RHRtbk9jazlRcE5pc2lXclM3N3BQWktmTThLRk1YVERjc2pQb3dxMHRVSlB6eWM5RTAwNWgxbmptdXRFRGVZN1FTeWYwT096S3RKY2RlNzZDMXBPT0wzR0E4REloWGhPQThDRFc4TUdhX0lZdU9tb3lpVm1ScHRrZHlCVkdWczc?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Sat, 14 Nov 2026 19:30:00 GMT",
-        "base_score": 85,
-        "candidate_score": 88,
+        "title": "Rehman Gul once fought Taliban for Pakistan Army. Now he leads Baloch Liberation Army - India Today",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUNLXy1XZmlwTzNYQTFqWF9nRXlzQnA4aXVGS1RqVnJKTE5qNzNRUXFZeHFsODRYNXFYeDBtNi1rX1c4cUtiMTgxSExDdlBBMVExSDZJN01sQWNLWGNDdm5FdmFmTDhiUE0zWGxobHZ3M0lBdTNxNlJUUE1xLWlxLVRvc0poQ0pSV0FRRFpQY2VRWFNGTncyYTRQbTZnc0RsTk5Vd0ZjQ2VXT0JIVXhmM2M4alFtVkNpZmRn0gHAAUFVX3lxTE80Y3lrSnpVYm54S0ZkU1BGSjdJWUR5anFTNHpZTjRHN21fd3pTZXM1TmYxUmJUNVN6YWZjaUo4VWoxbkJvdVU5a283VWl6LXMwUlNCYmxuejJfZUZOSjNlNkJqT1ZFckg0UGZxR0Y3MXBzTVNFcHoxUjU1YlFVVGpQcjBrY1VXNXAtYzZBZlpRa2xWV0laRmhTSDlaSXhfNXRYZUY2ckdsdDgxWndQZExFa3RnQjJYRTdqOXJFV0F2bA?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 15 Nov 2026 13:01:41 GMT",
+        "base_score": 82,
+        "candidate_score": 92,
         "priority": "High",
         "matched_keywords": [
-          "Yunanistan",
-          "Girit",
-          "ada",
-          "askeri"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "04bc9f4a623128f767daf4f3",
-        "mode": "geopolitico",
-        "title": "Nvidia Controversy Fuels U.S.-China AI Race Ahead of Trump Visit - RS Web Solutions",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUZOZG1rSDR2TzR4Q0theTg4V2IyOE0tYXNzRlltU21ydDJwc0FHTm1BMzktSW5wS1lqM1FOTjJ3TWVEa0o1VjdmaDljeFczOFRGaHoyeTdyRHc1Y2h5VDB4ZzJpbERQVGpCenRQX1BjejFhM3BsZWtuV1FUeTVySmhUTlgtTUI3LTRTei1aXzdaWTY5QUhVYlZweXF6anppMlFjUnpoWFVKYWVpYXpBMThvYlp1QQ?oc=5",
-        "source": "China Strategic Watch",
-        "published": "Sun, 15 Nov 2026 03:00:00 GMT",
-        "base_score": 79,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "China",
-          "China AI",
-          "AI race"
+          "India",
+          "Pakistan",
+          "Pakistan Army"
         ],
         "content_type": "news"
       }
     ],
     "pontos_voice": [
       {
+        "external_id": "ec36a7c899714d87d307b9cc",
+        "mode": "pontos_voice",
+        "title": "Στη Μακεδονία ταξίδεψε ο Πολιτιστικός Σύλλογος Αγίου Δημητρίου «Τα Δημήτρια» – Από την Παναγία Σουμελά έως τη Βεργίνα και τη Βέροια - Stagonnews",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHAzd2syU1pBcTl2NXQwQVB1SFhDM3EzcW5hNTVCR0tPT05GZldEMDdWVWJrX2FQNWJWb24ybkZYdVZSNjY4NlJ3aDc4WENocXowNlQtQmpITkEzUHd6SDN4VjZ2dkdUYW1wcnYzMDBneFRlV1ZUR2gzQkdEc2FtNU40b05iM0RoN19HN05CS2NkaXFoRjlPcHkzWU5aclJMUzRqSlVYbTdwVEg2b1cxX1VqdjF3bURNY2tjbHRlcDZSUTVLYXFjR19sTHRwcUhsS01ad2dEUlBwTjRteVRiMTZhdXhON2Jr0gHuAUFVX3lxTE1ReXRuWTJkczdXamZWVG5fclNZUzZnNjQ2NmltT0hPeFA3N1NadnRheUVJY3dmTE1yWFUyaUtkYlROWHVhLUZOQ3M4aG01TEZrZTFDNV9SZ2V4MjhIUmZPZGpwUGZ2d0JFeno0WURoaWtZMWVsejg0TVFkSWE1R0g5QWxMSHJCeUdwVzI5SUNSV2ZlTnVSeGNWWHlNeWVwSjlGNXB2X1hGMkJOVWE1ejNreGhtQ3JLcE93YjRoOURJQ244RjFLSjdIR0E5OHZNbUJaT001UW9ZTGJmcGlZMmpycXJtTmQzTmRfc21uWlE?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sun, 15 Nov 2026 15:37:55 GMT",
+        "base_score": 98,
+        "candidate_score": 108,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Παναγία Σουμελά",
+          "Σουμελά",
+          "πολιτιστικός σύλλογος"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "cd61bbf248c3aeaa86a81a0f",
         "mode": "pontos_voice",
         "title": "Τα Δημήτρια ταξίδεψαν στη Μακεδονία – Από την Παναγία Σουμελά μέχρι τις γεύσεις της Βέροιας! - TaMeteora.gr",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUV2Mkd1S0RrT0NBU0ZWVXpVa09TNFFZVWdzS2F6WXQ2NWswUTBNUzRsSGs4bjJaODhKNGlJSVpuRTdCMjQ0MVBrVEJzdXQzSGU5VnFUNEo0TnM3YWZDdmV4OWl1VGprNHhYTDM1SldZZUNPVUNnS2hWY3NUdDJJSFpXcjBrQjNJT2wzbWJneFdydkh2Qm1kdXR0UGVSVG9Gb1hlMXdqb1VkNEd2Q2J4dVFKZDhnakRWdi1uY1NlNlZWdEdZMW5ZeGJtWG1pVzlWWVpkVW9YbTRGZUFPV2pF?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Sun, 15 Nov 2026 15:07:35 GMT",
+        "published": "Sun, 15 Nov 2026 15:07:50 GMT",
         "base_score": 86,
-        "candidate_score": 101,
+        "candidate_score": 96,
         "priority": "URGENT",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -325,30 +331,14 @@
         "content_type": "news"
       },
       {
-        "external_id": "e00f9add2c0e2844fb18913b",
+        "external_id": "a8cb57545d233d348088f63e",
         "mode": "pontos_voice",
-        "title": "Πόντος 1919: Γύρισαν από τη Ρωσία για να ξαναγίνουν πρόσφυγες - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3J2ZVp4Z0JfUjJPcWR5VnV1cHlUcVJ4RlFQNFFGelpqMXhvOXBZbVM1aDFPZEJ1bmY1NFpOcGNhSVVBVEpIMk1CLV9oYlpkRFltaWVpYTVvWVk1dWRzQkRJMXpIbHI0SkJDN0Q1bmw5MUNlNG02NWpCMmZISUlWU1dNcjRjZTVDQ2R6b29UZE5nWndjS1JTLVY3UVFJOWUxaDJSV29GR1ZUaHp2bkpDLWZn?oc=5",
+        "title": "Εκδρομή στην Παναγία Σουμελά από τον Σύλλογο Θεόπετρας στις 29 Νοεμβρίου - kalabakacity",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlBLU19LX3N6Y3ZlVVhFajd1Z3pUS3h1clRPTEozQVFfSTNEd3g5akZKajlrcXZZY29ocEVTR2VfYlhnTUhaa2FLczVEbktzaDNZX2l4TjJEMmM3RjctbXR2UlR5RV9nNEZRdktEbWxyNUJjQVBnOHBLSFJIeFRraVlfYVpzdnBaU3Y3SzhHcC00UGxDQ1lwRlpCQWY4OUdwTlpUeQ?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Sun, 15 Nov 2026 14:16:19 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "Πόντος"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "35b9dc26b83148819b94d62b",
-        "mode": "pontos_voice",
-        "title": "Ευχαριστίας αντίδωρον στην Παναγία Σουμελά - Ορθοδοξία News Agency",
-        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdm5iOXBkX2NZRFd0ZVlhR3NFa0pYa05HZmVpX3FIdzRidF9TeDZTNjk5dHR5UnRjWkdZWUVNekZlTU5PZjBoU2hiZ2RrVW5yakJudzdYZzF0dTBzTG9sY3Z6S2h5M20wVkJmcUt4OExQTWRranpLd1c3TDZKaWVPdzVXSW1XY0hUMEc2dEw1eXpENzdPN2FrNHJhS1Y2TGM0MGtSeEdQWFhidVZCVGdNZDBoeTFMM3RxRllFTUs2eTJkSjlPd1RzQ05OYkpOdGhEQlVwbFotRlJUeHpDNnpIT2w3aHRqNkxJR2J5OXk1SFlpNWVsRDI1UzJhRFVpSHNjb0hVRkRKOXA1X0dreVBZcUVWWjVTb2piTkpubTI4VUsyNmJac0JTV295NXlvWldKZ0xhQXJlLS1Qd2dMWVUyUHhpaHNfeVo5ZTVPQk9aUEYxQVpPZHg0dUJ3QjJFME1neWdjYzRR?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Sat, 14 Nov 2026 17:55:49 GMT",
+        "published": "Sat, 14 Nov 2026 08:59:41 GMT",
         "base_score": 86,
-        "candidate_score": 89,
+        "candidate_score": 86,
         "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -357,49 +347,49 @@
         "content_type": "news"
       },
       {
-        "external_id": "82938aa6b0fedddb22d281fe",
+        "external_id": "c1caa5152d018eb5dcfadf20",
         "mode": "pontos_voice",
-        "title": "Trabzon'da 800 bin TL'lik ödül heyecanı! Finalistler belli oldu",
-        "url": "https://www.61saat.com/trabzonda-800-bin-tllik-odul-heyecani-finalistler-belli-oldu",
+        "title": "Trabzonspor'a yazılmıştı! Gedson iddiasına Rusya'dan yanıt",
+        "url": "https://www.61saat.com/trabzonspor-yazilmisti-gedson-iddiasina-rusyadan-yanit",
         "source": "61Saat Trabzon",
-        "published": "Sun, 15 Nov 2026 15:41:00 +0300",
-        "base_score": 51,
-        "candidate_score": 66,
+        "published": "Sun, 15 Nov 2026 23:15:00 +0300",
+        "base_score": 52,
+        "candidate_score": 67,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "belediye başkanı",
-          "Trabzon",
-          "vali"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "834d2ce739127245abe0e566",
-        "mode": "pontos_voice",
-        "title": "MHP Trabzon'un yeni hizmet binası için tarih belli oldu!",
-        "url": "https://www.61saat.com/mhp-trabzonun-yeni-hizmet-binasi-icin-tarih-belli-oldu",
-        "source": "61Saat Trabzon",
-        "published": "Sun, 15 Nov 2026 15:41:00 +0300",
-        "base_score": 46,
-        "candidate_score": 61,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "MHP",
+          "açıklama",
+          "anıt",
           "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "12c91037dfd2490cd4181576",
+        "external_id": "54d0a5ecdb35ebfeb3b8362c",
         "mode": "pontos_voice",
-        "title": "Trabzon MHP'de yeni hizmet binası açılıyor! Tarih belli oldu - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlRjZWd4c1F1WUgxalUtWDNFM1NYM2Y4eUZBYjM4dHRSc191azU0MDI0UUtFdmtfaWRFclNXRFp2ZkxvT09pNzg2cmVrSGt1amNkRnRlT3IzVW5RZGptYV8yNnRjNEJWajF2dXlRMVA1MnRPX1dBS0lKM0lQeEVXM3VJSVo3WHJGaW1LSWtFTzN6ZjhNVi1ScXdLc0FSTWc?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sun, 15 Nov 2026 13:48:00 GMT",
+        "title": "Trabzonspor'un eski futbolcusu Felipe Augusto'ya Mohamed Salah sürprizi!",
+        "url": "https://www.61saat.com/trabzonsporun-eski-futbolcusu-felipe-augustoya-mohamed-salah-surprizi",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 15 Nov 2026 21:37:00 +0300",
         "base_score": 44,
         "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "c4f13f2359e12feb4bc2f9f6",
+        "mode": "pontos_voice",
+        "title": "MHP Trabzon'da yeni il binasının açılış tarihi belli oldu! Bahçeli'ye bilgi verildi - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeG5QWTBXdUVQRkpHV2RQaTBhWTExSEJGZkRyTFFnM3dlWjBiOFhqZTV0bENGV2FhQlJGSWhxQjBVYlhSUmN2YnRLb05UOGxBcDhfeDAwYVM5YU04MzRlUWgtWjhkLVVpc2VpY1J2anl3b1h6Z29xMFFaS1ZXRU9nbzd1c1lkSlQ2d2V2S0hPdEw5eTZ0c0VYS21GeVlQNnBFMjNLNHJMRGNFc2xaMGxvVTNTVlREVTE0anNfbXlR?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Sun, 15 Nov 2026 12:54:30 GMT",
+        "base_score": 44,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -419,8 +409,8 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 14 Nov 2026 13:55:56 GMT",
       "base_score": 66,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "candidate_score": 93,
+      "priority": "High",
       "matched_keywords": [
         "Olympiacos",
         "deal",
@@ -433,6 +423,26 @@
       "needs_second_source": false
     },
     {
+      "external_id": "a1c2013aa21e74c7cc1f6095",
+      "mode": "sportdog",
+      "title": "Giorgi Kvernadze Transfer from Frosinone to Panathinaikos - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0dPWlZ3WUkxUGY0R25DbTVWYUtzWnh5NnpGWWtPV1lBUFA2LVMxWU10S1ZQMEFpMGNSRDdTeVlXWjVpQUFBR0drWTJoRWtrc1IzakZRMjFVRzdjZXB3R2V5RGVreEthTzBKYkhaRm5KeTlrNXc1cFRRVnJYZW5HOFR3eEljMTVlNHVmbng2UVlxUQ?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Sun, 15 Nov 2026 12:50:30 GMT",
+      "base_score": 58,
+      "candidate_score": 88,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
       "external_id": "450f94de32d25f282e45cda1",
       "mode": "sportdog",
       "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar Armenia",
@@ -440,7 +450,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 14 Nov 2026 10:40:53 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 76,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -453,12 +463,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "cbd1a8afefa115d19aa0ec97",
+      "external_id": "e9cc91bbc01a84507193b175",
       "mode": "sportdog",
       "title": "Possession won final 3rd per 90 - AEK Athens stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTVBoc0ttblR3cTUyTWo1SUt5NU9xMGtuN1c1d1VyNFUxeXMwQ3MtbFpDakRqVW9FcDN1d19OU2ZpT1YxRGpHUF8wUlRfbXN1QjQ5TVN3dUYtbW5acWFueGNJdGNoaWU2c1otWktNWE1MMkRzdEVSQ2RGX09jMjN6cGg3Y0dpb0hCYVFKMjNSaVRkNm5zZmtwZHNXckZ4c1BC?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXcyTWo4ZDVIa1c1Y0NJTkQ5czRWNGx0UUhzb0o5WjFuUV84VzA0N3o3cjdwTTQyNnhDQ282ZU5KX0g3QmU0REZlMFRFSDlQTjR1eUdXXzV3M2dyUlc0dXJ6cV9sRWhremJOQS1yaEpRNTBXWndPaWQyWGk3RG83d3hla3hoSFh6RTFZckZ0Y1BpV3hzWVFnMkNOUU9WalBiNzd6NVVBNjc?oc=5",
       "source": "AEK Rumour Watch",
-      "published": "Sun, 15 Nov 2026 06:03:48 GMT",
+      "published": "Sun, 15 Nov 2026 05:41:57 GMT",
       "base_score": 56,
       "candidate_score": 70,
       "priority": "High",
@@ -480,8 +490,8 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sun, 15 Nov 2026 00:50:54 GMT",
       "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
         "Super League"
@@ -520,44 +530,6 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Sat, 14 Nov 2026 10:48:11 GMT",
       "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Panathinaikos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "f5565a3a4272fa8f68ea9254",
-      "mode": "sportdog",
-      "title": "AEK Athens vs Galatasaray Box Score - December 08, 2026 - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzhrNEtuZ3E4QUg4NjBwdjJwY19RbGJ4Z3A5WFJDd0NCY1pVa0FqWU1RV3NzRkxzdEVaOXBaaW5wOVV3WGFVU3Z0VmFPQTkwWG0xZVJrNnBBY25GV2tRME1takxzanNjXzlBMzNLeXk2bWNYV3VyTGxJR2RaVGxhTllvejdrdXFVblVBb1NXbGVrTno4?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Sat, 14 Nov 2026 08:26:18 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "AEK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "eac5146c90796c5f5873f31f",
-      "mode": "sportdog",
-      "title": "This was Barça's incredible victory over Panathinaikos in Athens - Blog de Basket",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTh4X3NreGFxWnJVbWNEWWU4QXowOUw0bzlVbVZBS2EtUU12UDhDdDUxWF9UalJkWmFtbGhsRDJIUnJpNi00TTV2eHpmSTU2b2xoUlNSek5qQ09FTjRJOUp4RVFaUEZPWll5eTJzVHAzU0d6LThpdlFiWVJHSXhmREoyVkc0aFVSZmRGZTJqOWhRZHNBTG5KelN3YUNNaWx5U3lRTG00aHhyUQ?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 14 Nov 2026 08:09:02 GMT",
-      "base_score": 31,
       "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
@@ -570,14 +542,33 @@
       "needs_second_source": true
     },
     {
-      "external_id": "5f6ab65e0e033957e07a2f66",
+      "external_id": "128cf6e16a459e91567d0894",
       "mode": "geopolitico",
-      "title": "Report: Israeli arrested in Cyprus on suspicion of possessing loaded ammunition magazine - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SQ000QWcyenpKcm9mRFdCTXFRaWVtU3hhdEpEdVdMMVlqc19tZXdSRmxKTm1lUUY1U3E3dXo2al9PaS1TUkItZHJGdVF1alRnZXp0bw?oc=5",
-      "source": "Ynet Greece Turkey Cyprus IMEC Watch",
-      "published": "Sun, 15 Nov 2026 12:26:23 GMT",
-      "base_score": 94,
-      "candidate_score": 104,
+      "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Enerji FM 100.5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnXzdZT080OVVVdHM5dktmeHhrTDRNM1ZSaDdYWGhzWmxERTQ1ZkpyaFBhTWREVTFvMU5ERm1teTZWNDNjVE1vSUkzc0FrTE9CQjh6X1F0Zw?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Sun, 15 Nov 2026 16:44:53 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "NAVTEX",
+        "Doğu Akdeniz",
+        "Ankara",
+        "Atina",
+        "enerji"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "7cc653207e8d2edb34949c79",
+      "mode": "geopolitico",
+      "title": "Israeli sets sail from Cyprus with wife, arrested over what was found in bag - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CMkU2akNvQXl1Ukl0RzhXRmh4dGFUTi1tVDVfX0wtaFVON2J0NE4zMVRFUWhzdlJjY3V2WEtlaGk4UGoteEROeTcyZS1fOEp5SFJaZ21ScXc4OFVMTTVpaWViUlVhczh1R2h4cEhnZ2EwZw?oc=5",
+      "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
+      "published": "Sun, 15 Nov 2026 15:52:18 GMT",
+      "base_score": 98,
+      "candidate_score": 108,
       "priority": "URGENT",
       "matched_keywords": [
         "Israel",
@@ -588,36 +579,41 @@
       "content_type": "news"
     },
     {
-      "external_id": "31e5826d20df7b36892646cc",
+      "external_id": "4991b8c9624346a1b71b2d22",
       "mode": "geopolitico",
-      "title": "Rehman Gul once fought Taliban for Pakistan Army. Now he leads Baloch Liberation Army - India Today",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUNLXy1XZmlwTzNYQTFqWF9nRXlzQnA4aXVGS1RqVnJKTE5qNzNRUXFZeHFsODRYNXFYeDBtNi1rX1c4cUtiMTgxSExDdlBBMVExSDZJN01sQWNLWGNDdm5FdmFmTDhiUE0zWGxobHZ3M0lBdTNxNlJUUE1xLWlxLVRvc0poQ0pSV0FRRFpQY2VRWFNGTncyYTRQbTZnc0RsTk5Vd0ZjQ2VXT0JIVXhmM2M4alFtVkNpZmRn0gHAAUFVX3lxTE80Y3lrSnpVYm54S0ZkU1BGSjdJWUR5anFTNHpZTjRHN21fd3pTZXM1TmYxUmJUNVN6YWZjaUo4VWoxbkJvdVU5a283VWl6LXMwUlNCYmxuejJfZUZOSjNlNkJqT1ZFckg0UGZxR0Y3MXBzTVNFcHoxUjU1YlFVVGpQcjBrY1VXNXAtYzZBZlpRa2xWV0laRmhTSDlaSXhfNXRYZUY2ckdsdDgxWndQZExFa3RnQjJYRTdqOXJFV0F2bA?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sun, 15 Nov 2026 13:01:41 GMT",
-      "base_score": 82,
-      "candidate_score": 97,
+      "title": "Turkey’s Defense Pacts Could Put It on Collision Course With Israel, Iran & India: Can Erdogan Hide Behind NATO? OPED - EurAsian Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90X0FzOHFJb0dCRnU4OXUxSDc5MVljaFhORVQ1SFk0bktaOHh6eEZUUUI2dnBpWHZsWDFqXzAwMDdCcXpNSHJPRVZ2MTRWa01WNGlXLWhNNzh0ZDFqSlVpazR30gFiQVVfeXFMT3RfQXM4cUlvR0JGdTg5dTFINzkxWWNoWE5FVDVIWTRuS1o4eHp4RlRRQjZ2cGlYdmxYMWpfMDAwN0Jxek1Ick9FVnYxNFZrTVY0aVctaE03OHRkMWpKVWlrNHc?oc=5",
+      "source": "Pakistan Turkey Watch",
+      "published": "Sun, 15 Nov 2026 04:16:54 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
-        "Pakistan",
-        "Pakistan Army"
+        "Israel",
+        "Iran",
+        "Turkey",
+        "Erdogan",
+        "NATO",
+        "defense"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "72a813934c02fddd9f3d158c",
+      "external_id": "5f6ab65e0e033957e07a2f66",
       "mode": "geopolitico",
-      "title": "Baloch Liberation Army names ex Pakistan army officer Rehman Gul as new chief - India Today - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc3BBNzJZZFB0Y3pBLThYVmhTM0YyX0R2ekpoWHBvZGF2MDNKajkwSVVWQzB4b1BaWVVtYVVLV0pXSXd0UUVQLUp1ZkQzUEpBWGxUWEZqSHVpcWNyUlMyRUhxMW1DZHJsYjVFS243VF9yR0JxcXdRNnlTemV2NnZ4V2k1OGRZM3J0b0lnYnpQd2Y3RkFGb1MzM1N0REtEcnV1NDlnbEtfNTZJYXBNVHZrMEhnWUt6b05nbDVFRWdkUXlxRlJLSDhKV3BEUzZpeU9oYzV6VGlCZjVwVnRteXRraEhSMFI3QUUxOHVF0gHwAUFVX3lxTFBBUnpMRnVEVHg4QWhJWWw5TWpzU09IanRVZ2NxbXFlOHhnUFFtQU9icGZHaW9aMHVxbFpsRmEwamRTTmdmWThZOW9WbW5sTzltX055ckFYbDlUYUhHN0JRS2laVXN3M1EzQmdUZW5XRmZUMEhtSUNIdTBVa0FvaEdSSnFPcXV5b3M1emtJc25iaHBYenBsWnlFU1JZaDlpYldGZzZqYWZLMF81WV9MMnFENnExUFZvM0pmTWhpMm9zTk5xNnZMY1VpSEhHemRRclY3d3VzNnFWdE5VWjB3SEI2R3JWd1UxNHhZVl93bk80NA?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sun, 15 Nov 2026 12:58:26 GMT",
-      "base_score": 82,
-      "candidate_score": 97,
+      "title": "Report: Israeli arrested in Cyprus on suspicion of possessing loaded ammunition magazine - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SQ000QWcyenpKcm9mRFdCTXFRaWVtU3hhdEpEdVdMMVlqc19tZXdSRmxKTm1lUUY1U3E3dXo2al9PaS1TUkItZHJGdVF1alRnZXp0bw?oc=5",
+      "source": "Ynet Greece Turkey Cyprus IMEC Watch",
+      "published": "Sun, 15 Nov 2026 12:26:23 GMT",
+      "base_score": 94,
+      "candidate_score": 100,
       "priority": "URGENT",
       "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Pakistan Army"
+        "Israel",
+        "Israeli",
+        "Cyprus",
+        "arrest"
       ],
       "content_type": "news"
     },
@@ -645,7 +641,7 @@
       "title": "Türk ve Yunan savaş gemileri sahaya çıktı: Doğu Akdeniz'deki GSI projesi - Gazete Oksijen",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZBWDcyMHY4ZE1kUkN2cmFkdmI2M21OT00wVzB3MDVlakpqb09kNUZkRkZ2bGZqV3pIZ1lkWDA0dDQ1TENUTnJwc3p6S01Ic2hIWGl1NEh3YUc4T0g1amZ1NDZJMHJlMTk0djlwd08wQ2EyeGxRdFFwcjN4R2liekh5Qzc5b0VOdkpfSXJOMnhfSTV3b1oyU0llYmwwUWpET05rTjMwdFlHRnZEQ0E?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Sun, 15 Nov 2026 14:08:46 GMT",
+      "published": "Sun, 15 Nov 2026 20:13:19 GMT",
       "base_score": 81,
       "candidate_score": 96,
       "priority": "URGENT",
@@ -657,54 +653,54 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "5a518cac711cbb2951e771c4",
+      "external_id": "d9127e33cce690db5478cf6b",
       "mode": "geopolitico",
-      "title": "Yunanistan'dan Kıbrıs açıklaması - manisahaberler.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFdW5tSF9xVlc5RGtSQmZ5UFBKVWxaLU9sMFhZdW9sWmlKeDhnQTFiY0ladDJIWlJKRHVLUFdkOFhTbHNvNWdmM1RXUk52VTJtd0dQeWhRdzctcUJRcVBQTm5sdmwxdlE5VDFQUHVfb3NmeTJ2X2dNQ1BB?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sun, 15 Nov 2026 07:41:36 GMT",
-      "base_score": 79,
-      "candidate_score": 89,
+      "title": "Pakistan Army Says 24 Killed in Counterterrorism Operations, Including Two Citizens of Afghanistan - 8AM Media",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3FBYTFISlhuYUJPNE11blRhZV9tekVJczVFS2R5dWJfa1pYZzRrb3pQV2NxUExXNFhiSnlFaVBfcm11elFaaEQ3dkNRMVBSdGlBVXptUHppbTJCcmtMNzFUZkw3UV9HN25pQzNFMnIyR29wcWN6ZC1VLW5ZUXQwXzFYVnQ?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 15 Nov 2026 04:47:35 GMT",
+      "base_score": 88,
+      "candidate_score": 94,
       "priority": "High",
       "matched_keywords": [
-        "Yunanistan",
-        "Kıbrıs",
-        "açıklama"
+        "Pakistan",
+        "Pakistan Army",
+        "terrorism",
+        "counterterrorism"
       ],
-      "content_type": "turkey_greece"
+      "content_type": "news"
     },
     {
-      "external_id": "e621e760b9c47fc56252edd0",
+      "external_id": "31e5826d20df7b36892646cc",
       "mode": "geopolitico",
-      "title": "Türkiye ile Yunanistan arasında dikkat çeken askeri temas! Türk heyeti Girit Adası'nda - Yirmidort.tv",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTB6OG1kYlUta05PVHFMMkhLcFBXQU5LYmsyZGNNZERJbW1uNFhxcnVPZkpnTEhnNGhjSUpPSlh2RHRtbk9jazlRcE5pc2lXclM3N3BQWktmTThLRk1YVERjc2pQb3dxMHRVSlB6eWM5RTAwNWgxbmptdXRFRGVZN1FTeWYwT096S3RKY2RlNzZDMXBPT0wzR0E4REloWGhPQThDRFc4TUdhX0lZdU9tb3lpVm1ScHRrZHlCVkdWczc?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Sat, 14 Nov 2026 19:30:00 GMT",
-      "base_score": 85,
-      "candidate_score": 88,
+      "title": "Rehman Gul once fought Taliban for Pakistan Army. Now he leads Baloch Liberation Army - India Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUNLXy1XZmlwTzNYQTFqWF9nRXlzQnA4aXVGS1RqVnJKTE5qNzNRUXFZeHFsODRYNXFYeDBtNi1rX1c4cUtiMTgxSExDdlBBMVExSDZJN01sQWNLWGNDdm5FdmFmTDhiUE0zWGxobHZ3M0lBdTNxNlJUUE1xLWlxLVRvc0poQ0pSV0FRRFpQY2VRWFNGTncyYTRQbTZnc0RsTk5Vd0ZjQ2VXT0JIVXhmM2M4alFtVkNpZmRn0gHAAUFVX3lxTE80Y3lrSnpVYm54S0ZkU1BGSjdJWUR5anFTNHpZTjRHN21fd3pTZXM1TmYxUmJUNVN6YWZjaUo4VWoxbkJvdVU5a283VWl6LXMwUlNCYmxuejJfZUZOSjNlNkJqT1ZFckg0UGZxR0Y3MXBzTVNFcHoxUjU1YlFVVGpQcjBrY1VXNXAtYzZBZlpRa2xWV0laRmhTSDlaSXhfNXRYZUY2ckdsdDgxWndQZExFa3RnQjJYRTdqOXJFV0F2bA?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 15 Nov 2026 13:01:41 GMT",
+      "base_score": 82,
+      "candidate_score": 92,
       "priority": "High",
       "matched_keywords": [
-        "Yunanistan",
-        "Girit",
-        "ada",
-        "askeri"
+        "India",
+        "Pakistan",
+        "Pakistan Army"
       ],
-      "content_type": "turkey_greece"
+      "content_type": "news"
     },
     {
-      "external_id": "04bc9f4a623128f767daf4f3",
-      "mode": "geopolitico",
-      "title": "Nvidia Controversy Fuels U.S.-China AI Race Ahead of Trump Visit - RS Web Solutions",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUZOZG1rSDR2TzR4Q0theTg4V2IyOE0tYXNzRlltU21ydDJwc0FHTm1BMzktSW5wS1lqM1FOTjJ3TWVEa0o1VjdmaDljeFczOFRGaHoyeTdyRHc1Y2h5VDB4ZzJpbERQVGpCenRQX1BjejFhM3BsZWtuV1FUeTVySmhUTlgtTUI3LTRTei1aXzdaWTY5QUhVYlZweXF6anppMlFjUnpoWFVKYWVpYXpBMThvYlp1QQ?oc=5",
-      "source": "China Strategic Watch",
-      "published": "Sun, 15 Nov 2026 03:00:00 GMT",
-      "base_score": 79,
-      "candidate_score": 85,
-      "priority": "High",
+      "external_id": "ec36a7c899714d87d307b9cc",
+      "mode": "pontos_voice",
+      "title": "Στη Μακεδονία ταξίδεψε ο Πολιτιστικός Σύλλογος Αγίου Δημητρίου «Τα Δημήτρια» – Από την Παναγία Σουμελά έως τη Βεργίνα και τη Βέροια - Stagonnews",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHAzd2syU1pBcTl2NXQwQVB1SFhDM3EzcW5hNTVCR0tPT05GZldEMDdWVWJrX2FQNWJWb24ybkZYdVZSNjY4NlJ3aDc4WENocXowNlQtQmpITkEzUHd6SDN4VjZ2dkdUYW1wcnYzMDBneFRlV1ZUR2gzQkdEc2FtNU40b05iM0RoN19HN05CS2NkaXFoRjlPcHkzWU5aclJMUzRqSlVYbTdwVEg2b1cxX1VqdjF3bURNY2tjbHRlcDZSUTVLYXFjR19sTHRwcUhsS01ad2dEUlBwTjRteVRiMTZhdXhON2Jr0gHuAUFVX3lxTE1ReXRuWTJkczdXamZWVG5fclNZUzZnNjQ2NmltT0hPeFA3N1NadnRheUVJY3dmTE1yWFUyaUtkYlROWHVhLUZOQ3M4aG01TEZrZTFDNV9SZ2V4MjhIUmZPZGpwUGZ2d0JFeno0WURoaWtZMWVsejg0TVFkSWE1R0g5QWxMSHJCeUdwVzI5SUNSV2ZlTnVSeGNWWHlNeWVwSjlGNXB2X1hGMkJOVWE1ejNreGhtQ3JLcE93YjRoOURJQ244RjFLSjdIR0E5OHZNbUJaT001UW9ZTGJmcGlZMmpycXJtTmQzTmRfc21uWlE?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sun, 15 Nov 2026 15:37:55 GMT",
+      "base_score": 98,
+      "candidate_score": 108,
+      "priority": "URGENT",
       "matched_keywords": [
-        "China",
-        "China AI",
-        "AI race"
+        "Παναγία Σουμελά",
+        "Σουμελά",
+        "πολιτιστικός σύλλογος"
       ],
       "content_type": "news"
     },
@@ -714,9 +710,9 @@
       "title": "Τα Δημήτρια ταξίδεψαν στη Μακεδονία – Από την Παναγία Σουμελά μέχρι τις γεύσεις της Βέροιας! - TaMeteora.gr",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUV2Mkd1S0RrT0NBU0ZWVXpVa09TNFFZVWdzS2F6WXQ2NWswUTBNUzRsSGs4bjJaODhKNGlJSVpuRTdCMjQ0MVBrVEJzdXQzSGU5VnFUNEo0TnM3YWZDdmV4OWl1VGprNHhYTDM1SldZZUNPVUNnS2hWY3NUdDJJSFpXcjBrQjNJT2wzbWJneFdydkh2Qm1kdXR0UGVSVG9Gb1hlMXdqb1VkNEd2Q2J4dVFKZDhnakRWdi1uY1NlNlZWdEdZMW5ZeGJtWG1pVzlWWVpkVW9YbTRGZUFPV2pF?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Sun, 15 Nov 2026 15:07:35 GMT",
+      "published": "Sun, 15 Nov 2026 15:07:50 GMT",
       "base_score": 86,
-      "candidate_score": 101,
+      "candidate_score": 96,
       "priority": "URGENT",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -725,30 +721,14 @@
       "content_type": "news"
     },
     {
-      "external_id": "e00f9add2c0e2844fb18913b",
+      "external_id": "a8cb57545d233d348088f63e",
       "mode": "pontos_voice",
-      "title": "Πόντος 1919: Γύρισαν από τη Ρωσία για να ξαναγίνουν πρόσφυγες - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3J2ZVp4Z0JfUjJPcWR5VnV1cHlUcVJ4RlFQNFFGelpqMXhvOXBZbVM1aDFPZEJ1bmY1NFpOcGNhSVVBVEpIMk1CLV9oYlpkRFltaWVpYTVvWVk1dWRzQkRJMXpIbHI0SkJDN0Q1bmw5MUNlNG02NWpCMmZISUlWU1dNcjRjZTVDQ2R6b29UZE5nWndjS1JTLVY3UVFJOWUxaDJSV29GR1ZUaHp2bkpDLWZn?oc=5",
+      "title": "Εκδρομή στην Παναγία Σουμελά από τον Σύλλογο Θεόπετρας στις 29 Νοεμβρίου - kalabakacity",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlBLU19LX3N6Y3ZlVVhFajd1Z3pUS3h1clRPTEozQVFfSTNEd3g5akZKajlrcXZZY29ocEVTR2VfYlhnTUhaa2FLczVEbktzaDNZX2l4TjJEMmM3RjctbXR2UlR5RV9nNEZRdktEbWxyNUJjQVBnOHBLSFJIeFRraVlfYVpzdnBaU3Y3SzhHcC00UGxDQ1lwRlpCQWY4OUdwTlpUeQ?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Sun, 15 Nov 2026 14:16:19 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Πόντος"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "35b9dc26b83148819b94d62b",
-      "mode": "pontos_voice",
-      "title": "Ευχαριστίας αντίδωρον στην Παναγία Σουμελά - Ορθοδοξία News Agency",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdm5iOXBkX2NZRFd0ZVlhR3NFa0pYa05HZmVpX3FIdzRidF9TeDZTNjk5dHR5UnRjWkdZWUVNekZlTU5PZjBoU2hiZ2RrVW5yakJudzdYZzF0dTBzTG9sY3Z6S2h5M20wVkJmcUt4OExQTWRranpLd1c3TDZKaWVPdzVXSW1XY0hUMEc2dEw1eXpENzdPN2FrNHJhS1Y2TGM0MGtSeEdQWFhidVZCVGdNZDBoeTFMM3RxRllFTUs2eTJkSjlPd1RzQ05OYkpOdGhEQlVwbFotRlJUeHpDNnpIT2w3aHRqNkxJR2J5OXk1SFlpNWVsRDI1UzJhRFVpSHNjb0hVRkRKOXA1X0dreVBZcUVWWjVTb2piTkpubTI4VUsyNmJac0JTV295NXlvWldKZ0xhQXJlLS1Qd2dMWVUyUHhpaHNfeVo5ZTVPQk9aUEYxQVpPZHg0dUJ3QjJFME1neWdjYzRR?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Sat, 14 Nov 2026 17:55:49 GMT",
+      "published": "Sat, 14 Nov 2026 08:59:41 GMT",
       "base_score": 86,
-      "candidate_score": 89,
+      "candidate_score": 86,
       "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -757,49 +737,49 @@
       "content_type": "news"
     },
     {
-      "external_id": "82938aa6b0fedddb22d281fe",
+      "external_id": "c1caa5152d018eb5dcfadf20",
       "mode": "pontos_voice",
-      "title": "Trabzon'da 800 bin TL'lik ödül heyecanı! Finalistler belli oldu",
-      "url": "https://www.61saat.com/trabzonda-800-bin-tllik-odul-heyecani-finalistler-belli-oldu",
+      "title": "Trabzonspor'a yazılmıştı! Gedson iddiasına Rusya'dan yanıt",
+      "url": "https://www.61saat.com/trabzonspor-yazilmisti-gedson-iddiasina-rusyadan-yanit",
       "source": "61Saat Trabzon",
-      "published": "Sun, 15 Nov 2026 15:41:00 +0300",
-      "base_score": 51,
-      "candidate_score": 66,
+      "published": "Sun, 15 Nov 2026 23:15:00 +0300",
+      "base_score": 52,
+      "candidate_score": 67,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "belediye başkanı",
-        "Trabzon",
-        "vali"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "834d2ce739127245abe0e566",
-      "mode": "pontos_voice",
-      "title": "MHP Trabzon'un yeni hizmet binası için tarih belli oldu!",
-      "url": "https://www.61saat.com/mhp-trabzonun-yeni-hizmet-binasi-icin-tarih-belli-oldu",
-      "source": "61Saat Trabzon",
-      "published": "Sun, 15 Nov 2026 15:41:00 +0300",
-      "base_score": 46,
-      "candidate_score": 61,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "MHP",
+        "açıklama",
+        "anıt",
         "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "12c91037dfd2490cd4181576",
+      "external_id": "54d0a5ecdb35ebfeb3b8362c",
       "mode": "pontos_voice",
-      "title": "Trabzon MHP'de yeni hizmet binası açılıyor! Tarih belli oldu - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlRjZWd4c1F1WUgxalUtWDNFM1NYM2Y4eUZBYjM4dHRSc191azU0MDI0UUtFdmtfaWRFclNXRFp2ZkxvT09pNzg2cmVrSGt1amNkRnRlT3IzVW5RZGptYV8yNnRjNEJWajF2dXlRMVA1MnRPX1dBS0lKM0lQeEVXM3VJSVo3WHJGaW1LSWtFTzN6ZjhNVi1ScXdLc0FSTWc?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sun, 15 Nov 2026 13:48:00 GMT",
+      "title": "Trabzonspor'un eski futbolcusu Felipe Augusto'ya Mohamed Salah sürprizi!",
+      "url": "https://www.61saat.com/trabzonsporun-eski-futbolcusu-felipe-augustoya-mohamed-salah-surprizi",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 15 Nov 2026 21:37:00 +0300",
       "base_score": 44,
       "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "c4f13f2359e12feb4bc2f9f6",
+      "mode": "pontos_voice",
+      "title": "MHP Trabzon'da yeni il binasının açılış tarihi belli oldu! Bahçeli'ye bilgi verildi - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeG5QWTBXdUVQRkpHV2RQaTBhWTExSEJGZkRyTFFnM3dlWjBiOFhqZTV0bENGV2FhQlJGSWhxQjBVYlhSUmN2YnRLb05UOGxBcDhfeDAwYVM5YU04MzRlUWgtWjhkLVVpc2VpY1J2anl3b1h6Z29xMFFaS1ZXRU9nbzd1c1lkSlQ2d2V2S0hPdEw5eTZ0c0VYS21GeVlQNnBFMjNLNHJMRGNFc2xaMGxvVTNTVlREVTE0anNfbXlR?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Sun, 15 Nov 2026 12:54:30 GMT",
+      "base_score": 44,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
