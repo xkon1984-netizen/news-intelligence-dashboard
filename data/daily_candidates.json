@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T00:22:20.047510+00:00",
+  "generated_at": "2026-11-16T06:57:53.877360+00:00",
   "counts": {
-    "sportdog": 7,
+    "sportdog": 6,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Sportdog Greek Transfer Scenarios",
         "published": "Sun, 15 Nov 2026 09:56:10 GMT",
         "base_score": 72,
-        "candidate_score": 100,
+        "candidate_score": 97,
         "priority": "URGENT",
         "matched_keywords": [
           "ΠΑΟΚ",
@@ -28,33 +28,12 @@
         "needs_second_source": false
       },
       {
-        "external_id": "0eceaeec86bb79eb67462566",
-        "mode": "sportdog",
-        "title": "Olympiacos dealt major Nikola Milutinov injury blow ahead of Maccabi Tel Aviv clash - basketballsphere.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TeXRDajVOUzhQZVU4a3dqTTdNaDdwSzVISFk0UkM5ZndabmhFNEtEdEhNUTROWHZTNkZVTXQ5OUN0OTdFamI1cC04NlM5cl83ckJqeEY1WUk1LTc4aFRzbktKLW9FT21WWVVLanNITGN0TDkwX2c?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sat, 14 Nov 2026 13:55:56 GMT",
-        "base_score": 66,
-        "candidate_score": 93,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "deal",
-          "injury"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
         "external_id": "a1c2013aa21e74c7cc1f6095",
         "mode": "sportdog",
         "title": "Giorgi Kvernadze Transfer from Frosinone to Panathinaikos - TransferFeed",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0dPWlZ3WUkxUGY0R25DbTVWYUtzWnh5NnpGWWtPV1lBUFA2LVMxWU10S1ZQMEFpMGNSRDdTeVlXWjVpQUFBR0drWTJoRWtrc1IzakZRMjFVRzdjZXB3R2V5RGVreEthTzBKYkhaRm5KeTlrNXc1cFRRVnJYZW5HOFR3eEljMTVlNHVmbng2UVlxUQ?oc=5",
         "source": "TransferFeed Greek Super League",
-        "published": "Sun, 15 Nov 2026 12:50:30 GMT",
+        "published": "Sun, 15 Nov 2026 13:23:01 GMT",
         "base_score": 58,
         "candidate_score": 84,
         "priority": "High",
@@ -65,6 +44,26 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "e5594ec65f3134b3e4684bbd",
+        "mode": "sportdog",
+        "title": "Big chances missed - Olympiacos stats for Super League 1 2026/2027 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVU1bVRoWEp5OGRsQVVFckJwcUVkMzJLZXBOZnl3VnZpb0NyeHJta0tkTFNWSHFaODdwNEZnWWxfWlRSVS1yai1ZRDFMTjlNRVBfZkxoanRBOERxYThnRmpya18yRlQ5cWNkSUEzRThJa0t0Y09lZmZxbHcwWnhIUXY3MnlWVXBnZks5SmQxOFhCVFR3czM3Z3RvbmhZSlNlQnVvbThrSEZnQQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 15 Nov 2026 20:25:55 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -96,7 +95,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sun, 15 Nov 2026 00:50:54 GMT",
         "base_score": 56,
-        "candidate_score": 67,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -109,38 +108,17 @@
         "needs_second_source": true
       },
       {
-        "external_id": "11d6ba842fe0e7f29d63d254",
+        "external_id": "2f9ff2c42599ad61a0118aa5",
         "mode": "sportdog",
-        "title": "Big chances missed - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG9UOTF1T09sMWc5YWVxczV5X2FWb0J2QzFSR0RmVmdMbWd2TngxYUowVFo5OW9qTHVWb2xfTjJMd1Bza0p1WmxSeW1TOG1LZE1pNGVUX1piS0s0VUExVGdXSlRLYmtCcllNanU3WmVUQTJuU3VvVVY5akxaZUp1MV91OEtPenQ4VkRaWFFWRVRIbGt5OFBMdlBmWVh5LXVWU3c?oc=5",
+        "title": "Spanish Club Wishes to Sell Player; Olympiacos Skeptical - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORU5hVmRIcDJnYk1RQWJEVjVZSXBjRnVjOHZCQW1Kckw5SEpWRWltdENSWEZkZl9JdHZ1SEd6SnVKOUpJVTBYTF9aRUhkQUdxYUVxalAxVUlXd3RNem80V0w3dHptVmJBeEZfYzdUS3VCcUhHbm9xVmVEMVdqVkM0MERpV25QVzN0UlpzQmtIOUhNWmlrakV6NE1lLXZ3bTFwTDA5Y05meWVsQWZFcWhOa2dn?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Sat, 14 Nov 2026 19:42:01 GMT",
-        "base_score": 56,
-        "candidate_score": 67,
+        "published": "Sun, 15 Nov 2026 04:43:57 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos",
-          "Super League"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "8d909016f1dc3d51a91e002b",
-        "mode": "sportdog",
-        "title": "French Sources Report Olympiacos’ Firm Interest in Nice Midfielder - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGxscElheGgwVFNpY0cwUE1aSnJsZXJLWUNMTm1PenVzXzRBeXpqMkFXSmJCYmxXQnpOQlJ1N202MHVOaHZadk1jNm81RHJ1V3Vfb0NieWZMMmdINHp3NHlFSUdlckpJRUpZNDlBcjkzRXU5YU1ETGY4clpJWTFQZ05SdEZUdVB0MU8wbWlkbzRsMGxjTUpLVUNLWmNfMWVKZkExSTliRjllTEtRM3NIaHhULU1zelFpdHZNUHphbw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sat, 14 Nov 2026 14:06:50 GMT",
-        "base_score": 39,
-        "candidate_score": 47,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos",
-          "midfielder"
+          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
@@ -150,6 +128,43 @@
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "128cf6e16a459e91567d0894",
+        "mode": "geopolitico",
+        "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Enerji FM 100.5",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnXzdZT080OVVVdHM5dktmeHhrTDRNM1ZSaDdYWGhzWmxERTQ1ZkpyaFBhTWREVTFvMU5ERm1teTZWNDNjVE1vSUkzc0FrTE9CQjh6X1F0Zw?oc=5",
+        "source": "Eastern Mediterranean Turkey Watch",
+        "published": "Sun, 15 Nov 2026 16:44:53 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "NAVTEX",
+          "Doğu Akdeniz",
+          "Ankara",
+          "Atina",
+          "enerji"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "5f3dccec90e6ebd4e7d21248",
+        "mode": "geopolitico",
+        "title": "Israeli reservist going on cruise with wife arrested in Cyprus after loaded magazine found in luggage - Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kQU0tSG4yN0l4MFExd25uTWZudmpxTXF5OWhNdWhFOS1qNVlxRV8tTENUS1FVN2FnM1YwZmlLZHJ0NWJLdFo0b3hsQ3ZRaTgyUHhHVWln?oc=5",
+        "source": "Ynet Greece Turkey Cyprus IMEC Watch",
+        "published": "Mon, 16 Nov 2026 00:27:41 GMT",
+        "base_score": 94,
+        "candidate_score": 104,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Israel",
+          "Israeli",
+          "Cyprus",
+          "arrest"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "7cc653207e8d2edb34949c79",
         "mode": "geopolitico",
@@ -197,13 +212,47 @@
         "source": "Ynet Greece Turkey Cyprus IMEC Watch",
         "published": "Sun, 15 Nov 2026 12:26:23 GMT",
         "base_score": 94,
-        "candidate_score": 100,
+        "candidate_score": 97,
         "priority": "URGENT",
         "matched_keywords": [
           "Israel",
           "Israeli",
           "Cyprus",
           "arrest"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e0281bd6d0142cbcda6610e6",
+        "mode": "geopolitico",
+        "title": "Kıbrıs-Yunanistan elektrik bağlantısında yeni takvim 2031: Yıllık 138 milyon euro tasarruf hesabı - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFBtLWp3dFZJZ3Y1MG1sLUVmZ2k3Z2VOTGYzTXBSTjAycVVvSjVpQldnamJRZVBOVEs0SGplZFQ3T01pM3NWYndZY1ZGVThVcURoMDVpSG9Cdms0SGtNVzdWN3hmY043SE1kZ3pxQ1pSMWhQc2VSa204X29wdGJBVjJvdkpKUGhlc2NTMG56b3l2OU9KR01SNTVwY1F5WlpOMFpmRmtybHp6TXExbC1DdmNJVHp5ODZDRnNpcnlR?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Mon, 16 Nov 2026 03:10:24 GMT",
+        "base_score": 84,
+        "candidate_score": 94,
+        "priority": "High",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kıbrıs",
+          "elektrik bağlantısı"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "b625aa358dacfe1781cb2b96",
+        "mode": "geopolitico",
+        "title": "Promise of love, Rs 2.2 lakh and railway blast: How Pakistan-based ISI handler drew Punjab woman into ter - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQmdBVHdnaGZubzZWbmN2UkRPcDV0cDVDMlM5aTRjSFdHYm1UN0F2NWZIdXlqWi0xRWlRVVJ3aERMSjBIQ1lMenNCZGt2S2RhemdITDBZYk1QTG9nQnhLeGJlNko3VlFkNjl4Vnowd3VEYVFacUhDZWZDR2M5Nk1RMk5GMTBNNHZUaS16UV9Xak9uV3REZmVsSmtIb3FsWE5lSjJtNWhDNVV6MVVja1J2TkVFSFBqVTY1ZjI5Skg4NGMtZllWX2hGbEUwMmFmMHdqUk1wdklZUUh5dmNDLWE3WXJjTTdiYlRWWFpMQkpZZXo3ck96Uk9LVlQxUm9pMUhGdFZzNWw2cUJQMmJNYjgxazZhRkl6T1HSAZwCQVVfeXFMTzVhVWdQSUNPQXQzbTNtVnpWOXBMVmx1ZVFvdzl6QmFHRVhiUEl5SXRmV1RLaVptNjZBaUh6c0tURmFkeVozQ2FCUmNXSWE3MnNNazFtY0toSnY3S09qSVBORTIwa19aOF9pVnB4d1dyMWVuM1BvZXVZWnJuWFdEdUhrazZESnFJejhGcnVvanpHNS1RdkpJdkhPdk9ORGY5TXZ6c3JGOV9jcGpFTEtVOTBaT0VpMkxyTFRVY1lKQk5BSDZoUnAwTVk0R3A4cld0WmJwVC1uWWZEcEtPWW1oTnFEUHducnNaZEl4ekkzRmRSY1pCN3dUWXhmSTRVSXoybEJLYWozdDNmUXhtLVNiRVJQXzNvdXFCRTE1NWI?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Mon, 16 Nov 2026 03:43:00 GMT",
+        "base_score": 82,
+        "candidate_score": 92,
+        "priority": "High",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "ISI"
         ],
         "content_type": "news"
       },
@@ -224,76 +273,6 @@
           "counterterrorism"
         ],
         "content_type": "news"
-      },
-      {
-        "external_id": "31e5826d20df7b36892646cc",
-        "mode": "geopolitico",
-        "title": "Rehman Gul once fought Taliban for Pakistan Army. Now he leads Baloch Liberation Army - India Today",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUNLXy1XZmlwTzNYQTFqWF9nRXlzQnA4aXVGS1RqVnJKTE5qNzNRUXFZeHFsODRYNXFYeDBtNi1rX1c4cUtiMTgxSExDdlBBMVExSDZJN01sQWNLWGNDdm5FdmFmTDhiUE0zWGxobHZ3M0lBdTNxNlJUUE1xLWlxLVRvc0poQ0pSV0FRRFpQY2VRWFNGTncyYTRQbTZnc0RsTk5Vd0ZjQ2VXT0JIVXhmM2M4alFtVkNpZmRn0gHAAUFVX3lxTE80Y3lrSnpVYm54S0ZkU1BGSjdJWUR5anFTNHpZTjRHN21fd3pTZXM1TmYxUmJUNVN6YWZjaUo4VWoxbkJvdVU5a283VWl6LXMwUlNCYmxuejJfZUZOSjNlNkJqT1ZFckg0UGZxR0Y3MXBzTVNFcHoxUjU1YlFVVGpQcjBrY1VXNXAtYzZBZlpRa2xWV0laRmhTSDlaSXhfNXRYZUY2ckdsdDgxWndQZExFa3RnQjJYRTdqOXJFV0F2bA?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sun, 15 Nov 2026 13:01:41 GMT",
-        "base_score": 82,
-        "candidate_score": 88,
-        "priority": "High",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Pakistan Army"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "72a813934c02fddd9f3d158c",
-        "mode": "geopolitico",
-        "title": "Baloch Liberation Army names ex Pakistan army officer Rehman Gul as new chief - India Today - India Today",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc3BBNzJZZFB0Y3pBLThYVmhTM0YyX0R2ekpoWHBvZGF2MDNKajkwSVVWQzB4b1BaWVVtYVVLV0pXSXd0UUVQLUp1ZkQzUEpBWGxUWEZqSHVpcWNyUlMyRUhxMW1DZHJsYjVFS243VF9yR0JxcXdRNnlTemV2NnZ4V2k1OGRZM3J0b0lnYnpQd2Y3RkFGb1MzM1N0REtEcnV1NDlnbEtfNTZJYXBNVHZrMEhnWUt6b05nbDVFRWdkUXlxRlJLSDhKV3BEUzZpeU9oYzV6VGlCZjVwVnRteXRraEhSMFI3QUUxOHVF0gHwAUFVX3lxTFBBUnpMRnVEVHg4QWhJWWw5TWpzU09IanRVZ2NxbXFlOHhnUFFtQU9icGZHaW9aMHVxbFpsRmEwamRTTmdmWThZOW9WbW5sTzltX055ckFYbDlUYUhHN0JRS2laVXN3M1EzQmdUZW5XRmZUMEhtSUNIdTBVa0FvaEdSSnFPcXV5b3M1emtJc25iaHBYenBsWnlFU1JZaDlpYldGZzZqYWZLMF81WV9MMnFENnExUFZvM0pmTWhpMm9zTk5xNnZMY1VpSEhHemRRclY3d3VzNnFWdE5VWjB3SEI2R3JWd1UxNHhZVl93bk80NA?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sun, 15 Nov 2026 12:58:26 GMT",
-        "base_score": 82,
-        "candidate_score": 88,
-        "priority": "High",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Pakistan Army"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "e621e760b9c47fc56252edd0",
-        "mode": "geopolitico",
-        "title": "Türkiye ile Yunanistan arasında dikkat çeken askeri temas! Türk heyeti Girit Adası'nda - Yirmidort.tv",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTB6OG1kYlUta05PVHFMMkhLcFBXQU5LYmsyZGNNZERJbW1uNFhxcnVPZkpnTEhnNGhjSUpPSlh2RHRtbk9jazlRcE5pc2lXclM3N3BQWktmTThLRk1YVERjc2pQb3dxMHRVSlB6eWM5RTAwNWgxbmptdXRFRGVZN1FTeWYwT096S3RKY2RlNzZDMXBPT0wzR0E4REloWGhPQThDRFc4TUdhX0lZdU9tb3lpVm1ScHRrZHlCVkdWczc?oc=5",
-        "source": "Turkish Greek Defence Watch",
-        "published": "Sat, 14 Nov 2026 19:30:00 GMT",
-        "base_score": 85,
-        "candidate_score": 88,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "Girit",
-          "ada",
-          "askeri"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "a8cb715ed5287eaa7700b654",
-        "mode": "geopolitico",
-        "title": "Ankara’dan yetki hamlesi... Doğu Akdeniz’de kablo bilmecesi - Enerji FM 100.5",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVndtcUhZNGlnNHNIOXYyVHU5aGRIVTYtU1FkTWtyVTM1dGFFX0JCeDRWNmd3X3hTTVFydGtBSV9EMzF1WVYwZUdMOWN1Yk5iOF9mVmJZM1c5V0J6NWJSdno4d3hpeG9CVE90ZEt3N1J5b1hwMV9GTjFoVW5hMmVaamJhS0RobFpYdjhEYzBkbzJ1QkZa?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sun, 15 Nov 2026 19:08:03 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "Doğu Akdeniz",
-          "Ankara",
-          "enerji",
-          "kablo"
-        ],
-        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -315,6 +294,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "07ed57a3eb849399e74754f5",
+        "mode": "pontos_voice",
+        "title": "Ραντεβού με την ποντιακή παράδοση και το γλέντι δίνει η Ένωση Ποντίων Πειραιώς στη Δραπετσώνα - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnVvVjhqeW1YLWhUSDNYWkEzOGMtaFBwaGNMcHBmeFFpNHFsSnByNGdEcTk3Q0JCYTRlbUEyTHRxcUl6bGY4Mm96Q3N4YmZ5S29fOWU5MGpmem92TmRUV24wdTlRUjN6bjJtUDBSU1JUa0UybGV0WmY2TVZhN2xVLV9pa3BSbzJKNTFESWs1cEFqQVc3djBKRUNieWY?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Sat, 14 Nov 2026 07:52:06 GMT",
+        "base_score": 100,
+        "candidate_score": 100,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακή",
+          "Ένωση Ποντίων",
+          "παράδοση"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "cd61bbf248c3aeaa86a81a0f",
         "mode": "pontos_voice",
         "title": "Τα Δημήτρια ταξίδεψαν στη Μακεδονία – Από την Παναγία Σουμελά μέχρι τις γεύσεις της Βέροιας! - TaMeteora.gr",
@@ -331,48 +328,32 @@
         "content_type": "news"
       },
       {
-        "external_id": "a8cb57545d233d348088f63e",
+        "external_id": "66519e2656ffcd997ccbc687",
         "mode": "pontos_voice",
-        "title": "Εκδρομή στην Παναγία Σουμελά από τον Σύλλογο Θεόπετρας στις 29 Νοεμβρίου - kalabakacity",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlBLU19LX3N6Y3ZlVVhFajd1Z3pUS3h1clRPTEozQVFfSTNEd3g5akZKajlrcXZZY29ocEVTR2VfYlhnTUhaa2FLczVEbktzaDNZX2l4TjJEMmM3RjctbXR2UlR5RV9nNEZRdktEbWxyNUJjQVBnOHBLSFJIeFRraVlfYVpzdnBaU3Y3SzhHcC00UGxDQ1lwRlpCQWY4OUdwTlpUeQ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Sat, 14 Nov 2026 08:59:41 GMT",
-        "base_score": 86,
-        "candidate_score": 86,
+        "title": "Trabzonspor'da sakat oyuncularla ilgili yeni gelişme! Dönüş tarihleri belli oluyor",
+        "url": "https://www.61saat.com/trabzonsporda-sakat-oyuncularla-ilgili-yeni-gelisme-donus-tarihleri-belli-oluyor",
+        "source": "61Saat Trabzon",
+        "published": "Mon, 16 Nov 2026 08:34:00 +0300",
+        "base_score": 67,
+        "candidate_score": 82,
         "priority": "High",
         "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "c1caa5152d018eb5dcfadf20",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor'a yazılmıştı! Gedson iddiasına Rusya'dan yanıt",
-        "url": "https://www.61saat.com/trabzonspor-yazilmisti-gedson-iddiasina-rusyadan-yanit",
-        "source": "61Saat Trabzon",
-        "published": "Sun, 15 Nov 2026 23:15:00 +0300",
-        "base_score": 52,
-        "candidate_score": 62,
-        "priority": "Normal",
-        "matched_keywords": [
           "Trabzon",
-          "açıklama",
-          "anıt",
-          "Trabzon"
+          "Rumlar",
+          "Trabzon",
+          "dil"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "54d0a5ecdb35ebfeb3b8362c",
+        "external_id": "1f7848f5496f62d0dd7f6138",
         "mode": "pontos_voice",
-        "title": "Trabzonspor'un eski futbolcusu Felipe Augusto'ya Mohamed Salah sürprizi!",
-        "url": "https://www.61saat.com/trabzonsporun-eski-futbolcusu-felipe-augustoya-mohamed-salah-surprizi",
+        "title": "Sörloth iddiası Trabzonspor günlerini hatırlattı! İşte o olay…",
+        "url": "https://www.61saat.com/sorloth-iddiasi-trabzonspor-gunlerini-hatirlatti-iste-o-olay",
         "source": "61Saat Trabzon",
-        "published": "Sun, 15 Nov 2026 21:37:00 +0300",
+        "published": "Mon, 16 Nov 2026 09:26:00 +0300",
         "base_score": 44,
-        "candidate_score": 54,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -382,18 +363,18 @@
         "content_type": "news"
       },
       {
-        "external_id": "3c3c40ce6db92ff6c64b521b",
+        "external_id": "cfb42a2eac48ec2c0216dd9b",
         "mode": "pontos_voice",
-        "title": "Zenitli futbolcudan Mohamed Salah sözleri: \"Görmek isterdik\"",
-        "url": "https://www.61saat.com/zenitli-futbolcudan-mohamed-salah-sozleri-gormek-isterdik",
+        "title": "Trabzon futbolunda kriz masası toplanıyor",
+        "url": "https://www.61saat.com/trabzon-futbolunda-kriz-masasi-toplaniyor",
         "source": "61Saat Trabzon",
-        "published": "Sun, 15 Nov 2026 20:12:00 +0300",
-        "base_score": 40,
-        "candidate_score": 50,
+        "published": "Mon, 16 Nov 2026 08:31:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "açıklama",
+          "Tonya",
           "Trabzon"
         ],
         "content_type": "news"
@@ -409,7 +390,7 @@
       "source": "Sportdog Greek Transfer Scenarios",
       "published": "Sun, 15 Nov 2026 09:56:10 GMT",
       "base_score": 72,
-      "candidate_score": 100,
+      "candidate_score": 97,
       "priority": "URGENT",
       "matched_keywords": [
         "ΠΑΟΚ",
@@ -422,33 +403,12 @@
       "needs_second_source": false
     },
     {
-      "external_id": "0eceaeec86bb79eb67462566",
-      "mode": "sportdog",
-      "title": "Olympiacos dealt major Nikola Milutinov injury blow ahead of Maccabi Tel Aviv clash - basketballsphere.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TeXRDajVOUzhQZVU4a3dqTTdNaDdwSzVISFk0UkM5ZndabmhFNEtEdEhNUTROWHZTNkZVTXQ5OUN0OTdFamI1cC04NlM5cl83ckJqeEY1WUk1LTc4aFRzbktKLW9FT21WWVVLanNITGN0TDkwX2c?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sat, 14 Nov 2026 13:55:56 GMT",
-      "base_score": 66,
-      "candidate_score": 93,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "deal",
-        "injury"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
       "external_id": "a1c2013aa21e74c7cc1f6095",
       "mode": "sportdog",
       "title": "Giorgi Kvernadze Transfer from Frosinone to Panathinaikos - TransferFeed",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0dPWlZ3WUkxUGY0R25DbTVWYUtzWnh5NnpGWWtPV1lBUFA2LVMxWU10S1ZQMEFpMGNSRDdTeVlXWjVpQUFBR0drWTJoRWtrc1IzakZRMjFVRzdjZXB3R2V5RGVreEthTzBKYkhaRm5KeTlrNXc1cFRRVnJYZW5HOFR3eEljMTVlNHVmbng2UVlxUQ?oc=5",
       "source": "TransferFeed Greek Super League",
-      "published": "Sun, 15 Nov 2026 12:50:30 GMT",
+      "published": "Sun, 15 Nov 2026 13:23:01 GMT",
       "base_score": 58,
       "candidate_score": 84,
       "priority": "High",
@@ -459,6 +419,26 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "e5594ec65f3134b3e4684bbd",
+      "mode": "sportdog",
+      "title": "Big chances missed - Olympiacos stats for Super League 1 2026/2027 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVU1bVRoWEp5OGRsQVVFckJwcUVkMzJLZXBOZnl3VnZpb0NyeHJta0tkTFNWSHFaODdwNEZnWWxfWlRSVS1yai1ZRDFMTjlNRVBfZkxoanRBOERxYThnRmpya18yRlQ5cWNkSUEzRThJa0t0Y09lZmZxbHcwWnhIUXY3MnlWVXBnZks5SmQxOFhCVFR3czM3Z3RvbmhZSlNlQnVvbThrSEZnQQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 15 Nov 2026 20:25:55 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -490,7 +470,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sun, 15 Nov 2026 00:50:54 GMT",
       "base_score": 56,
-      "candidate_score": 67,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -503,44 +483,60 @@
       "needs_second_source": true
     },
     {
-      "external_id": "11d6ba842fe0e7f29d63d254",
+      "external_id": "2f9ff2c42599ad61a0118aa5",
       "mode": "sportdog",
-      "title": "Big chances missed - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRG9UOTF1T09sMWc5YWVxczV5X2FWb0J2QzFSR0RmVmdMbWd2TngxYUowVFo5OW9qTHVWb2xfTjJMd1Bza0p1WmxSeW1TOG1LZE1pNGVUX1piS0s0VUExVGdXSlRLYmtCcllNanU3WmVUQTJuU3VvVVY5akxaZUp1MV91OEtPenQ4VkRaWFFWRVRIbGt5OFBMdlBmWVh5LXVWU3c?oc=5",
+      "title": "Spanish Club Wishes to Sell Player; Olympiacos Skeptical - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORU5hVmRIcDJnYk1RQWJEVjVZSXBjRnVjOHZCQW1Kckw5SEpWRWltdENSWEZkZl9JdHZ1SEd6SnVKOUpJVTBYTF9aRUhkQUdxYUVxalAxVUlXd3RNem80V0w3dHptVmJBeEZfYzdUS3VCcUhHbm9xVmVEMVdqVkM0MERpV25QVzN0UlpzQmtIOUhNWmlrakV6NE1lLXZ3bTFwTDA5Y05meWVsQWZFcWhOa2dn?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Sat, 14 Nov 2026 19:42:01 GMT",
-      "base_score": 56,
-      "candidate_score": 67,
+      "published": "Sun, 15 Nov 2026 04:43:57 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos",
-        "Super League"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "8d909016f1dc3d51a91e002b",
-      "mode": "sportdog",
-      "title": "French Sources Report Olympiacos’ Firm Interest in Nice Midfielder - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGxscElheGgwVFNpY0cwUE1aSnJsZXJLWUNMTm1PenVzXzRBeXpqMkFXSmJCYmxXQnpOQlJ1N202MHVOaHZadk1jNm81RHJ1V3Vfb0NieWZMMmdINHp3NHlFSUdlckpJRUpZNDlBcjkzRXU5YU1ETGY4clpJWTFQZ05SdEZUdVB0MU8wbWlkbzRsMGxjTUpLVUNLWmNfMWVKZkExSTliRjllTEtRM3NIaHhULU1zelFpdHZNUHphbw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sat, 14 Nov 2026 14:06:50 GMT",
-      "base_score": 39,
-      "candidate_score": 47,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos",
-        "midfielder"
+        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "128cf6e16a459e91567d0894",
+      "mode": "geopolitico",
+      "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Enerji FM 100.5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnXzdZT080OVVVdHM5dktmeHhrTDRNM1ZSaDdYWGhzWmxERTQ1ZkpyaFBhTWREVTFvMU5ERm1teTZWNDNjVE1vSUkzc0FrTE9CQjh6X1F0Zw?oc=5",
+      "source": "Eastern Mediterranean Turkey Watch",
+      "published": "Sun, 15 Nov 2026 16:44:53 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "NAVTEX",
+        "Doğu Akdeniz",
+        "Ankara",
+        "Atina",
+        "enerji"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "5f3dccec90e6ebd4e7d21248",
+      "mode": "geopolitico",
+      "title": "Israeli reservist going on cruise with wife arrested in Cyprus after loaded magazine found in luggage - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kQU0tSG4yN0l4MFExd25uTWZudmpxTXF5OWhNdWhFOS1qNVlxRV8tTENUS1FVN2FnM1YwZmlLZHJ0NWJLdFo0b3hsQ3ZRaTgyUHhHVWln?oc=5",
+      "source": "Ynet Greece Turkey Cyprus IMEC Watch",
+      "published": "Mon, 16 Nov 2026 00:27:41 GMT",
+      "base_score": 94,
+      "candidate_score": 104,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Israel",
+        "Israeli",
+        "Cyprus",
+        "arrest"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "7cc653207e8d2edb34949c79",
@@ -589,13 +585,47 @@
       "source": "Ynet Greece Turkey Cyprus IMEC Watch",
       "published": "Sun, 15 Nov 2026 12:26:23 GMT",
       "base_score": 94,
-      "candidate_score": 100,
+      "candidate_score": 97,
       "priority": "URGENT",
       "matched_keywords": [
         "Israel",
         "Israeli",
         "Cyprus",
         "arrest"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e0281bd6d0142cbcda6610e6",
+      "mode": "geopolitico",
+      "title": "Kıbrıs-Yunanistan elektrik bağlantısında yeni takvim 2031: Yıllık 138 milyon euro tasarruf hesabı - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFBtLWp3dFZJZ3Y1MG1sLUVmZ2k3Z2VOTGYzTXBSTjAycVVvSjVpQldnamJRZVBOVEs0SGplZFQ3T01pM3NWYndZY1ZGVThVcURoMDVpSG9Cdms0SGtNVzdWN3hmY043SE1kZ3pxQ1pSMWhQc2VSa204X29wdGJBVjJvdkpKUGhlc2NTMG56b3l2OU9KR01SNTVwY1F5WlpOMFpmRmtybHp6TXExbC1DdmNJVHp5ODZDRnNpcnlR?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Mon, 16 Nov 2026 03:10:24 GMT",
+      "base_score": 84,
+      "candidate_score": 94,
+      "priority": "High",
+      "matched_keywords": [
+        "Yunanistan",
+        "Kıbrıs",
+        "elektrik bağlantısı"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "b625aa358dacfe1781cb2b96",
+      "mode": "geopolitico",
+      "title": "Promise of love, Rs 2.2 lakh and railway blast: How Pakistan-based ISI handler drew Punjab woman into ter - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQmdBVHdnaGZubzZWbmN2UkRPcDV0cDVDMlM5aTRjSFdHYm1UN0F2NWZIdXlqWi0xRWlRVVJ3aERMSjBIQ1lMenNCZGt2S2RhemdITDBZYk1QTG9nQnhLeGJlNko3VlFkNjl4Vnowd3VEYVFacUhDZWZDR2M5Nk1RMk5GMTBNNHZUaS16UV9Xak9uV3REZmVsSmtIb3FsWE5lSjJtNWhDNVV6MVVja1J2TkVFSFBqVTY1ZjI5Skg4NGMtZllWX2hGbEUwMmFmMHdqUk1wdklZUUh5dmNDLWE3WXJjTTdiYlRWWFpMQkpZZXo3ck96Uk9LVlQxUm9pMUhGdFZzNWw2cUJQMmJNYjgxazZhRkl6T1HSAZwCQVVfeXFMTzVhVWdQSUNPQXQzbTNtVnpWOXBMVmx1ZVFvdzl6QmFHRVhiUEl5SXRmV1RLaVptNjZBaUh6c0tURmFkeVozQ2FCUmNXSWE3MnNNazFtY0toSnY3S09qSVBORTIwa19aOF9pVnB4d1dyMWVuM1BvZXVZWnJuWFdEdUhrazZESnFJejhGcnVvanpHNS1RdkpJdkhPdk9ORGY5TXZ6c3JGOV9jcGpFTEtVOTBaT0VpMkxyTFRVY1lKQk5BSDZoUnAwTVk0R3A4cld0WmJwVC1uWWZEcEtPWW1oTnFEUHducnNaZEl4ekkzRmRSY1pCN3dUWXhmSTRVSXoybEJLYWozdDNmUXhtLVNiRVJQXzNvdXFCRTE1NWI?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Mon, 16 Nov 2026 03:43:00 GMT",
+      "base_score": 82,
+      "candidate_score": 92,
+      "priority": "High",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "ISI"
       ],
       "content_type": "news"
     },
@@ -618,76 +648,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "31e5826d20df7b36892646cc",
-      "mode": "geopolitico",
-      "title": "Rehman Gul once fought Taliban for Pakistan Army. Now he leads Baloch Liberation Army - India Today",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUNLXy1XZmlwTzNYQTFqWF9nRXlzQnA4aXVGS1RqVnJKTE5qNzNRUXFZeHFsODRYNXFYeDBtNi1rX1c4cUtiMTgxSExDdlBBMVExSDZJN01sQWNLWGNDdm5FdmFmTDhiUE0zWGxobHZ3M0lBdTNxNlJUUE1xLWlxLVRvc0poQ0pSV0FRRFpQY2VRWFNGTncyYTRQbTZnc0RsTk5Vd0ZjQ2VXT0JIVXhmM2M4alFtVkNpZmRn0gHAAUFVX3lxTE80Y3lrSnpVYm54S0ZkU1BGSjdJWUR5anFTNHpZTjRHN21fd3pTZXM1TmYxUmJUNVN6YWZjaUo4VWoxbkJvdVU5a283VWl6LXMwUlNCYmxuejJfZUZOSjNlNkJqT1ZFckg0UGZxR0Y3MXBzTVNFcHoxUjU1YlFVVGpQcjBrY1VXNXAtYzZBZlpRa2xWV0laRmhTSDlaSXhfNXRYZUY2ckdsdDgxWndQZExFa3RnQjJYRTdqOXJFV0F2bA?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sun, 15 Nov 2026 13:01:41 GMT",
-      "base_score": 82,
-      "candidate_score": 88,
-      "priority": "High",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Pakistan Army"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "72a813934c02fddd9f3d158c",
-      "mode": "geopolitico",
-      "title": "Baloch Liberation Army names ex Pakistan army officer Rehman Gul as new chief - India Today - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc3BBNzJZZFB0Y3pBLThYVmhTM0YyX0R2ekpoWHBvZGF2MDNKajkwSVVWQzB4b1BaWVVtYVVLV0pXSXd0UUVQLUp1ZkQzUEpBWGxUWEZqSHVpcWNyUlMyRUhxMW1DZHJsYjVFS243VF9yR0JxcXdRNnlTemV2NnZ4V2k1OGRZM3J0b0lnYnpQd2Y3RkFGb1MzM1N0REtEcnV1NDlnbEtfNTZJYXBNVHZrMEhnWUt6b05nbDVFRWdkUXlxRlJLSDhKV3BEUzZpeU9oYzV6VGlCZjVwVnRteXRraEhSMFI3QUUxOHVF0gHwAUFVX3lxTFBBUnpMRnVEVHg4QWhJWWw5TWpzU09IanRVZ2NxbXFlOHhnUFFtQU9icGZHaW9aMHVxbFpsRmEwamRTTmdmWThZOW9WbW5sTzltX055ckFYbDlUYUhHN0JRS2laVXN3M1EzQmdUZW5XRmZUMEhtSUNIdTBVa0FvaEdSSnFPcXV5b3M1emtJc25iaHBYenBsWnlFU1JZaDlpYldGZzZqYWZLMF81WV9MMnFENnExUFZvM0pmTWhpMm9zTk5xNnZMY1VpSEhHemRRclY3d3VzNnFWdE5VWjB3SEI2R3JWd1UxNHhZVl93bk80NA?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sun, 15 Nov 2026 12:58:26 GMT",
-      "base_score": 82,
-      "candidate_score": 88,
-      "priority": "High",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Pakistan Army"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "e621e760b9c47fc56252edd0",
-      "mode": "geopolitico",
-      "title": "Türkiye ile Yunanistan arasında dikkat çeken askeri temas! Türk heyeti Girit Adası'nda - Yirmidort.tv",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTB6OG1kYlUta05PVHFMMkhLcFBXQU5LYmsyZGNNZERJbW1uNFhxcnVPZkpnTEhnNGhjSUpPSlh2RHRtbk9jazlRcE5pc2lXclM3N3BQWktmTThLRk1YVERjc2pQb3dxMHRVSlB6eWM5RTAwNWgxbmptdXRFRGVZN1FTeWYwT096S3RKY2RlNzZDMXBPT0wzR0E4REloWGhPQThDRFc4TUdhX0lZdU9tb3lpVm1ScHRrZHlCVkdWczc?oc=5",
-      "source": "Turkish Greek Defence Watch",
-      "published": "Sat, 14 Nov 2026 19:30:00 GMT",
-      "base_score": 85,
-      "candidate_score": 88,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "Girit",
-        "ada",
-        "askeri"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "a8cb715ed5287eaa7700b654",
-      "mode": "geopolitico",
-      "title": "Ankara’dan yetki hamlesi... Doğu Akdeniz’de kablo bilmecesi - Enerji FM 100.5",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVndtcUhZNGlnNHNIOXYyVHU5aGRIVTYtU1FkTWtyVTM1dGFFX0JCeDRWNmd3X3hTTVFydGtBSV9EMzF1WVYwZUdMOWN1Yk5iOF9mVmJZM1c5V0J6NWJSdno4d3hpeG9CVE90ZEt3N1J5b1hwMV9GTjFoVW5hMmVaamJhS0RobFpYdjhEYzBkbzJ1QkZa?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sun, 15 Nov 2026 19:08:03 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "Doğu Akdeniz",
-        "Ankara",
-        "enerji",
-        "kablo"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "ec36a7c899714d87d307b9cc",
       "mode": "pontos_voice",
       "title": "Στη Μακεδονία ταξίδεψε ο Πολιτιστικός Σύλλογος Αγίου Δημητρίου «Τα Δημήτρια» – Από την Παναγία Σουμελά έως τη Βεργίνα και τη Βέροια - Stagonnews",
@@ -701,6 +661,24 @@
         "Παναγία Σουμελά",
         "Σουμελά",
         "πολιτιστικός σύλλογος"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "07ed57a3eb849399e74754f5",
+      "mode": "pontos_voice",
+      "title": "Ραντεβού με την ποντιακή παράδοση και το γλέντι δίνει η Ένωση Ποντίων Πειραιώς στη Δραπετσώνα - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnVvVjhqeW1YLWhUSDNYWkEzOGMtaFBwaGNMcHBmeFFpNHFsSnByNGdEcTk3Q0JCYTRlbUEyTHRxcUl6bGY4Mm96Q3N4YmZ5S29fOWU5MGpmem92TmRUV24wdTlRUjN6bjJtUDBSU1JUa0UybGV0WmY2TVZhN2xVLV9pa3BSbzJKNTFESWs1cEFqQVc3djBKRUNieWY?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Sat, 14 Nov 2026 07:52:06 GMT",
+      "base_score": 100,
+      "candidate_score": 100,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Pontos",
+        "ποντιακή",
+        "Ένωση Ποντίων",
+        "παράδοση"
       ],
       "content_type": "news"
     },
@@ -721,48 +699,32 @@
       "content_type": "news"
     },
     {
-      "external_id": "a8cb57545d233d348088f63e",
+      "external_id": "66519e2656ffcd997ccbc687",
       "mode": "pontos_voice",
-      "title": "Εκδρομή στην Παναγία Σουμελά από τον Σύλλογο Θεόπετρας στις 29 Νοεμβρίου - kalabakacity",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlBLU19LX3N6Y3ZlVVhFajd1Z3pUS3h1clRPTEozQVFfSTNEd3g5akZKajlrcXZZY29ocEVTR2VfYlhnTUhaa2FLczVEbktzaDNZX2l4TjJEMmM3RjctbXR2UlR5RV9nNEZRdktEbWxyNUJjQVBnOHBLSFJIeFRraVlfYVpzdnBaU3Y3SzhHcC00UGxDQ1lwRlpCQWY4OUdwTlpUeQ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Sat, 14 Nov 2026 08:59:41 GMT",
-      "base_score": 86,
-      "candidate_score": 86,
+      "title": "Trabzonspor'da sakat oyuncularla ilgili yeni gelişme! Dönüş tarihleri belli oluyor",
+      "url": "https://www.61saat.com/trabzonsporda-sakat-oyuncularla-ilgili-yeni-gelisme-donus-tarihleri-belli-oluyor",
+      "source": "61Saat Trabzon",
+      "published": "Mon, 16 Nov 2026 08:34:00 +0300",
+      "base_score": 67,
+      "candidate_score": 82,
       "priority": "High",
       "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "c1caa5152d018eb5dcfadf20",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor'a yazılmıştı! Gedson iddiasına Rusya'dan yanıt",
-      "url": "https://www.61saat.com/trabzonspor-yazilmisti-gedson-iddiasina-rusyadan-yanit",
-      "source": "61Saat Trabzon",
-      "published": "Sun, 15 Nov 2026 23:15:00 +0300",
-      "base_score": 52,
-      "candidate_score": 62,
-      "priority": "Normal",
-      "matched_keywords": [
         "Trabzon",
-        "açıklama",
-        "anıt",
-        "Trabzon"
+        "Rumlar",
+        "Trabzon",
+        "dil"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "54d0a5ecdb35ebfeb3b8362c",
+      "external_id": "1f7848f5496f62d0dd7f6138",
       "mode": "pontos_voice",
-      "title": "Trabzonspor'un eski futbolcusu Felipe Augusto'ya Mohamed Salah sürprizi!",
-      "url": "https://www.61saat.com/trabzonsporun-eski-futbolcusu-felipe-augustoya-mohamed-salah-surprizi",
+      "title": "Sörloth iddiası Trabzonspor günlerini hatırlattı! İşte o olay…",
+      "url": "https://www.61saat.com/sorloth-iddiasi-trabzonspor-gunlerini-hatirlatti-iste-o-olay",
       "source": "61Saat Trabzon",
-      "published": "Sun, 15 Nov 2026 21:37:00 +0300",
+      "published": "Mon, 16 Nov 2026 09:26:00 +0300",
       "base_score": 44,
-      "candidate_score": 54,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -772,18 +734,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "3c3c40ce6db92ff6c64b521b",
+      "external_id": "cfb42a2eac48ec2c0216dd9b",
       "mode": "pontos_voice",
-      "title": "Zenitli futbolcudan Mohamed Salah sözleri: \"Görmek isterdik\"",
-      "url": "https://www.61saat.com/zenitli-futbolcudan-mohamed-salah-sozleri-gormek-isterdik",
+      "title": "Trabzon futbolunda kriz masası toplanıyor",
+      "url": "https://www.61saat.com/trabzon-futbolunda-kriz-masasi-toplaniyor",
       "source": "61Saat Trabzon",
-      "published": "Sun, 15 Nov 2026 20:12:00 +0300",
-      "base_score": 40,
-      "candidate_score": 50,
+      "published": "Mon, 16 Nov 2026 08:31:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "açıklama",
+        "Tonya",
         "Trabzon"
       ],
       "content_type": "news"
