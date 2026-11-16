@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T20:36:11.141155+00:00",
+  "generated_at": "2026-11-16T00:22:20.047510+00:00",
   "counts": {
     "sportdog": 7,
     "geopolitico": 8,
@@ -7,6 +7,26 @@
   },
   "modes": {
     "sportdog": [
+      {
+        "external_id": "e316af2b3242e005cf257f6d",
+        "mode": "sportdog",
+        "title": "Πρώην άσος του ΠΑΟΚ ζητά μεταγραφή 55 εκατ. ευρώ στη Λίβερπουλ – «Θα φτάσει τα 90 εκατομμύρια!» - Monobala",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFBkaG1rSlBFeEcydHhaV2ozanc4VEdQT1A3Y21Mb21EeXdOM3RlaGViUzBGR0FvSk00YUF0clp6NU9GVmJJenB0TUkyekVocmRHUFphMGZqQTZpcGRHNjFmeVBhSkdsYzBVTmlPVC1tSzUtZTk3TU9XLTd6VGFfMWgwNjB2SUg1NnltWi00RzFOSllVb2c3YllqMzlHYlNEYUI5T0JFU01STXZvU2pkRQ?oc=5",
+        "source": "Sportdog Greek Transfer Scenarios",
+        "published": "Sun, 15 Nov 2026 09:56:10 GMT",
+        "base_score": 72,
+        "candidate_score": 100,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "ΠΑΟΚ",
+          "μεταγραφή"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
       {
         "external_id": "0eceaeec86bb79eb67462566",
         "mode": "sportdog",
@@ -36,7 +56,7 @@
         "source": "TransferFeed Greek Super League",
         "published": "Sun, 15 Nov 2026 12:50:30 GMT",
         "base_score": 58,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -45,26 +65,6 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "450f94de32d25f282e45cda1",
-        "mode": "sportdog",
-        "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar Armenia",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sat, 14 Nov 2026 10:40:53 GMT",
-        "base_score": 56,
-        "candidate_score": 76,
-        "priority": "High",
-        "matched_keywords": [
-          "Olympiacos",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -76,8 +76,8 @@
         "source": "AEK Rumour Watch",
         "published": "Sun, 15 Nov 2026 05:41:57 GMT",
         "base_score": 56,
-        "candidate_score": 70,
-        "priority": "High",
+        "candidate_score": 67,
+        "priority": "Normal",
         "matched_keywords": [
           "AEK",
           "Super League"
@@ -129,45 +129,27 @@
         "needs_second_source": true
       },
       {
-        "external_id": "e84a4db913d29d7763571a8d",
+        "external_id": "8d909016f1dc3d51a91e002b",
         "mode": "sportdog",
-        "title": "Barcelona rally from 14 down to beat Panathinaikos in Athens - https://streamlinefeed.co.ke/",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ1I4TGVjTTBtajdPdWtSeThLaHhrOFUzc0NXMXlOczZ5b3JhYjE0eVBoWnR0NEZHN1RoMk92Ni05LTlzUHpPWEh0V1I2SXBJSmN6QlkySHZOc0dHeWswenpRNTloQy1YcXIzN3ppS0x1ZEc5MUI0akxLV3BmT254cDN0aDZFNkZNanVucVd1eXBxM1R1clo1Y0t3?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Sat, 14 Nov 2026 10:48:11 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
+        "title": "French Sources Report Olympiacos’ Firm Interest in Nice Midfielder - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGxscElheGgwVFNpY0cwUE1aSnJsZXJLWUNMTm1PenVzXzRBeXpqMkFXSmJCYmxXQnpOQlJ1N202MHVOaHZadk1jNm81RHJ1V3Vfb0NieWZMMmdINHp3NHlFSUdlckpJRUpZNDlBcjkzRXU5YU1ETGY4clpJWTFQZ05SdEZUdVB0MU8wbWlkbzRsMGxjTUpLVUNLWmNfMWVKZkExSTliRjllTEtRM3NIaHhULU1zelFpdHZNUHphbw?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sat, 14 Nov 2026 14:06:50 GMT",
+        "base_score": 39,
+        "candidate_score": 47,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos"
+          "Olympiacos",
+          "midfielder"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Panathinaikos",
+        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
     ],
     "geopolitico": [
-      {
-        "external_id": "128cf6e16a459e91567d0894",
-        "mode": "geopolitico",
-        "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Enerji FM 100.5",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnXzdZT080OVVVdHM5dktmeHhrTDRNM1ZSaDdYWGhzWmxERTQ1ZkpyaFBhTWREVTFvMU5ERm1teTZWNDNjVE1vSUkzc0FrTE9CQjh6X1F0Zw?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Sun, 15 Nov 2026 16:44:53 GMT",
-        "base_score": 100,
-        "candidate_score": 110,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "NAVTEX",
-          "Doğu Akdeniz",
-          "Ankara",
-          "Atina",
-          "enerji"
-        ],
-        "content_type": "turkey_greece"
-      },
       {
         "external_id": "7cc653207e8d2edb34949c79",
         "mode": "geopolitico",
@@ -176,7 +158,7 @@
         "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
         "published": "Sun, 15 Nov 2026 15:52:18 GMT",
         "base_score": 98,
-        "candidate_score": 108,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
           "Israel",
@@ -194,7 +176,7 @@
         "source": "Pakistan Turkey Watch",
         "published": "Sun, 15 Nov 2026 04:16:54 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -226,41 +208,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "7493f5878a1d8d731522b41b",
-        "mode": "geopolitico",
-        "title": "24 terrorists, 4 Pakistani soldiers killed in Balochistan, Khyber Pakhtunkhwa - India Today",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODJ3MUNhLWNOWXZhVENwc0xidXlkYlhSY2VRY3ptcTNyYTViUHc5dk0tZkFqclRUSnpoYXhRU0V1UzY5R2lBM3paNXNnRFhKS2QtQ0lPa1JwQWFUbE14RWFWUXVwSjV5dDVlNWt3ZDdqczNkRkdHcjczUlZBSE5JeUlEY2Jzd1d6TGkxOXNkN0d2a291NlQ0aXc1aWxUTjlZTjVBR1IzX0ZSa3VJSk1FVGhLZDJUXzhSbGpfZGVLNEEtaGRDcUh3ZEhfWGNxN1g3SXU1MVh4dnYzV25GMFhKbnBFUW82VUJIekkxbHFn0gHzAUFVX3lxTE5QcTduamY2a3BudWhYM0oxd1FxcnNITlVKZWhpR3JtRXVfUGpJdXFBeE5zTEZ6M2JaMGkwZFlzMVdkNXRaT25iT1V2a3RIVllJazNYRHlvUFljbEp6LUhwbEgteTNKdUhMbUJsY29Ccmg4RXNNLUtoRUNhN2pqUWZJeVQ0R1FCNGhIempfb0Z1RW14RWtBaDV1ZFg4N0gzYUJhdWdrZTlZQWRsWnNaSUVPa3hmbERrcUF5emJTTk1yOTh4UndWdV83MFJrd19rcG1tX1dJZV8xX19RNnNxX2tkVVRDMUY1Sl9pcGdVaHJaQ0JXaw?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sat, 14 Nov 2026 17:31:46 GMT",
-        "base_score": 94,
-        "candidate_score": 97,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Pakistani",
-          "Balochistan"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "794c0531b38b5e67128da5de",
-        "mode": "geopolitico",
-        "title": "Türk ve Yunan savaş gemileri sahaya çıktı: Doğu Akdeniz'deki GSI projesi - Gazete Oksijen",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZBWDcyMHY4ZE1kUkN2cmFkdmI2M21OT00wVzB3MDVlakpqb09kNUZkRkZ2bGZqV3pIZ1lkWDA0dDQ1TENUTnJwc3p6S01Ic2hIWGl1NEh3YUc4T0g1amZ1NDZJMHJlMTk0djlwd08wQ2EyeGxRdFFwcjN4R2liekh5Qzc5b0VOdkpfSXJOMnhfSTV3b1oyU0llYmwwUWpET05rTjMwdFlHRnZEQ0E?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sun, 15 Nov 2026 20:13:19 GMT",
-        "base_score": 81,
-        "candidate_score": 96,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "GSI",
-          "Doğu Akdeniz",
-          "GSI"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "d9127e33cce690db5478cf6b",
         "mode": "geopolitico",
         "title": "Pakistan Army Says 24 Killed in Counterterrorism Operations, Including Two Citizens of Afghanistan - 8AM Media",
@@ -268,7 +215,7 @@
         "source": "Pakistan Security Watch",
         "published": "Sun, 15 Nov 2026 04:47:35 GMT",
         "base_score": 88,
-        "candidate_score": 94,
+        "candidate_score": 91,
         "priority": "High",
         "matched_keywords": [
           "Pakistan",
@@ -286,7 +233,7 @@
         "source": "Pakistan Security Watch",
         "published": "Sun, 15 Nov 2026 13:01:41 GMT",
         "base_score": 82,
-        "candidate_score": 92,
+        "candidate_score": 88,
         "priority": "High",
         "matched_keywords": [
           "India",
@@ -294,6 +241,59 @@
           "Pakistan Army"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "72a813934c02fddd9f3d158c",
+        "mode": "geopolitico",
+        "title": "Baloch Liberation Army names ex Pakistan army officer Rehman Gul as new chief - India Today - India Today",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc3BBNzJZZFB0Y3pBLThYVmhTM0YyX0R2ekpoWHBvZGF2MDNKajkwSVVWQzB4b1BaWVVtYVVLV0pXSXd0UUVQLUp1ZkQzUEpBWGxUWEZqSHVpcWNyUlMyRUhxMW1DZHJsYjVFS243VF9yR0JxcXdRNnlTemV2NnZ4V2k1OGRZM3J0b0lnYnpQd2Y3RkFGb1MzM1N0REtEcnV1NDlnbEtfNTZJYXBNVHZrMEhnWUt6b05nbDVFRWdkUXlxRlJLSDhKV3BEUzZpeU9oYzV6VGlCZjVwVnRteXRraEhSMFI3QUUxOHVF0gHwAUFVX3lxTFBBUnpMRnVEVHg4QWhJWWw5TWpzU09IanRVZ2NxbXFlOHhnUFFtQU9icGZHaW9aMHVxbFpsRmEwamRTTmdmWThZOW9WbW5sTzltX055ckFYbDlUYUhHN0JRS2laVXN3M1EzQmdUZW5XRmZUMEhtSUNIdTBVa0FvaEdSSnFPcXV5b3M1emtJc25iaHBYenBsWnlFU1JZaDlpYldGZzZqYWZLMF81WV9MMnFENnExUFZvM0pmTWhpMm9zTk5xNnZMY1VpSEhHemRRclY3d3VzNnFWdE5VWjB3SEI2R3JWd1UxNHhZVl93bk80NA?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 15 Nov 2026 12:58:26 GMT",
+        "base_score": 82,
+        "candidate_score": 88,
+        "priority": "High",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Pakistan Army"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e621e760b9c47fc56252edd0",
+        "mode": "geopolitico",
+        "title": "Türkiye ile Yunanistan arasında dikkat çeken askeri temas! Türk heyeti Girit Adası'nda - Yirmidort.tv",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTB6OG1kYlUta05PVHFMMkhLcFBXQU5LYmsyZGNNZERJbW1uNFhxcnVPZkpnTEhnNGhjSUpPSlh2RHRtbk9jazlRcE5pc2lXclM3N3BQWktmTThLRk1YVERjc2pQb3dxMHRVSlB6eWM5RTAwNWgxbmptdXRFRGVZN1FTeWYwT096S3RKY2RlNzZDMXBPT0wzR0E4REloWGhPQThDRFc4TUdhX0lZdU9tb3lpVm1ScHRrZHlCVkdWczc?oc=5",
+        "source": "Turkish Greek Defence Watch",
+        "published": "Sat, 14 Nov 2026 19:30:00 GMT",
+        "base_score": 85,
+        "candidate_score": 88,
+        "priority": "High",
+        "matched_keywords": [
+          "Yunanistan",
+          "Girit",
+          "ada",
+          "askeri"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "a8cb715ed5287eaa7700b654",
+        "mode": "geopolitico",
+        "title": "Ankara’dan yetki hamlesi... Doğu Akdeniz’de kablo bilmecesi - Enerji FM 100.5",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVndtcUhZNGlnNHNIOXYyVHU5aGRIVTYtU1FkTWtyVTM1dGFFX0JCeDRWNmd3X3hTTVFydGtBSV9EMzF1WVYwZUdMOWN1Yk5iOF9mVmJZM1c5V0J6NWJSdno4d3hpeG9CVE90ZEt3N1J5b1hwMV9GTjFoVW5hMmVaamJhS0RobFpYdjhEYzBkbzJ1QkZa?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sun, 15 Nov 2026 19:08:03 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "Ankara",
+          "enerji",
+          "kablo"
+        ],
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -305,7 +305,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sun, 15 Nov 2026 15:37:55 GMT",
         "base_score": 98,
-        "candidate_score": 108,
+        "candidate_score": 104,
         "priority": "URGENT",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -322,8 +322,8 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sun, 15 Nov 2026 15:07:50 GMT",
         "base_score": 86,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "candidate_score": 92,
+        "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
           "Σουμελά"
@@ -354,7 +354,7 @@
         "source": "61Saat Trabzon",
         "published": "Sun, 15 Nov 2026 23:15:00 +0300",
         "base_score": 52,
-        "candidate_score": 67,
+        "candidate_score": 62,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -372,7 +372,7 @@
         "source": "61Saat Trabzon",
         "published": "Sun, 15 Nov 2026 21:37:00 +0300",
         "base_score": 44,
-        "candidate_score": 59,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -382,18 +382,18 @@
         "content_type": "news"
       },
       {
-        "external_id": "c4f13f2359e12feb4bc2f9f6",
+        "external_id": "3c3c40ce6db92ff6c64b521b",
         "mode": "pontos_voice",
-        "title": "MHP Trabzon'da yeni il binasının açılış tarihi belli oldu! Bahçeli'ye bilgi verildi - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeG5QWTBXdUVQRkpHV2RQaTBhWTExSEJGZkRyTFFnM3dlWjBiOFhqZTV0bENGV2FhQlJGSWhxQjBVYlhSUmN2YnRLb05UOGxBcDhfeDAwYVM5YU04MzRlUWgtWjhkLVVpc2VpY1J2anl3b1h6Z29xMFFaS1ZXRU9nbzd1c1lkSlQ2d2V2S0hPdEw5eTZ0c0VYS21GeVlQNnBFMjNLNHJMRGNFc2xaMGxvVTNTVlREVTE0anNfbXlR?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Sun, 15 Nov 2026 12:54:30 GMT",
-        "base_score": 44,
-        "candidate_score": 54,
+        "title": "Zenitli futbolcudan Mohamed Salah sözleri: \"Görmek isterdik\"",
+        "url": "https://www.61saat.com/zenitli-futbolcudan-mohamed-salah-sozleri-gormek-isterdik",
+        "source": "61Saat Trabzon",
+        "published": "Sun, 15 Nov 2026 20:12:00 +0300",
+        "base_score": 40,
+        "candidate_score": 50,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "MHP",
+          "açıklama",
           "Trabzon"
         ],
         "content_type": "news"
@@ -401,6 +401,26 @@
     ]
   },
   "items": [
+    {
+      "external_id": "e316af2b3242e005cf257f6d",
+      "mode": "sportdog",
+      "title": "Πρώην άσος του ΠΑΟΚ ζητά μεταγραφή 55 εκατ. ευρώ στη Λίβερπουλ – «Θα φτάσει τα 90 εκατομμύρια!» - Monobala",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFBkaG1rSlBFeEcydHhaV2ozanc4VEdQT1A3Y21Mb21EeXdOM3RlaGViUzBGR0FvSk00YUF0clp6NU9GVmJJenB0TUkyekVocmRHUFphMGZqQTZpcGRHNjFmeVBhSkdsYzBVTmlPVC1tSzUtZTk3TU9XLTd6VGFfMWgwNjB2SUg1NnltWi00RzFOSllVb2c3YllqMzlHYlNEYUI5T0JFU01STXZvU2pkRQ?oc=5",
+      "source": "Sportdog Greek Transfer Scenarios",
+      "published": "Sun, 15 Nov 2026 09:56:10 GMT",
+      "base_score": 72,
+      "candidate_score": 100,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "ΠΑΟΚ",
+        "μεταγραφή"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
     {
       "external_id": "0eceaeec86bb79eb67462566",
       "mode": "sportdog",
@@ -430,7 +450,7 @@
       "source": "TransferFeed Greek Super League",
       "published": "Sun, 15 Nov 2026 12:50:30 GMT",
       "base_score": 58,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -439,26 +459,6 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "450f94de32d25f282e45cda1",
-      "mode": "sportdog",
-      "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar Armenia",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sat, 14 Nov 2026 10:40:53 GMT",
-      "base_score": 56,
-      "candidate_score": 76,
-      "priority": "High",
-      "matched_keywords": [
-        "Olympiacos",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -470,8 +470,8 @@
       "source": "AEK Rumour Watch",
       "published": "Sun, 15 Nov 2026 05:41:57 GMT",
       "base_score": 56,
-      "candidate_score": 70,
-      "priority": "High",
+      "candidate_score": 67,
+      "priority": "Normal",
       "matched_keywords": [
         "AEK",
         "Super League"
@@ -523,42 +523,24 @@
       "needs_second_source": true
     },
     {
-      "external_id": "e84a4db913d29d7763571a8d",
+      "external_id": "8d909016f1dc3d51a91e002b",
       "mode": "sportdog",
-      "title": "Barcelona rally from 14 down to beat Panathinaikos in Athens - https://streamlinefeed.co.ke/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ1I4TGVjTTBtajdPdWtSeThLaHhrOFUzc0NXMXlOczZ5b3JhYjE0eVBoWnR0NEZHN1RoMk92Ni05LTlzUHpPWEh0V1I2SXBJSmN6QlkySHZOc0dHeWswenpRNTloQy1YcXIzN3ppS0x1ZEc5MUI0akxLV3BmT254cDN0aDZFNkZNanVucVd1eXBxM1R1clo1Y0t3?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Sat, 14 Nov 2026 10:48:11 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
+      "title": "French Sources Report Olympiacos’ Firm Interest in Nice Midfielder - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGxscElheGgwVFNpY0cwUE1aSnJsZXJLWUNMTm1PenVzXzRBeXpqMkFXSmJCYmxXQnpOQlJ1N202MHVOaHZadk1jNm81RHJ1V3Vfb0NieWZMMmdINHp3NHlFSUdlckpJRUpZNDlBcjkzRXU5YU1ETGY4clpJWTFQZ05SdEZUdVB0MU8wbWlkbzRsMGxjTUpLVUNLWmNfMWVKZkExSTliRjllTEtRM3NIaHhULU1zelFpdHZNUHphbw?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sat, 14 Nov 2026 14:06:50 GMT",
+      "base_score": 39,
+      "candidate_score": 47,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos"
+        "Olympiacos",
+        "midfielder"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Panathinaikos",
+      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
-    },
-    {
-      "external_id": "128cf6e16a459e91567d0894",
-      "mode": "geopolitico",
-      "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Enerji FM 100.5",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnXzdZT080OVVVdHM5dktmeHhrTDRNM1ZSaDdYWGhzWmxERTQ1ZkpyaFBhTWREVTFvMU5ERm1teTZWNDNjVE1vSUkzc0FrTE9CQjh6X1F0Zw?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Sun, 15 Nov 2026 16:44:53 GMT",
-      "base_score": 100,
-      "candidate_score": 110,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "NAVTEX",
-        "Doğu Akdeniz",
-        "Ankara",
-        "Atina",
-        "enerji"
-      ],
-      "content_type": "turkey_greece"
     },
     {
       "external_id": "7cc653207e8d2edb34949c79",
@@ -568,7 +550,7 @@
       "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
       "published": "Sun, 15 Nov 2026 15:52:18 GMT",
       "base_score": 98,
-      "candidate_score": 108,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
         "Israel",
@@ -586,7 +568,7 @@
       "source": "Pakistan Turkey Watch",
       "published": "Sun, 15 Nov 2026 04:16:54 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -618,41 +600,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "7493f5878a1d8d731522b41b",
-      "mode": "geopolitico",
-      "title": "24 terrorists, 4 Pakistani soldiers killed in Balochistan, Khyber Pakhtunkhwa - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODJ3MUNhLWNOWXZhVENwc0xidXlkYlhSY2VRY3ptcTNyYTViUHc5dk0tZkFqclRUSnpoYXhRU0V1UzY5R2lBM3paNXNnRFhKS2QtQ0lPa1JwQWFUbE14RWFWUXVwSjV5dDVlNWt3ZDdqczNkRkdHcjczUlZBSE5JeUlEY2Jzd1d6TGkxOXNkN0d2a291NlQ0aXc1aWxUTjlZTjVBR1IzX0ZSa3VJSk1FVGhLZDJUXzhSbGpfZGVLNEEtaGRDcUh3ZEhfWGNxN1g3SXU1MVh4dnYzV25GMFhKbnBFUW82VUJIekkxbHFn0gHzAUFVX3lxTE5QcTduamY2a3BudWhYM0oxd1FxcnNITlVKZWhpR3JtRXVfUGpJdXFBeE5zTEZ6M2JaMGkwZFlzMVdkNXRaT25iT1V2a3RIVllJazNYRHlvUFljbEp6LUhwbEgteTNKdUhMbUJsY29Ccmg4RXNNLUtoRUNhN2pqUWZJeVQ0R1FCNGhIempfb0Z1RW14RWtBaDV1ZFg4N0gzYUJhdWdrZTlZQWRsWnNaSUVPa3hmbERrcUF5emJTTk1yOTh4UndWdV83MFJrd19rcG1tX1dJZV8xX19RNnNxX2tkVVRDMUY1Sl9pcGdVaHJaQ0JXaw?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sat, 14 Nov 2026 17:31:46 GMT",
-      "base_score": 94,
-      "candidate_score": 97,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Pakistani",
-        "Balochistan"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "794c0531b38b5e67128da5de",
-      "mode": "geopolitico",
-      "title": "Türk ve Yunan savaş gemileri sahaya çıktı: Doğu Akdeniz'deki GSI projesi - Gazete Oksijen",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZBWDcyMHY4ZE1kUkN2cmFkdmI2M21OT00wVzB3MDVlakpqb09kNUZkRkZ2bGZqV3pIZ1lkWDA0dDQ1TENUTnJwc3p6S01Ic2hIWGl1NEh3YUc4T0g1amZ1NDZJMHJlMTk0djlwd08wQ2EyeGxRdFFwcjN4R2liekh5Qzc5b0VOdkpfSXJOMnhfSTV3b1oyU0llYmwwUWpET05rTjMwdFlHRnZEQ0E?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sun, 15 Nov 2026 20:13:19 GMT",
-      "base_score": 81,
-      "candidate_score": 96,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "GSI",
-        "Doğu Akdeniz",
-        "GSI"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "d9127e33cce690db5478cf6b",
       "mode": "geopolitico",
       "title": "Pakistan Army Says 24 Killed in Counterterrorism Operations, Including Two Citizens of Afghanistan - 8AM Media",
@@ -660,7 +607,7 @@
       "source": "Pakistan Security Watch",
       "published": "Sun, 15 Nov 2026 04:47:35 GMT",
       "base_score": 88,
-      "candidate_score": 94,
+      "candidate_score": 91,
       "priority": "High",
       "matched_keywords": [
         "Pakistan",
@@ -678,7 +625,7 @@
       "source": "Pakistan Security Watch",
       "published": "Sun, 15 Nov 2026 13:01:41 GMT",
       "base_score": 82,
-      "candidate_score": 92,
+      "candidate_score": 88,
       "priority": "High",
       "matched_keywords": [
         "India",
@@ -688,6 +635,59 @@
       "content_type": "news"
     },
     {
+      "external_id": "72a813934c02fddd9f3d158c",
+      "mode": "geopolitico",
+      "title": "Baloch Liberation Army names ex Pakistan army officer Rehman Gul as new chief - India Today - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc3BBNzJZZFB0Y3pBLThYVmhTM0YyX0R2ekpoWHBvZGF2MDNKajkwSVVWQzB4b1BaWVVtYVVLV0pXSXd0UUVQLUp1ZkQzUEpBWGxUWEZqSHVpcWNyUlMyRUhxMW1DZHJsYjVFS243VF9yR0JxcXdRNnlTemV2NnZ4V2k1OGRZM3J0b0lnYnpQd2Y3RkFGb1MzM1N0REtEcnV1NDlnbEtfNTZJYXBNVHZrMEhnWUt6b05nbDVFRWdkUXlxRlJLSDhKV3BEUzZpeU9oYzV6VGlCZjVwVnRteXRraEhSMFI3QUUxOHVF0gHwAUFVX3lxTFBBUnpMRnVEVHg4QWhJWWw5TWpzU09IanRVZ2NxbXFlOHhnUFFtQU9icGZHaW9aMHVxbFpsRmEwamRTTmdmWThZOW9WbW5sTzltX055ckFYbDlUYUhHN0JRS2laVXN3M1EzQmdUZW5XRmZUMEhtSUNIdTBVa0FvaEdSSnFPcXV5b3M1emtJc25iaHBYenBsWnlFU1JZaDlpYldGZzZqYWZLMF81WV9MMnFENnExUFZvM0pmTWhpMm9zTk5xNnZMY1VpSEhHemRRclY3d3VzNnFWdE5VWjB3SEI2R3JWd1UxNHhZVl93bk80NA?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 15 Nov 2026 12:58:26 GMT",
+      "base_score": 82,
+      "candidate_score": 88,
+      "priority": "High",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Pakistan Army"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e621e760b9c47fc56252edd0",
+      "mode": "geopolitico",
+      "title": "Türkiye ile Yunanistan arasında dikkat çeken askeri temas! Türk heyeti Girit Adası'nda - Yirmidort.tv",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTB6OG1kYlUta05PVHFMMkhLcFBXQU5LYmsyZGNNZERJbW1uNFhxcnVPZkpnTEhnNGhjSUpPSlh2RHRtbk9jazlRcE5pc2lXclM3N3BQWktmTThLRk1YVERjc2pQb3dxMHRVSlB6eWM5RTAwNWgxbmptdXRFRGVZN1FTeWYwT096S3RKY2RlNzZDMXBPT0wzR0E4REloWGhPQThDRFc4TUdhX0lZdU9tb3lpVm1ScHRrZHlCVkdWczc?oc=5",
+      "source": "Turkish Greek Defence Watch",
+      "published": "Sat, 14 Nov 2026 19:30:00 GMT",
+      "base_score": 85,
+      "candidate_score": 88,
+      "priority": "High",
+      "matched_keywords": [
+        "Yunanistan",
+        "Girit",
+        "ada",
+        "askeri"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "a8cb715ed5287eaa7700b654",
+      "mode": "geopolitico",
+      "title": "Ankara’dan yetki hamlesi... Doğu Akdeniz’de kablo bilmecesi - Enerji FM 100.5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVndtcUhZNGlnNHNIOXYyVHU5aGRIVTYtU1FkTWtyVTM1dGFFX0JCeDRWNmd3X3hTTVFydGtBSV9EMzF1WVYwZUdMOWN1Yk5iOF9mVmJZM1c5V0J6NWJSdno4d3hpeG9CVE90ZEt3N1J5b1hwMV9GTjFoVW5hMmVaamJhS0RobFpYdjhEYzBkbzJ1QkZa?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sun, 15 Nov 2026 19:08:03 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
+      "priority": "High",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "Ankara",
+        "enerji",
+        "kablo"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "ec36a7c899714d87d307b9cc",
       "mode": "pontos_voice",
       "title": "Στη Μακεδονία ταξίδεψε ο Πολιτιστικός Σύλλογος Αγίου Δημητρίου «Τα Δημήτρια» – Από την Παναγία Σουμελά έως τη Βεργίνα και τη Βέροια - Stagonnews",
@@ -695,7 +695,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sun, 15 Nov 2026 15:37:55 GMT",
       "base_score": 98,
-      "candidate_score": 108,
+      "candidate_score": 104,
       "priority": "URGENT",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -712,8 +712,8 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sun, 15 Nov 2026 15:07:50 GMT",
       "base_score": 86,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "candidate_score": 92,
+      "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
         "Σουμελά"
@@ -744,7 +744,7 @@
       "source": "61Saat Trabzon",
       "published": "Sun, 15 Nov 2026 23:15:00 +0300",
       "base_score": 52,
-      "candidate_score": 67,
+      "candidate_score": 62,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -762,7 +762,7 @@
       "source": "61Saat Trabzon",
       "published": "Sun, 15 Nov 2026 21:37:00 +0300",
       "base_score": 44,
-      "candidate_score": 59,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -772,18 +772,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "c4f13f2359e12feb4bc2f9f6",
+      "external_id": "3c3c40ce6db92ff6c64b521b",
       "mode": "pontos_voice",
-      "title": "MHP Trabzon'da yeni il binasının açılış tarihi belli oldu! Bahçeli'ye bilgi verildi - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeG5QWTBXdUVQRkpHV2RQaTBhWTExSEJGZkRyTFFnM3dlWjBiOFhqZTV0bENGV2FhQlJGSWhxQjBVYlhSUmN2YnRLb05UOGxBcDhfeDAwYVM5YU04MzRlUWgtWjhkLVVpc2VpY1J2anl3b1h6Z29xMFFaS1ZXRU9nbzd1c1lkSlQ2d2V2S0hPdEw5eTZ0c0VYS21GeVlQNnBFMjNLNHJMRGNFc2xaMGxvVTNTVlREVTE0anNfbXlR?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Sun, 15 Nov 2026 12:54:30 GMT",
-      "base_score": 44,
-      "candidate_score": 54,
+      "title": "Zenitli futbolcudan Mohamed Salah sözleri: \"Görmek isterdik\"",
+      "url": "https://www.61saat.com/zenitli-futbolcudan-mohamed-salah-sozleri-gormek-isterdik",
+      "source": "61Saat Trabzon",
+      "published": "Sun, 15 Nov 2026 20:12:00 +0300",
+      "base_score": 40,
+      "candidate_score": 50,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "MHP",
+        "açıklama",
         "Trabzon"
       ],
       "content_type": "news"
