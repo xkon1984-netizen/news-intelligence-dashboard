@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T08:36:26.886157+00:00",
+  "generated_at": "2026-11-17T17:53:50.969137+00:00",
   "counts": {
-    "sportdog": 6,
+    "sportdog": 7,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Mon, 16 Nov 2026 22:54:48 GMT",
         "base_score": 66,
-        "candidate_score": 92,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "PAOK",
@@ -29,23 +29,61 @@
         "needs_second_source": false
       },
       {
-        "external_id": "a2571c063b30a3192cdf3964",
+        "external_id": "9d6dab0213ae4c30f12a3f9c",
         "mode": "sportdog",
-        "title": "Big chances - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdm9pNHctMmhsYzY3bVJGUWhqRHBiMTRvY0NBS19kdmU1eHJkandnOF93SGtfaXJKQU1BTk1rZEhzR3QtUHpVR2JVNzY1d1hLSktzSjJLWE45dHVqTnBkd24yVXlrTnJnTmFmWmw1N29vTjBXb2tueGJRajlrT2g0dXp3NXNUZ0YzWWx0UGo1S1JuWF80VUdMY2NBLW9LSlI5bTBlSQ?oc=5",
+        "title": "How to get NK Celje vs Olympiacos tickets: Europa League prices, fixture information, last-minute sales & more - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDlPTy12YTJ0Y1pNSEwwUkJFMm9Db0FWSHB2NUU0Y0J1b2lmdWZPREdYQkJlTlc3R3Q0TUNTTmdDd2dGWVZjSWw4QTY5UlF0SXV2eEZ2VV8xX3UxZlZRVWRxdE1BeEI5Q3RYSnRUd1RyTHNNLVNEUnBEZGlQSmtmczNDMWZPYUdyTDl0QzAwemV1VVlBWUlxSnF4S1UwUQ?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 15 Nov 2026 23:42:38 GMT",
-        "base_score": 56,
-        "candidate_score": 64,
+        "published": "Tue, 17 Nov 2026 11:19:10 GMT",
+        "base_score": 50,
+        "candidate_score": 68,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
-          "Super League"
+          "Europa League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "1605e8ae8dbcdd9c973b3ba8",
+        "mode": "sportdog",
+        "title": "Police on alert for Maccabi-Olympiacos EuroLeague game in Limassol - Philenews",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlloZnBsVWlBcFYtT3VHd1V1WFlXeTktR3VkdTBhS19TOHc5al81aVk2NWJDUTdhNU92ZnlBWFpISmtKQ0dtSklreEx2dm1BRjdFNk5sRnV0bU5oRXU1MWE2aDVfTGt4TFFKdWdrVG1DMjYta1pabjlGVWlrd1hSSC1RdmJCaUh3WW81ZTVoMWlsZGx5V3RkWXVSdnluZGc?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Tue, 17 Nov 2026 11:27:22 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "adb5a8733b8c56e0c2d80e5a",
+        "mode": "sportdog",
+        "title": "Does Panathinaikos have a Yabusele problem? - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdHVxdF9nMzlMWC1lampxUTR3QjdwOEhrcmJBemxqM25DdEtNNTdyTUROZUtydHVNSWZsQS16eVA2U0c5aGFyaTJLX2R4cEJSX0U4ZWZ2VGE0VFdCSHI3UGpUX0lGcV9EU191WUlWZXRKM3RGLV9vWkRYYXQ0Xy1ZVkFieWt5alpvenc?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Tue, 17 Nov 2026 10:20:20 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -56,7 +94,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Mon, 16 Nov 2026 16:01:48 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -104,34 +142,89 @@
         "team": "Panathinaikos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "1fa5249fc76b6f8efd9ece47",
-        "mode": "sportdog",
-        "title": "Olympiacos Piraeus vs Kosner Baskonia Vitoria-Gasteiz 2027-01-13 19:15 | EuroLeague - Euroleague Basketball",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaEdGWkNIcmV4bFpQa3VPUklkRGpOaWZBUFhLMWphM2JXMGpJNTdnNko1dE1LQVlFLXE1bHpXWVA5WGZEUVp5blZpQWVkQWMyT1kzNnNqQVhkdzU0bEJEbmxvNGtMakJNNXpDenJRNUNLQW5YR0tYbE9nREtMclYyMC1vbEp6TzZ0bzN2cFdTOGVwYUFYMWdPeWRiZlIyMThCX1J0SzF2ZTdMdVI1OWtWZkFVX3pqaklhekRqNThnY1hqQklCM2phNW1Ga3Q?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Mon, 16 Nov 2026 01:08:59 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "e4fb4e5c6934426890e53cf5",
+        "mode": "geopolitico",
+        "title": "North Macedonia foils Iran-linked assassination plot in Greece said aimed at Israeli exec - The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3Zab2pPSjFnOXhFTS1NdGpvZTBuZ0pBWVl0WTNMNWRoQlB2RUNfSEhJX01LcHAzdzV1ODdjVlhyRWhZcDdxanNGcTI1LTlzY2MtUW1yVG9tOXpDVDNObU5nX0lSclJLZ3lCcG9od2VQRzkxYm1DN1NtZnNqcTl0T2JpMUpQVjNQTlRGY1ZRbmFVWHJNSTU0SlFsWTBQVmZwY3k5SG8wWnUxS0FBYkdXVXFPQjA0X3QzaWRUM9IBwgFBVV95cUxOWXQ2bVhqSDJoZzVqdGZzNGNUdFZOdGU4TGpyT3Jwem9fMmRFWTJNQ3VHQjdGUGZlQXotRnFNbURMNDdtVFhsU0Y3clc1cEVpUWtlZWd5YXZ4VTdPUlZZd085R2R6aWJWd3FYT25VNkR6a3FxY1ViajJUYy1fM3NIOGhwcDhQUnVZWVBIQlcxT1lZLTBKejlDcWhxc1dRYnkxQUFYN1EzWEJwR1MzTDllekM5T3phLVl6bUFZb0t3NzBCdw?oc=5",
+        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+        "published": "Tue, 17 Nov 2026 17:32:17 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Israeli",
+          "Iran"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "f9668c9f7495b77b543416c1",
+        "mode": "geopolitico",
+        "title": "North Macedonia, Greece foil Iranian-linked plot to assassinate Israeli executive - The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0SXNpaXR0LTJmRVZ1eVpoMXdGMjlsSmRpZkMyam5ZTlpvWmdMMDlnT1p0S0FXQl9IMU5QdkVGUVVwZUo4cnR1bEtBUGhOQU1TOTFUQlVIQnNoV1pBWHQw?oc=5",
+        "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
+        "published": "Tue, 17 Nov 2026 15:36:20 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Israeli",
+          "Iran"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "4a4acc40a6c67fd9046b518a",
+        "mode": "geopolitico",
+        "title": "North Macedonia, Greece foil alleged Iranian assassination plot targeting Israeli executive - Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41WDk4dnB1NWlWeXRrTmZBd05CTXVzelU3VU5fT1RMX1NMT1FJdjVURHV3ZHRMMC1IeExuWnpGR3hsYXBoU0hoNGY4RU9CYnh3ajFEWkxR?oc=5",
+        "source": "Ynet Greece Turkey Cyprus IMEC Watch",
+        "published": "Tue, 17 Nov 2026 13:45:56 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Israeli",
+          "Ege",
+          "Iran"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "1df52042128f9f1abcefd693",
+        "mode": "geopolitico",
+        "title": "Fidan ve Yerapetridis GSI konusunu ele aldı - Haber Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE5jXzhIcHBtV3BzYVZUckVBV0tjb1JRQUtzQ042YUpVTXRDNENJR282QkVfaGQtS3B4R1owWGdFSnM1LWlnNUdmdHU2UUFKbXc5X0dVNWpya0JPUDBYSUZEa05IbFhUdkk5TW56SFUwVDI0QlB2NEVHc0pOQmVmRURXYWxJWlo1djhpVFF0RXRZRDNa?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Tue, 17 Nov 2026 09:17:11 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Fidan",
+          "GSI",
+          "Kıbrıs",
+          "Fidan",
+          "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "497727d06a4b17166a7fecc5",
         "mode": "geopolitico",
         "title": "Doğu Akdeniz'de Yunanistan-Güney Kıbrıs elektrik hattı projesinde son durum ne? - Gazete Oksijen",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVjBHSzBFWVZwT3ZPNFZWNDdHX20wRVRNeGszNDJQeUxveFdUX18wRC1LS05nX2RwRmZ6dGJXYUtnQ3RpVVVYeHhfMG1fRlFHVV9MS1pBZ2NUYzhuVVplZlJ4LXZMZ1VkSmJkZUtqS0lZRzV3T25SaDJiU0w5M1QwY1JSOXNnUnRIaElrMEljcjFpanhPV0M4TTFlekkzb2ZRTF9pVHRaTUNQRFBaMzBpdi02cl9WejNhMHJNWS1JZjdEaGJBQW5Eak16RGEzcHlZTTFmeFk4cDFZbnRMTFhsZ1QzS2tWX1NWX0U2cmhoOA?oc=5",
-        "source": "Turkey Greece Breaking Watch",
+        "source": "Eastern Mediterranean Turkey Watch",
         "published": "Mon, 16 Nov 2026 13:54:22 GMT",
         "base_score": 100,
         "candidate_score": 103,
@@ -150,7 +243,7 @@
         "mode": "geopolitico",
         "title": "Fidan ile Gerapetritis Brüksel’de görüştü: GSI ve Doğu Akdeniz dosyaları masanın gölgesinde - Bugün Kıbrıs",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVQwYWZtckRnLWZ5ZVA3N2RzMmtQemx0bkdXU1J6TERpdHYzVExmX3dONDhudzktcWg4dEVnM1ZaSGx5LUo5R2xwODZWTnJDMlVDcWJISXctVU40aXZibV9naEFJbUcxVTBiaWhkZ3FKcFdTbzRtdTlsWGJXbHpFanVaWmFad2w3ZzBITFBXYndMcm83LU9sZzdKRWlkajBZc1V4Q0hIWVQ5ZUxfa3A1NUZLN18?oc=5",
-        "source": "Turkey Greece Breaking Watch",
+        "source": "Eastern Mediterranean Turkey Watch",
         "published": "Mon, 16 Nov 2026 13:47:05 GMT",
         "base_score": 100,
         "candidate_score": 103,
@@ -170,7 +263,7 @@
         "mode": "geopolitico",
         "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Enerji FM 100.5",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcllqeG9xeklJa0FxWHphY3o2S0pQSHdIelFVS2E2Z2RQcENnTWNGVmpRLXNHMXdmVWpLNlFGN1FYREYwZVI1c3A2RThNOGxrOWMwcG9PN3hYdGh1MUczMmd0ZE1BWlY0UGF6SU14YjFfcmctYVhZTnYxRmVtUzFGSXN1dmk3VThiM3RUcDIzVExmeV9XaUhBT2RrQVZZWkZtM253ZllFNU9EdHM?oc=5",
-        "source": "Turkey Greece Breaking Watch",
+        "source": "Eastern Mediterranean Turkey Watch",
         "published": "Mon, 16 Nov 2026 13:28:26 GMT",
         "base_score": 100,
         "candidate_score": 103,
@@ -185,145 +278,34 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "dcd3f32de38161ff28f06b03",
+        "external_id": "c6f2f85a6e1ebaa622299c93",
         "mode": "geopolitico",
-        "title": "The Cyprus issue: the grand bargain with Turkey, GSI, gas and Eastern Mediterranean balances - EUalive",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHdDbXJ5NWo4ejVWdjRpSXVhdGRQQU9oTUpvZmtYc1NiNHR1LWpaQXFmeWVUa3ZDVk9NSnNlcFFjRHJMQUtsY2wzb1JaWVktRzI4Mnl4RVdlUGRJenFJM0hJRG5YSlpueXpETGJ2UDZsc1Zid3hyakgyTS16RWs1Q0pqM0I3MU82dHZwV3NUUUhlcUZxclQ0OFZkd2wyXzdfeGQ0ejR6WWpYdld5a0hr?oc=5",
-        "source": "Cyprus Eastern Mediterranean Watch",
-        "published": "Mon, 16 Nov 2026 07:11:29 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
+        "title": "Doğu Akdeniz'de dikkat çeken hareketlilik! Bayraktar TB2 ile İsrail uçağı Kıbrıs açıklarında yakın rotada uçtu - SuperHaber",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcW9tbVgzNkNodTdCd1F5eEJGSFBvZU42UWItLXE2WnpQSXZUWU9vTGxxMC1XVUtRcERONGR0eFJyaVlrWTBMc3Z6UkZRUlZ1M1JfbFlpbWMxc0s5c3dlczVOMlBwYkZkelJhOTFDOHZtVjA4aDZtSUZxUGp2amUzamhCbHFoU1BqNzdjQk42TG5oTGNBcTBnMkloTzN2dVlwSnVNNGRUZWFjWUQtaWZMbXRKSmRWU03SAbcBQVVfeXFMTXFvbW1YMzZDaHU3QndReXhCRkhQb2VONlFiLS1xNlp6UEl2VFlPb0xscTAtV1VLUXBETjRkdHhScmlZa1kwTHN2elJGUVJWdTNSX2xZaW1jMXNLOXN3ZXM1TjJQcGJGZHpSYTkxQzh2bVYwOGg2bUlGcVBqdmplM2poQmxxaFNQajc3Y0JONkxuaExjQXEwZzJJaE8zdnVZcEp1TTRkVGVhY1lELWlmTG10SkpkVlNN?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Tue, 17 Nov 2026 15:32:00 GMT",
+        "base_score": 79,
+        "candidate_score": 94,
+        "priority": "High",
         "matched_keywords": [
-          "Cyprus",
-          "Eastern Mediterranean",
-          "GSI",
-          "Turkey",
-          "GSI"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "a4985d2864d0b44184972f1c",
-        "mode": "geopolitico",
-        "title": "ABD'li enerji devi Chevron, Yunanistan'la Girit'in güneyinde doğal gaz aramaya başlıyor, Ankara tetikte - Patronlar Dünyası",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHpYY0pnQ2E5d1h6c2VoX1NCUTFQWHdhRnVoaDBZNC1sd2J0bDloYzB0X0owdVRMOWsxdVM2a3RHSUJjQnhNV0Q1TWJkSjlGZUQyV1pkWTZTTnMzQkhLM05RbGxnY3FlMVhWTWRicmxnano1NzJIbW52ZE10eGc1RGpSZy1QZ3hEQmJXSF84VHRraDlPT2ZaZkhKQjh0T2p5RzRKTnZiNkVZcnBuUjNvOHpWeGF4Z04yeFZSRl8yaW1MYVRlMmxkU2ZNNA?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Mon, 16 Nov 2026 07:13:39 GMT",
-        "base_score": 96,
-        "candidate_score": 99,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Girit",
-          "Ankara",
-          "enerji",
-          "doğal gaz"
+          "Doğu Akdeniz",
+          "Kıbrıs",
+          "ada"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "ba90a00b0d1e8db4773f7614",
-        "mode": "geopolitico",
-        "title": "Former Pakistan army officer is new BLA chief - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQm1XV01GOFVXSjZGcU1qRnk1c2pYUExjYnh2MFNTYW5Bd1dSc1ZCa0NUUkI3OTBqblNIRndkZEZ6ZkZWVjlGdHdyUm53akpsSXU0LTZlVEdBNzJ1UEZINEdPTU1xa3Jnb0k2a3pWVWVFTXBtc0VueHhnSWZ0RlcyRWNrNzhXSDhVaFZDTGI5OTlnWjF4a0FNZlNSMG9uU1RZc2JldnFYRjlrU0MzeHIxaTBZUnhsWmJrOTFZTGNlTTNDSTd4dXJTY3hrYTZteUhxOGJmZHFVQlY4cXRhV3VLU1RDZnZidU83Q2doaW1zbXc4eHZPMnp0NzVkRlJpbGV3Z18xQWpNWGJEZ3cyRFNn0gHEAUFVX3lxTE1XdjZRaXdHUm5YanpwZjBCUWNBRjFfTFdSdk5zTG1FclRjQkJkbS13Y0VEWWw0eld3cWFOdEZCbGFqeUFkeVRaTU5IUDFLUTJfSlBURWVESEJObmltcTJicUJIVlNwUVBhYTdxMzM1Z25YUTdtTngwOGF0MDFmdUxWR25GRXEtTnJBOExTQ20yOVBLNVhiSk9PdnkzNWU3QzdXS2s2WkJIRTE1dUluSDBvNmVxeV9SakxWUk53cHdDaTE3czE?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Tue, 17 Nov 2026 03:30:00 GMT",
-        "base_score": 82,
-        "candidate_score": 92,
-        "priority": "High",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Pakistan Army"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "e80d2e9bb6ed5fd7f1b10d6e",
-        "mode": "geopolitico",
-        "title": "The IDF struck a Hezbollah weapons shipment that crossed the border from Syria into Lebanon. - Alma Research and Education Center",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONml6TVA0U1lYdkY3Qjk4WDRIYzhpVl83X1FSRDlmVHRWTWZjWWRJaFAtVS1JYmptb0VYQzlsVjhNWmZVcHZaOTZQWnRpakM5ejVzd21wQUx4VlRJdVV0VGh5R29MQkUwSlVNekpCQ1A3MjlwYno5emNUd3pFYWhJUUFjYjJlVlBWQzZuV3JrZXN4YjF2czNOb0VSNVBMX3Q0WkhlM3BuQW90YUpDejI3cDRsQnhibnM?oc=5",
-        "source": "Alma Research Israel Regional Security Watch",
-        "published": "Mon, 16 Nov 2026 10:30:48 GMT",
-        "base_score": 89,
-        "candidate_score": 92,
-        "priority": "High",
-        "matched_keywords": [
-          "IDF",
-          "Syria",
-          "Hezbollah",
-          "weapons",
-          "research",
-          "education"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "0570085a4a97bf807b20b830",
-        "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken iddia: Özgür Özel, Ekrem İmamoğlu'nu tasfiye mi ediyor? - Aydınlık",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnFWOC12RUN5QXhmMUlDRmVpMG9nN0EyajhvaE1Cc1JaRU9NajZOU1FiSkdQbEtVU3V0eF9aZHA1MHp6dkdZSk0xaEVGLWNDSEJXZkdmOXlIVzBIQ2dVVXFacHJ3aUhvdEw2U0NlaHgtRnpMUDJ2UU5uZnVpckY4S3o3UjE2UTRHR19YaEItQThxZlF0ZVBSSmVoT3h6UU1ZcVBYTmRLS0wwVVJHMldzNGlnVEQ3RFFWN3I5NTJTbkxfVzdCaVNyOQ?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Tue, 17 Nov 2026 06:00:55 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Abdulkadir Selvi",
-          "Abdulkadir Selvi"
-        ],
-        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
       {
-        "external_id": "f97d21f8bb2db4dab4470f82",
+        "external_id": "88d5b10a17d0f60853ed9cdb",
         "mode": "pontos_voice",
-        "title": "Trabzon'da 4 medeniyetin izlerini taşıyan tarihi liman gün yüzüne çıkarılıyor",
-        "url": "https://www.61saat.com/trabzonda-4-medeniyetin-izlerini-tasiyan-tarihi-liman-gun-yuzune-cikariliyor",
-        "source": "61Saat Trabzon",
-        "published": "Tue, 17 Nov 2026 09:32:00 +0300",
-        "base_score": 100,
-        "candidate_score": 115,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Trabzon",
-          "Komnenos",
-          "restorasyon",
-          "Bizans",
-          "Roma",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "ec36a7c899714d87d307b9cc",
-        "mode": "pontos_voice",
-        "title": "Στη Μακεδονία ταξίδεψε ο Πολιτιστικός Σύλλογος Αγίου Δημητρίου «Τα Δημήτρια» – Από την Παναγία Σουμελά έως τη Βεργίνα και τη Βέροια - Stagonnews",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHAzd2syU1pBcTl2NXQwQVB1SFhDM3EzcW5hNTVCR0tPT05GZldEMDdWVWJrX2FQNWJWb24ybkZYdVZSNjY4NlJ3aDc4WENocXowNlQtQmpITkEzUHd6SDN4VjZ2dkdUYW1wcnYzMDBneFRlV1ZUR2gzQkdEc2FtNU40b05iM0RoN19HN05CS2NkaXFoRjlPcHkzWU5aclJMUzRqSlVYbTdwVEg2b1cxX1VqdjF3bURNY2tjbHRlcDZSUTVLYXFjR19sTHRwcUhsS01ad2dEUlBwTjRteVRiMTZhdXhON2Jr0gHuAUFVX3lxTE1ReXRuWTJkczdXamZWVG5fclNZUzZnNjQ2NmltT0hPeFA3N1NadnRheUVJY3dmTE1yWFUyaUtkYlROWHVhLUZOQ3M4aG01TEZrZTFDNV9SZ2V4MjhIUmZPZGpwUGZ2d0JFeno0WURoaWtZMWVsejg0TVFkSWE1R0g5QWxMSHJCeUdwVzI5SUNSV2ZlTnVSeGNWWHlNeWVwSjlGNXB2X1hGMkJOVWE1ejNreGhtQ3JLcE93YjRoOURJQ244RjFLSjdIR0E5OHZNbUJaT001UW9ZTGJmcGlZMmpycXJtTmQzTmRfc21uWlE?oc=5",
+        "title": "Χριστιανική Ένωση Πύργου: Ιστορικό και πνευματικό οδοιπορικό για την Παναγία Σουμελά - proini.news",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSllJaFMxSDdwVzJydWZjZGVGT3ZBNDJMSVg3MDI1bEEtc3lSdUl0aEhJU2t3VVFKdi1qaF95a013bU9XWmlqbVgxOGhpRDc2ZDdYcnZrOThoYTJKUFhjZk1WRHlaWE9GTE51ZG5JX2kwSVJmVDhHRDFrLUU3M0hjNFJDRDNjdjJQQk9OSWx2OFlKaTNadVRMN3NNWlNRN0RUQzJoYlM4SGo?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Sun, 15 Nov 2026 15:37:55 GMT",
-        "base_score": 98,
-        "candidate_score": 98,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Παναγία Σουμελά",
-          "Σουμελά",
-          "πολιτιστικός σύλλογος"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "cd61bbf248c3aeaa86a81a0f",
-        "mode": "pontos_voice",
-        "title": "Τα Δημήτρια ταξίδεψαν στη Μακεδονία – Από την Παναγία Σουμελά μέχρι τις γεύσεις της Βέροιας! - TaMeteora.gr",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUV2Mkd1S0RrT0NBU0ZWVXpVa09TNFFZVWdzS2F6WXQ2NWswUTBNUzRsSGs4bjJaODhKNGlJSVpuRTdCMjQ0MVBrVEJzdXQzSGU5VnFUNEo0TnM3YWZDdmV4OWl1VGprNHhYTDM1SldZZUNPVUNnS2hWY3NUdDJJSFpXcjBrQjNJT2wzbWJneFdydkh2Qm1kdXR0UGVSVG9Gb1hlMXdqb1VkNEd2Q2J4dVFKZDhnakRWdi1uY1NlNlZWdEdZMW5ZeGJtWG1pVzlWWVpkVW9YbTRGZUFPV2pF?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Sun, 15 Nov 2026 15:07:50 GMT",
+        "published": "Tue, 17 Nov 2026 11:01:55 GMT",
         "base_score": 86,
-        "candidate_score": 86,
-        "priority": "High",
+        "candidate_score": 96,
+        "priority": "URGENT",
         "matched_keywords": [
           "Παναγία Σουμελά",
           "Σουμελά"
@@ -331,55 +313,87 @@
         "content_type": "news"
       },
       {
-        "external_id": "bda1b0128f8bf1543d1033a7",
+        "external_id": "b0658b630a5aa1e8203eed2a",
         "mode": "pontos_voice",
-        "title": "CHP Trabzon'da çok konuşulacak açıklamalar! Kurultay, para iddiaları ve parti içi ayrışma...",
-        "url": "https://www.61saat.com/chp-trabzonda-cok-konusulacak-aciklamalar-kurultay-para-iddialari-ve-parti-ici-ayrisma",
-        "source": "61Saat Trabzon",
-        "published": "Tue, 17 Nov 2026 11:09:00 +0300",
-        "base_score": 59,
-        "candidate_score": 74,
+        "title": "Τραπεζούντα: Έχτιζαν μια αγορά και βρήκαν το αρχαίο λιμάνι – Αποκαταστάθηκε το τείχος - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVYza3VhVXRkd2dsQ0xjUkU2bmNRSDJTMzJVNkFGVnBXbnJnb2hTRC1qekJGeWMwTEtZYVMxeElTWjJVZ2xlZmhwVEV0YTBpaXZVcS1IRGlndlQ4WUxjOTB0UWlzMDlWQnJZRFZ2VFc3TEZRbXhxWjc4bnRIY010ZExRNXl1M3gwOTk0MUtkY1dUTGVZYmo4N3lwZTR5bmlLdGJMd3dkTQ?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Tue, 17 Nov 2026 14:05:28 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
-          "Trabzon",
-          "açıklama",
-          "tartışma",
-          "Trabzon",
-          "dil"
+          "Pontos",
+          "Τραπεζούντα"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "48d89bd67e394e06c78d7e51",
+        "external_id": "5b5c713908e9df71effe6447",
         "mode": "pontos_voice",
-        "title": "Trabzonspor'un yıldızı gelecekti! İptal kararı",
-        "url": "https://www.61saat.com/trabzonsporun-yildizi-gelecekti-iptal-karari",
+        "title": "Trabzon Şehir Hastanesi'nde torpil iddiası! Trabzon Milletvekili TBMM'den sordu: “Böyle bir hazırlık var mı?”",
+        "url": "https://www.61saat.com/trabzon-sehir-hastanesinde-torpil-iddiasi-trabzon-milletvekili-tbmmden-sordu-boyle-bir-hazirlik-var-mi",
         "source": "61Saat Trabzon",
-        "published": "Tue, 17 Nov 2026 11:29:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
+        "published": "Tue, 17 Nov 2026 20:40:00 +0300",
+        "base_score": 53,
+        "candidate_score": 68,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Trabzon",
-          "dil"
+          "Ordu",
+          "milletvekili",
+          "Trabzon"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "f0c74f701207d61919278551",
+        "external_id": "39de25c302910eebfbdb13dc",
         "mode": "pontos_voice",
-        "title": "Trabzon-Maçka yolunu kullanacaklar dikkat! Tünelde ulaşım tek şeritten sağlanacak - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHBXc1dqZU9YRUdiOHYzQ1pSWjVuSjZQcXctdFBTYmNKMFFzMERUOE0wb21rNFF4TmJXblNmLW8zV0NwZ0tXR3RIZHBSRk1RZ1dFUGEzRmRGTDJ1ZDhMWG5vemhJN1BtRjJObnc2NXEtUE5LWmtUSE9Tdk5Id3FvcFNFcGFuWkFaM2hoRUhaS1JBaU1pQldZbWxYd2gtVmV3WVR1emxYQnJGa1Q2S2pTdkxiNGFPZHhfWUhZ?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Tue, 17 Nov 2026 07:37:23 GMT",
-        "base_score": 44,
+        "title": "Başkan Batmaz’dan Uzunsokak açıklaması! Peşini bırakmayacağız",
+        "url": "https://www.61saat.com/baskan-batmazdan-uzunsokak-aciklamasi-pesini-birakmayacagiz",
+        "source": "61Saat Trabzon",
+        "published": "Tue, 17 Nov 2026 17:35:00 +0300",
+        "base_score": 49,
         "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Maçka",
+          "belediye başkanı",
+          "açıklama",
           "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e7c7c7b9e87b9b363f076004",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da Arıcıoğlu'ndan A Milli Takım çağrısı!",
+        "url": "https://www.61saat.com/trabzonda-aricioglundan-a-milli-takim-cagrisi",
+        "source": "61Saat Trabzon",
+        "published": "Tue, 17 Nov 2026 16:40:00 +0300",
+        "base_score": 49,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Tonya",
+          "açıklama",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "3841410e6a655996ee899af5",
+        "mode": "pontos_voice",
+        "title": "Πόντος: Τα δακρυσμένα κύματα της μνήμης – στο Αρχαίο θέατρο του ΔΙΟΝ - Οδηγός Πιερίας",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDNpOUVzYmVIMmsycXRTcG5EVW9rVkwxNkFhQjZHV3pJZ0pkQmZCVUw1WlFwdU5JRWt4bDhTNmdFY0ZRTG1iY1ZyS0lnR2ZsSzRYV0lmc3YxTFZiZWNRMVZWVkM4X0Fua2V5V3hpdzRwNzJPb0YxWU5xOHc5enBlOEZZWXJnOFlEWGZqNXBrVkYxY1FocHdZcTZB?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Tue, 17 Nov 2026 12:24:22 GMT",
+        "base_score": 40,
+        "candidate_score": 50,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Πόντος"
         ],
         "content_type": "news"
       }
@@ -394,7 +408,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Mon, 16 Nov 2026 22:54:48 GMT",
       "base_score": 66,
-      "candidate_score": 92,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "PAOK",
@@ -408,23 +422,61 @@
       "needs_second_source": false
     },
     {
-      "external_id": "a2571c063b30a3192cdf3964",
+      "external_id": "9d6dab0213ae4c30f12a3f9c",
       "mode": "sportdog",
-      "title": "Big chances - Olympiacos stats for Super League 1 2026/2027 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdm9pNHctMmhsYzY3bVJGUWhqRHBiMTRvY0NBS19kdmU1eHJkandnOF93SGtfaXJKQU1BTk1rZEhzR3QtUHpVR2JVNzY1d1hLSktzSjJLWE45dHVqTnBkd24yVXlrTnJnTmFmWmw1N29vTjBXb2tueGJRajlrT2g0dXp3NXNUZ0YzWWx0UGo1S1JuWF80VUdMY2NBLW9LSlI5bTBlSQ?oc=5",
+      "title": "How to get NK Celje vs Olympiacos tickets: Europa League prices, fixture information, last-minute sales & more - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDlPTy12YTJ0Y1pNSEwwUkJFMm9Db0FWSHB2NUU0Y0J1b2lmdWZPREdYQkJlTlc3R3Q0TUNTTmdDd2dGWVZjSWw4QTY5UlF0SXV2eEZ2VV8xX3UxZlZRVWRxdE1BeEI5Q3RYSnRUd1RyTHNNLVNEUnBEZGlQSmtmczNDMWZPYUdyTDl0QzAwemV1VVlBWUlxSnF4S1UwUQ?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 15 Nov 2026 23:42:38 GMT",
-      "base_score": 56,
-      "candidate_score": 64,
+      "published": "Tue, 17 Nov 2026 11:19:10 GMT",
+      "base_score": 50,
+      "candidate_score": 68,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
-        "Super League"
+        "Europa League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "1605e8ae8dbcdd9c973b3ba8",
+      "mode": "sportdog",
+      "title": "Police on alert for Maccabi-Olympiacos EuroLeague game in Limassol - Philenews",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlloZnBsVWlBcFYtT3VHd1V1WFlXeTktR3VkdTBhS19TOHc5al81aVk2NWJDUTdhNU92ZnlBWFpISmtKQ0dtSklreEx2dm1BRjdFNk5sRnV0bU5oRXU1MWE2aDVfTGt4TFFKdWdrVG1DMjYta1pabjlGVWlrd1hSSC1RdmJCaUh3WW81ZTVoMWlsZGx5V3RkWXVSdnluZGc?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Tue, 17 Nov 2026 11:27:22 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "adb5a8733b8c56e0c2d80e5a",
+      "mode": "sportdog",
+      "title": "Does Panathinaikos have a Yabusele problem? - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdHVxdF9nMzlMWC1lampxUTR3QjdwOEhrcmJBemxqM25DdEtNNTdyTUROZUtydHVNSWZsQS16eVA2U0c5aGFyaTJLX2R4cEJSX0U4ZWZ2VGE0VFdCSHI3UGpUX0lGcV9EU191WUlWZXRKM3RGLV9vWkRYYXQ0Xy1ZVkFieWt5alpvenc?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Tue, 17 Nov 2026 10:20:20 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -435,7 +487,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Mon, 16 Nov 2026 16:01:48 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -485,30 +537,85 @@
       "needs_second_source": true
     },
     {
-      "external_id": "1fa5249fc76b6f8efd9ece47",
-      "mode": "sportdog",
-      "title": "Olympiacos Piraeus vs Kosner Baskonia Vitoria-Gasteiz 2027-01-13 19:15 | EuroLeague - Euroleague Basketball",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaEdGWkNIcmV4bFpQa3VPUklkRGpOaWZBUFhLMWphM2JXMGpJNTdnNko1dE1LQVlFLXE1bHpXWVA5WGZEUVp5blZpQWVkQWMyT1kzNnNqQVhkdzU0bEJEbmxvNGtMakJNNXpDenJRNUNLQW5YR0tYbE9nREtMclYyMC1vbEp6TzZ0bzN2cFdTOGVwYUFYMWdPeWRiZlIyMThCX1J0SzF2ZTdMdVI1OWtWZkFVX3pqaklhekRqNThnY1hqQklCM2phNW1Ga3Q?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Mon, 16 Nov 2026 01:08:59 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
+      "external_id": "e4fb4e5c6934426890e53cf5",
+      "mode": "geopolitico",
+      "title": "North Macedonia foils Iran-linked assassination plot in Greece said aimed at Israeli exec - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3Zab2pPSjFnOXhFTS1NdGpvZTBuZ0pBWVl0WTNMNWRoQlB2RUNfSEhJX01LcHAzdzV1ODdjVlhyRWhZcDdxanNGcTI1LTlzY2MtUW1yVG9tOXpDVDNObU5nX0lSclJLZ3lCcG9od2VQRzkxYm1DN1NtZnNqcTl0T2JpMUpQVjNQTlRGY1ZRbmFVWHJNSTU0SlFsWTBQVmZwY3k5SG8wWnUxS0FBYkdXVXFPQjA0X3QzaWRUM9IBwgFBVV95cUxOWXQ2bVhqSDJoZzVqdGZzNGNUdFZOdGU4TGpyT3Jwem9fMmRFWTJNQ3VHQjdGUGZlQXotRnFNbURMNDdtVFhsU0Y3clc1cEVpUWtlZWd5YXZ4VTdPUlZZd085R2R6aWJWd3FYT25VNkR6a3FxY1ViajJUYy1fM3NIOGhwcDhQUnVZWVBIQlcxT1lZLTBKejlDcWhxc1dRYnkxQUFYN1EzWEJwR1MzTDllekM5T3phLVl6bUFZb0t3NzBCdw?oc=5",
+      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
+      "published": "Tue, 17 Nov 2026 17:32:17 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Olympiacos"
+        "Greece",
+        "Israel",
+        "Israeli",
+        "Iran"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "news"
+    },
+    {
+      "external_id": "f9668c9f7495b77b543416c1",
+      "mode": "geopolitico",
+      "title": "North Macedonia, Greece foil Iranian-linked plot to assassinate Israeli executive - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0SXNpaXR0LTJmRVZ1eVpoMXdGMjlsSmRpZkMyam5ZTlpvWmdMMDlnT1p0S0FXQl9IMU5QdkVGUVVwZUo4cnR1bEtBUGhOQU1TOTFUQlVIQnNoV1pBWHQw?oc=5",
+      "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
+      "published": "Tue, 17 Nov 2026 15:36:20 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "Israeli",
+        "Iran"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "4a4acc40a6c67fd9046b518a",
+      "mode": "geopolitico",
+      "title": "North Macedonia, Greece foil alleged Iranian assassination plot targeting Israeli executive - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41WDk4dnB1NWlWeXRrTmZBd05CTXVzelU3VU5fT1RMX1NMT1FJdjVURHV3ZHRMMC1IeExuWnpGR3hsYXBoU0hoNGY4RU9CYnh3ajFEWkxR?oc=5",
+      "source": "Ynet Greece Turkey Cyprus IMEC Watch",
+      "published": "Tue, 17 Nov 2026 13:45:56 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "Israeli",
+        "Ege",
+        "Iran"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "1df52042128f9f1abcefd693",
+      "mode": "geopolitico",
+      "title": "Fidan ve Yerapetridis GSI konusunu ele aldı - Haber Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE5jXzhIcHBtV3BzYVZUckVBV0tjb1JRQUtzQ042YUpVTXRDNENJR282QkVfaGQtS3B4R1owWGdFSnM1LWlnNUdmdHU2UUFKbXc5X0dVNWpya0JPUDBYSUZEa05IbFhUdkk5TW56SFUwVDI0QlB2NEVHc0pOQmVmRURXYWxJWlo1djhpVFF0RXRZRDNa?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Tue, 17 Nov 2026 09:17:11 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Fidan",
+        "GSI",
+        "Kıbrıs",
+        "Fidan",
+        "GSI"
+      ],
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "497727d06a4b17166a7fecc5",
       "mode": "geopolitico",
       "title": "Doğu Akdeniz'de Yunanistan-Güney Kıbrıs elektrik hattı projesinde son durum ne? - Gazete Oksijen",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVjBHSzBFWVZwT3ZPNFZWNDdHX20wRVRNeGszNDJQeUxveFdUX18wRC1LS05nX2RwRmZ6dGJXYUtnQ3RpVVVYeHhfMG1fRlFHVV9MS1pBZ2NUYzhuVVplZlJ4LXZMZ1VkSmJkZUtqS0lZRzV3T25SaDJiU0w5M1QwY1JSOXNnUnRIaElrMEljcjFpanhPV0M4TTFlekkzb2ZRTF9pVHRaTUNQRFBaMzBpdi02cl9WejNhMHJNWS1JZjdEaGJBQW5Eak16RGEzcHlZTTFmeFk4cDFZbnRMTFhsZ1QzS2tWX1NWX0U2cmhoOA?oc=5",
-      "source": "Turkey Greece Breaking Watch",
+      "source": "Eastern Mediterranean Turkey Watch",
       "published": "Mon, 16 Nov 2026 13:54:22 GMT",
       "base_score": 100,
       "candidate_score": 103,
@@ -527,7 +634,7 @@
       "mode": "geopolitico",
       "title": "Fidan ile Gerapetritis Brüksel’de görüştü: GSI ve Doğu Akdeniz dosyaları masanın gölgesinde - Bugün Kıbrıs",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVQwYWZtckRnLWZ5ZVA3N2RzMmtQemx0bkdXU1J6TERpdHYzVExmX3dONDhudzktcWg4dEVnM1ZaSGx5LUo5R2xwODZWTnJDMlVDcWJISXctVU40aXZibV9naEFJbUcxVTBiaWhkZ3FKcFdTbzRtdTlsWGJXbHpFanVaWmFad2w3ZzBITFBXYndMcm83LU9sZzdKRWlkajBZc1V4Q0hIWVQ5ZUxfa3A1NUZLN18?oc=5",
-      "source": "Turkey Greece Breaking Watch",
+      "source": "Eastern Mediterranean Turkey Watch",
       "published": "Mon, 16 Nov 2026 13:47:05 GMT",
       "base_score": 100,
       "candidate_score": 103,
@@ -547,7 +654,7 @@
       "mode": "geopolitico",
       "title": "Ankara’dan Atina’ya ‘orası benim’ uyarısı… Doğu Akdeniz’de NAVTEX restleşmesi - Enerji FM 100.5",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcllqeG9xeklJa0FxWHphY3o2S0pQSHdIelFVS2E2Z2RQcENnTWNGVmpRLXNHMXdmVWpLNlFGN1FYREYwZVI1c3A2RThNOGxrOWMwcG9PN3hYdGh1MUczMmd0ZE1BWlY0UGF6SU14YjFfcmctYVhZTnYxRmVtUzFGSXN1dmk3VThiM3RUcDIzVExmeV9XaUhBT2RrQVZZWkZtM253ZllFNU9EdHM?oc=5",
-      "source": "Turkey Greece Breaking Watch",
+      "source": "Eastern Mediterranean Turkey Watch",
       "published": "Mon, 16 Nov 2026 13:28:26 GMT",
       "base_score": 100,
       "candidate_score": 103,
@@ -562,143 +669,32 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "dcd3f32de38161ff28f06b03",
+      "external_id": "c6f2f85a6e1ebaa622299c93",
       "mode": "geopolitico",
-      "title": "The Cyprus issue: the grand bargain with Turkey, GSI, gas and Eastern Mediterranean balances - EUalive",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHdDbXJ5NWo4ejVWdjRpSXVhdGRQQU9oTUpvZmtYc1NiNHR1LWpaQXFmeWVUa3ZDVk9NSnNlcFFjRHJMQUtsY2wzb1JaWVktRzI4Mnl4RVdlUGRJenFJM0hJRG5YSlpueXpETGJ2UDZsc1Zid3hyakgyTS16RWs1Q0pqM0I3MU82dHZwV3NUUUhlcUZxclQ0OFZkd2wyXzdfeGQ0ejR6WWpYdld5a0hr?oc=5",
-      "source": "Cyprus Eastern Mediterranean Watch",
-      "published": "Mon, 16 Nov 2026 07:11:29 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
+      "title": "Doğu Akdeniz'de dikkat çeken hareketlilik! Bayraktar TB2 ile İsrail uçağı Kıbrıs açıklarında yakın rotada uçtu - SuperHaber",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcW9tbVgzNkNodTdCd1F5eEJGSFBvZU42UWItLXE2WnpQSXZUWU9vTGxxMC1XVUtRcERONGR0eFJyaVlrWTBMc3Z6UkZRUlZ1M1JfbFlpbWMxc0s5c3dlczVOMlBwYkZkelJhOTFDOHZtVjA4aDZtSUZxUGp2amUzamhCbHFoU1BqNzdjQk42TG5oTGNBcTBnMkloTzN2dVlwSnVNNGRUZWFjWUQtaWZMbXRKSmRWU03SAbcBQVVfeXFMTXFvbW1YMzZDaHU3QndReXhCRkhQb2VONlFiLS1xNlp6UEl2VFlPb0xscTAtV1VLUXBETjRkdHhScmlZa1kwTHN2elJGUVJWdTNSX2xZaW1jMXNLOXN3ZXM1TjJQcGJGZHpSYTkxQzh2bVYwOGg2bUlGcVBqdmplM2poQmxxaFNQajc3Y0JONkxuaExjQXEwZzJJaE8zdnVZcEp1TTRkVGVhY1lELWlmTG10SkpkVlNN?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Tue, 17 Nov 2026 15:32:00 GMT",
+      "base_score": 79,
+      "candidate_score": 94,
+      "priority": "High",
       "matched_keywords": [
-        "Cyprus",
-        "Eastern Mediterranean",
-        "GSI",
-        "Turkey",
-        "GSI"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "a4985d2864d0b44184972f1c",
-      "mode": "geopolitico",
-      "title": "ABD'li enerji devi Chevron, Yunanistan'la Girit'in güneyinde doğal gaz aramaya başlıyor, Ankara tetikte - Patronlar Dünyası",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHpYY0pnQ2E5d1h6c2VoX1NCUTFQWHdhRnVoaDBZNC1sd2J0bDloYzB0X0owdVRMOWsxdVM2a3RHSUJjQnhNV0Q1TWJkSjlGZUQyV1pkWTZTTnMzQkhLM05RbGxnY3FlMVhWTWRicmxnano1NzJIbW52ZE10eGc1RGpSZy1QZ3hEQmJXSF84VHRraDlPT2ZaZkhKQjh0T2p5RzRKTnZiNkVZcnBuUjNvOHpWeGF4Z04yeFZSRl8yaW1MYVRlMmxkU2ZNNA?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Mon, 16 Nov 2026 07:13:39 GMT",
-      "base_score": 96,
-      "candidate_score": 99,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Girit",
-        "Ankara",
-        "enerji",
-        "doğal gaz"
+        "Doğu Akdeniz",
+        "Kıbrıs",
+        "ada"
       ],
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "ba90a00b0d1e8db4773f7614",
-      "mode": "geopolitico",
-      "title": "Former Pakistan army officer is new BLA chief - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQm1XV01GOFVXSjZGcU1qRnk1c2pYUExjYnh2MFNTYW5Bd1dSc1ZCa0NUUkI3OTBqblNIRndkZEZ6ZkZWVjlGdHdyUm53akpsSXU0LTZlVEdBNzJ1UEZINEdPTU1xa3Jnb0k2a3pWVWVFTXBtc0VueHhnSWZ0RlcyRWNrNzhXSDhVaFZDTGI5OTlnWjF4a0FNZlNSMG9uU1RZc2JldnFYRjlrU0MzeHIxaTBZUnhsWmJrOTFZTGNlTTNDSTd4dXJTY3hrYTZteUhxOGJmZHFVQlY4cXRhV3VLU1RDZnZidU83Q2doaW1zbXc4eHZPMnp0NzVkRlJpbGV3Z18xQWpNWGJEZ3cyRFNn0gHEAUFVX3lxTE1XdjZRaXdHUm5YanpwZjBCUWNBRjFfTFdSdk5zTG1FclRjQkJkbS13Y0VEWWw0eld3cWFOdEZCbGFqeUFkeVRaTU5IUDFLUTJfSlBURWVESEJObmltcTJicUJIVlNwUVBhYTdxMzM1Z25YUTdtTngwOGF0MDFmdUxWR25GRXEtTnJBOExTQ20yOVBLNVhiSk9PdnkzNWU3QzdXS2s2WkJIRTE1dUluSDBvNmVxeV9SakxWUk53cHdDaTE3czE?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Tue, 17 Nov 2026 03:30:00 GMT",
-      "base_score": 82,
-      "candidate_score": 92,
-      "priority": "High",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Pakistan Army"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "e80d2e9bb6ed5fd7f1b10d6e",
-      "mode": "geopolitico",
-      "title": "The IDF struck a Hezbollah weapons shipment that crossed the border from Syria into Lebanon. - Alma Research and Education Center",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONml6TVA0U1lYdkY3Qjk4WDRIYzhpVl83X1FSRDlmVHRWTWZjWWRJaFAtVS1JYmptb0VYQzlsVjhNWmZVcHZaOTZQWnRpakM5ejVzd21wQUx4VlRJdVV0VGh5R29MQkUwSlVNekpCQ1A3MjlwYno5emNUd3pFYWhJUUFjYjJlVlBWQzZuV3JrZXN4YjF2czNOb0VSNVBMX3Q0WkhlM3BuQW90YUpDejI3cDRsQnhibnM?oc=5",
-      "source": "Alma Research Israel Regional Security Watch",
-      "published": "Mon, 16 Nov 2026 10:30:48 GMT",
-      "base_score": 89,
-      "candidate_score": 92,
-      "priority": "High",
-      "matched_keywords": [
-        "IDF",
-        "Syria",
-        "Hezbollah",
-        "weapons",
-        "research",
-        "education"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "0570085a4a97bf807b20b830",
-      "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Abdulkadir Selvi — Abdulkadir Selvi'den dikkat çeken iddia: Özgür Özel, Ekrem İmamoğlu'nu tasfiye mi ediyor? - Aydınlık",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnFWOC12RUN5QXhmMUlDRmVpMG9nN0EyajhvaE1Cc1JaRU9NajZOU1FiSkdQbEtVU3V0eF9aZHA1MHp6dkdZSk0xaEVGLWNDSEJXZkdmOXlIVzBIQ2dVVXFacHJ3aUhvdEw2U0NlaHgtRnpMUDJ2UU5uZnVpckY4S3o3UjE2UTRHR19YaEItQThxZlF0ZVBSSmVoT3h6UU1ZcVBYTmRLS0wwVVJHMldzNGlnVEQ3RFFWN3I5NTJTbkxfVzdCaVNyOQ?oc=5",
-      "source": "Analysts Watch · Turkey",
-      "published": "Tue, 17 Nov 2026 06:00:55 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Abdulkadir Selvi",
-        "Abdulkadir Selvi"
-      ],
-      "content_type": "analyst"
-    },
-    {
-      "external_id": "f97d21f8bb2db4dab4470f82",
+      "external_id": "88d5b10a17d0f60853ed9cdb",
       "mode": "pontos_voice",
-      "title": "Trabzon'da 4 medeniyetin izlerini taşıyan tarihi liman gün yüzüne çıkarılıyor",
-      "url": "https://www.61saat.com/trabzonda-4-medeniyetin-izlerini-tasiyan-tarihi-liman-gun-yuzune-cikariliyor",
-      "source": "61Saat Trabzon",
-      "published": "Tue, 17 Nov 2026 09:32:00 +0300",
-      "base_score": 100,
-      "candidate_score": 115,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Trabzon",
-        "Komnenos",
-        "restorasyon",
-        "Bizans",
-        "Roma",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "ec36a7c899714d87d307b9cc",
-      "mode": "pontos_voice",
-      "title": "Στη Μακεδονία ταξίδεψε ο Πολιτιστικός Σύλλογος Αγίου Δημητρίου «Τα Δημήτρια» – Από την Παναγία Σουμελά έως τη Βεργίνα και τη Βέροια - Stagonnews",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHAzd2syU1pBcTl2NXQwQVB1SFhDM3EzcW5hNTVCR0tPT05GZldEMDdWVWJrX2FQNWJWb24ybkZYdVZSNjY4NlJ3aDc4WENocXowNlQtQmpITkEzUHd6SDN4VjZ2dkdUYW1wcnYzMDBneFRlV1ZUR2gzQkdEc2FtNU40b05iM0RoN19HN05CS2NkaXFoRjlPcHkzWU5aclJMUzRqSlVYbTdwVEg2b1cxX1VqdjF3bURNY2tjbHRlcDZSUTVLYXFjR19sTHRwcUhsS01ad2dEUlBwTjRteVRiMTZhdXhON2Jr0gHuAUFVX3lxTE1ReXRuWTJkczdXamZWVG5fclNZUzZnNjQ2NmltT0hPeFA3N1NadnRheUVJY3dmTE1yWFUyaUtkYlROWHVhLUZOQ3M4aG01TEZrZTFDNV9SZ2V4MjhIUmZPZGpwUGZ2d0JFeno0WURoaWtZMWVsejg0TVFkSWE1R0g5QWxMSHJCeUdwVzI5SUNSV2ZlTnVSeGNWWHlNeWVwSjlGNXB2X1hGMkJOVWE1ejNreGhtQ3JLcE93YjRoOURJQ244RjFLSjdIR0E5OHZNbUJaT001UW9ZTGJmcGlZMmpycXJtTmQzTmRfc21uWlE?oc=5",
+      "title": "Χριστιανική Ένωση Πύργου: Ιστορικό και πνευματικό οδοιπορικό για την Παναγία Σουμελά - proini.news",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSllJaFMxSDdwVzJydWZjZGVGT3ZBNDJMSVg3MDI1bEEtc3lSdUl0aEhJU2t3VVFKdi1qaF95a013bU9XWmlqbVgxOGhpRDc2ZDdYcnZrOThoYTJKUFhjZk1WRHlaWE9GTE51ZG5JX2kwSVJmVDhHRDFrLUU3M0hjNFJDRDNjdjJQQk9OSWx2OFlKaTNadVRMN3NNWlNRN0RUQzJoYlM4SGo?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Sun, 15 Nov 2026 15:37:55 GMT",
-      "base_score": 98,
-      "candidate_score": 98,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Παναγία Σουμελά",
-        "Σουμελά",
-        "πολιτιστικός σύλλογος"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "cd61bbf248c3aeaa86a81a0f",
-      "mode": "pontos_voice",
-      "title": "Τα Δημήτρια ταξίδεψαν στη Μακεδονία – Από την Παναγία Σουμελά μέχρι τις γεύσεις της Βέροιας! - TaMeteora.gr",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUV2Mkd1S0RrT0NBU0ZWVXpVa09TNFFZVWdzS2F6WXQ2NWswUTBNUzRsSGs4bjJaODhKNGlJSVpuRTdCMjQ0MVBrVEJzdXQzSGU5VnFUNEo0TnM3YWZDdmV4OWl1VGprNHhYTDM1SldZZUNPVUNnS2hWY3NUdDJJSFpXcjBrQjNJT2wzbWJneFdydkh2Qm1kdXR0UGVSVG9Gb1hlMXdqb1VkNEd2Q2J4dVFKZDhnakRWdi1uY1NlNlZWdEdZMW5ZeGJtWG1pVzlWWVpkVW9YbTRGZUFPV2pF?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Sun, 15 Nov 2026 15:07:50 GMT",
+      "published": "Tue, 17 Nov 2026 11:01:55 GMT",
       "base_score": 86,
-      "candidate_score": 86,
-      "priority": "High",
+      "candidate_score": 96,
+      "priority": "URGENT",
       "matched_keywords": [
         "Παναγία Σουμελά",
         "Σουμελά"
@@ -706,55 +702,87 @@
       "content_type": "news"
     },
     {
-      "external_id": "bda1b0128f8bf1543d1033a7",
+      "external_id": "b0658b630a5aa1e8203eed2a",
       "mode": "pontos_voice",
-      "title": "CHP Trabzon'da çok konuşulacak açıklamalar! Kurultay, para iddiaları ve parti içi ayrışma...",
-      "url": "https://www.61saat.com/chp-trabzonda-cok-konusulacak-aciklamalar-kurultay-para-iddialari-ve-parti-ici-ayrisma",
-      "source": "61Saat Trabzon",
-      "published": "Tue, 17 Nov 2026 11:09:00 +0300",
-      "base_score": 59,
-      "candidate_score": 74,
+      "title": "Τραπεζούντα: Έχτιζαν μια αγορά και βρήκαν το αρχαίο λιμάνι – Αποκαταστάθηκε το τείχος - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVYza3VhVXRkd2dsQ0xjUkU2bmNRSDJTMzJVNkFGVnBXbnJnb2hTRC1qekJGeWMwTEtZYVMxeElTWjJVZ2xlZmhwVEV0YTBpaXZVcS1IRGlndlQ4WUxjOTB0UWlzMDlWQnJZRFZ2VFc3TEZRbXhxWjc4bnRIY010ZExRNXl1M3gwOTk0MUtkY1dUTGVZYmo4N3lwZTR5bmlLdGJMd3dkTQ?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Tue, 17 Nov 2026 14:05:28 GMT",
+      "base_score": 75,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
-        "Trabzon",
-        "açıklama",
-        "tartışma",
-        "Trabzon",
-        "dil"
+        "Pontos",
+        "Τραπεζούντα"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "48d89bd67e394e06c78d7e51",
+      "external_id": "5b5c713908e9df71effe6447",
       "mode": "pontos_voice",
-      "title": "Trabzonspor'un yıldızı gelecekti! İptal kararı",
-      "url": "https://www.61saat.com/trabzonsporun-yildizi-gelecekti-iptal-karari",
+      "title": "Trabzon Şehir Hastanesi'nde torpil iddiası! Trabzon Milletvekili TBMM'den sordu: “Böyle bir hazırlık var mı?”",
+      "url": "https://www.61saat.com/trabzon-sehir-hastanesinde-torpil-iddiasi-trabzon-milletvekili-tbmmden-sordu-boyle-bir-hazirlik-var-mi",
       "source": "61Saat Trabzon",
-      "published": "Tue, 17 Nov 2026 11:29:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
+      "published": "Tue, 17 Nov 2026 20:40:00 +0300",
+      "base_score": 53,
+      "candidate_score": 68,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Trabzon",
-        "dil"
+        "Ordu",
+        "milletvekili",
+        "Trabzon"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "f0c74f701207d61919278551",
+      "external_id": "39de25c302910eebfbdb13dc",
       "mode": "pontos_voice",
-      "title": "Trabzon-Maçka yolunu kullanacaklar dikkat! Tünelde ulaşım tek şeritten sağlanacak - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHBXc1dqZU9YRUdiOHYzQ1pSWjVuSjZQcXctdFBTYmNKMFFzMERUOE0wb21rNFF4TmJXblNmLW8zV0NwZ0tXR3RIZHBSRk1RZ1dFUGEzRmRGTDJ1ZDhMWG5vemhJN1BtRjJObnc2NXEtUE5LWmtUSE9Tdk5Id3FvcFNFcGFuWkFaM2hoRUhaS1JBaU1pQldZbWxYd2gtVmV3WVR1emxYQnJGa1Q2S2pTdkxiNGFPZHhfWUhZ?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Tue, 17 Nov 2026 07:37:23 GMT",
-      "base_score": 44,
+      "title": "Başkan Batmaz’dan Uzunsokak açıklaması! Peşini bırakmayacağız",
+      "url": "https://www.61saat.com/baskan-batmazdan-uzunsokak-aciklamasi-pesini-birakmayacagiz",
+      "source": "61Saat Trabzon",
+      "published": "Tue, 17 Nov 2026 17:35:00 +0300",
+      "base_score": 49,
       "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Maçka",
+        "belediye başkanı",
+        "açıklama",
         "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e7c7c7b9e87b9b363f076004",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da Arıcıoğlu'ndan A Milli Takım çağrısı!",
+      "url": "https://www.61saat.com/trabzonda-aricioglundan-a-milli-takim-cagrisi",
+      "source": "61Saat Trabzon",
+      "published": "Tue, 17 Nov 2026 16:40:00 +0300",
+      "base_score": 49,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Tonya",
+        "açıklama",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "3841410e6a655996ee899af5",
+      "mode": "pontos_voice",
+      "title": "Πόντος: Τα δακρυσμένα κύματα της μνήμης – στο Αρχαίο θέατρο του ΔΙΟΝ - Οδηγός Πιερίας",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDNpOUVzYmVIMmsycXRTcG5EVW9rVkwxNkFhQjZHV3pJZ0pkQmZCVUw1WlFwdU5JRWt4bDhTNmdFY0ZRTG1iY1ZyS0lnR2ZsSzRYV0lmc3YxTFZiZWNRMVZWVkM4X0Fua2V5V3hpdzRwNzJPb0YxWU5xOHc5enBlOEZZWXJnOFlEWGZqNXBrVkYxY1FocHdZcTZB?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Tue, 17 Nov 2026 12:24:22 GMT",
+      "base_score": 40,
+      "candidate_score": 50,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Πόντος"
       ],
       "content_type": "news"
     }
