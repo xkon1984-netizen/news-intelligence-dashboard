@@ -1,33 +1,12 @@
 {
-  "generated_at": "2026-11-18T00:23:11.241560+00:00",
+  "generated_at": "2026-11-18T07:49:34.306160+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 14,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
-      {
-        "external_id": "9e9cac2af13b0df6b8a9fdb4",
-        "mode": "sportdog",
-        "title": "Panathinaikos Transfers - All Rumours and Latest News - TransferFeed",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05ZTE4M29rR2t3SGNlMmUtdGt0SlAtZ1VaNjk4cE9uMWxwS1NsTzU5b0JCRU9SUGRaQXlnZ09tS0I3RWFQNHZ6ZG1zc1JoNVBhcEwwMlJWcHRDSE1SRHphYw?oc=5",
-        "source": "TransferFeed Greek Super League",
-        "published": "Tue, 17 Nov 2026 12:15:03 GMT",
-        "base_score": 84,
-        "candidate_score": 120,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Panathinaikos",
-          "transfer",
-          "transfers"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Panathinaikos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
       {
         "external_id": "dd10c927873e34cc22db32e5",
         "mode": "sportdog",
@@ -36,7 +15,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Mon, 16 Nov 2026 22:54:48 GMT",
         "base_score": 66,
-        "candidate_score": 89,
+        "candidate_score": 86,
         "priority": "High",
         "matched_keywords": [
           "PAOK",
@@ -50,6 +29,66 @@
         "needs_second_source": false
       },
       {
+        "external_id": "a7676057c849edd5d647be3a",
+        "mode": "sportdog",
+        "title": "Zanos Savva Transfer from Olympiakos to PAOK - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQREFwcXhJanNCOEtzM0lmcFQ1ekU2WlpjVW9qdThzQnlNbURnMV9tYl9RS01hR1JtOFpCS2ZEaFEtQlRWUUVNY1VaTWx0bDZFVXJBdmpBbUstNTZxajB1QVpibXROQ2FzNTZrMmlCVXM5NVZrVjRiM0tnel9NV3VybA?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Tue, 17 Nov 2026 18:26:34 GMT",
+        "base_score": 58,
+        "candidate_score": 84,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "ea512e66b57071e038618c97",
+        "mode": "sportdog",
+        "title": "Leonidas Konomis Transfer from Apollon to PAOK - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYVhCNkpVeTFjSkF3YlFzNEVqTHdJX1NmN3pldzFpQTVZdklOU3ZyckhvY1gzRjVYNzFrN21Rdy1VS2FMRjJjbEFXWUpLVlREWWR0aHExSW83Yy1LV1Z2ZUpxM0kyRUJvT2dwTzljQ1RvWF80WDdmdzlRNkN3OWRHTDJ3TQ?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Tue, 17 Nov 2026 18:26:34 GMT",
+        "base_score": 58,
+        "candidate_score": 84,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "300abb85d78a664fb9dd6604",
+        "mode": "sportdog",
+        "title": "Panagiotis Andreou Transfer from Omonia Nicosia to PAOK - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjlVV2d0VFBxX1NGaXkxVTZjbk1LQWo1STVPVDd3ektWMzBXRmxJZ1JtbVpaR2kyVEswT3l4YUZyNWQ1aGFUSEtTLVBGbTVsWXRDMlZhMjZldFVnUmhMTE9Nczg5a1JTRkh3WUZ5WTYtSEV3VTFnSUgydm9obmRLXy1QNUR2U21aSTNKWndnZw?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Tue, 17 Nov 2026 18:26:33 GMT",
+        "base_score": 58,
+        "candidate_score": 84,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "9e749c6a0290548dad95c20a",
         "mode": "sportdog",
         "title": "How to get NK Celje vs Olympiacos tickets: Europa League prices, fixture information, last-minute sales & more - Goal.com",
@@ -57,7 +96,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 17 Nov 2026 11:39:03 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -67,25 +106,6 @@
         "editorial_type": "Match / Analysis",
         "team": "Olympiacos",
         "readiness": "VERIFY",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "5b81c6f4eef0bccb1f04698a",
-        "mode": "sportdog",
-        "title": "Olympiacos Set for Another Round of the Ruben Vargas Saga - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdldRQUozd1pCWldEN0VfUFdnUnBOU3NDY1pkWGlVQ2FKU1VqRUNCLXBaWlNrbVhtMUtVTEk5OVRSbm95Y3hFVTdPQnowYi1ITkdybGx4S0FlMUZDLWF5V1FSdHdtUXh2T3EwOVM5b2s2Y2Q0ZGcyZzljbnVmekdrQ1FRSDA5VXlZdkZN?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 17 Nov 2026 21:58:05 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -109,6 +129,44 @@
         "needs_second_source": true
       },
       {
+        "external_id": "2288c2c13de04aa4c918337e",
+        "mode": "sportdog",
+        "title": "Como vs AEK Athens: Predictions, Picks, Odds & Lineups - Squawka",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVROWFRTSzZNTXhFc05lWTNfNk9xNWZKX3NWM3ktSGJFREdRMHJSVXhkVWh0TEZIRXpRRkotWWlJWF80V1JZdVNIQnNGbTVWeG9aVTVBWnRkbDNqS0xQWEF6QTg4X2xRUUJFUTg1ZmJoRjNXZENoN0E3d0lqRmpqczlyX1RONTJtbzkyMU0wYXZUVERkaHFsTnZHalp5OUtiT1A0eEdfV1pvQm9T?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Wed, 18 Nov 2026 01:05:40 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "eef42d5ccf3b56df97f27e31",
+        "mode": "sportdog",
+        "title": "Olympiacos Set for Another Round of the Ruben Vargas Saga - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGN3NnpHbk9ZVWhtcGF6ZzJTU2FxSHh2czV4YmZWakhGbEgyQzNDOGlocVREOU1TNThhNEhGNVV3N1dJWU1TanE0RDFXNjRLVmR6aVl2UF9FQnhtZzJCVl9fV3ZDWkdEcjlGMmVfR2s2RFpzT3dEMUg3dU9TLVk1SUVUeE8tSEh1TlYyWHFtWG5aRWNoUFYxdnhQcldid1FLblJyQzk3NDBIejRuZFJUVFBOTW4?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Tue, 17 Nov 2026 21:59:20 GMT",
+        "base_score": 31,
+        "candidate_score": 45,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "7db6035ce7033e22a21170f8",
         "mode": "sportdog",
         "title": "+!(OFFICIAL-TV) Virtus Bologna vs Panathinaikos Live Stream Free TV - Comité Asesor de Vacunas de la AEP",
@@ -116,7 +174,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Tue, 17 Nov 2026 19:28:45 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -128,14 +186,14 @@
         "needs_second_source": true
       },
       {
-        "external_id": "2dd9248c194654737f1679b5",
+        "external_id": "b129e17c1c95342e3d8106e2",
         "mode": "sportdog",
-        "title": "(HD BROADCAST) Virtus Bologna vs Panathinaikos Basketball ＬＩＶＥ ＮＦＬ 2026 - Comité Asesor de Vacunas de la AEP",
-        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOemhBOVlSem92SUJINnU3dnRTazRtc2ZWbE1pc0praVhTOUVHNGw1dUVvOUVSLUQxMW5XY21vcy1KWXZwU0ZwWnBhdFJhazhHQlJMckMyd1B3WTBxanhmMW1xRzg3b2pnTjJaT1NZMzZVck9QRnI0N1JuLWlDeV9lQVVydzM0RHFIOUROVzdJM01iTndQOEJOR2FyQU5sZks3bHduRC1TbWcycUlxbGR4dko5OHdmampsWUM2QXhacHpycU9BV3ZObVFoNkJudjJvUkxxQXI3bW0wUEt1cXdidlFyeGRSclhob3BBdWJCbEY5WUtNZ0VqSHBSeHJkQ1RWSUlDb05LUElPalhxQnhYcUVRcnhMaW50b3p3aGdhVjJ0Q0NQQlc0MUJGV0pKRnl2T3FNNkFEZlh4OWtMRE1QT0hNTzhIWDF2cnJGdkU0T3JtVTMyUko0QUxSQjV5cENhNEFR?oc=5",
+        "title": "☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Virtus Bologna vs Panathinaikos Basketball Live Stream Free TV - Comité Asesor de Vacunas de la AEP",
+        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZ0FLOGhZd1lBUXNVdHFjdnNPU1N1UTExUUJJMWtwdWNxYmVwWWx3bFdrZENDN2wtUEVRWGM4OWxGM0prdHdBckdWVzV6eXdpVXltd0tqVGw1WkRaX05ncXd3S2RZVnRVS1FfbFNwa1BsR1R2b2tJaWlmUkY2Z2xOa0VockZDb1R5cTRyUTJ5WlFQamZFd1NESjAyRnROeEN3SEVoWW9ESHBJVEdXVkdOWTh2MzlTSUNWc0I1V3ZPXzByUmc0VVlMSFRlZVpnS3pSeEFNSzJBSHFPYzJXQzdCWld0U1VyTWFvRFhHNEEyN1g2WDRSeVZzUUNhVHdkVXdSWFNnMEUyQlB1Rm1PQUh1WWlySG40UllLUHNpbEVfaTd6SmZVVXdNN3FkeHBvZWpzak4weGFVNzBSR2QwWjZ4aC1ORG82ZDdsUnZsdWhiR3pWV0ttY3J6eS02N3hZa1I3MUE?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Tue, 17 Nov 2026 19:28:30 GMT",
+        "published": "Tue, 17 Nov 2026 19:28:37 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -154,7 +212,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Tue, 17 Nov 2026 19:28:17 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -173,7 +231,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Tue, 17 Nov 2026 19:28:00 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -192,7 +250,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 17 Nov 2026 18:46:24 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -211,7 +269,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Tue, 17 Nov 2026 18:46:03 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos"
@@ -225,6 +283,25 @@
     ],
     "geopolitico": [
       {
+        "external_id": "5a0341ae927cb49601944a4a",
+        "mode": "geopolitico",
+        "title": "Great Sea Interconnector (GSI): Ελλάς-Τουρκία, εντυπώσεις και πραγματικότητες - Defence-point.gr",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXJ0LTNoLXB4Q0xOVmZnRW56RWdqYmZOb0Q0aTRURENfN1JZWHFneHV3UmRleTJjbHg2NkxRTzZMOTJHc013bm1DNEdSZC0wc3VnTF8xR3EwbmZwVURmSmdXSjNCSTdIb2NjVGIwNU90eVpGMUFYaEx1UUVnRHg4azVYTXJjMTlWMDFERXA0M3gyYllLWEFZVVVnMENtb1RiVERTbA?oc=5",
+        "source": "Defence Point National Watch",
+        "published": "Wed, 18 Nov 2026 06:12:31 GMT",
+        "base_score": 99,
+        "candidate_score": 114,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Great Sea Interconnector",
+          "GSI",
+          "defence",
+          "Great Sea Interconnector",
+          "GSI"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "6a77f83a624acd38709bb92d",
         "mode": "geopolitico",
         "title": "Mossad intelligence helped foil Iranian assassination plot targeting Israeli in Greece - Ynetnews",
@@ -232,7 +309,7 @@
         "source": "Ynet Greece Turkey Cyprus IMEC Watch",
         "published": "Tue, 17 Nov 2026 18:46:22 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -250,7 +327,7 @@
         "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
         "published": "Tue, 17 Nov 2026 17:24:00 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -268,7 +345,7 @@
         "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
         "published": "Tue, 17 Nov 2026 16:34:48 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -297,6 +374,24 @@
         "content_type": "news"
       },
       {
+        "external_id": "7a5ccafe356ed7c583973306",
+        "mode": "geopolitico",
+        "title": "Ali İhsan Kaya: MAVİ VATAN VE MEİS Doğu Akdeniz Gerilimi ve Meis Adası - Gaziantep İlk Haber",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0YzMktmZ1pCY1NvZ1hucEkwazhZY3BqVXBqc1dHMG9JRTFPekNNOU9teWIweUZBWUZqN215OGdtVDJYNHI3bjlDbndhcnppV2JqbDY5QlV1UGZTQnVuUTI2OU5aNE1RN092Y1B3aXZjazdPcThMbnlybHRYdTJPcE82VFFudmJ5ekRMYw?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Tue, 17 Nov 2026 15:09:00 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Doğu Akdeniz",
+          "Meis",
+          "gerilim",
+          "ada"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
         "external_id": "4a4acc40a6c67fd9046b518a",
         "mode": "geopolitico",
         "title": "North Macedonia, Greece foil alleged Iranian assassination plot targeting Israeli executive - Ynetnews",
@@ -304,7 +399,7 @@
         "source": "Ynet Greece Turkey Cyprus IMEC Watch",
         "published": "Tue, 17 Nov 2026 13:45:56 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -316,14 +411,14 @@
         "content_type": "news"
       },
       {
-        "external_id": "1df52042128f9f1abcefd693",
+        "external_id": "5ef1b141fdbc117257e9859d",
         "mode": "geopolitico",
-        "title": "Fidan ve Yerapetridis GSI konusunu ele aldı - Haber Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE5jXzhIcHBtV3BzYVZUckVBV0tjb1JRQUtzQ042YUpVTXRDNENJR282QkVfaGQtS3B4R1owWGdFSnM1LWlnNUdmdHU2UUFKbXc5X0dVNWpya0JPUDBYSUZEa05IbFhUdkk5TW56SFUwVDI0QlB2NEVHc0pOQmVmRURXYWxJWlo1djhpVFF0RXRZRDNa?oc=5",
+        "title": "Fidan ve Yerapetridis GSI konusunu ele aldı - Gündem Kıbrıs Gazetesi - Kıbrıs Haber",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvQUJaWHp6UnJQSVdla1phS3BLSlo5Z29pX05QLWtqRjN2ZXNlR1g0THA0Vk03QUpzQnctMEw4NnhMMGFkbnhqcmRaNFlUWlFseUdvR01lTXNVeEJNVGRzeDN4VkJhVlF5X1ZpMklNNDhPME14QzgwalJTMDM?oc=5",
         "source": "Turkey Greece Breaking Watch",
-        "published": "Tue, 17 Nov 2026 09:17:11 GMT",
+        "published": "Tue, 17 Nov 2026 08:57:00 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Fidan",
@@ -333,40 +428,6 @@
           "GSI"
         ],
         "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "35175b5030786708dca28403",
-        "mode": "geopolitico",
-        "title": "Cyprus boat operator levels abuse at Israeli tourist, threatens to send Palestinians to hotel - The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80NzQwRmxiNnJ6enI1SDZfa0ZndHZ5d3JzYjQwaFVfOHFZZDRRVmZ2WkxleFlBdERnUUpvUGdRcThkSUY0Zm4zOVE4bXVEdzI4REVYeFRVTHZLVm8xc2R4TXpBczYwREc4cWc?oc=5",
-        "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
-        "published": "Tue, 17 Nov 2026 23:03:47 GMT",
-        "base_score": 88,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Israel",
-          "Israeli",
-          "Cyprus"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "07bf2468ac6fb0ad63db59cb",
-        "mode": "geopolitico",
-        "title": "The Downfall of Jensen Huang and Its Implications on the US-China Chip War, Trump to Meet Xi and Putin, and the New Congress’s Outlook on US China Policy - Hudson Institute",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVG83ZC11YVBvWENrTmVTanhLMURwZlM5SkU4V3N3MmY3THRaQnM5UnRkeWNXUDZQMGxtWU01NzVWMzZhVDQzUU1OY2V3X1J5R0l1R2tMSlVpNV8zN2hGcGphRnhSNUgxYVRSWW8tN1d2UGdQWEk5dmZXVjBac3g1MGFDNnR6Vzl6WlFNRnJIVkxsdUhkbTNXc3I3bXpWcGlhSXRLR0pHWlZXSjViSEZtZEFiVzNuT1M5OU9aTDdfMkQ5bjZwLWZF?oc=5",
-        "source": "Hudson Institute Watch",
-        "published": "Tue, 17 Nov 2026 12:00:00 GMT",
-        "base_score": 86,
-        "candidate_score": 92,
-        "priority": "High",
-        "matched_keywords": [
-          "China",
-          "US China",
-          "chip war"
-        ],
-        "content_type": "news"
       }
     ],
     "pontos_voice": [
@@ -378,7 +439,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Tue, 17 Nov 2026 11:01:55 GMT",
         "base_score": 86,
-        "candidate_score": 92,
+        "candidate_score": 89,
         "priority": "High",
         "matched_keywords": [
           "Παναγία Σουμελά",
@@ -403,49 +464,14 @@
         "content_type": "news"
       },
       {
-        "external_id": "5b5c713908e9df71effe6447",
+        "external_id": "f2adfd7ffac5a8f7de4c254f",
         "mode": "pontos_voice",
-        "title": "Trabzon Şehir Hastanesi'nde torpil iddiası! Trabzon Milletvekili TBMM'den sordu: “Böyle bir hazırlık var mı?”",
-        "url": "https://www.61saat.com/trabzon-sehir-hastanesinde-torpil-iddiasi-trabzon-milletvekili-tbmmden-sordu-boyle-bir-hazirlik-var-mi",
+        "title": "Trabzon'da Karadeniz zekâsı konuştu! Bu evlerin sırrı şaşırtıyor",
+        "url": "https://www.61saat.com/trabzonda-karadeniz-zekasi-konustu-bu-evlerin-sirri-sasirtiyor",
         "source": "61Saat Trabzon",
-        "published": "Tue, 17 Nov 2026 20:40:00 +0300",
-        "base_score": 53,
-        "candidate_score": 63,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Ordu",
-          "milletvekili",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "1942c91048303b360c1c0509",
-        "mode": "pontos_voice",
-        "title": "Trabzonspor ile de anılan Arda Okan'ın bonservis bedelini belirlediler!",
-        "url": "https://www.61saat.com/trabzonspor-ile-de-anilan-arda-okanin-bonservis-bedelini-belirlediler",
-        "source": "61Saat Trabzon",
-        "published": "Tue, 17 Nov 2026 22:51:00 +0300",
-        "base_score": 44,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "Trabzon",
-          "dil"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "e170664bab277d0adcf29f06",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da sahil yolunda feci kaza! Kamyon ve bir araç karıştı",
-        "url": "https://www.61saat.com/trabzonda-sahil-yolunda-feci-kaza-kamyon-ve-bir-arac-karisti",
-        "source": "61Saat Trabzon",
-        "published": "Tue, 17 Nov 2026 17:37:00 +0300",
+        "published": "Wed, 18 Nov 2026 09:48:00 +0300",
         "base_score": 46,
-        "candidate_score": 52,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -455,18 +481,51 @@
         "content_type": "news"
       },
       {
-        "external_id": "f0c74f701207d61919278551",
+        "external_id": "9b15090ad4aec6dbf32e07df",
         "mode": "pontos_voice",
-        "title": "Trabzon-Maçka yolunu kullanacaklar dikkat! Tünelde ulaşım tek şeritten sağlanacak - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHBXc1dqZU9YRUdiOHYzQ1pSWjVuSjZQcXctdFBTYmNKMFFzMERUOE0wb21rNFF4TmJXblNmLW8zV0NwZ0tXR3RIZHBSRk1RZ1dFUGEzRmRGTDJ1ZDhMWG5vemhJN1BtRjJObnc2NXEtUE5LWmtUSE9Tdk5Id3FvcFNFcGFuWkFaM2hoRUhaS1JBaU1pQldZbWxYd2gtVmV3WVR1emxYQnJGa1Q2S2pTdkxiNGFPZHhfWUhZ?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Tue, 17 Nov 2026 07:37:23 GMT",
+        "title": "Trabzon'da gece saatlerinde korkutan yangın! Powerbank'ten yangın çıkar mı demeyin...",
+        "url": "https://www.61saat.com/trabzonda-gece-saatlerinde-korkutan-yangin-powerbankten-yangin-cikar-mi-demeyin",
+        "source": "61Saat Trabzon",
+        "published": "Wed, 18 Nov 2026 10:28:00 +0300",
         "base_score": 44,
-        "candidate_score": 50,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Maçka",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "f1347567d746e5a608cbd59d",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da hava değişiyor! Gece saatlerine dikkat",
+        "url": "https://www.61saat.com/trabzonda-hava-degisiyor-gece-saatlerine-dikkat",
+        "source": "61Saat Trabzon",
+        "published": "Wed, 18 Nov 2026 08:58:00 +0300",
+        "base_score": 44,
+        "candidate_score": 59,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Trabzon",
+          "dil"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "2b73d910cf68019c3f238cfe",
+        "mode": "pontos_voice",
+        "title": "Trabzon'da uçuruma yuvarlanan kamyondan acı haber! Hayatını kaybetti - Haber61",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHJxcjUydWVIRmZYbFJNeWRKeF9XbmtZOVJWV0I4RWhsNExpd3lwR2ZhWjdpQlEzVG96Wkl6NU9tLXFhZjFUSklWYVp3V0FKVlNacE81VDRZZVpnVC0zc21wOV9sdkZBY2NyWlV0cEd1ZXVjSnRhX3h0aUxWUm84MXNwYmI3Z29jaHFsUDFPR2ZWdXVKMHo0WFhjTWhYNDZFS0xHWVljb2NyUQ?oc=5",
+        "source": "Haber61 Trabzon",
+        "published": "Wed, 18 Nov 2026 07:35:59 GMT",
+        "base_score": 33,
+        "candidate_score": 48,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
           "Trabzon"
         ],
         "content_type": "news"
@@ -475,27 +534,6 @@
   },
   "items": [
     {
-      "external_id": "9e9cac2af13b0df6b8a9fdb4",
-      "mode": "sportdog",
-      "title": "Panathinaikos Transfers - All Rumours and Latest News - TransferFeed",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05ZTE4M29rR2t3SGNlMmUtdGt0SlAtZ1VaNjk4cE9uMWxwS1NsTzU5b0JCRU9SUGRaQXlnZ09tS0I3RWFQNHZ6ZG1zc1JoNVBhcEwwMlJWcHRDSE1SRHphYw?oc=5",
-      "source": "TransferFeed Greek Super League",
-      "published": "Tue, 17 Nov 2026 12:15:03 GMT",
-      "base_score": 84,
-      "candidate_score": 120,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Panathinaikos",
-        "transfer",
-        "transfers"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Panathinaikos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
       "external_id": "dd10c927873e34cc22db32e5",
       "mode": "sportdog",
       "title": "Confirmed Transfer: PAOK signs Ioannis Michailidis. - OneFootball",
@@ -503,7 +541,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Mon, 16 Nov 2026 22:54:48 GMT",
       "base_score": 66,
-      "candidate_score": 89,
+      "candidate_score": 86,
       "priority": "High",
       "matched_keywords": [
         "PAOK",
@@ -517,6 +555,66 @@
       "needs_second_source": false
     },
     {
+      "external_id": "a7676057c849edd5d647be3a",
+      "mode": "sportdog",
+      "title": "Zanos Savva Transfer from Olympiakos to PAOK - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQREFwcXhJanNCOEtzM0lmcFQ1ekU2WlpjVW9qdThzQnlNbURnMV9tYl9RS01hR1JtOFpCS2ZEaFEtQlRWUUVNY1VaTWx0bDZFVXJBdmpBbUstNTZxajB1QVpibXROQ2FzNTZrMmlCVXM5NVZrVjRiM0tnel9NV3VybA?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Tue, 17 Nov 2026 18:26:34 GMT",
+      "base_score": 58,
+      "candidate_score": 84,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "ea512e66b57071e038618c97",
+      "mode": "sportdog",
+      "title": "Leonidas Konomis Transfer from Apollon to PAOK - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYVhCNkpVeTFjSkF3YlFzNEVqTHdJX1NmN3pldzFpQTVZdklOU3ZyckhvY1gzRjVYNzFrN21Rdy1VS2FMRjJjbEFXWUpLVlREWWR0aHExSW83Yy1LV1Z2ZUpxM0kyRUJvT2dwTzljQ1RvWF80WDdmdzlRNkN3OWRHTDJ3TQ?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Tue, 17 Nov 2026 18:26:34 GMT",
+      "base_score": 58,
+      "candidate_score": 84,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "300abb85d78a664fb9dd6604",
+      "mode": "sportdog",
+      "title": "Panagiotis Andreou Transfer from Omonia Nicosia to PAOK - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjlVV2d0VFBxX1NGaXkxVTZjbk1LQWo1STVPVDd3ektWMzBXRmxJZ1JtbVpaR2kyVEswT3l4YUZyNWQ1aGFUSEtTLVBGbTVsWXRDMlZhMjZldFVnUmhMTE9Nczg5a1JTRkh3WUZ5WTYtSEV3VTFnSUgydm9obmRLXy1QNUR2U21aSTNKWndnZw?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Tue, 17 Nov 2026 18:26:33 GMT",
+      "base_score": 58,
+      "candidate_score": 84,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "9e749c6a0290548dad95c20a",
       "mode": "sportdog",
       "title": "How to get NK Celje vs Olympiacos tickets: Europa League prices, fixture information, last-minute sales & more - Goal.com",
@@ -524,7 +622,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 17 Nov 2026 11:39:03 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -534,25 +632,6 @@
       "editorial_type": "Match / Analysis",
       "team": "Olympiacos",
       "readiness": "VERIFY",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "5b81c6f4eef0bccb1f04698a",
-      "mode": "sportdog",
-      "title": "Olympiacos Set for Another Round of the Ruben Vargas Saga - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdldRQUozd1pCWldEN0VfUFdnUnBOU3NDY1pkWGlVQ2FKU1VqRUNCLXBaWlNrbVhtMUtVTEk5OVRSbm95Y3hFVTdPQnowYi1ITkdybGx4S0FlMUZDLWF5V1FSdHdtUXh2T3EwOVM5b2s2Y2Q0ZGcyZzljbnVmekdrQ1FRSDA5VXlZdkZN?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 17 Nov 2026 21:58:05 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -576,6 +655,44 @@
       "needs_second_source": true
     },
     {
+      "external_id": "2288c2c13de04aa4c918337e",
+      "mode": "sportdog",
+      "title": "Como vs AEK Athens: Predictions, Picks, Odds & Lineups - Squawka",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVROWFRTSzZNTXhFc05lWTNfNk9xNWZKX3NWM3ktSGJFREdRMHJSVXhkVWh0TEZIRXpRRkotWWlJWF80V1JZdVNIQnNGbTVWeG9aVTVBWnRkbDNqS0xQWEF6QTg4X2xRUUJFUTg1ZmJoRjNXZENoN0E3d0lqRmpqczlyX1RONTJtbzkyMU0wYXZUVERkaHFsTnZHalp5OUtiT1A0eEdfV1pvQm9T?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Wed, 18 Nov 2026 01:05:40 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "eef42d5ccf3b56df97f27e31",
+      "mode": "sportdog",
+      "title": "Olympiacos Set for Another Round of the Ruben Vargas Saga - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGN3NnpHbk9ZVWhtcGF6ZzJTU2FxSHh2czV4YmZWakhGbEgyQzNDOGlocVREOU1TNThhNEhGNVV3N1dJWU1TanE0RDFXNjRLVmR6aVl2UF9FQnhtZzJCVl9fV3ZDWkdEcjlGMmVfR2s2RFpzT3dEMUg3dU9TLVk1SUVUeE8tSEh1TlYyWHFtWG5aRWNoUFYxdnhQcldid1FLblJyQzk3NDBIejRuZFJUVFBOTW4?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Tue, 17 Nov 2026 21:59:20 GMT",
+      "base_score": 31,
+      "candidate_score": 45,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "7db6035ce7033e22a21170f8",
       "mode": "sportdog",
       "title": "+!(OFFICIAL-TV) Virtus Bologna vs Panathinaikos Live Stream Free TV - Comité Asesor de Vacunas de la AEP",
@@ -583,7 +700,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Tue, 17 Nov 2026 19:28:45 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -595,14 +712,14 @@
       "needs_second_source": true
     },
     {
-      "external_id": "2dd9248c194654737f1679b5",
+      "external_id": "b129e17c1c95342e3d8106e2",
       "mode": "sportdog",
-      "title": "(HD BROADCAST) Virtus Bologna vs Panathinaikos Basketball ＬＩＶＥ ＮＦＬ 2026 - Comité Asesor de Vacunas de la AEP",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOemhBOVlSem92SUJINnU3dnRTazRtc2ZWbE1pc0praVhTOUVHNGw1dUVvOUVSLUQxMW5XY21vcy1KWXZwU0ZwWnBhdFJhazhHQlJMckMyd1B3WTBxanhmMW1xRzg3b2pnTjJaT1NZMzZVck9QRnI0N1JuLWlDeV9lQVVydzM0RHFIOUROVzdJM01iTndQOEJOR2FyQU5sZks3bHduRC1TbWcycUlxbGR4dko5OHdmampsWUM2QXhacHpycU9BV3ZObVFoNkJudjJvUkxxQXI3bW0wUEt1cXdidlFyeGRSclhob3BBdWJCbEY5WUtNZ0VqSHBSeHJkQ1RWSUlDb05LUElPalhxQnhYcUVRcnhMaW50b3p3aGdhVjJ0Q0NQQlc0MUJGV0pKRnl2T3FNNkFEZlh4OWtMRE1QT0hNTzhIWDF2cnJGdkU0T3JtVTMyUko0QUxSQjV5cENhNEFR?oc=5",
+      "title": "☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Virtus Bologna vs Panathinaikos Basketball Live Stream Free TV - Comité Asesor de Vacunas de la AEP",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZ0FLOGhZd1lBUXNVdHFjdnNPU1N1UTExUUJJMWtwdWNxYmVwWWx3bFdrZENDN2wtUEVRWGM4OWxGM0prdHdBckdWVzV6eXdpVXltd0tqVGw1WkRaX05ncXd3S2RZVnRVS1FfbFNwa1BsR1R2b2tJaWlmUkY2Z2xOa0VockZDb1R5cTRyUTJ5WlFQamZFd1NESjAyRnROeEN3SEVoWW9ESHBJVEdXVkdOWTh2MzlTSUNWc0I1V3ZPXzByUmc0VVlMSFRlZVpnS3pSeEFNSzJBSHFPYzJXQzdCWld0U1VyTWFvRFhHNEEyN1g2WDRSeVZzUUNhVHdkVXdSWFNnMEUyQlB1Rm1PQUh1WWlySG40UllLUHNpbEVfaTd6SmZVVXdNN3FkeHBvZWpzak4weGFVNzBSR2QwWjZ4aC1ORG82ZDdsUnZsdWhiR3pWV0ttY3J6eS02N3hZa1I3MUE?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Tue, 17 Nov 2026 19:28:30 GMT",
+      "published": "Tue, 17 Nov 2026 19:28:37 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -621,7 +738,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Tue, 17 Nov 2026 19:28:17 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -640,7 +757,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Tue, 17 Nov 2026 19:28:00 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -659,7 +776,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 17 Nov 2026 18:46:24 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -678,7 +795,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Tue, 17 Nov 2026 18:46:03 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos"
@@ -690,6 +807,25 @@
       "needs_second_source": true
     },
     {
+      "external_id": "5a0341ae927cb49601944a4a",
+      "mode": "geopolitico",
+      "title": "Great Sea Interconnector (GSI): Ελλάς-Τουρκία, εντυπώσεις και πραγματικότητες - Defence-point.gr",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXJ0LTNoLXB4Q0xOVmZnRW56RWdqYmZOb0Q0aTRURENfN1JZWHFneHV3UmRleTJjbHg2NkxRTzZMOTJHc013bm1DNEdSZC0wc3VnTF8xR3EwbmZwVURmSmdXSjNCSTdIb2NjVGIwNU90eVpGMUFYaEx1UUVnRHg4azVYTXJjMTlWMDFERXA0M3gyYllLWEFZVVVnMENtb1RiVERTbA?oc=5",
+      "source": "Defence Point National Watch",
+      "published": "Wed, 18 Nov 2026 06:12:31 GMT",
+      "base_score": 99,
+      "candidate_score": 114,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Great Sea Interconnector",
+        "GSI",
+        "defence",
+        "Great Sea Interconnector",
+        "GSI"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "6a77f83a624acd38709bb92d",
       "mode": "geopolitico",
       "title": "Mossad intelligence helped foil Iranian assassination plot targeting Israeli in Greece - Ynetnews",
@@ -697,7 +833,7 @@
       "source": "Ynet Greece Turkey Cyprus IMEC Watch",
       "published": "Tue, 17 Nov 2026 18:46:22 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -715,7 +851,7 @@
       "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
       "published": "Tue, 17 Nov 2026 17:24:00 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -733,7 +869,7 @@
       "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
       "published": "Tue, 17 Nov 2026 16:34:48 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -762,6 +898,24 @@
       "content_type": "news"
     },
     {
+      "external_id": "7a5ccafe356ed7c583973306",
+      "mode": "geopolitico",
+      "title": "Ali İhsan Kaya: MAVİ VATAN VE MEİS Doğu Akdeniz Gerilimi ve Meis Adası - Gaziantep İlk Haber",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0YzMktmZ1pCY1NvZ1hucEkwazhZY3BqVXBqc1dHMG9JRTFPekNNOU9teWIweUZBWUZqN215OGdtVDJYNHI3bjlDbndhcnppV2JqbDY5QlV1UGZTQnVuUTI2OU5aNE1RN092Y1B3aXZjazdPcThMbnlybHRYdTJPcE82VFFudmJ5ekRMYw?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Tue, 17 Nov 2026 15:09:00 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Doğu Akdeniz",
+        "Meis",
+        "gerilim",
+        "ada"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
       "external_id": "4a4acc40a6c67fd9046b518a",
       "mode": "geopolitico",
       "title": "North Macedonia, Greece foil alleged Iranian assassination plot targeting Israeli executive - Ynetnews",
@@ -769,7 +923,7 @@
       "source": "Ynet Greece Turkey Cyprus IMEC Watch",
       "published": "Tue, 17 Nov 2026 13:45:56 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -781,14 +935,14 @@
       "content_type": "news"
     },
     {
-      "external_id": "1df52042128f9f1abcefd693",
+      "external_id": "5ef1b141fdbc117257e9859d",
       "mode": "geopolitico",
-      "title": "Fidan ve Yerapetridis GSI konusunu ele aldı - Haber Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE5jXzhIcHBtV3BzYVZUckVBV0tjb1JRQUtzQ042YUpVTXRDNENJR282QkVfaGQtS3B4R1owWGdFSnM1LWlnNUdmdHU2UUFKbXc5X0dVNWpya0JPUDBYSUZEa05IbFhUdkk5TW56SFUwVDI0QlB2NEVHc0pOQmVmRURXYWxJWlo1djhpVFF0RXRZRDNa?oc=5",
+      "title": "Fidan ve Yerapetridis GSI konusunu ele aldı - Gündem Kıbrıs Gazetesi - Kıbrıs Haber",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvQUJaWHp6UnJQSVdla1phS3BLSlo5Z29pX05QLWtqRjN2ZXNlR1g0THA0Vk03QUpzQnctMEw4NnhMMGFkbnhqcmRaNFlUWlFseUdvR01lTXNVeEJNVGRzeDN4VkJhVlF5X1ZpMklNNDhPME14QzgwalJTMDM?oc=5",
       "source": "Turkey Greece Breaking Watch",
-      "published": "Tue, 17 Nov 2026 09:17:11 GMT",
+      "published": "Tue, 17 Nov 2026 08:57:00 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Fidan",
@@ -800,40 +954,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "35175b5030786708dca28403",
-      "mode": "geopolitico",
-      "title": "Cyprus boat operator levels abuse at Israeli tourist, threatens to send Palestinians to hotel - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80NzQwRmxiNnJ6enI1SDZfa0ZndHZ5d3JzYjQwaFVfOHFZZDRRVmZ2WkxleFlBdERnUUpvUGdRcThkSUY0Zm4zOVE4bXVEdzI4REVYeFRVTHZLVm8xc2R4TXpBczYwREc4cWc?oc=5",
-      "source": "Jerusalem Post Greece Turkey Cyprus IMEC Analysis",
-      "published": "Tue, 17 Nov 2026 23:03:47 GMT",
-      "base_score": 88,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Israel",
-        "Israeli",
-        "Cyprus"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "07bf2468ac6fb0ad63db59cb",
-      "mode": "geopolitico",
-      "title": "The Downfall of Jensen Huang and Its Implications on the US-China Chip War, Trump to Meet Xi and Putin, and the New Congress’s Outlook on US China Policy - Hudson Institute",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVG83ZC11YVBvWENrTmVTanhLMURwZlM5SkU4V3N3MmY3THRaQnM5UnRkeWNXUDZQMGxtWU01NzVWMzZhVDQzUU1OY2V3X1J5R0l1R2tMSlVpNV8zN2hGcGphRnhSNUgxYVRSWW8tN1d2UGdQWEk5dmZXVjBac3g1MGFDNnR6Vzl6WlFNRnJIVkxsdUhkbTNXc3I3bXpWcGlhSXRLR0pHWlZXSjViSEZtZEFiVzNuT1M5OU9aTDdfMkQ5bjZwLWZF?oc=5",
-      "source": "Hudson Institute Watch",
-      "published": "Tue, 17 Nov 2026 12:00:00 GMT",
-      "base_score": 86,
-      "candidate_score": 92,
-      "priority": "High",
-      "matched_keywords": [
-        "China",
-        "US China",
-        "chip war"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "88d5b10a17d0f60853ed9cdb",
       "mode": "pontos_voice",
       "title": "Χριστιανική Ένωση Πύργου: Ιστορικό και πνευματικό οδοιπορικό για την Παναγία Σουμελά - proini.news",
@@ -841,7 +961,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Tue, 17 Nov 2026 11:01:55 GMT",
       "base_score": 86,
-      "candidate_score": 92,
+      "candidate_score": 89,
       "priority": "High",
       "matched_keywords": [
         "Παναγία Σουμελά",
@@ -866,49 +986,14 @@
       "content_type": "news"
     },
     {
-      "external_id": "5b5c713908e9df71effe6447",
+      "external_id": "f2adfd7ffac5a8f7de4c254f",
       "mode": "pontos_voice",
-      "title": "Trabzon Şehir Hastanesi'nde torpil iddiası! Trabzon Milletvekili TBMM'den sordu: “Böyle bir hazırlık var mı?”",
-      "url": "https://www.61saat.com/trabzon-sehir-hastanesinde-torpil-iddiasi-trabzon-milletvekili-tbmmden-sordu-boyle-bir-hazirlik-var-mi",
+      "title": "Trabzon'da Karadeniz zekâsı konuştu! Bu evlerin sırrı şaşırtıyor",
+      "url": "https://www.61saat.com/trabzonda-karadeniz-zekasi-konustu-bu-evlerin-sirri-sasirtiyor",
       "source": "61Saat Trabzon",
-      "published": "Tue, 17 Nov 2026 20:40:00 +0300",
-      "base_score": 53,
-      "candidate_score": 63,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Ordu",
-        "milletvekili",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "1942c91048303b360c1c0509",
-      "mode": "pontos_voice",
-      "title": "Trabzonspor ile de anılan Arda Okan'ın bonservis bedelini belirlediler!",
-      "url": "https://www.61saat.com/trabzonspor-ile-de-anilan-arda-okanin-bonservis-bedelini-belirlediler",
-      "source": "61Saat Trabzon",
-      "published": "Tue, 17 Nov 2026 22:51:00 +0300",
-      "base_score": 44,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "Trabzon",
-        "dil"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "e170664bab277d0adcf29f06",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da sahil yolunda feci kaza! Kamyon ve bir araç karıştı",
-      "url": "https://www.61saat.com/trabzonda-sahil-yolunda-feci-kaza-kamyon-ve-bir-arac-karisti",
-      "source": "61Saat Trabzon",
-      "published": "Tue, 17 Nov 2026 17:37:00 +0300",
+      "published": "Wed, 18 Nov 2026 09:48:00 +0300",
       "base_score": 46,
-      "candidate_score": 52,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -918,18 +1003,51 @@
       "content_type": "news"
     },
     {
-      "external_id": "f0c74f701207d61919278551",
+      "external_id": "9b15090ad4aec6dbf32e07df",
       "mode": "pontos_voice",
-      "title": "Trabzon-Maçka yolunu kullanacaklar dikkat! Tünelde ulaşım tek şeritten sağlanacak - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHBXc1dqZU9YRUdiOHYzQ1pSWjVuSjZQcXctdFBTYmNKMFFzMERUOE0wb21rNFF4TmJXblNmLW8zV0NwZ0tXR3RIZHBSRk1RZ1dFUGEzRmRGTDJ1ZDhMWG5vemhJN1BtRjJObnc2NXEtUE5LWmtUSE9Tdk5Id3FvcFNFcGFuWkFaM2hoRUhaS1JBaU1pQldZbWxYd2gtVmV3WVR1emxYQnJGa1Q2S2pTdkxiNGFPZHhfWUhZ?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Tue, 17 Nov 2026 07:37:23 GMT",
+      "title": "Trabzon'da gece saatlerinde korkutan yangın! Powerbank'ten yangın çıkar mı demeyin...",
+      "url": "https://www.61saat.com/trabzonda-gece-saatlerinde-korkutan-yangin-powerbankten-yangin-cikar-mi-demeyin",
+      "source": "61Saat Trabzon",
+      "published": "Wed, 18 Nov 2026 10:28:00 +0300",
       "base_score": 44,
-      "candidate_score": 50,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Maçka",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "f1347567d746e5a608cbd59d",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da hava değişiyor! Gece saatlerine dikkat",
+      "url": "https://www.61saat.com/trabzonda-hava-degisiyor-gece-saatlerine-dikkat",
+      "source": "61Saat Trabzon",
+      "published": "Wed, 18 Nov 2026 08:58:00 +0300",
+      "base_score": 44,
+      "candidate_score": 59,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Trabzon",
+        "dil"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "2b73d910cf68019c3f238cfe",
+      "mode": "pontos_voice",
+      "title": "Trabzon'da uçuruma yuvarlanan kamyondan acı haber! Hayatını kaybetti - Haber61",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHJxcjUydWVIRmZYbFJNeWRKeF9XbmtZOVJWV0I4RWhsNExpd3lwR2ZhWjdpQlEzVG96Wkl6NU9tLXFhZjFUSklWYVp3V0FKVlNacE81VDRZZVpnVC0zc21wOV9sdkZBY2NyWlV0cEd1ZXVjSnRhX3h0aUxWUm84MXNwYmI3Z29jaHFsUDFPR2ZWdXVKMHo0WFhjTWhYNDZFS0xHWVljb2NyUQ?oc=5",
+      "source": "Haber61 Trabzon",
+      "published": "Wed, 18 Nov 2026 07:35:59 GMT",
+      "base_score": 33,
+      "candidate_score": 48,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
         "Trabzon"
       ],
       "content_type": "news"
