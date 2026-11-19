@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T04:17:18.697876+00:00",
+  "generated_at": "2026-11-19T13:33:47.435146+00:00",
   "counts": {
-    "sportdog": 12,
+    "sportdog": 8,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "TransferFeed Greek Super League",
         "published": "Wed, 18 Nov 2026 18:11:30 GMT",
         "base_score": 58,
-        "candidate_score": 84,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -28,23 +28,42 @@
         "needs_second_source": true
       },
       {
-        "external_id": "300abb85d78a664fb9dd6604",
+        "external_id": "946d3d9f45f4135448770a91",
         "mode": "sportdog",
-        "title": "Panagiotis Andreou Transfer from Omonia Nicosia to PAOK - TransferFeed",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjlVV2d0VFBxX1NGaXkxVTZjbk1LQWo1STVPVDd3ektWMzBXRmxJZ1JtbVpaR2kyVEswT3l4YUZyNWQ1aGFUSEtTLVBGbTVsWXRDMlZhMjZldFVnUmhMTE9Nczg5a1JTRkh3WUZ5WTYtSEV3VTFnSUgydm9obmRLXy1QNUR2U21aSTNKWndnZw?oc=5",
-        "source": "TransferFeed Greek Super League",
-        "published": "Tue, 17 Nov 2026 18:08:14 GMT",
-        "base_score": 58,
-        "candidate_score": 78,
-        "priority": "High",
+        "title": "ΠΑΟΚ: Πότε επιστρέφουν οι τραυματίες και οι τρεις θέσεις που μπαίνουν στο μεταγραφικό πλάνο - bwinΣΠΟΡ FM 94.6",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFBqd3FoZ19HYmtkQ1EzeDJ0MXU2Y2w4Qm1aTy02bDVxb2lucVBHMUhMaU5wS3VKVndmaVFKUGxkUy1GOG5BVEEyRGlhbzVqQjFEYjcwMmRITVQwRkNYbWg2YklrUE5VT0djNXVKdHl0QUxVaGZMTWZTVUhWQjV6MlYzOTZMc0N4WER0N1JLYWdlYktEc0xERml0UTEwR2k3UEdMUUlWLXNjYzNtSzNSRXdwdzFCYnFxRWNQemV4UWx0dFlockVLbDJCQThnd215WmRLR0g3N2UtcURXTEtKOWY4RjMwUdIB0AFBVV95cUxPdUkxcy0tbndXYTJ3SFVFVjZQX2JZdFVyN3FjcklNQ3c0MjJCM2lBQUFyRkJDSGlDaEMwTmxZWjZsUjJjSXplYVZQYTFMOVBEWHNPa24zYXJVQmJHaXNMbTlKaHNGb24wUXFqYW16SmhyWUE2WThQNVhRV1RBSGxwUldfRG9qUl8zUDdFQVJhalQ2ZGk1eFh5LUwtdU1KUHJCRkZ4c0R0ZW04c2hkMWd3ZzdVYkFXdDFXdmVaSlZ2dU9nRUxuQmlBZGFjLVI3NmFX?oc=5",
+        "source": "Sportdog Greek Transfer Scenarios",
+        "published": "Thu, 19 Nov 2026 06:42:00 GMT",
+        "base_score": 39,
+        "candidate_score": 57,
+        "priority": "Normal",
         "matched_keywords": [
-          "PAOK",
-          "transfer"
+          "ΠΑΟΚ"
         ],
         "content_type": "news",
-        "editorial_type": "Transfer Report",
+        "editorial_type": "Team News",
         "team": "PAOK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "456c37cba0b1c13882226b71",
+        "mode": "sportdog",
+        "title": "Top scorer - Aris Thessaloniki stats for Super League 1 2024/2025 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmRHdFVQZlpsSGFKX3NwcGdDR3lpdWlmLUJwemFhQk5Ea2txLTFYOFc0Nm0xaUR4SlBXNUFwT090X1BnenRyZEdRdjQ0d1dPUk90ZmtYVU5CczZDS1Z6SlktaFJzUHMza3lFUGVCeF90X3FhSDBIUVJPcUR4b1B4WDJZT00wd3Y5NGdSSzZPd0ExMzBXMklZeFA0TQ?oc=5",
+        "source": "Aris Rumour Watch",
+        "published": "Wed, 18 Nov 2026 07:33:03 GMT",
+        "base_score": 48,
+        "candidate_score": 48,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Aris",
+          "Super League"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Aris",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -55,7 +74,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Thu, 19 Nov 2026 01:39:54 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -74,7 +93,7 @@
         "source": "PAOK Rumour Watch",
         "published": "Wed, 18 Nov 2026 17:30:55 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "PAOK"
@@ -124,50 +143,12 @@
         "needs_second_source": true
       },
       {
-        "external_id": "ce4fdc0e28436fd39f1cb257",
+        "external_id": "a002a7bcd15a91d04c88784d",
         "mode": "sportdog",
-        "title": "Vezenkov's half-court shot lifts Olympiacos past Maccabi - KarloBag.eu",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1keVVER2NJRGlJYnV2dWY4SEJUNk5lYUNLYmhjdjE2V0VDYzZlXzUycjVPQmlSSlhDc05CZ2MzdHFwN1RNaThzWGJDNFU2Nkg2VkFxaVdhTjhXcjhVbEtGVGtobXpEX0VSRW9tMV9vTWpWZWhNZnF3cjZnLUtyck4tZ1pCMUdYMXE1VlFGQkZFcVdGY2E4d0xSZ0REYURSalkzUzVWaU1YV2ozMFkwbDJaVHVwOTBk?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 17 Nov 2026 23:06:54 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "eef42d5ccf3b56df97f27e31",
-        "mode": "sportdog",
-        "title": "Olympiacos Set for Another Round of the Ruben Vargas Saga - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGN3NnpHbk9ZVWhtcGF6ZzJTU2FxSHh2czV4YmZWakhGbEgyQzNDOGlocVREOU1TNThhNEhGNVV3N1dJWU1TanE0RDFXNjRLVmR6aVl2UF9FQnhtZzJCVl9fV3ZDWkdEcjlGMmVfR2s2RFpzT3dEMUg3dU9TLVk1SUVUeE8tSEh1TlYyWHFtWG5aRWNoUFYxdnhQcldid1FLblJyQzk3NDBIejRuZFJUVFBOTW4?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 17 Nov 2026 21:59:20 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "7db6035ce7033e22a21170f8",
-        "mode": "sportdog",
-        "title": "+!(OFFICIAL-TV) Virtus Bologna vs Panathinaikos Live Stream Free TV - Comité Asesor de Vacunas de la AEP",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQSEc5RGl4U1pVajlsTFY2a0tKSzB0dGpOX1IzRjNqX3RidzRqN0VTUUwtTXRmR0tieXNYLXlEeTVUSFFDWjVDbC1KVUxLdGtiOHdQTFozWURfLXE5NzdnazdjRGRfSk1IWTc3YURzVDdzaWxXTEhnQnQtbWs3RkhpWTlRS21VRnBsU0kzbnFOblRHVzZwck0tRk5YLUJ1bVA0dlpTSldRdEo4QURoZzhMcUFZMjIyY25WUHBkSVJoeXliVTRETW1wbFNVWWsyQmV6WWFJbjJvQXJ6REhreXBMcGV1ZDg1UkxsbVVoWWZHeE5QMlRBcFpLWk15bXd0WmsxSlZTSnU2ZUtlbDdrVW1qVDR3a01PUGhhMzBmeHVsVnhydElwNlJpa3dHclNUVlVMZklybGFYX3V6ako2Znk1Zm1wSVY5Vk9tUXg1UV91T3I3UU0?oc=5",
+        "title": "Panathinaikos claim arena security laughed off racist abuse complaint in Bologna - BasketNews.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2NJcmxVV01kNnBLMk5rRkkwRmtQTkdtNzZNQ09jV3NYekdGcFZkQ2ZZTEJoODNlMy1oeVA1ZVFsamFQVzVwUnZ1MHdNbUpDdzVJSjRlZ0syb3YxTml6M0JnSTQ3SUFWZEVTQVNLX3Ewc3E5elF2YnI5Y2p6TklmUVFXUnFHSjA1ZnF2RUVQSURYblFDNVRRRDVqUURzNHVVd0E0VEFIMDJYQnhl?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Tue, 17 Nov 2026 19:28:45 GMT",
+        "published": "Wed, 18 Nov 2026 06:55:32 GMT",
         "base_score": 31,
         "candidate_score": 39,
         "priority": "Normal",
@@ -177,68 +158,67 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "b129e17c1c95342e3d8106e2",
-        "mode": "sportdog",
-        "title": "☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Virtus Bologna vs Panathinaikos Basketball Live Stream Free TV - Comité Asesor de Vacunas de la AEP",
-        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZ0FLOGhZd1lBUXNVdHFjdnNPU1N1UTExUUJJMWtwdWNxYmVwWWx3bFdrZENDN2wtUEVRWGM4OWxGM0prdHdBckdWVzV6eXdpVXltd0tqVGw1WkRaX05ncXd3S2RZVnRVS1FfbFNwa1BsR1R2b2tJaWlmUkY2Z2xOa0VockZDb1R5cTRyUTJ5WlFQamZFd1NESjAyRnROeEN3SEVoWW9ESHBJVEdXVkdOWTh2MzlTSUNWc0I1V3ZPXzByUmc0VVlMSFRlZVpnS3pSeEFNSzJBSHFPYzJXQzdCWld0U1VyTWFvRFhHNEEyN1g2WDRSeVZzUUNhVHdkVXdSWFNnMEUyQlB1Rm1PQUh1WWlySG40UllLUHNpbEVfaTd6SmZVVXdNN3FkeHBvZWpzak4weGFVNzBSR2QwWjZ4aC1ORG82ZDdsUnZsdWhiR3pWV0ttY3J6eS02N3hZa1I3MUE?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Tue, 17 Nov 2026 19:28:37 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Panathinaikos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "c43e9c538f50cf80df1424ec",
-        "mode": "sportdog",
-        "title": "Vezenkov pulls off half-court miracle before Olympiacos' last-second triumph - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGdtS09ZU0dIUUhsVElwSnJBVTV1SFdvN0pILXU5NVJPYnVoOWJ3cDJiX3FPTkc4MDRtZUh4c1pGWDg0RWRRZFJRck1NNDZIMkpKcDRIel80TVBsYUpZcFpnMmZGSWxTRnFsazRLZ0hiS3FNRmtxMDRweUtPQ2VGWE03SHZOYjFwb0NkMm9XbURJeGNEWkNsaXdlVklSZFVXUFZhLXRESTdjU2NkaVM1MWFxNndJdw?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 17 Nov 2026 19:19:00 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "a889e07ba207b6e07211fe40",
-        "mode": "sportdog",
-        "title": "John Konchar returns to free agency after Olympiacos release - Yardbarker",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkxfY0JieDdZTmxHNUM2VW9WNkU0ZmhneEUxMXB0MXltLU5YNHVjRnQtX3VfaFJLdWNpR3FFUmwyZ0N5QlVKeEg0RE9jcVI1QnJOd0ZPM3E4c1FsalItMUk3d3IzM29LeDlFa2J4U3JQU0xfbTJLcXIzTDlfWlk2a2VuZ1VsOFRkTldJY1NxRC1YN0pGV3pMZ1dNWE5UbHlaQk5YYlpMNjFCQmxwMFE0ME9uTmdDWUxVMGc?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 17 Nov 2026 18:58:04 GMT",
-        "base_score": 31,
-        "candidate_score": 39,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "f4bb1f2804d73a9ce1f92484",
+        "mode": "geopolitico",
+        "title": "Doğu Akdeniz'de yeni gerilim iddiası: Yunanistan ve İsrail’den ortak tatbikat - CNN Türk",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXNOa095WHI5alJ1SDVCdGdtOFlFOWRfVllPNTY5ZHUwTldMZldBYnd1Tmk1b29WRC0zdjhLbUFMSVlzUFpwN3dGWGVkbVZkNWlDVDE4RmpPZGhPMGZvZXpMTmJEZVBaYTQ2RS03SmJxVE1EM0QxVUg4UmlnWm5uWFd2elBzQlVMMUFLZ21rZjRmeVYxYXJjOHlJUnVjeHd6TlBTMGlRSQ?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 19 Nov 2026 10:53:19 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Doğu Akdeniz",
+          "gerilim",
+          "tatbikat",
+          "ortak tatbikat"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "a6ce48280b3f632547d70d20",
+        "mode": "geopolitico",
+        "title": "Iran-Linked Plot Allegedly Targeted Greek Jewish Leader Tied to Israel's Defense Industry - iefimerida.gr",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXNyb0JISmVta24yTlJTWDgyZWYzZF8wdWRyLV9QNnZFYWF1dzZtMjVUb3V3MFp3VXhTWWQzTXdCTTE3X3FGdkoyWG1haU1uWWpWOVB5NEtocHFteEZZYlZrb1h4LVVlX2Y3dk5aUkMxb0ZIYkNwWU93LV82b0dURHB3Y0VFTXd3NG11cmhpM01vWFF1Yk4yNnY4a1NfeE85ZWZZMjR1RTByM2ZoUDdkMWVTaWxQVWZpVFBr?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Thu, 19 Nov 2026 05:25:00 GMT",
+        "base_score": 100,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Israel",
+          "Ege",
+          "Iran",
+          "defense",
+          "industry",
+          "defense industry"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "b02e679d72fea5040662839a",
+        "mode": "geopolitico",
+        "title": "Yunanistan, İsrail ve GKRY'den Doğu Akdeniz'de üçlü tatbikat! - Türkgün",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdlFsYjBxbFp0U3c2SEM4WDhUTFFfZFlneUNOOXdXNWNnamExcnpTYS1pai1HWjFTWlVCZ0Q0QmtOd1ozNzA1Q1pDVnEyN0pMNGJOWlA2OVZGRWoxSVFvTnU4TWpnSHoyRGREeF9WODMwU0JTZV84WXoxY1NmVUZ0azBsMXZOQ0Y3U1ZtOWNoUXMySjh6N2drRkl3?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Thu, 19 Nov 2026 13:02:00 GMT",
+        "base_score": 90,
+        "candidate_score": 105,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Doğu Akdeniz",
+          "tatbikat"
+        ],
+        "content_type": "turkey_greece"
+      },
       {
         "external_id": "76201be621462a4795f62e3f",
         "mode": "geopolitico",
@@ -247,7 +227,7 @@
         "source": "Greece Israel Strategic Watch",
         "published": "Wed, 18 Nov 2026 17:36:43 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Israel",
@@ -265,7 +245,7 @@
         "source": "Turkey Greece Breaking Watch",
         "published": "Wed, 18 Nov 2026 16:42:42 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Doğu Akdeniz",
@@ -277,40 +257,6 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "0dcf6a783d05029b02e9ca96",
-        "mode": "geopolitico",
-        "title": "Yunanistan Başbakanı Miçotakis, GKRY lideri Hristodulidis ile Kıbrıs meselesini görüştü - Kars Manşet",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkxra2IzUHpyWXpmT3p5Um8wZkQ3LUtGNzMzQ2NsUFlOa0V5NGRmQ094TmJUZ25keVZ2ckxrdFFJLTlZaU1STDg0RVlLdUJHZlNTc3lTdTU0bXlEU29YX2prU1ZmRnpSNXg0RktOa0o4aXY3LXZSUFdyU0dvU29RX2h5ODJIUmpyU0p3dVgxMXdUZm1ZbFdybG0ySEtjME5JMVVyclNiRDdqV2tyRlFKakxQZGJGd0RfdWhoazZhMVpBQdIBwgFBVV95cUxOdkxra2IzUHpyWXpmT3p5Um8wZkQ3LUtGNzMzQ2NsUFlOa0V5NGRmQ094TmJUZ25keVZ2ckxrdFFJLTlZaU1STDg0RVlLdUJHZlNTc3lTdTU0bXlEU29YX2prU1ZmRnpSNXg0RktOa0o4aXY3LXZSUFdyU0dvU29RX2h5ODJIUmpyU0p3dVgxMXdUZm1ZbFdybG0ySEtjME5JMVVyclNiRDdqV2tyRlFKakxQZGJGd0RfdWhoazZhMVpBQQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 18 Nov 2026 13:12:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Miçotakis",
-          "Kıbrıs"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "413f5e06399d707ef4fa049b",
-        "mode": "geopolitico",
-        "title": "Yunanistan Başbakanı Miçotakis, Limasol'da GKRY lideriyle Kıbrıs sorununu görüştü. - Mersin Haber",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWVqVjhvNHFOb1BSc0VmcHVFOUpVNjJtalRKNldPRktPWFVZWmY0dkhVcmJ1am5ITWtYMi1yZHNRbHV4U1hmcVo3UlkzM1VyYlhBZWN0QjRaT2FfTUgyb1NyNWd3UmlkY1VWUm5rUUg1SC1Qb1o0d0JRaGZaSnlVR2kwdGFLWjVvY1N5Si01bW5FUEpMUnFMWEFnbUtPR0hJTTVSRFBIbjIyR09jTmVfbkpiVjVlc2pUMm1nNm1pTVlRTE91THFfTUtvUVVDTEnSAVdBVV95cUxNeG9WQzVTMWwtNXFQRUxaNkRBdmZJbjZBV0NfMGdJTTJGMUp2MmxMeGJHWFNWcXJYMHAya243OGNIa3B0TlhrejV4eUc0LWExQ2F2aXZKX1k?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 18 Nov 2026 13:12:00 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Yunanistan",
-          "Miçotakis",
-          "Kıbrıs"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
         "external_id": "e6ce71e0229a96450e6fb7c4",
         "mode": "geopolitico",
         "title": "Assassination Plot Against Israeli Businessman Thwarted in Greece - Israel Defense",
@@ -318,7 +264,7 @@
         "source": "Greece Israel Strategic Watch",
         "published": "Wed, 18 Nov 2026 12:03:29 GMT",
         "base_score": 100,
-        "candidate_score": 106,
+        "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
           "Greece",
@@ -348,38 +294,20 @@
         "content_type": "news"
       },
       {
-        "external_id": "5a0341ae927cb49601944a4a",
+        "external_id": "db93ab768cd201bd0ea17236",
         "mode": "geopolitico",
-        "title": "Great Sea Interconnector (GSI): Ελλάς-Τουρκία, εντυπώσεις και πραγματικότητες - Defence-point.gr",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXJ0LTNoLXB4Q0xOVmZnRW56RWdqYmZOb0Q0aTRURENfN1JZWHFneHV3UmRleTJjbHg2NkxRTzZMOTJHc013bm1DNEdSZC0wc3VnTF8xR3EwbmZwVURmSmdXSjNCSTdIb2NjVGIwNU90eVpGMUFYaEx1UUVnRHg4azVYTXJjMTlWMDFERXA0M3gyYllLWEFZVVVnMENtb1RiVERTbA?oc=5",
-        "source": "Defence Point National Watch",
-        "published": "Wed, 18 Nov 2026 06:12:31 GMT",
-        "base_score": 99,
-        "candidate_score": 102,
+        "title": "Cyprus and US Energy Ministers discuss GSI at meeting in Warsaw - Cyprus Business News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVluT2hrT1Z4LXdMMmZDcmgtMW1PS3RqS0xRN21aRDZTQ2piTTZrTGZoSFR0TWVUZXR5TUtwUXJ5VW4yV1gxMWVlV3MxcTlsb1dUMndaaUdsOHRlOHNrRk9PSzk3SXl6SzJwckhVTWI3ZWhJZ1JmaG55MVhpYWJzT29XUVAtckdDaXZvT25DVEEybjE5LWM1OGhkQlpjbjVFdmhR?oc=5",
+        "source": "Greece Cyprus Israel Watch",
+        "published": "Thu, 19 Nov 2026 13:21:16 GMT",
+        "base_score": 86,
+        "candidate_score": 101,
         "priority": "URGENT",
         "matched_keywords": [
-          "Great Sea Interconnector",
+          "Cyprus",
           "GSI",
-          "defence",
-          "Great Sea Interconnector",
+          "energy",
           "GSI"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "a66833f2ee7dcb8154c50451",
-        "mode": "geopolitico",
-        "title": "Divorced, unemployed Indian women in ISI’s crosshairs as Pakistan handlers flip honeytrap playbook - ThePrint",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3JpeEpLQVhOdkFCcm1GZUhlUmdVYlRtdkFhSGFsMWlYSk53YmN4Y0N0N3ZEdzd6YWJmaFdKZjl2TmlEd1JRc21Wa2JReDV3MWRrbHdhREgzdWJhVUFkV2FBd3JyanB2SWJPWGRJMTJEZjlkeTlkZU5jWXl1Zm10ZHJWQlAxSEJHUFQtZ0ZfZ0JUckE3ZzFRTDB2N3BtU3dFb29Za3BOQlU3TDlyOWNYRVZNejh4Y29SUy1wUl92Yzhsemo2Ul91VU8tNNIB0AFBVV95cUxQWlpfbGc2aC1aeHVEZ05SWm11MUFVeXp1ZnBwVzhLY0swZi1oZTNQWThqUnJja2ljTUZ4TEdqUXRpb2g2YV92RlBUN1NLdGt4X0tMSlBNMnFVMmxxQlhLbUhNMHZESU0wM1gzcTVCUG8wZUVfNFFubjVnU3VqNHFGMGNvVlZvdUpjTTdEZ2Q5cmF1OE82S0JUTTFleEZlNFBZZ2NqYVozSmx5WnJkWXpNTXhUX0xFc2tXYXRyUEYxMG16U2NxeTJYMFY3UWthS2lW?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Thu, 19 Nov 2026 03:30:01 GMT",
-        "base_score": 82,
-        "candidate_score": 97,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "ISI"
         ],
         "content_type": "news"
       }
@@ -403,20 +331,71 @@
         "content_type": "news"
       },
       {
-        "external_id": "cb2f985404c609604fc03d53",
+        "external_id": "d4256af467af31bdb9e20fb3",
         "mode": "pontos_voice",
-        "title": "Trabzon’da olaylı maçta 4 sevk kararı!",
-        "url": "https://www.61saat.com/trabzonda-olayli-macta-4-sevk-karari",
+        "title": "Δράμα: Η θέση της γυναίκας στην ποντιακή κοινωνία μέσα από μια ξεχωριστή εκδήλωση των «Κομνηνών» - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVJsMFdUMm9vcEF4TXNuRElCSmllWVRRSHZINmQ3VFBiUHB5TVhkNWEycWd4RmIzUUlKbG9JSnUxS1ZjeDV3Z1hkM1UzQ1E4Sk5XV2pMWUdQNXR6UV9qdm1pOUkzeXYtcllXREVWLUFfSFFqV2tyQV9pandHbnY2VFZwYUg2cTVkTE5vdTRWdmZZUmFidjdHRHFYNjFoMkhw?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Thu, 19 Nov 2026 13:12:26 GMT",
+        "base_score": 69,
+        "candidate_score": 84,
+        "priority": "High",
+        "matched_keywords": [
+          "Pontos",
+          "ποντιακή"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "24cea0407c58bc7a42be5db3",
+        "mode": "pontos_voice",
+        "title": "Şehit Kaymakam Safitürk'ün ailesinden Diyarbakır Valisi Zorluoğlu'na ziyaret",
+        "url": "https://www.61saat.com/sehit-kaymakam-safiturkun-ailesinden-diyarbakir-valisi-zorluogluna-ziyaret",
         "source": "61Saat Trabzon",
-        "published": "Wed, 18 Nov 2026 22:01:00 +0300",
-        "base_score": 55,
+        "published": "Thu, 19 Nov 2026 15:13:00 +0300",
+        "base_score": 51,
+        "candidate_score": 66,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "Çaykara",
+          "Trabzon",
+          "vali"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "b1419751899b84af7aca956b",
+        "mode": "pontos_voice",
+        "title": "Suiçmez’den Can Atalay açıklaması: “AYM ve AİHM kararları uygulanmalı”",
+        "url": "https://www.61saat.com/suicmezden-can-atalay-aciklamasi-aym-ve-aihm-kararlari-uygulanmali",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 19 Nov 2026 16:07:00 +0300",
+        "base_score": 49,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Trabzon",
+          "milletvekili",
+          "açıklama",
+          "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "9b416856ae0d58e7e4f59a21",
+        "mode": "pontos_voice",
+        "title": "Trabzon Ticaret Borsası'nda yeni dönem! Fındık ve tarımsal üretim gündemde",
+        "url": "https://www.61saat.com/trabzon-ticaret-borsasinda-yeni-donem-findik-ve-tarimsal-uretim-gundemde",
+        "source": "61Saat Trabzon",
+        "published": "Thu, 19 Nov 2026 15:25:00 +0300",
+        "base_score": 46,
         "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
-          "Maçka",
-          "Trabzon",
-          "dil"
+          "kültür",
+          "Trabzon"
         ],
         "content_type": "news"
       },
@@ -428,62 +407,11 @@
         "source": "Greek Press Pontic Watch",
         "published": "Wed, 18 Nov 2026 15:25:00 GMT",
         "base_score": 54,
-        "candidate_score": 60,
+        "candidate_score": 57,
         "priority": "Normal",
         "matched_keywords": [
           "Τραπεζούντα",
           "τοιχογραφίες"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "a3b7c5c2a2b3c1a23f46caf4",
-        "mode": "pontos_voice",
-        "title": "İYİ Parti Trabzon Milletvekili Yavuz Aydın’dan İl Sağlık Müdürü tepkisi - Haber61",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaEpSdkVwX0lQZUZkZ19hbnBxaEZIbFE1d3dqWENPUzk4ZXVWSGtLamYySzJEU2x2dWJjUGZTVWMxNVJmSk5jTEV1UmF6VENCUzB3Q0xpOVVWM2h1SjRDU0JUTzF4RmhNSzczdndzMjNyTHNzSlVkQ0JEcF9zX2Zfd2pQazlQeWNRekJCZHBXVHR4VWpjUU1NLTJCNW5uTnR6MFNqQnJJbmYxNmVUYldn?oc=5",
-        "source": "Haber61 Trabzon",
-        "published": "Wed, 18 Nov 2026 09:25:00 GMT",
-        "base_score": 51,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "milletvekili",
-          "tepki",
-          "Trabzon"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "a8caf88dc2ef479d0d551e9b",
-        "mode": "pontos_voice",
-        "title": "Βουλή: Με 137 «ναι» η Εξεταστική για τα «κόκκινα» δάνεια - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3JOTzBxRjlsUE9uOE5yY21ZMnZrbDl0S2VseTlsVmZJVkxoUm5uR2h1SnBPcVhKSi01emtkZE96UV9qN1ppakp5MkRvV1RqVkJYRDdKS2ZiR3J4UTl5WWVTQVQ1UHRSeXFDc052NkxUVTIyLXlTQ09MOXZTbXpMOGZQbDUtWDh2OFNVUWhfenpZaUdqTmJQMC1R?oc=5",
-        "source": "Pontos News Watch",
-        "published": "Wed, 18 Nov 2026 17:39:44 GMT",
-        "base_score": 46,
-        "candidate_score": 52,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Pontos",
-          "Βουλή"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "303ad59a2452c23881ea3036",
-        "mode": "pontos_voice",
-        "title": "Trabzon'da Mısır patlaması! Kalabalık herkesi şaşırttı",
-        "url": "https://www.61saat.com/trabzonda-misir-patlamasi-kalabalik-herkesi-sasirtti",
-        "source": "61Saat Trabzon",
-        "published": "Wed, 18 Nov 2026 19:49:00 +0300",
-        "base_score": 46,
-        "candidate_score": 52,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Trabzon",
-          "anıt",
-          "Trabzon"
         ],
         "content_type": "news"
       }
@@ -498,7 +426,7 @@
       "source": "TransferFeed Greek Super League",
       "published": "Wed, 18 Nov 2026 18:11:30 GMT",
       "base_score": 58,
-      "candidate_score": 84,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -511,23 +439,42 @@
       "needs_second_source": true
     },
     {
-      "external_id": "300abb85d78a664fb9dd6604",
+      "external_id": "946d3d9f45f4135448770a91",
       "mode": "sportdog",
-      "title": "Panagiotis Andreou Transfer from Omonia Nicosia to PAOK - TransferFeed",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjlVV2d0VFBxX1NGaXkxVTZjbk1LQWo1STVPVDd3ektWMzBXRmxJZ1JtbVpaR2kyVEswT3l4YUZyNWQ1aGFUSEtTLVBGbTVsWXRDMlZhMjZldFVnUmhMTE9Nczg5a1JTRkh3WUZ5WTYtSEV3VTFnSUgydm9obmRLXy1QNUR2U21aSTNKWndnZw?oc=5",
-      "source": "TransferFeed Greek Super League",
-      "published": "Tue, 17 Nov 2026 18:08:14 GMT",
-      "base_score": 58,
-      "candidate_score": 78,
-      "priority": "High",
+      "title": "ΠΑΟΚ: Πότε επιστρέφουν οι τραυματίες και οι τρεις θέσεις που μπαίνουν στο μεταγραφικό πλάνο - bwinΣΠΟΡ FM 94.6",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFBqd3FoZ19HYmtkQ1EzeDJ0MXU2Y2w4Qm1aTy02bDVxb2lucVBHMUhMaU5wS3VKVndmaVFKUGxkUy1GOG5BVEEyRGlhbzVqQjFEYjcwMmRITVQwRkNYbWg2YklrUE5VT0djNXVKdHl0QUxVaGZMTWZTVUhWQjV6MlYzOTZMc0N4WER0N1JLYWdlYktEc0xERml0UTEwR2k3UEdMUUlWLXNjYzNtSzNSRXdwdzFCYnFxRWNQemV4UWx0dFlockVLbDJCQThnd215WmRLR0g3N2UtcURXTEtKOWY4RjMwUdIB0AFBVV95cUxPdUkxcy0tbndXYTJ3SFVFVjZQX2JZdFVyN3FjcklNQ3c0MjJCM2lBQUFyRkJDSGlDaEMwTmxZWjZsUjJjSXplYVZQYTFMOVBEWHNPa24zYXJVQmJHaXNMbTlKaHNGb24wUXFqYW16SmhyWUE2WThQNVhRV1RBSGxwUldfRG9qUl8zUDdFQVJhalQ2ZGk1eFh5LUwtdU1KUHJCRkZ4c0R0ZW04c2hkMWd3ZzdVYkFXdDFXdmVaSlZ2dU9nRUxuQmlBZGFjLVI3NmFX?oc=5",
+      "source": "Sportdog Greek Transfer Scenarios",
+      "published": "Thu, 19 Nov 2026 06:42:00 GMT",
+      "base_score": 39,
+      "candidate_score": 57,
+      "priority": "Normal",
       "matched_keywords": [
-        "PAOK",
-        "transfer"
+        "ΠΑΟΚ"
       ],
       "content_type": "news",
-      "editorial_type": "Transfer Report",
+      "editorial_type": "Team News",
       "team": "PAOK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "456c37cba0b1c13882226b71",
+      "mode": "sportdog",
+      "title": "Top scorer - Aris Thessaloniki stats for Super League 1 2024/2025 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmRHdFVQZlpsSGFKX3NwcGdDR3lpdWlmLUJwemFhQk5Ea2txLTFYOFc0Nm0xaUR4SlBXNUFwT090X1BnenRyZEdRdjQ0d1dPUk90ZmtYVU5CczZDS1Z6SlktaFJzUHMza3lFUGVCeF90X3FhSDBIUVJPcUR4b1B4WDJZT00wd3Y5NGdSSzZPd0ExMzBXMklZeFA0TQ?oc=5",
+      "source": "Aris Rumour Watch",
+      "published": "Wed, 18 Nov 2026 07:33:03 GMT",
+      "base_score": 48,
+      "candidate_score": 48,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Aris",
+        "Super League"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Aris",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -538,7 +485,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Thu, 19 Nov 2026 01:39:54 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -557,7 +504,7 @@
       "source": "PAOK Rumour Watch",
       "published": "Wed, 18 Nov 2026 17:30:55 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "PAOK"
@@ -607,50 +554,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "ce4fdc0e28436fd39f1cb257",
+      "external_id": "a002a7bcd15a91d04c88784d",
       "mode": "sportdog",
-      "title": "Vezenkov's half-court shot lifts Olympiacos past Maccabi - KarloBag.eu",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1keVVER2NJRGlJYnV2dWY4SEJUNk5lYUNLYmhjdjE2V0VDYzZlXzUycjVPQmlSSlhDc05CZ2MzdHFwN1RNaThzWGJDNFU2Nkg2VkFxaVdhTjhXcjhVbEtGVGtobXpEX0VSRW9tMV9vTWpWZWhNZnF3cjZnLUtyck4tZ1pCMUdYMXE1VlFGQkZFcVdGY2E4d0xSZ0REYURSalkzUzVWaU1YV2ozMFkwbDJaVHVwOTBk?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 17 Nov 2026 23:06:54 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "eef42d5ccf3b56df97f27e31",
-      "mode": "sportdog",
-      "title": "Olympiacos Set for Another Round of the Ruben Vargas Saga - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGN3NnpHbk9ZVWhtcGF6ZzJTU2FxSHh2czV4YmZWakhGbEgyQzNDOGlocVREOU1TNThhNEhGNVV3N1dJWU1TanE0RDFXNjRLVmR6aVl2UF9FQnhtZzJCVl9fV3ZDWkdEcjlGMmVfR2s2RFpzT3dEMUg3dU9TLVk1SUVUeE8tSEh1TlYyWHFtWG5aRWNoUFYxdnhQcldid1FLblJyQzk3NDBIejRuZFJUVFBOTW4?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 17 Nov 2026 21:59:20 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "7db6035ce7033e22a21170f8",
-      "mode": "sportdog",
-      "title": "+!(OFFICIAL-TV) Virtus Bologna vs Panathinaikos Live Stream Free TV - Comité Asesor de Vacunas de la AEP",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQSEc5RGl4U1pVajlsTFY2a0tKSzB0dGpOX1IzRjNqX3RidzRqN0VTUUwtTXRmR0tieXNYLXlEeTVUSFFDWjVDbC1KVUxLdGtiOHdQTFozWURfLXE5NzdnazdjRGRfSk1IWTc3YURzVDdzaWxXTEhnQnQtbWs3RkhpWTlRS21VRnBsU0kzbnFOblRHVzZwck0tRk5YLUJ1bVA0dlpTSldRdEo4QURoZzhMcUFZMjIyY25WUHBkSVJoeXliVTRETW1wbFNVWWsyQmV6WWFJbjJvQXJ6REhreXBMcGV1ZDg1UkxsbVVoWWZHeE5QMlRBcFpLWk15bXd0WmsxSlZTSnU2ZUtlbDdrVW1qVDR3a01PUGhhMzBmeHVsVnhydElwNlJpa3dHclNUVlVMZklybGFYX3V6ako2Znk1Zm1wSVY5Vk9tUXg1UV91T3I3UU0?oc=5",
+      "title": "Panathinaikos claim arena security laughed off racist abuse complaint in Bologna - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2NJcmxVV01kNnBLMk5rRkkwRmtQTkdtNzZNQ09jV3NYekdGcFZkQ2ZZTEJoODNlMy1oeVA1ZVFsamFQVzVwUnZ1MHdNbUpDdzVJSjRlZ0syb3YxTml6M0JnSTQ3SUFWZEVTQVNLX3Ewc3E5elF2YnI5Y2p6TklmUVFXUnFHSjA1ZnF2RUVQSURYblFDNVRRRDVqUURzNHVVd0E0VEFIMDJYQnhl?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Tue, 17 Nov 2026 19:28:45 GMT",
+      "published": "Wed, 18 Nov 2026 06:55:32 GMT",
       "base_score": 31,
       "candidate_score": 39,
       "priority": "Normal",
@@ -664,61 +573,60 @@
       "needs_second_source": true
     },
     {
-      "external_id": "b129e17c1c95342e3d8106e2",
-      "mode": "sportdog",
-      "title": "☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Virtus Bologna vs Panathinaikos Basketball Live Stream Free TV - Comité Asesor de Vacunas de la AEP",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZ0FLOGhZd1lBUXNVdHFjdnNPU1N1UTExUUJJMWtwdWNxYmVwWWx3bFdrZENDN2wtUEVRWGM4OWxGM0prdHdBckdWVzV6eXdpVXltd0tqVGw1WkRaX05ncXd3S2RZVnRVS1FfbFNwa1BsR1R2b2tJaWlmUkY2Z2xOa0VockZDb1R5cTRyUTJ5WlFQamZFd1NESjAyRnROeEN3SEVoWW9ESHBJVEdXVkdOWTh2MzlTSUNWc0I1V3ZPXzByUmc0VVlMSFRlZVpnS3pSeEFNSzJBSHFPYzJXQzdCWld0U1VyTWFvRFhHNEEyN1g2WDRSeVZzUUNhVHdkVXdSWFNnMEUyQlB1Rm1PQUh1WWlySG40UllLUHNpbEVfaTd6SmZVVXdNN3FkeHBvZWpzak4weGFVNzBSR2QwWjZ4aC1ORG82ZDdsUnZsdWhiR3pWV0ttY3J6eS02N3hZa1I3MUE?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Tue, 17 Nov 2026 19:28:37 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
+      "external_id": "f4bb1f2804d73a9ce1f92484",
+      "mode": "geopolitico",
+      "title": "Doğu Akdeniz'de yeni gerilim iddiası: Yunanistan ve İsrail’den ortak tatbikat - CNN Türk",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXNOa095WHI5alJ1SDVCdGdtOFlFOWRfVllPNTY5ZHUwTldMZldBYnd1Tmk1b29WRC0zdjhLbUFMSVlzUFpwN3dGWGVkbVZkNWlDVDE4RmpPZGhPMGZvZXpMTmJEZVBaYTQ2RS03SmJxVE1EM0QxVUg4UmlnWm5uWFd2elBzQlVMMUFLZ21rZjRmeVYxYXJjOHlJUnVjeHd6TlBTMGlRSQ?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 19 Nov 2026 10:53:19 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Panathinaikos"
+        "Yunanistan",
+        "Doğu Akdeniz",
+        "gerilim",
+        "tatbikat",
+        "ortak tatbikat"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "turkey_greece"
     },
     {
-      "external_id": "c43e9c538f50cf80df1424ec",
-      "mode": "sportdog",
-      "title": "Vezenkov pulls off half-court miracle before Olympiacos' last-second triumph - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGdtS09ZU0dIUUhsVElwSnJBVTV1SFdvN0pILXU5NVJPYnVoOWJ3cDJiX3FPTkc4MDRtZUh4c1pGWDg0RWRRZFJRck1NNDZIMkpKcDRIel80TVBsYUpZcFpnMmZGSWxTRnFsazRLZ0hiS3FNRmtxMDRweUtPQ2VGWE03SHZOYjFwb0NkMm9XbURJeGNEWkNsaXdlVklSZFVXUFZhLXRESTdjU2NkaVM1MWFxNndJdw?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 17 Nov 2026 19:19:00 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
+      "external_id": "a6ce48280b3f632547d70d20",
+      "mode": "geopolitico",
+      "title": "Iran-Linked Plot Allegedly Targeted Greek Jewish Leader Tied to Israel's Defense Industry - iefimerida.gr",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXNyb0JISmVta24yTlJTWDgyZWYzZF8wdWRyLV9QNnZFYWF1dzZtMjVUb3V3MFp3VXhTWWQzTXdCTTE3X3FGdkoyWG1haU1uWWpWOVB5NEtocHFteEZZYlZrb1h4LVVlX2Y3dk5aUkMxb0ZIYkNwWU93LV82b0dURHB3Y0VFTXd3NG11cmhpM01vWFF1Yk4yNnY4a1NfeE85ZWZZMjR1RTByM2ZoUDdkMWVTaWxQVWZpVFBr?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Thu, 19 Nov 2026 05:25:00 GMT",
+      "base_score": 100,
+      "candidate_score": 106,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Olympiacos"
+        "Israel",
+        "Ege",
+        "Iran",
+        "defense",
+        "industry",
+        "defense industry"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "news"
     },
     {
-      "external_id": "a889e07ba207b6e07211fe40",
-      "mode": "sportdog",
-      "title": "John Konchar returns to free agency after Olympiacos release - Yardbarker",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkxfY0JieDdZTmxHNUM2VW9WNkU0ZmhneEUxMXB0MXltLU5YNHVjRnQtX3VfaFJLdWNpR3FFUmwyZ0N5QlVKeEg0RE9jcVI1QnJOd0ZPM3E4c1FsalItMUk3d3IzM29LeDlFa2J4U3JQU0xfbTJLcXIzTDlfWlk2a2VuZ1VsOFRkTldJY1NxRC1YN0pGV3pMZ1dNWE5UbHlaQk5YYlpMNjFCQmxwMFE0ME9uTmdDWUxVMGc?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 17 Nov 2026 18:58:04 GMT",
-      "base_score": 31,
-      "candidate_score": 39,
-      "priority": "Normal",
+      "external_id": "b02e679d72fea5040662839a",
+      "mode": "geopolitico",
+      "title": "Yunanistan, İsrail ve GKRY'den Doğu Akdeniz'de üçlü tatbikat! - Türkgün",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdlFsYjBxbFp0U3c2SEM4WDhUTFFfZFlneUNOOXdXNWNnamExcnpTYS1pai1HWjFTWlVCZ0Q0QmtOd1ozNzA1Q1pDVnEyN0pMNGJOWlA2OVZGRWoxSVFvTnU4TWpnSHoyRGREeF9WODMwU0JTZV84WXoxY1NmVUZ0azBsMXZOQ0Y3U1ZtOWNoUXMySjh6N2drRkl3?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Thu, 19 Nov 2026 13:02:00 GMT",
+      "base_score": 90,
+      "candidate_score": 105,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Olympiacos"
+        "Yunanistan",
+        "Doğu Akdeniz",
+        "tatbikat"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "76201be621462a4795f62e3f",
@@ -728,7 +636,7 @@
       "source": "Greece Israel Strategic Watch",
       "published": "Wed, 18 Nov 2026 17:36:43 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Israel",
@@ -746,7 +654,7 @@
       "source": "Turkey Greece Breaking Watch",
       "published": "Wed, 18 Nov 2026 16:42:42 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Doğu Akdeniz",
@@ -758,40 +666,6 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "0dcf6a783d05029b02e9ca96",
-      "mode": "geopolitico",
-      "title": "Yunanistan Başbakanı Miçotakis, GKRY lideri Hristodulidis ile Kıbrıs meselesini görüştü - Kars Manşet",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkxra2IzUHpyWXpmT3p5Um8wZkQ3LUtGNzMzQ2NsUFlOa0V5NGRmQ094TmJUZ25keVZ2ckxrdFFJLTlZaU1STDg0RVlLdUJHZlNTc3lTdTU0bXlEU29YX2prU1ZmRnpSNXg0RktOa0o4aXY3LXZSUFdyU0dvU29RX2h5ODJIUmpyU0p3dVgxMXdUZm1ZbFdybG0ySEtjME5JMVVyclNiRDdqV2tyRlFKakxQZGJGd0RfdWhoazZhMVpBQdIBwgFBVV95cUxOdkxra2IzUHpyWXpmT3p5Um8wZkQ3LUtGNzMzQ2NsUFlOa0V5NGRmQ094TmJUZ25keVZ2ckxrdFFJLTlZaU1STDg0RVlLdUJHZlNTc3lTdTU0bXlEU29YX2prU1ZmRnpSNXg0RktOa0o4aXY3LXZSUFdyU0dvU29RX2h5ODJIUmpyU0p3dVgxMXdUZm1ZbFdybG0ySEtjME5JMVVyclNiRDdqV2tyRlFKakxQZGJGd0RfdWhoazZhMVpBQQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 18 Nov 2026 13:12:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Miçotakis",
-        "Kıbrıs"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "413f5e06399d707ef4fa049b",
-      "mode": "geopolitico",
-      "title": "Yunanistan Başbakanı Miçotakis, Limasol'da GKRY lideriyle Kıbrıs sorununu görüştü. - Mersin Haber",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWVqVjhvNHFOb1BSc0VmcHVFOUpVNjJtalRKNldPRktPWFVZWmY0dkhVcmJ1am5ITWtYMi1yZHNRbHV4U1hmcVo3UlkzM1VyYlhBZWN0QjRaT2FfTUgyb1NyNWd3UmlkY1VWUm5rUUg1SC1Qb1o0d0JRaGZaSnlVR2kwdGFLWjVvY1N5Si01bW5FUEpMUnFMWEFnbUtPR0hJTTVSRFBIbjIyR09jTmVfbkpiVjVlc2pUMm1nNm1pTVlRTE91THFfTUtvUVVDTEnSAVdBVV95cUxNeG9WQzVTMWwtNXFQRUxaNkRBdmZJbjZBV0NfMGdJTTJGMUp2MmxMeGJHWFNWcXJYMHAya243OGNIa3B0TlhrejV4eUc0LWExQ2F2aXZKX1k?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 18 Nov 2026 13:12:00 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Yunanistan",
-        "Miçotakis",
-        "Kıbrıs"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
       "external_id": "e6ce71e0229a96450e6fb7c4",
       "mode": "geopolitico",
       "title": "Assassination Plot Against Israeli Businessman Thwarted in Greece - Israel Defense",
@@ -799,7 +673,7 @@
       "source": "Greece Israel Strategic Watch",
       "published": "Wed, 18 Nov 2026 12:03:29 GMT",
       "base_score": 100,
-      "candidate_score": 106,
+      "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
         "Greece",
@@ -829,38 +703,20 @@
       "content_type": "news"
     },
     {
-      "external_id": "5a0341ae927cb49601944a4a",
+      "external_id": "db93ab768cd201bd0ea17236",
       "mode": "geopolitico",
-      "title": "Great Sea Interconnector (GSI): Ελλάς-Τουρκία, εντυπώσεις και πραγματικότητες - Defence-point.gr",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXJ0LTNoLXB4Q0xOVmZnRW56RWdqYmZOb0Q0aTRURENfN1JZWHFneHV3UmRleTJjbHg2NkxRTzZMOTJHc013bm1DNEdSZC0wc3VnTF8xR3EwbmZwVURmSmdXSjNCSTdIb2NjVGIwNU90eVpGMUFYaEx1UUVnRHg4azVYTXJjMTlWMDFERXA0M3gyYllLWEFZVVVnMENtb1RiVERTbA?oc=5",
-      "source": "Defence Point National Watch",
-      "published": "Wed, 18 Nov 2026 06:12:31 GMT",
-      "base_score": 99,
-      "candidate_score": 102,
+      "title": "Cyprus and US Energy Ministers discuss GSI at meeting in Warsaw - Cyprus Business News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVluT2hrT1Z4LXdMMmZDcmgtMW1PS3RqS0xRN21aRDZTQ2piTTZrTGZoSFR0TWVUZXR5TUtwUXJ5VW4yV1gxMWVlV3MxcTlsb1dUMndaaUdsOHRlOHNrRk9PSzk3SXl6SzJwckhVTWI3ZWhJZ1JmaG55MVhpYWJzT29XUVAtckdDaXZvT25DVEEybjE5LWM1OGhkQlpjbjVFdmhR?oc=5",
+      "source": "Greece Cyprus Israel Watch",
+      "published": "Thu, 19 Nov 2026 13:21:16 GMT",
+      "base_score": 86,
+      "candidate_score": 101,
       "priority": "URGENT",
       "matched_keywords": [
-        "Great Sea Interconnector",
+        "Cyprus",
         "GSI",
-        "defence",
-        "Great Sea Interconnector",
+        "energy",
         "GSI"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "a66833f2ee7dcb8154c50451",
-      "mode": "geopolitico",
-      "title": "Divorced, unemployed Indian women in ISI’s crosshairs as Pakistan handlers flip honeytrap playbook - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3JpeEpLQVhOdkFCcm1GZUhlUmdVYlRtdkFhSGFsMWlYSk53YmN4Y0N0N3ZEdzd6YWJmaFdKZjl2TmlEd1JRc21Wa2JReDV3MWRrbHdhREgzdWJhVUFkV2FBd3JyanB2SWJPWGRJMTJEZjlkeTlkZU5jWXl1Zm10ZHJWQlAxSEJHUFQtZ0ZfZ0JUckE3ZzFRTDB2N3BtU3dFb29Za3BOQlU3TDlyOWNYRVZNejh4Y29SUy1wUl92Yzhsemo2Ul91VU8tNNIB0AFBVV95cUxQWlpfbGc2aC1aeHVEZ05SWm11MUFVeXp1ZnBwVzhLY0swZi1oZTNQWThqUnJja2ljTUZ4TEdqUXRpb2g2YV92RlBUN1NLdGt4X0tMSlBNMnFVMmxxQlhLbUhNMHZESU0wM1gzcTVCUG8wZUVfNFFubjVnU3VqNHFGMGNvVlZvdUpjTTdEZ2Q5cmF1OE82S0JUTTFleEZlNFBZZ2NqYVozSmx5WnJkWXpNTXhUX0xFc2tXYXRyUEYxMG16U2NxeTJYMFY3UWthS2lW?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Thu, 19 Nov 2026 03:30:01 GMT",
-      "base_score": 82,
-      "candidate_score": 97,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "ISI"
       ],
       "content_type": "news"
     },
@@ -882,20 +738,71 @@
       "content_type": "news"
     },
     {
-      "external_id": "cb2f985404c609604fc03d53",
+      "external_id": "d4256af467af31bdb9e20fb3",
       "mode": "pontos_voice",
-      "title": "Trabzon’da olaylı maçta 4 sevk kararı!",
-      "url": "https://www.61saat.com/trabzonda-olayli-macta-4-sevk-karari",
+      "title": "Δράμα: Η θέση της γυναίκας στην ποντιακή κοινωνία μέσα από μια ξεχωριστή εκδήλωση των «Κομνηνών» - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVJsMFdUMm9vcEF4TXNuRElCSmllWVRRSHZINmQ3VFBiUHB5TVhkNWEycWd4RmIzUUlKbG9JSnUxS1ZjeDV3Z1hkM1UzQ1E4Sk5XV2pMWUdQNXR6UV9qdm1pOUkzeXYtcllXREVWLUFfSFFqV2tyQV9pandHbnY2VFZwYUg2cTVkTE5vdTRWdmZZUmFidjdHRHFYNjFoMkhw?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Thu, 19 Nov 2026 13:12:26 GMT",
+      "base_score": 69,
+      "candidate_score": 84,
+      "priority": "High",
+      "matched_keywords": [
+        "Pontos",
+        "ποντιακή"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "24cea0407c58bc7a42be5db3",
+      "mode": "pontos_voice",
+      "title": "Şehit Kaymakam Safitürk'ün ailesinden Diyarbakır Valisi Zorluoğlu'na ziyaret",
+      "url": "https://www.61saat.com/sehit-kaymakam-safiturkun-ailesinden-diyarbakir-valisi-zorluogluna-ziyaret",
       "source": "61Saat Trabzon",
-      "published": "Wed, 18 Nov 2026 22:01:00 +0300",
-      "base_score": 55,
+      "published": "Thu, 19 Nov 2026 15:13:00 +0300",
+      "base_score": 51,
+      "candidate_score": 66,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "Çaykara",
+        "Trabzon",
+        "vali"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "b1419751899b84af7aca956b",
+      "mode": "pontos_voice",
+      "title": "Suiçmez’den Can Atalay açıklaması: “AYM ve AİHM kararları uygulanmalı”",
+      "url": "https://www.61saat.com/suicmezden-can-atalay-aciklamasi-aym-ve-aihm-kararlari-uygulanmali",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 19 Nov 2026 16:07:00 +0300",
+      "base_score": 49,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Trabzon",
+        "milletvekili",
+        "açıklama",
+        "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "9b416856ae0d58e7e4f59a21",
+      "mode": "pontos_voice",
+      "title": "Trabzon Ticaret Borsası'nda yeni dönem! Fındık ve tarımsal üretim gündemde",
+      "url": "https://www.61saat.com/trabzon-ticaret-borsasinda-yeni-donem-findik-ve-tarimsal-uretim-gundemde",
+      "source": "61Saat Trabzon",
+      "published": "Thu, 19 Nov 2026 15:25:00 +0300",
+      "base_score": 46,
       "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
-        "Maçka",
-        "Trabzon",
-        "dil"
+        "kültür",
+        "Trabzon"
       ],
       "content_type": "news"
     },
@@ -907,62 +814,11 @@
       "source": "Greek Press Pontic Watch",
       "published": "Wed, 18 Nov 2026 15:25:00 GMT",
       "base_score": 54,
-      "candidate_score": 60,
+      "candidate_score": 57,
       "priority": "Normal",
       "matched_keywords": [
         "Τραπεζούντα",
         "τοιχογραφίες"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "a3b7c5c2a2b3c1a23f46caf4",
-      "mode": "pontos_voice",
-      "title": "İYİ Parti Trabzon Milletvekili Yavuz Aydın’dan İl Sağlık Müdürü tepkisi - Haber61",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaEpSdkVwX0lQZUZkZ19hbnBxaEZIbFE1d3dqWENPUzk4ZXVWSGtLamYySzJEU2x2dWJjUGZTVWMxNVJmSk5jTEV1UmF6VENCUzB3Q0xpOVVWM2h1SjRDU0JUTzF4RmhNSzczdndzMjNyTHNzSlVkQ0JEcF9zX2Zfd2pQazlQeWNRekJCZHBXVHR4VWpjUU1NLTJCNW5uTnR6MFNqQnJJbmYxNmVUYldn?oc=5",
-      "source": "Haber61 Trabzon",
-      "published": "Wed, 18 Nov 2026 09:25:00 GMT",
-      "base_score": 51,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "milletvekili",
-        "tepki",
-        "Trabzon"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "a8caf88dc2ef479d0d551e9b",
-      "mode": "pontos_voice",
-      "title": "Βουλή: Με 137 «ναι» η Εξεταστική για τα «κόκκινα» δάνεια - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3JOTzBxRjlsUE9uOE5yY21ZMnZrbDl0S2VseTlsVmZJVkxoUm5uR2h1SnBPcVhKSi01emtkZE96UV9qN1ppakp5MkRvV1RqVkJYRDdKS2ZiR3J4UTl5WWVTQVQ1UHRSeXFDc052NkxUVTIyLXlTQ09MOXZTbXpMOGZQbDUtWDh2OFNVUWhfenpZaUdqTmJQMC1R?oc=5",
-      "source": "Pontos News Watch",
-      "published": "Wed, 18 Nov 2026 17:39:44 GMT",
-      "base_score": 46,
-      "candidate_score": 52,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Pontos",
-        "Βουλή"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "303ad59a2452c23881ea3036",
-      "mode": "pontos_voice",
-      "title": "Trabzon'da Mısır patlaması! Kalabalık herkesi şaşırttı",
-      "url": "https://www.61saat.com/trabzonda-misir-patlamasi-kalabalik-herkesi-sasirtti",
-      "source": "61Saat Trabzon",
-      "published": "Wed, 18 Nov 2026 19:49:00 +0300",
-      "base_score": 46,
-      "candidate_score": 52,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Trabzon",
-        "anıt",
-        "Trabzon"
       ],
       "content_type": "news"
     }
