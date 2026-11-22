@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T08:47:16.343652+00:00",
+  "generated_at": "2026-11-22T16:45:15.089051+00:00",
   "counts": {
-    "sportdog": 11,
+    "sportdog": 14,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -15,7 +15,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 21 Nov 2026 10:35:00 GMT",
         "base_score": 94,
-        "candidate_score": 117,
+        "candidate_score": 114,
         "priority": "URGENT",
         "matched_keywords": [
           "Olympiacos",
@@ -34,9 +34,9 @@
         "title": "Mateo Kovačić Transfer from Manchester City to Panathinaikos - TransferFeed",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDAzeFJOdUI4cW9WRFROcDNqdmdTeGFLZmRzYldVNnJsRnFrblplVmlWVG1qUHk0UGhzeHlvMDhheG03NWNUdWs1bHNoUEFDY3F5LUZoODJjM0Z3bEZ1dUR2c0hrVjdPOVRDXzBHZDhyU0xHRVltT2NScUJVOTJ3OGIzNDVoVTZJOXBoVWtnQ3NqRU9nalE?oc=5",
         "source": "TransferFeed Greek Super League",
-        "published": "Sat, 21 Nov 2026 20:16:28 GMT",
+        "published": "Sat, 21 Nov 2026 20:00:39 GMT",
         "base_score": 58,
-        "candidate_score": 84,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -49,22 +49,62 @@
         "needs_second_source": true
       },
       {
-        "external_id": "466f234c2c33499c104e162d",
+        "external_id": "44bddd78da6b190b74332c98",
         "mode": "sportdog",
-        "title": "Kalamata vs AEK Athens: Greek Super League stats & head-to-head - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0VEctNW5vLXNCanJxdDdEVDhfdHhXdnVNanV2M1Y1NlR0NWVLTlk3d1NNRW1UVXBVS293dUpPcFE3NkFwZWpMMG5zLUFIVDF4aEN5a0hTcU1DZm01aWFvZDlVcw?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Sun, 22 Nov 2026 06:42:08 GMT",
+        "title": "Martin Erlić Transfer from Midtjylland to AEK Athens - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVNtN3U4RDhtc3V1aEotQXYwdk9aOFFJYlpLY3d2NTZPOFNFNUo5SHJ0Z3EzVkVPZG53MkFkOThBdmllc0JyOXFqQjAxMFBtczBTZWRtbGEzX0JEeldRMm9weHV4M0pFY2hnS21fLUpRd0tzN2NTMlhOcEVBb0dMVXdPZFhPTlVSVFdz?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Sat, 21 Nov 2026 12:00:42 GMT",
+        "base_score": 58,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "6a56ed5c61043af840f8d31d",
+        "mode": "sportdog",
+        "title": "Zois Karargyris Transfer from AEK Athens to OFI - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTy1uNXFBTHFwcFQ4UWxFdDlUU3BCLVZkVHpRUnNzdnJPazBWM3V0RHEzUE9EQVQ4YUgzUHQyc2U1a1hjbmhKQkg2VHllbUluaS1zWmV2VjkybGhUMy15U2tHa2FFWGJfRE9WdENNRzdqdmczbE1uNFNMdzVmZHJUS1VPWnFsM2ZUejh3Mm5BRXM?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Sat, 21 Nov 2026 11:54:56 GMT",
+        "base_score": 58,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "00e2a40b3ce6f4a3cf43c0ae",
+        "mode": "sportdog",
+        "title": "Panathinaikos vs OFI Crete: Greek Super League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LYzVGRm50dDhkQlk3LWgxZzZoLTV4X3E4ZFE4WUZoWk5HMmdMYWdkSzhLTkl2NFNuYW8xUjRhSzlxMTV5dDNFUUZpYWR4WjVJVEhqLWxNNm94d0N4YXRnMzJuQ3F4dw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Sun, 22 Nov 2026 15:04:13 GMT",
         "base_score": 56,
         "candidate_score": 79,
         "priority": "High",
         "matched_keywords": [
-          "AEK",
+          "Panathinaikos",
           "Super League"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "AEK",
+        "team": "Panathinaikos",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -76,7 +116,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Sat, 21 Nov 2026 09:40:57 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 76,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -89,42 +129,42 @@
         "needs_second_source": true
       },
       {
-        "external_id": "690aaff4924337b475c7a303",
+        "external_id": "466f234c2c33499c104e162d",
         "mode": "sportdog",
-        "title": "Date Set for Olympiacos’ Derby Clash Against Panathinaikos in Greek Cup - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUEVyUTViXzB1MFZXRHBLclFKRDhJSGZ0bEd1dThKRWdlWnZCMDdzQVNibkpHOVZodnBTeFI4VW9XQ09zVzlaUmFlRWpWTHpKdXhqSXdmVHJJcFpvTWlUUG5haW02Y0E0eTA1MG9PbFVqbGFIYTRIVm0wdi0yREw3UktDZGdXQk82QWxWdWhYQS1hVHR2aFNLYlNiUUlOeHp5ajZFdzhUZS1BRHBKeXNkZVJ6UTMtTVQ3QlBHUGYteHhncnVHRmc?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 20 Nov 2026 23:52:16 GMT",
-        "base_score": 62,
-        "candidate_score": 78,
+        "title": "Kalamata vs AEK Athens: Greek Super League stats & head-to-head - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0VEctNW5vLXNCanJxdDdEVDhfdHhXdnVNanV2M1Y1NlR0NWVLTlk3d1NNRW1UVXBVS293dUpPcFE3NkFwZWpMMG5zLUFIVDF4aEN5a0hTcU1DZm01aWFvZDlVcw?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sun, 22 Nov 2026 06:42:08 GMT",
+        "base_score": 56,
+        "candidate_score": 70,
         "priority": "High",
         "matched_keywords": [
-          "Olympiacos",
-          "Panathinaikos"
+          "AEK",
+          "Super League"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Olympiacos",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
       {
-        "external_id": "bed088741565d0c5e879513a",
+        "external_id": "80450d8212188a532aa95037",
         "mode": "sportdog",
-        "title": "▶️ Watch Olympiacos vs Iraklis Live Stream | Predictions & Tips - 22 Nov - FootballPredictions.NET",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHBoUFY3cXlkanF5RlluS0s2bi1iS3ZZOFZhMTJqNU9iSlpPUUpLQUtBYlBoZWNkOXZfR1BfdjhKZDRCdzJ6bjl1OTdnM0U4WHRlUkJfZU9yWnNQUnRsNy1ibUpxSlo2dnhfSzBVM1RZLVZwMkY1TldIQ3NHM1RCNU00MA?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sun, 22 Nov 2026 07:17:32 GMT",
+        "title": "Como vs AEK Athens Prediction & Betting Tips | 24/11/2026 - FootballPredictions.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXy1Nb2dDM2hyWXdDdmM4NUV2cFBmNkpIUkpsTDhZMlFQNnRWaUl4ODlHTjNJVTBZRnpYNXFWTVpCTTJlNi1YNF9iWl9uNXYwZnVzYjh5WGYyVkxrWi1jdjhQdTU3Nlo3RmxzSDBtejhPOXdpMjJOa3ZwMmpnV2V1cVBFckJjUl85b1YzQmRCVFplY3ROMG1Jb19RTUF6RzZLUnktVVB5U1JSdnBxTVV0SVJtTmhsNmVRZnBabA?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sun, 22 Nov 2026 15:13:43 GMT",
         "base_score": 41,
         "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos",
+          "AEK",
           "football"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "Olympiacos",
+        "team": "AEK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -149,12 +189,50 @@
         "needs_second_source": true
       },
       {
+        "external_id": "7a3ac56a1bd584a2792f0633",
+        "mode": "sportdog",
+        "title": "Como v AEK Athens Match Stats, Hit Rates & Bet Builder Data - Andy's Bet Club",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSDl4SWE0UFBfb3V2NUYzc19vb2NVaEZ5SjhSRGVnSUtPcUtYOU1XWWRxamNDeDJPSklPTjNUVTN2RTAzd3Z2OWJWbUwxZnFfNi1COURWZlBfNS1ISTNJUUNRUnNJdGUwcTFfVDkzZmVPSTdGMHhJSW84TkU3eDVfZG5pem9GdzRzelNN?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Sun, 22 Nov 2026 16:35:10 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "AEK"
+        ],
+        "content_type": "news",
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "16db7a0d7c1d61757bfde30d",
+        "mode": "sportdog",
+        "title": "Iraklis +2.25 recommended for Olympiacos Vs Iraklis clash at Karaiskakis Stadium - شبكة تواصل الإخبارية",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rd2M5d2lhRHM4MTFjVW82dkpTVmVpUkpvVkltQV92RlczY3dISGxtR3RKM0Jia0dwUmN0WXFuZWlJbTUyLTZJcWZJV3NINFhVc0lz?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sun, 22 Nov 2026 16:23:47 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "WATCH",
+        "needs_second_source": true
+      },
+      {
         "external_id": "3c67165b49fa51106bd93315",
         "mode": "sportdog",
         "title": "PAOK vs Kifisia Prediction, Betting Tips, Lineups & Odds | 22 Nov 2026 - Sportsgambler",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1NYV3RPem43QXFQZzlZLXVUOWVrZlNfOTBoOFNZcDVOWEd2ZzZLLWhBelJrRm84M21VNmRkeTIyYVktMVlpd2dKVGdrZlpQVjRNQjZZRlFGWXdHMHBPdVJwVWZwT2xobEIyenBidGpnQ0FOV2pVSGRjYmZuTVlTcUlpSXNTS09pVmhHV18xZG5iZ0phNU16TnRvY1QtdEJGbmFLN3p3?oc=5",
         "source": "PAOK Rumour Watch",
-        "published": "Sun, 22 Nov 2026 07:07:13 GMT",
+        "published": "Sun, 22 Nov 2026 16:16:20 GMT",
         "base_score": 31,
         "candidate_score": 54,
         "priority": "Normal",
@@ -173,7 +251,7 @@
         "title": "Panathinaikos vs OFI Prediction, Betting Tips, Lineups & Odds | 22 Nov 2026 - Sportsgambler",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmprV2JSdGFBNDluNHJUYXZMUzdBMkJNNXo4Q0hEa05UUG1oelJNUXdZdzQ2SHA2WkJveV9qcGNzdDE4emdkTWhFQVdKRGtRU29DaDF5Y2lvVFlSVEhLS1RBVVp0NFVKajkzdFZxR1J1RjA4ckQzVkh5RGV6RmhwN3NXMkYxMDhpazVrMnFKVW5DaXZieEp3eGozWG9SSzc5MVQ1eFU4bVlWUDc4?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Sun, 22 Nov 2026 06:08:48 GMT",
+        "published": "Sun, 22 Nov 2026 15:12:57 GMT",
         "base_score": 31,
         "candidate_score": 54,
         "priority": "Normal",
@@ -187,46 +265,100 @@
         "needs_second_source": true
       },
       {
-        "external_id": "ded85b1a8bcaddf455d40f47",
+        "external_id": "ccd66131da10a99fa3004b91",
         "mode": "sportdog",
-        "title": "Brazilian Midfielder on Olympiacos’ Radar - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2NnOWVORnUzaW1nbzZ6SlRUVElpMm5DdUdjejhjYnBoWmcwWi1wMVE3UTA3a2JWT1pLLWQ3Nm9kWmt6VmNaaEl3V25vMVFPVWQtZ2pST1Zxam92M3pnQTE0Y3hDdm9wSGNvQV96elN2REJpR3JHcVNNTGdWRnVMWDBta0o5T28wTWZvQmJWUmFBSTgxSG9BZVZmUEZsQQ?oc=5",
+        "title": "Sources: Inside Olympiacos' Interest in Chivas Duo Santiago Sandoval & Bryan Gonzalez - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3AtMDR6LWtWTFBfbzNSTU5TS05TS1hwZXRJMnN5M3BGZW1oa2RvTkI3ZkxLby1vYjB2UlV2Y09wMWJiX3pZQ29hdkhLSVdsNzhlVThJazVGeHlTSHFHSi1JUWtCWTVpS2ZXWVBrTUI5NW5zdThnQUwxYkFCQ2JTUHN1dXh3QVM4RFE4clhtbGc5b1FsSVdyNk9WQkYtdXR0Ym4xYk5heHVYbEU3MGE4Q3NrVENtc2xlZ24yOTZKdDRTZVg1Nk5mdVRram9seS1LOU9iWg?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 20 Nov 2026 22:17:36 GMT",
-        "base_score": 39,
-        "candidate_score": 47,
+        "published": "Sat, 21 Nov 2026 20:07:39 GMT",
+        "base_score": 31,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos",
-          "midfielder"
+          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
-      },
-      {
-        "external_id": "37a6c7802e77e2e08603d455",
-        "mode": "sportdog",
-        "title": "PAE PS Kalamata vs AEK Athens prediction – Odds & stats – 21 November 2026 - Wincomparator",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95Y0FmcE15alJncmViWmVBcEtXOE02ZDh4dW5OcTgwakR2cml2dklTb3h0NlVuTkRLbElEUXBVWThsYmhMUkJYN3N1ZU0tX3JwaWlMTlpwRW5STmJFeW1ldVVpWWEtZlRFMnpZYnBwX3AzWUtjUWd4OUNNX3pEUQ?oc=5",
-        "source": "AEK Rumour Watch",
-        "published": "Sat, 21 Nov 2026 05:30:00 GMT",
-        "base_score": 31,
-        "candidate_score": 42,
-        "priority": "Normal",
-        "matched_keywords": [
-          "AEK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "f87fa8d7d9f7d655c17ea966",
+        "mode": "geopolitico",
+        "title": "GSI projesinde Türkiye, Yunanistan ve Fransa arasında bilgilendirme tartışması - www.kibrisgercek.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONG9JWkZyMnpKM0Q3c1dYVm5aYTJPeUx4a0FnZjNBckZlQmJyS19oQXpNckZhODRkZEZGWjhlbVNMcHY1RHpiNjVYMXhfcHlHZkdVOFh3S1ZybVhfcEhLNUNwb2JaWVpiVW9Ha19vOGdxWTQ1bGVIa0ZVcG9YRFNMbThJcDNqU0RsaVlOTkVkaGxfWk5vS0pHQl9VUmJFdmRYNUJUWk9Ib1FfZw?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sun, 22 Nov 2026 14:28:33 GMT",
+        "base_score": 100,
+        "candidate_score": 115,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Kibris",
+          "GSI",
+          "Fransa",
+          "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "c70348d5c917ead86b190e53",
+        "mode": "geopolitico",
+        "title": "GSI projesinde Türkiye-Yunanistan-Fransa hattında dikkat çeken gelişme - Kıbrıs Postası",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ1pzUXJTS1I2bUdOcUJEbVVCTXVfZ0NRWkR0THhyRUxIM0xTR1BvQjZQV1RjbkhwZ2NtYUFBcnVIb2dDRWlLUXVaUHlfVDRHeGpWU08xUXFXV0xTZnBGV0oyeWxDMkUzUnl2MlV0TFpFWDY3aGZWVmJlOW05ZU9VdmJYM1IzWkNBOUl3MkZKeGdzVWdGamgwbHNveS1FLVdpVmJCakFDTGhWX0xqMDZPQllLVXNXNUN0Wi1Rc1RzUTU?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sun, 22 Nov 2026 12:05:00 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "GSI",
+          "Kıbrıs",
+          "Fransa",
+          "GSI"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "0d1fe8fe79bdb0032a959b22",
+        "mode": "geopolitico",
+        "title": "Ege’de 12 mil gerilimi tırmanıyor: Yunanistan, Türkiye'nin 'Casus Belli' kararını hiçe mi sayacak? - Toplumsal Haber",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY1JyeVJmbFFpYWdFTnBEeXM0QUVBZk13dWhIZDZNcGZPSDFoNHpnVi1vSEdkcUNCeEhoSElhZFc1ZFpVTFhSZjE3b2lObjR3U3hIcXYtWkhxN3NCX1JCQ082RHhtTnl5QTU0eHlWcXZTOEVHOEJ5UEcwYmd1cHR4WDdJeGhCSUJ1X09sSkpSdVp1bzhuQUpCWHpiN1Z3Q0tYX016VmxJd3FFODVBZWUzb0d6ajhyc1RmMnZYWFFvaHlVLUt4V3RHaGZYUTNRejhK?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sun, 22 Nov 2026 11:34:00 GMT",
+        "base_score": 100,
+        "candidate_score": 110,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Yunanistan",
+          "Ege",
+          "12 mil",
+          "gerilim"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "9d943dcacfacb05b04343760",
+        "mode": "geopolitico",
+        "title": "Greece in talks for another €1 billion in Israeli defense deals, report says - CTech",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc3VfM0NfTThHQzVWMW51RVRPZ0J6YUstMEhkX0hZOUFPZ0JmaFE0R2FsdUoxSEFrTVlHM2Q1U0xKZm1xdEVHTjNXc3dKZXE0TnJLbnpKS1AwdFd1eERRWllyWUtxN2c?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Sun, 22 Nov 2026 09:44:00 GMT",
+        "base_score": 96,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Greece",
+          "Israel",
+          "Israeli",
+          "defense"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "0ea23e9f927ea3e76f7fb79f",
         "mode": "geopolitico",
@@ -235,7 +367,7 @@
         "source": "Pakistan Turkey Watch",
         "published": "Sat, 21 Nov 2026 17:06:22 GMT",
         "base_score": 98,
-        "candidate_score": 104,
+        "candidate_score": 101,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -247,122 +379,54 @@
         "content_type": "news"
       },
       {
-        "external_id": "d7f6f9c96f8c0c770bfecbf1",
+        "external_id": "12e162a759c4470e257430e7",
         "mode": "geopolitico",
-        "title": "Rum yazar Güney Kıbrıs'ın savunma harcamalarını eleştirdi: Milyarlar harcamak askeri güç dengesini değiştirmez - Kıbrıs Manşet",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNGJSWE01cF9pUXBENEdCRWtOcVAyZkVDVnZtZ3F5eVl2YzExVFMteHdxNU0tSUEzT2RRV0p6eGFjQ1pOS1lCWHYzM2JIUVhNaWlIMlVMY0lXeUlhaFVpUFVWemg1SEFmZE5oS2djYnE3Umt2emQwYk9aVTN2VVJ6Y2dDMFlDX0tnN1R5WFJpNjREb3FMeXZ4d0F1NlpjRDZJbWxOb3NiYkptODFyZlZoc2V5ejBNSlN6clM0OU9PSEVFWHNPcDU3VXBPZm1GX1dBcFVj?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 21 Nov 2026 19:01:00 GMT",
-        "base_score": 94,
-        "candidate_score": 100,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Kıbrıs",
-          "Güney Kıbrıs",
-          "savunma",
-          "askeri"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "b5fd97bee73abd9434399fc0",
-        "mode": "geopolitico",
-        "title": "Greece, Israel, Cyprus project strategic reach - eKathimerini.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSndNd1hzM21Cc3A2cGxZSjJ2Z3NZa1lnT01mcGR0TzhwOEhPM0Q1RXU4Wl9TNlhpdVhxbDBGcFd0bk01NWpJUkxuR1ZxdG1uQ2ZCNlg2Y2ZrZEZUb2NSYl9KNjlMazdJMUxJR1NXaXlUTEk1b2RXdWtnN0F1Vm16Yl83aVhrTTR5VkxsRWJmcGNSN0V1b2g5Rmdtclp3c2JRQzI0ZWpCYzhwQQ?oc=5",
+        "title": "Greece Seeks Israeli Arms Deal Worth Over $1 Billion - JFeed",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTDQ2bTJMTnhpaVZSSW1xQWtSajNZWjA1UEcxaDk4UmlORG16dmtMWHBGa0tLM2haN0hIMWd0M2dwWkx6dUp0VWpxYzhFVWlUQXROWUZNaVpZX1doY0VfVGlmdDM3TTlOZmdEZG1WRVdiQ2g1R3Nvc3hiOVNNdVg4Qlhn?oc=5",
         "source": "Greece Israel Strategic Watch",
-        "published": "Sat, 21 Nov 2026 08:36:01 GMT",
-        "base_score": 90,
-        "candidate_score": 93,
-        "priority": "High",
+        "published": "Sun, 22 Nov 2026 15:21:00 GMT",
+        "base_score": 84,
+        "candidate_score": 99,
+        "priority": "URGENT",
         "matched_keywords": [
           "Greece",
           "Israel",
-          "Cyprus"
+          "Israeli"
         ],
         "content_type": "news"
       },
       {
-        "external_id": "63b880140ab48507b9bcef36",
+        "external_id": "555cb5ccfc0812c9f356229e",
         "mode": "geopolitico",
-        "title": "Yunanistan Dışişleri Bakanı Gerapetritis'ten 12 mil açıklaması: 'Seçilen şekilde ve zamanda gerçekleştirilecek' - Bundle",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVUVINnFleDFBLUZOSXJtbVdKaDlSV1lJQXdSWm00NkJ5a2FuX1RQbE00WlFrc1luYWJHRURxdWZBNG13RUlkQ2tycl9iS0dWRG9NaEh1NE9WQkN5bFlVUWlMLWVPY2RFYjZLdmR3VU9teWdyQlZabkxtaXBXMGRIODV2cHcwMWZCcEpPeHpXeS05d25SRUd4ZVZzU0Z4dXZ6WkF1bnBGbS1oTFVJQkVNR0djVnR0WkljdVZFMXJVNVlGYm9SUkNIUERKWVVzZG9ndzB0WjlDQUpuV2hObFN6RUFSWnB1U2JMeGdaLWd5UF9WRktJb2RuWWJLOUdKUHYySVZBdzVmeXk?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 21 Nov 2026 15:50:56 GMT",
-        "base_score": 85,
-        "candidate_score": 91,
-        "priority": "High",
+        "title": "Greece mulls further €1b defense procurement from Israel - Globes - Israel Business News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMUc1VmVMTEk3aHdPendsOERkSHgxNGJEelhZMlExTDFaR0gzdkRTRTRLdGJ3bGlGVXg1TjJxcEp6RlhaUEZEMmxsNVE4UXI0aEZGTEFYYzc1dmpFREh6dm10VFIyeS1WaUpiVVlKenE5ODYxOHJTZTU5SVdPeDVtZklPeF95TnFRUlNlR2d6NzlmT2VHajdVVXl4RjBycTl0bFBLamFUMktoWVg3Nlpv?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Sun, 22 Nov 2026 09:53:50 GMT",
+        "base_score": 86,
+        "candidate_score": 96,
+        "priority": "URGENT",
         "matched_keywords": [
-          "Yunanistan",
-          "12 mil",
-          "açıklama"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "07eea1fe8fd19c9bc0a5b1cf",
-        "mode": "geopolitico",
-        "title": "Türkiye 'casus belli' sayıyor ama Yunanistan vazgeçmiyor! Dışişleri Bakanı Yerapetritis'ten 12 mil mesajı - Aydınlık",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUzZZNlloU1JxcWowUVlqYm5zeF9uemUtamNUYWw2OUVGNk5qNlg1THg0a2JTRnlBSDhvSlNhdEFPTlN2VVprWWJ4SnZYUkU3Q0FnN1pfMllUYUgxMnNKUmZwUXFDTDJla0ZrUkMyTmR1SnhJZGVOcWZ5a3BuTy11VFhfX1czd1NpbzNOTGhWSDVCNUtIWFhiNUdVaUx3M0hfRlNmeXdSQlRRSm45R3d6cGlJRXpFOXFyRDZlY25heW9rNGVRTmZjeTFMOGpmaFdIUWkwV1BLb09QUQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sun, 22 Nov 2026 06:28:24 GMT",
-        "base_score": 75,
-        "candidate_score": 90,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "12 mil"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "fbbf82662115cdaa42d8cc6c",
-        "mode": "geopolitico",
-        "title": "Atina’dan karasularında 12 mil mesajı - Hürriyet",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkhYSjBDQWQ5NWxDbWpJd19qeW1TV0Z6M2xMWjdOd0tQdExHMXlydzcwZWUybXM4cW5MX0JYVXlpZkNFejYxYlZaNjU4YWdsVFBwYm1ieUxuazFNbUNSM1R1VU5ZZ09XYXh2Q2V6YUV6ZjhUdFFCQThDNFU1SkNpbXFlQjdPdw?oc=5",
-        "source": "Hurriyet Greece Watch",
-        "published": "Sun, 22 Nov 2026 04:25:42 GMT",
-        "base_score": 77,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "karasuları",
-          "12 mil",
-          "Atina"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "69509d6cfcef034317115916",
-        "mode": "geopolitico",
-        "title": "Kıbrıs-Girit hattında iki kablo, tek gerilim: Yunan strateji raporunda Türkiye - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmZyTUZ0V3Y4d0xyUXV6YlpKU3JVTkNyTmJZRmhINnAtWlFZM1NJVUxWMEUxUVkwNngtSEo5bXppM3hxUzBudnVyeVAzS0oxUnBLRjY2YUFfWUlrTm0wRE9ic1FjRXJZd0RSYTVEYS10RzJmdkpQcEJBTHhGc1RJMENXMlVuXzlUOV8tSEQzbkFlSGxVV3dpTHNNZTM5d01oMU0w?oc=5",
-        "source": "Eastern Mediterranean Turkey Watch",
-        "published": "Sat, 21 Nov 2026 06:01:48 GMT",
-        "base_score": 84,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "Kıbrıs",
-          "Girit",
-          "gerilim",
-          "kablo"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "9d6158e56cd28a1a61d8af39",
-        "mode": "geopolitico",
-        "title": "Turkish woman arrested at Temple Mount during Friday prayers for alleged terror incitement - The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObGNGc2ZtTjdyYzU2M0xVbW01elJDSzhZc2RoeTAxd2U5eWszQ2F3SUhld1hOU3dUV3dBdlNoVGNNOHpCZWlLaXNhNmdRaTlUN1ZNaTV6UnZWc2tmSm9WYXhqcHNrR2JFR3puYTU1ejU0WVZQSmVKRGpkMS1BYzlhWWdsVTdJZWcxR1VEZTZWak1IQmVvRGh3U25tckxEWTRCVk52QVVWTEpnUXAyRGNBX0J0TWhDNUZjd2JUdUxyQzcyZWFMaXZKbF84SlYxZWhpZlE?oc=5",
-        "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-        "published": "Sun, 22 Nov 2026 08:29:36 GMT",
-        "base_score": 70,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
+          "Greece",
           "Israel",
-          "Ege",
-          "arrest"
+          "defense",
+          "procurement"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "e87991b1ef31d06756d7a443",
+        "mode": "geopolitico",
+        "title": "'Haven't been invited to discuss Indus': Pakistani minister dodges question on 'cut off hands' threat - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT1NVZ0dkYXM1MHo5UHVxVE90cGZ6Rmt2UzVCZXY4dUNvb015V0RvX2I5SGRWU1BNbExMU3BfZUIzM3ljS2x5RFV6Qm41eXJ5Q0tlMDRqVGttdnFXOHlKTHpmZjUzaFJzeHpjZTdoRlJHWmNGaVgxMWNTazl3bjdSeURKYWVQV01SeU01UU55d2NUUU5vVnJhS3pJRlNjTmNpaXA4ZzFPcERndTRQQ0ZxUmljT0gxZ0Z5ZTVZcUtNRWdOaWhWWUNjbEhjYXVkS3VubllvNW9wV0VybHpIUldBMHdUckJFWDdTbTJzbkh6a0tCRDgtOEHSAfsBQVVfeXFMT19PXzJVRVB3MkdvVE1ZR1hZTnZnY0cza0JIQTU1THduUHFLN00tWi15RWpVY28zd3BQZUFnS1pEQ0lLNVRJUHFFNjQ0a25ZMkEzazZ0SllmcDJyWDRuQUJrUXNLV25hQVFfaWQxSFNpNUk0bzVUZ3M3eEhfanFpSjR3RXdMd1VHY1lSdWUzMVNMNUtTZkF2U0dYUzlQaTVqck1iM0tvcjdpOF9iMVJzR19sQ0VqVmdmV2F2QmNQUXg1RVNvajJDMV9zMG9SWkpoRlZUN3B1SWswbnB2YmJid2ZyT0VrOUJUblNQdkVrejk5MGZPYXdCNGJKN0E?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sun, 22 Nov 2026 14:59:00 GMT",
+        "base_score": 77,
+        "candidate_score": 92,
+        "priority": "High",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Pakistani"
         ],
         "content_type": "news"
       }
@@ -376,7 +440,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sun, 22 Nov 2026 06:30:28 GMT",
         "base_score": 100,
-        "candidate_score": 115,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
@@ -387,21 +451,21 @@
         "content_type": "news"
       },
       {
-        "external_id": "0238bbb7d6fbc5ade0d8eae0",
+        "external_id": "65a689850372c47a1a4b2fda",
         "mode": "pontos_voice",
-        "title": "Trabzon'da bugün hava nasıl olacak?",
-        "url": "https://www.61saat.com/trabzonda-bugun-hava-nasil-olacak-13",
-        "source": "61Saat Trabzon",
-        "published": "Sun, 22 Nov 2026 09:20:00 +0300",
-        "base_score": 64,
-        "candidate_score": 79,
-        "priority": "High",
+        "title": "Παμποντιακή Ομοσπονδία Ελλάδος: Η Γενοκτονία των Ελλήνων του Πόντου δεν προσφέρεται για πολιτική εκμετάλλευση και επικοινωνιακές φιέστες - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dCT0U0S1BwdVNFV3JvcGMyTHVTeUhwaXE3V3ZxS2dZdTNhQjdnZXlXN01XQnA3RG9zSS02ZzNSVlREYXBZMFFFeFlzcVZfa0Y2SVlwazBKeExvNjJCMTNTQ0hNSHRZdi0wZHQ0S1B3NXdFOGpLTGlmamVMV0hJSjkzeGVSeXZQNFktazlFM1cxNE11R243ZFV0V0xpdkp3N0ZmUFp3MjVua08xVV9jaw?oc=5",
+        "source": "Pontos News Watch",
+        "published": "Sat, 21 Nov 2026 10:53:20 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
         "matched_keywords": [
-          "Trabzon",
-          "Ordu",
-          "Trabzon",
-          "Karadeniz",
-          "dil"
+          "Pontos",
+          "ποντιακή",
+          "Παμποντιακή",
+          "Παμποντιακή Ομοσπονδία Ελλάδος",
+          "ομοσπονδία"
         ],
         "content_type": "news"
       },
@@ -413,7 +477,7 @@
         "source": "Pontos News Watch",
         "published": "Sat, 21 Nov 2026 19:04:45 GMT",
         "base_score": 72,
-        "candidate_score": 78,
+        "candidate_score": 75,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -429,7 +493,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Sat, 21 Nov 2026 17:36:54 GMT",
         "base_score": 69,
-        "candidate_score": 75,
+        "candidate_score": 72,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -454,19 +518,17 @@
         "content_type": "news"
       },
       {
-        "external_id": "8cc1a3ca0f16e94c48e65654",
+        "external_id": "69232215921460f0abc24137",
         "mode": "pontos_voice",
-        "title": "Trabzon'da tedbir amaçlı kapatılmıştı! Yeniden açıldı",
-        "url": "https://www.61saat.com/trabzonda-tedbir-amacli-kapatilmisti-yeniden-acildi",
-        "source": "61Saat Trabzon",
-        "published": "Sun, 22 Nov 2026 10:20:00 +0300",
-        "base_score": 44,
-        "candidate_score": 59,
+        "title": "Γενοκτονία των Ποντίων: Το μήνυμα Χαρδαλιά στη Γλυφάδα - Politic.gr",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVmh2UVNzcDVZRlBUVkFHUXI5LXV1U3lpUkFnb0NZdXRfbFg4ZUxrbS1TYlFQZDJ5YmVvck9rVHlNanZrTGQwTXBzWGlmaS1tYkI0eTZnT01yRnJHYVR5YTBDamNidHhpSFBIbEZsMzhweFZEOTh0ZnRVbzJNM3drVWJ4N0NYQmF4cU9KcmFlcTZhZGRZanRpNTh4NXJFVTBkWmZ5VHY1WEV3M2JGN0dzN1otR0tWdVl6c0NXNWxLdXJqaTJjdkx2Nk44OURhNDZENFdJUDhDcw?oc=5",
+        "source": "Greek Press Pontic Genocide Watch",
+        "published": "Sun, 22 Nov 2026 13:04:15 GMT",
+        "base_score": 54,
+        "candidate_score": 64,
         "priority": "Normal",
         "matched_keywords": [
-          "Trabzon",
-          "Tonya",
-          "Trabzon"
+          "Γενοκτονία των Ποντίων"
         ],
         "content_type": "news"
       }
@@ -481,7 +543,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 21 Nov 2026 10:35:00 GMT",
       "base_score": 94,
-      "candidate_score": 117,
+      "candidate_score": 114,
       "priority": "URGENT",
       "matched_keywords": [
         "Olympiacos",
@@ -500,9 +562,9 @@
       "title": "Mateo Kovačić Transfer from Manchester City to Panathinaikos - TransferFeed",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDAzeFJOdUI4cW9WRFROcDNqdmdTeGFLZmRzYldVNnJsRnFrblplVmlWVG1qUHk0UGhzeHlvMDhheG03NWNUdWs1bHNoUEFDY3F5LUZoODJjM0Z3bEZ1dUR2c0hrVjdPOVRDXzBHZDhyU0xHRVltT2NScUJVOTJ3OGIzNDVoVTZJOXBoVWtnQ3NqRU9nalE?oc=5",
       "source": "TransferFeed Greek Super League",
-      "published": "Sat, 21 Nov 2026 20:16:28 GMT",
+      "published": "Sat, 21 Nov 2026 20:00:39 GMT",
       "base_score": 58,
-      "candidate_score": 84,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -515,22 +577,62 @@
       "needs_second_source": true
     },
     {
-      "external_id": "466f234c2c33499c104e162d",
+      "external_id": "44bddd78da6b190b74332c98",
       "mode": "sportdog",
-      "title": "Kalamata vs AEK Athens: Greek Super League stats & head-to-head - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0VEctNW5vLXNCanJxdDdEVDhfdHhXdnVNanV2M1Y1NlR0NWVLTlk3d1NNRW1UVXBVS293dUpPcFE3NkFwZWpMMG5zLUFIVDF4aEN5a0hTcU1DZm01aWFvZDlVcw?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Sun, 22 Nov 2026 06:42:08 GMT",
+      "title": "Martin Erlić Transfer from Midtjylland to AEK Athens - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVNtN3U4RDhtc3V1aEotQXYwdk9aOFFJYlpLY3d2NTZPOFNFNUo5SHJ0Z3EzVkVPZG53MkFkOThBdmllc0JyOXFqQjAxMFBtczBTZWRtbGEzX0JEeldRMm9weHV4M0pFY2hnS21fLUpRd0tzN2NTMlhOcEVBb0dMVXdPZFhPTlVSVFdz?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Sat, 21 Nov 2026 12:00:42 GMT",
+      "base_score": 58,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "6a56ed5c61043af840f8d31d",
+      "mode": "sportdog",
+      "title": "Zois Karargyris Transfer from AEK Athens to OFI - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTy1uNXFBTHFwcFQ4UWxFdDlUU3BCLVZkVHpRUnNzdnJPazBWM3V0RHEzUE9EQVQ4YUgzUHQyc2U1a1hjbmhKQkg2VHllbUluaS1zWmV2VjkybGhUMy15U2tHa2FFWGJfRE9WdENNRzdqdmczbE1uNFNMdzVmZHJUS1VPWnFsM2ZUejh3Mm5BRXM?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Sat, 21 Nov 2026 11:54:56 GMT",
+      "base_score": 58,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "00e2a40b3ce6f4a3cf43c0ae",
+      "mode": "sportdog",
+      "title": "Panathinaikos vs OFI Crete: Greek Super League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LYzVGRm50dDhkQlk3LWgxZzZoLTV4X3E4ZFE4WUZoWk5HMmdMYWdkSzhLTkl2NFNuYW8xUjRhSzlxMTV5dDNFUUZpYWR4WjVJVEhqLWxNNm94d0N4YXRnMzJuQ3F4dw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Sun, 22 Nov 2026 15:04:13 GMT",
       "base_score": 56,
       "candidate_score": 79,
       "priority": "High",
       "matched_keywords": [
-        "AEK",
+        "Panathinaikos",
         "Super League"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "AEK",
+      "team": "Panathinaikos",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -542,7 +644,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Sat, 21 Nov 2026 09:40:57 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 76,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -555,42 +657,42 @@
       "needs_second_source": true
     },
     {
-      "external_id": "690aaff4924337b475c7a303",
+      "external_id": "466f234c2c33499c104e162d",
       "mode": "sportdog",
-      "title": "Date Set for Olympiacos’ Derby Clash Against Panathinaikos in Greek Cup - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUEVyUTViXzB1MFZXRHBLclFKRDhJSGZ0bEd1dThKRWdlWnZCMDdzQVNibkpHOVZodnBTeFI4VW9XQ09zVzlaUmFlRWpWTHpKdXhqSXdmVHJJcFpvTWlUUG5haW02Y0E0eTA1MG9PbFVqbGFIYTRIVm0wdi0yREw3UktDZGdXQk82QWxWdWhYQS1hVHR2aFNLYlNiUUlOeHp5ajZFdzhUZS1BRHBKeXNkZVJ6UTMtTVQ3QlBHUGYteHhncnVHRmc?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 20 Nov 2026 23:52:16 GMT",
-      "base_score": 62,
-      "candidate_score": 78,
+      "title": "Kalamata vs AEK Athens: Greek Super League stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0VEctNW5vLXNCanJxdDdEVDhfdHhXdnVNanV2M1Y1NlR0NWVLTlk3d1NNRW1UVXBVS293dUpPcFE3NkFwZWpMMG5zLUFIVDF4aEN5a0hTcU1DZm01aWFvZDlVcw?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sun, 22 Nov 2026 06:42:08 GMT",
+      "base_score": 56,
+      "candidate_score": 70,
       "priority": "High",
       "matched_keywords": [
-        "Olympiacos",
-        "Panathinaikos"
+        "AEK",
+        "Super League"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Olympiacos",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
     {
-      "external_id": "bed088741565d0c5e879513a",
+      "external_id": "80450d8212188a532aa95037",
       "mode": "sportdog",
-      "title": "▶️ Watch Olympiacos vs Iraklis Live Stream | Predictions & Tips - 22 Nov - FootballPredictions.NET",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHBoUFY3cXlkanF5RlluS0s2bi1iS3ZZOFZhMTJqNU9iSlpPUUpLQUtBYlBoZWNkOXZfR1BfdjhKZDRCdzJ6bjl1OTdnM0U4WHRlUkJfZU9yWnNQUnRsNy1ibUpxSlo2dnhfSzBVM1RZLVZwMkY1TldIQ3NHM1RCNU00MA?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sun, 22 Nov 2026 07:17:32 GMT",
+      "title": "Como vs AEK Athens Prediction & Betting Tips | 24/11/2026 - FootballPredictions.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXy1Nb2dDM2hyWXdDdmM4NUV2cFBmNkpIUkpsTDhZMlFQNnRWaUl4ODlHTjNJVTBZRnpYNXFWTVpCTTJlNi1YNF9iWl9uNXYwZnVzYjh5WGYyVkxrWi1jdjhQdTU3Nlo3RmxzSDBtejhPOXdpMjJOa3ZwMmpnV2V1cVBFckJjUl85b1YzQmRCVFplY3ROMG1Jb19RTUF6RzZLUnktVVB5U1JSdnBxTVV0SVJtTmhsNmVRZnBabA?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sun, 22 Nov 2026 15:13:43 GMT",
       "base_score": 41,
       "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos",
+        "AEK",
         "football"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "Olympiacos",
+      "team": "AEK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -615,12 +717,50 @@
       "needs_second_source": true
     },
     {
+      "external_id": "7a3ac56a1bd584a2792f0633",
+      "mode": "sportdog",
+      "title": "Como v AEK Athens Match Stats, Hit Rates & Bet Builder Data - Andy's Bet Club",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSDl4SWE0UFBfb3V2NUYzc19vb2NVaEZ5SjhSRGVnSUtPcUtYOU1XWWRxamNDeDJPSklPTjNUVTN2RTAzd3Z2OWJWbUwxZnFfNi1COURWZlBfNS1ISTNJUUNRUnNJdGUwcTFfVDkzZmVPSTdGMHhJSW84TkU3eDVfZG5pem9GdzRzelNN?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Sun, 22 Nov 2026 16:35:10 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "AEK"
+      ],
+      "content_type": "news",
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "16db7a0d7c1d61757bfde30d",
+      "mode": "sportdog",
+      "title": "Iraklis +2.25 recommended for Olympiacos Vs Iraklis clash at Karaiskakis Stadium - شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rd2M5d2lhRHM4MTFjVW82dkpTVmVpUkpvVkltQV92RlczY3dISGxtR3RKM0Jia0dwUmN0WXFuZWlJbTUyLTZJcWZJV3NINFhVc0lz?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sun, 22 Nov 2026 16:23:47 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "WATCH",
+      "needs_second_source": true
+    },
+    {
       "external_id": "3c67165b49fa51106bd93315",
       "mode": "sportdog",
       "title": "PAOK vs Kifisia Prediction, Betting Tips, Lineups & Odds | 22 Nov 2026 - Sportsgambler",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1NYV3RPem43QXFQZzlZLXVUOWVrZlNfOTBoOFNZcDVOWEd2ZzZLLWhBelJrRm84M21VNmRkeTIyYVktMVlpd2dKVGdrZlpQVjRNQjZZRlFGWXdHMHBPdVJwVWZwT2xobEIyenBidGpnQ0FOV2pVSGRjYmZuTVlTcUlpSXNTS09pVmhHV18xZG5iZ0phNU16TnRvY1QtdEJGbmFLN3p3?oc=5",
       "source": "PAOK Rumour Watch",
-      "published": "Sun, 22 Nov 2026 07:07:13 GMT",
+      "published": "Sun, 22 Nov 2026 16:16:20 GMT",
       "base_score": 31,
       "candidate_score": 54,
       "priority": "Normal",
@@ -639,7 +779,7 @@
       "title": "Panathinaikos vs OFI Prediction, Betting Tips, Lineups & Odds | 22 Nov 2026 - Sportsgambler",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmprV2JSdGFBNDluNHJUYXZMUzdBMkJNNXo4Q0hEa05UUG1oelJNUXdZdzQ2SHA2WkJveV9qcGNzdDE4emdkTWhFQVdKRGtRU29DaDF5Y2lvVFlSVEhLS1RBVVp0NFVKajkzdFZxR1J1RjA4ckQzVkh5RGV6RmhwN3NXMkYxMDhpazVrMnFKVW5DaXZieEp3eGozWG9SSzc5MVQ1eFU4bVlWUDc4?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Sun, 22 Nov 2026 06:08:48 GMT",
+      "published": "Sun, 22 Nov 2026 15:12:57 GMT",
       "base_score": 31,
       "candidate_score": 54,
       "priority": "Normal",
@@ -653,18 +793,17 @@
       "needs_second_source": true
     },
     {
-      "external_id": "ded85b1a8bcaddf455d40f47",
+      "external_id": "ccd66131da10a99fa3004b91",
       "mode": "sportdog",
-      "title": "Brazilian Midfielder on Olympiacos’ Radar - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2NnOWVORnUzaW1nbzZ6SlRUVElpMm5DdUdjejhjYnBoWmcwWi1wMVE3UTA3a2JWT1pLLWQ3Nm9kWmt6VmNaaEl3V25vMVFPVWQtZ2pST1Zxam92M3pnQTE0Y3hDdm9wSGNvQV96elN2REJpR3JHcVNNTGdWRnVMWDBta0o5T28wTWZvQmJWUmFBSTgxSG9BZVZmUEZsQQ?oc=5",
+      "title": "Sources: Inside Olympiacos' Interest in Chivas Duo Santiago Sandoval & Bryan Gonzalez - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3AtMDR6LWtWTFBfbzNSTU5TS05TS1hwZXRJMnN5M3BGZW1oa2RvTkI3ZkxLby1vYjB2UlV2Y09wMWJiX3pZQ29hdkhLSVdsNzhlVThJazVGeHlTSHFHSi1JUWtCWTVpS2ZXWVBrTUI5NW5zdThnQUwxYkFCQ2JTUHN1dXh3QVM4RFE4clhtbGc5b1FsSVdyNk9WQkYtdXR0Ym4xYk5heHVYbEU3MGE4Q3NrVENtc2xlZ24yOTZKdDRTZVg1Nk5mdVRram9seS1LOU9iWg?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 20 Nov 2026 22:17:36 GMT",
-      "base_score": 39,
-      "candidate_score": 47,
+      "published": "Sat, 21 Nov 2026 20:07:39 GMT",
+      "base_score": 31,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos",
-        "midfielder"
+        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -673,23 +812,78 @@
       "needs_second_source": true
     },
     {
-      "external_id": "37a6c7802e77e2e08603d455",
-      "mode": "sportdog",
-      "title": "PAE PS Kalamata vs AEK Athens prediction – Odds & stats – 21 November 2026 - Wincomparator",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95Y0FmcE15alJncmViWmVBcEtXOE02ZDh4dW5OcTgwakR2cml2dklTb3h0NlVuTkRLbElEUXBVWThsYmhMUkJYN3N1ZU0tX3JwaWlMTlpwRW5STmJFeW1ldVVpWWEtZlRFMnpZYnBwX3AzWUtjUWd4OUNNX3pEUQ?oc=5",
-      "source": "AEK Rumour Watch",
-      "published": "Sat, 21 Nov 2026 05:30:00 GMT",
-      "base_score": 31,
-      "candidate_score": 42,
-      "priority": "Normal",
+      "external_id": "f87fa8d7d9f7d655c17ea966",
+      "mode": "geopolitico",
+      "title": "GSI projesinde Türkiye, Yunanistan ve Fransa arasında bilgilendirme tartışması - www.kibrisgercek.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONG9JWkZyMnpKM0Q3c1dYVm5aYTJPeUx4a0FnZjNBckZlQmJyS19oQXpNckZhODRkZEZGWjhlbVNMcHY1RHpiNjVYMXhfcHlHZkdVOFh3S1ZybVhfcEhLNUNwb2JaWVpiVW9Ha19vOGdxWTQ1bGVIa0ZVcG9YRFNMbThJcDNqU0RsaVlOTkVkaGxfWk5vS0pHQl9VUmJFdmRYNUJUWk9Ib1FfZw?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sun, 22 Nov 2026 14:28:33 GMT",
+      "base_score": 100,
+      "candidate_score": 115,
+      "priority": "URGENT",
       "matched_keywords": [
-        "AEK"
+        "Yunanistan",
+        "Kibris",
+        "GSI",
+        "Fransa",
+        "GSI"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "c70348d5c917ead86b190e53",
+      "mode": "geopolitico",
+      "title": "GSI projesinde Türkiye-Yunanistan-Fransa hattında dikkat çeken gelişme - Kıbrıs Postası",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ1pzUXJTS1I2bUdOcUJEbVVCTXVfZ0NRWkR0THhyRUxIM0xTR1BvQjZQV1RjbkhwZ2NtYUFBcnVIb2dDRWlLUXVaUHlfVDRHeGpWU08xUXFXV0xTZnBGV0oyeWxDMkUzUnl2MlV0TFpFWDY3aGZWVmJlOW05ZU9VdmJYM1IzWkNBOUl3MkZKeGdzVWdGamgwbHNveS1FLVdpVmJCakFDTGhWX0xqMDZPQllLVXNXNUN0Wi1Rc1RzUTU?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sun, 22 Nov 2026 12:05:00 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "GSI",
+        "Kıbrıs",
+        "Fransa",
+        "GSI"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "0d1fe8fe79bdb0032a959b22",
+      "mode": "geopolitico",
+      "title": "Ege’de 12 mil gerilimi tırmanıyor: Yunanistan, Türkiye'nin 'Casus Belli' kararını hiçe mi sayacak? - Toplumsal Haber",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY1JyeVJmbFFpYWdFTnBEeXM0QUVBZk13dWhIZDZNcGZPSDFoNHpnVi1vSEdkcUNCeEhoSElhZFc1ZFpVTFhSZjE3b2lObjR3U3hIcXYtWkhxN3NCX1JCQ082RHhtTnl5QTU0eHlWcXZTOEVHOEJ5UEcwYmd1cHR4WDdJeGhCSUJ1X09sSkpSdVp1bzhuQUpCWHpiN1Z3Q0tYX016VmxJd3FFODVBZWUzb0d6ajhyc1RmMnZYWFFvaHlVLUt4V3RHaGZYUTNRejhK?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sun, 22 Nov 2026 11:34:00 GMT",
+      "base_score": 100,
+      "candidate_score": 110,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Yunanistan",
+        "Ege",
+        "12 mil",
+        "gerilim"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "9d943dcacfacb05b04343760",
+      "mode": "geopolitico",
+      "title": "Greece in talks for another €1 billion in Israeli defense deals, report says - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc3VfM0NfTThHQzVWMW51RVRPZ0J6YUstMEhkX0hZOUFPZ0JmaFE0R2FsdUoxSEFrTVlHM2Q1U0xKZm1xdEVHTjNXc3dKZXE0TnJLbnpKS1AwdFd1eERRWllyWUtxN2c?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Sun, 22 Nov 2026 09:44:00 GMT",
+      "base_score": 96,
+      "candidate_score": 106,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Greece",
+        "Israel",
+        "Israeli",
+        "defense"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "0ea23e9f927ea3e76f7fb79f",
@@ -699,7 +893,7 @@
       "source": "Pakistan Turkey Watch",
       "published": "Sat, 21 Nov 2026 17:06:22 GMT",
       "base_score": 98,
-      "candidate_score": 104,
+      "candidate_score": 101,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -711,122 +905,54 @@
       "content_type": "news"
     },
     {
-      "external_id": "d7f6f9c96f8c0c770bfecbf1",
+      "external_id": "12e162a759c4470e257430e7",
       "mode": "geopolitico",
-      "title": "Rum yazar Güney Kıbrıs'ın savunma harcamalarını eleştirdi: Milyarlar harcamak askeri güç dengesini değiştirmez - Kıbrıs Manşet",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNGJSWE01cF9pUXBENEdCRWtOcVAyZkVDVnZtZ3F5eVl2YzExVFMteHdxNU0tSUEzT2RRV0p6eGFjQ1pOS1lCWHYzM2JIUVhNaWlIMlVMY0lXeUlhaFVpUFVWemg1SEFmZE5oS2djYnE3Umt2emQwYk9aVTN2VVJ6Y2dDMFlDX0tnN1R5WFJpNjREb3FMeXZ4d0F1NlpjRDZJbWxOb3NiYkptODFyZlZoc2V5ejBNSlN6clM0OU9PSEVFWHNPcDU3VXBPZm1GX1dBcFVj?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 21 Nov 2026 19:01:00 GMT",
-      "base_score": 94,
-      "candidate_score": 100,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Kıbrıs",
-        "Güney Kıbrıs",
-        "savunma",
-        "askeri"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "b5fd97bee73abd9434399fc0",
-      "mode": "geopolitico",
-      "title": "Greece, Israel, Cyprus project strategic reach - eKathimerini.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSndNd1hzM21Cc3A2cGxZSjJ2Z3NZa1lnT01mcGR0TzhwOEhPM0Q1RXU4Wl9TNlhpdVhxbDBGcFd0bk01NWpJUkxuR1ZxdG1uQ2ZCNlg2Y2ZrZEZUb2NSYl9KNjlMazdJMUxJR1NXaXlUTEk1b2RXdWtnN0F1Vm16Yl83aVhrTTR5VkxsRWJmcGNSN0V1b2g5Rmdtclp3c2JRQzI0ZWpCYzhwQQ?oc=5",
+      "title": "Greece Seeks Israeli Arms Deal Worth Over $1 Billion - JFeed",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTDQ2bTJMTnhpaVZSSW1xQWtSajNZWjA1UEcxaDk4UmlORG16dmtMWHBGa0tLM2haN0hIMWd0M2dwWkx6dUp0VWpxYzhFVWlUQXROWUZNaVpZX1doY0VfVGlmdDM3TTlOZmdEZG1WRVdiQ2g1R3Nvc3hiOVNNdVg4Qlhn?oc=5",
       "source": "Greece Israel Strategic Watch",
-      "published": "Sat, 21 Nov 2026 08:36:01 GMT",
-      "base_score": 90,
-      "candidate_score": 93,
-      "priority": "High",
+      "published": "Sun, 22 Nov 2026 15:21:00 GMT",
+      "base_score": 84,
+      "candidate_score": 99,
+      "priority": "URGENT",
       "matched_keywords": [
         "Greece",
         "Israel",
-        "Cyprus"
+        "Israeli"
       ],
       "content_type": "news"
     },
     {
-      "external_id": "63b880140ab48507b9bcef36",
+      "external_id": "555cb5ccfc0812c9f356229e",
       "mode": "geopolitico",
-      "title": "Yunanistan Dışişleri Bakanı Gerapetritis'ten 12 mil açıklaması: 'Seçilen şekilde ve zamanda gerçekleştirilecek' - Bundle",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVUVINnFleDFBLUZOSXJtbVdKaDlSV1lJQXdSWm00NkJ5a2FuX1RQbE00WlFrc1luYWJHRURxdWZBNG13RUlkQ2tycl9iS0dWRG9NaEh1NE9WQkN5bFlVUWlMLWVPY2RFYjZLdmR3VU9teWdyQlZabkxtaXBXMGRIODV2cHcwMWZCcEpPeHpXeS05d25SRUd4ZVZzU0Z4dXZ6WkF1bnBGbS1oTFVJQkVNR0djVnR0WkljdVZFMXJVNVlGYm9SUkNIUERKWVVzZG9ndzB0WjlDQUpuV2hObFN6RUFSWnB1U2JMeGdaLWd5UF9WRktJb2RuWWJLOUdKUHYySVZBdzVmeXk?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 21 Nov 2026 15:50:56 GMT",
-      "base_score": 85,
-      "candidate_score": 91,
-      "priority": "High",
+      "title": "Greece mulls further €1b defense procurement from Israel - Globes - Israel Business News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMUc1VmVMTEk3aHdPendsOERkSHgxNGJEelhZMlExTDFaR0gzdkRTRTRLdGJ3bGlGVXg1TjJxcEp6RlhaUEZEMmxsNVE4UXI0aEZGTEFYYzc1dmpFREh6dm10VFIyeS1WaUpiVVlKenE5ODYxOHJTZTU5SVdPeDVtZklPeF95TnFRUlNlR2d6NzlmT2VHajdVVXl4RjBycTl0bFBLamFUMktoWVg3Nlpv?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Sun, 22 Nov 2026 09:53:50 GMT",
+      "base_score": 86,
+      "candidate_score": 96,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Yunanistan",
-        "12 mil",
-        "açıklama"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "07eea1fe8fd19c9bc0a5b1cf",
-      "mode": "geopolitico",
-      "title": "Türkiye 'casus belli' sayıyor ama Yunanistan vazgeçmiyor! Dışişleri Bakanı Yerapetritis'ten 12 mil mesajı - Aydınlık",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUzZZNlloU1JxcWowUVlqYm5zeF9uemUtamNUYWw2OUVGNk5qNlg1THg0a2JTRnlBSDhvSlNhdEFPTlN2VVprWWJ4SnZYUkU3Q0FnN1pfMllUYUgxMnNKUmZwUXFDTDJla0ZrUkMyTmR1SnhJZGVOcWZ5a3BuTy11VFhfX1czd1NpbzNOTGhWSDVCNUtIWFhiNUdVaUx3M0hfRlNmeXdSQlRRSm45R3d6cGlJRXpFOXFyRDZlY25heW9rNGVRTmZjeTFMOGpmaFdIUWkwV1BLb09QUQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sun, 22 Nov 2026 06:28:24 GMT",
-      "base_score": 75,
-      "candidate_score": 90,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "12 mil"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "fbbf82662115cdaa42d8cc6c",
-      "mode": "geopolitico",
-      "title": "Atina’dan karasularında 12 mil mesajı - Hürriyet",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkhYSjBDQWQ5NWxDbWpJd19qeW1TV0Z6M2xMWjdOd0tQdExHMXlydzcwZWUybXM4cW5MX0JYVXlpZkNFejYxYlZaNjU4YWdsVFBwYm1ieUxuazFNbUNSM1R1VU5ZZ09XYXh2Q2V6YUV6ZjhUdFFCQThDNFU1SkNpbXFlQjdPdw?oc=5",
-      "source": "Hurriyet Greece Watch",
-      "published": "Sun, 22 Nov 2026 04:25:42 GMT",
-      "base_score": 77,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "karasuları",
-        "12 mil",
-        "Atina"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "69509d6cfcef034317115916",
-      "mode": "geopolitico",
-      "title": "Kıbrıs-Girit hattında iki kablo, tek gerilim: Yunan strateji raporunda Türkiye - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmZyTUZ0V3Y4d0xyUXV6YlpKU3JVTkNyTmJZRmhINnAtWlFZM1NJVUxWMEUxUVkwNngtSEo5bXppM3hxUzBudnVyeVAzS0oxUnBLRjY2YUFfWUlrTm0wRE9ic1FjRXJZd0RSYTVEYS10RzJmdkpQcEJBTHhGc1RJMENXMlVuXzlUOV8tSEQzbkFlSGxVV3dpTHNNZTM5d01oMU0w?oc=5",
-      "source": "Eastern Mediterranean Turkey Watch",
-      "published": "Sat, 21 Nov 2026 06:01:48 GMT",
-      "base_score": 84,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "Kıbrıs",
-        "Girit",
-        "gerilim",
-        "kablo"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "9d6158e56cd28a1a61d8af39",
-      "mode": "geopolitico",
-      "title": "Turkish woman arrested at Temple Mount during Friday prayers for alleged terror incitement - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObGNGc2ZtTjdyYzU2M0xVbW01elJDSzhZc2RoeTAxd2U5eWszQ2F3SUhld1hOU3dUV3dBdlNoVGNNOHpCZWlLaXNhNmdRaTlUN1ZNaTV6UnZWc2tmSm9WYXhqcHNrR2JFR3puYTU1ejU0WVZQSmVKRGpkMS1BYzlhWWdsVTdJZWcxR1VEZTZWak1IQmVvRGh3U25tckxEWTRCVk52QVVWTEpnUXAyRGNBX0J0TWhDNUZjd2JUdUxyQzcyZWFMaXZKbF84SlYxZWhpZlE?oc=5",
-      "source": "Times of Israel Greece Turkey Cyprus IMEC Watch",
-      "published": "Sun, 22 Nov 2026 08:29:36 GMT",
-      "base_score": 70,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
+        "Greece",
         "Israel",
-        "Ege",
-        "arrest"
+        "defense",
+        "procurement"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "e87991b1ef31d06756d7a443",
+      "mode": "geopolitico",
+      "title": "'Haven't been invited to discuss Indus': Pakistani minister dodges question on 'cut off hands' threat - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT1NVZ0dkYXM1MHo5UHVxVE90cGZ6Rmt2UzVCZXY4dUNvb015V0RvX2I5SGRWU1BNbExMU3BfZUIzM3ljS2x5RFV6Qm41eXJ5Q0tlMDRqVGttdnFXOHlKTHpmZjUzaFJzeHpjZTdoRlJHWmNGaVgxMWNTazl3bjdSeURKYWVQV01SeU01UU55d2NUUU5vVnJhS3pJRlNjTmNpaXA4ZzFPcERndTRQQ0ZxUmljT0gxZ0Z5ZTVZcUtNRWdOaWhWWUNjbEhjYXVkS3VubllvNW9wV0VybHpIUldBMHdUckJFWDdTbTJzbkh6a0tCRDgtOEHSAfsBQVVfeXFMT19PXzJVRVB3MkdvVE1ZR1hZTnZnY0cza0JIQTU1THduUHFLN00tWi15RWpVY28zd3BQZUFnS1pEQ0lLNVRJUHFFNjQ0a25ZMkEzazZ0SllmcDJyWDRuQUJrUXNLV25hQVFfaWQxSFNpNUk0bzVUZ3M3eEhfanFpSjR3RXdMd1VHY1lSdWUzMVNMNUtTZkF2U0dYUzlQaTVqck1iM0tvcjdpOF9iMVJzR19sQ0VqVmdmV2F2QmNQUXg1RVNvajJDMV9zMG9SWkpoRlZUN3B1SWswbnB2YmJid2ZyT0VrOUJUblNQdkVrejk5MGZPYXdCNGJKN0E?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sun, 22 Nov 2026 14:59:00 GMT",
+      "base_score": 77,
+      "candidate_score": 92,
+      "priority": "High",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Pakistani"
       ],
       "content_type": "news"
     },
@@ -838,7 +964,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sun, 22 Nov 2026 06:30:28 GMT",
       "base_score": 100,
-      "candidate_score": 115,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
@@ -849,21 +975,21 @@
       "content_type": "news"
     },
     {
-      "external_id": "0238bbb7d6fbc5ade0d8eae0",
+      "external_id": "65a689850372c47a1a4b2fda",
       "mode": "pontos_voice",
-      "title": "Trabzon'da bugün hava nasıl olacak?",
-      "url": "https://www.61saat.com/trabzonda-bugun-hava-nasil-olacak-13",
-      "source": "61Saat Trabzon",
-      "published": "Sun, 22 Nov 2026 09:20:00 +0300",
-      "base_score": 64,
-      "candidate_score": 79,
-      "priority": "High",
+      "title": "Παμποντιακή Ομοσπονδία Ελλάδος: Η Γενοκτονία των Ελλήνων του Πόντου δεν προσφέρεται για πολιτική εκμετάλλευση και επικοινωνιακές φιέστες - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dCT0U0S1BwdVNFV3JvcGMyTHVTeUhwaXE3V3ZxS2dZdTNhQjdnZXlXN01XQnA3RG9zSS02ZzNSVlREYXBZMFFFeFlzcVZfa0Y2SVlwazBKeExvNjJCMTNTQ0hNSHRZdi0wZHQ0S1B3NXdFOGpLTGlmamVMV0hJSjkzeGVSeXZQNFktazlFM1cxNE11R243ZFV0V0xpdkp3N0ZmUFp3MjVua08xVV9jaw?oc=5",
+      "source": "Pontos News Watch",
+      "published": "Sat, 21 Nov 2026 10:53:20 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Trabzon",
-        "Ordu",
-        "Trabzon",
-        "Karadeniz",
-        "dil"
+        "Pontos",
+        "ποντιακή",
+        "Παμποντιακή",
+        "Παμποντιακή Ομοσπονδία Ελλάδος",
+        "ομοσπονδία"
       ],
       "content_type": "news"
     },
@@ -875,7 +1001,7 @@
       "source": "Pontos News Watch",
       "published": "Sat, 21 Nov 2026 19:04:45 GMT",
       "base_score": 72,
-      "candidate_score": 78,
+      "candidate_score": 75,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -891,7 +1017,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Sat, 21 Nov 2026 17:36:54 GMT",
       "base_score": 69,
-      "candidate_score": 75,
+      "candidate_score": 72,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -916,19 +1042,17 @@
       "content_type": "news"
     },
     {
-      "external_id": "8cc1a3ca0f16e94c48e65654",
+      "external_id": "69232215921460f0abc24137",
       "mode": "pontos_voice",
-      "title": "Trabzon'da tedbir amaçlı kapatılmıştı! Yeniden açıldı",
-      "url": "https://www.61saat.com/trabzonda-tedbir-amacli-kapatilmisti-yeniden-acildi",
-      "source": "61Saat Trabzon",
-      "published": "Sun, 22 Nov 2026 10:20:00 +0300",
-      "base_score": 44,
-      "candidate_score": 59,
+      "title": "Γενοκτονία των Ποντίων: Το μήνυμα Χαρδαλιά στη Γλυφάδα - Politic.gr",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVmh2UVNzcDVZRlBUVkFHUXI5LXV1U3lpUkFnb0NZdXRfbFg4ZUxrbS1TYlFQZDJ5YmVvck9rVHlNanZrTGQwTXBzWGlmaS1tYkI0eTZnT01yRnJHYVR5YTBDamNidHhpSFBIbEZsMzhweFZEOTh0ZnRVbzJNM3drVWJ4N0NYQmF4cU9KcmFlcTZhZGRZanRpNTh4NXJFVTBkWmZ5VHY1WEV3M2JGN0dzN1otR0tWdVl6c0NXNWxLdXJqaTJjdkx2Nk44OURhNDZENFdJUDhDcw?oc=5",
+      "source": "Greek Press Pontic Genocide Watch",
+      "published": "Sun, 22 Nov 2026 13:04:15 GMT",
+      "base_score": 54,
+      "candidate_score": 64,
       "priority": "Normal",
       "matched_keywords": [
-        "Trabzon",
-        "Tonya",
-        "Trabzon"
+        "Γενοκτονία των Ποντίων"
       ],
       "content_type": "news"
     }
