@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T21:16:09.795208+00:00",
+  "generated_at": "2026-11-22T01:27:48.458045+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 11,
     "geopolitico": 8,
     "pontos_voice": 6
   },
@@ -27,6 +27,46 @@
         "team": "Olympiacos",
         "readiness": "READY",
         "needs_second_source": false
+      },
+      {
+        "external_id": "0fe46bcc29a5c73b5f26f016",
+        "mode": "sportdog",
+        "title": "Mateo Kovačić Transfer from Manchester City to Panathinaikos - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDAzeFJOdUI4cW9WRFROcDNqdmdTeGFLZmRzYldVNnJsRnFrblplVmlWVG1qUHk0UGhzeHlvMDhheG03NWNUdWs1bHNoUEFDY3F5LUZoODJjM0Z3bEZ1dUR2c0hrVjdPOVRDXzBHZDhyU0xHRVltT2NScUJVOTJ3OGIzNDVoVTZJOXBoVWtnQ3NqRU9nalE?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Sat, 21 Nov 2026 20:36:47 GMT",
+        "base_score": 58,
+        "candidate_score": 88,
+        "priority": "High",
+        "matched_keywords": [
+          "Panathinaikos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Panathinaikos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
+        "external_id": "450f94de32d25f282e45cda1",
+        "mode": "sportdog",
+        "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar Armenia",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sat, 21 Nov 2026 09:40:57 GMT",
+        "base_score": 56,
+        "candidate_score": 82,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "690aaff4924337b475c7a303",
@@ -56,7 +96,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 21 Nov 2026 20:27:06 GMT",
         "base_score": 56,
-        "candidate_score": 79,
+        "candidate_score": 74,
         "priority": "High",
         "matched_keywords": [
           "AEK",
@@ -76,7 +116,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 21 Nov 2026 15:46:04 GMT",
         "base_score": 41,
-        "candidate_score": 59,
+        "candidate_score": 55,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -85,25 +125,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "ccd66131da10a99fa3004b91",
-        "mode": "sportdog",
-        "title": "Sources: Inside Olympiacos' Interest in Chivas Duo Santiago Sandoval & Bryan Gonzalez - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3AtMDR6LWtWTFBfbzNSTU5TS05TS1hwZXRJMnN5M3BGZW1oa2RvTkI3ZkxLby1vYjB2UlV2Y09wMWJiX3pZQ29hdkhLSVdsNzhlVThJazVGeHlTSHFHSi1JUWtCWTVpS2ZXWVBrTUI5NW5zdThnQUwxYkFCQ2JTUHN1dXh3QVM4RFE4clhtbGc5b1FsSVdyNk9WQkYtdXR0Ym4xYk5heHVYbEU3MGE4Q3NrVENtc2xlZ24yOTZKdDRTZVg1Nk5mdVRram9seS1LOU9iWg?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Sat, 21 Nov 2026 20:07:39 GMT",
-        "base_score": 31,
-        "candidate_score": 54,
-        "priority": "Normal",
-        "matched_keywords": [
-          "Olympiacos"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -128,22 +149,21 @@
         "needs_second_source": true
       },
       {
-        "external_id": "6414e1416e87fe00f42998d2",
+        "external_id": "ccd66131da10a99fa3004b91",
         "mode": "sportdog",
-        "title": "PAOK expected to add former NBA forward from Dubai - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmgwT2RuOE5DU21OTlpmaWJZQ3pFZHE1cnFYU1dhbEhadlEtTjFDMnoxOTVLXzV4emxIUWk2ZXV1cUU1SXZZa1dGOW5DcTlNU01BQ0pHSUgzSXVueGt3aTJGWFBBUEZkS0lfSU5nRUc0bkhWRWY0ZWNwR0NfOVZVTFlraHNSZk5KYkl4TTRDRzF0d2U3ZEsyYlUxR1lCWHM1T0lV?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Fri, 20 Nov 2026 12:18:00 GMT",
-        "base_score": 39,
-        "candidate_score": 47,
+        "title": "Sources: Inside Olympiacos' Interest in Chivas Duo Santiago Sandoval & Bryan Gonzalez - roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3AtMDR6LWtWTFBfbzNSTU5TS05TS1hwZXRJMnN5M3BGZW1oa2RvTkI3ZkxLby1vYjB2UlV2Y09wMWJiX3pZQ29hdkhLSVdsNzhlVThJazVGeHlTSHFHSi1JUWtCWTVpS2ZXWVBrTUI5NW5zdThnQUwxYkFCQ2JTUHN1dXh3QVM4RFE4clhtbGc5b1FsSVdyNk9WQkYtdXR0Ym4xYk5heHVYbEU3MGE4Q3NrVENtc2xlZ24yOTZKdDRTZVg1Nk5mdVRram9seS1LOU9iWg?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Sat, 21 Nov 2026 20:07:39 GMT",
+        "base_score": 31,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
-          "PAOK",
-          "forward"
+          "Olympiacos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
-        "team": "PAOK",
+        "team": "Olympiacos",
         "readiness": "WATCH",
         "needs_second_source": true
       },
@@ -174,7 +194,7 @@
         "source": "AEK Rumour Watch",
         "published": "Sat, 21 Nov 2026 05:30:00 GMT",
         "base_score": 31,
-        "candidate_score": 45,
+        "candidate_score": 42,
         "priority": "Normal",
         "matched_keywords": [
           "AEK"
@@ -193,7 +213,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 20 Nov 2026 16:31:00 GMT",
         "base_score": 31,
-        "candidate_score": 42,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -206,6 +226,25 @@
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "0ea23e9f927ea3e76f7fb79f",
+        "mode": "geopolitico",
+        "title": "Turkey Launches Combat Drones from Highways, Impacting Pakistan and India - times of islamabad",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXJUWE4yQW8wWGlCNDhRbTdQUWl1NEJpQnQ5SDlHZVZnNnZGdXkxSnUwakJLdTkzUkgzZDlqdWRYekl3UnUtbWVWdS1laXp2dTUzOG10V0tKM0JKSkRMdnpGeHRIYzVWcmdYQVY4TGVCVUNKUUZfSVBCejBhbmxFLVp2RHdyVTVSczlRU1R6dnV4TDhxM1FPTzNYb0FyWFl1TUpDLUlDbXQ2VUJmUTFjUUhYRQ?oc=5",
+        "source": "Pakistan Turkey Watch",
+        "published": "Sat, 21 Nov 2026 17:06:22 GMT",
+        "base_score": 98,
+        "candidate_score": 104,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Pakistan",
+          "Islamabad",
+          "Turkey",
+          "drone"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "b5fd97bee73abd9434399fc0",
         "mode": "geopolitico",
@@ -220,61 +259,6 @@
           "Greece",
           "Israel",
           "Cyprus"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "69509d6cfcef034317115916",
-        "mode": "geopolitico",
-        "title": "Kıbrıs-Girit hattında iki kablo, tek gerilim: Yunan strateji raporunda Türkiye - Bugün Kıbrıs",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmZyTUZ0V3Y4d0xyUXV6YlpKU3JVTkNyTmJZRmhINnAtWlFZM1NJVUxWMEUxUVkwNngtSEo5bXppM3hxUzBudnVyeVAzS0oxUnBLRjY2YUFfWUlrTm0wRE9ic1FjRXJZd0RSYTVEYS10RzJmdkpQcEJBTHhGc1RJMENXMlVuXzlUOV8tSEQzbkFlSGxVV3dpTHNNZTM5d01oMU0w?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Sat, 21 Nov 2026 06:01:48 GMT",
-        "base_score": 88,
-        "candidate_score": 94,
-        "priority": "High",
-        "matched_keywords": [
-          "Kıbrıs",
-          "Girit",
-          "gerilim",
-          "kablo"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "f686bfc4d595e2772f708343",
-        "mode": "geopolitico",
-        "title": "US sanctions on Turkey blocked by Greek, Israeli lobbies, Turkish minister says - eKathimerini.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMEtRZjY0OFJBNnFiMnpYYTFvM2FRTzlKN3A1d2phRnhNYjBDRUJhUC14TzctX1dJWk5fMTFYY0NrenhhS29mQS1jemdNZGtkbThkZ3FiaGxpZENyNTVZTXhfbTFwME5fSVBtUXRRZ1ctNDhIWnU0QWhPMUVQM1hXTmR4MEhpVG12c0JIcVlEUVlhckdxbkJCVDc0SGFVWnQ4dEhacTJjU1BQUFhmOG1JLWZSbEdoUDRESTNEeWtXVGhRSHRFaDJ2WEhnUGlmWnNxNnQxX3ZR?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Sat, 21 Nov 2026 19:35:48 GMT",
-        "base_score": 78,
-        "candidate_score": 93,
-        "priority": "High",
-        "matched_keywords": [
-          "Israel",
-          "Israeli",
-          "Turkey",
-          "sanctions"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "3006da0cbb9d3862105380fb",
-        "mode": "geopolitico",
-        "title": "Ελληνικές Ενοπλες Δυνάμεις: Από τα καριοφίλια του 1821 στα Rafale, τις Belharra και τα F-35 - HuffPost Greece",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTVmWjJDc1JfeDhiREV5Smx5Y2VnUktQZFk0Zkl5NDViUVQwZlE1UTVmRGo3T09aOExRaEVMNFdXdzBCRVBlbk5henR0S2lKSlZlMldKTFFqcWFfNms0VVdzQmJoQ0h2UVJMM2tPdnBNRVgya2FKUUpxRnR4UGdDQ2x5ZVk5Ylh3M3VrM2FwVHBJdjV0OU9aSmZFQ1E?oc=5",
-        "source": "Greek Defence Security Watch",
-        "published": "Sat, 21 Nov 2026 05:11:59 GMT",
-        "base_score": 87,
-        "candidate_score": 93,
-        "priority": "High",
-        "matched_keywords": [
-          "Greece",
-          "F-35",
-          "F-35",
-          "Rafale",
-          "Belharra"
         ],
         "content_type": "news"
       },
@@ -296,6 +280,61 @@
         "content_type": "turkey_greece"
       },
       {
+        "external_id": "69509d6cfcef034317115916",
+        "mode": "geopolitico",
+        "title": "Kıbrıs-Girit hattında iki kablo, tek gerilim: Yunan strateji raporunda Türkiye - Bugün Kıbrıs",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmZyTUZ0V3Y4d0xyUXV6YlpKU3JVTkNyTmJZRmhINnAtWlFZM1NJVUxWMEUxUVkwNngtSEo5bXppM3hxUzBudnVyeVAzS0oxUnBLRjY2YUFfWUlrTm0wRE9ic1FjRXJZd0RSYTVEYS10RzJmdkpQcEJBTHhGc1RJMENXMlVuXzlUOV8tSEQzbkFlSGxVV3dpTHNNZTM5d01oMU0w?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sat, 21 Nov 2026 06:01:48 GMT",
+        "base_score": 88,
+        "candidate_score": 91,
+        "priority": "High",
+        "matched_keywords": [
+          "Kıbrıs",
+          "Girit",
+          "gerilim",
+          "kablo"
+        ],
+        "content_type": "turkey_greece"
+      },
+      {
+        "external_id": "3006da0cbb9d3862105380fb",
+        "mode": "geopolitico",
+        "title": "Ελληνικές Ενοπλες Δυνάμεις: Από τα καριοφίλια του 1821 στα Rafale, τις Belharra και τα F-35 - HuffPost Greece",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTVmWjJDc1JfeDhiREV5Smx5Y2VnUktQZFk0Zkl5NDViUVQwZlE1UTVmRGo3T09aOExRaEVMNFdXdzBCRVBlbk5henR0S2lKSlZlMldKTFFqcWFfNms0VVdzQmJoQ0h2UVJMM2tPdnBNRVgya2FKUUpxRnR4UGdDQ2x5ZVk5Ylh3M3VrM2FwVHBJdjV0OU9aSmZFQ1E?oc=5",
+        "source": "Greek Defence Security Watch",
+        "published": "Sat, 21 Nov 2026 05:11:59 GMT",
+        "base_score": 87,
+        "candidate_score": 90,
+        "priority": "High",
+        "matched_keywords": [
+          "Greece",
+          "F-35",
+          "F-35",
+          "Rafale",
+          "Belharra"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "f686bfc4d595e2772f708343",
+        "mode": "geopolitico",
+        "title": "US sanctions on Turkey blocked by Greek, Israeli lobbies, Turkish minister says - eKathimerini.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMEtRZjY0OFJBNnFiMnpYYTFvM2FRTzlKN3A1d2phRnhNYjBDRUJhUC14TzctX1dJWk5fMTFYY0NrenhhS29mQS1jemdNZGtkbThkZ3FiaGxpZENyNTVZTXhfbTFwME5fSVBtUXRRZ1ctNDhIWnU0QWhPMUVQM1hXTmR4MEhpVG12c0JIcVlEUVlhckdxbkJCVDc0SGFVWnQ4dEhacTJjU1BQUFhmOG1JLWZSbEdoUDRESTNEeWtXVGhRSHRFaDJ2WEhnUGlmWnNxNnQxX3ZR?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Sat, 21 Nov 2026 19:35:48 GMT",
+        "base_score": 78,
+        "candidate_score": 88,
+        "priority": "High",
+        "matched_keywords": [
+          "Israel",
+          "Israeli",
+          "Turkey",
+          "sanctions"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "158f019ebe9a71c1229c7bc3",
         "mode": "geopolitico",
         "title": "China-Pakistan ties raise two-front conflict risk for India: US report - The Times of India",
@@ -313,39 +352,21 @@
         "content_type": "news"
       },
       {
-        "external_id": "4c2cc871d25d9c86b797ceec",
+        "external_id": "4d105ccdfc8a6a4760c597e5",
         "mode": "geopolitico",
-        "title": "Greece and Israel Discuss Up to €1 Billion in New Defence Deals - Greek City Times",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkw5MXBUV2wzbS11MEJXMTU0NEZ2clp2bEhueTEtLVpmUFAxYVF6dU1ONFpWWXZWdmRESmhOTWtEY29IdEpxNjRTWG55a0dTSmdkM1U2dFZ6WURUUjM0aTFiVXFJMk1YZ3FBZ0E4S1VVUHdHbUZwNWJDSkVWQTQzOTRCcjZrcVNZWnpqQjFReTdsaWVyYVRESk5TUzc2LUtY?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Sat, 21 Nov 2026 18:56:59 GMT",
-        "base_score": 72,
-        "candidate_score": 87,
+        "title": "Yunanistan'ı düşündüren Türk hamlesi! '50'den 80'e çıktı: Ege senaryosu masada' - Milliyet",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXltcE9yaFpGWWZ5VFJ0SUh0Umwzd3lYcld1WjlYeWtZUkk4S0g1RWRlMVVmQmlOclFXcUdXbF9zUkt2OTV0Q2VxTldTOTl5LTAtSDJyOHpsbkNmZWR3VkV5VFBfUFZkeDNxN3V2UW9BaHQ5TmpPOWlJaXYtSUowcFJZV20yNC1FdHJLempWYkdaVm9RZlY4dUdvS3FvbTJZWGdrVTEydWVtR244cXVLcERzUFc4QTV3QkR5bXB3M0ZIS0k?oc=5",
+        "source": "Turkey Greece Breaking Watch",
+        "published": "Sat, 21 Nov 2026 08:24:00 GMT",
+        "base_score": 79,
+        "candidate_score": 85,
         "priority": "High",
         "matched_keywords": [
-          "Greece",
-          "Israel",
-          "defence"
+          "Yunanistan",
+          "Ege",
+          "ada"
         ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "79bacf47c1da2482411ee842",
-        "mode": "geopolitico",
-        "title": "pakistan-army-helicopter-counterterrorism-operation.jpg - Balochistan Pulse",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYUNlQlpMRHRtb0lQN09xUmYtRTN4WTZWQnhKM3p5RlZaN2xpTllrck5vd1htcW1kaTVWOU8wN25UWVZrVUtVNm5aYWZWS053OXlaY21IZG5LRlJ0VW5DNXlmWm9xWHdwVFlDWkVjYmtoal8xTWlUblN3OFg2S2FjMERTeTBNOVdyRFlBc3hHVXZJZVVvOWdKWEcwSjlIRVNEN2lmUFd4cDRjQmZXNFVGdHI3ZlZfUjdRbEFYUUJvV0dTLVJOYS1TTEVxSDV1VERTc2FPLXZQU3ljbDM4OC0tYmd5bmZmUGxRbmotYjE4RkU1d0JTWG5MNVQ5RjdxeGlrcHRueVlLVkk?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Sat, 21 Nov 2026 14:00:52 GMT",
-        "base_score": 77,
-        "candidate_score": 87,
-        "priority": "High",
-        "matched_keywords": [
-          "Pakistan",
-          "Balochistan",
-          "terrorism",
-          "counterterrorism"
-        ],
-        "content_type": "news"
+        "content_type": "turkey_greece"
       }
     ],
     "pontos_voice": [
@@ -376,12 +397,29 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 20 Nov 2026 17:10:31 GMT",
         "base_score": 100,
-        "candidate_score": 103,
+        "candidate_score": 100,
         "priority": "URGENT",
         "matched_keywords": [
           "Pontos",
           "Παναγία Σουμελά",
           "Σουμελά"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "d4b7891dbd421f04d9153462",
+        "mode": "pontos_voice",
+        "title": "Σίδνεϊ: Ο σέρρα χορός που ξεχώρισε στο αντάμωμα της «Παναγίας Σουμελά» - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXNTbXJ2MG1vNUppYnpzZGRrWmRoQUdVQ3lUYzJNTUZqU2pKck5jRWpzTUl2Vnd3ME84YWJ1LWpQcUl1a2lEaGNoWEpmWVYwb3pheG54VE4wUXVQanBmOFJ0TFl1eTI4UXJtcHZmT0swZHRZWUxMSkt5T0c1c3lFVXNaVVl6NEZtQUZ2Vk02RE1aeHBTUDV4TXNGSEVNMmEycFdwMThKbzM2Qk90R0FkaGYzVTl5eWdDUHdRdDBR?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Fri, 20 Nov 2026 09:59:44 GMT",
+        "base_score": 84,
+        "candidate_score": 84,
+        "priority": "High",
+        "matched_keywords": [
+          "Pontos",
+          "Σουμελά",
+          "χορός"
         ],
         "content_type": "news"
       },
@@ -393,7 +431,7 @@
         "source": "Pontos News Watch",
         "published": "Sat, 21 Nov 2026 19:04:45 GMT",
         "base_score": 72,
-        "candidate_score": 87,
+        "candidate_score": 82,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -418,34 +456,18 @@
         "content_type": "news"
       },
       {
-        "external_id": "be3c5c0fa71945eac799ea3c",
+        "external_id": "d45e68a8dc78e93ed03236d6",
         "mode": "pontos_voice",
         "title": "Δένδιας για τη Γενοκτονία των Ποντίων: «Ζήτημα Διεθνούς Δικαίου» η διεθνής αναγνώριση - Ethnos",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmZ5S29XZWQ1YzhaRzljVkM5dE1UVUZiV2NqTWNhVGJyWnp0OTZQQ2FVeVZSOHEwaWUwZHZVaEk3UjRlMTc5cC1qNGpwWFF1c1d1ZkZ2Q3NIWmlBVWl6S3J3bWFmazZIQUN0S3pwSHhtRFFuM2EyZzFLUExYeEo1UFBHZ2hUenBoUXhWemtTei1RLXVNbDNoMnliZG9xUzBaelJFVFNzdjViTlMwbHI1bHlDSdIBswFBVV95cUxQTmZ5S29XZWQ1YzhaRzljVkM5dE1UVUZiV2NqTWNhVGJyWnp0OTZQQ2FVeVZSOHEwaWUwZHZVaEk3UjRlMTc5cC1qNGpwWFF1c1d1ZkZ2Q3NIWmlBVWl6S3J3bWFmazZIQUN0S3pwSHhtRFFuM2EyZzFLUExYeEo1UFBHZ2hUenBoUXhWemtTei1RLXVNbDNoMnliZG9xUzBaelJFVFNzdjViTlMwbHI1bHlDSQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2RSdDBFdVNlanhPN1RLZndJTVVlWGhGRFlNcEVhMzNLWkNkSFNWZ2NaVWVnZHEwV3R4RGJkbGFMQmR1VUJxdjQ4bkJfMS0xeXlnTWhaUzY5aEgzV19tNXdJQllMbjByODMzdnVRZmJlOHRnTVBQbEhaR21Sek05TjIyMm5IdFJVcHlGR2prUnh2Nm5wMGR0WkpxRjJBS2kyaF94VDVqSmN3X21yd0dNMFRCUFBhQjlZ?oc=5",
         "source": "Greek Press Pontic Genocide Watch",
-        "published": "Fri, 20 Nov 2026 21:08:31 GMT",
+        "published": "Fri, 20 Nov 2026 21:05:00 GMT",
         "base_score": 72,
         "candidate_score": 75,
         "priority": "High",
         "matched_keywords": [
           "Γενοκτονία των Ποντίων",
           "διεθνής αναγνώριση"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "1f82ba9ad3c0806ac26a0c1f",
-        "mode": "pontos_voice",
-        "title": "Δυτικός Πόντος και Πάφρα στη σημαντική «2η Ημερίδα για τον Δυτικό Πόντο» στον Νικηφόρο Δράμας - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGNucnZjWlZZNnE0UjhNanhVUWNPNFJYLW8yNGlweXgyMEJXOFFIT0lVQzhWUnBpanJWazdOYk9OWndYYmx1RzN3cDVKck5qZWRSYkJna0lsaVRiaEJVcGg5cFRpeVJjRXdvOTNzekhfMEFFemlKTk8zSi14bGNKMmJLNC1YZ2MzNnZRRUhwMGlTWndfZzk3NGxQamZMdzQ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Fri, 20 Nov 2026 15:01:03 GMT",
-        "base_score": 75,
-        "candidate_score": 75,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "Πόντος"
         ],
         "content_type": "news"
       }
@@ -472,6 +494,46 @@
       "team": "Olympiacos",
       "readiness": "READY",
       "needs_second_source": false
+    },
+    {
+      "external_id": "0fe46bcc29a5c73b5f26f016",
+      "mode": "sportdog",
+      "title": "Mateo Kovačić Transfer from Manchester City to Panathinaikos - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDAzeFJOdUI4cW9WRFROcDNqdmdTeGFLZmRzYldVNnJsRnFrblplVmlWVG1qUHk0UGhzeHlvMDhheG03NWNUdWs1bHNoUEFDY3F5LUZoODJjM0Z3bEZ1dUR2c0hrVjdPOVRDXzBHZDhyU0xHRVltT2NScUJVOTJ3OGIzNDVoVTZJOXBoVWtnQ3NqRU9nalE?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Sat, 21 Nov 2026 20:36:47 GMT",
+      "base_score": 58,
+      "candidate_score": 88,
+      "priority": "High",
+      "matched_keywords": [
+        "Panathinaikos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Panathinaikos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
+      "external_id": "450f94de32d25f282e45cda1",
+      "mode": "sportdog",
+      "title": "Olympiacos will pay 5 million euros for the transfer of Nair Tiknizyan - Radar Armenia",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbGJPa3ZnaGdNTkZ1eEFNb3FNOTZyTDlfNHI0TjQzQ1NIWE1LNkwyQ0tZWThiM2o4bGI5RkpjSVR6dmJMVTAtcjlXOEx6Q3NtQnQwbQ?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sat, 21 Nov 2026 09:40:57 GMT",
+      "base_score": 56,
+      "candidate_score": 82,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "690aaff4924337b475c7a303",
@@ -501,7 +563,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 21 Nov 2026 20:27:06 GMT",
       "base_score": 56,
-      "candidate_score": 79,
+      "candidate_score": 74,
       "priority": "High",
       "matched_keywords": [
         "AEK",
@@ -521,7 +583,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 21 Nov 2026 15:46:04 GMT",
       "base_score": 41,
-      "candidate_score": 59,
+      "candidate_score": 55,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -530,25 +592,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "ccd66131da10a99fa3004b91",
-      "mode": "sportdog",
-      "title": "Sources: Inside Olympiacos' Interest in Chivas Duo Santiago Sandoval & Bryan Gonzalez - roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3AtMDR6LWtWTFBfbzNSTU5TS05TS1hwZXRJMnN5M3BGZW1oa2RvTkI3ZkxLby1vYjB2UlV2Y09wMWJiX3pZQ29hdkhLSVdsNzhlVThJazVGeHlTSHFHSi1JUWtCWTVpS2ZXWVBrTUI5NW5zdThnQUwxYkFCQ2JTUHN1dXh3QVM4RFE4clhtbGc5b1FsSVdyNk9WQkYtdXR0Ym4xYk5heHVYbEU3MGE4Q3NrVENtc2xlZ24yOTZKdDRTZVg1Nk5mdVRram9seS1LOU9iWg?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Sat, 21 Nov 2026 20:07:39 GMT",
-      "base_score": 31,
-      "candidate_score": 54,
-      "priority": "Normal",
-      "matched_keywords": [
-        "Olympiacos"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -573,22 +616,21 @@
       "needs_second_source": true
     },
     {
-      "external_id": "6414e1416e87fe00f42998d2",
+      "external_id": "ccd66131da10a99fa3004b91",
       "mode": "sportdog",
-      "title": "PAOK expected to add former NBA forward from Dubai - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmgwT2RuOE5DU21OTlpmaWJZQ3pFZHE1cnFYU1dhbEhadlEtTjFDMnoxOTVLXzV4emxIUWk2ZXV1cUU1SXZZa1dGOW5DcTlNU01BQ0pHSUgzSXVueGt3aTJGWFBBUEZkS0lfSU5nRUc0bkhWRWY0ZWNwR0NfOVZVTFlraHNSZk5KYkl4TTRDRzF0d2U3ZEsyYlUxR1lCWHM1T0lV?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Fri, 20 Nov 2026 12:18:00 GMT",
-      "base_score": 39,
-      "candidate_score": 47,
+      "title": "Sources: Inside Olympiacos' Interest in Chivas Duo Santiago Sandoval & Bryan Gonzalez - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3AtMDR6LWtWTFBfbzNSTU5TS05TS1hwZXRJMnN5M3BGZW1oa2RvTkI3ZkxLby1vYjB2UlV2Y09wMWJiX3pZQ29hdkhLSVdsNzhlVThJazVGeHlTSHFHSi1JUWtCWTVpS2ZXWVBrTUI5NW5zdThnQUwxYkFCQ2JTUHN1dXh3QVM4RFE4clhtbGc5b1FsSVdyNk9WQkYtdXR0Ym4xYk5heHVYbEU3MGE4Q3NrVENtc2xlZ24yOTZKdDRTZVg1Nk5mdVRram9seS1LOU9iWg?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Sat, 21 Nov 2026 20:07:39 GMT",
+      "base_score": 31,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
-        "PAOK",
-        "forward"
+        "Olympiacos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
-      "team": "PAOK",
+      "team": "Olympiacos",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -619,7 +661,7 @@
       "source": "AEK Rumour Watch",
       "published": "Sat, 21 Nov 2026 05:30:00 GMT",
       "base_score": 31,
-      "candidate_score": 45,
+      "candidate_score": 42,
       "priority": "Normal",
       "matched_keywords": [
         "AEK"
@@ -638,7 +680,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 20 Nov 2026 16:31:00 GMT",
       "base_score": 31,
-      "candidate_score": 42,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -648,6 +690,25 @@
       "team": "Panathinaikos",
       "readiness": "WATCH",
       "needs_second_source": true
+    },
+    {
+      "external_id": "0ea23e9f927ea3e76f7fb79f",
+      "mode": "geopolitico",
+      "title": "Turkey Launches Combat Drones from Highways, Impacting Pakistan and India - times of islamabad",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXJUWE4yQW8wWGlCNDhRbTdQUWl1NEJpQnQ5SDlHZVZnNnZGdXkxSnUwakJLdTkzUkgzZDlqdWRYekl3UnUtbWVWdS1laXp2dTUzOG10V0tKM0JKSkRMdnpGeHRIYzVWcmdYQVY4TGVCVUNKUUZfSVBCejBhbmxFLVp2RHdyVTVSczlRU1R6dnV4TDhxM1FPTzNYb0FyWFl1TUpDLUlDbXQ2VUJmUTFjUUhYRQ?oc=5",
+      "source": "Pakistan Turkey Watch",
+      "published": "Sat, 21 Nov 2026 17:06:22 GMT",
+      "base_score": 98,
+      "candidate_score": 104,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Pakistan",
+        "Islamabad",
+        "Turkey",
+        "drone"
+      ],
+      "content_type": "news"
     },
     {
       "external_id": "b5fd97bee73abd9434399fc0",
@@ -663,61 +724,6 @@
         "Greece",
         "Israel",
         "Cyprus"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "69509d6cfcef034317115916",
-      "mode": "geopolitico",
-      "title": "Kıbrıs-Girit hattında iki kablo, tek gerilim: Yunan strateji raporunda Türkiye - Bugün Kıbrıs",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmZyTUZ0V3Y4d0xyUXV6YlpKU3JVTkNyTmJZRmhINnAtWlFZM1NJVUxWMEUxUVkwNngtSEo5bXppM3hxUzBudnVyeVAzS0oxUnBLRjY2YUFfWUlrTm0wRE9ic1FjRXJZd0RSYTVEYS10RzJmdkpQcEJBTHhGc1RJMENXMlVuXzlUOV8tSEQzbkFlSGxVV3dpTHNNZTM5d01oMU0w?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Sat, 21 Nov 2026 06:01:48 GMT",
-      "base_score": 88,
-      "candidate_score": 94,
-      "priority": "High",
-      "matched_keywords": [
-        "Kıbrıs",
-        "Girit",
-        "gerilim",
-        "kablo"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "f686bfc4d595e2772f708343",
-      "mode": "geopolitico",
-      "title": "US sanctions on Turkey blocked by Greek, Israeli lobbies, Turkish minister says - eKathimerini.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMEtRZjY0OFJBNnFiMnpYYTFvM2FRTzlKN3A1d2phRnhNYjBDRUJhUC14TzctX1dJWk5fMTFYY0NrenhhS29mQS1jemdNZGtkbThkZ3FiaGxpZENyNTVZTXhfbTFwME5fSVBtUXRRZ1ctNDhIWnU0QWhPMUVQM1hXTmR4MEhpVG12c0JIcVlEUVlhckdxbkJCVDc0SGFVWnQ4dEhacTJjU1BQUFhmOG1JLWZSbEdoUDRESTNEeWtXVGhRSHRFaDJ2WEhnUGlmWnNxNnQxX3ZR?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Sat, 21 Nov 2026 19:35:48 GMT",
-      "base_score": 78,
-      "candidate_score": 93,
-      "priority": "High",
-      "matched_keywords": [
-        "Israel",
-        "Israeli",
-        "Turkey",
-        "sanctions"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "3006da0cbb9d3862105380fb",
-      "mode": "geopolitico",
-      "title": "Ελληνικές Ενοπλες Δυνάμεις: Από τα καριοφίλια του 1821 στα Rafale, τις Belharra και τα F-35 - HuffPost Greece",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTVmWjJDc1JfeDhiREV5Smx5Y2VnUktQZFk0Zkl5NDViUVQwZlE1UTVmRGo3T09aOExRaEVMNFdXdzBCRVBlbk5henR0S2lKSlZlMldKTFFqcWFfNms0VVdzQmJoQ0h2UVJMM2tPdnBNRVgya2FKUUpxRnR4UGdDQ2x5ZVk5Ylh3M3VrM2FwVHBJdjV0OU9aSmZFQ1E?oc=5",
-      "source": "Greek Defence Security Watch",
-      "published": "Sat, 21 Nov 2026 05:11:59 GMT",
-      "base_score": 87,
-      "candidate_score": 93,
-      "priority": "High",
-      "matched_keywords": [
-        "Greece",
-        "F-35",
-        "F-35",
-        "Rafale",
-        "Belharra"
       ],
       "content_type": "news"
     },
@@ -739,6 +745,61 @@
       "content_type": "turkey_greece"
     },
     {
+      "external_id": "69509d6cfcef034317115916",
+      "mode": "geopolitico",
+      "title": "Kıbrıs-Girit hattında iki kablo, tek gerilim: Yunan strateji raporunda Türkiye - Bugün Kıbrıs",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmZyTUZ0V3Y4d0xyUXV6YlpKU3JVTkNyTmJZRmhINnAtWlFZM1NJVUxWMEUxUVkwNngtSEo5bXppM3hxUzBudnVyeVAzS0oxUnBLRjY2YUFfWUlrTm0wRE9ic1FjRXJZd0RSYTVEYS10RzJmdkpQcEJBTHhGc1RJMENXMlVuXzlUOV8tSEQzbkFlSGxVV3dpTHNNZTM5d01oMU0w?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sat, 21 Nov 2026 06:01:48 GMT",
+      "base_score": 88,
+      "candidate_score": 91,
+      "priority": "High",
+      "matched_keywords": [
+        "Kıbrıs",
+        "Girit",
+        "gerilim",
+        "kablo"
+      ],
+      "content_type": "turkey_greece"
+    },
+    {
+      "external_id": "3006da0cbb9d3862105380fb",
+      "mode": "geopolitico",
+      "title": "Ελληνικές Ενοπλες Δυνάμεις: Από τα καριοφίλια του 1821 στα Rafale, τις Belharra και τα F-35 - HuffPost Greece",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTVmWjJDc1JfeDhiREV5Smx5Y2VnUktQZFk0Zkl5NDViUVQwZlE1UTVmRGo3T09aOExRaEVMNFdXdzBCRVBlbk5henR0S2lKSlZlMldKTFFqcWFfNms0VVdzQmJoQ0h2UVJMM2tPdnBNRVgya2FKUUpxRnR4UGdDQ2x5ZVk5Ylh3M3VrM2FwVHBJdjV0OU9aSmZFQ1E?oc=5",
+      "source": "Greek Defence Security Watch",
+      "published": "Sat, 21 Nov 2026 05:11:59 GMT",
+      "base_score": 87,
+      "candidate_score": 90,
+      "priority": "High",
+      "matched_keywords": [
+        "Greece",
+        "F-35",
+        "F-35",
+        "Rafale",
+        "Belharra"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "f686bfc4d595e2772f708343",
+      "mode": "geopolitico",
+      "title": "US sanctions on Turkey blocked by Greek, Israeli lobbies, Turkish minister says - eKathimerini.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMEtRZjY0OFJBNnFiMnpYYTFvM2FRTzlKN3A1d2phRnhNYjBDRUJhUC14TzctX1dJWk5fMTFYY0NrenhhS29mQS1jemdNZGtkbThkZ3FiaGxpZENyNTVZTXhfbTFwME5fSVBtUXRRZ1ctNDhIWnU0QWhPMUVQM1hXTmR4MEhpVG12c0JIcVlEUVlhckdxbkJCVDc0SGFVWnQ4dEhacTJjU1BQUFhmOG1JLWZSbEdoUDRESTNEeWtXVGhRSHRFaDJ2WEhnUGlmWnNxNnQxX3ZR?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Sat, 21 Nov 2026 19:35:48 GMT",
+      "base_score": 78,
+      "candidate_score": 88,
+      "priority": "High",
+      "matched_keywords": [
+        "Israel",
+        "Israeli",
+        "Turkey",
+        "sanctions"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "158f019ebe9a71c1229c7bc3",
       "mode": "geopolitico",
       "title": "China-Pakistan ties raise two-front conflict risk for India: US report - The Times of India",
@@ -756,39 +817,21 @@
       "content_type": "news"
     },
     {
-      "external_id": "4c2cc871d25d9c86b797ceec",
+      "external_id": "4d105ccdfc8a6a4760c597e5",
       "mode": "geopolitico",
-      "title": "Greece and Israel Discuss Up to €1 Billion in New Defence Deals - Greek City Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkw5MXBUV2wzbS11MEJXMTU0NEZ2clp2bEhueTEtLVpmUFAxYVF6dU1ONFpWWXZWdmRESmhOTWtEY29IdEpxNjRTWG55a0dTSmdkM1U2dFZ6WURUUjM0aTFiVXFJMk1YZ3FBZ0E4S1VVUHdHbUZwNWJDSkVWQTQzOTRCcjZrcVNZWnpqQjFReTdsaWVyYVRESk5TUzc2LUtY?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Sat, 21 Nov 2026 18:56:59 GMT",
-      "base_score": 72,
-      "candidate_score": 87,
+      "title": "Yunanistan'ı düşündüren Türk hamlesi! '50'den 80'e çıktı: Ege senaryosu masada' - Milliyet",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXltcE9yaFpGWWZ5VFJ0SUh0Umwzd3lYcld1WjlYeWtZUkk4S0g1RWRlMVVmQmlOclFXcUdXbF9zUkt2OTV0Q2VxTldTOTl5LTAtSDJyOHpsbkNmZWR3VkV5VFBfUFZkeDNxN3V2UW9BaHQ5TmpPOWlJaXYtSUowcFJZV20yNC1FdHJLempWYkdaVm9RZlY4dUdvS3FvbTJZWGdrVTEydWVtR244cXVLcERzUFc4QTV3QkR5bXB3M0ZIS0k?oc=5",
+      "source": "Turkey Greece Breaking Watch",
+      "published": "Sat, 21 Nov 2026 08:24:00 GMT",
+      "base_score": 79,
+      "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
-        "Greece",
-        "Israel",
-        "defence"
+        "Yunanistan",
+        "Ege",
+        "ada"
       ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "79bacf47c1da2482411ee842",
-      "mode": "geopolitico",
-      "title": "pakistan-army-helicopter-counterterrorism-operation.jpg - Balochistan Pulse",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYUNlQlpMRHRtb0lQN09xUmYtRTN4WTZWQnhKM3p5RlZaN2xpTllrck5vd1htcW1kaTVWOU8wN25UWVZrVUtVNm5aYWZWS053OXlaY21IZG5LRlJ0VW5DNXlmWm9xWHdwVFlDWkVjYmtoal8xTWlUblN3OFg2S2FjMERTeTBNOVdyRFlBc3hHVXZJZVVvOWdKWEcwSjlIRVNEN2lmUFd4cDRjQmZXNFVGdHI3ZlZfUjdRbEFYUUJvV0dTLVJOYS1TTEVxSDV1VERTc2FPLXZQU3ljbDM4OC0tYmd5bmZmUGxRbmotYjE4RkU1d0JTWG5MNVQ5RjdxeGlrcHRueVlLVkk?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Sat, 21 Nov 2026 14:00:52 GMT",
-      "base_score": 77,
-      "candidate_score": 87,
-      "priority": "High",
-      "matched_keywords": [
-        "Pakistan",
-        "Balochistan",
-        "terrorism",
-        "counterterrorism"
-      ],
-      "content_type": "news"
+      "content_type": "turkey_greece"
     },
     {
       "external_id": "65a689850372c47a1a4b2fda",
@@ -817,12 +860,29 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 20 Nov 2026 17:10:31 GMT",
       "base_score": 100,
-      "candidate_score": 103,
+      "candidate_score": 100,
       "priority": "URGENT",
       "matched_keywords": [
         "Pontos",
         "Παναγία Σουμελά",
         "Σουμελά"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "d4b7891dbd421f04d9153462",
+      "mode": "pontos_voice",
+      "title": "Σίδνεϊ: Ο σέρρα χορός που ξεχώρισε στο αντάμωμα της «Παναγίας Σουμελά» - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXNTbXJ2MG1vNUppYnpzZGRrWmRoQUdVQ3lUYzJNTUZqU2pKck5jRWpzTUl2Vnd3ME84YWJ1LWpQcUl1a2lEaGNoWEpmWVYwb3pheG54VE4wUXVQanBmOFJ0TFl1eTI4UXJtcHZmT0swZHRZWUxMSkt5T0c1c3lFVXNaVVl6NEZtQUZ2Vk02RE1aeHBTUDV4TXNGSEVNMmEycFdwMThKbzM2Qk90R0FkaGYzVTl5eWdDUHdRdDBR?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Fri, 20 Nov 2026 09:59:44 GMT",
+      "base_score": 84,
+      "candidate_score": 84,
+      "priority": "High",
+      "matched_keywords": [
+        "Pontos",
+        "Σουμελά",
+        "χορός"
       ],
       "content_type": "news"
     },
@@ -834,7 +894,7 @@
       "source": "Pontos News Watch",
       "published": "Sat, 21 Nov 2026 19:04:45 GMT",
       "base_score": 72,
-      "candidate_score": 87,
+      "candidate_score": 82,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -859,34 +919,18 @@
       "content_type": "news"
     },
     {
-      "external_id": "be3c5c0fa71945eac799ea3c",
+      "external_id": "d45e68a8dc78e93ed03236d6",
       "mode": "pontos_voice",
       "title": "Δένδιας για τη Γενοκτονία των Ποντίων: «Ζήτημα Διεθνούς Δικαίου» η διεθνής αναγνώριση - Ethnos",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmZ5S29XZWQ1YzhaRzljVkM5dE1UVUZiV2NqTWNhVGJyWnp0OTZQQ2FVeVZSOHEwaWUwZHZVaEk3UjRlMTc5cC1qNGpwWFF1c1d1ZkZ2Q3NIWmlBVWl6S3J3bWFmazZIQUN0S3pwSHhtRFFuM2EyZzFLUExYeEo1UFBHZ2hUenBoUXhWemtTei1RLXVNbDNoMnliZG9xUzBaelJFVFNzdjViTlMwbHI1bHlDSdIBswFBVV95cUxQTmZ5S29XZWQ1YzhaRzljVkM5dE1UVUZiV2NqTWNhVGJyWnp0OTZQQ2FVeVZSOHEwaWUwZHZVaEk3UjRlMTc5cC1qNGpwWFF1c1d1ZkZ2Q3NIWmlBVWl6S3J3bWFmazZIQUN0S3pwSHhtRFFuM2EyZzFLUExYeEo1UFBHZ2hUenBoUXhWemtTei1RLXVNbDNoMnliZG9xUzBaelJFVFNzdjViTlMwbHI1bHlDSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2RSdDBFdVNlanhPN1RLZndJTVVlWGhGRFlNcEVhMzNLWkNkSFNWZ2NaVWVnZHEwV3R4RGJkbGFMQmR1VUJxdjQ4bkJfMS0xeXlnTWhaUzY5aEgzV19tNXdJQllMbjByODMzdnVRZmJlOHRnTVBQbEhaR21Sek05TjIyMm5IdFJVcHlGR2prUnh2Nm5wMGR0WkpxRjJBS2kyaF94VDVqSmN3X21yd0dNMFRCUFBhQjlZ?oc=5",
       "source": "Greek Press Pontic Genocide Watch",
-      "published": "Fri, 20 Nov 2026 21:08:31 GMT",
+      "published": "Fri, 20 Nov 2026 21:05:00 GMT",
       "base_score": 72,
       "candidate_score": 75,
       "priority": "High",
       "matched_keywords": [
         "Γενοκτονία των Ποντίων",
         "διεθνής αναγνώριση"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "1f82ba9ad3c0806ac26a0c1f",
-      "mode": "pontos_voice",
-      "title": "Δυτικός Πόντος και Πάφρα στη σημαντική «2η Ημερίδα για τον Δυτικό Πόντο» στον Νικηφόρο Δράμας - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGNucnZjWlZZNnE0UjhNanhVUWNPNFJYLW8yNGlweXgyMEJXOFFIT0lVQzhWUnBpanJWazdOYk9OWndYYmx1RzN3cDVKck5qZWRSYkJna0lsaVRiaEJVcGg5cFRpeVJjRXdvOTNzekhfMEFFemlKTk8zSi14bGNKMmJLNC1YZ2MzNnZRRUhwMGlTWndfZzk3NGxQamZMdzQ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Fri, 20 Nov 2026 15:01:03 GMT",
-      "base_score": 75,
-      "candidate_score": 75,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "Πόντος"
       ],
       "content_type": "news"
     }
