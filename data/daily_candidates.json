@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:51:57.348618+00:00",
+  "generated_at": "2026-11-26T04:35:48.721231+00:00",
   "counts": {
     "sportdog": 15,
     "geopolitico": 8,
@@ -29,27 +29,6 @@
         "needs_second_source": false
       },
       {
-        "external_id": "c48d852737f90ca82603e74b",
-        "mode": "sportdog",
-        "title": "Bartzokas addresses Olympiacos' transfer search, provides Milutinov injury update - BasketNews.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUdhRVZZQ3JIS1MyVzFxdjBXYTZITndTTmUyVmx1YXpFSmtPS3drZ1lsQnY4N2x0WEgtMDZvN3IzSk9TUEZhbFRRc3NpZlZfd2VGMzZNMWNlZHVydEZTSV85R3VucHAzVDB6TzRiN2tEMGNfbmFrVHhNcHFjOG1zNjIzY0h1S3BHM0ZxRkY5aVUwMEdHeGRFaHlScmk4NFlxSVV6eVFEanVGaDJQWHJPSndkc1EyNFhsM1pN?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Tue, 24 Nov 2026 13:12:00 GMT",
-        "base_score": 66,
-        "candidate_score": 95,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Olympiacos",
-          "transfer",
-          "injury"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
         "external_id": "bb0c855f9fb0415a6a5cc4ab",
         "mode": "sportdog",
         "title": "Olympiacos issue strong statement after Panathinaikos punishment overturned - BasketNews.com",
@@ -57,7 +36,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 25 Nov 2026 17:05:00 GMT",
         "base_score": 62,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Olympiacos",
@@ -66,8 +45,8 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Olympiacos",
-        "readiness": "READY",
-        "needs_second_source": false
+        "readiness": "VERIFY",
+        "needs_second_source": true
       },
       {
         "external_id": "0fe46bcc29a5c73b5f26f016",
@@ -77,7 +56,7 @@
         "source": "TransferFeed Greek Super League",
         "published": "Wed, 25 Nov 2026 16:52:50 GMT",
         "base_score": 58,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -86,26 +65,6 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Panathinaikos",
-        "readiness": "READY",
-        "needs_second_source": false
-      },
-      {
-        "external_id": "e5d3500b8c5d2280cfe13d54",
-        "mode": "sportdog",
-        "title": "Fedor Lapoukhov Transfer from CSKA Sofia to PAOK - TransferFeed",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjJySEtFdVFhdy05TjE1aGM3M2VPMjkwSWpTLVBQMWlQc3hKZl9ucnhMclRHeXlwZXNJVEh4ajdlRjJnR3pLMDd4SGVYbmxmRUJxVGlMbFlZVllvOE85Q1VVLXBHbC1zYnktTGp5UC1HZ3A2YTNJYmh3OHkzOU1NWmZxbHNzQQ?oc=5",
-        "source": "TransferFeed Greek Super League",
-        "published": "Wed, 25 Nov 2026 05:16:35 GMT",
-        "base_score": 58,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "PAOK",
-          "transfer"
-        ],
-        "content_type": "news",
-        "editorial_type": "Transfer Report",
-        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -126,6 +85,26 @@
         "content_type": "news",
         "editorial_type": "Transfer Report",
         "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "e5d3500b8c5d2280cfe13d54",
+        "mode": "sportdog",
+        "title": "Fedor Lapoukhov Transfer from CSKA Sofia to PAOK - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjJySEtFdVFhdy05TjE1aGM3M2VPMjkwSWpTLVBQMWlQc3hKZl9ucnhMclRHeXlwZXNJVEh4ajdlRjJnR3pLMDd4SGVYbmxmRUJxVGlMbFlZVllvOE85Q1VVLXBHbC1zYnktTGp5UC1HZ3A2YTNJYmh3OHkzOU1NWmZxbHNzQQ?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Wed, 25 Nov 2026 05:16:35 GMT",
+        "base_score": 58,
+        "candidate_score": 81,
+        "priority": "High",
+        "matched_keywords": [
+          "PAOK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "PAOK",
         "readiness": "VERIFY",
         "needs_second_source": true
       },
@@ -171,6 +150,46 @@
         "needs_second_source": true
       },
       {
+        "external_id": "63a33773eba3a2d002f9a628",
+        "mode": "sportdog",
+        "title": "Nordsjælland vs Panathinaikos Prediction & Betting Tips | 26/11/2026 - FootballPredictions.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemZWN2VUd0FsRW90QXVKQkFqRkFRT243SVBIOEgyRzVhUV94LVBZeWsydXYzQ3BTaXBJRGNQUFBvd01tRUluakwyTTNNNWgxbktiR2xZc3A3R0VEcDdYalFLMDc1cHVuNy1ScDlHalBiOHZ5MXhfQlNFNmNkR1RrekFwX2xvSEVRNkJWRjlKWWM2bE1scU9mT2RIOUw4bE1NejZWWjNqVUhkNXR6Q3htMzFZR0x1S1J2dEhQeWQ4NnJnNEsyc0VTV3otUWlLRXFIN2J3M2Q3ZEpzdw?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Thu, 26 Nov 2026 02:25:54 GMT",
+        "base_score": 41,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Panathinaikos",
+          "football"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Panathinaikos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "dca34367d0f21d101b9372a9",
+        "mode": "sportdog",
+        "title": "MN: Milan injury list up to nine as Bartesaghi ruled out of Olympiacos trip – the situation - SempreMilan",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yOHNWcmtEQXJITHVSMjlVY1RnYUh1aXFfTWFqWGZ0SXp4NVBuOUpaS0xPOWM0QUhoUnVSVkd0eklTcWszWDJqU0JDQ0VxX2xKdV9sb3RVQmp5d1o2d0ZFSHFweGVYOTcwY0hKaFloUFNCd9IBd0FVX3lxTFBSVlRCUW1uYU9nSEZZWVp2NkJVLTVtT25XcDRaUWhhbnR4LWhuaDRwdW9lVW9RS0c5SUxvckVhSzdpWHZUMWR4SDJIYldWOXNuUnpxckM0X05KMFdkYzNuMUNRb2V4R3FNbEdKcEtYVzV4M3JOUml3?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Wed, 25 Nov 2026 16:30:00 GMT",
+        "base_score": 41,
+        "candidate_score": 64,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Olympiacos",
+          "injury"
+        ],
+        "content_type": "news",
+        "editorial_type": "Injury",
+        "team": "Olympiacos",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "bbe641d18bf61363d58bafca",
         "mode": "sportdog",
         "title": "Como 1-0 AEK Athens FC: Champions League result · SNA - Sport News Africa",
@@ -178,7 +197,7 @@
         "source": "AEK Rumour Watch",
         "published": "Tue, 24 Nov 2026 22:31:59 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -187,7 +206,7 @@
         "content_type": "news",
         "editorial_type": "Match / Analysis",
         "team": "AEK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -198,7 +217,7 @@
         "source": "AEK Rumour Watch",
         "published": "Tue, 24 Nov 2026 22:24:58 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -207,7 +226,7 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -218,7 +237,7 @@
         "source": "AEK Rumour Watch",
         "published": "Tue, 24 Nov 2026 21:53:00 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -227,7 +246,7 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -238,7 +257,7 @@
         "source": "AEK Rumour Watch",
         "published": "Tue, 24 Nov 2026 21:00:00 GMT",
         "base_score": 50,
-        "candidate_score": 61,
+        "candidate_score": 58,
         "priority": "Normal",
         "matched_keywords": [
           "AEK",
@@ -247,22 +266,21 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "AEK",
-        "readiness": "VERIFY",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
-        "external_id": "63a33773eba3a2d002f9a628",
+        "external_id": "2fd6086731e3cc8d90694a50",
         "mode": "sportdog",
-        "title": "Nordsjælland vs Panathinaikos Prediction & Betting Tips | 26/11/2026 - FootballPredictions.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemZWN2VUd0FsRW90QXVKQkFqRkFRT243SVBIOEgyRzVhUV94LVBZeWsydXYzQ3BTaXBJRGNQUFBvd01tRUluakwyTTNNNWgxbktiR2xZc3A3R0VEcDdYalFLMDc1cHVuNy1ScDlHalBiOHZ5MXhfQlNFNmNkR1RrekFwX2xvSEVRNkJWRjlKWWM2bE1scU9mT2RIOUw4bE1NejZWWjNqVUhkNXR6Q3htMzFZR0x1S1J2dEhQeWQ4NnJnNEsyc0VTV3otUWlLRXFIN2J3M2Q3ZEpzdw?oc=5",
+        "title": "FC Nordsjaelland vs Panathinaikos Prediction, Betting Tips, Lineups & Odds | 26 Nov 2026 - Sportsgambler",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenUyc0U3RHNVRktRYi1WLXg1TDJzUEFJMVF0T3B0OHg4SWRNM184MmdZSzdSMmFreE5LQ2pDcnZiblB1YUJZS2RTak1XX094TF9rbzI5TXc2U2p2d3JkZ19pWWU5bTFwQ2twa0FldGU5a0JyblpyVExmdi1rb3JjYV9DeVoxeHNpODBmRnY4MVV3RmpSSEI1YWNWbmk1MHFCSGJ6TE51OWJlc3B2d3JXZHpUN3NLbWhNQ0hqMFB3?oc=5",
         "source": "Panathinaikos Rumour Watch",
-        "published": "Wed, 25 Nov 2026 13:56:16 GMT",
-        "base_score": 41,
-        "candidate_score": 55,
+        "published": "Thu, 26 Nov 2026 04:16:32 GMT",
+        "base_score": 31,
+        "candidate_score": 54,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos",
-          "football"
+          "Panathinaikos"
         ],
         "content_type": "news",
         "editorial_type": "Team News",
@@ -278,7 +296,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Wed, 25 Nov 2026 18:10:29 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 45,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -286,25 +304,6 @@
         "content_type": "news",
         "editorial_type": "Team News",
         "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "ace484f43a25ae0511e88193",
-        "mode": "sportdog",
-        "title": "PAOK lures NBA star to move to Thessaloniki with \"unrealistic\" 15 million euros - Слободен печат",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQME9WTzJSYkdSeWlobUJfQmFHWHd1WFJVWmNRaHNXTHBtUE9UU1pINEVGeE05ZGswb3lwb0psWWZBUGdBSlY0b0wtbHBQTmtPRzIxWEQ3VFc3Q3padE5LQmZZN3k3aFozV20zVVk5QlEwWVV3bjI5SVhNdUtQbFM4Zm9uQW95MVZCS0x4ZllsRnpsVkZGanp3aVRhRURPa3ZHakZLcFgzbUw?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Wed, 25 Nov 2026 16:14:12 GMT",
-        "base_score": 31,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
         "readiness": "WATCH",
         "needs_second_source": true
       }
@@ -347,21 +346,40 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "d6e4df30cbfebce231f360ba",
+        "external_id": "3a42e202d49c2075ff00ece9",
         "mode": "geopolitico",
-        "title": "Greece, Israel, Southern Cyprus sign EastMed gas pipeline deal, angering Turkey - Yeni Safak English",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXNVWndOcUNYcjdnNldYQTVKS2FiN1o1WmZCT0lJXzFtTF9RLW43eVZ2YkpLODhhOWdLVXIzTDhYOW5lNjJqQzdKZUFMUWRHSi1pSEdtMUVwNjVzUGV6UkR6SVBxX25ydV9fbVFSblJfeW94YUpfc1JuVjZidGo0N1FiREo0X2RzaDRCSlN6R2gwN2M3M0t1bll0Ylpnekc3T1ROOGlMRHBrSjlKYW5CY2pnSXJWQQ?oc=5",
-        "source": "Greece Israel Strategic Watch",
-        "published": "Wed, 25 Nov 2026 03:10:14 GMT",
+        "title": "PM Modi Meets Greek PM Mitsotakis on India AI Impact Summit 2026 Sidelines, Review Strategic Partnership Progress - DD News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVFSY1BlVEZMQlZVTWVfcDg0RXVPclJJWmJ2eVJtUjFGMHp0ZllBOUk0RTdPempqT2xoTGxxTkJGM09PRG1fX2FKY0tleFlJVy1UTDJqVTVKZjgtT0wySDJheDhuVjRVYl8ydl8wR1B4UThLNk5hRXVvZlg0c3RZNTVLZy1pQUQxb2dUU0FhdkxEUWhQUnV2Yi13VFhROGFjanNjVksyVVVzVmtfa1h6a0x0OGFWTm5ZbXY4czNHeHZFN2NmUUh2VFl5d0Z0R0Nzd3d4Vw?oc=5",
+        "source": "Greece India Strategic Watch",
+        "published": "Wed, 25 Nov 2026 06:52:45 GMT",
         "base_score": 100,
         "candidate_score": 103,
         "priority": "URGENT",
         "matched_keywords": [
-          "Greece",
+          "India",
+          "Mitsotakis",
+          "Modi",
+          "strategic partnership"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "d382cb0010ae210096ff8b26",
+        "mode": "geopolitico",
+        "title": "Cyprus targeted by Iranian cyber-espionage network, Israeli report says - Philenews",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRTFJcU1vSWFZZ1ZpR2RKRzJmUWpXZzBweGZTbGtpVlQ4OEVrT0w2R1pQLWw2aUlPbF9xLWJ1YkhULXd4YVpzelBxR2RQYVpVTjJzZVpFVzV3RnY0dXJod2kyeFY1a1ZaeXV3Q1FGWVNZT29USUpELXBRcU5FTnJDbjdwZzZ0ZVozR09mbHIyLS0?oc=5",
+        "source": "Greece Israel Strategic Watch",
+        "published": "Wed, 25 Nov 2026 06:49:01 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
           "Israel",
+          "Israeli",
           "Cyprus",
-          "EastMed",
-          "Turkey"
+          "Iran",
+          "espionage",
+          "cyber"
         ],
         "content_type": "news"
       },
@@ -373,8 +391,8 @@
         "source": "Greece Israel Strategic Watch",
         "published": "Wed, 25 Nov 2026 09:01:39 GMT",
         "base_score": 90,
-        "candidate_score": 96,
-        "priority": "URGENT",
+        "candidate_score": 93,
+        "priority": "High",
         "matched_keywords": [
           "Israel",
           "Cyprus",
@@ -384,108 +402,56 @@
         "content_type": "news"
       },
       {
-        "external_id": "88424b39920d1978d779d52c",
+        "external_id": "96954d0efd7af7eac8c44e96",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Cihat Yaycı — Mavi Vatan’ın Mimarı Cihat Yaycı Antalya’da! Deniz Yetki Alanları Masaya Yatırıldı - Akdeniz Gerçek",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUo3ZWx0SjJ1bm53R0lsV3hPLXBmR0h4LTdzWVEwWExXV0x2Qm43azdBb0hZVklsZWhYaDdrMDVSVWVWREo4TVR4b0lDMHpGT3BjQXRIYlo2WExSTHZFcmIycGtLZlhjMFdKbzV3S3hhZFhLc2VCeks2QURNN21aVXduUVduWkdkT0pEcUFmRG5PSV9rTWxJSTFjdm9qa1gxOTdXc18wZVZxb2FQVmdsT0ZDNWp5SXdicjVleWk5cWhpdHlwLXc?oc=5",
+        "title": "[ANALYST WATCH] Hakan Çelik — Gastronominin yumuşak gücü - Hakan Çelik - Posta",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQano5NUM2N1JJZ1VUWE9ZUklZcU80RVVkM1VmYzc3YzVxaTNEQ2NSMnJfLUhROEptZXNTUV9DYjlXMV9EOURTNWRPbEJ5bW1lWEZpWUx1RHl2S19DQWdaVTBfSXZDSEJGUlgtdENTdGhlZUFjeXJyMGVLN0hzcTRkNTZPaW5fWTg?oc=5",
         "source": "Analysts Watch · Turkey",
-        "published": "Wed, 25 Nov 2026 18:04:23 GMT",
+        "published": "Thu, 26 Nov 2026 04:00:00 GMT",
         "base_score": 75,
-        "candidate_score": 85,
+        "candidate_score": 90,
         "priority": "High",
         "matched_keywords": [
-          "Cihat Yaycı",
-          "Cihat Yaycı"
+          "Hakan Çelik",
+          "Hakan Çelik"
         ],
         "content_type": "analyst"
       },
       {
-        "external_id": "e6b5696f23bf1f8038d2dfdb",
+        "external_id": "e0efaad4fbb88699bf968209",
         "mode": "geopolitico",
-        "title": "[ANALYST WATCH] Cihat Yaycı — Amiral Cihat Yaycı'dan KKTC için kritik uyarı: İpler KKTC halkının ve Türkiye'nin elinden kayabilir - Haber365",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHphb3IyVmNNSGtTTjI2MldJR016djQySGtnT0l1S1hvQklZVG5MRW9tX2stS2h0WFFfRW5FRXJhbHdtWWJkOG01T2N2VnhVSzJkemQ1cXJaa0xvMjFlUlFPOTJWWHdPYTROMzhUZGtsSmJlbnRIY3NINEZMb2xjZmotNDNXZUhoVjRSTE5TRmQtY1pqbUpkczRKVUhXem0xV1NVamY4TndBOTlKbGpJbjk2cWxDelZLeTRVaVI0RWYxQTQzTmZucDV2QlFHT1k?oc=5",
-        "source": "Analysts Watch · Turkey",
-        "published": "Wed, 25 Nov 2026 15:22:38 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
+        "title": "US-China AI Investment Gap Is 23-Fold, Yet Answer Quality Differs by Just 39 Points: Management Scholar Explains the \"Beyond Performance\" Competitive Axis - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZ19wZHZLM29WMU52MGVFVGNXQTYtckZoRFRQNERsN3hjQnZNb3hBMDVSanhPSjBXYXRzWFRPR1BXSUJ4eEpoaU1GMU5DTDVObUZRb1VENGNGb2JkV1ZXMWFEZlduY0tlN2NqOEVueEZEWnFoYVE?oc=5",
+        "source": "China Strategic Watch",
+        "published": "Wed, 25 Nov 2026 23:55:00 GMT",
+        "base_score": 76,
+        "candidate_score": 86,
         "priority": "High",
         "matched_keywords": [
-          "Cihat Yaycı",
-          "Cihat Yaycı"
-        ],
-        "content_type": "analyst"
-      },
-      {
-        "external_id": "4c8015fdd48c1e4a5cf168b0",
-        "mode": "geopolitico",
-        "title": "Yunanistan'da Doğu Akdeniz endişesi: Türkiye ile kapasite farkı gündemde - İnternet Haber",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0ZIOWdTRU51RXVUa05DSE1qeElSRXJhekVydGVaN0tGQVQ5Tlk3bFFGdmNjN1N6RUdNQ0lmUks3M2JJc3pvOE5WSE9TZ0x0U1BjSVlYQ2VtcjU3ajFWSzhlMi1VRjVmQW5QdnhULTd5ZXRiVGh6Yk5mMWc4Ty00cGJkVkpaanR4NE9rRFhON1RyZEc2aGRpajhvY2lXTkNJNXBlNlEyTmdGaG5NLVBFX0dzRQ?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Wed, 25 Nov 2026 15:01:00 GMT",
-        "base_score": 75,
-        "candidate_score": 85,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "6ed40dda7085c6443dae0776",
-        "mode": "geopolitico",
-        "title": "Pakistan’s Civil Nuclear Program: Advancing Energy Security And Sustainable Development - OpEd - Eurasia Review",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYkFkMTNVYXlUNG1Ecml0Y0trZXZ6b1FtbmNzbFp2QlczYmZpMGFmRm9vbkJQLVQwdnRYekV2SkJ6NDE3Z0JxY2lrOWVNdjVkME1xa3FLRk9Fc28yWGhIRkUtNWtSWXR6S1RWYmt2WmpjbTZ5WnBrZHNoRzFNdkM1TFpyRDFtRFRxT3FuQ2doUmFrbDJuV2VaNUc3MWgxelN2Nzc5V2xwRHM3SXhOTE5TQjJzTHkxTE1fYUx5MUNpUDJwVTFGRU0wQzhB?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Wed, 25 Nov 2026 18:38:07 GMT",
-        "base_score": 74,
-        "candidate_score": 84,
-        "priority": "High",
-        "matched_keywords": [
-          "Pakistan",
-          "nuclear program",
-          "energy",
-          "energy security"
+          "China",
+          "China AI",
+          "investment"
         ],
         "content_type": "news"
+      },
+      {
+        "external_id": "ba10c908ac235846d38f47e9",
+        "mode": "geopolitico",
+        "title": "[ANALYST WATCH] Namık Tan — Namık Tan'dan Irak Uyarısı: Erbil'e Güç Kullanımı İç Savaş Getirir - Dosya Haber",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjM0czA5QXhyWHhqVHkzN1hNeTJCaGh0dHVzVHRKbkt2Sm5zek11N0lydE5VUldvS2xKSVJJbkJ4Rm9oYUk3aDhYMnlJZTFvNHh3WHVqZXN4aXQzdFA4cVlkSFhxa2hfRm1EWlAzSXZLQWZwV0F4cXhlM2JWQm52LWNTbG5BREktX2ZubkFxbmluMV9QQUN0dXhaZWRTbkxaV2NkMHgtSQ?oc=5",
+        "source": "Analysts Watch · Turkey",
+        "published": "Wed, 25 Nov 2026 23:14:00 GMT",
+        "base_score": 75,
+        "candidate_score": 85,
+        "priority": "High",
+        "matched_keywords": [
+          "Namık Tan",
+          "Namık Tan"
+        ],
+        "content_type": "analyst"
       }
     ],
     "pontos_voice": [
-      {
-        "external_id": "68685d82ac1356c64a08578c",
-        "mode": "pontos_voice",
-        "title": "Ραντεβού με την ποντιακή μουσική παράδοση στον ετήσιο χορό του Συλλόγου Καρέα-Βύρωνα - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHIwem5VcEJPRHNpZWtSb2pLTVhMbEt3RTdpdmpvRnExT2hYY1ZBeFEwVUhtMFJTNzRoSkU0MWZJUVlib1ZOVnA5c3lHUzEyMkZEMU43QktRZU1xbHVab1lWOFNlUEhBZVlZNEFpeUtvbnUycnh6Y2FheFFEMXprdjl1ejZ6QklHdmJwa1dlMDF6ZVI3bVRETENxREhZaUdhQTh0TEVfUQ?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Tue, 24 Nov 2026 18:26:57 GMT",
-        "base_score": 100,
-        "candidate_score": 103,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "ποντιακή μουσική",
-          "παράδοση"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "264ffa5d1913d91de664900a",
-        "mode": "pontos_voice",
-        "title": "Ένα ταξίδι στην ιστορία της ποντιακής γλώσσας μέσα από το βιβλίο «Οι λέξεις του Πόντου ανασαίνουν ακόμα» - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORDMxWnVWSU9WX0pqNUFQcXVDWlZPOGhXY0tfY3BEVUQ5RUotck5XSlZuSXlHMUFrYnROZjRSVTllWEtLRFUxbDMzQW5rZXBtejhMWndsUFJ3ZjRVNWttanphbExUYXFqQ1Z2R2YwNk1BOUw4ZnFVSmlqN0pOV19hSXJvbl9LU0p0bzc3WHNWcGVCcU1QVTUwb2l4cTV1ejg?oc=5",
-        "source": "Greek Press Pontic Watch",
-        "published": "Tue, 24 Nov 2026 09:18:19 GMT",
-        "base_score": 78,
-        "candidate_score": 78,
-        "priority": "High",
-        "matched_keywords": [
-          "Pontos",
-          "ποντιακή",
-          "ιστορία"
-        ],
-        "content_type": "news"
-      },
       {
         "external_id": "7692b66a901db39151e54a66",
         "mode": "pontos_voice",
@@ -510,7 +476,7 @@
         "source": "61Saat Trabzon",
         "published": "Wed, 25 Nov 2026 18:13:00 +0300",
         "base_score": 57,
-        "candidate_score": 67,
+        "candidate_score": 63,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -528,13 +494,29 @@
         "source": "61Saat Trabzon",
         "published": "Wed, 25 Nov 2026 21:37:00 +0300",
         "base_score": 53,
-        "candidate_score": 63,
+        "candidate_score": 59,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "belediye başkanı",
           "bakan",
           "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "844fb6343ab728f3bc913464",
+        "mode": "pontos_voice",
+        "title": "Νικήτας Κακλαμάνης: Πεδίο συνεργασίας και όχι ανταγωνισμών ο Εύξεινος Πόντος - toManifesto.gr",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT2NrYTV2WDExWGt5T3pycWNsYktkamxvQXkyVy1POFdsT01lSTV3dkpuVDNYTWExVUxPd05GMEtCLWlYSktYeEpVcFpON1pOdVN5WnNkS3Bzb1k0RmFDNEM3ZkViQlp2bk80elVtcjVQdUZPRGpWamVtTjRJdlJGNTNyeWpKalAwWjBMVHlubGZPaUVZVFdKTGdoZVpnUmdIY0NaeDZqS0hDUkpvdUQ0?oc=5",
+        "source": "Greek Press Pontic Watch",
+        "published": "Tue, 24 Nov 2026 14:33:00 GMT",
+        "base_score": 57,
+        "candidate_score": 57,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Πόντος",
+          "Εύξεινος Πόντος"
         ],
         "content_type": "news"
       },
@@ -546,13 +528,29 @@
         "source": "61Saat Trabzon",
         "published": "Wed, 25 Nov 2026 23:25:00 +0300",
         "base_score": 47,
-        "candidate_score": 62,
+        "candidate_score": 53,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
           "Of",
           "açıklama",
           "Trabzon"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "36a8351ab1085a0de11a366d",
+        "mode": "pontos_voice",
+        "title": "Οργή των Ελλήνων της Αυστραλίας για την «παράδοση» του Ήλιου της Βεργίνας στους Σκοπιανούς - pontosnews.gr",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTk3RkNrd0RxMklvcUJUOGxIa3l1OWtCazBxNmVpQTRQQmFQRlhHMVhIWW1BSnFXN2FGaWNFbnVnYi1CN2NBREdrWTlpczJBWmNIV2NnLUZkWmMwaTBIamJ1Rmk3cDQ0NHc3MEdoQkNhZWg5a0gzdnFGWlJlSndqZU9jdkgzVGwtMW5uaTVIQlpVTWE3TDROVWV4TDU1dlJJdUVRTg?oc=5",
+        "source": "Pontos News Watch",
+        "published": "Wed, 25 Nov 2026 13:03:16 GMT",
+        "base_score": 46,
+        "candidate_score": 52,
+        "priority": "Normal",
+        "matched_keywords": [
+          "Pontos",
+          "παράδοση"
         ],
         "content_type": "news"
       }
@@ -581,27 +579,6 @@
       "needs_second_source": false
     },
     {
-      "external_id": "c48d852737f90ca82603e74b",
-      "mode": "sportdog",
-      "title": "Bartzokas addresses Olympiacos' transfer search, provides Milutinov injury update - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUdhRVZZQ3JIS1MyVzFxdjBXYTZITndTTmUyVmx1YXpFSmtPS3drZ1lsQnY4N2x0WEgtMDZvN3IzSk9TUEZhbFRRc3NpZlZfd2VGMzZNMWNlZHVydEZTSV85R3VucHAzVDB6TzRiN2tEMGNfbmFrVHhNcHFjOG1zNjIzY0h1S3BHM0ZxRkY5aVUwMEdHeGRFaHlScmk4NFlxSVV6eVFEanVGaDJQWHJPSndkc1EyNFhsM1pN?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Tue, 24 Nov 2026 13:12:00 GMT",
-      "base_score": 66,
-      "candidate_score": 95,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Olympiacos",
-        "transfer",
-        "injury"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
       "external_id": "bb0c855f9fb0415a6a5cc4ab",
       "mode": "sportdog",
       "title": "Olympiacos issue strong statement after Panathinaikos punishment overturned - BasketNews.com",
@@ -609,7 +586,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 25 Nov 2026 17:05:00 GMT",
       "base_score": 62,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Olympiacos",
@@ -618,8 +595,8 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Olympiacos",
-      "readiness": "READY",
-      "needs_second_source": false
+      "readiness": "VERIFY",
+      "needs_second_source": true
     },
     {
       "external_id": "0fe46bcc29a5c73b5f26f016",
@@ -629,7 +606,7 @@
       "source": "TransferFeed Greek Super League",
       "published": "Wed, 25 Nov 2026 16:52:50 GMT",
       "base_score": 58,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -638,26 +615,6 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Panathinaikos",
-      "readiness": "READY",
-      "needs_second_source": false
-    },
-    {
-      "external_id": "e5d3500b8c5d2280cfe13d54",
-      "mode": "sportdog",
-      "title": "Fedor Lapoukhov Transfer from CSKA Sofia to PAOK - TransferFeed",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjJySEtFdVFhdy05TjE1aGM3M2VPMjkwSWpTLVBQMWlQc3hKZl9ucnhMclRHeXlwZXNJVEh4ajdlRjJnR3pLMDd4SGVYbmxmRUJxVGlMbFlZVllvOE85Q1VVLXBHbC1zYnktTGp5UC1HZ3A2YTNJYmh3OHkzOU1NWmZxbHNzQQ?oc=5",
-      "source": "TransferFeed Greek Super League",
-      "published": "Wed, 25 Nov 2026 05:16:35 GMT",
-      "base_score": 58,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "PAOK",
-        "transfer"
-      ],
-      "content_type": "news",
-      "editorial_type": "Transfer Report",
-      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -678,6 +635,26 @@
       "content_type": "news",
       "editorial_type": "Transfer Report",
       "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "e5d3500b8c5d2280cfe13d54",
+      "mode": "sportdog",
+      "title": "Fedor Lapoukhov Transfer from CSKA Sofia to PAOK - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjJySEtFdVFhdy05TjE1aGM3M2VPMjkwSWpTLVBQMWlQc3hKZl9ucnhMclRHeXlwZXNJVEh4ajdlRjJnR3pLMDd4SGVYbmxmRUJxVGlMbFlZVllvOE85Q1VVLXBHbC1zYnktTGp5UC1HZ3A2YTNJYmh3OHkzOU1NWmZxbHNzQQ?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Wed, 25 Nov 2026 05:16:35 GMT",
+      "base_score": 58,
+      "candidate_score": 81,
+      "priority": "High",
+      "matched_keywords": [
+        "PAOK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "PAOK",
       "readiness": "VERIFY",
       "needs_second_source": true
     },
@@ -723,6 +700,46 @@
       "needs_second_source": true
     },
     {
+      "external_id": "63a33773eba3a2d002f9a628",
+      "mode": "sportdog",
+      "title": "Nordsjælland vs Panathinaikos Prediction & Betting Tips | 26/11/2026 - FootballPredictions.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemZWN2VUd0FsRW90QXVKQkFqRkFRT243SVBIOEgyRzVhUV94LVBZeWsydXYzQ3BTaXBJRGNQUFBvd01tRUluakwyTTNNNWgxbktiR2xZc3A3R0VEcDdYalFLMDc1cHVuNy1ScDlHalBiOHZ5MXhfQlNFNmNkR1RrekFwX2xvSEVRNkJWRjlKWWM2bE1scU9mT2RIOUw4bE1NejZWWjNqVUhkNXR6Q3htMzFZR0x1S1J2dEhQeWQ4NnJnNEsyc0VTV3otUWlLRXFIN2J3M2Q3ZEpzdw?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Thu, 26 Nov 2026 02:25:54 GMT",
+      "base_score": 41,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Panathinaikos",
+        "football"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Panathinaikos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "dca34367d0f21d101b9372a9",
+      "mode": "sportdog",
+      "title": "MN: Milan injury list up to nine as Bartesaghi ruled out of Olympiacos trip – the situation - SempreMilan",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yOHNWcmtEQXJITHVSMjlVY1RnYUh1aXFfTWFqWGZ0SXp4NVBuOUpaS0xPOWM0QUhoUnVSVkd0eklTcWszWDJqU0JDQ0VxX2xKdV9sb3RVQmp5d1o2d0ZFSHFweGVYOTcwY0hKaFloUFNCd9IBd0FVX3lxTFBSVlRCUW1uYU9nSEZZWVp2NkJVLTVtT25XcDRaUWhhbnR4LWhuaDRwdW9lVW9RS0c5SUxvckVhSzdpWHZUMWR4SDJIYldWOXNuUnpxckM0X05KMFdkYzNuMUNRb2V4R3FNbEdKcEtYVzV4M3JOUml3?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Wed, 25 Nov 2026 16:30:00 GMT",
+      "base_score": 41,
+      "candidate_score": 64,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Olympiacos",
+        "injury"
+      ],
+      "content_type": "news",
+      "editorial_type": "Injury",
+      "team": "Olympiacos",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "bbe641d18bf61363d58bafca",
       "mode": "sportdog",
       "title": "Como 1-0 AEK Athens FC: Champions League result · SNA - Sport News Africa",
@@ -730,7 +747,7 @@
       "source": "AEK Rumour Watch",
       "published": "Tue, 24 Nov 2026 22:31:59 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -739,7 +756,7 @@
       "content_type": "news",
       "editorial_type": "Match / Analysis",
       "team": "AEK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -750,7 +767,7 @@
       "source": "AEK Rumour Watch",
       "published": "Tue, 24 Nov 2026 22:24:58 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -759,7 +776,7 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -770,7 +787,7 @@
       "source": "AEK Rumour Watch",
       "published": "Tue, 24 Nov 2026 21:53:00 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -779,7 +796,7 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -790,7 +807,7 @@
       "source": "AEK Rumour Watch",
       "published": "Tue, 24 Nov 2026 21:00:00 GMT",
       "base_score": 50,
-      "candidate_score": 61,
+      "candidate_score": 58,
       "priority": "Normal",
       "matched_keywords": [
         "AEK",
@@ -799,22 +816,21 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "AEK",
-      "readiness": "VERIFY",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
-      "external_id": "63a33773eba3a2d002f9a628",
+      "external_id": "2fd6086731e3cc8d90694a50",
       "mode": "sportdog",
-      "title": "Nordsjælland vs Panathinaikos Prediction & Betting Tips | 26/11/2026 - FootballPredictions.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemZWN2VUd0FsRW90QXVKQkFqRkFRT243SVBIOEgyRzVhUV94LVBZeWsydXYzQ3BTaXBJRGNQUFBvd01tRUluakwyTTNNNWgxbktiR2xZc3A3R0VEcDdYalFLMDc1cHVuNy1ScDlHalBiOHZ5MXhfQlNFNmNkR1RrekFwX2xvSEVRNkJWRjlKWWM2bE1scU9mT2RIOUw4bE1NejZWWjNqVUhkNXR6Q3htMzFZR0x1S1J2dEhQeWQ4NnJnNEsyc0VTV3otUWlLRXFIN2J3M2Q3ZEpzdw?oc=5",
+      "title": "FC Nordsjaelland vs Panathinaikos Prediction, Betting Tips, Lineups & Odds | 26 Nov 2026 - Sportsgambler",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenUyc0U3RHNVRktRYi1WLXg1TDJzUEFJMVF0T3B0OHg4SWRNM184MmdZSzdSMmFreE5LQ2pDcnZiblB1YUJZS2RTak1XX094TF9rbzI5TXc2U2p2d3JkZ19pWWU5bTFwQ2twa0FldGU5a0JyblpyVExmdi1rb3JjYV9DeVoxeHNpODBmRnY4MVV3RmpSSEI1YWNWbmk1MHFCSGJ6TE51OWJlc3B2d3JXZHpUN3NLbWhNQ0hqMFB3?oc=5",
       "source": "Panathinaikos Rumour Watch",
-      "published": "Wed, 25 Nov 2026 13:56:16 GMT",
-      "base_score": 41,
-      "candidate_score": 55,
+      "published": "Thu, 26 Nov 2026 04:16:32 GMT",
+      "base_score": 31,
+      "candidate_score": 54,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos",
-        "football"
+        "Panathinaikos"
       ],
       "content_type": "news",
       "editorial_type": "Team News",
@@ -830,7 +846,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Wed, 25 Nov 2026 18:10:29 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 45,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -838,25 +854,6 @@
       "content_type": "news",
       "editorial_type": "Team News",
       "team": "Panathinaikos",
-      "readiness": "WATCH",
-      "needs_second_source": true
-    },
-    {
-      "external_id": "ace484f43a25ae0511e88193",
-      "mode": "sportdog",
-      "title": "PAOK lures NBA star to move to Thessaloniki with \"unrealistic\" 15 million euros - Слободен печат",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQME9WTzJSYkdSeWlobUJfQmFHWHd1WFJVWmNRaHNXTHBtUE9UU1pINEVGeE05ZGswb3lwb0psWWZBUGdBSlY0b0wtbHBQTmtPRzIxWEQ3VFc3Q3padE5LQmZZN3k3aFozV20zVVk5QlEwWVV3bjI5SVhNdUtQbFM4Zm9uQW95MVZCS0x4ZllsRnpsVkZGanp3aVRhRURPa3ZHakZLcFgzbUw?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Wed, 25 Nov 2026 16:14:12 GMT",
-      "base_score": 31,
-      "candidate_score": 49,
-      "priority": "Normal",
-      "matched_keywords": [
-        "PAOK"
-      ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
@@ -897,21 +894,40 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "d6e4df30cbfebce231f360ba",
+      "external_id": "3a42e202d49c2075ff00ece9",
       "mode": "geopolitico",
-      "title": "Greece, Israel, Southern Cyprus sign EastMed gas pipeline deal, angering Turkey - Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXNVWndOcUNYcjdnNldYQTVKS2FiN1o1WmZCT0lJXzFtTF9RLW43eVZ2YkpLODhhOWdLVXIzTDhYOW5lNjJqQzdKZUFMUWRHSi1pSEdtMUVwNjVzUGV6UkR6SVBxX25ydV9fbVFSblJfeW94YUpfc1JuVjZidGo0N1FiREo0X2RzaDRCSlN6R2gwN2M3M0t1bll0Ylpnekc3T1ROOGlMRHBrSjlKYW5CY2pnSXJWQQ?oc=5",
-      "source": "Greece Israel Strategic Watch",
-      "published": "Wed, 25 Nov 2026 03:10:14 GMT",
+      "title": "PM Modi Meets Greek PM Mitsotakis on India AI Impact Summit 2026 Sidelines, Review Strategic Partnership Progress - DD News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVFSY1BlVEZMQlZVTWVfcDg0RXVPclJJWmJ2eVJtUjFGMHp0ZllBOUk0RTdPempqT2xoTGxxTkJGM09PRG1fX2FKY0tleFlJVy1UTDJqVTVKZjgtT0wySDJheDhuVjRVYl8ydl8wR1B4UThLNk5hRXVvZlg0c3RZNTVLZy1pQUQxb2dUU0FhdkxEUWhQUnV2Yi13VFhROGFjanNjVksyVVVzVmtfa1h6a0x0OGFWTm5ZbXY4czNHeHZFN2NmUUh2VFl5d0Z0R0Nzd3d4Vw?oc=5",
+      "source": "Greece India Strategic Watch",
+      "published": "Wed, 25 Nov 2026 06:52:45 GMT",
       "base_score": 100,
       "candidate_score": 103,
       "priority": "URGENT",
       "matched_keywords": [
-        "Greece",
+        "India",
+        "Mitsotakis",
+        "Modi",
+        "strategic partnership"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "d382cb0010ae210096ff8b26",
+      "mode": "geopolitico",
+      "title": "Cyprus targeted by Iranian cyber-espionage network, Israeli report says - Philenews",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRTFJcU1vSWFZZ1ZpR2RKRzJmUWpXZzBweGZTbGtpVlQ4OEVrT0w2R1pQLWw2aUlPbF9xLWJ1YkhULXd4YVpzelBxR2RQYVpVTjJzZVpFVzV3RnY0dXJod2kyeFY1a1ZaeXV3Q1FGWVNZT29USUpELXBRcU5FTnJDbjdwZzZ0ZVozR09mbHIyLS0?oc=5",
+      "source": "Greece Israel Strategic Watch",
+      "published": "Wed, 25 Nov 2026 06:49:01 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
         "Israel",
+        "Israeli",
         "Cyprus",
-        "EastMed",
-        "Turkey"
+        "Iran",
+        "espionage",
+        "cyber"
       ],
       "content_type": "news"
     },
@@ -923,8 +939,8 @@
       "source": "Greece Israel Strategic Watch",
       "published": "Wed, 25 Nov 2026 09:01:39 GMT",
       "base_score": 90,
-      "candidate_score": 96,
-      "priority": "URGENT",
+      "candidate_score": 93,
+      "priority": "High",
       "matched_keywords": [
         "Israel",
         "Cyprus",
@@ -934,105 +950,53 @@
       "content_type": "news"
     },
     {
-      "external_id": "88424b39920d1978d779d52c",
+      "external_id": "96954d0efd7af7eac8c44e96",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Cihat Yaycı — Mavi Vatan’ın Mimarı Cihat Yaycı Antalya’da! Deniz Yetki Alanları Masaya Yatırıldı - Akdeniz Gerçek",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUo3ZWx0SjJ1bm53R0lsV3hPLXBmR0h4LTdzWVEwWExXV0x2Qm43azdBb0hZVklsZWhYaDdrMDVSVWVWREo4TVR4b0lDMHpGT3BjQXRIYlo2WExSTHZFcmIycGtLZlhjMFdKbzV3S3hhZFhLc2VCeks2QURNN21aVXduUVduWkdkT0pEcUFmRG5PSV9rTWxJSTFjdm9qa1gxOTdXc18wZVZxb2FQVmdsT0ZDNWp5SXdicjVleWk5cWhpdHlwLXc?oc=5",
+      "title": "[ANALYST WATCH] Hakan Çelik — Gastronominin yumuşak gücü - Hakan Çelik - Posta",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQano5NUM2N1JJZ1VUWE9ZUklZcU80RVVkM1VmYzc3YzVxaTNEQ2NSMnJfLUhROEptZXNTUV9DYjlXMV9EOURTNWRPbEJ5bW1lWEZpWUx1RHl2S19DQWdaVTBfSXZDSEJGUlgtdENTdGhlZUFjeXJyMGVLN0hzcTRkNTZPaW5fWTg?oc=5",
       "source": "Analysts Watch · Turkey",
-      "published": "Wed, 25 Nov 2026 18:04:23 GMT",
+      "published": "Thu, 26 Nov 2026 04:00:00 GMT",
       "base_score": 75,
-      "candidate_score": 85,
+      "candidate_score": 90,
       "priority": "High",
       "matched_keywords": [
-        "Cihat Yaycı",
-        "Cihat Yaycı"
+        "Hakan Çelik",
+        "Hakan Çelik"
       ],
       "content_type": "analyst"
     },
     {
-      "external_id": "e6b5696f23bf1f8038d2dfdb",
+      "external_id": "e0efaad4fbb88699bf968209",
       "mode": "geopolitico",
-      "title": "[ANALYST WATCH] Cihat Yaycı — Amiral Cihat Yaycı'dan KKTC için kritik uyarı: İpler KKTC halkının ve Türkiye'nin elinden kayabilir - Haber365",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHphb3IyVmNNSGtTTjI2MldJR016djQySGtnT0l1S1hvQklZVG5MRW9tX2stS2h0WFFfRW5FRXJhbHdtWWJkOG01T2N2VnhVSzJkemQ1cXJaa0xvMjFlUlFPOTJWWHdPYTROMzhUZGtsSmJlbnRIY3NINEZMb2xjZmotNDNXZUhoVjRSTE5TRmQtY1pqbUpkczRKVUhXem0xV1NVamY4TndBOTlKbGpJbjk2cWxDelZLeTRVaVI0RWYxQTQzTmZucDV2QlFHT1k?oc=5",
+      "title": "US-China AI Investment Gap Is 23-Fold, Yet Answer Quality Differs by Just 39 Points: Management Scholar Explains the \"Beyond Performance\" Competitive Axis - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZ19wZHZLM29WMU52MGVFVGNXQTYtckZoRFRQNERsN3hjQnZNb3hBMDVSanhPSjBXYXRzWFRPR1BXSUJ4eEpoaU1GMU5DTDVObUZRb1VENGNGb2JkV1ZXMWFEZlduY0tlN2NqOEVueEZEWnFoYVE?oc=5",
+      "source": "China Strategic Watch",
+      "published": "Wed, 25 Nov 2026 23:55:00 GMT",
+      "base_score": 76,
+      "candidate_score": 86,
+      "priority": "High",
+      "matched_keywords": [
+        "China",
+        "China AI",
+        "investment"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "ba10c908ac235846d38f47e9",
+      "mode": "geopolitico",
+      "title": "[ANALYST WATCH] Namık Tan — Namık Tan'dan Irak Uyarısı: Erbil'e Güç Kullanımı İç Savaş Getirir - Dosya Haber",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjM0czA5QXhyWHhqVHkzN1hNeTJCaGh0dHVzVHRKbkt2Sm5zek11N0lydE5VUldvS2xKSVJJbkJ4Rm9oYUk3aDhYMnlJZTFvNHh3WHVqZXN4aXQzdFA4cVlkSFhxa2hfRm1EWlAzSXZLQWZwV0F4cXhlM2JWQm52LWNTbG5BREktX2ZubkFxbmluMV9QQUN0dXhaZWRTbkxaV2NkMHgtSQ?oc=5",
       "source": "Analysts Watch · Turkey",
-      "published": "Wed, 25 Nov 2026 15:22:38 GMT",
+      "published": "Wed, 25 Nov 2026 23:14:00 GMT",
       "base_score": 75,
       "candidate_score": 85,
       "priority": "High",
       "matched_keywords": [
-        "Cihat Yaycı",
-        "Cihat Yaycı"
+        "Namık Tan",
+        "Namık Tan"
       ],
       "content_type": "analyst"
-    },
-    {
-      "external_id": "4c8015fdd48c1e4a5cf168b0",
-      "mode": "geopolitico",
-      "title": "Yunanistan'da Doğu Akdeniz endişesi: Türkiye ile kapasite farkı gündemde - İnternet Haber",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0ZIOWdTRU51RXVUa05DSE1qeElSRXJhekVydGVaN0tGQVQ5Tlk3bFFGdmNjN1N6RUdNQ0lmUks3M2JJc3pvOE5WSE9TZ0x0U1BjSVlYQ2VtcjU3ajFWSzhlMi1VRjVmQW5QdnhULTd5ZXRiVGh6Yk5mMWc4Ty00cGJkVkpaanR4NE9rRFhON1RyZEc2aGRpajhvY2lXTkNJNXBlNlEyTmdGaG5NLVBFX0dzRQ?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Wed, 25 Nov 2026 15:01:00 GMT",
-      "base_score": 75,
-      "candidate_score": 85,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "6ed40dda7085c6443dae0776",
-      "mode": "geopolitico",
-      "title": "Pakistan’s Civil Nuclear Program: Advancing Energy Security And Sustainable Development - OpEd - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYkFkMTNVYXlUNG1Ecml0Y0trZXZ6b1FtbmNzbFp2QlczYmZpMGFmRm9vbkJQLVQwdnRYekV2SkJ6NDE3Z0JxY2lrOWVNdjVkME1xa3FLRk9Fc28yWGhIRkUtNWtSWXR6S1RWYmt2WmpjbTZ5WnBrZHNoRzFNdkM1TFpyRDFtRFRxT3FuQ2doUmFrbDJuV2VaNUc3MWgxelN2Nzc5V2xwRHM3SXhOTE5TQjJzTHkxTE1fYUx5MUNpUDJwVTFGRU0wQzhB?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Wed, 25 Nov 2026 18:38:07 GMT",
-      "base_score": 74,
-      "candidate_score": 84,
-      "priority": "High",
-      "matched_keywords": [
-        "Pakistan",
-        "nuclear program",
-        "energy",
-        "energy security"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "68685d82ac1356c64a08578c",
-      "mode": "pontos_voice",
-      "title": "Ραντεβού με την ποντιακή μουσική παράδοση στον ετήσιο χορό του Συλλόγου Καρέα-Βύρωνα - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHIwem5VcEJPRHNpZWtSb2pLTVhMbEt3RTdpdmpvRnExT2hYY1ZBeFEwVUhtMFJTNzRoSkU0MWZJUVlib1ZOVnA5c3lHUzEyMkZEMU43QktRZU1xbHVab1lWOFNlUEhBZVlZNEFpeUtvbnUycnh6Y2FheFFEMXprdjl1ejZ6QklHdmJwa1dlMDF6ZVI3bVRETENxREhZaUdhQTh0TEVfUQ?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Tue, 24 Nov 2026 18:26:57 GMT",
-      "base_score": 100,
-      "candidate_score": 103,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "ποντιακή μουσική",
-        "παράδοση"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "264ffa5d1913d91de664900a",
-      "mode": "pontos_voice",
-      "title": "Ένα ταξίδι στην ιστορία της ποντιακής γλώσσας μέσα από το βιβλίο «Οι λέξεις του Πόντου ανασαίνουν ακόμα» - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORDMxWnVWSU9WX0pqNUFQcXVDWlZPOGhXY0tfY3BEVUQ5RUotck5XSlZuSXlHMUFrYnROZjRSVTllWEtLRFUxbDMzQW5rZXBtejhMWndsUFJ3ZjRVNWttanphbExUYXFqQ1Z2R2YwNk1BOUw4ZnFVSmlqN0pOV19hSXJvbl9LU0p0bzc3WHNWcGVCcU1QVTUwb2l4cTV1ejg?oc=5",
-      "source": "Greek Press Pontic Watch",
-      "published": "Tue, 24 Nov 2026 09:18:19 GMT",
-      "base_score": 78,
-      "candidate_score": 78,
-      "priority": "High",
-      "matched_keywords": [
-        "Pontos",
-        "ποντιακή",
-        "ιστορία"
-      ],
-      "content_type": "news"
     },
     {
       "external_id": "7692b66a901db39151e54a66",
@@ -1058,7 +1022,7 @@
       "source": "61Saat Trabzon",
       "published": "Wed, 25 Nov 2026 18:13:00 +0300",
       "base_score": 57,
-      "candidate_score": 67,
+      "candidate_score": 63,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
@@ -1076,13 +1040,29 @@
       "source": "61Saat Trabzon",
       "published": "Wed, 25 Nov 2026 21:37:00 +0300",
       "base_score": 53,
-      "candidate_score": 63,
+      "candidate_score": 59,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "belediye başkanı",
         "bakan",
         "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "844fb6343ab728f3bc913464",
+      "mode": "pontos_voice",
+      "title": "Νικήτας Κακλαμάνης: Πεδίο συνεργασίας και όχι ανταγωνισμών ο Εύξεινος Πόντος - toManifesto.gr",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT2NrYTV2WDExWGt5T3pycWNsYktkamxvQXkyVy1POFdsT01lSTV3dkpuVDNYTWExVUxPd05GMEtCLWlYSktYeEpVcFpON1pOdVN5WnNkS3Bzb1k0RmFDNEM3ZkViQlp2bk80elVtcjVQdUZPRGpWamVtTjRJdlJGNTNyeWpKalAwWjBMVHlubGZPaUVZVFdKTGdoZVpnUmdIY0NaeDZqS0hDUkpvdUQ0?oc=5",
+      "source": "Greek Press Pontic Watch",
+      "published": "Tue, 24 Nov 2026 14:33:00 GMT",
+      "base_score": 57,
+      "candidate_score": 57,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Πόντος",
+        "Εύξεινος Πόντος"
       ],
       "content_type": "news"
     },
@@ -1094,13 +1074,29 @@
       "source": "61Saat Trabzon",
       "published": "Wed, 25 Nov 2026 23:25:00 +0300",
       "base_score": 47,
-      "candidate_score": 62,
+      "candidate_score": 53,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
         "Of",
         "açıklama",
         "Trabzon"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "36a8351ab1085a0de11a366d",
+      "mode": "pontos_voice",
+      "title": "Οργή των Ελλήνων της Αυστραλίας για την «παράδοση» του Ήλιου της Βεργίνας στους Σκοπιανούς - pontosnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTk3RkNrd0RxMklvcUJUOGxIa3l1OWtCazBxNmVpQTRQQmFQRlhHMVhIWW1BSnFXN2FGaWNFbnVnYi1CN2NBREdrWTlpczJBWmNIV2NnLUZkWmMwaTBIamJ1Rmk3cDQ0NHc3MEdoQkNhZWg5a0gzdnFGWlJlSndqZU9jdkgzVGwtMW5uaTVIQlpVTWE3TDROVWV4TDU1dlJJdUVRTg?oc=5",
+      "source": "Pontos News Watch",
+      "published": "Wed, 25 Nov 2026 13:03:16 GMT",
+      "base_score": 46,
+      "candidate_score": 52,
+      "priority": "Normal",
+      "matched_keywords": [
+        "Pontos",
+        "παράδοση"
       ],
       "content_type": "news"
     }
