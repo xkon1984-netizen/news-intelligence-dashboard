@@ -1,21 +1,41 @@
 {
-  "generated_at": "2026-11-27T23:37:19.153569+00:00",
+  "generated_at": "2026-11-28T04:59:12.099694+00:00",
   "counts": {
-    "sportdog": 10,
+    "sportdog": 13,
     "geopolitico": 8,
     "pontos_voice": 6
   },
   "modes": {
     "sportdog": [
       {
-        "external_id": "0c146ee0ee0027f11d7b1138",
+        "external_id": "a3cc780c7a36e2e8dc0b461b",
         "mode": "sportdog",
-        "title": "Myron Van Brederode Transfer from Mechelen to Panathinaikos - TransferFeed",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOE42TllyTnl0ZHFfTUM0eHRVYTgwX2VTdy1EdmxZVUNtWDRYSzJmUzNBN29sVmlqUVV0cFFZeXp3OTI3ZUZqN1ljMkdUa0tyNWJuNWRmN3V2Zmdnajd6enhSeEw1dWdiRVVCVlZZNVNQbXpaM3VxaVN6d0RSc1ViUTd0WEs1Q19KbENXYUM2Z2c3VkND?oc=5",
+        "title": "Two Panathinaikos complaints target Olympiacos over chants - KarloBag.eu",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc2Q0cndhQi1TRnlYZmlqOFV1Z2JKVTVIV2Z2Umw4ZXRiOXJXeFkyRWJaOWdJMlE4MUJ5V1d5a29BNEJiZDg0R21mOHAyR1NSdXE1SF8zOGo5SUhmODVvUzlGaUpEWTBIRzRtNjJUdkl6aGt4ZmUxNXJ6NGJweUJoMTA3Q1JZMk1kb2VXbEtSS3R2NTRLak9WUFZVdXI0TmJHWGdmSTQzREpIdDloeEsyR3E4NmF3S3oz?oc=5",
+        "source": "Olympiacos Rumour Watch",
+        "published": "Fri, 27 Nov 2026 22:35:40 GMT",
+        "base_score": 62,
+        "candidate_score": 88,
+        "priority": "High",
+        "matched_keywords": [
+          "Olympiacos",
+          "Panathinaikos"
+        ],
+        "content_type": "news",
+        "editorial_type": "Team News",
+        "team": "Olympiacos",
+        "readiness": "READY",
+        "needs_second_source": false
+      },
+      {
+        "external_id": "3924ff34c5979060cebbc9e7",
+        "mode": "sportdog",
+        "title": "Adriano Jagušić Transfer from Panathinaikos to Dinamo Zagreb - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmxBUnp6N3pxanloYnBTbUxCQUpra2VFc1J2M2dqeFpqb2NTT20ycmVHMW11eUxUckFGblRfUDQzWENOVkVXalVZSTRFdjFkZ0VOa2E5VV9hY0JtOXkxZHBjWXo2SVhwcTIyX3hsaV9qN2FiaHhVU2I2eUZxbHNIRUtqU1czXzFYR2VVeTZ5N3QzOURhQ2c?oc=5",
         "source": "TransferFeed Greek Super League",
-        "published": "Thu, 26 Nov 2026 16:50:06 GMT",
+        "published": "Fri, 27 Nov 2026 19:35:45 GMT",
         "base_score": 58,
-        "candidate_score": 78,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Panathinaikos",
@@ -28,6 +48,66 @@
         "needs_second_source": true
       },
       {
+        "external_id": "490296fd46f6a04fa3f4ac9d",
+        "mode": "sportdog",
+        "title": "Amine Harit Transfer from Olympique Marseille to AEK Athens - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeDU2QzFkSmlOS1lzMjVwUUdzLU54ZjI1Qk5vTkc4Z1dYNnNWQS11RFJQaEplVTA5WTU4dFRFblVlVmdOY0UxVUNRZjNvemxEWVdhRi1PNVRPMnFOV2NPM21NcjJPQ0t1bW9lSDIzeWNjZU5tVllKX0tUZXBfLW5pS0NyVFpjeDZNd09TcFRrQW5ROE1X?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Fri, 27 Nov 2026 18:36:12 GMT",
+        "base_score": 58,
+        "candidate_score": 84,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "2e6b519cb7f8a500776de17b",
+        "mode": "sportdog",
+        "title": "AEK Athens to Sign Adidas Kit Deal - No More Nike - Howl.Link",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5GbHVQZkJSd2ZzUEJONXc4dEFEVzNIUlhMWDJMcHlhMHczN2lsMHdiSHdaOE40VEI2NWhz?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Fri, 27 Nov 2026 11:55:00 GMT",
+        "base_score": 56,
+        "candidate_score": 80,
+        "priority": "High",
+        "matched_keywords": [
+          "AEK",
+          "deal"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "AEK",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
+        "external_id": "e56f354e981b0da60353b8c7",
+        "mode": "sportdog",
+        "title": "Maarten Vandevoordt Transfer from RB Leipzig to Paris Saint Germain - TransferFeed",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDFwa3hidlB2VGVpWm5oNWluS19PRUU0eTZHZWxrX1daSjJQRF9UbXVDam5KeEFsMnFZSTN3NHFVeXVtbERzSmhmczQ3aXo2bjJINl9HeERzNm9KTEoxVHF2RVFlQS1ONHVEVkZuM2R4cWlFRW1qanlUXzd1S2JJaFh6UmV6UFJxLWFBWTMtX01DeDR2ak5VNmlFTXpRRUk?oc=5",
+        "source": "TransferFeed Greek Super League",
+        "published": "Fri, 27 Nov 2026 18:34:40 GMT",
+        "base_score": 52,
+        "candidate_score": 70,
+        "priority": "High",
+        "matched_keywords": [
+          "Aris",
+          "transfer"
+        ],
+        "content_type": "news",
+        "editorial_type": "Transfer Report",
+        "team": "Aris",
+        "readiness": "VERIFY",
+        "needs_second_source": true
+      },
+      {
         "external_id": "f73ba2f0bcf914389c3c5200",
         "mode": "sportdog",
         "title": "Amorim confirms Gonçalo Ramos injury after epic Milan comeback win over Jota Silva’s Olympiacos - portugoal.net",
@@ -35,7 +115,7 @@
         "source": "Olympiacos Rumour Watch",
         "published": "Fri, 27 Nov 2026 09:02:41 GMT",
         "base_score": 41,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Olympiacos",
@@ -55,7 +135,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 27 Nov 2026 07:39:22 GMT",
         "base_score": 50,
-        "candidate_score": 64,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos",
@@ -108,12 +188,12 @@
         "needs_second_source": true
       },
       {
-        "external_id": "b048498ef5aabc03025b82cf",
+        "external_id": "5a9d365f5e9dffb3263b9bd5",
         "mode": "sportdog",
         "title": "Europa League: AC Milan 4-2 Comeback Win Against Olympiacos - Tempo.co English",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0JKTFlnZE9xOGxhUlJTRlAxTGxGdk5QZ0luVFJpanA2djFoNEt0ZFFiQTN6RktiNlh5czVZa3BmV0RRaHppYTF2Ni14aUtLUlljTUVfMmZTMEwydml4SWEyYmdzQ3FQaWJOaXZPcklrYUR3a2dBRU9ORlVMWjgwek5fVEg3SzJiR0daNXBOTXdnNXBUMEE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcG05WGVGbm5Zd2VVc0ZMb1lMOWtMWlJFREwzZFhGUmttaWR5SkFxUjctaXJZRkVkbE9jZzVDU1VtYTBnQndTbWdPR05UbnhXdEh6Q0F4a1NaUXZldzNwYnotaUpjaVJNSGctaG5nX3l1SHV4c3RUcmNiYjdxOC1ub0wwQkhKbXQydGExZGlVYndpSHg3?oc=5",
         "source": "Olympiacos Rumour Watch",
-        "published": "Fri, 27 Nov 2026 00:24:28 GMT",
+        "published": "Fri, 27 Nov 2026 00:24:00 GMT",
         "base_score": 50,
         "candidate_score": 61,
         "priority": "Normal",
@@ -128,23 +208,23 @@
         "needs_second_source": true
       },
       {
-        "external_id": "c2c79a745ccbc48b490ab53b",
+        "external_id": "90c0aa9c0676ce9c4a9d1e59",
         "mode": "sportdog",
-        "title": "Wild Comeback! Milan Turns the Tables on Olympiacos and 'La Hormiga' González in a Europa League Thriller - Soy Futbol",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd3cxaEUwNGFGTlBUdno2UW1PMXU2OFFVaHZuVVBWNE9EZF8tRXd6RmI0QzJsV1RfTXBQNFU4Z3ZnRU9UeGstSlBMaHJrZ0ltVzFobm5mYjlHMGRmbnlMaVZ4WDZ5bWhSaTZ1MXBIYVMyYVJPNVplZVR1UXdCb0wtOHpvdnR4UjZjU0Y3cTJscktjdXlhSnR4X0Y4N05rZkdVQ0lkZlhEVEdvQ1FraENOSXUxZW0tclo5cjl3MFNodFZLT01ZZmVFczd6VGwxMEdRZUlhdm5vMUVBQ2E2TDdvTDlFUmgxMmtKY0Nj?oc=5",
-        "source": "Olympiacos Rumour Watch",
-        "published": "Thu, 26 Nov 2026 20:25:18 GMT",
-        "base_score": 50,
-        "candidate_score": 61,
+        "title": "Nordsjaelland stun Panathinaikos in five-goal Conference thriller - TribalFootball",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdDhOWWhObnlGZmU0T1BfLVc5ZW9PdE1vS0xKMXRUOXBUX01OeUhEaXdrTGpfcFQxYXh6Qnk3amgzQXhvMzd5NmhaUE9Tc2VnWHZmQTkzVmc0R2UzNjFQRFo5ZmtwQThnWGJ0MWR1b1l5cS16OTRodXJvendZMXBHYlhjVkNtdmpQYzZ1UkY5UWpWSTJRWVRhR3E3bUN4U1A3b2RwbFdrejkxVHVlLTNyeUF4UGhydGhYdGoyYlc3aUNEZUN5aXRvRVNudGF1UDh2Z3liRml0cTg?oc=5",
+        "source": "Panathinaikos Rumour Watch",
+        "published": "Fri, 27 Nov 2026 00:14:51 GMT",
+        "base_score": 41,
+        "candidate_score": 52,
         "priority": "Normal",
         "matched_keywords": [
-          "Olympiacos",
-          "Europa League"
+          "Panathinaikos",
+          "football"
         ],
         "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Olympiacos",
-        "readiness": "VERIFY",
+        "editorial_type": "Match / Analysis",
+        "team": "Panathinaikos",
+        "readiness": "WATCH",
         "needs_second_source": true
       },
       {
@@ -155,7 +235,7 @@
         "source": "Panathinaikos Rumour Watch",
         "published": "Fri, 27 Nov 2026 22:42:41 GMT",
         "base_score": 31,
-        "candidate_score": 54,
+        "candidate_score": 49,
         "priority": "Normal",
         "matched_keywords": [
           "Panathinaikos"
@@ -167,46 +247,44 @@
         "needs_second_source": true
       },
       {
-        "external_id": "96fd769777f402c0c5d31221",
+        "external_id": "650c9ce380db8f2748e432b1",
         "mode": "sportdog",
-        "title": "Nordsjælland 3-2 Panathinaikos (26 Nov, 2026) Team Stats - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVURVZUdiTWJQWU9QcmxDUG1wUUQxSmt6Y21NbmFpX1ZrVGg2YWlvWFBTUW53NHEtSkdVR0R1cHRRNHRtNExUb1dleTd0OW5wQ2xTeGRQaDRXbkdxLWR0MlBZcFpiZkZFLWp1SjVqUEplN0VHdXpRUXZZZkNHQXNESkhHcWVJUXRvdWpjaThKWQ?oc=5",
-        "source": "Panathinaikos Rumour Watch",
-        "published": "Fri, 27 Nov 2026 17:43:02 GMT",
+        "title": "AEK Athens U-19 - LASK Under 19 - stats and timeline of head-to-head matches - Tribuna.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tUzRQZXJrWnFmRm1pOXdzMUtrZHdZdURwX2QtY0w3RGVnWHpHaWFLcndqZmltdy1kU2kzQnRjY3hTbDVXVkd0aVJFS3JxNTVWMnlGdGNYZUZ4aWRQYUNWLXdWS2UtcVBi?oc=5",
+        "source": "AEK Rumour Watch",
+        "published": "Thu, 26 Nov 2026 21:53:55 GMT",
         "base_score": 31,
-        "candidate_score": 49,
+        "candidate_score": 39,
         "priority": "Normal",
         "matched_keywords": [
-          "Panathinaikos"
+          "AEK"
         ],
         "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "Panathinaikos",
-        "readiness": "WATCH",
-        "needs_second_source": true
-      },
-      {
-        "external_id": "bd0eef6666a7977d40360a82",
-        "mode": "sportdog",
-        "title": "Acronis to deploy cybersecurity, data protection services at Greek football club PAOK - Telecompaper",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmVfcWZlQm1kVlVKZmFnN2VCVWFmc09RMm1nakZKVDR3UnljaGVYRjI3X095Qnd3YmpNRmtWNC13YlhRY29vQXJmYUVHblRQU3B1c2dQVkJSajJxZVRQd3FidkpxVG9KdFN3WjdfcU80WGQ5VzBnU2VDWmhubFR1ZVI4ZHRaQzBvM3l3U25COG5fVXF3ZEQwdExKTERsdUxCdzdzQzRIUkE2LXV6c1ZzNU82YmlIdkJidzV1dnBNMXRnZEFTYXc?oc=5",
-        "source": "PAOK Rumour Watch",
-        "published": "Thu, 26 Nov 2026 11:57:23 GMT",
-        "base_score": 41,
-        "candidate_score": 49,
-        "priority": "Normal",
-        "matched_keywords": [
-          "PAOK",
-          "football"
-        ],
-        "content_type": "news",
-        "editorial_type": "Team News",
-        "team": "PAOK",
+        "editorial_type": "Match / Analysis",
+        "team": "AEK",
         "readiness": "WATCH",
         "needs_second_source": true
       }
     ],
     "geopolitico": [
+      {
+        "external_id": "097f263353bed8bdcbba756c",
+        "mode": "geopolitico",
+        "title": "Punjab Youth Arrested for Allegedly Sharing Bathinda Army Cantonment Locations With Pakistan’s ISI - SSBCrack",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYVA4Sm9yYUtxSnE1am1na2tRWnp3cUxlQXp6bFViLU5Cb0U5X1dxSlVYd1dmbDdvYUJSUU90MURyU0Q3Y1BkSTNXNEZETUE5c0doVE1Cdzk2Q1RJTTBwYjJTTE4yOFB4bkFIZE9ieXFJc0pPUEhiSFhKVHV0c2laZmZKZzZkVGlONGx1ZUhUV05rZGoyVTN5YXRXRmh5Z0M0Y2hPTGVqWTh4LThFMXZ1WlN6QktaZkxrZWhDdEVzVWhPbjlZSkJkUjZMMzF3ek9v?oc=5",
+        "source": "Pakistan Security Watch",
+        "published": "Sat, 28 Nov 2026 04:44:39 GMT",
+        "base_score": 91,
+        "candidate_score": 106,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Pakistan",
+          "Ege",
+          "ISI",
+          "arrest"
+        ],
+        "content_type": "news"
+      },
       {
         "external_id": "dd480b25b5251d652aa1ca14",
         "mode": "geopolitico",
@@ -215,7 +293,7 @@
         "source": "Pakistan Security Watch",
         "published": "Fri, 27 Nov 2026 16:34:44 GMT",
         "base_score": 100,
-        "candidate_score": 110,
+        "candidate_score": 106,
         "priority": "URGENT",
         "matched_keywords": [
           "India",
@@ -246,24 +324,6 @@
         "content_type": "news"
       },
       {
-        "external_id": "3a42e202d49c2075ff00ece9",
-        "mode": "geopolitico",
-        "title": "PM Modi Meets Greek PM Mitsotakis on India AI Impact Summit 2026 Sidelines, Review Strategic Partnership Progress - DD News",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVFSY1BlVEZMQlZVTWVfcDg0RXVPclJJWmJ2eVJtUjFGMHp0ZllBOUk0RTdPempqT2xoTGxxTkJGM09PRG1fX2FKY0tleFlJVy1UTDJqVTVKZjgtT0wySDJheDhuVjRVYl8ydl8wR1B4UThLNk5hRXVvZlg0c3RZNTVLZy1pQUQxb2dUU0FhdkxEUWhQUnV2Yi13VFhROGFjanNjVksyVVVzVmtfa1h6a0x0OGFWTm5ZbXY4czNHeHZFN2NmUUh2VFl5d0Z0R0Nzd3d4Vw?oc=5",
-        "source": "Greece India Strategic Watch",
-        "published": "Fri, 27 Nov 2026 06:52:49 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
-        "matched_keywords": [
-          "India",
-          "Mitsotakis",
-          "Modi",
-          "strategic partnership"
-        ],
-        "content_type": "news"
-      },
-      {
         "external_id": "4675ee1fad77fc9248b4e107",
         "mode": "geopolitico",
         "title": "Greece Receives Israeli SPICE Bombs and Rampage Missiles for Its F-16s - Мілітарний",
@@ -282,6 +342,41 @@
         "content_type": "news"
       },
       {
+        "external_id": "3a42e202d49c2075ff00ece9",
+        "mode": "geopolitico",
+        "title": "PM Modi Meets Greek PM Mitsotakis on India AI Impact Summit 2026 Sidelines, Review Strategic Partnership Progress - DD News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVFSY1BlVEZMQlZVTWVfcDg0RXVPclJJWmJ2eVJtUjFGMHp0ZllBOUk0RTdPempqT2xoTGxxTkJGM09PRG1fX2FKY0tleFlJVy1UTDJqVTVKZjgtT0wySDJheDhuVjRVYl8ydl8wR1B4UThLNk5hRXVvZlg0c3RZNTVLZy1pQUQxb2dUU0FhdkxEUWhQUnV2Yi13VFhROGFjanNjVksyVVVzVmtfa1h6a0x0OGFWTm5ZbXY4czNHeHZFN2NmUUh2VFl5d0Z0R0Nzd3d4Vw?oc=5",
+        "source": "Greece India Strategic Watch",
+        "published": "Fri, 27 Nov 2026 06:52:49 GMT",
+        "base_score": 100,
+        "candidate_score": 103,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "India",
+          "Mitsotakis",
+          "Modi",
+          "strategic partnership"
+        ],
+        "content_type": "news"
+      },
+      {
+        "external_id": "13cb5082ed55efe4ce6d2c66",
+        "mode": "geopolitico",
+        "title": "French Survey Ship Reaches Cyprus EEZ as Great Sea Interconnector Awaits €25m Payment - Greek City Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORXpsN3NhWDdLN3J3b25PeDdWSGVGQ2FyRTlJLUE3cG9xREVVeDRlSDNsQmZVRTBZVExXemlGc096d2ZyWTkyV1ZYbHVlNHdOblBWYjJ2a1k1djk0WEVMTk45LWhZOHV5amJGazgzYXQ2M2phVm9rbnViaTV2amJ3RnJENXlNRUdiMGh1elJXRQ?oc=5",
+        "source": "Greece Cyprus Israel Watch",
+        "published": "Sat, 28 Nov 2026 04:12:25 GMT",
+        "base_score": 84,
+        "candidate_score": 99,
+        "priority": "URGENT",
+        "matched_keywords": [
+          "Cyprus",
+          "Great Sea Interconnector",
+          "Great Sea Interconnector"
+        ],
+        "content_type": "news"
+      },
+      {
         "external_id": "722bf2268c7e1ad1b8f0d362",
         "mode": "geopolitico",
         "title": "Yunanistan, PULS Roketatar Sistemleri İçin 8×8 Askeri Araç Üretecek - SavunmaTR",
@@ -289,7 +384,7 @@
         "source": "Turkish Greek Defence Watch",
         "published": "Fri, 27 Nov 2026 09:17:26 GMT",
         "base_score": 94,
-        "candidate_score": 100,
+        "candidate_score": 97,
         "priority": "URGENT",
         "matched_keywords": [
           "Yunanistan",
@@ -300,56 +395,20 @@
         "content_type": "turkey_greece"
       },
       {
-        "external_id": "2eb51a4e914540804d5fd476",
+        "external_id": "3926e123680f5e7f81ad7997",
         "mode": "geopolitico",
-        "title": "Doğu Akdeniz'de Atina'nın hesabı şaştı! Yunanistan'dan çarpıcı çıkış: Onca para harcadık, Türkiye kazandı - TRHaber",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT3Z6dnc0QUhINWY1eFNiRzAxTUN1ZGZZYVR0SkV0Q216d01qcmR4NDFQM3dYMmF0TmxDLTBYSG1mNHBHd1JMZ1F6WVdBTE5uSkM1SHcySkhNaDNCY01IcG9YZWVZYVQxODBUcGdrSDN6bTN1Zlh2UVhseWV3N0pMcmJWeDYzOGpyMVVScjJYSV9Jc09TUjBudzZOVmUyM0dzUm9aMDFZeVZFRngzNjdCdEZHaWh1Qm12MjRqWHNxV05KNENQNlkyeUVZM2hXQXJPaUxoY2F4UElPeXRrcFVz?oc=5",
-        "source": "Turkey Greece Breaking Watch",
-        "published": "Fri, 27 Nov 2026 13:57:00 GMT",
-        "base_score": 88,
-        "candidate_score": 94,
-        "priority": "High",
-        "matched_keywords": [
-          "Yunanistan",
-          "Doğu Akdeniz",
-          "Atina"
-        ],
-        "content_type": "turkey_greece"
-      },
-      {
-        "external_id": "99cbcad05ef3e6f68a6db244",
-        "mode": "geopolitico",
-        "title": "Babushahi Global Updates|Nov 27|: Modi Cabinet Clears Delimitation Linked Women Quota Bill | Trump Signs Florida Disaster Declaration|Trump On Ukraine Peace Deal|17-Yr-Old Indian AI Prodigy Clicks Selfie with Putin|Pakistan Drone Strike in Balochista - Babushahi.com",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vT095clRRRjdwM3dDelphTWdvMDZoUGw1WURJZGwzRTlyNnhoYkFFVGdqN0t1OTBJTGpfSVhaZ0xsazlpOXIwRDRKMVNhZzdXODkzTWVrM1NveUo0RFE?oc=5",
-        "source": "Pakistan Security Watch",
-        "published": "Fri, 27 Nov 2026 12:45:00 GMT",
-        "base_score": 88,
-        "candidate_score": 94,
-        "priority": "High",
-        "matched_keywords": [
-          "India",
-          "Pakistan",
-          "Modi",
-          "drone"
-        ],
-        "content_type": "news"
-      },
-      {
-        "external_id": "9f0fdf3c0487d2dc167139a2",
-        "mode": "geopolitico",
-        "title": "Erdogan seals Turkey’s entry into Saudi-Pakistani defence pact - The Arab Weekly",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUF9XbnRsQ211MUctV2tWOVM5aFRsc0hFOWM4SEh2N0xhNDVxSmdjRDhGNFFldVNhb2lHTVJkM3dqU1NlRXNoWTB0M1kxcnZsSmJjMjZTMFpQMXBNMjlFc2tjZkRqNVhuMTlvWjdYU2FfSzZxUHp3bHoyOTl2NGFoaUZVdnc4Q2ZfTEx5aTJR?oc=5",
-        "source": "Pakistan Turkey Watch",
-        "published": "Fri, 27 Nov 2026 09:39:56 GMT",
+        "title": "Greece and India Explore Maritime Investment and Shipping Partnership - Greek City Times",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGtMODQtTGF6SXNyMjRkLUktZF8yQ1BGLWs4Z3ExYWpNLUJvTUppQkM0eXdmemE4OGJFY1JxamJDU2JtV1AxNXlPQ2EtRTMzODR3Ty01UXBMbGRTYzRPTUZPUGV5MzBZbkhKLTE5cHlyd0JzajJlSk13cWVMRUc5WHN5OXRMbm91WlU1b1R4YzA1ZURSWlJudTZidS1BV296UkxmQ2V0ZXlrX252?oc=5",
+        "source": "Greece India Strategic Watch",
+        "published": "Fri, 27 Nov 2026 21:02:16 GMT",
         "base_score": 86,
-        "candidate_score": 92,
-        "priority": "High",
+        "candidate_score": 96,
+        "priority": "URGENT",
         "matched_keywords": [
-          "Pakistan",
-          "Pakistani",
-          "Turkey",
-          "Erdogan",
-          "defence"
+          "Greece",
+          "India",
+          "shipping",
+          "investment"
         ],
         "content_type": "news"
       }
@@ -373,17 +432,16 @@
         "content_type": "news"
       },
       {
-        "external_id": "2c3683467135e60ce9d50dac",
+        "external_id": "864265ccd5cbdd3a83139db3",
         "mode": "pontos_voice",
-        "title": "Πόντιοι Ελευσίνας: 50 χρόνια «Νέα Τραπεζούντα» – Μια πατρίδα φτιαγμένη με τα χέρια τους - pontosnews.gr",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXJLZllNVDFLQjRrNE9WelFGeThSWnRLNlVxOXZmOURQMS1rR2hrNXhQTVhHT3FXa1M3Qjc4SGlzblBtcS1rN08tTmpTcDgtSVBfOUFOUVM3Sy1RUWRVbDdRbTMwdXQtN1F4X1BYcUh6WUdUQzB5T19JTnpfWFhEenVPX2JSZWZoejNwMTUwR2tTYzlPb2V1dE9PUkduMExHZm1ldU1jazRHNjQ?oc=5",
+        "title": "Πόντιοι Ελευσίνας: 50 χρόνια «Νέα Τραπεζούντα» – Μια πατρίδα φτιαγμένη με τα χέρια τους - εφημερίδα δημοκρατία",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOExpLTZldVJyWktyME5ySlZJYmtBRVc3MUxJQ3BNMVZiMUNITmQ0amlYNEpXa00xbVQyM01QR0o2alhEdzhnS1VjUlloYWJyYTZoMjBRY2o1REUtZml5ZkV1LThHa1ZQanpTaDZkalFGWTJKdWs0Q0xmbnAyRDhtdHhCOFRQeWtSak5FX21iQmpDRVRfVkljOGlfNHA1Um0yWEtWUFRkbE9yNDM5MzRpTGQtTEZKRHk4?oc=5",
         "source": "Greek Press Pontic Watch",
-        "published": "Fri, 27 Nov 2026 12:30:43 GMT",
-        "base_score": 100,
-        "candidate_score": 106,
-        "priority": "URGENT",
+        "published": "Fri, 27 Nov 2026 21:45:12 GMT",
+        "base_score": 80,
+        "candidate_score": 90,
+        "priority": "High",
         "matched_keywords": [
-          "Pontos",
           "Πόντιοι",
           "Τραπεζούντα"
         ],
@@ -397,7 +455,7 @@
         "source": "Pontos News Watch",
         "published": "Fri, 27 Nov 2026 18:35:54 GMT",
         "base_score": 78,
-        "candidate_score": 88,
+        "candidate_score": 84,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -413,7 +471,7 @@
         "source": "Greek Press Pontic Watch",
         "published": "Fri, 27 Nov 2026 19:58:42 GMT",
         "base_score": 75,
-        "candidate_score": 85,
+        "candidate_score": 81,
         "priority": "High",
         "matched_keywords": [
           "Pontos",
@@ -429,7 +487,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 27 Nov 2026 18:41:00 +0300",
         "base_score": 66,
-        "candidate_score": 76,
+        "candidate_score": 72,
         "priority": "High",
         "matched_keywords": [
           "Trabzon",
@@ -448,7 +506,7 @@
         "source": "61Saat Trabzon",
         "published": "Fri, 27 Nov 2026 19:45:00 +0300",
         "base_score": 55,
-        "candidate_score": 65,
+        "candidate_score": 61,
         "priority": "Normal",
         "matched_keywords": [
           "Trabzon",
@@ -462,14 +520,34 @@
   },
   "items": [
     {
-      "external_id": "0c146ee0ee0027f11d7b1138",
+      "external_id": "a3cc780c7a36e2e8dc0b461b",
       "mode": "sportdog",
-      "title": "Myron Van Brederode Transfer from Mechelen to Panathinaikos - TransferFeed",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOE42TllyTnl0ZHFfTUM0eHRVYTgwX2VTdy1EdmxZVUNtWDRYSzJmUzNBN29sVmlqUVV0cFFZeXp3OTI3ZUZqN1ljMkdUa0tyNWJuNWRmN3V2Zmdnajd6enhSeEw1dWdiRVVCVlZZNVNQbXpaM3VxaVN6d0RSc1ViUTd0WEs1Q19KbENXYUM2Z2c3VkND?oc=5",
+      "title": "Two Panathinaikos complaints target Olympiacos over chants - KarloBag.eu",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc2Q0cndhQi1TRnlYZmlqOFV1Z2JKVTVIV2Z2Umw4ZXRiOXJXeFkyRWJaOWdJMlE4MUJ5V1d5a29BNEJiZDg0R21mOHAyR1NSdXE1SF8zOGo5SUhmODVvUzlGaUpEWTBIRzRtNjJUdkl6aGt4ZmUxNXJ6NGJweUJoMTA3Q1JZMk1kb2VXbEtSS3R2NTRLak9WUFZVdXI0TmJHWGdmSTQzREpIdDloeEsyR3E4NmF3S3oz?oc=5",
+      "source": "Olympiacos Rumour Watch",
+      "published": "Fri, 27 Nov 2026 22:35:40 GMT",
+      "base_score": 62,
+      "candidate_score": 88,
+      "priority": "High",
+      "matched_keywords": [
+        "Olympiacos",
+        "Panathinaikos"
+      ],
+      "content_type": "news",
+      "editorial_type": "Team News",
+      "team": "Olympiacos",
+      "readiness": "READY",
+      "needs_second_source": false
+    },
+    {
+      "external_id": "3924ff34c5979060cebbc9e7",
+      "mode": "sportdog",
+      "title": "Adriano Jagušić Transfer from Panathinaikos to Dinamo Zagreb - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmxBUnp6N3pxanloYnBTbUxCQUpra2VFc1J2M2dqeFpqb2NTT20ycmVHMW11eUxUckFGblRfUDQzWENOVkVXalVZSTRFdjFkZ0VOa2E5VV9hY0JtOXkxZHBjWXo2SVhwcTIyX3hsaV9qN2FiaHhVU2I2eUZxbHNIRUtqU1czXzFYR2VVeTZ5N3QzOURhQ2c?oc=5",
       "source": "TransferFeed Greek Super League",
-      "published": "Thu, 26 Nov 2026 16:50:06 GMT",
+      "published": "Fri, 27 Nov 2026 19:35:45 GMT",
       "base_score": 58,
-      "candidate_score": 78,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Panathinaikos",
@@ -482,6 +560,66 @@
       "needs_second_source": true
     },
     {
+      "external_id": "490296fd46f6a04fa3f4ac9d",
+      "mode": "sportdog",
+      "title": "Amine Harit Transfer from Olympique Marseille to AEK Athens - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeDU2QzFkSmlOS1lzMjVwUUdzLU54ZjI1Qk5vTkc4Z1dYNnNWQS11RFJQaEplVTA5WTU4dFRFblVlVmdOY0UxVUNRZjNvemxEWVdhRi1PNVRPMnFOV2NPM21NcjJPQ0t1bW9lSDIzeWNjZU5tVllKX0tUZXBfLW5pS0NyVFpjeDZNd09TcFRrQW5ROE1X?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Fri, 27 Nov 2026 18:36:12 GMT",
+      "base_score": 58,
+      "candidate_score": 84,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "2e6b519cb7f8a500776de17b",
+      "mode": "sportdog",
+      "title": "AEK Athens to Sign Adidas Kit Deal - No More Nike - Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5GbHVQZkJSd2ZzUEJONXc4dEFEVzNIUlhMWDJMcHlhMHczN2lsMHdiSHdaOE40VEI2NWhz?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Fri, 27 Nov 2026 11:55:00 GMT",
+      "base_score": 56,
+      "candidate_score": 80,
+      "priority": "High",
+      "matched_keywords": [
+        "AEK",
+        "deal"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "AEK",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
+      "external_id": "e56f354e981b0da60353b8c7",
+      "mode": "sportdog",
+      "title": "Maarten Vandevoordt Transfer from RB Leipzig to Paris Saint Germain - TransferFeed",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDFwa3hidlB2VGVpWm5oNWluS19PRUU0eTZHZWxrX1daSjJQRF9UbXVDam5KeEFsMnFZSTN3NHFVeXVtbERzSmhmczQ3aXo2bjJINl9HeERzNm9KTEoxVHF2RVFlQS1ONHVEVkZuM2R4cWlFRW1qanlUXzd1S2JJaFh6UmV6UFJxLWFBWTMtX01DeDR2ak5VNmlFTXpRRUk?oc=5",
+      "source": "TransferFeed Greek Super League",
+      "published": "Fri, 27 Nov 2026 18:34:40 GMT",
+      "base_score": 52,
+      "candidate_score": 70,
+      "priority": "High",
+      "matched_keywords": [
+        "Aris",
+        "transfer"
+      ],
+      "content_type": "news",
+      "editorial_type": "Transfer Report",
+      "team": "Aris",
+      "readiness": "VERIFY",
+      "needs_second_source": true
+    },
+    {
       "external_id": "f73ba2f0bcf914389c3c5200",
       "mode": "sportdog",
       "title": "Amorim confirms Gonçalo Ramos injury after epic Milan comeback win over Jota Silva’s Olympiacos - portugoal.net",
@@ -489,7 +627,7 @@
       "source": "Olympiacos Rumour Watch",
       "published": "Fri, 27 Nov 2026 09:02:41 GMT",
       "base_score": 41,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Olympiacos",
@@ -509,7 +647,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 27 Nov 2026 07:39:22 GMT",
       "base_score": 50,
-      "candidate_score": 64,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos",
@@ -562,12 +700,12 @@
       "needs_second_source": true
     },
     {
-      "external_id": "b048498ef5aabc03025b82cf",
+      "external_id": "5a9d365f5e9dffb3263b9bd5",
       "mode": "sportdog",
       "title": "Europa League: AC Milan 4-2 Comeback Win Against Olympiacos - Tempo.co English",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0JKTFlnZE9xOGxhUlJTRlAxTGxGdk5QZ0luVFJpanA2djFoNEt0ZFFiQTN6RktiNlh5czVZa3BmV0RRaHppYTF2Ni14aUtLUlljTUVfMmZTMEwydml4SWEyYmdzQ3FQaWJOaXZPcklrYUR3a2dBRU9ORlVMWjgwek5fVEg3SzJiR0daNXBOTXdnNXBUMEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcG05WGVGbm5Zd2VVc0ZMb1lMOWtMWlJFREwzZFhGUmttaWR5SkFxUjctaXJZRkVkbE9jZzVDU1VtYTBnQndTbWdPR05UbnhXdEh6Q0F4a1NaUXZldzNwYnotaUpjaVJNSGctaG5nX3l1SHV4c3RUcmNiYjdxOC1ub0wwQkhKbXQydGExZGlVYndpSHg3?oc=5",
       "source": "Olympiacos Rumour Watch",
-      "published": "Fri, 27 Nov 2026 00:24:28 GMT",
+      "published": "Fri, 27 Nov 2026 00:24:00 GMT",
       "base_score": 50,
       "candidate_score": 61,
       "priority": "Normal",
@@ -582,23 +720,23 @@
       "needs_second_source": true
     },
     {
-      "external_id": "c2c79a745ccbc48b490ab53b",
+      "external_id": "90c0aa9c0676ce9c4a9d1e59",
       "mode": "sportdog",
-      "title": "Wild Comeback! Milan Turns the Tables on Olympiacos and 'La Hormiga' González in a Europa League Thriller - Soy Futbol",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd3cxaEUwNGFGTlBUdno2UW1PMXU2OFFVaHZuVVBWNE9EZF8tRXd6RmI0QzJsV1RfTXBQNFU4Z3ZnRU9UeGstSlBMaHJrZ0ltVzFobm5mYjlHMGRmbnlMaVZ4WDZ5bWhSaTZ1MXBIYVMyYVJPNVplZVR1UXdCb0wtOHpvdnR4UjZjU0Y3cTJscktjdXlhSnR4X0Y4N05rZkdVQ0lkZlhEVEdvQ1FraENOSXUxZW0tclo5cjl3MFNodFZLT01ZZmVFczd6VGwxMEdRZUlhdm5vMUVBQ2E2TDdvTDlFUmgxMmtKY0Nj?oc=5",
-      "source": "Olympiacos Rumour Watch",
-      "published": "Thu, 26 Nov 2026 20:25:18 GMT",
-      "base_score": 50,
-      "candidate_score": 61,
+      "title": "Nordsjaelland stun Panathinaikos in five-goal Conference thriller - TribalFootball",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdDhOWWhObnlGZmU0T1BfLVc5ZW9PdE1vS0xKMXRUOXBUX01OeUhEaXdrTGpfcFQxYXh6Qnk3amgzQXhvMzd5NmhaUE9Tc2VnWHZmQTkzVmc0R2UzNjFQRFo5ZmtwQThnWGJ0MWR1b1l5cS16OTRodXJvendZMXBHYlhjVkNtdmpQYzZ1UkY5UWpWSTJRWVRhR3E3bUN4U1A3b2RwbFdrejkxVHVlLTNyeUF4UGhydGhYdGoyYlc3aUNEZUN5aXRvRVNudGF1UDh2Z3liRml0cTg?oc=5",
+      "source": "Panathinaikos Rumour Watch",
+      "published": "Fri, 27 Nov 2026 00:14:51 GMT",
+      "base_score": 41,
+      "candidate_score": 52,
       "priority": "Normal",
       "matched_keywords": [
-        "Olympiacos",
-        "Europa League"
+        "Panathinaikos",
+        "football"
       ],
       "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Olympiacos",
-      "readiness": "VERIFY",
+      "editorial_type": "Match / Analysis",
+      "team": "Panathinaikos",
+      "readiness": "WATCH",
       "needs_second_source": true
     },
     {
@@ -609,7 +747,7 @@
       "source": "Panathinaikos Rumour Watch",
       "published": "Fri, 27 Nov 2026 22:42:41 GMT",
       "base_score": 31,
-      "candidate_score": 54,
+      "candidate_score": 49,
       "priority": "Normal",
       "matched_keywords": [
         "Panathinaikos"
@@ -621,43 +759,41 @@
       "needs_second_source": true
     },
     {
-      "external_id": "96fd769777f402c0c5d31221",
+      "external_id": "650c9ce380db8f2748e432b1",
       "mode": "sportdog",
-      "title": "Nordsjælland 3-2 Panathinaikos (26 Nov, 2026) Team Stats - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVURVZUdiTWJQWU9QcmxDUG1wUUQxSmt6Y21NbmFpX1ZrVGg2YWlvWFBTUW53NHEtSkdVR0R1cHRRNHRtNExUb1dleTd0OW5wQ2xTeGRQaDRXbkdxLWR0MlBZcFpiZkZFLWp1SjVqUEplN0VHdXpRUXZZZkNHQXNESkhHcWVJUXRvdWpjaThKWQ?oc=5",
-      "source": "Panathinaikos Rumour Watch",
-      "published": "Fri, 27 Nov 2026 17:43:02 GMT",
+      "title": "AEK Athens U-19 - LASK Under 19 - stats and timeline of head-to-head matches - Tribuna.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tUzRQZXJrWnFmRm1pOXdzMUtrZHdZdURwX2QtY0w3RGVnWHpHaWFLcndqZmltdy1kU2kzQnRjY3hTbDVXVkd0aVJFS3JxNTVWMnlGdGNYZUZ4aWRQYUNWLXdWS2UtcVBi?oc=5",
+      "source": "AEK Rumour Watch",
+      "published": "Thu, 26 Nov 2026 21:53:55 GMT",
       "base_score": 31,
-      "candidate_score": 49,
+      "candidate_score": 39,
       "priority": "Normal",
       "matched_keywords": [
-        "Panathinaikos"
+        "AEK"
       ],
       "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "Panathinaikos",
+      "editorial_type": "Match / Analysis",
+      "team": "AEK",
       "readiness": "WATCH",
       "needs_second_source": true
     },
     {
-      "external_id": "bd0eef6666a7977d40360a82",
-      "mode": "sportdog",
-      "title": "Acronis to deploy cybersecurity, data protection services at Greek football club PAOK - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmVfcWZlQm1kVlVKZmFnN2VCVWFmc09RMm1nakZKVDR3UnljaGVYRjI3X095Qnd3YmpNRmtWNC13YlhRY29vQXJmYUVHblRQU3B1c2dQVkJSajJxZVRQd3FidkpxVG9KdFN3WjdfcU80WGQ5VzBnU2VDWmhubFR1ZVI4ZHRaQzBvM3l3U25COG5fVXF3ZEQwdExKTERsdUxCdzdzQzRIUkE2LXV6c1ZzNU82YmlIdkJidzV1dnBNMXRnZEFTYXc?oc=5",
-      "source": "PAOK Rumour Watch",
-      "published": "Thu, 26 Nov 2026 11:57:23 GMT",
-      "base_score": 41,
-      "candidate_score": 49,
-      "priority": "Normal",
+      "external_id": "097f263353bed8bdcbba756c",
+      "mode": "geopolitico",
+      "title": "Punjab Youth Arrested for Allegedly Sharing Bathinda Army Cantonment Locations With Pakistan’s ISI - SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYVA4Sm9yYUtxSnE1am1na2tRWnp3cUxlQXp6bFViLU5Cb0U5X1dxSlVYd1dmbDdvYUJSUU90MURyU0Q3Y1BkSTNXNEZETUE5c0doVE1Cdzk2Q1RJTTBwYjJTTE4yOFB4bkFIZE9ieXFJc0pPUEhiSFhKVHV0c2laZmZKZzZkVGlONGx1ZUhUV05rZGoyVTN5YXRXRmh5Z0M0Y2hPTGVqWTh4LThFMXZ1WlN6QktaZkxrZWhDdEVzVWhPbjlZSkJkUjZMMzF3ek9v?oc=5",
+      "source": "Pakistan Security Watch",
+      "published": "Sat, 28 Nov 2026 04:44:39 GMT",
+      "base_score": 91,
+      "candidate_score": 106,
+      "priority": "URGENT",
       "matched_keywords": [
-        "PAOK",
-        "football"
+        "Pakistan",
+        "Ege",
+        "ISI",
+        "arrest"
       ],
-      "content_type": "news",
-      "editorial_type": "Team News",
-      "team": "PAOK",
-      "readiness": "WATCH",
-      "needs_second_source": true
+      "content_type": "news"
     },
     {
       "external_id": "dd480b25b5251d652aa1ca14",
@@ -667,7 +803,7 @@
       "source": "Pakistan Security Watch",
       "published": "Fri, 27 Nov 2026 16:34:44 GMT",
       "base_score": 100,
-      "candidate_score": 110,
+      "candidate_score": 106,
       "priority": "URGENT",
       "matched_keywords": [
         "India",
@@ -698,24 +834,6 @@
       "content_type": "news"
     },
     {
-      "external_id": "3a42e202d49c2075ff00ece9",
-      "mode": "geopolitico",
-      "title": "PM Modi Meets Greek PM Mitsotakis on India AI Impact Summit 2026 Sidelines, Review Strategic Partnership Progress - DD News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVFSY1BlVEZMQlZVTWVfcDg0RXVPclJJWmJ2eVJtUjFGMHp0ZllBOUk0RTdPempqT2xoTGxxTkJGM09PRG1fX2FKY0tleFlJVy1UTDJqVTVKZjgtT0wySDJheDhuVjRVYl8ydl8wR1B4UThLNk5hRXVvZlg0c3RZNTVLZy1pQUQxb2dUU0FhdkxEUWhQUnV2Yi13VFhROGFjanNjVksyVVVzVmtfa1h6a0x0OGFWTm5ZbXY4czNHeHZFN2NmUUh2VFl5d0Z0R0Nzd3d4Vw?oc=5",
-      "source": "Greece India Strategic Watch",
-      "published": "Fri, 27 Nov 2026 06:52:49 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
-      "matched_keywords": [
-        "India",
-        "Mitsotakis",
-        "Modi",
-        "strategic partnership"
-      ],
-      "content_type": "news"
-    },
-    {
       "external_id": "4675ee1fad77fc9248b4e107",
       "mode": "geopolitico",
       "title": "Greece Receives Israeli SPICE Bombs and Rampage Missiles for Its F-16s - Мілітарний",
@@ -734,6 +852,41 @@
       "content_type": "news"
     },
     {
+      "external_id": "3a42e202d49c2075ff00ece9",
+      "mode": "geopolitico",
+      "title": "PM Modi Meets Greek PM Mitsotakis on India AI Impact Summit 2026 Sidelines, Review Strategic Partnership Progress - DD News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVFSY1BlVEZMQlZVTWVfcDg0RXVPclJJWmJ2eVJtUjFGMHp0ZllBOUk0RTdPempqT2xoTGxxTkJGM09PRG1fX2FKY0tleFlJVy1UTDJqVTVKZjgtT0wySDJheDhuVjRVYl8ydl8wR1B4UThLNk5hRXVvZlg0c3RZNTVLZy1pQUQxb2dUU0FhdkxEUWhQUnV2Yi13VFhROGFjanNjVksyVVVzVmtfa1h6a0x0OGFWTm5ZbXY4czNHeHZFN2NmUUh2VFl5d0Z0R0Nzd3d4Vw?oc=5",
+      "source": "Greece India Strategic Watch",
+      "published": "Fri, 27 Nov 2026 06:52:49 GMT",
+      "base_score": 100,
+      "candidate_score": 103,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "India",
+        "Mitsotakis",
+        "Modi",
+        "strategic partnership"
+      ],
+      "content_type": "news"
+    },
+    {
+      "external_id": "13cb5082ed55efe4ce6d2c66",
+      "mode": "geopolitico",
+      "title": "French Survey Ship Reaches Cyprus EEZ as Great Sea Interconnector Awaits €25m Payment - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORXpsN3NhWDdLN3J3b25PeDdWSGVGQ2FyRTlJLUE3cG9xREVVeDRlSDNsQmZVRTBZVExXemlGc096d2ZyWTkyV1ZYbHVlNHdOblBWYjJ2a1k1djk0WEVMTk45LWhZOHV5amJGazgzYXQ2M2phVm9rbnViaTV2amJ3RnJENXlNRUdiMGh1elJXRQ?oc=5",
+      "source": "Greece Cyprus Israel Watch",
+      "published": "Sat, 28 Nov 2026 04:12:25 GMT",
+      "base_score": 84,
+      "candidate_score": 99,
+      "priority": "URGENT",
+      "matched_keywords": [
+        "Cyprus",
+        "Great Sea Interconnector",
+        "Great Sea Interconnector"
+      ],
+      "content_type": "news"
+    },
+    {
       "external_id": "722bf2268c7e1ad1b8f0d362",
       "mode": "geopolitico",
       "title": "Yunanistan, PULS Roketatar Sistemleri İçin 8×8 Askeri Araç Üretecek - SavunmaTR",
@@ -741,7 +894,7 @@
       "source": "Turkish Greek Defence Watch",
       "published": "Fri, 27 Nov 2026 09:17:26 GMT",
       "base_score": 94,
-      "candidate_score": 100,
+      "candidate_score": 97,
       "priority": "URGENT",
       "matched_keywords": [
         "Yunanistan",
@@ -752,56 +905,20 @@
       "content_type": "turkey_greece"
     },
     {
-      "external_id": "2eb51a4e914540804d5fd476",
+      "external_id": "3926e123680f5e7f81ad7997",
       "mode": "geopolitico",
-      "title": "Doğu Akdeniz'de Atina'nın hesabı şaştı! Yunanistan'dan çarpıcı çıkış: Onca para harcadık, Türkiye kazandı - TRHaber",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT3Z6dnc0QUhINWY1eFNiRzAxTUN1ZGZZYVR0SkV0Q216d01qcmR4NDFQM3dYMmF0TmxDLTBYSG1mNHBHd1JMZ1F6WVdBTE5uSkM1SHcySkhNaDNCY01IcG9YZWVZYVQxODBUcGdrSDN6bTN1Zlh2UVhseWV3N0pMcmJWeDYzOGpyMVVScjJYSV9Jc09TUjBudzZOVmUyM0dzUm9aMDFZeVZFRngzNjdCdEZHaWh1Qm12MjRqWHNxV05KNENQNlkyeUVZM2hXQXJPaUxoY2F4UElPeXRrcFVz?oc=5",
-      "source": "Turkey Greece Breaking Watch",
-      "published": "Fri, 27 Nov 2026 13:57:00 GMT",
-      "base_score": 88,
-      "candidate_score": 94,
-      "priority": "High",
-      "matched_keywords": [
-        "Yunanistan",
-        "Doğu Akdeniz",
-        "Atina"
-      ],
-      "content_type": "turkey_greece"
-    },
-    {
-      "external_id": "99cbcad05ef3e6f68a6db244",
-      "mode": "geopolitico",
-      "title": "Babushahi Global Updates|Nov 27|: Modi Cabinet Clears Delimitation Linked Women Quota Bill | Trump Signs Florida Disaster Declaration|Trump On Ukraine Peace Deal|17-Yr-Old Indian AI Prodigy Clicks Selfie with Putin|Pakistan Drone Strike in Balochista - Babushahi.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vT095clRRRjdwM3dDelphTWdvMDZoUGw1WURJZGwzRTlyNnhoYkFFVGdqN0t1OTBJTGpfSVhaZ0xsazlpOXIwRDRKMVNhZzdXODkzTWVrM1NveUo0RFE?oc=5",
-      "source": "Pakistan Security Watch",
-      "published": "Fri, 27 Nov 2026 12:45:00 GMT",
-      "base_score": 88,
-      "candidate_score": 94,
-      "priority": "High",
-      "matched_keywords": [
-        "India",
-        "Pakistan",
-        "Modi",
-        "drone"
-      ],
-      "content_type": "news"
-    },
-    {
-      "external_id": "9f0fdf3c0487d2dc167139a2",
-      "mode": "geopolitico",
-      "title": "Erdogan seals Turkey’s entry into Saudi-Pakistani defence pact - The Arab Weekly",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUF9XbnRsQ211MUctV2tWOVM5aFRsc0hFOWM4SEh2N0xhNDVxSmdjRDhGNFFldVNhb2lHTVJkM3dqU1NlRXNoWTB0M1kxcnZsSmJjMjZTMFpQMXBNMjlFc2tjZkRqNVhuMTlvWjdYU2FfSzZxUHp3bHoyOTl2NGFoaUZVdnc4Q2ZfTEx5aTJR?oc=5",
-      "source": "Pakistan Turkey Watch",
-      "published": "Fri, 27 Nov 2026 09:39:56 GMT",
+      "title": "Greece and India Explore Maritime Investment and Shipping Partnership - Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGtMODQtTGF6SXNyMjRkLUktZF8yQ1BGLWs4Z3ExYWpNLUJvTUppQkM0eXdmemE4OGJFY1JxamJDU2JtV1AxNXlPQ2EtRTMzODR3Ty01UXBMbGRTYzRPTUZPUGV5MzBZbkhKLTE5cHlyd0JzajJlSk13cWVMRUc5WHN5OXRMbm91WlU1b1R4YzA1ZURSWlJudTZidS1BV296UkxmQ2V0ZXlrX252?oc=5",
+      "source": "Greece India Strategic Watch",
+      "published": "Fri, 27 Nov 2026 21:02:16 GMT",
       "base_score": 86,
-      "candidate_score": 92,
-      "priority": "High",
+      "candidate_score": 96,
+      "priority": "URGENT",
       "matched_keywords": [
-        "Pakistan",
-        "Pakistani",
-        "Turkey",
-        "Erdogan",
-        "defence"
+        "Greece",
+        "India",
+        "shipping",
+        "investment"
       ],
       "content_type": "news"
     },
@@ -823,17 +940,16 @@
       "content_type": "news"
     },
     {
-      "external_id": "2c3683467135e60ce9d50dac",
+      "external_id": "864265ccd5cbdd3a83139db3",
       "mode": "pontos_voice",
-      "title": "Πόντιοι Ελευσίνας: 50 χρόνια «Νέα Τραπεζούντα» – Μια πατρίδα φτιαγμένη με τα χέρια τους - pontosnews.gr",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXJLZllNVDFLQjRrNE9WelFGeThSWnRLNlVxOXZmOURQMS1rR2hrNXhQTVhHT3FXa1M3Qjc4SGlzblBtcS1rN08tTmpTcDgtSVBfOUFOUVM3Sy1RUWRVbDdRbTMwdXQtN1F4X1BYcUh6WUdUQzB5T19JTnpfWFhEenVPX2JSZWZoejNwMTUwR2tTYzlPb2V1dE9PUkduMExHZm1ldU1jazRHNjQ?oc=5",
+      "title": "Πόντιοι Ελευσίνας: 50 χρόνια «Νέα Τραπεζούντα» – Μια πατρίδα φτιαγμένη με τα χέρια τους - εφημερίδα δημοκρατία",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOExpLTZldVJyWktyME5ySlZJYmtBRVc3MUxJQ3BNMVZiMUNITmQ0amlYNEpXa00xbVQyM01QR0o2alhEdzhnS1VjUlloYWJyYTZoMjBRY2o1REUtZml5ZkV1LThHa1ZQanpTaDZkalFGWTJKdWs0Q0xmbnAyRDhtdHhCOFRQeWtSak5FX21iQmpDRVRfVkljOGlfNHA1Um0yWEtWUFRkbE9yNDM5MzRpTGQtTEZKRHk4?oc=5",
       "source": "Greek Press Pontic Watch",
-      "published": "Fri, 27 Nov 2026 12:30:43 GMT",
-      "base_score": 100,
-      "candidate_score": 106,
-      "priority": "URGENT",
+      "published": "Fri, 27 Nov 2026 21:45:12 GMT",
+      "base_score": 80,
+      "candidate_score": 90,
+      "priority": "High",
       "matched_keywords": [
-        "Pontos",
         "Πόντιοι",
         "Τραπεζούντα"
       ],
@@ -847,7 +963,7 @@
       "source": "Pontos News Watch",
       "published": "Fri, 27 Nov 2026 18:35:54 GMT",
       "base_score": 78,
-      "candidate_score": 88,
+      "candidate_score": 84,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -863,7 +979,7 @@
       "source": "Greek Press Pontic Watch",
       "published": "Fri, 27 Nov 2026 19:58:42 GMT",
       "base_score": 75,
-      "candidate_score": 85,
+      "candidate_score": 81,
       "priority": "High",
       "matched_keywords": [
         "Pontos",
@@ -879,7 +995,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 27 Nov 2026 18:41:00 +0300",
       "base_score": 66,
-      "candidate_score": 76,
+      "candidate_score": 72,
       "priority": "High",
       "matched_keywords": [
         "Trabzon",
@@ -898,7 +1014,7 @@
       "source": "61Saat Trabzon",
       "published": "Fri, 27 Nov 2026 19:45:00 +0300",
       "base_score": 55,
-      "candidate_score": 65,
+      "candidate_score": 61,
       "priority": "Normal",
       "matched_keywords": [
         "Trabzon",
